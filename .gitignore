@@ -1,0 +1,4 @@
+.*  # ignore all dot files (including .gitignore itself)
+*.tar.gz
+*.wav
+*.mp3
