@@ -11,7 +11,7 @@
 @Time Duration:	00:31:36
 @Media:	Patagonia8, audio
 @Comment:	Filename: Patagonia8.cha; Soundfile: Patagonia8.wav
-@Comment:	Language markers:  @s:eng = English, @s:spa = Spanish @s:cym&spa = Undetermined
+@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	phone rings
 @Comment:	voices in the background for about a minute.
 @Comment:	voices in background at around 09:25.
@@ -665,7 +665,7 @@
 %eng:	but you weren't in hospital?
 *VIC:	i ddechrau . %snd:"patagonia8"_789729_790870
 %eng:	to start with
-*VIC:	i ddechrau do ond eh@s:cym&spa pan es i (y)n sâl a phan es i (y)n_ôl wedyn (.) ac o(eddw)n i (y)n cael check_up a ryw bethau felly yn fan (y)na o(eddw)n i (y)n sefyll . %snd:"patagonia8"_791377_798318
+*VIC:	i ddechrau do ond eh@s:cym&spa pan es i (y)n sâl a phan es i (y)n_ôl wedyn (.) ac o(eddw)n i (y)n cael check_up@s:eng a ryw bethau felly yn fan (y)na o(eddw)n i (y)n sefyll . %snd:"patagonia8"_791377_798318
 %eng:	to start with, yes, but  when I got ill and when I went back afterwards and I was having check-ups and things like that, that's where I stayed
 *ELE:	+< ah@s:cym&spa . %snd:"patagonia8"_794453_795599
 *ELE:	+< ie . %snd:"patagonia8"_797059_797549
@@ -697,7 +697,7 @@
 %eng:	well, the same as you
 *ELE:	(y)r un fath â fi . %snd:"patagonia8"_818644_819305
 %eng:	the same as me
-*ELE:	ond lungs neu oedd yna rywbeth arall (.) brae [?] ? %snd:"patagonia8"_819353_823476
+*ELE:	ond lyngs neu oedd yna rywbeth arall (.) brae [?] ? %snd:"patagonia8"_819353_823476
 %eng:	so lungs or was there something else fragile?
 *VIC:	ah@s:cym&spa oedd . %snd:"patagonia8"_823455_824531
 %eng:	ah yes
@@ -855,7 +855,7 @@
 %eng:	because the government's...
 *VIC:	++ llyncu popeth . %snd:"patagonia8"_991400_992354
 %eng:	swallowing everything
-*ELE:	+, yn (.) mynd â ni xxx i (y)r court +.. . %snd:"patagonia8"_992359_996370
+*ELE:	+, yn (.) mynd â ni xxx i (y)r cort +.. . %snd:"patagonia8"_992359_996370
 %eng:	...is taking us [...] to court
 *VIC:	mmhm . %snd:"patagonia8"_996370_997224
 *ELE:	+, o hyd . %snd:"patagonia8"_997224_998685

@@ -16,7 +16,7 @@
 @Time Duration:	00:22:16
 @Media:	Patagonia5, audio
 @Comment:	Filename: Patagonia5.cha; Soundfile: Patagonia5.wav
-@Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:cym&es = Undetermined
+@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Unable to distinguish between CRI and FRA.
 @Warning:	OSE is Margaret Deuchar the first time, but Peredur Davies later on!
 @Comment:	Researcher leaves room
@@ -45,11 +45,11 @@
 %eng:	and be able to do it
 *GLO:	+< mae werthfawr iawn . %snd:"patagonia5"_24063_25055
 %eng:	it's very worthwhile
-*ANA:	diolch i (y)r brenin mawr bod rhywun yn gallu (.) ychydig ond wel +.. . %snd:"patagonia5"_25151_29146
+*ANA:	diolch i (y)r brenin mawr bod rywun yn gallu (.) ychydig ond wel +.. . %snd:"patagonia5"_25151_29146
 %eng:	thanks be to the great king that anyone can, a little bit, but, well...
 *GLO:	+< mm ia . %snd:"patagonia5"_26103_26893
 %eng:	mm yes
-*GLO:	mae rhywun yn er@s:cym&es (..) cofio am rywbeth mae wedi ddysgu pan oedd o (y)n fach yn_dydy (.) ac yn anghofio pethau mae o wedi dysgu rŵan yn hen . %snd:"patagonia5"_29770_39433
+*GLO:	mae rywun yn er@s:cym&es (..) cofio am rywbeth mae wedi ddysgu pan oedd o (y)n fach yn_dydy (.) ac yn anghofio pethau mae o wedi dysgu rŵan yn hen . %snd:"patagonia5"_29770_39433
 %eng:	a person will remember something he's learnt when he was small, won't he, and forget things he's learnt now when old.
 *ANA:	+< yn gallu . %snd:"patagonia5"_29784_30408
 %eng:	able to
@@ -83,7 +83,7 @@
 %eng:	yes
 *ANA:	dw i yn ddiolchgar . %snd:"patagonia5"_70789_72640
 %eng:	I am grateful
-*GLO:	pan mae rhywun yn gweld o (e)i gwmpas bobl (.) yn (.) pasio (.) bywyd trist iawn o achos eu iechyd (.) mae o meddwl bod o wedi cael bendith (.) fawr iawn ar (.) fyw mor hen ac yn gallu (.) gwneud drosto ei hun bopeth . %snd:"patagonia5"_72669_90184
+*GLO:	pan mae rywun yn gweld o (e)i gwmpas bobl (.) yn (.) pasio (.) bywyd trist iawn o achos eu iechyd (.) mae o meddwl bod o wedi cael bendith (.) fawr iawn ar (.) fyw mor hen ac yn gallu (.) gwneud drosto ei hun bopeth . %snd:"patagonia5"_72669_90184
 %eng:	when a person sees people around him living very sad lives because of their health, it means that he has received very great blessings to have lived so long and to be able to do everything for himself.
 *ANA:	ia . %snd:"patagonia5"_90008_90264
 %eng:	yes
@@ -179,7 +179,7 @@
 %eng:	oh, that's something good
 *GLO:	+< +, os bydd gwrdd . %snd:"patagonia5"_174577_175419
 %eng:	if there is a meeting
-*ANA:	a mi fydda i (y)na os bydda i (y)n teimlo (..) rhywbeth yn debyg fel be mae rhywun i fod . %snd:"patagonia5"_176102_181340
+*ANA:	a mi fydda i (y)na os bydda i (y)n teimlo (..) rhywbeth yn debyg fel be mae rywun i fod . %snd:"patagonia5"_176102_181340
 %eng:	and I will be there if I feel anything like one is supposed to
 *GLO:	+< um +.. . %snd:"patagonia5"_178465_179366
 *GLO:	dw i ddim yn gwybod os byddan nhw (y)n cadw gwrdd er@s:cym&es wrth bod er@s:cym&es+.. . %snd:"patagonia5"_181669_185002
@@ -428,7 +428,7 @@
 %eng:	but new friends come.
 *ANA:	mm . %snd:"patagonia5"_490694_491243
 %eng:	mm
-*GLO:	a mae rhywun yn er@s:cym&es +// . %snd:"patagonia5"_493286_494637
+*GLO:	a mae rywun yn er@s:cym&es +// . %snd:"patagonia5"_493286_494637
 %eng:	and a person does...
 *GLO:	mi agosâ i at y gyfeillion newydd (.) heb anghofio (y)r hen gyfeillion . %snd:"patagonia5"_494760_499661
 %eng:	I shall draw near to the new friends, without forgetting the old friends
@@ -507,7 +507,7 @@
 %eng:	from [being] so easy
 *GLO:	mae lot o +// . %snd:"patagonia5"_590756_592025
 %eng:	there's a lot of...
-*GLO:	oedd dim gymaint yr amser hynny o bethau i dynnu rhywun <oedd (y)na mewn> [?] ffordd chwaith nag oedd ? %snd:"patagonia5"_592295_596780
+*GLO:	oedd dim gymaint yr amser hynny o bethau i dynnu rywun <oedd (y)na mewn> [?] ffordd chwaith nag oedd ? %snd:"patagonia5"_592295_596780
 %eng:	there weren't, at that time, so many things to pull you in, were there, in a way, either?
 *ANA:	ah@s:cym&es na . %snd:"patagonia5"_596763_597675
 %eng:	oh, no
@@ -536,7 +536,7 @@
 %eng:	there's still time, sure
 *GLO:	i drio i gael gweld os <gawn ni allu yn> [?] rywle . %snd:"patagonia5"_617701_620672
 %eng:	to try and see if we can be able to somewhere
-*GLO:	mi ddaw rhywun i +.. . %snd:"patagonia5"_620930_622124
+*GLO:	mi ddaw rywun i +.. . %snd:"patagonia5"_620930_622124
 %eng:	someone will come to...
 *ANA:	+" daliwch afael . %snd:"patagonia5"_622556_623900
 %eng:	"hold on"
@@ -709,7 +709,7 @@
 %eng:	well!
 *ANA:	a deud y gwir . %snd:"patagonia5"_809878_810976
 %eng:	to tell the truth
-*ANA:	ond mae (y)na lot o lefydd yn yr Argentina@s:spa (y)ma i fynd (.) (ta)sai rhywun yn [/] yn gallu . %snd:"patagonia5"_811062_815960
+*ANA:	ond mae (y)na lot o lefydd yn yr Argentina@s:spa (y)ma i fynd (.) (ta)sai rywun yn [/] yn gallu . %snd:"patagonia5"_811062_815960
 %eng:	but there are lots of places here in Argentina to go if you're able
 *GLO:	+< wel . %snd:"patagonia5"_811183_811711
 %eng:	well
@@ -742,7 +742,7 @@
 %eng:	that's what I'd like
 *GLO:	oh@s:cym&es wel wel ! %snd:"patagonia5"_843090_844618
 %eng:	oh, well, well!
-*GLO:	hwyrach (ba)sai rhywun yn +.. . %snd:"patagonia5"_844752_846330
+*GLO:	hwyrach (ba)sai rywun yn +.. . %snd:"patagonia5"_844752_846330
 %eng:	maybe if somebody...
 *ANA:	na mae (y)n beryg bod yr amser drosodd i fi beth bynnag . %snd:"patagonia5"_847094_850720
 %eng:	no, I'm afraid the time is up, for me anyway
@@ -1149,13 +1149,13 @@
 %eng:	yes
 *GLO:	yndy . %snd:"patagonia5"_1287062_1287558
 %eng:	yes
-*ANA:	a mae rhywun yn hapus o weld rhywun yn dod oddi draw i [/] i [//] (.) o (y)r hen (..) wlad fach . %snd:"patagonia5"_1288011_1294600
+*ANA:	a mae rywun yn hapus o weld rywun yn dod oddi draw i [/] i [//] (.) o (y)r hen (..) wlad fach . %snd:"patagonia5"_1288011_1294600
 %eng:	and one is happy to see anyone coming over from the old little land
 *ANA:	+, i gael (..) y fraint o siarad . %snd:"patagonia5"_1296267_1299243
 %eng:	to have the privilege of speaking
 *GLO:	ie . %snd:"patagonia5"_1299576_1300050
 %eng:	yes
-*ANA:	achos felly mae rhywun wedi cael ei fagu ynde ? %snd:"patagonia5"_1301108_1303364
+*ANA:	achos felly mae rywun wedi cael ei fagu ynde ? %snd:"patagonia5"_1301108_1303364
 %eng:	because that's how someone's been raised, isn't it
 *GLO:	debyg iawn . %snd:"patagonia5"_1306323_1307027
 %eng:	very likely

@@ -13,7 +13,7 @@
 @Time Duration:	00:23:33
 @Media:	Patagonia4, audio
 @Comment:	Filename: Patagonia4.cha; Soundfile: Patagonia4.wav
-@Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:cym&spa = Undetermined
+@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	background noise over this section from EZK talking to the researchers
 @Comment:	long pause - Víctor has gone to get his Lego.
 *SLA:	wel +.. . %snd:"patagonia4"_107_619
@@ -120,7 +120,7 @@
 *OSE:	xxx . %snd:"patagonia4"_114321_114785
 *SLA:	wyt ti (y)n dal ymlaen gyda (y)r syniad mynd i Playas_Doradas@s:spa ? %snd:"patagonia4"_115159_119068
 %eng:	do you still like the idea of going to Playas Doradas?
-*EZK:	basai (y)n braf mynd yno basai ? %snd:"patagonia4"_120259_121432
+*EZK:	fasai (y)n braf mynd yno fasai ? %snd:"patagonia4"_120259_121432
 %eng:	it'd be nice to go there, wouldn't it?
 *EZK:	am noson bach . %snd:"patagonia4"_121438_122152
 %eng:	for a little night.
@@ -610,7 +610,7 @@
 %com:	???
 *EZK:	os dylen nhw ddod â fo a xx . %snd:"patagonia4"_470274_471932
 %eng:	if they should bring it and [...]
-*EZK:	wel (..) peth gorau basai gwneud rhestr o be sy(dd) gynnon nhw . %snd:"patagonia4"_471936_474518
+*EZK:	wel (..) peth gorau fasai gwneud rhestr o be sy(dd) gynnon nhw . %snd:"patagonia4"_471936_474518
 %eng:	well, the best thing would be to make a list of what they have.
 *EZK:	fydd yna lot o (.) copïau o (y)r Drafod@s:cym&spa er enghraifft . %snd:"patagonia4"_475136_477536
 %eng:	there'll be many copies of Y Drafod (local newspaper) for example.
@@ -620,7 +620,7 @@
 %eng:	and if something's missing [...]
 *SLA:	mm . %snd:"patagonia4"_482364_482982
 %eng:	mm.
-*EZK:	basai (y)n bosib (..) gwneud rywbeth amdano fo wedyn basai ? %snd:"patagonia4"_483205_486282
+*EZK:	fasai (y)n bosib (..) gwneud rywbeth amdano fo wedyn fasai ? %snd:"patagonia4"_483205_486282
 %eng:	it'd be possible to do something about it then, wouldn't it?
 *SLA:	+< bendigedig (...) mm . %snd:"patagonia4"_483205_486282
 %eng:	wonderful.. . mm.
@@ -1251,11 +1251,11 @@
 *SLA:	o@s:cym&spa na mae (y)n (.) rhyw fath o +.. . %snd:"patagonia4"_1029068_1031444
 %eng:	oh no there's some sort of...
 *VTR:	+< xxx . %snd:"patagonia4"_1029108_1030564
-*VTR:	llong_goden gallu +.. . %snd:"patagonia4"_1031465_1033394
+*VTR:	llong goden [* gofod] gallu +.. . %snd:"patagonia4"_1031465_1033394
 %eng:	[...] ship can...
 *SLA:	llong ofod ? %snd:"patagonia4"_1033410_1034541
 %eng:	spaceship?
-*VTR:	ia ond mae (y)n gallu mynd i (y)r moon . %snd:"patagonia4"_1034593_1036913
+*VTR:	ia ond mae (y)n gallu mynd i (y)r moon@s:eng . %snd:"patagonia4"_1034593_1036913
 %eng:	yes but it can go to the moon.
 *SLA:	efo olwynion ? %snd:"patagonia4"_1036935_1038172
 %eng:	with wheels?

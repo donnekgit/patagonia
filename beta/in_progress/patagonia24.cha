@@ -13,7 +13,7 @@
 @Time Duration:	00:30:58
 @Media:	Patagonia24, audio
 @Comment:	Filename: Patagonia24.cha; Soundfile: Patagonia24.wav
-@Comment:	Language markers:  @s:eng = English, @s:spa = Spanish, @s:cym&spa = Undetermined
+@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	Spanish or potentially Spanish passages are marked with $ and need to be checked/transcribed.
 @Comment:	Welsh has been transcribed generally. Whereever something was unclear I left it as xxx rather than guessing in case I made a Welsh guess for something that was really Spanish. So I marked all the xxxs with a $ so they could be checked to see which of them are Spanish and filled in accordingly. Afterwards it may be possible to guess the Welsh for some of the remaing xxxs.
 @Comment:	Contrary to the description file there are three speakers on this recording, the third one keeping in the background. I found it hard to distinguish from which speaker quiet contributions were coming. Do feel free to change the speaker assignments.
@@ -312,7 +312,7 @@
 %eng:	in saw dust, yes, in sawdust.
 *MOR:	aserrín@s:spa dw i (ddi)m cofio [?] +.. . %snd:"patagonia24"_236660_238169
 %eng:	sawdust I remember
-*ADL:	+< cofio [?] (y)n y gaea roi menyn drostyn nhw a roid nhw fewn yn yr (.) aserrín . %snd:"patagonia24"_237815_241257
+*ADL:	+< cofio [?] (y)n y gaea roi menyn drostyn nhw a roid nhw fewn yn yr (.) aserrín@s:spa . %snd:"patagonia24"_237815_241257
 %eng:	I rember in the winter we'd put butter over them and put them in the sawdust.
 *MOR:	<yn yr &aserin> [?] xxx . %snd:"patagonia24"_241123_243318
 %eng:	in the xxx.
