@@ -219,7 +219,7 @@
 %eng:	my sister...
 *ZER:	beth yw +..? 221213_222066
 %eng:	what's..?
-*ZER:	mam_yng_nghyfraith whatever . 223593_225271
+*ZER:	mam yng nghyfraith whatever@s:eng . 223593_225271
 %eng:	mother-in-law, whatever
 *ZER:	[- spa] la [/] la suegra de mi hermana . 226226_228298
 %eng:	my sister's mother in law
@@ -337,7 +337,7 @@
 %eng:	yes, oh do you want to see them?
 *TOY:	oes . 364140_364772
 %eng:	yes
-*TOY:	oes gennot ti fan_hyn ? 364941_365719
+*TOY:	oes gennot ti fan hyn ? 364941_365719
 %eng:	do you have them here?
 *ZER:	ie . 365649_366015
 %eng:	yes
@@ -396,7 +396,7 @@
 *ZER:	cosbi ["] ? 441638_442323
 %eng:	to punish?
 *TOY:	mmhm . 442451_443002
-*ZER:	oh@s:cym&spa cosbi gyda b@s:cym&spa ! 444239_446253
+*ZER:	oh@s:cym&spa cosbi gyda B@s:cym&spa ! 444239_446253
 %eng:	oh, "cosbi" with a b!
 *ZER:	dywedes i cosi ["] (.) trwy (y)r amser . 446892_448697
 %eng:	I always said "cosi" (to itch)
@@ -406,7 +406,7 @@
 %eng:	well, it's not [...]
 *ZER:	&=laugh . 451919_453580
 *ZER:	&=cough . 455227_455842
-*TOY:	mae (y)na te dydd Sadwrn (.) fan_hyn am pump o (y)r gloch . 456184_459366
+*TOY:	mae (y)na te dydd Sadwrn (.) fan hyn am pump o (y)r gloch . 456184_459366
 %eng:	there's a tea here Saturday at five o clock
 *ZER:	ah@s:cym&spa i pwy ? 459630_460472
 %eng:	oh, who for?
@@ -416,7 +416,7 @@
 %eng:	have you heard from Beryl?
 *ZER:	oh@s:cym&spa efallai oedd [/] oedd o tŷ Beryl@s:cym&spa . 467384_469463
 %eng:	oh, maybe it was at Beryl's house
-*ZER:	ydy hi (y)n fan_hyn (.) nawr ? 470645_472253
+*ZER:	ydy hi (y)n fan hyn (.) nawr ? 470645_472253
 %eng:	is she here now?
 *TOY:	yn Esquel@s:cym&spa . 472679_473463
 %eng:	in Esquel
@@ -477,14 +477,14 @@
 %eng:	she's growing, isn't she?
 *ZER:	ti (y)n gallu (.) gweld gyda (y)r +... 526778_529413
 %eng:	you can tell with the...
-*TOY:	fydda i (y)n cau (y)r (.) &=cough lleni . 530445_533016
+*TOY:	fydda i (y)n cau (y)r (.) &=cough llenni . 530445_533016
 %eng:	I'll close the curtains
 *ZER:	ers faint mae hi (y)n byw yna ? 540527_542018
 %eng:	how long has she lived here?
-*TOY:	ers &s (.) y twin towers thing [?] . 543547_547036
-%eng:	since the twin towers thing
+*TOY:	ers &s (.) y Twin_Towers thing@s:eng [?] . 543547_547036
+%eng:	since the Twin Towers thing
 *TOY:	[- spa] desde la caída de las torres gemelas . 547326_549787
-%eng:	since the fall of the Twin_Towers
+%eng:	since the fall of the Twin Towers
 *TOY:	sa i (y)n cofio . 549001_549762
 %eng:	I don't remember
 *ZER:	ooh er@s:cym&spa +... 549876_551223
@@ -496,7 +496,7 @@
 %eng:	yes
 *ZER:	dw meddwl . 560738_561765
 %eng:	I think
-*ZER:	fy brawd_yng_nghyfraith yw e . 565575_567258
+*ZER:	fy brawd yng nghyfraith yw e . 565575_567258
 %eng:	he's my brother-in-law
 *TOY:	ah@s:cym&spa ! 567212_567943
 *ZER:	gwallt coch goch iawn ie &=laugh ? 570266_573354
@@ -565,7 +565,7 @@
 %eng:	well, only now
 *ZER:	dim (.) pan oedd hi (y)n +//. 643070_645400
 %eng:	not when she was...
-*ZER:	achos mae hi fel [/] (..) fel wyth mlynedd yn fan_(y)na trwy (y)r peth yma . 645338_650621
+*ZER:	achos mae hi fel [/] (..) fel wyth mlynedd yn fan (y)na trwy (y)r peth yma . 645338_650621
 %eng:	because she's like eight years there through this thing
 *ZER:	ac (.) mae hi wedi priod(i) a (.) fel (.) tri flynedd yn_ôl (..) dw i meddwl . 650530_658798
 %eng:	and she's got married and, like, three years ago I think
@@ -777,9 +777,9 @@
 %eng:	they're like 3000 ...
 *ZER:	neu rywbeth . 922305_923327
 %eng:	or something
-*ZER:	a dudes i +"/. 923828_924519
+*ZER:	a deudes i +"/. 923828_924519
 %eng:	and I said:
-*ZER:	+" o_k@s:cym&spa now or never . 924507_927416
+*ZER:	+" o_k@s:cym&spa now@s:eng or@s:eng never@s:eng . 924507_927416
 *TOY:	oh@s:cym&spa syniad da . 927849_929415
 %eng:	oh, good idea
 *ZER:	<ie (.) a mae (y)n> [=! yawns] (.) helpu lot yn yr ysgol a popeth achos +/. 930067_935498
@@ -1136,7 +1136,7 @@
 %eng:	it's uncomfortable sometimes
 *ZER:	mmm . 1358580_1358905
 *TOY:	mmm . 1359790_1360115
-*ZER:	ti (dd)im yn gallu symyd . 1360126_1361351
+*ZER:	ti (dd)im yn gallu symud . 1360126_1361351
 %eng:	you can't move
 *TOY:	na (.) dw i fel +"/. 1361394_1362532
 %eng:	no, I'm like
@@ -1371,7 +1371,7 @@
 %eng:	if you don't know English
 *ZER:	miso ["] . 1610521_1611351
 %eng:	[to miss]
-*TOY:	+< er engraifft fel fi . 1610892_1612082
+*TOY:	+< er enghraifft fel fi . 1610892_1612082
 %eng:	for example, like me
 *ZER:	wel <dw i (y)n> [/] <dw i (y)n> [/] dw i (y)n gallu siarad Saesneg ond +/. 1612613_1615435
 %eng:	well, I can speak English, but...
@@ -1483,7 +1483,7 @@
 *ZER:	rhy ifanc ! 1729551_1730695
 %eng:	too young!
 *TOY:	mmm . 1731024_1731256
-*ZER:	fel un_deg_chwech awr +... 1731175_1733526
+*ZER:	fel un_deg chwech awr +... 1731175_1733526
 %eng:	like, sixteen hours...
 *ZER:	wel +... 1733551_1734822
 %eng:	well...
@@ -1527,7 +1527,7 @@
 %eng:	...Llandovery, to school
 *ZER:	i (y)r ysgol ie . 1782721_1783824
 %eng:	to school, yes
-*ZER:	beth sy (y)n bod yn y (...) scholarship (.) beth +/. 1787225_1792391
+*ZER:	beth sy (y)n bod yn y (...) scholarship@s:eng (.) beth +/. 1787225_1792391
 %eng:	what's up with the scholarship, the thing...
 *TOY:	ysgoloriaeth . 1792096_1793054
 %eng:	scholarship
@@ -1631,7 +1631,7 @@
 %eng:	no, it's good I think
 *TOY:	hoffwn i fynd i [/] (..) i ddysgu sut i baentio . 1902103_1906027
 %eng:	I'd like to learn to paint
-*ZER:	o(eddw)n i (y)n clywed roedd y (..) italiano@s:spa (.) Italian whatever +//. 1906716_1912903
+*ZER:	o(eddw)n i (y)n clywed roedd y (..) italiano@s:spa (.) Italian@s:eng whatever@s:eng +//. 1906716_1912903
 %eng:	I heard that Italian...
 *ZER:	dw (ddi)m yn gwybod y xx +/. 1913143_1914107
 %eng:	I don't know the
@@ -1727,7 +1727,7 @@
 %eng:	yes it is very different from us
 *TOY:	pawb yn cael twrci (.) a (.) pwdin Nadolig . 2010872_2014448
 %eng:	everyone having turkey and Christmas pudding
-*TOY:	a fan_hyn dan ni (y)n cael (..) asado@s:spa . 2014919_2018024
+*TOY:	a fan hyn dan ni (y)n cael (..) asado@s:spa . 2014919_2018024
 %eng:	and here we have "asado" [barbecue]
 *ZER:	ie . 2018704_2019313
 %eng:	yes
@@ -1747,7 +1747,7 @@
 %eng:	and Christmas day we have a barbecue [..]
 *ZER:	ie . 2036911_2037212
 %eng:	yes
-*TOY:	fel arfer adre dan ni (y)n cael (.) um (..) swper (..) oer (.) fel (.) cyw iar (.) a pethau fach . 2037202_2047526
+*TOY:	fel arfer adre dan ni (y)n cael (.) um (..) swper (..) oer (.) fel (.) cyw iâr (.) a pethau fach . 2037202_2047526
 %eng:	usually at home we have a cold dinner, like chicken and little things
 *ZER:	+< ie . 2045543_2046101
 %eng:	yes
