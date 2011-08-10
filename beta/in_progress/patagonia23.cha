@@ -12,1330 +12,1329 @@
 @Time Duration:	00:29:54
 @Media:	Patagonia23, audio
 @Comment:	Filename: Patagonia23.cha; Soundfile: Patagonia23.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	occasional noise from passing traffic in distance and other close-range banging and slamming noises occasionally
-@Comment:	pause
-*LCD:	ond dudodd [/] um (..) &=laugh dudodd er@s:cym&spa Julieta_Garcia@s:cym&spa wrtha i bod [/] um (..) er@s:cym&spa (.) bod nhw yn Trelew@s:cym&spa +// . %snd:"patagonia23"_448_13097
+*LCD:	ond dudodd [/] um (..) &=laugh dudodd er@s:cym&spa Julieta_Garcia@s:cym&spa wrtha i bod [/] um (..) er@s:cym&spa (.) bod nhw yn Trelew@s:cym&spa +//. 448_13097
 %eng:	but Julieta Garcia told me they were in Trelew...
-*SUS:	+< xx . %snd:"patagonia23"_5762_6141
-*LCD:	dw i (y)n credu mai fory ddudodd hi . %snd:"patagonia23"_13777_15863
+*SUS:	+< xx . 5762_6141
+*LCD:	dw i (y)n credu mai fory ddudodd hi . 13777_15863
 %eng:	I think she said tomorrow
-*LCD:	ond er@s:cym&spa +// . %snd:"patagonia23"_17198_18195
+*LCD:	ond er@s:cym&spa +//. 17198_18195
 %eng:	but, er...
-*LCD:	achos oedden nhw (y)n teithio (..) heddiw o Buenos_Aires@s:cym&spa (.) yn y bws . %snd:"patagonia23"_18206_25428
+*LCD:	achos oedden nhw (y)n teithio (..) heddiw o Buenos_Aires@s:cym&spa (.) yn y bws . 18206_25428
 %eng:	because they were travelling today from Buenos Aires by bus
-*SUS:	i [/] i lle ? %snd:"patagonia23"_28287_29471
+*SUS:	i [/] i lle ? 28287_29471
 %eng:	to where?
-*LCD:	er@s:cym&spa wel i Porth_Madryn dw i (y)n deall . %snd:"patagonia23"_29655_31841
+*LCD:	er@s:cym&spa wel i Porth_Madryn dw i (y)n deall . 29655_31841
 %eng:	er, well, to Puerto Madryn I believe
-*LCD:	ond mae +// . %snd:"patagonia23"_32099_32430
+*LCD:	ond mae +//. 32099_32430
 %eng:	but...
-*LCD:	achos maen nhw (y)n canu (y)n Porth_Madryn yn (.) Trelew@s:cym&spa ac yn Gaiman@s:cym&spa . %snd:"patagonia23"_32428_36199
+*LCD:	achos maen nhw (y)n canu (y)n Porth_Madryn yn (.) Trelew@s:cym&spa ac yn Gaiman@s:cym&spa . 32428_36199
 %eng:	because they're singing in Puerto Madryn, in Trelew and in Gaiman
-*SUS:	ah@s:cym&spa dw i ddim yn gwybod dim o (e)i hanes o . %snd:"patagonia23"_37719_40087
+*SUS:	ah@s:cym&spa dw i ddim yn gwybod dim o (e)i hanes o . 37719_40087
 %eng:	ah, I don't know anything about its history
-*LCD:	oedd yn côr da iawn . %snd:"patagonia23"_40329_42110
+*LCD:	oedd yn côr da iawn . 40329_42110
 %eng:	it was a very good choir
-*SUS:	dynion neu gymysg ? %snd:"patagonia23"_42622_44009
+*SUS:	dynion neu gymysg ? 42622_44009
 %eng:	male or mixed?
-*LCD:	er@s:cym&spa wel côr cymysg dw i (y)n deall . %snd:"patagonia23"_43987_45971
+*LCD:	er@s:cym&spa wel côr cymysg dw i (y)n deall . 43987_45971
 %eng:	er, well, a mixed choir I believe
-*LCD:	um (.) achos oedd Pamela@s:cym&spa (we)di clywed nhw (y)n Buenos_Aires@s:cym&spa . %snd:"patagonia23"_47166_50862
+*LCD:	um (.) achos oedd Pamela@s:cym&spa (we)di clywed nhw (y)n Buenos_Aires@s:cym&spa . 47166_50862
 %eng:	because Pamela heard them in Buenos Aires
-*SUS:	wel (ba)sen ni (y)n gallu mynd dydd Mercher . %snd:"patagonia23"_51243_53365
+*SUS:	wel (ba)sen ni (y)n gallu mynd dydd Mercher . 51243_53365
 %eng:	well, we could go on Wednesday
-*LCD:	iawn dw i +/ . %snd:"patagonia23"_53588_54329
+*LCD:	iawn dw i +/. 53588_54329
 %eng:	ok, I...
-*SUS:	+< i [/] i Gaiman@s:cym&spa maen nhw xxx +/? %snd:"patagonia23"_53790_55294
+*SUS:	+< i [/] i Gaiman@s:cym&spa maen nhw xxx +/? 53790_55294
 %eng:	to Gaiman they're...?
-*LCD:	+< dw i (y)n meddwl mynd felly . %snd:"patagonia23"_54878_56994
+*LCD:	+< dw i (y)n meddwl mynd felly . 54878_56994
 %eng:	so I'm thinking of going
-*LCD:	er@s:cym&spa +.. . %snd:"patagonia23"_57952_58426
-*SUS:	peth neis . %snd:"patagonia23"_59018_59717
+*LCD:	er@s:cym&spa +... 57952_58426
+*SUS:	peth neis . 59018_59717
 %eng:	nice
-*LCD:	xxx . %snd:"patagonia23"_59423_60671
-*LCD:	dim <gwybod pwy os> [?] bydd (y)na rywun arall neu xx (.) cynnig . %snd:"patagonia23"_61143_66780
+*LCD:	xxx . 59423_60671
+*LCD:	dim <gwybod pwy os> [?] bydd (y)na rywun arall neu xx (.) cynnig . 61143_66780
 %eng:	don't know who, whether there'll be anyone else or [...] to offer
-*LCD:	mae (y)na le i bedwar ta beth neu pump . %snd:"patagonia23"_64570_66997
+*LCD:	mae (y)na le i bedwar ta beth neu pump . 64570_66997
 %eng:	there's space for four, is it, or five?
-*LCD:	(di)m_ond i Gaiman@s:cym&spa dan ni <mynd (y)na> [?] felly . %snd:"patagonia23"_67175_69175
+*LCD:	(di)m_ond i Gaiman@s:cym&spa dan ni <mynd (y)na> [?] felly . 67175_69175
 %eng:	so we're only going to Gaiman
-*SUS:	mae (.) y dynes xxx yn mentro dod . %snd:"patagonia23"_71207_74962
+*SUS:	mae (.) y dynes xxx yn mentro dod . 71207_74962
 %eng:	the [...] lady is daring to come
-*LCD:	ie achos Ricky@s:cym&spa dydy [?] dw i (y)n credu bod wedi clywed swn . %snd:"patagonia23"_75331_78903
+*LCD:	ie achos Ricky@s:cym&spa dydy [?] dw i (y)n credu bod wedi clywed swn . 75331_78903
 %eng:	yes, because Ricky, isn't it, I think heard a sound
-*SUS:	dw i (y)n xx +/ . %snd:"patagonia23"_80186_80661
+*SUS:	dw i (y)n xx +/. 80186_80661
 %eng:	I...
-*LCD:	+< mae [?] Josephine codi [//] cododd e . %snd:"patagonia23"_80298_82186
+*LCD:	+< mae [?] Josephine codi [//] cododd e . 80298_82186
 %eng:	Josephine got him/it up
-*LCD:	achos mae xx wedi clywed swn <yn yr> [/] er@s:cym&spa (..) yn yr ystafell wely . %snd:"patagonia23"_82179_87621
+*LCD:	achos mae xx wedi clywed swn <yn yr> [/] er@s:cym&spa (..) yn yr ystafell wely . 82179_87621
 %eng:	because she [...] heard a sound in the bedroom
-*LCD:	ac oedd hi (y)n meddwl bod xx (we)di codi efallai ! %snd:"patagonia23"_87607_90386
+*LCD:	ac oedd hi (y)n meddwl bod xx (we)di codi efallai ! 87607_90386
 %eng:	and she thought that [...] might have got up!
-*SUS:	ah@s:cym&spa mae [//] a mae hi [?] (y)n gwrando cwbl &b dan ni xx +/ . %snd:"patagonia23"_91389_94003
+*SUS:	ah@s:cym&spa mae [//] a mae hi [?] (y)n gwrando cwbl &b dan ni xx +/. 91389_94003
 %eng:	ah, and she's listening to everything we...
-*LCD:	na na na na na &wa ! %snd:"patagonia23"_93889_97623
+*LCD:	na na na na na &wa ! 93889_97623
 %eng:	no, no, no
-*LCD:	meddwl o(eddw)n i bod hi (we)di clywed swn xx +/ . %snd:"patagonia23"_95265_97671
+*LCD:	meddwl o(eddw)n i bod hi (we)di clywed swn xx +/. 95265_97671
 %eng:	I thought that she'd heard a sound
-*SUS:	+< xx . %snd:"patagonia23"_97132_97783
-*LCD:	ie . %snd:"patagonia23"_97863_98225
+*SUS:	+< xx . 97132_97783
+*LCD:	ie . 97863_98225
 %eng:	yes
-*LCD:	meddwl wneud ia . %snd:"patagonia23"_99448_100333
+*LCD:	meddwl wneud ia . 99448_100333
 %eng:	thinking of doing, yes
-*LCD:	achos mi gododd wan xx edrych os oedden ni xxx meddwl bod rywbeth (we)di digwydd efallai . %snd:"patagonia23"_100285_105549
+*LCD:	achos mi gododd wan xx edrych os oedden ni xxx meddwl bod rywbeth (we)di digwydd efallai . 100285_105549
 %eng:	because she got up now [...] see whether we [...] thinking something might have happened
-*SUS:	a mae hi wedi mynd ? %snd:"patagonia23"_106007_107506
+*SUS:	a mae hi wedi mynd ? 106007_107506
 %eng:	and she's gone?
-*LCD:	yndy mi [?] aeth xx <dydd Iau> [//] bore dydd Iau . %snd:"patagonia23"_108874_112960
+*LCD:	yndy mi [?] aeth xx <dydd Iau> [//] bore dydd Iau . 108874_112960
 %eng:	yes, she went on [...] Thursday morning
-*SUS:	ah@s:cym&spa wythnos diwetha ! %snd:"patagonia23"_113761_115297
+*SUS:	ah@s:cym&spa wythnos diwetha ! 113761_115297
 %eng:	ah, last week!
-*LCD:	ie . %snd:"patagonia23"_115420_115953
+*LCD:	ie . 115420_115953
 %eng:	yes
-*LCD:	achos (.) oedd hi (y)n mynd . %snd:"patagonia23"_116730_118387
+*LCD:	achos (.) oedd hi (y)n mynd . 116730_118387
 %eng:	because she was going
-*LCD:	a mae (we)di bod yn helpu efo (y)r (..) er@s:cym&spa (.) ffestifal@s:cym&spa xxx . %snd:"patagonia23"_118724_125541
+*LCD:	a mae (we)di bod yn helpu efo (y)r (..) er@s:cym&spa (.) ffestifal@s:cym&spa xxx . 118724_125541
 %eng:	and she's been helping with the festival [...]
-*LCD:	oedd gyda (y)r beirniad (..) Sbaeneg (.) yn Buenos_Aires@s:cym&spa (.) trwy (y)r wythnos (.) diwetha . %snd:"patagonia23"_125899_134257
+*LCD:	oedd gyda (y)r beirniad (..) Sbaeneg (.) yn Buenos_Aires@s:cym&spa (.) trwy (y)r wythnos (.) diwetha . 125899_134257
 %eng:	she was with the Spanish judge in Buenos Aires all last week
-*SUS:	+< mmhm . %snd:"patagonia23"_128553_129193
-*LCD:	ie ond mi aeth xxx +/ . %snd:"patagonia23"_136177_138385
+*SUS:	+< mmhm . 128553_129193
+*LCD:	ie ond mi aeth xxx +/. 136177_138385
 %eng:	yes, but she went [...]...
-*SUS:	+< wnaeth [?] xxx hedfan o fan hyn i Buenos_Aires@s:cym&spa xx cyn mynd adre . %snd:"patagonia23"_136975_141103
+*SUS:	+< wnaeth [?] xxx hedfan o fan hyn i Buenos_Aires@s:cym&spa xx cyn mynd adre . 136975_141103
 %eng:	[...] flew from here to Buenos Aires before going home
-*LCD:	+< &saires . %snd:"patagonia23"_139402_140154
-*LCD:	bore (y)ma oedd hi (y)n hedfan o Buenos_Aires@s:cym&spa i Mendoza@s:cym&spa . %snd:"patagonia23"_141173_144763
+*LCD:	+< &saires . 139402_140154
+*LCD:	bore (y)ma oedd hi (y)n hedfan o Buenos_Aires@s:cym&spa i Mendoza@s:cym&spa . 141173_144763
 %eng:	this morning she was flying from Buenos Aires to Mendoza
-*SUS:	aha@s:cym&spa . %snd:"patagonia23"_144795_145360
-*LCD:	wel achos oedd o (y)n gorffen ddoe . %snd:"patagonia23"_147364_149151
+*SUS:	aha@s:cym&spa . 144795_145360
+*LCD:	wel achos oedd o (y)n gorffen ddoe . 147364_149151
 %eng:	well, because it finished yesterday
-*LCD:	felly mae (y)r côr yna (we)di [/] wedi bod yn y ffestifal@s:cym&spa yna . %snd:"patagonia23"_149164_152892
+*LCD:	felly mae (y)r côr yna (we)di [/] wedi bod yn y ffestifal@s:cym&spa yna . 149164_152892
 %eng:	so that choir was at that festival
-*SUS:	ie . %snd:"patagonia23"_153264_153723
+*SUS:	ie . 153264_153723
 %eng:	yes
-*LCD:	côr xx . %snd:"patagonia23"_153698_154786
+*LCD:	côr xx . 153698_154786
 %eng:	[...] choir
-*SUS:	ah@s:cym&spa ! %snd:"patagonia23"_154951_155506
-*LCD:	ac maen nhw (y)n dod wedyn (.) i_lawr ffordd hyn . %snd:"patagonia23"_155449_158996
+*SUS:	ah@s:cym&spa ! 154951_155506
+*LCD:	ac maen nhw (y)n dod wedyn (.) i_lawr ffordd hyn . 155449_158996
 %eng:	and then they're coming down this way
-*SUS:	+< aha@s:cym&spa . %snd:"patagonia23"_157129_157742
-*LCD:	aha@s:cym&spa . %snd:"patagonia23"_161498_162031
-*SUS:	bydd raid i ni fynd i [/] &w i (.) gwrando . %snd:"patagonia23"_162029_164189
+*SUS:	+< aha@s:cym&spa . 157129_157742
+*LCD:	aha@s:cym&spa . 161498_162031
+*SUS:	bydd raid i ni fynd i [/] &w i (.) gwrando . 162029_164189
 %eng:	we'll have to go and listen
-*LCD:	++ arnyn nhw . %snd:"patagonia23"_164397_165117
+*LCD:	++ arnyn nhw . 164397_165117
 %eng:	...to them
-*SUS:	arnyn nhw . %snd:"patagonia23"_165320_166040
+*SUS:	arnyn nhw . 165320_166040
 %eng:	to them
-*LCD:	ie . %snd:"patagonia23"_167091_167518
+*LCD:	ie . 167091_167518
 %eng:	yes
-*LCD:	xx . %snd:"patagonia23"_168126_168462
-*SUS:	a beth (y)dy hanes er@s:cym&spa Raina@s:cym&spa ? %snd:"patagonia23"_170081_171767
+*LCD:	xx . 168126_168462
+*SUS:	a beth (y)dy hanes er@s:cym&spa Raina@s:cym&spa ? 170081_171767
 %eng:	and what's the story with Raina?
-*SUS:	oeddet ti (y)n deud +.. . %snd:"patagonia23"_171756_172962
+*SUS:	oeddet ti (y)n deud +... 171756_172962
 %eng:	you were saying...
-*LCD:	wel er@s:cym&spa oedd [/] (.) oedd hi (we)di cael llythyr (.) i wneud ymweliad . %snd:"patagonia23"_174246_180305
+*LCD:	wel er@s:cym&spa oedd [/] (.) oedd hi (we)di cael llythyr (.) i wneud ymweliad . 174246_180305
 %eng:	well, she'd had a letter to do a visit
-*LCD:	ond dw i (ddi)m gwybod os gaeth hi siarad efo nhw <ynglŷn â> [?] +.. . %snd:"patagonia23"_180303_184230
+*LCD:	ond dw i (ddi)m gwybod os gaeth hi siarad efo nhw <ynglŷn â> [?] +... 180303_184230
 %eng:	but I don't know whether she got to speak to them about...
-*SUS:	ymweliad ? %snd:"patagonia23"_185050_185866
+*SUS:	ymweliad ? 185050_185866
 %eng:	visit?
-*SUS:	ymweliad xx +/ . %snd:"patagonia23"_185866_186549
+*SUS:	ymweliad xx +/. 185866_186549
 %eng:	visit [...]
-*LCD:	ymweliad entrevista@s:spa . %snd:"patagonia23"_186237_187587
+*LCD:	ymweliad entrevista@s:spa . 186237_187587
 %eng:	interview visit
-*SUS:	entrevis(ta)@s:spa aha@s:cym&spa . %snd:"patagonia23"_187358_188467
+*SUS:	entrevis(ta)@s:spa aha@s:cym&spa . 187358_188467
 %eng:	interview, aha!
-*LCD:	hmm@s:cym&spa . %snd:"patagonia23"_188216_188686
-*LCD:	mae ymweliad es@s:spa visita@s:spa . %snd:"patagonia23"_191654_194193
+*LCD:	hmm@s:cym&spa . 188216_188686
+*LCD:	mae ymweliad es@s:spa visita@s:spa . 191654_194193
 %eng:	"ymweliad" means visiting
-*LCD:	er@s:cym&spa entrevist(a)@s:spa [/] entrevista@s:spa (y)dy rywbeth arall . %snd:"patagonia23"_196149_199286
+*LCD:	er@s:cym&spa entrevist(a)@s:spa [/] entrevista@s:spa (y)dy rywbeth arall . 196149_199286
 %eng:	er, interview is something else
-*SUS:	+< xxx [?] . %snd:"patagonia23"_196742_197542
-*LCD:	dw i ddim yn cofio rŵan . %snd:"patagonia23"_199618_200924
+*SUS:	+< xxx [?] . 196742_197542
+*LCD:	dw i ddim yn cofio rŵan . 199618_200924
 %eng:	I don't remember now
-*LCD:	er@s:cym&spa +.. . %snd:"patagonia23"_201998_202985
-*LCD:	[- spa] sí . %snd:"patagonia23"_206095_206442
+*LCD:	er@s:cym&spa +... 201998_202985
+*LCD:	[- spa] sí . 206095_206442
 %eng:	yes
-*LCD:	ymwelwyr (.) turistas@s:spa visitantes@s:spa . %snd:"patagonia23"_207009_210289
+*LCD:	ymwelwyr (.) turistas@s:spa visitantes@s:spa . 207009_210289
 %eng:	visitors, tourist visitors.
-*LCD:	aeth fam i [/] i (y)r er@s:cym&spa +// . %snd:"patagonia23"_217699_219467
+*LCD:	aeth fam i [/] i (y)r er@s:cym&spa +//. 217699_219467
 %eng:	mother went to, er...
-*LCD:	do oeddech chi (ddi)m yn +/ . %snd:"patagonia23"_219467_220757
+*LCD:	do oeddech chi (ddi)m yn +/. 219467_220757
 %eng:	yes, you weren't...
-*SUS:	+< i (y)r eisteddfod ? %snd:"patagonia23"_220352_221371
+*SUS:	+< i (y)r eisteddfod ? 220352_221371
 %eng:	...to the eisteddfod
-*SUS:	do tan xx +.. . %snd:"patagonia23"_221340_222955
+*SUS:	do tan xx +... 221340_222955
 %eng:	yes, until [...]
-*LCD:	dydd Gwener ? %snd:"patagonia23"_223003_223723
+*LCD:	dydd Gwener ? 223003_223723
 %eng:	Friday?
-*SUS:	am dri o (y)r gloch yr er@s:cym&spa (.) bore <&n aethon i> [?] gwe(ly) [//] i (ei)n gwlâu . %snd:"patagonia23"_223758_227507
+*SUS:	am dri o (y)r gloch yr er@s:cym&spa (.) bore <&n aethon i> [?] gwe(ly) [//] i (ei)n gwlâu . 223758_227507
 %eng:	at 3AM we went to our beds
-*SUS:	na gyrraedd i fan hyn ! %snd:"patagonia23"_227514_228708
+*SUS:	na gyrraedd i fan hyn ! 227514_228708
 %eng:	no, arrived here!
-*SUS:	am pedwar i (ei)n gwlâu . %snd:"patagonia23"_228820_230250
+*SUS:	am pedwar i (ei)n gwlâu . 228820_230250
 %eng:	at 4 to our beds
-*LCD:	dydd Sadwrn ? %snd:"patagonia23"_230611_231918
+*LCD:	dydd Sadwrn ? 230611_231918
 %eng:	Saturday?
-*SUS:	dydd Sadwrn [=! laughs] ! %snd:"patagonia23"_231913_233305
+*SUS:	dydd Sadwrn [=! laughs] ! 231913_233305
 %eng:	Saturday!
-*LCD:	ia . %snd:"patagonia23"_234781_235299
+*LCD:	ia . 234781_235299
 %eng:	yes
-*SUS:	a oedd Nita@s:cym&spa mynd i gael swper i rywle arall . %snd:"patagonia23"_235752_238334
+*SUS:	a oedd Nita@s:cym&spa mynd i gael swper i rywle arall . 235752_238334
 %eng:	and Nita was going to have dinner somewhere else
-*SUS:	dal ymlaen . %snd:"patagonia23"_238582_239254
+*SUS:	dal ymlaen . 238582_239254
 %eng:	holding on
-*LCD:	aethoch ymlaen ? %snd:"patagonia23"_239241_240425
+*LCD:	aethoch ymlaen ? 239241_240425
 %eng:	did you go on?
-*LCD:	wel [?] ! %snd:"patagonia23"_240408_240755
+*LCD:	wel [?] ! 240408_240755
 %eng:	well!
-*SUS:	na na aethon ni . %snd:"patagonia23"_240760_241838
+*SUS:	na na aethon ni . 240760_241838
 %eng:	no, no, we went
-*LCD:	+< na ? %snd:"patagonia23"_241236_241673
+*LCD:	+< na ? 241236_241673
 %eng:	no?
-*SUS:	na oedda fi <ar brys dod &r> [?] adre . %snd:"patagonia23"_241828_243961
+*SUS:	na oedda fi <ar brys dod &r> [?] adre . 241828_243961
 %eng:	no, I was in a rush to come home
-*LCD:	ie . %snd:"patagonia23"_245171_245885
+*LCD:	ie . 245171_245885
 %eng:	yes
-*SUS:	na fe [/] fe oedd hi efo &m [//] trwy (y)r pnawn efo Laura@s:cym&spa (..) ac Anwen@s:cym&spa . %snd:"patagonia23"_246154_252181
+*SUS:	na fe [/] fe oedd hi efo &m [//] trwy (y)r pnawn efo Laura@s:cym&spa (..) ac Anwen@s:cym&spa . 246154_252181
 %eng:	no, all afternoon she was with Laura, and Anwen
-*LCD:	ah@s:cym&spa . %snd:"patagonia23"_252588_253084
-*SUS:	yn eistedd efo nhw . %snd:"patagonia23"_253127_254332
+*LCD:	ah@s:cym&spa . 252588_253084
+*SUS:	yn eistedd efo nhw . 253127_254332
 %eng:	sitting with them
-*LCD:	ie achos basai hi (y)n gallu eistedd tu blaen . %snd:"patagonia23"_255876_258863
+*LCD:	ie achos basai hi (y)n gallu eistedd tu blaen . 255876_258863
 %eng:	yes because she'd be able to sit at the front
-*LCD:	ond lle +/? %snd:"patagonia23"_258925_259485
+*LCD:	ond lle +/? 258925_259485
 %eng:	but where...?
-*SUS:	na mae dim bodlon . %snd:"patagonia23"_259171_260845
+*SUS:	na mae dim bodlon . 259171_260845
 %eng:	na, she's not willing to
-*LCD:	+< ah@s:cym&spa dim bodlon . %snd:"patagonia23"_260781_262024
+*LCD:	+< ah@s:cym&spa dim bodlon . 260781_262024
 %eng:	ah, not willing
-*SUS:	+< xx hi dim yn hen . %snd:"patagonia23"_260824_262067
+*SUS:	+< xx hi dim yn hen . 260824_262067
 %eng:	[...] she's not old
-*LCD:	ah@s:cym&spa . %snd:"patagonia23"_262237_263027
-*SUS:	mae dim yn hen . %snd:"patagonia23"_264030_265327
+*LCD:	ah@s:cym&spa . 262237_263027
+*SUS:	mae dim yn hen . 264030_265327
 %eng:	she isn't old
-*LCD:	wel +.. . %snd:"patagonia23"_266255_266922
+*LCD:	wel +... 266255_266922
 %eng:	well
-*SUS:	mae (y)n teimlo fel (yn)a . %snd:"patagonia23"_267429_268879
+*SUS:	mae (y)n teimlo fel (yn)a . 267429_268879
 %eng:	she feels like that
-*SUS:	be wnawn ni [?] ? %snd:"patagonia23"_269269_269925
+*SUS:	be wnawn ni [?] ? 269269_269925
 %eng:	what will we do?
-*LCD:	ia (e)fallai basai (.) y beth (ba)sen ni (y)n gallu wneud ydy roid cadair gwahanol iddyn nhw . %snd:"patagonia23"_269999_276533
+*LCD:	ia (e)fallai basai (.) y beth (ba)sen ni (y)n gallu wneud ydy roid cadair gwahanol iddyn nhw . 269999_276533
 %eng:	yes, maybe what we could do would be to give them a different chair
-*LCD:	roid un o (y)r cadeiriau esmwyth (y)na (.) lle maen nhw yn eistedd . %snd:"patagonia23"_278174_282713
+*LCD:	roid un o (y)r cadeiriau esmwyth (y)na (.) lle maen nhw yn eistedd . 278174_282713
 %eng:	put one of those smooth chairs where they sit
-*SUS:	+< mm@s:cym&spa . %snd:"patagonia23"_280649_281070
-*LCD:	ond wrth_gwrs +.. . %snd:"patagonia23"_283906_285261
+*SUS:	+< mm@s:cym&spa . 280649_281070
+*LCD:	ond wrth_gwrs +... 283906_285261
 %eng:	but of course...
-*SUS:	ofn mae rywbeth digwydd iddi hi hunan . %snd:"patagonia23"_286150_289110
+*SUS:	ofn mae rywbeth digwydd iddi hi hunan . 286150_289110
 %eng:	afraid of something happening to herself
-*SUS:	(dy)dy neb xxx yn ei yml . %snd:"patagonia23"_289423_292858
+*SUS:	(dy)dy neb xxx yn ei yml . 289423_292858
 %eng:	no one is [...] next to her
-*LCD:	+< neb +// . %snd:"patagonia23"_291205_291551
+*LCD:	+< neb +//. 291205_291551
 %eng:	no one...
-*LCD:	+< ie efo +/ . %snd:"patagonia23"_291535_292453
+*LCD:	+< ie efo +/. 291535_292453
 %eng:	yes, with...
-*LCD:	ie . %snd:"patagonia23"_293006_293385
+*LCD:	ie . 293006_293385
 %eng:	yes
-*LCD:	hey@s:cym&spa fasai hwnna (y)n rywbeth (.) (ba)swn i (y)n gallu deud wrth [/] (..) wrth y pwyllgor i gael gweld er@s:cym&spa +.. . %snd:"patagonia23"_294513_301691
+*LCD:	hey@s:cym&spa fasai hwnna (y)n rywbeth (.) (ba)swn i (y)n gallu deud wrth [/] (..) wrth y pwyllgor i gael gweld er@s:cym&spa +... 294513_301691
 %eng:	hey, that's something we could tell the committee, to find out...
-*SUS:	mae (y)na gadeiriau wahanol +/? %snd:"patagonia23"_301849_303571
+*SUS:	mae (y)na gadeiriau wahanol +/? 301849_303571
 %eng:	there are different chairs...?
-*LCD:	+< achos (dy)dy bobl +/ . %snd:"patagonia23"_302414_303523
+*LCD:	+< achos (dy)dy bobl +/. 302414_303523
 %eng:	because people don't...
-*LCD:	wel oes tu blaen . %snd:"patagonia23"_303777_305169
+*LCD:	wel oes tu blaen . 303777_305169
 %eng:	well yes, in front
-*SUS:	ah ! %snd:"patagonia23"_304979_305518
-*LCD:	mae (y)na cadeiriau (y)na +.. . %snd:"patagonia23"_305446_307404
+*SUS:	ah ! 304979_305518
+*LCD:	mae (y)na cadeiriau (y)na +... 305446_307404
 %eng:	there are chairs there...
-*LCD:	maen nhw mwy esmwyth . %snd:"patagonia23"_308566_309926
+*LCD:	maen nhw mwy esmwyth . 308566_309926
 %eng:	they're smoother
-*SUS:	aha@s:cym&spa . %snd:"patagonia23"_309996_310646
-*LCD:	ond <does dim> [/] er@s:cym&spa (.) does dim breichiau gyda nhw dw (ddi)m yn credu . %snd:"patagonia23"_312978_317453
+*SUS:	aha@s:cym&spa . 309996_310646
+*LCD:	ond <does dim> [/] er@s:cym&spa (.) does dim breichiau gyda nhw dw (ddi)m yn credu . 312978_317453
 %eng:	but they don't have arms, I don't think
-*SUS:	na mae (.) byth wedi bodlon mynd (y)na . %snd:"patagonia23"_321230_323715
+*SUS:	na mae (.) byth wedi bodlon mynd (y)na . 321230_323715
 %eng:	no, she's never been willing to go there
-*LCD:	+< xx . %snd:"patagonia23"_321635_322035
-*LCD:	na achos o(eddw)n i (y)n gweld Elbertina@s:cym&spa [?] chwaith . %snd:"patagonia23"_324379_326731
+*LCD:	+< xx . 321635_322035
+*LCD:	na achos o(eddw)n i (y)n gweld Elbertina@s:cym&spa [?] chwaith . 324379_326731
 %eng:	no because I saw Elbertina either
-*SUS:	a (.) Orlin@s:cym&spa chwaith . %snd:"patagonia23"_326755_328264
+*SUS:	a (.) Orlin@s:cym&spa chwaith . 326755_328264
 %eng:	and Orlin either
-*LCD:	na a Cai@s:cym&spa chwaith . %snd:"patagonia23"_328288_331206
+*LCD:	na a Cai@s:cym&spa chwaith . 328288_331206
 %eng:	no, and Cai either
-*SUS:	ah@s:cym&spa na ? %snd:"patagonia23"_331009_331878
+*SUS:	ah@s:cym&spa na ? 331009_331878
 %eng:	ah, no?
-*LCD:	+< <oedden nhw> [/] oedden nhw fan (y)na (.) xxx [?] (.) i ddeud y gwir . %snd:"patagonia23"_331113_335567
+*LCD:	+< <oedden nhw> [/] oedden nhw fan (y)na (.) xxx [?] (.) i ddeud y gwir . 331113_335567
 %eng:	they were there [...] actually
-*LCD:	ond er@s:cym&spa (..) mae rei yn mynd dydyn xxx +/? %snd:"patagonia23"_336931_340614
+*LCD:	ond er@s:cym&spa (..) mae rei yn mynd dydyn xxx +/? 336931_340614
 %eng:	but, er, some go don't they [...] ?
-*SUS:	dw i meddwl fasai (y)n iawn os fyddai mam dim yn weld yn iawn . %snd:"patagonia23"_340433_343270
+*SUS:	dw i meddwl fasai (y)n iawn os fyddai mam dim yn weld yn iawn . 340433_343270
 %eng:	I think it would be alright if mother can't see properly
-*SUS:	ond mae dim yn clywed yn iawn . %snd:"patagonia23"_343309_344701
+*SUS:	ond mae dim yn clywed yn iawn . 343309_344701
 %eng:	but she can't hear properly
-*LCD:	ie . %snd:"patagonia23"_345524_345918
+*LCD:	ie . 345524_345918
 %eng:	yes
-*SUS:	basen +.. . %snd:"patagonia23"_345945_346532
+*SUS:	basen +... 345945_346532
 %eng:	we'd...
-*LCD:	ie achos um <wyt ti> [//] (.) os wyt ti dros wyth_deg <wyt ti (y)n> [/] (..) wyt ti (y)n [/] (..) yn cael cynnig er@s:cym&spa +.. . %snd:"patagonia23"_346888_356510
+*LCD:	ie achos um <wyt ti> [//] (.) os wyt ti dros wyth_deg <wyt ti (y)n> [/] (..) wyt ti (y)n [/] (..) yn cael cynnig er@s:cym&spa +... 346888_356510
 %eng:	yes because if you're over 18 you get an offer...
-*LCD:	ond wrth_gwrs ie dan ni ddim yn gallu roid <i bobl> [//] i rywun arall eistedd gyda nhw ti (y)n gweld ? %snd:"patagonia23"_359040_365166
+*LCD:	ond wrth_gwrs ie dan ni ddim yn gallu roid <i bobl> [//] i rywun arall eistedd gyda nhw ti (y)n gweld ? 359040_365166
 %eng:	but of course, yes, we can't put it for anyone else to sit with them, you see
-*SUS:	ah@s:cym&spa ! %snd:"patagonia23"_365253_366170
-*LCD:	mae raid iddyn nhw eistedd +/ . %snd:"patagonia23"_366454_367708
+*SUS:	ah@s:cym&spa ! 365253_366170
+*LCD:	mae raid iddyn nhw eistedd +/. 366454_367708
 %eng:	they have to sit...
-*SUS:	ah@s:cym&spa a mae (y)r llefydd xxx yn wag ? %snd:"patagonia23"_366753_368945
+*SUS:	ah@s:cym&spa a mae (y)r llefydd xxx yn wag ? 366753_368945
 %eng:	ah, and the [...] places are empty?
-*LCD:	wel felly mae efo rei . %snd:"patagonia23"_370568_372397
+*LCD:	wel felly mae efo rei . 370568_372397
 %eng:	well, that's how it is with some
-*LCD:	mae pobl yn dod weithiau ac yn eistedd arnyn nhw bum munud ac yn mynd wedyn rywle arall a xxx +.. . %snd:"patagonia23"_372396_377945
+*LCD:	mae pobl yn dod weithiau ac yn eistedd arnyn nhw bum munud ac yn mynd wedyn rywle arall a xxx +... 372396_377945
 %eng:	people sometimes come and sit on them for five minutes and then go somewhere else and [...]...
-*SUS:	+< ie ie . %snd:"patagonia23"_377412_377945
+*SUS:	+< ie ie . 377412_377945
 %eng:	yes, yes
-*LCD:	achos ti (y)n gweld um mae un ochr <mae (y)r er@s:cym&spa awdurdodau> [//] &m (..) mae (y)r seddi i (y)r awdurdodau . %snd:"patagonia23"_379460_386654
+*LCD:	achos ti (y)n gweld um mae un ochr <mae (y)r er@s:cym&spa awdurdodau> [//] &m (..) mae (y)r seddi i (y)r awdurdodau . 379460_386654
 %eng:	because you see, um, on one side the seats are for the authorities
-*SUS:	hm@s:cym&spa . %snd:"patagonia23"_386108_386412
-*LCD:	ac mae <yr un> [/] (y)r un math o seddi ydyn nhw . %snd:"patagonia23"_387309_389997
+*SUS:	hm@s:cym&spa . 386108_386412
+*LCD:	ac mae <yr un> [/] (y)r un math o seddi ydyn nhw . 387309_389997
 %eng:	and they're the same kind of seats
-*LCD:	<nhw (y)n> [?] bach mwy cyfforddus <na (y)r> [/] (.) na (y)r (.) cadeiriau plastig (.) gwyn (y)na . %snd:"patagonia23"_389957_396779
+*LCD:	<nhw (y)n> [?] bach mwy cyfforddus <na (y)r> [/] (.) na (y)r (.) cadeiriau plastig (.) gwyn (y)na . 389957_396779
 %eng:	they're a little comfier than those white plastic chairs
-*LCD:	neu dach chi (y)n dod â cwshin . %snd:"patagonia23"_397567_399215
+*LCD:	neu dach chi (y)n dod â cwshin . 397567_399215
 %eng:	or you bring a cushion
-*SUS:	&=laugh . %snd:"patagonia23"_399285_399930
-*LCD:	mae rei yn dod â cwshin <i ffiesta@s:cym&spa> [?] . %snd:"patagonia23"_400680_402419
+*SUS:	&=laugh . 399285_399930
+*LCD:	mae rei yn dod â cwshin <i ffiesta@s:cym&spa> [?] . 400680_402419
 %eng:	some do bring a cushion to festivals
-*SUS:	+< ie . %snd:"patagonia23"_401564_401932
+*SUS:	+< ie . 401564_401932
 %eng:	yes
-*SUS:	i fod fath xx ? %snd:"patagonia23"_404272_406144
+*SUS:	i fod fath xx ? 404272_406144
 %eng:	to be a kind of [...]
-*LCD:	ie . %snd:"patagonia23"_406747_407286
+*LCD:	ie . 406747_407286
 %eng:	yes
-*SUS:	achos aethon ni am (..) dau o (y)r gloch y diwr(nod) (hy)nny . %snd:"patagonia23"_409577_413327
+*SUS:	achos aethon ni am (..) dau o (y)r gloch y diwr(nod) (hy)nny . 409577_413327
 %eng:	because we went at 2 o clock that day
-*SUS:	erbyn dau +// . %snd:"patagonia23"_413502_414222
+*SUS:	erbyn dau +//. 413502_414222
 %eng:	before two
-*SUS:	na hanner wedi dau aethon ni . %snd:"patagonia23"_414212_415540
+*SUS:	na hanner wedi dau aethon ni . 414212_415540
 %eng:	no, we went at half past two
-*LCD:	+< na [?] . %snd:"patagonia23"_414382_414740
+*LCD:	+< na [?] . 414382_414740
 %eng:	no
-*LCD:	ah@s:cym&spa . %snd:"patagonia23"_415848_416270
-*LCD:	<oedden nhw> [//] oedden ni wedi dechrau am hanner awr (we)di dau ? %snd:"patagonia23"_416270_418515
+*LCD:	ah@s:cym&spa . 415848_416270
+*LCD:	<oedden nhw> [//] oedden ni wedi dechrau am hanner awr (we)di dau ? 416270_418515
 %eng:	had they started at 2:30?
-*LCD:	na ! %snd:"patagonia23"_418510_418910
+*LCD:	na ! 418510_418910
 %eng:	no!
-*SUS:	oedd o [?] newydd er@s:cym&spa +/ . %snd:"patagonia23"_419042_420498
+*SUS:	oedd o [?] newydd er@s:cym&spa +/. 419042_420498
 %eng:	it had just...
-*LCD:	++ dechrau ? %snd:"patagonia23"_420514_421042
+*LCD:	++ dechrau ? 420514_421042
 %eng:	...started?
-*SUS:	ie . %snd:"patagonia23"_421090_421629
+*SUS:	ie . 421090_421629
 %eng:	yes
-*LCD:	ia . %snd:"patagonia23"_422402_423234
+*LCD:	ia . 422402_423234
 %eng:	yes
-*LCD:	ie wel wnaethon ni ddim dechrau (y)n [/] (.) <yn brydlon> ["] fel maen nhw (y)n ddeud . %snd:"patagonia23"_423567_427490
+*LCD:	ie wel wnaethon ni ddim dechrau (y)n [/] (.) <yn brydlon> ["] fel maen nhw (y)n ddeud . 423567_427490
 %eng:	yes, well we didn't start "promptly", as they say
-*LCD:	ond er@s:cym&spa +.. . %snd:"patagonia23"_427997_429250
+*LCD:	ond er@s:cym&spa +... 427997_429250
 %eng:	but, er...
-*LCD:	ie fe aeth hi ddim yn hwyr iawn . %snd:"patagonia23"_429501_431517
+*LCD:	ie fe aeth hi ddim yn hwyr iawn . 429501_431517
 %eng:	and it didn't go on very late
-*LCD:	ond dw i (ddi)m gwybod sut gallwn ni wneud lle bod nhw <(ddi)m yn> [?] mor hwyr yn y nos . %snd:"patagonia23"_432124_436615
+*LCD:	ond dw i (ddi)m gwybod sut gallwn ni wneud lle bod nhw <(ddi)m yn> [?] mor hwyr yn y nos . 432124_436615
 %eng:	but I don't know how we can do it so that they aren't so late at night
-*LCD:	mae [/] (..) mae (y)n anodd . %snd:"patagonia23"_436613_438997
+*LCD:	mae [/] (..) mae (y)n anodd . 436613_438997
 %eng:	it's hard
 %com:	h+anodd
-*LCD:	achos mae [/] (.) mae (y)r corau yn canu (..) rhwng [/] &ki rhwng un a dau o (y)r gloch y bore . %snd:"patagonia23"_439033_445910
+*LCD:	achos mae [/] (.) mae (y)r corau yn canu (..) rhwng [/] &ki rhwng un a dau o (y)r gloch y bore . 439033_445910
 %eng:	because the choirs are singing between 1 and 2 o clock in the morning
-*LCD:	ac wedyn maen nhw (y)n (.) gostwng y tiwn a +.. . %snd:"patagonia23"_446566_450488
+*LCD:	ac wedyn maen nhw (y)n (.) gostwng y tiwn a +... 446566_450488
 %eng:	and then they drop the tune and...
-*SUS:	a faint o [/] o bobl oedd &r er@s:cym&spa xxx canu mewn côr i_gyd cwbl ? %snd:"patagonia23"_451364_456660
+*SUS:	a faint o [/] o bobl oedd &r er@s:cym&spa xxx canu mewn côr i_gyd cwbl ? 451364_456660
 %eng:	and how many people were [...] singing in choirs altogether?
-*LCD:	oh@s:cym&spa [?] dim yn +// . %snd:"patagonia23"_459031_459612
+*LCD:	oh@s:cym&spa [?] dim yn +//. 459031_459612
 %eng:	oh, not...
-*LCD:	côr mwya wyt ti (y)n deud ? %snd:"patagonia23"_459628_461036
+*LCD:	côr mwya wyt ti (y)n deud ? 459628_461036
 %eng:	the biggest choir, you mean?
-*LCD:	er@s:cym&spa (.) côr er@s:cym&spa Puerto_Madryn@s:spa xxx Puerto_Madryn@s:spa a +.. . %snd:"patagonia23"_461586_466493
+*LCD:	er@s:cym&spa (.) côr er@s:cym&spa Puerto_Madryn@s:spa xxx Puerto_Madryn@s:spa a +... 461586_466493
 %eng:	er, the Puerto Madryn choir [...] and...
-*LCD:	oedd y côr er@s:cym&spa Reyna@s:cym&spa xxx hefyd . %snd:"patagonia23"_467857_470552
+*LCD:	oedd y côr er@s:cym&spa Reyna@s:cym&spa xxx hefyd . 467857_470552
 %eng:	there was Reyna's [...] choir too
-*SUS:	+< xxx . %snd:"patagonia23"_468957_469730
-*LCD:	ydy mae hwnna rywbeth tri_deg mwy neu lai . %snd:"patagonia23"_470993_473516
+*SUS:	+< xxx . 468957_469730
+*LCD:	ydy mae hwnna rywbeth tri_deg mwy neu lai . 470993_473516
 %eng:	yes, that's something like 30, more or less
-*LCD:	ond oedd gyda Reyna@s:cym&spa (.) côr er@s:cym&spa (.) Universitario@s:spa Trelew@s:cym&spa . %snd:"patagonia23"_473530_478842
+*LCD:	ond oedd gyda Reyna@s:cym&spa (.) côr er@s:cym&spa (.) Universitario@s:spa Trelew@s:cym&spa . 473530_478842
 %eng:	but Reyna had the Trelew University choir
-*LCD:	oedd rhei(n) [/] rhein um +.. . %snd:"patagonia23"_478877_480559
+*LCD:	oedd rhei(n) [/] rhein um +... 478877_480559
 %eng:	those were...
-*SUS:	xxx . %snd:"patagonia23"_478930_479517
-*LCD:	dw i (y)n credu bod nhw (y)n fwy +// . %snd:"patagonia23"_480575_482201
+*SUS:	xxx . 478930_479517
+*LCD:	dw i (y)n credu bod nhw (y)n fwy +//. 480575_482201
 %eng:	I don't think they're bigger...
-*LCD:	oedd o (y)n fwy fel maint . %snd:"patagonia23"_482191_483817
+*LCD:	oedd o (y)n fwy fel maint . 482191_483817
 %eng:	it was bigger in size
-*LCD:	ond wnes i ddim cyfri(f) nhw i ddeud y gwir . %snd:"patagonia23"_485544_487608
+*LCD:	ond wnes i ddim cyfri(f) nhw i ddeud y gwir . 485544_487608
 %eng:	but I didn't really count them
-*LCD:	<maen nhw> [/] maen nhw i fod yn fwy nag ugain . %snd:"patagonia23"_487608_490424
+*LCD:	<maen nhw> [/] maen nhw i fod yn fwy nag ugain . 487608_490424
 %eng:	they're supposed to be more than 20
-*SUS:	er@s:cym&spa a mae (y)na bump o &gori oh@s:cym&spa +.. . %snd:"patagonia23"_495876_499305
+*SUS:	er@s:cym&spa a mae (y)na bump o &gori oh@s:cym&spa +... 495876_499305
 %eng:	er, and there are five choirs...
-*LCD:	[- spa] cómo es ? %snd:"patagonia23"_499564_499975
+*LCD:	[- spa] cómo es ? 499564_499975
 %eng:	how it is?
-*SUS:	[- spa] coros [?] ? %snd:"patagonia23"_499961_500526
+*SUS:	[- spa] coros [?] ? 499961_500526
 %eng:	choirs
-*LCD:	ie corau . %snd:"patagonia23"_500702_501715
+*LCD:	ie corau . 500702_501715
 %eng:	yes, choirs
-*SUS:	+< beth bynnag +.. . %snd:"patagonia23"_501118_501758
+*SUS:	+< beth bynnag +... 501118_501758
 %eng:	anyway...
-*SUS:	+, corau . %snd:"patagonia23"_502745_503177
+*SUS:	+, corau . 502745_503177
 %eng:	...choirs
-*LCD:	um +.. . %snd:"patagonia23"_503116_504310
-*LCD:	yn y brif cystadleuaeth er@s:cym&spa +// . %snd:"patagonia23"_505125_508197
+*LCD:	um +... 503116_504310
+*LCD:	yn y brif cystadleuaeth er@s:cym&spa +//. 505125_508197
 %eng:	in the main competition, er...
-*LCD:	na dim_ond dau o +// . %snd:"patagonia23"_508469_510580
+*LCD:	na dim_ond dau o +//. 508469_510580
 %eng:	no, only two...
-*LCD:	dim_ond Reyna@s:cym&spa (..) a y côr Universitario@s:spa Trelew@s:cym&spa a [/] (.) a xxx . %snd:"patagonia23"_510627_518093
+*LCD:	dim_ond Reyna@s:cym&spa (..) a y côr Universitario@s:spa Trelew@s:cym&spa a [/] (.) a xxx . 510627_518093
 %eng:	only Reyna and the Trelew University choir and [...]
-*LCD:	ac wedyn yn yr ail gystadleuaeth dim_ond xxx (.) côr Porth_Madryn . %snd:"patagonia23"_520122_525503
+*LCD:	ac wedyn yn yr ail gystadleuaeth dim_ond xxx (.) côr Porth_Madryn . 520122_525503
 %eng:	and then in the second competition only [...] the Puerto Madryn choir
-*SUS:	xxx . %snd:"patagonia23"_524012_524561
-*LCD:	ac er@s:cym&spa +.. . %snd:"patagonia23"_528105_530686
+*SUS:	xxx . 524012_524561
+*LCD:	ac er@s:cym&spa +... 528105_530686
 %eng:	and er...
-*LCD:	ie er@s:cym&spa oedd (y)na bump côr <yn yr> [/] er@s:cym&spa (.) yn y cystadleuaeth <formación@s:spa libre@s:spa> [//] coro@s:spa de@s:spa formación@s:spa libre@s:spa . %snd:"patagonia23"_533341_542391
+*LCD:	ie er@s:cym&spa oedd (y)na bump côr <yn yr> [/] er@s:cym&spa (.) yn y cystadleuaeth <formación@s:spa libre@s:spa> [//] coro@s:spa de@s:spa formación@s:spa libre@s:spa . 533341_542391
 %eng:	yes, there were five choirs in the free formation choir competition
-*LCD:	oedd [/] um (..) oedd xxx canu hefyd . %snd:"patagonia23"_544784_549054
+*LCD:	oedd [/] um (..) oedd xxx canu hefyd . 544784_549054
 %eng:	[...] was singing as well
-*LCD:	oedd Heulwen@s:cym&spa yn canu . %snd:"patagonia23"_549061_550911
+*LCD:	oedd Heulwen@s:cym&spa yn canu . 549061_550911
 %eng:	Heulwen was singing
-*LCD:	pwy arall oedd yn canu ? %snd:"patagonia23"_551043_552643
+*LCD:	pwy arall oedd yn canu ? 551043_552643
 %eng:	who else was singing?
-*LCD:	er@s:cym&spa ah@s:cym&spa ! %snd:"patagonia23"_552648_553927
-*LCD:	côr er@s:cym&spa Trelew@s:cym&spa er@s:cym&spa côr (.) Municipal@s:spa Trelew@s:cym&spa (.) Imelda_Romero@s:cym&spa . %snd:"patagonia23"_554183_560935
+*LCD:	er@s:cym&spa ah@s:cym&spa ! 552648_553927
+*LCD:	côr er@s:cym&spa Trelew@s:cym&spa er@s:cym&spa côr (.) Municipal@s:spa Trelew@s:cym&spa (.) Imelda_Romero@s:cym&spa . 554183_560935
 %eng:	Trelew choir, er, Trelew Municipal choir, Imelda_Romero
-*LCD:	ac +.. . %snd:"patagonia23"_562445_563821
+*LCD:	ac +... 562445_563821
 %eng:	and...
-*LCD:	ie . %snd:"patagonia23"_567317_567803
+*LCD:	ie . 567317_567803
 %eng:	yes
-*LCD:	hmm@s:cym&spa ac anodd . %snd:"patagonia23"_568650_570672
+*LCD:	hmm@s:cym&spa ac anodd . 568650_570672
 %eng:	hmm, and difficult
-*LCD:	pwy arall ? %snd:"patagonia23"_570709_571760
+*LCD:	pwy arall ? 570709_571760
 %eng:	who else?
-*LCD:	wel (.) dim_ond corau (.) lleol oedden nhw i_gyd do [?] eran@s:spa todos@s:spa en@s:spa el@s:spa lugar@s:spa . %snd:"patagonia23"_574063_580943
+*LCD:	wel (.) dim_ond corau (.) lleol oedden nhw i_gyd do [?] eran@s:spa todos@s:spa en@s:spa el@s:spa lugar@s:spa . 574063_580943
 %eng:	well, they were all local choirs, weren't they, that were in the place
-*LCD:	[- spa] no . %snd:"patagonia23"_581733_582447
+*LCD:	[- spa] no . 581733_582447
 %eng:	no.
-*LCD:	neb o tu allan . %snd:"patagonia23"_582485_583690
+*LCD:	neb o tu allan . 582485_583690
 %eng:	nobody from outside
-*SUS:	+< neb o allan ? %snd:"patagonia23"_583226_584031
+*SUS:	+< neb o allan ? 583226_584031
 %eng:	nobody from out?
-*SUS:	na . %snd:"patagonia23"_584223_584725
+*SUS:	na . 584223_584725
 %eng:	no
-*LCD:	na xx +.. . %snd:"patagonia23"_586174_588739
+*LCD:	na xx +... 586174_588739
 %eng:	no
-*LCD:	oedd (y)na côr yn meddwl dod o Buenos_Aires@s:cym&spa . %snd:"patagonia23"_589001_591476
+*LCD:	oedd (y)na côr yn meddwl dod o Buenos_Aires@s:cym&spa . 589001_591476
 %eng:	there was a choir thinking of coming from Buenos Aires
-*LCD:	o(edde)n nhw (we)di dysgu (y)r [/] er@s:cym&spa (.) yr [/] er@s:cym&spa (..) y darnau . %snd:"patagonia23"_591485_597107
+*LCD:	o(edde)n nhw (we)di dysgu (y)r [/] er@s:cym&spa (.) yr [/] er@s:cym&spa (..) y darnau . 591485_597107
 %eng:	they'd learnt the pieces
-*LCD:	ond er@s:cym&spa (..) gaethon nhw ddim arian i dalu (y)r bws . %snd:"patagonia23"_598558_603129
+*LCD:	ond er@s:cym&spa (..) gaethon nhw ddim arian i dalu (y)r bws . 598558_603129
 %eng:	but they didn't get the money to pay for the bus
-*LCD:	felly wnaethon nhw +/ . %snd:"patagonia23"_605568_606768
+*LCD:	felly wnaethon nhw +/. 605568_606768
 %eng:	so they did...
-*SUS:	dim gallu teithio . %snd:"patagonia23"_606533_607701
+*SUS:	dim gallu teithio . 606533_607701
 %eng:	couldn't travel
-*LCD:	mm@s:cym&spa . %snd:"patagonia23"_608192_608597
-*LCD:	a (.) yr un oedd yn mynd i ddod o [/] &m (.) o Mendoza@s:cym&spa mi [/] (..) mi aeth y baswrs [?] i_ffwrdd neu rywbeth . %snd:"patagonia23"_609724_618843
+*LCD:	mm@s:cym&spa . 608192_608597
+*LCD:	a (.) yr un oedd yn mynd i ddod o [/] &m (.) o Mendoza@s:cym&spa mi [/] (..) mi aeth y baswrs [?] i_ffwrdd neu rywbeth . 609724_618843
 %eng:	and the one that was going to come from Mendoza, the basses went away or something
-*LCD:	dim_ond un neu ddau oedd ar_ôl neu rywbeth ia . %snd:"patagonia23"_618862_622492
+*LCD:	dim_ond un neu ddau oedd ar_ôl neu rywbeth ia . 618862_622492
 %eng:	there were only one or two left, right
-*SUS:	yn fan hyn ? %snd:"patagonia23"_623800_624717
+*SUS:	yn fan hyn ? 623800_624717
 %eng:	here?
-*LCD:	naci na na . %snd:"patagonia23"_624653_625501
+*LCD:	naci na na . 624653_625501
 %eng:	no, no
-*SUS:	cyn dod ? %snd:"patagonia23"_625480_626008
+*SUS:	cyn dod ? 625480_626008
 %eng:	before coming?
-*LCD:	cyn dod . %snd:"patagonia23"_625986_626504
+*LCD:	cyn dod . 625986_626504
 %eng:	before coming
-*LCD:	a wedyn gofod [?] o (..) yrru i ddeud bod o ddim yn gallu dod . %snd:"patagonia23"_626477_630503
+*LCD:	a wedyn gofod [?] o (..) yrru i ddeud bod o ddim yn gallu dod . 626477_630503
 %eng:	and then he had to send to say that he couldn't come
-*SUS:	mae (y)na er@s:cym&spa (..) drafferth efo (y)r dynion yn er@s:cym&spa +/ . %snd:"patagonia23"_633474_638716
+*SUS:	mae (y)na er@s:cym&spa (..) drafferth efo (y)r dynion yn er@s:cym&spa +/. 633474_638716
 %eng:	there are problems with the men in the, er...
-*LCD:	++ yn [?] pob côr (.) mwy neu lai . %snd:"patagonia23"_638705_641127
+*LCD:	++ yn [?] pob côr (.) mwy neu lai . 638705_641127
 %eng:	...in more or less every choir
-*SUS:	mae (y)na lai [/] (..) lai o ddynion bob amser yn +/ . %snd:"patagonia23"_641696_645948
+*SUS:	mae (y)na lai [/] (..) lai o ddynion bob amser yn +/. 641696_645948
 %eng:	there are fewer men all the time...
-*LCD:	++ yn canu . %snd:"patagonia23"_646210_646775
+*LCD:	++ yn canu . 646210_646775
 %eng:	...singing
-*SUS:	+, yn barod i ganu ia . %snd:"patagonia23"_646743_648327
+*SUS:	+, yn barod i ganu ia . 646743_648327
 %eng:	...willing to sing, yes
-*SUS:	roedd (y)na amryw o [/] (.) o ddynion yn canu yn mwy na un côr <diwrnod o_blaen> [?] . %snd:"patagonia23"_648935_653778
+*SUS:	roedd (y)na amryw o [/] (.) o ddynion yn canu yn mwy na un côr <diwrnod o_blaen> [?] . 648935_653778
 %eng:	there were various men singing in more than one choir the other day
-*LCD:	siwr o fod . %snd:"patagonia23"_654170_654997
+*LCD:	siwr o fod . 654170_654997
 %eng:	I'm sure
-*SUS:	yn y er@s:cym&spa côr um Reyna@s:cym&spa yn (.) Universitario@s:spa +// . %snd:"patagonia23"_655486_660174
+*SUS:	yn y er@s:cym&spa côr um Reyna@s:cym&spa yn (.) Universitario@s:spa +//. 655486_660174
 %eng:	in Reyna's choir, in University
-*LCD:	+< ia . %snd:"patagonia23"_658615_658876
+*LCD:	+< ia . 658615_658876
 %eng:	yes
-*LCD:	ia . %snd:"patagonia23"_660217_660564
+*LCD:	ia . 660217_660564
 %eng:	yes
-*SUS:	<a yn> [?] be Municipal@s:spa llall ? %snd:"patagonia23"_660749_663192
+*SUS:	<a yn> [?] be Municipal@s:spa llall ? 660749_663192
 %eng:	and what, the other in Municipal?
-*SUS:	neu xxx <dim yn> [?] +/ . %snd:"patagonia23"_665386_666335
+*SUS:	neu xxx <dim yn> [?] +/. 665386_666335
 %eng:	or xxx wasn't...
-*LCD:	neu xxx efallai . %snd:"patagonia23"_666332_667368
+*LCD:	neu xxx efallai . 666332_667368
 %eng:	or xxx perhaps
-*LCD:	dw (ddi)m yn gwybod . %snd:"patagonia23"_667427_668072
+*LCD:	dw (ddi)m yn gwybod . 667427_668072
 %eng:	I don't know
-*LCD:	a mae rei yn canu yn côr Gaiman@s:cym&spa hefyd wrth_gwrs yn [?] +.. . %snd:"patagonia23"_668639_671759
+*LCD:	a mae rei yn canu yn côr Gaiman@s:cym&spa hefyd wrth_gwrs yn [?] +... 668639_671759
 %eng:	and some sing in the Gaiman choir as well of course, in...
-*LCD:	mae rei yn canu wedyn efo Reyna@s:cym&spa yn [/] (.) yn y Municipal@s:spa . %snd:"patagonia23"_671817_676266
+*LCD:	mae rei yn canu wedyn efo Reyna@s:cym&spa yn [/] (.) yn y Municipal@s:spa . 671817_676266
 %eng:	then some sing with Reyna in the Municipal
-*LCD:	na ddim Municipal@s:spa . %snd:"patagonia23"_676479_678853
+*LCD:	na ddim Municipal@s:spa . 676479_678853
 %eng:	no, not Municipal
-*LCD:	yn Universitario@s:spa . %snd:"patagonia23"_677562_678736
+*LCD:	yn Universitario@s:spa . 677562_678736
 %eng:	in University
-*SUS:	[- spa] +< Universita(rio) [?] . %snd:"patagonia23"_678272_679360
+*SUS:	[- spa] +< Universita(rio) [?] . 678272_679360
 %eng:	University
-*LCD:	wel +.. . %snd:"patagonia23"_686241_687515
+*LCD:	wel +... 686241_687515
 %eng:	well...
-*SUS:	mae rywun xxx [=! laughs] wedi gorffen hwn ! %snd:"patagonia23"_688422_693441
+*SUS:	mae rywun xxx [=! laughs] wedi gorffen hwn ! 688422_693441
 %eng:	someone [...] has finished this!
-*LCD:	+< laugh . %snd:"patagonia23"_690672_692629
-*SUS:	wyt ti (we)di xxx i_fewn ? %snd:"patagonia23"_694666_696912
+*LCD:	+< laugh . 690672_692629
+*SUS:	wyt ti (we)di xxx i_fewn ? 694666_696912
 %eng:	have you [...] in ?
-*SUS:	ti (we)di gweld nhw (y)n pasio neu +.. . %snd:"patagonia23"_696912_698384
+*SUS:	ti (we)di gweld nhw (y)n pasio neu +..? 696912_698384
 %eng:	have you seen them passing or...?
-*LCD:	naddo ddim xx . %snd:"patagonia23"_698680_699614
+*LCD:	naddo ddim xx . 698680_699614
 %eng:	no, not [...]
-*LCD:	ond oedd +// . %snd:"patagonia23"_700365_700957
+*LCD:	ond oedd +//. 700365_700957
 %eng:	but...
-*LCD:	do aeth o i_fewn cyn i ni ddechrau . %snd:"patagonia23"_700957_703560
+*LCD:	do aeth o i_fewn cyn i ni ddechrau . 700957_703560
 %eng:	yes, he went in before we started
-*SUS:	+< xxx . %snd:"patagonia23"_701048_701592
-*SUS:	ah@s:cym&spa ! %snd:"patagonia23"_702157_702824
-*SUS:	oeddaf fi ofn <aeth at ei> [?] lle ei hunan [?] . %snd:"patagonia23"_704419_706462
+*SUS:	+< xxx . 701048_701592
+*SUS:	ah@s:cym&spa ! 702157_702824
+*SUS:	oeddaf fi ofn <aeth at ei> [?] lle ei hunan [?] . 704419_706462
 %eng:	I was afriad he'd gone to his own place
-*LCD:	mae (y)n siwr clywodd o ddim_ond ni (ei)n dwy sy (y)n siarad . %snd:"patagonia23"_709290_712833
+*LCD:	mae (y)n siwr clywodd o ddim_ond ni (ei)n dwy sy (y)n siarad . 709290_712833
 %eng:	I'm sure he heard nothing more than us two talking
-*SUS:	wyt ti (y)n weld tu ôl i ti fan (y)na xxx ? %snd:"patagonia23"_713625_715999
+*SUS:	wyt ti (y)n weld tu ôl i ti fan (y)na xxx ? 713625_715999
 %eng:	you see behind you there [..]?
-*SUS:	lluniau er@s:cym&spa (.) Paloma@s:cym&spa yn yr +.. . %snd:"patagonia23"_716092_718700
+*SUS:	lluniau er@s:cym&spa (.) Paloma@s:cym&spa yn yr +... 716092_718700
 %eng:	pictures of Paloma in the...
-*LCD:	ah@s:cym&spa ie ! %snd:"patagonia23"_718734_721041
+*LCD:	ah@s:cym&spa ie ! 718734_721041
 %eng:	ah yes!
-*SUS:	+, yn y papur . %snd:"patagonia23"_721052_722172
+*SUS:	+, yn y papur . 721052_722172
 %eng:	...in the paper
-*SUS:	yn y papur newydd . %snd:"patagonia23"_722597_724629
+*SUS:	yn y papur newydd . 722597_724629
 %eng:	in the newspaper
-*LCD:	faint yd(y) [/] ydy oed er@s:cym&spa Paloma@s:cym&spa ? %snd:"patagonia23"_726532_728633
+*LCD:	faint yd(y) [/] ydy oed er@s:cym&spa Paloma@s:cym&spa ? 726532_728633
 %eng:	how old is Paloma?
-*SUS:	er@s:cym&spa um wyth . %snd:"patagonia23"_728956_731238
+*SUS:	er@s:cym&spa um wyth . 728956_731238
 %eng:	um, eight
-*LCD:	&p wyth oed . %snd:"patagonia23"_731497_732377
+*LCD:	&p wyth oed . 731497_732377
 %eng:	eight years old
-*SUS:	a (dy)na ti . %snd:"patagonia23"_732916_733710
+*SUS:	a (dy)na ti . 732916_733710
 %eng:	and there you are
-*SUS:	dal ymlaen ! %snd:"patagonia23"_733775_734431
+*SUS:	dal ymlaen ! 733775_734431
 %eng:	keep going!
-*SUS:	achos oedd Julieta_Garcia@s:cym&spa (we)di deud +// . %snd:"patagonia23"_734436_736455
+*SUS:	achos oedd Julieta_Garcia@s:cym&spa (we)di deud +//. 734436_736455
 %eng:	beause Julieta Garcia had said...
-*SUS:	+" cer at y ddiwedd . %snd:"patagonia23"_736617_737961
+*SUS:	+" cer at y ddiwedd . 736617_737961
 %eng:	"go to the finish"
-*SUS:	ah@s:cym&spa ie . %snd:"patagonia23"_738540_738988
+*SUS:	ah@s:cym&spa ie . 738540_738988
 %eng:	ah yes
-*SUS:	xx . %snd:"patagonia23"_739011_739699
-*LCD:	do weles i . %snd:"patagonia23"_740068_740734
+*SUS:	xx . 739011_739699
+*LCD:	do weles i . 740068_740734
 %eng:	yes, I saw
-*LCD:	a mi aeth yr bachgen ar ei_ôl hi er@s:cym&spa +.. . %snd:"patagonia23"_740740_744550
+*LCD:	a mi aeth yr bachgen ar ei_ôl hi er@s:cym&spa +... 740740_744550
 %eng:	and the boy after her went...
-*LCD:	<a (e)i dalu> [?] . %snd:"patagonia23"_747959_749212
+*LCD:	<a (e)i dalu> [?] . 747959_749212
 %eng:	and payed her
-*LCD:	ie neis iawn . %snd:"patagonia23"_754016_755541
+*LCD:	ie neis iawn . 754016_755541
 %eng:	yes, very nice
-*SUS:	xx um ie . %snd:"patagonia23"_756101_758235
+*SUS:	xx um ie . 756101_758235
 %eng:	[..] um, yes
-*SUS:	mae wedi cael wyth . %snd:"patagonia23"_758240_759195
+*SUS:	mae wedi cael wyth . 758240_759195
 %eng:	she's turned eight
-*SUS:	na ! %snd:"patagonia23"_760947_761699
+*SUS:	na ! 760947_761699
 %eng:	no!
-*SUS:	bydd hi (y)n cael wyth er@s:cym&spa y gaea nesa . %snd:"patagonia23"_761677_764536
+*SUS:	bydd hi (y)n cael wyth er@s:cym&spa y gaea nesa . 761677_764536
 %eng:	she'll turn 8 next winter
 %com:	influence from Spanish? "cael wyth"=turn eight (years old) [lit: "have 8"]
-*SUS:	fel (yn)a (y)dy o . %snd:"patagonia23"_764963_766008
+*SUS:	fel (yn)a (y)dy o . 764963_766008
 %eng:	that's how it is
-*LCD:	ydy hi (y)n mynd i (y)r ysgol yr hendre ? %snd:"patagonia23"_766019_768186
+*LCD:	ydy hi (y)n mynd i (y)r ysgol yr hendre ? 766019_768186
 %eng:	does she go to the old town school?
-*SUS:	na . %snd:"patagonia23"_768202_768656
+*SUS:	na . 768202_768656
 %eng:	no
-*LCD:	na . %snd:"patagonia23"_768677_769088
+*LCD:	na . 768677_769088
 %eng:	no
-*LCD:	<dechrau yli> [?] ? %snd:"patagonia23"_769361_770412
+*LCD:	<dechrau yli> [?] ? 769361_770412
 %eng:	started?
-*SUS:	na dim_byd . %snd:"patagonia23"_770673_771969
+*SUS:	na dim_byd . 770673_771969
 %eng:	no, nothing
-*SUS:	(di)m_ond [?] er@s:cym&spa plant bach Elsa_Díaz@s:cym&spa <sy (we)di> [?] +/ . %snd:"patagonia23"_771956_774106
+*SUS:	(di)m_ond [?] er@s:cym&spa plant bach Elsa_Díaz@s:cym&spa <sy (we)di> [?] +/. 771956_774106
 %eng:	only Elsa Diaz's little children have...
-*LCD:	Elsa_Díaz@s:cym&spa . %snd:"patagonia23"_774031_774730
-*SUS:	a mae dipyn bach lleia yn dal ymlaen . %snd:"patagonia23"_775350_777744
+*LCD:	Elsa_Díaz@s:cym&spa . 774031_774730
+*SUS:	a mae dipyn bach lleia yn dal ymlaen . 775350_777744
 %eng:	and a a few at least are keeping going
-*LCD:	ydy (y)r llall ddim ? %snd:"patagonia23"_778163_779389
+*LCD:	ydy (y)r llall ddim ? 778163_779389
 %eng:	is the other one not?
-*SUS:	na na mae (y)r llall yn [/] &d er@s:cym&spa yn (.) dechrau (y)r ysgol yn &h ysgol xx cinco@s:spa [?] . %snd:"patagonia23"_779522_784562
+*SUS:	na na mae (y)r llall yn [/] &d er@s:cym&spa yn (.) dechrau (y)r ysgol yn &h ysgol xx cinco@s:spa [?] . 779522_784562
 %eng:	no, the other one's starting school at [...] school five
-*LCD:	oh@s:cym&spa Roberto@s:cym&spa wyt ti (y)n deud ? %snd:"patagonia23"_785262_787192
+*LCD:	oh@s:cym&spa Roberto@s:cym&spa wyt ti (y)n deud ? 785262_787192
 %eng:	oh, Roberto, you mean?
-*SUS:	na Crista@s:cym&spa . %snd:"patagonia23"_787342_788942
+*SUS:	na Crista@s:cym&spa . 787342_788942
 %eng:	no, Crista
-*LCD:	ah@s:cym&spa Crista@s:cym&spa ! %snd:"patagonia23"_789034_790452
-*SUS:	Crista@s:cym&spa nawr a Vanesa@s:cym&spa sy (y)n dal ymlaen . %snd:"patagonia23"_790814_793710
+*LCD:	ah@s:cym&spa Crista@s:cym&spa ! 789034_790452
+*SUS:	Crista@s:cym&spa nawr a Vanesa@s:cym&spa sy (y)n dal ymlaen . 790814_793710
 %eng:	Crista and Vanesa are now carrying on
-*LCD:	a (.) mae Roberto@s:cym&spa [///] <mae o (we)di> [?] +.. . %snd:"patagonia23"_794394_796271
+*LCD:	a (.) mae Roberto@s:cym&spa [///] <mae o (we)di> [?] +... 794394_796271
 %eng:	and Roberto has...
-*SUS:	[- spa] ciento veintitres . %snd:"patagonia23"_796417_797569
+*SUS:	[- spa] ciento veintitres . 796417_797569
 %eng:	one hundred twenty three.
-*LCD:	ond i (.) er@s:cym&spa flwyddyn gynta neu +.. . %snd:"patagonia23"_797721_800393
+*LCD:	ond i (.) er@s:cym&spa flwyddyn gynta neu +..? 797721_800393
 %eng:	but to the first year, or...?
-*SUS:	+< flwyddyn cynta . %snd:"patagonia23"_799769_800692
+*SUS:	+< flwyddyn cynta . 799769_800692
 %eng:	first year
-*LCD:	oh@s:cym&spa a [/] a [/] a Crista@s:cym&spa +/ . %snd:"patagonia23"_800640_803371
+*LCD:	oh@s:cym&spa a [/] a [/] a Crista@s:cym&spa +/. 800640_803371
 %eng:	oh, and Crista...
-*SUS:	+< Crista@s:cym&spa i (y)r ail un (.) a hon i (y)r trydydd . %snd:"patagonia23"_802960_806643
+*SUS:	+< Crista@s:cym&spa i (y)r ail un (.) a hon i (y)r trydydd . 802960_806643
 %eng:	Crista to the third, and her to the third
-*LCD:	+< ah@s:cym&spa ! %snd:"patagonia23"_804622_805118
-*SUS:	un bob er@s:cym&spa +/ . %snd:"patagonia23"_808305_809590
+*LCD:	+< ah@s:cym&spa ! 804622_805118
+*SUS:	un bob er@s:cym&spa +/. 808305_809590
 %eng:	one every...
-*LCD:	ah@s:cym&spa un bob blwyddyn . %snd:"patagonia23"_809606_810918
+*LCD:	ah@s:cym&spa un bob blwyddyn . 809606_810918
 %eng:	ah, one each year
-*LCD:	ie wrth_gwrs ! %snd:"patagonia23"_810865_811729
+*LCD:	ie wrth_gwrs ! 810865_811729
 %eng:	yes, of course!
-*LCD:	mae gyda ti (..) ysgol fach . %snd:"patagonia23"_811729_815333
+*LCD:	mae gyda ti (..) ysgol fach . 811729_815333
 %eng:	you have a small school
-*SUS:	&=laugh . %snd:"patagonia23"_815755_817105
-*SUS:	a <wnaethon nhw> [//] (..) xx nhw yma drwy (y)r [/] er@s:cym&spa (.) yr dydd Gwener i_gyd yn (.) cysgu fan hyn . %snd:"patagonia23"_817183_824375
+*SUS:	&=laugh . 815755_817105
+*SUS:	a <wnaethon nhw> [//] (..) xx nhw yma drwy (y)r [/] er@s:cym&spa (.) yr dydd Gwener i_gyd yn (.) cysgu fan hyn . 817183_824375
 %eng:	and they [...] here all of Friday, sleeping here
-*SUS:	yr pump . %snd:"patagonia23"_824709_825722
+*SUS:	yr pump . 824709_825722
 %eng:	the five
-*SUS:	pump o(ho)nyn nhw . %snd:"patagonia23"_826220_827276
+*SUS:	pump o(ho)nyn nhw . 826220_827276
 %eng:	five of them
-*LCD:	dydd Gwener ? %snd:"patagonia23"_827717_828688
+*LCD:	dydd Gwener ? 827717_828688
 %eng:	Friday?
-*SUS:	doson nhw dydd Gwener . %snd:"patagonia23"_829279_830665
+*SUS:	doson nhw dydd Gwener . 829279_830665
 %eng:	they came on Friday
-*SUS:	a um doth y <dau o(honyn)> [//] tri o(ho)nyn nhw dydd Sadwrn . %snd:"patagonia23"_831376_836068
+*SUS:	a um doth y <dau o(honyn)> [//] tri o(ho)nyn nhw dydd Sadwrn . 831376_836068
 %eng:	and the three of them came on Saturday
-*SUS:	doth y tad a mam dod â nhw a gadael nhw (y)ma . %snd:"patagonia23"_837037_839559
+*SUS:	doth y tad a mam dod â nhw a gadael nhw (y)ma . 837037_839559
 %eng:	the father and mother came to bring them and leave them here
-*LCD:	oh@s:cym&spa oh@s:cym&spa &d &o ie ie penwythnos dwytha ! %snd:"patagonia23"_839551_842202
+*LCD:	oh@s:cym&spa oh@s:cym&spa &d &o ie ie penwythnos dwytha ! 839551_842202
 %eng:	oh yes, last weekend
-*SUS:	ie . %snd:"patagonia23"_842202_842639
+*SUS:	ie . 842202_842639
 %eng:	yes
-*LCD:	ia roeddwn i meddwl roedd hi penwythnos yr eisteddfod xx +/ . %snd:"patagonia23"_842628_845178
+*LCD:	ia roeddwn i meddwl roedd hi penwythnos yr eisteddfod xx +/. 842628_845178
 %eng:	yes, I was thinking it was the weekend of the eisteddfod
-*SUS:	na na na na ddoe [//] echdoe [?] . %snd:"patagonia23"_844903_846658
+*SUS:	na na na na ddoe [//] echdoe [?] . 844903_846658
 %eng:	no, the day before yesterday
-*LCD:	ie . %snd:"patagonia23"_846707_846953
+*LCD:	ie . 846707_846953
 %eng:	yes
-*SUS:	aethon ni gyd i Tir_Halen@s:cym&spa . %snd:"patagonia23"_846923_848645
+*SUS:	aethon ni gyd i Tir_Halen@s:cym&spa . 846923_848645
 %eng:	we all went to Tir Halen
-*LCD:	ah@s:cym&spa ! %snd:"patagonia23"_849228_849521
-*SUS:	um . %snd:"patagonia23"_849516_849895
-*LCD:	<mi es i> [?] Tir_Halen@s:cym&spa ddoe . %snd:"patagonia23"_850061_851107
+*LCD:	ah@s:cym&spa ! 849228_849521
+*SUS:	um . 849516_849895
+*LCD:	<mi es i> [?] Tir_Halen@s:cym&spa ddoe . 850061_851107
 %eng:	I went to Tir Halen yesterday
-*LCD:	a welais i (dd)im [?] xxx amdanat [?] ti . %snd:"patagonia23"_851101_853675
+*LCD:	a welais i (dd)im [?] xxx amdanat [?] ti . 851101_853675
 %eng:	and I didn't see a [...] of you
-*SUS:	er@s:cym&spa aethon [?] efo (.) pump o blant i_gyd ie . %snd:"patagonia23"_854754_857719
+*SUS:	er@s:cym&spa aethon [?] efo (.) pump o blant i_gyd ie . 854754_857719
 %eng:	er, we went with five children altogether
-*LCD:	a lle oeddech chi ? %snd:"patagonia23"_858217_859289
+*LCD:	a lle oeddech chi ? 858217_859289
 %eng:	and where were you?
-*SUS:	tu ôl . %snd:"patagonia23"_859481_860484
+*SUS:	tu ôl . 859481_860484
 %eng:	behind
-*SUS:	tu ôl er@s:cym&spa (.) yn agos i +/ . %snd:"patagonia23"_860823_862855
+*SUS:	tu ôl er@s:cym&spa (.) yn agos i +/. 860823_862855
 %eng:	behind, near the...
-*LCD:	oh@s:cym&spa allan ? %snd:"patagonia23"_862460_863335
+*LCD:	oh@s:cym&spa allan ? 862460_863335
 %eng:	oh, outside?
-*SUS:	na na na . %snd:"patagonia23"_863449_864228
+*SUS:	na na na . 863449_864228
 %eng:	no, no
-*LCD:	+< tu allan ? %snd:"patagonia23"_863620_864249
+*LCD:	+< tu allan ? 863620_864249
 %eng:	outside?
-*SUS:	yn agos i (y)r ffenest yn gwerthu (.) bwyd . %snd:"patagonia23"_864702_869315
+*SUS:	yn agos i (y)r ffenest yn gwerthu (.) bwyd . 864702_869315
 %eng:	near the window, selling food
-*LCD:	welais i ddim ohonat ti o_gwbl ! %snd:"patagonia23"_872137_874084
+*LCD:	welais i ddim ohonat ti o_gwbl ! 872137_874084
 %eng:	I didn't see anything of you at all!
-*SUS:	oedd &n Enriqua@s:cym&spa fel yna reit agos i +.. . %snd:"patagonia23"_874108_876785
+*SUS:	oedd &n Enriqua@s:cym&spa fel yna reit agos i +... 874108_876785
 %eng:	Enriqua was like that very close to...
-*LCD:	Enriqua@s:cym&spa ? %snd:"patagonia23"_877532_878316
-*SUS:	xxx er@s:cym&spa +.. . %snd:"patagonia23"_879042_880488
-*LCD:	xx ? %snd:"patagonia23"_880829_881336
-*SUS:	gwraig <o (y)ma> [?] . %snd:"patagonia23"_881485_882415
+*LCD:	Enriqua@s:cym&spa ? 877532_878316
+*SUS:	xxx er@s:cym&spa +... 879042_880488
+*LCD:	xx ? 880829_881336
+*SUS:	gwraig <o (y)ma> [?] . 881485_882415
 %eng:	a woman from here
-*LCD:	ond be oedd hi (y)n wneud ? %snd:"patagonia23"_883128_884184
+*LCD:	ond be oedd hi (y)n wneud ? 883128_884184
 %eng:	but what was she doing?
-*SUS:	oedd hi (y)n gwerthu ticedi [?] . %snd:"patagonia23"_884228_886191
+*SUS:	oedd hi (y)n gwerthu ticedi [?] . 884228_886191
 %eng:	she was selling tickets
-*LCD:	oh@s:cym&spa ie . %snd:"patagonia23"_886691_887246
+*LCD:	oh@s:cym&spa ie . 886691_887246
 %eng:	oh yes
-*SUS:	+< i (y)r bwyd . %snd:"patagonia23"_887038_887598
+*SUS:	+< i (y)r bwyd . 887038_887598
 %eng:	for the food
-*SUS:	i (y)r bwyd . %snd:"patagonia23"_887657_888537
+*SUS:	i (y)r bwyd . 887657_888537
 %eng:	for the food
-*LCD:	ond lle oeddet ti ? %snd:"patagonia23"_888542_890121
+*LCD:	ond lle oeddet ti ? 888542_890121
 %eng:	but where were you?
-*SUS:	[- spa] al lado del +// . %snd:"patagonia23"_891651_892685
+*SUS:	[- spa] al lado del +//. 891651_892685
 %eng:	next to the...
-*SUS:	yn agos i (y)r er@s:cym&spa +/ . %snd:"patagonia23"_892851_894008
+*SUS:	yn agos i (y)r er@s:cym&spa +/. 892851_894008
 %eng:	close to the...
-*LCD:	+< xx ? %snd:"patagonia23"_893912_894264
-*SUS:	xx . %snd:"patagonia23"_894254_894931
-*LCD:	wel [?] ! %snd:"patagonia23"_897073_897718
+*LCD:	+< xx ? 893912_894264
+*SUS:	xx . 894254_894931
+*LCD:	wel [?] ! 897073_897718
 %eng:	well!
-*LCD:	xxx um +.. . %snd:"patagonia23"_897916_900391
-*LCD:	mel ? %snd:"patagonia23"_900394_901056
+*LCD:	xxx um +... 897916_900391
+*LCD:	mel ? 900394_901056
 %eng:	honey?
-*LCD:	o(edde)t ti (y)n gwerthu mel ? %snd:"patagonia23"_901061_902154
+*LCD:	o(edde)t ti (y)n gwerthu mel ? 901061_902154
 %eng:	were you selling honey?
-*SUS:	na na dim y Feria@s:spa el@s:spa teatro@s:spa . %snd:"patagonia23"_903134_905412
+*SUS:	na na dim y Feria@s:spa el@s:spa teatro@s:spa . 903134_905412
 %eng:	no, not the fair, the theatre
-*SUS:	[- spa] teatro . %snd:"patagonia23"_906728_907267
+*SUS:	[- spa] teatro . 906728_907267
 %eng:	theatre
-*LCD:	ah@s:cym&spa yn y teatro@s:spa ! %snd:"patagonia23"_907118_908463
+*LCD:	ah@s:cym&spa yn y teatro@s:spa ! 907118_908463
 %eng:	ah, in the theatre!
-*LCD:	oh@s:cym&spa ia na . %snd:"patagonia23"_908458_909418
+*LCD:	oh@s:cym&spa ia na . 908458_909418
 %eng:	oh, yes, no
-*LCD:	o(eddw)n i tu blaen <fan (yn)a> [=! laughs] . %snd:"patagonia23"_909418_911130
+*LCD:	o(eddw)n i tu blaen <fan (yn)a> [=! laughs] . 909418_911130
 %eng:	we were in front of there
-*LCD:	o(eddw)n i methu deall xxx medru gweld chdi ddoe [?] ! %snd:"patagonia23"_911536_914048
+*LCD:	o(eddw)n i methu deall xxx medru gweld chdi ddoe [?] ! 911536_914048
 %eng:	I couldn't understand [...] couldn't see you yesterday!
-*SUS:	er@s:cym&spa ffordd (ba)set ti (y)n wneud [///] er@s:cym&spa ffordd (ba)set ti (y)n wneud teatro@s:spa ["] (y)n Cymraeg ? %snd:"patagonia23"_914592_917675
+*SUS:	er@s:cym&spa ffordd (ba)set ti (y)n wneud [///] er@s:cym&spa ffordd (ba)set ti (y)n wneud teatro@s:spa ["] (y)n Cymraeg ? 914592_917675
 %eng:	how would you say "theatre" in Welsh?
 %com:	say "neud" (do) rather than "deud" (say) here and in other places where possibly transcribed otherwise. Possibly a feature of Patagonian speech??
-*LCD:	er@s:cym&spa theatr ["] . %snd:"patagonia23"_917860_918916
+*LCD:	er@s:cym&spa theatr ["] . 917860_918916
 %eng:	er, theatre
-*SUS:	aha@s:cym&spa . %snd:"patagonia23"_918975_919748
-*LCD:	theatr . %snd:"patagonia23"_920404_921081
+*SUS:	aha@s:cym&spa . 918975_919748
+*LCD:	theatr . 920404_921081
 %eng:	theatre
-*SUS:	xxx +/ . %snd:"patagonia23"_921588_922660
-*LCD:	+< ia . %snd:"patagonia23"_922270_922830
+*SUS:	xxx +/. 921588_922660
+*LCD:	+< ia . 922270_922830
 %eng:	yes
-*LCD:	oh@s:cym&spa welaist ti Dominica@s:cym&spa ? %snd:"patagonia23"_922836_924516
+*LCD:	oh@s:cym&spa welaist ti Dominica@s:cym&spa ? 922836_924516
 %eng:	oh, did you see Dominica?
-*SUS:	do &=laugh . %snd:"patagonia23"_925012_926414
+*SUS:	do &=laugh . 925012_926414
 %eng:	yes
-*SUS:	do . %snd:"patagonia23"_927036_927996
+*SUS:	do . 927036_927996
 %eng:	yes
-*LCD:	yn wneud er@s:cym&spa (.) fel bachgen <i weld> [?] ar_gyfer +.. . %snd:"patagonia23"_928140_931952
+*LCD:	yn wneud er@s:cym&spa (.) fel bachgen <i weld> [?] ar_gyfer +... 928140_931952
 %eng:	doing, er, like a boy to look at, for...
-*SUS:	ah@s:cym&spa wnes i dim (.) sylwi . %snd:"patagonia23"_932129_934833
+*SUS:	ah@s:cym&spa wnes i dim (.) sylwi . 932129_934833
 %eng:	ah, I didn't notice
-*SUS:	p(a) (y)r un bachgen oedd hi ? %snd:"patagonia23"_934972_936284
+*SUS:	p(a) (y)r un bachgen oedd hi ? 934972_936284
 %eng:	which boy was she?
-*LCD:	um (.) <mae (y)n dyn> [?] reit fawr . %snd:"patagonia23"_936318_940019
+*LCD:	um (.) <mae (y)n dyn> [?] reit fawr . 936318_940019
 %eng:	um, she was a very big man!
-*SUS:	na wnes i ddim sylwi . %snd:"patagonia23"_941373_942754
+*SUS:	na wnes i ddim sylwi . 941373_942754
 %eng:	no, I didn't notice
-*LCD:	oedd um +.. . %snd:"patagonia23"_943028_944473
+*LCD:	oedd um +... 943028_944473
 %eng:	she was, um...
-*SUS:	gwallt tywyll ? %snd:"patagonia23"_944463_945375
+*SUS:	gwallt tywyll ? 944463_945375
 %eng:	dark hair?
-*LCD:	ie Conshita@s:cym&spa ? %snd:"patagonia23"_945392_946256
+*LCD:	ie Conshita@s:cym&spa ? 945392_946256
 %eng:	yes, Conshita?
-*SUS:	ie . %snd:"patagonia23"_946206_946622
+*SUS:	ie . 946206_946622
 %eng:	yes
-*LCD:	xxx feddwl . %snd:"patagonia23"_946505_947262
+*LCD:	xxx feddwl . 946505_947262
 %eng:	[...] thought
-*SUS:	a hi oedd yna ? %snd:"patagonia23"_947299_948387
+*SUS:	a hi oedd yna ? 947299_948387
 %eng:	and she was there?
-*LCD:	oedd <o (we)di> [//] er@s:cym&spa hi (we)di roid er@s:cym&spa siwt xxx [?] (.) yn y Parque_Egresados@s:cym&spa . %snd:"patagonia23"_950384_959454
+*LCD:	oedd <o (we)di> [//] er@s:cym&spa hi (we)di roid er@s:cym&spa siwt xxx [?] (.) yn y Parque_Egresados@s:cym&spa . 950384_959454
 %eng:	she'd put the xxx suit in the Parque Egresados
-*SUS:	xxx neis . %snd:"patagonia23"_960558_961620
+*SUS:	xxx neis . 960558_961620
 %eng:	[...] nice
-*SUS:	er@s:cym&spa un er@s:cym&spa wnes i ddim er@s:cym&spa +.. . %snd:"patagonia23"_961932_964956
+*SUS:	er@s:cym&spa un er@s:cym&spa wnes i ddim er@s:cym&spa +... 961932_964956
 %eng:	er, one that I didn't...
-*SUS:	oedd dipyn ar_ôl â nhw . %snd:"patagonia23"_964981_966304
+*SUS:	oedd dipyn ar_ôl â nhw . 964981_966304
 %eng:	they had a bit left over
-*SUS:	un bach tenau . %snd:"patagonia23"_966397_967490
+*SUS:	un bach tenau . 966397_967490
 %eng:	a little thin one
-*SUS:	<oedd e> [?] (y)n bachgen boliog iawn . %snd:"patagonia23"_967485_969421
+*SUS:	<oedd e> [?] (y)n bachgen boliog iawn . 967485_969421
 %eng:	he was a very fat boy
-*LCD:	oh@s:cym&spa ie . %snd:"patagonia23"_969870_970880
+*LCD:	oh@s:cym&spa ie . 969870_970880
 %eng:	oh yes
-*SUS:	xxx . %snd:"patagonia23"_970844_971980
-*LCD:	+< merch oedd o ? %snd:"patagonia23"_971463_972535
+*SUS:	xxx . 970844_971980
+*LCD:	+< merch oedd o ? 971463_972535
 %eng:	he was a girl?
-*SUS:	ia . %snd:"patagonia23"_972602_973088
+*SUS:	ia . 972602_973088
 %eng:	yes
-*LCD:	er@s:cym&spa oedd y +/ . %snd:"patagonia23"_973098_973978
+*LCD:	er@s:cym&spa oedd y +/. 973098_973978
 %eng:	er, the...
-*SUS:	<buodd hwnna> [?] ddim yn neis? %snd:"patagonia23"_974011_975344
+*SUS:	<buodd hwnna> [?] ddim yn neis? 974011_975344
 %eng:	was that not nice?
-*LCD:	ia oedd o (y)n +.. . %snd:"patagonia23"_975350_977648
+*LCD:	ia oedd o (y)n +... 975350_977648
 %eng:	yes it was...
-*LCD:	&isg wrth_gwrs doedd (y)na (ddi)m digon o fechgyn siwr a wedyn +.. . %snd:"patagonia23"_977598_980228
+*LCD:	&isg wrth_gwrs doedd (y)na (ddi)m digon o fechgyn siwr a wedyn +... 977598_980228
 %eng:	of course there weren't enough boys, certainly, and then...
-*LCD:	a wedyn (.) er@s:cym&spa +.. . %snd:"patagonia23"_980238_982761
+*LCD:	a wedyn (.) er@s:cym&spa +... 980238_982761
 %eng:	and then, er...
-*SUS:	oedd ei llais o ry um +.. . %snd:"patagonia23"_982884_985150
+*SUS:	oedd ei llais o ry um +... 982884_985150
 %eng:	his voice was too...
-*LCD:	ry +/ . %snd:"patagonia23"_985065_985790
+*LCD:	ry +/. 985065_985790
 %eng:	too...
-*SUS:	yn debyg i merch oedd o . %snd:"patagonia23"_985356_987031
+*SUS:	yn debyg i merch oedd o . 985356_987031
 %eng:	it was like a girl's
-*SUS:	a oedd ei bol yn +.. . %snd:"patagonia23"_987108_988697
+*SUS:	a oedd ei bol yn +... 987108_988697
 %eng:	and his tummy was...
-*LCD:	++ er@s:cym&spa yn ormod . %snd:"patagonia23"_988786_990322
+*LCD:	++ er@s:cym&spa yn ormod . 988786_990322
 %eng:	er, too much
-*SUS:	er@s:cym&spa ormod a ddim yn y siâp er@s:cym&spa +.. . %snd:"patagonia23"_990405_992949
+*SUS:	er@s:cym&spa ormod a ddim yn y siâp er@s:cym&spa +... 990405_992949
 %eng:	er, too much, and not in the shape of the...
-*LCD:	ie . %snd:"patagonia23"_993066_993727
+*LCD:	ie . 993066_993727
 %eng:	yes
-*SUS:	anyway oedd y lleill yn neis iawn . %snd:"patagonia23"_994443_996496
+*SUS:	anyway oedd y lleill yn neis iawn . 994443_996496
 %eng:	anyway, the other one was very nice
-*LCD:	ie oedd(en) nhw (y)n um +.. . %snd:"patagonia23"_996809_999214
+*LCD:	ie oedd(en) nhw (y)n um +... 996809_999214
 %eng:	yes, they were...
-*LCD:	wel oedden nhw (we)di dysgu y rei côr yn dda i ddeud y gwir . %snd:"patagonia23"_1000943_1003744
+*LCD:	wel oedden nhw (we)di dysgu y rei côr yn dda i ddeud y gwir . 1000943_1003744
 %eng:	well, they'd learnt the choir ones well, actually
-*LCD:	achos oedd +.. . %snd:"patagonia23"_1003729_1004919
+*LCD:	achos oedd +... 1003729_1004919
 %eng:	because...
-*SUS:	mae xxx gormod o +.. . %snd:"patagonia23"_1004892_1008182
+*SUS:	mae xxx gormod o +... 1004892_1008182
 %eng:	there [...] too much...
-*SUS:	eh@s:cym&spa &le [//] letra@s:spa cómo@s:spa se@s:spa xxx ? %snd:"patagonia23"_1008577_1010630
+*SUS:	eh@s:cym&spa &le [//] letra@s:spa cómo@s:spa se@s:spa xxx ? 1008577_1010630
 %eng:	er, "lyrics" , how...?
-*LCD:	ie siarad . %snd:"patagonia23"_1010433_1011793
+*LCD:	ie siarad . 1010433_1011793
 %eng:	yes, speaking
-*LCD:	gormod o siarad . %snd:"patagonia23"_1012145_1013254
+*LCD:	gormod o siarad . 1012145_1013254
 %eng:	too much speaking
-*SUS:	ie . %snd:"patagonia23"_1013100_1013697
+*SUS:	ie . 1013100_1013697
 %eng:	yes
-*LCD:	ond fel (yn)a mae yr um +.. . %snd:"patagonia23"_1013637_1016629
+*LCD:	ond fel (yn)a mae yr um +... 1013637_1016629
 %eng:	but that's how the, um...
-*SUS:	i plant er@s:cym&spa ba(ch) [//] sy (y)n dechrau ? %snd:"patagonia23"_1017537_1019457
+*SUS:	i plant er@s:cym&spa ba(ch) [//] sy (y)n dechrau ? 1017537_1019457
 %eng:	for little children who are starting?
-*LCD:	xx cómo@s:spa dirías@s:spa eh@s:cym&spa constumbristas@s:spa . %snd:"patagonia23"_1019488_1023905
+*LCD:	xx cómo@s:spa dirías@s:spa eh@s:cym&spa constumbristas@s:spa . 1019488_1023905
 %eng:	[...] how do you say "constumbristas"?
-*LCD:	dw i (y)n gwybod beth [/] (.) beth fysai fo yn Sbaene(g) +// . %snd:"patagonia23"_1023947_1026646
+*LCD:	dw i (y)n gwybod beth [/] (.) beth fysai fo yn Sbaene(g) +//. 1023947_1026646
 %eng:	I know what it would be in Spanish
-*LCD:	yn Gymraeg ddim gwybod . %snd:"patagonia23"_1026641_1028358
+*LCD:	yn Gymraeg ddim gwybod . 1026641_1028358
 %eng:	in Welsh I don't know
-*LCD:	um +.. . %snd:"patagonia23"_1028620_1029953
-*LCD:	achos maen nhw (y)n siarad llawer <yn lle> [//] am bod nhw yn (.) gwneud llai ti (y)n gweld . %snd:"patagonia23"_1030946_1036293
+*LCD:	um +... 1028620_1029953
+*LCD:	achos maen nhw (y)n siarad llawer <yn lle> [//] am bod nhw yn (.) gwneud llai ti (y)n gweld . 1030946_1036293
 %eng:	because they talk a lot because they're doing less you see
-*SUS:	claro@s:spa a maen nhw wedi dysgu +.. . %snd:"patagonia23"_1036390_1038646
+*SUS:	claro@s:spa a maen nhw wedi dysgu +... 1036390_1038646
 %eng:	of course, and they've learnt...
-*LCD:	++ xxx côr . %snd:"patagonia23"_1038744_1039971
+*LCD:	++ xxx côr . 1038744_1039971
 %eng:	[...] choir
-*SUS:	mae (y)na raid iddyn nhw dysgu siarad hefyd yn (.) blaen a +.. . %snd:"patagonia23"_1039942_1043555
+*SUS:	mae (y)na raid iddyn nhw dysgu siarad hefyd yn (.) blaen a +... 1039942_1043555
 %eng:	they have to learn to speak too in front and...
-*LCD:	ie . %snd:"patagonia23"_1043669_1044752
+*LCD:	ie . 1043669_1044752
 %eng:	yes
-*LCD:	ie . %snd:"patagonia23"_1046792_1047272
+*LCD:	ie . 1046792_1047272
 %eng:	yes
-*LCD:	ond wel (..) plant (.) xxx +/ . %snd:"patagonia23"_1047213_1050371
+*LCD:	ond wel (..) plant (.) xxx +/. 1047213_1050371
 %eng:	but well, children [...]...
-*SUS:	y tro cynta oedd o (.) siwr . %snd:"patagonia23"_1049741_1051396
+*SUS:	y tro cynta oedd o (.) siwr . 1049741_1051396
 %eng:	it was the first time
-*LCD:	ie (.) ia . %snd:"patagonia23"_1051076_1051567
+*LCD:	ie (.) ia . 1051076_1051567
 %eng:	yes
-*SUS:	xx mi [/] mi ddôn nhw . %snd:"patagonia23"_1052266_1054170
+*SUS:	xx mi [/] mi ddôn nhw . 1052266_1054170
 %eng:	they'll come
-*LCD:	ie . %snd:"patagonia23"_1054271_1054959
+*LCD:	ie . 1054271_1054959
 %eng:	yes
-*SUS:	pryd maen nhw gen yr [/] er@s:cym&spa yr oed yr dynion eraill (y)na (.) xxx . %snd:"patagonia23"_1055343_1060769
+*SUS:	pryd maen nhw gen yr [/] er@s:cym&spa yr oed yr dynion eraill (y)na (.) xxx . 1055343_1060769
 %eng:	when they're as old as those other men [...]
-*LCD:	+< &=laugh . %snd:"patagonia23"_1059241_1060030
-*LCD:	<wyt ti> [/] wyt ti nabod y llall yn iawn ? %snd:"patagonia23"_1061893_1064015
+*LCD:	+< &=laugh . 1059241_1060030
+*LCD:	<wyt ti> [/] wyt ti nabod y llall yn iawn ? 1061893_1064015
 %eng:	do you know the other one well?
-*SUS:	yndw xxx . %snd:"patagonia23"_1063995_1064955
+*SUS:	yndw xxx . 1063995_1064955
 %eng:	yes [...]
-*LCD:	ah@s:cym&spa . %snd:"patagonia23"_1065079_1066012
-*LCD:	a <bachgen o xxx> [/] er@s:cym&spa bachgen arall ie ? %snd:"patagonia23"_1066113_1069397
+*LCD:	ah@s:cym&spa . 1065079_1066012
+*LCD:	a <bachgen o xxx> [/] er@s:cym&spa bachgen arall ie ? 1066113_1069397
 %eng:	and [...] another boy, right?
-*SUS:	dim gwybod . %snd:"patagonia23"_1069754_1070541
+*SUS:	dim gwybod . 1069754_1070541
 %eng:	don't know
-*LCD:	ie (.) dyna be o(edde)n nhw ddeud . %snd:"patagonia23"_1070552_1072678
+*LCD:	ie (.) dyna be o(edde)n nhw ddeud . 1070552_1072678
 %eng:	yes, that's what they said
-*LCD:	bachgen ifanc ? %snd:"patagonia23"_1073279_1074213
+*LCD:	bachgen ifanc ? 1073279_1074213
 %eng:	young boy?
-*SUS:	hwnna wnaeth ffindio (y)r um +/ . %snd:"patagonia23"_1074271_1076189
+*SUS:	hwnna wnaeth ffindio (y)r um +/. 1074271_1076189
 %eng:	it was him that found the...
-*LCD:	ie y (.) tostadora@s:spa ! %snd:"patagonia23"_1076183_1078646
+*LCD:	ie y (.) tostadora@s:spa ! 1076183_1078646
 %eng:	yes, the toaster!
-*SUS:	&=laugh . %snd:"patagonia23"_1078656_1079462
-*SUS:	oedd o (y)n hogyn drwg i dechrau xxx . %snd:"patagonia23"_1080863_1083295
+*SUS:	&=laugh . 1078656_1079462
+*SUS:	oedd o (y)n hogyn drwg i dechrau xxx . 1080863_1083295
 %eng:	he was a naughty boy at first [...]
-*SUS:	wnaeth ei dad o licio (y)r bres . %snd:"patagonia23"_1083837_1085330
+*SUS:	wnaeth ei dad o licio (y)r bres . 1083837_1085330
 %eng:	his father liked money
-*SUS:	oedd o ddim mor ddrwg . %snd:"patagonia23"_1085335_1086354
+*SUS:	oedd o ddim mor ddrwg . 1085335_1086354
 %eng:	he wasn't so bad
-*LCD:	ie wel +.. . %snd:"patagonia23"_1086480_1088150
+*LCD:	ie wel +... 1086480_1088150
 %eng:	yes, well...
-*LCD:	<ond yna arosodd> [?] xx hwnna ti (y)n gwybod . %snd:"patagonia23"_1088448_1091515
+*LCD:	<ond yna arosodd> [?] xx hwnna ti (y)n gwybod . 1088448_1091515
 %eng:	but then his [...] stayed you know
-*LCD:	ond oedd o (y)n actio (y)n dda achos +.. . %snd:"patagonia23"_1093022_1095716
+*LCD:	ond oedd o (y)n actio (y)n dda achos +... 1093022_1095716
 %eng:	but he acted well, because...
-*LCD:	oh@s:cym&spa ar dechrau oedd popeth allan o (e)i le a phopeth allan o (e)i le ynde . %snd:"patagonia23"_1097006_1101867
+*LCD:	oh@s:cym&spa ar dechrau oedd popeth allan o (e)i le a phopeth allan o (e)i le ynde . 1097006_1101867
 %eng:	oh, at first everything was out of its place and everything out of place
-*LCD:	ond wedyn (.) wrth_gwrs (.) oedd bopeth allan o (e)i le ond yr arian ! %snd:"patagonia23"_1101964_1107656
+*LCD:	ond wedyn (.) wrth_gwrs (.) oedd bopeth allan o (e)i le ond yr arian ! 1101964_1107656
 %eng:	but then, of course, everything was out of place except the money!
-*SUS:	&=laugh . %snd:"patagonia23"_1107071_1107711
-*SUS:	ond fel (yn)a mae (y)r Ariannin . %snd:"patagonia23"_1109768_1111464
+*SUS:	&=laugh . 1107071_1107711
+*SUS:	ond fel (yn)a mae (y)r Ariannin . 1109768_1111464
 %eng:	but that's how Argentina is
-*LCD:	ie . %snd:"patagonia23"_1111517_1112296
+*LCD:	ie . 1111517_1112296
 %eng:	yes
-*LCD:	&an +.. . %snd:"patagonia23"_1113936_1115146
-*LCD:	yn dangos reit dda sut [/] er@s:cym&spa (..) sut mae er@s:cym&spa (..) rhai bobl o (y)r Ariannin ta beth . %snd:"patagonia23"_1115870_1125145
+*LCD:	&an +... 1113936_1115146
+*LCD:	yn dangos reit dda sut [/] er@s:cym&spa (..) sut mae er@s:cym&spa (..) rhai bobl o (y)r Ariannin ta beth . 1115870_1125145
 %eng:	shows very well how some people from Argentina are anyway
-*LCD:	a sut mae pobl yn meddwl heddiw (.) yndy ? %snd:"patagonia23"_1125594_1129285
+*LCD:	a sut mae pobl yn meddwl heddiw (.) yndy ? 1125594_1129285
 %eng:	and how people think today, right?
-*SUS:	(di)m_ond am y pres . %snd:"patagonia23"_1129482_1130580
+*SUS:	(di)m_ond am y pres . 1129482_1130580
 %eng:	only about money
-*LCD:	ie . %snd:"patagonia23"_1130687_1131322
+*LCD:	ie . 1130687_1131322
 %eng:	yes
 %com:	pause in conversation
-*LCD:	a beth wyt ti (y)n feddwl am y tywydd (y)ma ? %snd:"patagonia23"_1146260_1148479
+*LCD:	a beth wyt ti (y)n feddwl am y tywydd (y)ma ? 1146260_1148479
 %eng:	what do you think of this weather?
-*LCD:	wnewn [?] ni siarad am y tywydd . %snd:"patagonia23"_1148459_1150075
+*LCD:	wnewn [?] ni siarad am y tywydd . 1148459_1150075
 %eng:	we'll talk about the weather
-*SUS:	dw i (y)n digalon . %snd:"patagonia23"_1150085_1151205
+*SUS:	dw i (y)n digalon . 1150085_1151205
 %eng:	I'm down
-*LCD:	&=laugh . %snd:"patagonia23"_1151195_1151505
-*SUS:	y <mae (y)r> [/] mae (y)r blodau (y)n gael malu a +.. . %snd:"patagonia23"_1151463_1154460
+*LCD:	&=laugh . 1151195_1151505
+*SUS:	y <mae (y)r> [/] mae (y)r blodau (y)n gael malu a +... 1151463_1154460
 %eng:	the flowers are getting smashed and...
-*LCD:	yndy maen nhw (y)n cael eu chwipio (y)n xxx +/ . %snd:"patagonia23"_1154481_1157617
+*LCD:	yndy maen nhw (y)n cael eu chwipio (y)n xxx +/. 1154481_1157617
 %eng:	yes, they're getting whipped [...]
-*SUS:	dw i ddim isio dod â nhw fewn neu be wneud â nhw . %snd:"patagonia23"_1156795_1159557
+*SUS:	dw i ddim isio dod â nhw fewn neu be wneud â nhw . 1156795_1159557
 %eng:	I don't want to bring them in, or what to do with them
-*LCD:	ie . %snd:"patagonia23"_1159599_1160058
+*LCD:	ie . 1159599_1160058
 %eng:	yes
-*LCD:	a nhw (y)n llosgi welaist ti xx ? %snd:"patagonia23"_1160122_1162607
+*LCD:	a nhw (y)n llosgi welaist ti xx ? 1160122_1162607
 %eng:	and they're burning, you see [...]?
-*SUS:	a wedi roid dŵr bob dydd iddyn nhw . %snd:"patagonia23"_1162670_1165326
+*SUS:	a wedi roid dŵr bob dydd iddyn nhw . 1162670_1165326
 %eng:	and after giving them water every day
-*LCD:	ie . %snd:"patagonia23"_1165425_1165905
+*LCD:	ie . 1165425_1165905
 %eng:	yes
-*SUS:	bob dydd mae (y)r [/] (.) &et yr +/ . %snd:"patagonia23"_1165861_1168005
+*SUS:	bob dydd mae (y)r [/] (.) &et yr +/. 1165861_1168005
 %eng:	every day the...
-*LCD:	trio cadw nhw (y)n fyw . %snd:"patagonia23"_1168000_1169333
+*LCD:	trio cadw nhw (y)n fyw . 1168000_1169333
 %eng:	try to keep them alive
-*SUS:	+, tir yn sychu . %snd:"patagonia23"_1169363_1170718
+*SUS:	+, tir yn sychu . 1169363_1170718
 %eng:	ground drying up
-*LCD:	ie <mae (y)r> [/] mae (y)r awyr yn sych (..) heblaw hynny . %snd:"patagonia23"_1171172_1175465
+*LCD:	ie <mae (y)r> [/] mae (y)r awyr yn sych (..) heblaw hynny . 1171172_1175465
 %eng:	yes, the air is dry apart from that
-*SUS:	a ddoe wnaethon [/] mi wnaethon ni weld rywbeth rhyfedd yn y fferm (.) yn ryw um +// . %snd:"patagonia23"_1175992_1181053
+*SUS:	a ddoe wnaethon [/] mi wnaethon ni weld rywbeth rhyfedd yn y fferm (.) yn ryw um +//. 1175992_1181053
 %eng:	and yesterday we did something strange on the farm, in some, um...
-*SUS:	cómo@s:spa se@s:spa dice@s:spa patch [?] ? %snd:"patagonia23"_1181785_1182975
+*SUS:	cómo@s:spa se@s:spa dice@s:spa patch [?] ? 1181785_1182975
 %eng:	how do you say "patch" ?
-*LCD:	ie (.) cae . %snd:"patagonia23"_1183239_1184513
+*LCD:	ie (.) cae . 1183239_1184513
 %eng:	yes, field
-*SUS:	cae . %snd:"patagonia23"_1184657_1185079
+*SUS:	cae . 1184657_1185079
 %eng:	field
-*SUS:	oedd (y)na <ryw planhigio(n)> [//] er@s:cym&spa ryw (.) beth oedden nhw (y)n licio +// . %snd:"patagonia23"_1185623_1189479
+*SUS:	oedd (y)na <ryw planhigio(n)> [//] er@s:cym&spa ryw (.) beth oedden nhw (y)n licio +//. 1185623_1189479
 %eng:	there were some plants, er, some thing that they liked
-*SUS:	er@s:cym&spa wennol . %snd:"patagonia23"_1189536_1190896
+*SUS:	er@s:cym&spa wennol . 1189536_1190896
 %eng:	er, swallow
-*LCD:	ah@s:cym&spa . %snd:"patagonia23"_1191659_1191979
-*SUS:	[- spa] golondrina ? %snd:"patagonia23"_1191970_1192733
+*LCD:	ah@s:cym&spa . 1191659_1191979
+*SUS:	[- spa] golondrina ? 1191970_1192733
 %eng:	swallow
-*LCD:	ah@s:cym&spa ! %snd:"patagonia23"_1192824_1193717
-*SUS:	peiliau ohonyn nhw (.) yn troi xxx <i fwyta nhw> [?] am oriau (y)n fan (yn)a . %snd:"patagonia23"_1193725_1198195
+*LCD:	ah@s:cym&spa ! 1192824_1193717
+*SUS:	peiliau ohonyn nhw (.) yn troi xxx <i fwyta nhw> [?] am oriau (y)n fan (yn)a . 1193725_1198195
 %eng:	loads of them turning [...] to eat them for hours there
-*LCD:	ryw hadau neu ryw +/ . %snd:"patagonia23"_1198954_1200064
+*LCD:	ryw hadau neu ryw +/. 1198954_1200064
 %eng:	some seeds or some...
-*SUS:	ryw hadyn <oedden nhw (y)n licio> [//] (.) &il er@s:cym&spa oedden nhw (y)n (h)offi . %snd:"patagonia23"_1200069_1204163
+*SUS:	ryw hadyn <oedden nhw (y)n licio> [//] (.) &il er@s:cym&spa oedden nhw (y)n (h)offi . 1200069_1204163
 %eng:	some seed that they liked
-*LCD:	ie xx . %snd:"patagonia23"_1204306_1205291
+*LCD:	ie xx . 1204306_1205291
 %eng:	yes [...]
-*SUS:	licio nhw . %snd:"patagonia23"_1205334_1206219
+*SUS:	licio nhw . 1205334_1206219
 %eng:	liked them
-*LCD:	ie . %snd:"patagonia23"_1206155_1206806
+*LCD:	ie . 1206155_1206806
 %eng:	yes
-*SUS:	&be dan ni ddim yn weld er@s:cym&spa +.. . %snd:"patagonia23"_1206857_1209070
+*SUS:	&be dan ni ddim yn weld er@s:cym&spa +... 1206857_1209070
 %eng:	we don't see, er...
-*SUS:	[- spa] cómo se dice ? %snd:"patagonia23"_1209774_1210251
+*SUS:	[- spa] cómo se dice ? 1209774_1210251
 %eng:	how do you say?
-*SUS:	wennol ["] es@s:spa una@s:spa . %snd:"patagonia23"_1210251_1211579
+*SUS:	wennol ["] es@s:spa una@s:spa . 1210251_1211579
 %eng:	"swallow" is one
-*LCD:	gwenoliaid . %snd:"patagonia23"_1212783_1213695
+*LCD:	gwenoliaid . 1212783_1213695
 %eng:	swallows
-*SUS:	+, xx ers blynyddoedd . %snd:"patagonia23"_1213804_1216140
+*SUS:	+, xx ers blynyddoedd . 1213804_1216140
 %eng:	[...] for years
-*SUS:	oedden nhw (y)n hedfan yn isel fel (yn)a . %snd:"patagonia23"_1217665_1220278
+*SUS:	oedden nhw (y)n hedfan yn isel fel (yn)a . 1217665_1220278
 %eng:	they were flying low like that
-*SUS:	troi . %snd:"patagonia23"_1220278_1220667
+*SUS:	troi . 1220278_1220667
 %eng:	turning
-*LCD:	troi a troi . %snd:"patagonia23"_1220641_1221697
+*LCD:	troi a troi . 1220641_1221697
 %eng:	twisting and turning
-*SUS:	a maen nhw (y)n teithio wedyn mor bell na ? %snd:"patagonia23"_1223887_1225956
+*SUS:	a maen nhw (y)n teithio wedyn mor bell na ? 1223887_1225956
 %eng:	and then they travel so far don't they?
-*LCD:	ydyn . %snd:"patagonia23"_1225967_1226580
+*LCD:	ydyn . 1225967_1226580
 %eng:	yes
-*SUS:	hedfan mor bell . %snd:"patagonia23"_1226724_1227684
+*SUS:	hedfan mor bell . 1226724_1227684
 %eng:	fly so far
-*LCD:	+< achos mae digon ryfedd achos bod yn gymaint o wynt . %snd:"patagonia23"_1227039_1230324
+*LCD:	+< achos mae digon ryfedd achos bod yn gymaint o wynt . 1227039_1230324
 %eng:	becasue it's quite strage because there's so much wind
-*SUS:	bueno@s:spa <oedd (y)na> [//] oedd y lle (y)na xxx (.) braidd yn gaeedig . %snd:"patagonia23"_1231298_1235522
+*SUS:	bueno@s:spa <oedd (y)na> [//] oedd y lle (y)na xxx (.) braidd yn gaeedig . 1231298_1235522
 %eng:	well, that place was [...] quite enclosed
-*LCD:	ah@s:cym&spa oedd (y)na bach o gysgod . %snd:"patagonia23"_1235548_1237772
+*LCD:	ah@s:cym&spa oedd (y)na bach o gysgod . 1235548_1237772
 %eng:	ah, there was a little bit of shade
-*SUS:	cysgod a ryw hadyn oedden nhw (y)n licio . %snd:"patagonia23"_1237713_1240699
+*SUS:	cysgod a ryw hadyn oedden nhw (y)n licio . 1237713_1240699
 %eng:	shade, and some seed they liked
-*LCD:	ie wir . %snd:"patagonia23"_1244681_1245657
+*LCD:	ie wir . 1244681_1245657
 %eng:	yes indeed
-*LCD:	ie dw i (ddi)m yn gwybod os maen nhw +// . %snd:"patagonia23"_1251928_1253400
+*LCD:	ie dw i (ddi)m yn gwybod os maen nhw +//. 1251928_1253400
 %eng:	yes, I don't know whether they...
-*LCD:	mae rai yn trio deud fydd yr haf fel hyn trwy (y)r haf . %snd:"patagonia23"_1253390_1256999
+*LCD:	mae rai yn trio deud fydd yr haf fel hyn trwy (y)r haf . 1253390_1256999
 %eng:	some are trying to say that the summer will be like this all summer
-*LCD:	bydd y gwynt oer (y)na (y)n dal [?] . %snd:"patagonia23"_1257226_1258788
+*LCD:	bydd y gwynt oer (y)na (y)n dal [?] . 1257226_1258788
 %eng:	that cold wind will hold on
-*SUS:	bydd (y)na ddim ffrwythau . %snd:"patagonia23"_1258714_1259772
+*SUS:	bydd (y)na ddim ffrwythau . 1258714_1259772
 %eng:	there'll be no fruit
-*SUS:	bydd (y)na ddim llysiau . %snd:"patagonia23"_1259767_1261340
+*SUS:	bydd (y)na ddim llysiau . 1259767_1261340
 %eng:	there'll be no vegetables
-*LCD:	ie . %snd:"patagonia23"_1262268_1262594
+*LCD:	ie . 1262268_1262594
 %eng:	yes
-*LCD:	dim bwyd i (y)r anifeiliaid . %snd:"patagonia23"_1262860_1264646
+*LCD:	dim bwyd i (y)r anifeiliaid . 1262860_1264646
 %eng:	nothing for the animals
-*SUS:	na beth oedd rywun deud xxx gwair dim yn tyfu . %snd:"patagonia23"_1264611_1267320
+*SUS:	na beth oedd rywun deud xxx gwair dim yn tyfu . 1264611_1267320
 %eng:	no, what someone was saying [...] grass isn't growing
-*LCD:	na (y)dy . %snd:"patagonia23"_1267343_1267977
+*LCD:	na (y)dy . 1267343_1267977
 %eng:	no
-*LCD:	na wrth_gwrs ydy o ddim yn +// . %snd:"patagonia23"_1268217_1269955
+*LCD:	na wrth_gwrs ydy o ddim yn +//. 1268217_1269955
 %eng:	no, of course, it's not...
-*LCD:	er@s:cym&spa mae isio tywydd poeth iddo dyfu . %snd:"patagonia23"_1269945_1272579
+*LCD:	er@s:cym&spa mae isio tywydd poeth iddo dyfu . 1269945_1272579
 %eng:	er, it needs hot weather to grow
-*SUS:	xx bydd (y)na dim (.) anifeiliad be ? %snd:"patagonia23"_1276177_1278742
+*SUS:	xx bydd (y)na dim (.) anifeiliad be ? 1276177_1278742
 %eng:	[...] there'll be no animals, what?
-*SUS:	ddim cig efo ni ? %snd:"patagonia23"_1278732_1279724
+*SUS:	ddim cig efo ni ? 1278732_1279724
 %eng:	no meat for us?
-*LCD:	wel fydd (y)na siwr . %snd:"patagonia23"_1279757_1281179
+*LCD:	wel fydd (y)na siwr . 1279757_1281179
 %eng:	well, there will be, I'm sure
-*LCD:	ond bydd o (y)n ddrytach a +.. . %snd:"patagonia23"_1281173_1283280
+*LCD:	ond bydd o (y)n ddrytach a +... 1281173_1283280
 %eng:	but it'll be more expensive and...
-*LCD:	ac <bydd o (y)n> [//] (.) bydd yr anifeiliaid ddim mor dew . %snd:"patagonia23"_1283802_1287079
+*LCD:	ac <bydd o (y)n> [//] (.) bydd yr anifeiliaid ddim mor dew . 1283802_1287079
 %eng:	and the animals won't be so fat
-*LCD:	ac (.) bydd raid gwerthu nhw cyn [/] cyn yr amser . %snd:"patagonia23"_1287081_1291357
+*LCD:	ac (.) bydd raid gwerthu nhw cyn [/] cyn yr amser . 1287081_1291357
 %eng:	and we'll have to sell them before time
-*SUS:	mae popeth xx [/] xx ar ei ben . %snd:"patagonia23"_1292976_1295268
+*SUS:	mae popeth xx [/] xx ar ei ben . 1292976_1295268
 %eng:	everything is [...] upside down
-*LCD:	a maen nhw (y)n deud bod (y)na +// . %snd:"patagonia23"_1297559_1298887
+*LCD:	a maen nhw (y)n deud bod (y)na +//. 1297559_1298887
 %eng:	and they say there's...
-*SUS:	mae (y)r (.) tywydd oer (y)ma (y)n dod o (y)r Antártida@s:spa . %snd:"patagonia23"_1298894_1302430
+*SUS:	mae (y)r (.) tywydd oer (y)ma (y)n dod o (y)r Antártida@s:spa . 1298894_1302430
 %eng:	this cold weather is coming from the Antarctic
-*LCD:	mae fel [/] (.) fel ton (.) o oerfel . %snd:"patagonia23"_1302740_1307417
+*LCD:	mae fel [/] (.) fel ton (.) o oerfel . 1302740_1307417
 %eng:	it's like a wave of cold
 %com:	sounds like "oerfedd" she says, but only "oerfel" or "oeredd" are listed
-*SUS:	oh@s:cym&spa efallai wneith o basio (y)n fuan &d . %snd:"patagonia23"_1308074_1309951
+*SUS:	oh@s:cym&spa efallai wneith o basio (y)n fuan &d . 1308074_1309951
 %eng:	oh, maybe it will pass soon
-*LCD:	ie ond mae (y)n dod â (y)r (.) un ton ac wedyn (.) ton arall . %snd:"patagonia23"_1310413_1314220
+*LCD:	ie ond mae (y)n dod â (y)r (.) un ton ac wedyn (.) ton arall . 1310413_1314220
 %eng:	yes, but it brings one wave and then another
-*LCD:	achos <oedd hi (y)n er@s:cym&spa> [/] (..) oedd hi (y)n er@s:cym&spa (.) bwrw eira (.) yn xx . %snd:"patagonia23"_1318390_1325593
+*LCD:	achos <oedd hi (y)n er@s:cym&spa> [/] (..) oedd hi (y)n er@s:cym&spa (.) bwrw eira (.) yn xx . 1318390_1325593
 %eng:	because it was snowing in [...]
-*SUS:	ah@s:cym&spa ie ? %snd:"patagonia23"_1325592_1326392
+*SUS:	ah@s:cym&spa ie ? 1325592_1326392
 %eng:	ah really?
-*LCD:	a wedyn xx hefyd . %snd:"patagonia23"_1326530_1328765
+*LCD:	a wedyn xx hefyd . 1326530_1328765
 %eng:	and then [...] too
-*SUS:	bydd (y)na dim hwylio ar lan y môr (e)leni . %snd:"patagonia23"_1328995_1331613
+*SUS:	bydd (y)na dim hwylio ar lan y môr (e)leni . 1328995_1331613
 %eng:	there'll be no sailing by the beach this year
-*LCD:	wel os na fydd y tywydd yn wella . %snd:"patagonia23"_1332429_1334674
+*LCD:	wel os na fydd y tywydd yn wella . 1332429_1334674
 %eng:	well, if the weather doesn't improve
-*LCD:	ond (e)fallai bydd [/] (.) bydd yr haul yn dod eto ac yn crasu cofia achos &m +.. . %snd:"patagonia23"_1335542_1340407
+*LCD:	ond (e)fallai bydd [/] (.) bydd yr haul yn dod eto ac yn crasu cofia achos &m +... 1335542_1340407
 %eng:	but maybe the sun will come back and beat down, remember, because...
-*LCD:	weithiau pan bydd o (y)n dod allan fel (yn)a mae o (y)n +.. . %snd:"patagonia23"_1340646_1344049
+*LCD:	weithiau pan bydd o (y)n dod allan fel (yn)a mae o (y)n +... 1340646_1344049
 %eng:	sometimes when it comes out like that it...
-*LCD:	ti (y)n glywed o (y)n boeth iawn ie . %snd:"patagonia23"_1344207_1347199
+*LCD:	ti (y)n glywed o (y)n boeth iawn ie . 1344207_1347199
 %eng:	you can hear it, very hot, right
-*SUS:	+< gry iawn . %snd:"patagonia23"_1344698_1345445
+*SUS:	+< gry iawn . 1344698_1345445
 %eng:	very strong
-*SUS:	dw i ddim wedi gofyn i neb sy (y)n dod o (y)r hen gwlad (.) os maen nhw (y)n gael er@s:cym&spa (.) teimlo (y)r haul yn gry yn fan hyn . %snd:"patagonia23"_1349482_1356665
+*SUS:	dw i ddim wedi gofyn i neb sy (y)n dod o (y)r hen gwlad (.) os maen nhw (y)n gael er@s:cym&spa (.) teimlo (y)r haul yn gry yn fan hyn . 1349482_1356665
 %eng:	I haven't asked anyone from the Old Country whether they feel the sun is strong here
-*LCD:	mae (y)n siwr bod nhw . %snd:"patagonia23"_1358506_1359349
+*LCD:	mae (y)n siwr bod nhw . 1358506_1359349
 %eng:	I'm sure they do
-*LCD:	mae pawb yn [/] (..) yn er@s:cym&spa (.) defnyddio het neu roi het ar ei ben . %snd:"patagonia23"_1359319_1366044
+*LCD:	mae pawb yn [/] (..) yn er@s:cym&spa (.) defnyddio het neu roi het ar ei ben . 1359319_1366044
 %eng:	everyone uses a hat, or puts a hat on their head
-*LCD:	a (..) efallai bod nhw (y)n (..) defnyddio protector@s:spa . %snd:"patagonia23"_1366048_1371829
+*LCD:	a (..) efallai bod nhw (y)n (..) defnyddio protector@s:spa . 1366048_1371829
 %eng:	and maybe they use protector [sun screen?].
-*LCD:	dw i (ddi)m yn gwybod . %snd:"patagonia23"_1371785_1372531
+*LCD:	dw i (ddi)m yn gwybod . 1371785_1372531
 %eng:	I don't know
-*SUS:	+< mm@s:cym&spa . %snd:"patagonia23"_1372174_1372398
-*SUS:	achos mae o (y)n llosgi (y)n arw pryd maen nhw yn +/ . %snd:"patagonia23"_1374140_1376247
+*SUS:	+< mm@s:cym&spa . 1372174_1372398
+*SUS:	achos mae o (y)n llosgi (y)n arw pryd maen nhw yn +/. 1374140_1376247
 %eng:	because it really burns when they...
-*LCD:	ydy . %snd:"patagonia23"_1376199_1376924
+*LCD:	ydy . 1376199_1376924
 %eng:	it does
-*LCD:	neu xx +/ . %snd:"patagonia23"_1376697_1377823
+*LCD:	neu xx +/. 1376697_1377823
 %eng:	or [...] ...
-*SUS:	+< trwy (y)r gwydr y car neu +.. . %snd:"patagonia23"_1377375_1378900
+*SUS:	+< trwy (y)r gwydr y car neu +... 1377375_1378900
 %eng:	through the car windscreen or...
-*LCD:	&i ie . %snd:"patagonia23"_1378884_1379854
+*LCD:	&i ie . 1378884_1379854
 %eng:	yes
-*LCD:	achos ddoe oedden ni (y)n mynd i Tir_Halen@s:cym&spa i (y)r feria@s:spa . %snd:"patagonia23"_1380424_1383677
+*LCD:	achos ddoe oedden ni (y)n mynd i Tir_Halen@s:cym&spa i (y)r feria@s:spa . 1380424_1383677
 %eng:	because yesterday we were going to Tir Halen, to the fair
-*SUS:	hmm@s:cym&spa . %snd:"patagonia23"_1383972_1384260
-*LCD:	ac oedd [/] um (.) oedd hi (y)n oer allan . %snd:"patagonia23"_1384242_1386866
+*SUS:	hmm@s:cym&spa . 1383972_1384260
+*LCD:	ac oedd [/] um (.) oedd hi (y)n oer allan . 1384242_1386866
 %eng:	and it was cold outside
-*LCD:	achos oedd [/] oedd [//] o(eddw)n i <(we)di roi hon> [?] . %snd:"patagonia23"_1386852_1388898
+*LCD:	achos oedd [/] oedd [//] o(eddw)n i <(we)di roi hon> [?] . 1386852_1388898
 %eng:	because I'd put this on
-*LCD:	a tu fewn i (y)r car oedd y [/] yr haul trwy (y)r gwyd(ryn) [/] gwydryn yn +/ . %snd:"patagonia23"_1389890_1394823
+*LCD:	a tu fewn i (y)r car oedd y [/] yr haul trwy (y)r gwyd(ryn) [/] gwydryn yn +/. 1389890_1394823
 %eng:	and inside the car the sun through the windscreen was...
 %com:	"gwydran", which she says, is not in dictionary. Could be variant of "gwydryn" as transcribed but that usually refers to a cup rather than glass windsceen as here. 12 lines on she says "gwydra" (again not a noun). In retracing seems likely she was going to say "gwydr" (glass, following SUS 6 lines up) and then changed, but can't prove this so put as retracing of same word.
-*SUS:	+< ++ poeth . %snd:"patagonia23"_1393922_1394247
+*SUS:	+< ++ poeth . 1393922_1394247
 %eng:	hot
-*LCD:	ie ! %snd:"patagonia23"_1394892_1395526
+*LCD:	ie ! 1394892_1395526
 %eng:	yes!
-*LCD:	gorfod ni roid yr awyr . %snd:"patagonia23"_1396180_1397834
+*LCD:	gorfod ni roid yr awyr . 1396180_1397834
 %eng:	we had to put on the air
-*SUS:	hmm@s:cym&spa . %snd:"patagonia23"_1397894_1398758
-*LCD:	so oedd car (we)di sefyll am ryw (y)chydig o amser yn yr haul . %snd:"patagonia23"_1398875_1402336
+*SUS:	hmm@s:cym&spa . 1397894_1398758
+*LCD:	so oedd car (we)di sefyll am ryw (y)chydig o amser yn yr haul . 1398875_1402336
 %eng:	so the car had stood for some time in the sun
-*LCD:	wel o(eddw)n i (y)n boeth <do wir> [?] . %snd:"patagonia23"_1402331_1404283
+*LCD:	wel o(eddw)n i (y)n boeth <do wir> [?] . 1402331_1404283
 %eng:	well, I was hot, yes indeed
-*SUS:	a maen nhw xxx +.. . %snd:"patagonia23"_1407742_1409902
+*SUS:	a maen nhw xxx +... 1407742_1409902
 %eng:	and they're [...]...
-*SUS:	dw (ddi)m gwybod am be xxx +// . %snd:"patagonia23"_1411941_1413391
+*SUS:	dw (ddi)m gwybod am be xxx +//. 1411941_1413391
 %eng:	I don't know why [...]...
-*SUS:	maen nhw (y)n boethi gymaint . %snd:"patagonia23"_1413391_1415013
+*SUS:	maen nhw (y)n boethi gymaint . 1413391_1415013
 %eng:	they heat up so much
-*LCD:	ie achos dan ni wedyn +/ . %snd:"patagonia23"_1416507_1417974
+*LCD:	ie achos dan ni wedyn +/. 1416507_1417974
 %eng:	yes, because we then...
-*SUS:	maen nhw (y)n bach siwr (.) wrth [?] hynna . %snd:"patagonia23"_1417680_1419563
+*SUS:	maen nhw (y)n bach siwr (.) wrth [?] hynna . 1417680_1419563
 %eng:	they must be small, for that
-*LCD:	ie efallai . %snd:"patagonia23"_1420230_1421122
+*LCD:	ie efallai . 1420230_1421122
 %eng:	yes, maybe
-*LCD:	dw i (ddi)m gwybod . %snd:"patagonia23"_1421122_1421970
+*LCD:	dw i (ddi)m gwybod . 1421122_1421970
 %eng:	I don't know
-*LCD:	achos (.) o(eddw)n i er@s:cym&spa yn erbyn roid yr [/] (..) y peth du yna ar y gwydr . %snd:"patagonia23"_1422670_1429497
+*LCD:	achos (.) o(eddw)n i er@s:cym&spa yn erbyn roid yr [/] (..) y peth du yna ar y gwydr . 1422670_1429497
 %eng:	because I was against putting that black thing on the windscreen
-*LCD:	ond (.) dw i (y)n credu bydd raid er@s:cym&spa roid er@s:cym&spa +.. . %snd:"patagonia23"_1429487_1432954
+*LCD:	ond (.) dw i (y)n credu bydd raid er@s:cym&spa roid er@s:cym&spa +... 1429487_1432954
 %eng:	but i think we'll have to...
-*LCD:	dim yr un (.) du (y)na . %snd:"patagonia23"_1433691_1435329
+*LCD:	dim yr un (.) du (y)na . 1433691_1435329
 %eng:	not that black one
-*LCD:	yr un er@s:cym&spa +.. . %snd:"patagonia23"_1435329_1436625
+*LCD:	yr un er@s:cym&spa +... 1435329_1436625
 %eng:	the one...
-*SUS:	++ ychydig bach o lliw . %snd:"patagonia23"_1436894_1438020
+*SUS:	++ ychydig bach o lliw . 1436894_1438020
 %eng:	...slightly coloured
-*LCD:	ie (.) achos mae (.) y du [?] +.. . %snd:"patagonia23"_1438029_1440845
+*LCD:	ie (.) achos mae (.) y du [?] +... 1438029_1440845
 %eng:	yes, because the black...
-*LCD:	neu mae (y)r um +.. . %snd:"patagonia23"_1442383_1444644
+*LCD:	neu mae (y)r um +... 1442383_1444644
 %eng:	or the...
-*LCD:	mae <(y)r asientos@s:spa> [//] yr seddau yn +/ . %snd:"patagonia23"_1446054_1449910
+*LCD:	mae <(y)r asientos@s:spa> [//] yr seddau yn +/. 1446054_1449910
 %eng:	the seats...
-*SUS:	++ llosgi ? %snd:"patagonia23"_1449930_1450341
+*SUS:	++ llosgi ? 1449930_1450341
 %eng:	...burn?
-*LCD:	+, yn llosgi ia . %snd:"patagonia23"_1450309_1451882
+*LCD:	+, yn llosgi ia . 1450309_1451882
 %eng:	...burn, yes
-*LCD:	ac mae o +.. . %snd:"patagonia23"_1453001_1454334
+*LCD:	ac mae o +... 1453001_1454334
 %eng:	and it's...
-*SUS:	ar [?] cnawd ni . %snd:"patagonia23"_1454534_1456076
+*SUS:	ar [?] cnawd ni . 1454534_1456076
 %eng:	on our flesh
-*LCD:	ie . %snd:"patagonia23"_1456028_1456742
+*LCD:	ie . 1456028_1456742
 %eng:	yes
-*LCD:	oh@s:cym&spa wel . %snd:"patagonia23"_1456796_1457841
+*LCD:	oh@s:cym&spa wel . 1456796_1457841
 %eng:	oh well
-*LCD:	&=laugh yn llawn cracau [?] ! %snd:"patagonia23"_1458630_1460747
+*LCD:	&=laugh yn llawn cracau [?] ! 1458630_1460747
 %eng:	full of cracks!
-*SUS:	na yr er@s:cym&spa sbotiau du (y)na . %snd:"patagonia23"_1461118_1464278
+*SUS:	na yr er@s:cym&spa sbotiau du (y)na . 1461118_1464278
 %eng:	no, those black spots
-*LCD:	ie . %snd:"patagonia23"_1465012_1465972
+*LCD:	ie . 1465012_1465972
 %eng:	yes
-*LCD:	ie mae isio (.) gofalu rheina achos <mae (y)n> [//] weithiau maen nhw (y)n gallu troi i rywbeth (..) digon drwg . %snd:"patagonia23"_1466755_1474000
+*LCD:	ie mae isio (.) gofalu rheina achos <mae (y)n> [//] weithiau maen nhw (y)n gallu troi i rywbeth (..) digon drwg . 1466755_1474000
 %eng:	yes, you have to be careful of those because sometimes they can turn into something pretty bad
-*SUS:	a efo (y)r gwynt dan ni ddim gallu mynd â (..) er@s:cym&spa hetiau amdanon ni . %snd:"patagonia23"_1477668_1484755
+*SUS:	a efo (y)r gwynt dan ni ddim gallu mynd â (..) er@s:cym&spa hetiau amdanon ni . 1477668_1484755
 %eng:	and with the wind, we can't go around with hats on
-*LCD:	na . %snd:"patagonia23"_1485088_1485947
+*LCD:	na . 1485088_1485947
 %eng:	no
-*LCD:	ie na mae isio rywbe(th) [//] ruban neu rywbeth xx . %snd:"patagonia23"_1487291_1490225
+*LCD:	ie na mae isio rywbe(th) [//] ruban neu rywbeth xx . 1487291_1490225
 %eng:	yes, no you need a ribbon or something
-*SUS:	<fel oedd gan y> [?] dynes (y)ma oedd yn pasio gynnau . %snd:"patagonia23"_1490401_1492108
+*SUS:	<fel oedd gan y> [?] dynes (y)ma oedd yn pasio gynnau . 1490401_1492108
 %eng:	like the woman had who was passing just now
-*LCD:	ie . %snd:"patagonia23"_1492180_1492772
+*LCD:	ie . 1492180_1492772
 %eng:	yes
-*LCD:	wel mae Beryl@s:cym&spa yn roid er@s:cym&spa +.. . %snd:"patagonia23"_1492925_1495656
+*LCD:	wel mae Beryl@s:cym&spa yn roid er@s:cym&spa +... 1492925_1495656
 %eng:	well, Beryl is putting...
-*LCD:	dw i (ddi)m gwybod sut mae hi rŵan . %snd:"patagonia23"_1498520_1499629
+*LCD:	dw i (ddi)m gwybod sut mae hi rŵan . 1498520_1499629
 %eng:	I don't know how she is now
-*LCD:	achos oedd llynedd gorfod [?] hi (.) dynnu (..) mwy na un +.. . %snd:"patagonia23"_1499634_1505255
+*LCD:	achos oedd llynedd gorfod [?] hi (.) dynnu (..) mwy na un +... 1499634_1505255
 %eng:	because last year she had to take more than one
-*SUS:	ie mae hi (y)n wneud dipyn +/ . %snd:"patagonia23"_1503807_1505162
+*SUS:	ie mae hi (y)n wneud dipyn +/. 1503807_1505162
 %eng:	yes, she does a bit...
-*SUS:	<pryd oedd o> [?] ? %snd:"patagonia23"_1505967_1506553
+*SUS:	<pryd oedd o> [?] ? 1505967_1506553
 %eng:	when was it?
-*SUS:	er@s:cym&spa dim [/] er@s:cym&spa (..) dim xx . %snd:"patagonia23"_1506431_1509855
+*SUS:	er@s:cym&spa dim [/] er@s:cym&spa (..) dim xx . 1506431_1509855
 %eng:	er, not [...]
-*LCD:	na ? %snd:"patagonia23"_1509843_1510355
+*LCD:	na ? 1509843_1510355
 %eng:	no?
-*LCD:	na wrth_gwrs (.) yn y gaea xxx . %snd:"patagonia23"_1510316_1513302
+*LCD:	na wrth_gwrs (.) yn y gaea xxx . 1510316_1513302
 %eng:	no, of course, in winter [...]
-*SUS:	mae (y)n gofalu ei hunan yn iawn . %snd:"patagonia23"_1515897_1518084
+*SUS:	mae (y)n gofalu ei hunan yn iawn . 1515897_1518084
 %eng:	she looks after herself alright
-*LCD:	wel (..) mae raid iddi [?] ofalu amdani hi achos +.. . %snd:"patagonia23"_1518825_1522089
+*LCD:	wel (..) mae raid iddi [?] ofalu amdani hi achos +... 1518825_1522089
 %eng:	well she has to look after herself because...
-*LCD:	mae Sandy@s:cym&spa . %snd:"patagonia23"_1524236_1524988
+*LCD:	mae Sandy@s:cym&spa . 1524236_1524988
 %eng:	there's Sandy
-*LCD:	mae (y)n meddwl siwr am Sandy@s:cym&spa hefyd . %snd:"patagonia23"_1524984_1527021
+*LCD:	mae (y)n meddwl siwr am Sandy@s:cym&spa hefyd . 1524984_1527021
 %eng:	she's sure to be thinking about Sandy too
 %com:	pause
-*SUS:	xx . %snd:"patagonia23"_1540959_1541732
-*LCD:	mae um (.) bachgen Menter@s:cym&spa yn dod pnawn (y)ma (.) i chwarae gyda (y)r plant . %snd:"patagonia23"_1543018_1549337
+*SUS:	xx . 1540959_1541732
+*LCD:	mae um (.) bachgen Menter@s:cym&spa yn dod pnawn (y)ma (.) i chwarae gyda (y)r plant . 1543018_1549337
 %eng:	the boy from Menter is coming this afternoon to play with the children
-*SUS:	pwy ? %snd:"patagonia23"_1550516_1551199
+*SUS:	pwy ? 1550516_1551199
 %eng:	who?
-*LCD:	&=laugh . %snd:"patagonia23"_1551277_1551858
-*LCD:	bachg(en) [//] Gerallt@s:cym&spa . %snd:"patagonia23"_1552337_1553665
-%eng:	a boy.. . Gerallt
-*LCD:	Gerallt@s:cym&spa dw (ddi)m yn gwybod beth . %snd:"patagonia23"_1554795_1556667
+*LCD:	&=laugh . 1551277_1551858
+*LCD:	bachg(en) [//] Gerallt@s:cym&spa . 1552337_1553665
+%eng:	a boy... Gerallt
+*LCD:	Gerallt@s:cym&spa dw (ddi)m yn gwybod beth . 1554795_1556667
 %eng:	Gerallt I don't know what
-*LCD:	er@s:cym&spa (.) mae o (we)di [/] wedi dod gyda Menter_Iaith@s:cym&spa . %snd:"patagonia23"_1557557_1561514
+*LCD:	er@s:cym&spa (.) mae o (we)di [/] wedi dod gyda Menter_Iaith@s:cym&spa . 1557557_1561514
 %eng:	er, he's come over with Menter Iaith
-*SUS:	qué@s:spa es@s:spa un@s:spa menter ["] ? %snd:"patagonia23"_1562896_1563909
+*SUS:	qué@s:spa es@s:spa un@s:spa menter ["] ? 1562896_1563909
 %eng:	what is a "menter"
-*LCD:	menter er@s:cym&spa +// . %snd:"patagonia23"_1563787_1565135
+*LCD:	menter er@s:cym&spa +//. 1563787_1565135
 %eng:	enterprise, er...
-*LCD:	ti (y)n cofio Gwilym@s:cym&spa llynedd ? %snd:"patagonia23"_1565242_1566954
+*LCD:	ti (y)n cofio Gwilym@s:cym&spa llynedd ? 1565242_1566954
 %eng:	you remember Gwilym last year?
-*SUS:	ie . %snd:"patagonia23"_1567307_1568001
+*SUS:	ie . 1567307_1568001
 %eng:	yes
-*LCD:	maen nhw (y)n dod i [/] i wneud gweithgareddau (.) xx [?] (.) allan o (y)r dosbarthiadau . %snd:"patagonia23"_1568225_1575090
+*LCD:	maen nhw (y)n dod i [/] i wneud gweithgareddau (.) xx [?] (.) allan o (y)r dosbarthiadau . 1568225_1575090
 %eng:	they come to do activities [...] outside of lessons
-*SUS:	+< ah@s:cym&spa ! %snd:"patagonia23"_1571299_1571992
-*SUS:	+< ie ie ie . %snd:"patagonia23"_1572216_1573032
+*SUS:	+< ah@s:cym&spa ! 1571299_1571992
+*SUS:	+< ie ie ie . 1572216_1573032
 %eng:	yes, yes
-*LCD:	ond wel &t +.. . %snd:"patagonia23"_1576334_1577332
+*LCD:	ond wel &t +... 1576334_1577332
 %eng:	but, well...
-*LCD:	tro cynta fydd o (y)n dod heddiw . %snd:"patagonia23"_1577540_1579433
+*LCD:	tro cynta fydd o (y)n dod heddiw . 1577540_1579433
 %eng:	he's coming for the first time today
-*SUS:	a dod i (.) i (y)r um +/ . %snd:"patagonia23"_1579812_1581726
+*SUS:	a dod i (.) i (y)r um +/. 1579812_1581726
 %eng:	and coming to the...
-*LCD:	+< xxx . %snd:"patagonia23"_1580281_1580804
-*LCD:	bydd o (y)n dod i_fyny (.) i (y)r coleg (..) tua hanner awr wedi chwech . %snd:"patagonia23"_1581716_1586186
+*LCD:	+< xxx . 1580281_1580804
+*LCD:	bydd o (y)n dod i_fyny (.) i (y)r coleg (..) tua hanner awr wedi chwech . 1581716_1586186
 %eng:	he'll be coming up to the college around 6:30
-*SUS:	+< xxx . %snd:"patagonia23"_1583035_1583691
-*LCD:	a wel mae o mynd i wneud rywbeth efo (y)r plant . %snd:"patagonia23"_1586384_1589061
+*SUS:	+< xxx . 1583035_1583691
+*LCD:	a wel mae o mynd i wneud rywbeth efo (y)r plant . 1586384_1589061
 %eng:	and, well, he's going to do something with the children
-*LCD:	achos dw i ddim wedi wneud dim_byd efo (y)r plant (e)leni . %snd:"patagonia23"_1589564_1592108
+*LCD:	achos dw i ddim wedi wneud dim_byd efo (y)r plant (e)leni . 1589564_1592108
 %eng:	because I haven't done anything with the children this year
-*LCD:	wel dim_ond dysgu (y)r adroddiadau . %snd:"patagonia23"_1593138_1595106
+*LCD:	wel dim_ond dysgu (y)r adroddiadau . 1593138_1595106
 %eng:	well, only learning the recitations
-*LCD:	dim_byd arall . %snd:"patagonia23"_1595186_1596380
+*LCD:	dim_byd arall . 1595186_1596380
 %eng:	nothing else
-*LCD:	ond er@s:cym&spa +.. . %snd:"patagonia23"_1598150_1599926
+*LCD:	ond er@s:cym&spa +... 1598150_1599926
 %eng:	but er...
-*LCD:	wel <ella ga i rywun i> [?] ddod unwaith eto . %snd:"patagonia23"_1600422_1602315
+*LCD:	wel <ella ga i rywun i> [?] ddod unwaith eto . 1600422_1602315
 %eng:	well, maybe I'll get someone to come again
-*LCD:	achos fydd o ddim yn dod bob wythnos chwaith . %snd:"patagonia23"_1602232_1604376
+*LCD:	achos fydd o ddim yn dod bob wythnos chwaith . 1602232_1604376
 %eng:	because he won't be coming every week either
-*LCD:	dim ond pob +/ . %snd:"patagonia23"_1604381_1605704
+*LCD:	dim ond pob +/. 1604381_1605704
 %eng:	only every...
-*SUS:	ah@s:cym&spa bydd o (y)n dal ymlaen i ddod ? %snd:"patagonia23"_1605333_1607253
+*SUS:	ah@s:cym&spa bydd o (y)n dal ymlaen i ddod ? 1605333_1607253
 %eng:	ah, will he keep on coming?
-*LCD:	ie &iw bydd o (y)n dod unwaith eto (.) siwr . %snd:"patagonia23"_1607418_1610335
+*LCD:	ie &iw bydd o (y)n dod unwaith eto (.) siwr . 1607418_1610335
 %eng:	yes, he'll come once more, I'm sure
-*SUS:	+< xxx . %snd:"patagonia23"_1609770_1610207
-*LCD:	dw i (ddi)m credu <ddeith o> [?] xxx . %snd:"patagonia23"_1610686_1612010
+*SUS:	+< xxx . 1609770_1610207
+*LCD:	dw i (ddi)m credu <ddeith o> [?] xxx . 1610686_1612010
 %eng:	I don't think he'll come [...]
-*LCD:	achos (.) dw i (y)n credu <bod o> [//] bydd o ddim yn gweithio mis Rhagfyr . %snd:"patagonia23"_1611946_1616793
+*LCD:	achos (.) dw i (y)n credu <bod o> [//] bydd o ddim yn gweithio mis Rhagfyr . 1611946_1616793
 %eng:	because I think he won't be working in December
-*LCD:	efallai bydd o (y)n mynd yn_ôl . %snd:"patagonia23"_1618755_1620333
+*LCD:	efallai bydd o (y)n mynd yn_ôl . 1618755_1620333
 %eng:	maybe he'll be going back
-*LCD:	dw i ddim xx . %snd:"patagonia23"_1620376_1622310
+*LCD:	dw i ddim xx . 1620376_1622310
 %eng:	I don't [...]
-*LCD:	achos (dy)dyn nhw ddim yn dibynnu er@s:cym&spa (.) <ar busnes> [//] er@s:cym&spa (..) ar dosbarthiadau xx . %snd:"patagonia23"_1622268_1630656
+*LCD:	achos (dy)dyn nhw ddim yn dibynnu er@s:cym&spa (.) <ar busnes> [//] er@s:cym&spa (..) ar dosbarthiadau xx . 1622268_1630656
 %eng:	because they don't depend on classes [...]
-*LCD:	maen nhw (y)n gweithio (.) y reolau eraill . %snd:"patagonia23"_1630703_1633945
+*LCD:	maen nhw (y)n gweithio (.) y reolau eraill . 1630703_1633945
 %eng:	they work to the other rules
-*SUS:	xxx +/ . %snd:"patagonia23"_1637909_1638677
-*LCD:	mae gen ti +/ . %snd:"patagonia23"_1638565_1639877
+*SUS:	xxx +/. 1637909_1638677
+*LCD:	mae gen ti +/. 1638565_1639877
 %eng:	you've got...
-*SUS:	y swn efo (y)r drysau (y)ma ! %snd:"patagonia23"_1639914_1641762
+*SUS:	y swn efo (y)r drysau (y)ma ! 1639914_1641762
 %eng:	the noise from these doors!
-*LCD:	mae gen ti +.. . %snd:"patagonia23"_1642066_1643479
+*LCD:	mae gen ti +... 1642066_1643479
 %eng:	you've got...
-*LCD:	beth ydy ? %snd:"patagonia23"_1643889_1644524
+*LCD:	beth ydy ? 1643889_1644524
 %eng:	what is it?
-*LCD:	morwyn bach ? %snd:"patagonia23"_1644518_1645350
+*LCD:	morwyn bach ? 1644518_1645350
 %eng:	a little maid?
-*LCD:	rhy brysur ! %snd:"patagonia23"_1647490_1648674
+*LCD:	rhy brysur ! 1647490_1648674
 %eng:	too busy!
-*SUS:	xx +/ . %snd:"patagonia23"_1649023_1649514
-*LCD:	un newydd (y)dy ? %snd:"patagonia23"_1649332_1650666
+*SUS:	xx +/. 1649023_1649514
+*LCD:	un newydd (y)dy ? 1649332_1650666
 %eng:	is she a new one?
-*SUS:	na mae ers misoedd bellach . %snd:"patagonia23"_1650701_1652873
+*SUS:	na mae ers misoedd bellach . 1650701_1652873
 %eng:	no, for months now
-*LCD:	oh@s:cym&spa . %snd:"patagonia23"_1652902_1653360
-*SUS:	yndy mae (y)n brysur . %snd:"patagonia23"_1654218_1655216
+*LCD:	oh@s:cym&spa . 1652902_1653360
+*SUS:	yndy mae (y)n brysur . 1654218_1655216
 %eng:	yes, she's busy
-*SUS:	mae (y)n wneud yn iawn . %snd:"patagonia23"_1655221_1656064
+*SUS:	mae (y)n wneud yn iawn . 1655221_1656064
 %eng:	she's doing fine
-*SUS:	mae (y)n (.) <reit dof> [?] . %snd:"patagonia23"_1656163_1657663
+*SUS:	mae (y)n (.) <reit dof> [?] . 1656163_1657663
 %eng:	she's very domesticated
-*SUS:	ha@s:cym&spa ! %snd:"patagonia23"_1657663_1658042
-*SUS:	xx mae ddim yn er@s:cym&spa [///] llygaid hi ddim yn iawn . %snd:"patagonia23"_1658454_1661105
+*SUS:	ha@s:cym&spa ! 1657663_1658042
+*SUS:	xx mae ddim yn er@s:cym&spa [///] llygaid hi ddim yn iawn . 1658454_1661105
 %eng:	her eyes aren't good
-*LCD:	oh@s:cym&spa dydy (ddi)m gweld yn iawn ? %snd:"patagonia23"_1661612_1662940
+*LCD:	oh@s:cym&spa dydy (ddi)m gweld yn iawn ? 1661612_1662940
 %eng:	oh, she can't see properly?
-*SUS:	na [=! laughs] ! %snd:"patagonia23"_1662972_1663921
+*SUS:	na [=! laughs] ! 1662972_1663921
 %eng:	no
-*LCD:	oh@s:cym&spa . %snd:"patagonia23"_1664679_1665170
-*SUS:	dw i (y)n weld am ei hôl hi edrych (.) achos hynna mae o . %snd:"patagonia23"_1665020_1667532
+*LCD:	oh@s:cym&spa . 1664679_1665170
+*SUS:	dw i (y)n weld am ei hôl hi edrych (.) achos hynna mae o . 1665020_1667532
 %eng:	I have a look after her to see, because that's what it is
-*SUS:	pethau ddim yn cael eu glanhau (y)n [//] fel xx nhw . %snd:"patagonia23"_1667562_1670038
+*SUS:	pethau ddim yn cael eu glanhau (y)n [//] fel xx nhw . 1667562_1670038
 %eng:	things not getting cleaned as they [...]
 %com:	do not recognise what seems to be modal verb here meaning "should" or "could" sounds like "glasen nhw" . Again 11 lines below.
-*LCD:	ie wel (..) raid hi edrych er@s:cym&spa (.) lle bod hi (y)n (.) sgipo ryw bethau bach <wyt ti> [//] &ds (dy)dy ddim yn gweld . %snd:"patagonia23"_1671099_1680313
+*LCD:	ie wel (..) raid hi edrych er@s:cym&spa (.) lle bod hi (y)n (.) sgipo ryw bethau bach <wyt ti> [//] &ds (dy)dy ddim yn gweld . 1671099_1680313
 %eng:	yes, well she has to look, where she skips some little things she doesn't see
-*SUS:	+< ie . %snd:"patagonia23"_1677500_1678007
+*SUS:	+< ie . 1677500_1678007
 %eng:	yes
-*SUS:	+< xx . %snd:"patagonia23"_1679779_1680190
-*LCD:	achos (.) oedd (y)na ryw ddynes gen i ryw dro . %snd:"patagonia23"_1680347_1683237
+*SUS:	+< xx . 1679779_1680190
+*LCD:	achos (.) oedd (y)na ryw ddynes gen i ryw dro . 1680347_1683237
 %eng:	because there was some woman I had once
-*LCD:	ac oedd hi [///] oedd hithau chwaith ddim yn gweld (.) fawr o ddim . %snd:"patagonia23"_1683254_1686908
+*LCD:	ac oedd hi [///] oedd hithau chwaith ddim yn gweld (.) fawr o ddim . 1683254_1686908
 %eng:	and she couldn't see anything much either
-*LCD:	ac wedyn <oedd hi (y)n er@s:cym&spa> [/] (...) oedd hi (y)n (.) sgipo pethau a +.. . %snd:"patagonia23"_1687586_1695105
+*LCD:	ac wedyn <oedd hi (y)n er@s:cym&spa> [/] (...) oedd hi (y)n (.) sgipo pethau a +... 1687586_1695105
 %eng:	and then she would skip things and...
-*SUS:	++ a ffwrdd â nhw ? %snd:"patagonia23"_1695052_1696113
+*SUS:	++ a ffwrdd â nhw ? 1695052_1696113
 %eng:	...and away with them?
-*LCD:	i (y)r bin â nhw . %snd:"patagonia23"_1696156_1697641
+*LCD:	i (y)r bin â nhw . 1696156_1697641
 %eng:	in the bin they went
-*LCD:	unwaith wyt ti (y)n gweld un peth unwaith rwyt ti (y)n dechrau edrych wedyn os (y)na rywbeth arall . %snd:"patagonia23"_1700092_1705007
+*LCD:	unwaith wyt ti (y)n gweld un peth unwaith rwyt ti (y)n dechrau edrych wedyn os (y)na rywbeth arall . 1700092_1705007
 %eng:	once you see one thing once you start to look then if there's something else
-*SUS:	+< ie . %snd:"patagonia23"_1703433_1703657
+*SUS:	+< ie . 1703433_1703657
 %eng:	yes
-*SUS:	na na pethau ddim yn gael eu glanhau (.) fel xx nhw . %snd:"patagonia23"_1706491_1709798
+*SUS:	na na pethau ddim yn gael eu glanhau (.) fel xx nhw . 1706491_1709798
 %eng:	no, things not getting cleaned as they [...]
-*LCD:	ie . %snd:"patagonia23"_1709891_1710531
+*LCD:	ie . 1709891_1710531
 %eng:	yes
-*LCD:	ond ti (y)n gweld (e)fallai bod nhw ddim wedi arfer chwaith (..) efo pethau +.. . %snd:"patagonia23"_1711607_1718545
+*LCD:	ond ti (y)n gweld (e)fallai bod nhw ddim wedi arfer chwaith (..) efo pethau +... 1711607_1718545
 %eng:	but you see maybe they're not used to things either...
-*SUS:	ie a mae (y)n [/] yn anodd gael rywun er@s:cym&spa +.. . %snd:"patagonia23"_1719149_1722711
+*SUS:	ie a mae (y)n [/] yn anodd gael rywun er@s:cym&spa +... 1719149_1722711
 %eng:	yes, and it's hard to get someone, er...
-*LCD:	++ sy (y)n <gwybod wneud> [//] (.) gwybod y gwaith . %snd:"patagonia23"_1723313_1725430
+*LCD:	++ sy (y)n <gwybod wneud> [//] (.) gwybod y gwaith . 1723313_1725430
 %eng:	...who knows the work
-*SUS:	ie a sy (y)n diogel [?] o_fewn i (y)r tŷ . %snd:"patagonia23"_1725503_1727583
+*SUS:	ie a sy (y)n diogel [?] o_fewn i (y)r tŷ . 1725503_1727583
 %eng:	yes, and who's safe in the house
-*LCD:	ie . %snd:"patagonia23"_1728085_1728591
+*LCD:	ie . 1728085_1728591
 %eng:	yes
-*LCD:	ond (.) wel +.. . %snd:"patagonia23"_1736423_1737863
+*LCD:	ond (.) wel +... 1736423_1737863
 %eng:	but, well...
-*LCD:	toes (y)na ddim ysgol i ddysgu (y)r pethau fel (yn)a . %snd:"patagonia23"_1739068_1742060
+*LCD:	toes (y)na ddim ysgol i ddysgu (y)r pethau fel (yn)a . 1739068_1742060
 %eng:	there's no school to teach things like that
-*SUS:	nag oes . %snd:"patagonia23"_1743399_1743980
+*SUS:	nag oes . 1743399_1743980
 %eng:	there isn't
-*SUS:	dim ond wneud nhw achos <y maen nhw> [?] dim yn gallu wneud rywbeth arall . %snd:"patagonia23"_1743975_1746631
+*SUS:	dim ond wneud nhw achos <y maen nhw> [?] dim yn gallu wneud rywbeth arall . 1743975_1746631
 %eng:	only doing them because they can't do anything else
-*LCD:	ie [?] . %snd:"patagonia23"_1747984_1748704
+*LCD:	ie [?] . 1747984_1748704
 %eng:	yes
-*LCD:	pan wyt ti wedi dysgu sut wyt ti isio pethau (...) maen nhw mynd i_ffwrdd weithiau . %snd:"patagonia23"_1749475_1756392
+*LCD:	pan wyt ti wedi dysgu sut wyt ti isio pethau (...) maen nhw mynd i_ffwrdd weithiau . 1749475_1756392
 %eng:	when you've taught them how you want things, they go away sometimes
-*SUS:	xx . %snd:"patagonia23"_1759039_1759695
-*LCD:	wnest ti glywed yr um +.. . %snd:"patagonia23"_1764993_1768518
+*SUS:	xx . 1759039_1759695
+*LCD:	wnest ti glywed yr um +... 1764993_1768518
 %eng:	did you hear the, um...
-*LCD:	glywest ti (y)r er@s:cym&spa (..) er@s:cym&spa +.. . %snd:"patagonia23"_1769320_1773006
+*LCD:	glywest ti (y)r er@s:cym&spa (..) er@s:cym&spa +... 1769320_1773006
 %eng:	did you hear, er...
-*LCD:	glywest ti &a um (..) y gwaith (y)na Madalynn@s:cym&spa [?] ? %snd:"patagonia23"_1776247_1782194
+*LCD:	glywest ti &a um (..) y gwaith (y)na Madalynn@s:cym&spa [?] ? 1776247_1782194
 %eng:	did you hear [about] that work of Madalynn's?
-*LCD:	wnest ti glywed yr +/? %snd:"patagonia23"_1782301_1783080
+*LCD:	wnest ti glywed yr +/? 1782301_1783080
 %eng:	did you hear the...?
-*SUS:	na na dw i ddim yn ddigon xxx +/ . %snd:"patagonia23"_1783069_1785298
+*SUS:	na na dw i ddim yn ddigon xxx +/. 1783069_1785298
 %eng:	no, I'm not [...] enough...
-*LCD:	+< xxx . %snd:"patagonia23"_1784397_1785176
-*LCD:	mae hi (y)n dod . %snd:"patagonia23"_1785549_1786547
+*LCD:	+< xxx . 1784397_1785176
+*LCD:	mae hi (y)n dod . 1785549_1786547
 %eng:	she's coming
-*SUS:	yn [/] yn lle mae o ? %snd:"patagonia23"_1787216_1788518
+*SUS:	yn [/] yn lle mae o ? 1787216_1788518
 %eng:	where is he?
-*SUS:	yn yr papur newydd siwr o bod . %snd:"patagonia23"_1788518_1790304
+*SUS:	yn yr papur newydd siwr o bod . 1788518_1790304
 %eng:	in the newspaper, must be
-*SUS:	wedi bod +/ . %snd:"patagonia23"_1790496_1791159
+*SUS:	wedi bod +/. 1790496_1791159
 %eng:	has been...
-*LCD:	ie glywes i o (.) wel pan oedden nhw (y)n adrodd . %snd:"patagonia23"_1791143_1794434
+*LCD:	ie glywes i o (.) wel pan oedden nhw (y)n adrodd . 1791143_1794434
 %eng:	yes, I heard it while they were reciting
 @End

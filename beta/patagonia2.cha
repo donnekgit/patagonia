@@ -12,7 +12,7 @@
 @Time Duration:	00:29:18
 @Media:	Patagonia2, audio
 @Comment:	Filename: Patagonia2.CHA; Soundfile: Patagonia2.WAV
-@Comment:	Language markers:  @s:en = English, @s:es = Spanish @s:cy&es = Undetermined
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	AVR's speech is generally quite faint on recording and often unintelligible
 *AVR:	wel (ba)swn i ddim yma . 261_1364
 %eng:	well, I wouldn't be here.

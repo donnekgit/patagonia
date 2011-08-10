@@ -12,755 +12,755 @@
 @Time Duration:	00:26:18
 @Media:	Patagonia29, audio
 @Comment:	Filename: Patagonia29.cha; Soundfile: Patagonia29.wav
-@Comment:	Language markers:  @s:eng = English, @s:spa = Spanish @s:cym&spa = Undetermined
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	Pseudonyms seem to have been done incompletely or not at all.
-*MER:	wyt ti (y)n mynd i (.) côr yfory (.) i weld y côr ? %snd:"patagonia29"_0_2805
+*MER:	wyt ti (y)n mynd i (.) côr yfory (.) i weld y côr ? 0_2805
 %eng:	are you going to see the choir?
-*FER:	dw i (y)n meddwl (.) ydw . %snd:"patagonia29"_4518_5643
+*FER:	dw i (y)n meddwl (.) ydw . 4518_5643
 %eng:	I think so, yes.
-*FER:	rhaid i fi fynd efo (y)r côr cymysg o (y)r ysgol gerdd . %snd:"patagonia29"_5723_8582
+*FER:	rhaid i fi fynd efo (y)r côr cymysg o (y)r ysgol gerdd . 5723_8582
 %eng:	I have to go with the mixed choir of the music school.
-*MER:	+< ie fi hefyd . %snd:"patagonia29"_8256_9232
+*MER:	+< ie fi hefyd . 8256_9232
 %eng:	yes, me as well.
-*MER:	ond dw i ddim yn gwybod os dw i (y)n gallu . %snd:"patagonia29"_9363_11678
+*MER:	ond dw i ddim yn gwybod os dw i (y)n gallu . 9363_11678
 %eng:	but I don't know if I can.
-*FER:	pam ? %snd:"patagonia29"_11811_12441
+*FER:	pam ? 11811_12441
 %eng:	why?
-*FER:	ah@s:cym&spa rhaid ti fynd i wneud arholiad . %snd:"patagonia29"_12587_14891
+*FER:	ah@s:cym&spa rhaid ti fynd i wneud arholiad . 12587_14891
 %eng:	ah, you have to go and take an exam.
-*MER:	+< &=laugh achos +// . %snd:"patagonia29"_13712_14544
+*MER:	+< &=laugh achos +//. 13712_14544
 %eng:	because...
-*MER:	+< ia hefyd . %snd:"patagonia29"_14587_15579
+*MER:	+< ia hefyd . 14587_15579
 %eng:	yes, also.
-*FER:	oes [//] does dim arholiad (.) gyda ti . %snd:"patagonia29"_16943_18745
+*FER:	oes [//] does dim arholiad (.) gyda ti . 16943_18745
 %eng:	don't you have an exam?
-*FER:	wyt ti (y)n gallu dod achos +.. . %snd:"patagonia29"_20033_21255
+*FER:	wyt ti (y)n gallu dod achos +... 20033_21255
 %eng:	you can come because...
-*MER:	ie . %snd:"patagonia29"_20961_21324
+*MER:	ie . 20961_21324
 %eng:	yes.
-*MER:	xx . %snd:"patagonia29"_21479_21991
-*MER:	efallai (.) dw i (y)n mynd i Trelew@s:cym&spa i wneud arholiad . %snd:"patagonia29"_22740_26031
+*MER:	xx . 21479_21991
+*MER:	efallai (.) dw i (y)n mynd i Trelew@s:cym&spa i wneud arholiad . 22740_26031
 %eng:	maybe I'll go to Trelew to take an exam.
-*MER:	dw i (y)n wneud yr arholiad a wedyn +.. . %snd:"patagonia29"_26546_28162
+*MER:	dw i (y)n wneud yr arholiad a wedyn +... 26546_28162
 %eng:	I take teh exam and then...
-*FER:	am faint o (y)r gloch wyt ti (y)n dod ? %snd:"patagonia29"_28333_29917
+*FER:	am faint o (y)r gloch wyt ti (y)n dod ? 28333_29917
 %eng:	what time will you come?
-*MER:	dw i (ddi)m yn gwybod . %snd:"patagonia29"_30171_31339
+*MER:	dw i (ddi)m yn gwybod . 30171_31339
 %eng:	I don't know.
-*MER:	dw i (y)n meddwl am wyth neu +.. . %snd:"patagonia29"_32394_34346
+*MER:	dw i (y)n meddwl am wyth neu +... 32394_34346
 %eng:	I think at eight or...
-*FER:	mae xxx yn dechrau am hanner awr . %snd:"patagonia29"_35152_37462
+*FER:	mae xxx yn dechrau am hanner awr . 35152_37462
 %eng:	[...] starts at half past.
-*MER:	+< ia hanner awr wedi wyth . %snd:"patagonia29"_37003_38432
+*MER:	+< ia hanner awr wedi wyth . 37003_38432
 %eng:	yes, half past eight.
-*FER:	felly mae hi (y)n amser i ti xxx . %snd:"patagonia29"_38715_41307
+*FER:	felly mae hi (y)n amser i ti xxx . 38715_41307
 %eng:	so it's time for you to [...].
-*FER:	am faint o (y)r gloch rhaid i ti mynd i wneud yr arholiad ? %snd:"patagonia29"_41491_43934
+*FER:	am faint o (y)r gloch rhaid i ti mynd i wneud yr arholiad ? 41491_43934
 %eng:	what time do you have to go to take the exam?
-*MER:	yfory ? %snd:"patagonia29"_44211_44878
+*MER:	yfory ? 44211_44878
 %eng:	tomorrow?
-*FER:	yfory . %snd:"patagonia29"_45033_45502
+*FER:	yfory . 45033_45502
 %eng:	tomorrow.
-*MER:	am chwech . %snd:"patagonia29"_45774_46345
+*MER:	am chwech . 45774_46345
 %eng:	at six.
-*MER:	ie dw i (y)n meddwl . %snd:"patagonia29"_47849_49289
+*MER:	ie dw i (y)n meddwl . 47849_49289
 %eng:	yes, I think so.
-*FER:	rhaid ti wneud yn un awr a hanner . %snd:"patagonia29"_50065_52764
+*FER:	rhaid ti wneud yn un awr a hanner . 50065_52764
 %eng:	you have to do it in an hour and a half.
-*FER:	ac wedyn mynd i (..) xx . %snd:"patagonia29"_52805_56314
+*FER:	ac wedyn mynd i (..) xx . 52805_56314
 %eng:	and then go to [..].
-*MER:	+< ie . %snd:"patagonia29"_53242_53562
+*MER:	+< ie . 53242_53562
 %eng:	yes.
-*MER:	&=laugh a rhaid i ni prynu empanadas@s:spa (.) hefyd . %snd:"patagonia29"_54658_57906
+*MER:	&=laugh a rhaid i ni prynu empanadas@s:spa (.) hefyd . 54658_57906
 %eng:	and we have to buy empanadas as well.
-*FER:	ah@s:cym&spa wel (.) <mae mam> [//] mae dy mam ti yn gallu prynu os wyt ti (y)n gofyn i hi . %snd:"patagonia29"_58119_63575
+*FER:	ah@s:cym&spa wel (.) <mae mam> [//] mae dy mam ti yn gallu prynu os wyt ti (y)n gofyn i hi . 58119_63575
 %eng:	ah, well, your mother can buy them if you ask her.
-*MER:	+< ie . %snd:"patagonia29"_58625_58967
+*MER:	+< ie . 58625_58967
 %eng:	yes.
-*MER:	&=laugh . %snd:"patagonia29"_59873_60529
-*MER:	+< ie . %snd:"patagonia29"_62119_62444
+*MER:	&=laugh . 59873_60529
+*MER:	+< ie . 62119_62444
 %eng:	yes.
-*FER:	um (..) pryd [//] oes rhyw acto@s:spa ? %snd:"patagonia29"_65251_69689
+*FER:	um (..) pryd [//] oes rhyw acto@s:spa ? 65251_69689
 %eng:	is there some performance?
-*MER:	eh@s:cym&spa ie dydd Mercher dauddeg pump . %snd:"patagonia29"_71270_74774
+*MER:	eh@s:cym&spa ie dydd Mercher dauddeg pump . 71270_74774
 %eng:	eh, yes, on Wednesday, the 25th.
-*MER:	um acto@s:spa de@s:spa xxx . %snd:"patagonia29"_79300_80569
+*MER:	um acto@s:spa de@s:spa xxx . 79300_80569
 %eng:	um a performance of [...].
-*FER:	a (.) wyt ti (y)n mynd i fynd ? %snd:"patagonia29"_81265_82843
+*FER:	a (.) wyt ti (y)n mynd i fynd ? 81265_82843
 %eng:	and are you going to go?
-*MER:	dw i (y)n meddwl dw i yn (.) efallai . %snd:"patagonia29"_84145_85174
+*MER:	dw i (y)n meddwl dw i yn (.) efallai . 84145_85174
 %eng:	I think I am, maybe.
-*FER:	mae acto@s:spa o Camwy@s:cym&spa yn er@s:cym&spa yn xx Rhagfyr . %snd:"patagonia29"_85913_90179
+*FER:	mae acto@s:spa o Camwy@s:cym&spa yn er@s:cym&spa yn xx Rhagfyr . 85913_90179
 %eng:	there is a performance from Camwy in December.
-*MER:	undeg tri . %snd:"patagonia29"_88985_89651
+*MER:	undeg tri . 88985_89651
 %eng:	13th.
-*FER:	na undeg_ddau (.) dydd Sadwrn . %snd:"patagonia29"_90753_92694
+*FER:	na undeg_ddau (.) dydd Sadwrn . 90753_92694
 %eng:	no, 12th, Saturday.
 %com:	incôrrect mutation
-*FER:	achos undeg_tri ydy dydd Sul . %snd:"patagonia29"_92710_94966
+*FER:	achos undeg_tri ydy dydd Sul . 92710_94966
 %eng:	because the 13th is a Sunday.
-*MER:	+< ah@s:cym&spa ia . %snd:"patagonia29"_92982_93750
+*MER:	+< ah@s:cym&spa ia . 92982_93750
 %eng:	ah, yes.
-*MER:	+< ia . %snd:"patagonia29"_94374_94833
+*MER:	+< ia . 94374_94833
 %eng:	yes.
-*MER:	ah@s:cym&spa ia acto@s:spa ysgol feithrin Gaiman@s:cym&spa un eh@s:cym&spa pedwar . %snd:"patagonia29"_95174_98331
+*MER:	ah@s:cym&spa ia acto@s:spa ysgol feithrin Gaiman@s:cym&spa un eh@s:cym&spa pedwar . 95174_98331
 %eng:	ah, yes, the performance of the Gaiman nursery school on the 14th.
-*FER:	pump ? %snd:"patagonia29"_97617_97963
+*FER:	pump ? 97617_97963
 %eng:	fifth?
-*FER:	na . %snd:"patagonia29"_98011_98267
+*FER:	na . 98011_98267
 %eng:	no.
-*FER:	na pedwar . %snd:"patagonia29"_98390_98950
+*FER:	na pedwar . 98390_98950
 %eng:	no, fourth.
-*MER:	pedwar y pedwar (.) o Rhagfyr ? %snd:"patagonia29"_99169_100326
+*MER:	pedwar y pedwar (.) o Rhagfyr ? 99169_100326
 %eng:	fourth, the fourth of December?
-*FER:	+< o@s:spa pump . %snd:"patagonia29"_99425_99969
+*FER:	+< o@s:spa pump . 99425_99969
 %eng:	or the fifth.
-*MER:	a o (y)r ysgol xx yn Nhrelew@s:spa@cy&es undeg pump . %snd:"patagonia29"_102345_105870
+*MER:	a o (y)r ysgol xx yn Nhrelew@s:spa@cy&es undeg pump . 102345_105870
 %eng:	and the one of [..] school in Trelew fifteenth.
-*FER:	ah@s:cym&spa er@s:cym&spa ac efallai (.) er@s:cym&spa pump er@s:cym&spa acto@s:spa yr ysgol cerdd . %snd:"patagonia29"_106510_111545
+*FER:	ah@s:cym&spa er@s:cym&spa ac efallai (.) er@s:cym&spa pump er@s:cym&spa acto@s:spa yr ysgol cerdd . 106510_111545
 %eng:	ah, and maybe the fifth the performance of the music school.
-*MER:	dydd Sadwrn . %snd:"patagonia29"_113572_114494
+*MER:	dydd Sadwrn . 113572_114494
 %eng:	Saturday.
-*MER:	ia . %snd:"patagonia29"_115902_116222
+*MER:	ia . 115902_116222
 %eng:	yes.
-*FER:	eh@s:cym&spa dw i ddim yn gwybod . %snd:"patagonia29"_116318_117321
+*FER:	eh@s:cym&spa dw i ddim yn gwybod . 116318_117321
 %eng:	i don't know.
-*FER:	ie (.) xx +/ . %snd:"patagonia29"_118638_119966
+*FER:	ie (.) xx +/. 118638_119966
 %eng:	yes, [..]...
-*MER:	a beth xx mynd i wneud yn yr (..) acto@s:spa (y)r ysgol cerdd ? %snd:"patagonia29"_119288_122594
+*MER:	a beth xx mynd i wneud yn yr (..) acto@s:spa (y)r ysgol cerdd ? 119288_122594
 %eng:	and what are you going to do in the performance of the music school?
-*FER:	dw i ddim yn gwybod . %snd:"patagonia29"_123212_124098
+*FER:	dw i ddim yn gwybod . 123212_124098
 %eng:	I don't know.
-*FER:	fydda i yn ddawnsio efo (y)r criw (.) o ddawnswyr yn Cymraeg . %snd:"patagonia29"_124146_127490
+*FER:	fydda i yn ddawnsio efo (y)r criw (.) o ddawnswyr yn Cymraeg . 124146_127490
 %eng:	I will be dancing with the Welsh dancers' group.
-*FER:	er@s:cym&spa wel (..) bydden ni yn canu yn y côr . %snd:"patagonia29"_128267_131750
+*FER:	er@s:cym&spa wel (..) bydden ni yn canu yn y côr . 128267_131750
 %eng:	well, we will sing in the choir.
-*FER:	um (.) beth arall ? %snd:"patagonia29"_133262_135262
+*FER:	um (.) beth arall ? 133262_135262
 %eng:	what else?
-*MER:	felly <wyt ti> [/] wyt ti ddim yn mynd i chwarae ffliwt neu piano@s:cym&spa <y dwy> [//] yr wythnos nesaf ? %snd:"patagonia29"_136741_143514
+*MER:	felly <wyt ti> [/] wyt ti ddim yn mynd i chwarae ffliwt neu piano@s:cym&spa <y dwy> [//] yr wythnos nesaf ? 136741_143514
 %eng:	so you won't be playing the flute or the piano next week?
-*FER:	+< ar yr wythnos nesaf ? %snd:"patagonia29"_142447_143546
+*FER:	+< ar yr wythnos nesaf ? 142447_143546
 %eng:	next week?
-*FER:	na dw i ddim yn gallu achos (.) fyddai ym Muenos_Aires . %snd:"patagonia29"_143685_147354
+*FER:	na dw i ddim yn gallu achos (.) fyddai ym Muenos_Aires . 143685_147354
 %eng:	no, I can't because I'll be in Buenos Aires.
 %com:	interesting mutation of Buenos Aires
-*FER:	dw isio chwarae flute [//] ffliwt achos +.. . %snd:"patagonia29"_148390_151238
+*FER:	dw isio chwarae flute [//] ffliwt achos +... 148390_151238
 %eng:	I want to play teh flute because...
-*MER:	(a)chos ie mae (y)n diddorol . %snd:"patagonia29"_150705_152337
+*MER:	(a)chos ie mae (y)n diddorol . 150705_152337
 %eng:	becuase, yes, it's interesting.
-*FER:	ydw [//] ydy . %snd:"patagonia29"_152902_154598
+*FER:	ydw [//] ydy . 152902_154598
 %eng:	yes.
-*FER:	ond wel (.) <y tro y tro> [/] y tro nesaf . %snd:"patagonia29"_154992_158832
+*FER:	ond wel (.) <y tro y tro> [/] y tro nesaf . 154992_158832
 %eng:	but never mind, next time.
-*MER:	+< tro nesaf ia . %snd:"patagonia29"_157616_158683
+*MER:	+< tro nesaf ia . 157616_158683
 %eng:	next time, yes.
-*FER:	dw i (ddi)m yn gwybod pryd . %snd:"patagonia29"_159419_160806
+*FER:	dw i (ddi)m yn gwybod pryd . 159419_160806
 %eng:	I don't know when.
-*FER:	ond +.. . %snd:"patagonia29"_160790_161835
+*FER:	ond +... 160790_161835
 %eng:	but...
-*MER:	+< &=laugh . %snd:"patagonia29"_161163_162059
-*MER:	wyt ti yn mynd i dysgu ffliwt yn La_Plata@s:cym&spa (.) y blwyddyn nesaf ? %snd:"patagonia29"_162422_164832
+*MER:	+< &=laugh . 161163_162059
+*MER:	wyt ti yn mynd i dysgu ffliwt yn La_Plata@s:cym&spa (.) y blwyddyn nesaf ? 162422_164832
 %eng:	are you going to learn the flute in La Plata next year?
-*FER:	faswn gallu . %snd:"patagonia29"_165792_166784
+*FER:	faswn gallu . 165792_166784
 %eng:	I could.
-*FER:	dw i isio dysgu lot o bethau . %snd:"patagonia29"_167499_171360
+*FER:	dw i isio dysgu lot o bethau . 167499_171360
 %eng:	I want to learn many things.
-*MER:	ia . %snd:"patagonia29"_169835_170304
+*MER:	ia . 169835_170304
 %eng:	yes.
-*FER:	ffliwt . %snd:"patagonia29"_170504_171123
+*FER:	ffliwt . 170504_171123
 %eng:	the flute.
-*FER:	canu . %snd:"patagonia29"_172158_173150
+*FER:	canu . 172158_173150
 %eng:	singing.
-*FER:	um (.) beth arall ? %snd:"patagonia29"_173576_175603
+*FER:	um (.) beth arall ? 173576_175603
 %eng:	what else?
-*FER:	wel dw i isio (.) mynd i (.) dysgu (.) i coginio xxx chef@s:cym&spa [?] . %snd:"patagonia29"_175770_181925
+*FER:	wel dw i isio (.) mynd i (.) dysgu (.) i coginio xxx chef@s:cym&spa [?] . 175770_181925
 %eng:	well, I want to go and learn to cook like a chef.
-*FER:	a (.) pethau eraill . %snd:"patagonia29"_182186_183807
+*FER:	a (.) pethau eraill . 182186_183807
 %eng:	and other things.
-*MER:	+< llawer o bethau . %snd:"patagonia29"_183423_184383
+*MER:	+< llawer o bethau . 183423_184383
 %eng:	many things.
-*FER:	ia . %snd:"patagonia29"_184479_184831
+*FER:	ia . 184479_184831
 %eng:	yes.
-*MER:	+< ia . %snd:"patagonia29"_184543_184948
+*MER:	+< ia . 184543_184948
 %eng:	yes.
-*FER:	dw i isio wneud +/ . %snd:"patagonia29"_185183_186036
+*FER:	dw i isio wneud +/. 185183_186036
 %eng:	I want to do...
-*MER:	y flwyddyn nesaf efallai dw i (y)n dysgu (..) ffidil +/ . %snd:"patagonia29"_185407_190783
+*MER:	y flwyddyn nesaf efallai dw i (y)n dysgu (..) ffidil +/. 185407_190783
 %eng:	next year maybe I'll learn to play the violine.
-*FER:	ffidil ? %snd:"patagonia29"_190432_191307
+*FER:	ffidil ? 190432_191307
 %eng:	the violine?
-*MER:	+, a clarinet@s:cym&spa . %snd:"patagonia29"_191552_192832
+*MER:	+, a clarinet@s:cym&spa . 191552_192832
 %eng:	and the clarinet.
-*FER:	clarinet@s:cym&spa ble ? %snd:"patagonia29"_195070_196126
+*FER:	clarinet@s:cym&spa ble ? 195070_196126
 %eng:	the clarinet, where?
-*MER:	yma yn yr ysgol cerdd . %snd:"patagonia29"_196297_197865
+*MER:	yma yn yr ysgol cerdd . 196297_197865
 %eng:	here, at the music school.
-*FER:	ah@s:cym&spa mae Frederick@s:cym&spa yn dysgu ? %snd:"patagonia29"_198046_199859
+*FER:	ah@s:cym&spa mae Frederick@s:cym&spa yn dysgu ? 198046_199859
 %eng:	ah, does Frederick teach?
-*MER:	dw i (we)di gweld y clarinet@s:cym&spa . %snd:"patagonia29"_201069_202925
+*MER:	dw i (we)di gweld y clarinet@s:cym&spa . 201069_202925
 %eng:	I have seen the clarinet.
-*FER:	dw i (y)n dysgu ffidil efo Carmen@s:cym&spa . %snd:"patagonia29"_203949_206627
+*FER:	dw i (y)n dysgu ffidil efo Carmen@s:cym&spa . 203949_206627
 %eng:	I'm learning to play the violine with Carmen.
-*FER:	a +/ . %snd:"patagonia29"_209347_210125
+*FER:	a +/. 209347_210125
 %eng:	and...
-*MER:	+< eleni ? %snd:"patagonia29"_209475_210179
+*MER:	+< eleni ? 209475_210179
 %eng:	this year?
-*FER:	eh@s:cym&spa ? %snd:"patagonia29"_210402_210722
+*FER:	eh@s:cym&spa ? 210402_210722
 %eng:	eh?
-*MER:	eleni ? %snd:"patagonia29"_210765_211245
+*MER:	eleni ? 210765_211245
 %eng:	this year?
-*FER:	+< eleni . %snd:"patagonia29"_211021_211490
+*FER:	+< eleni . 211021_211490
 %eng:	this year.
-*MER:	ia . %snd:"patagonia29"_211479_211949
+*MER:	ia . 211479_211949
 %eng:	yes.
-*FER:	a os (.) [/] os dw i (y)n gallu y blwyddyn nesaf +// . %snd:"patagonia29"_213687_217068
+*FER:	a os (.) [/] os dw i (y)n gallu y blwyddyn nesaf +//. 213687_217068
 %eng:	and if I can next year...
-*FER:	na (.) dim blwyddyn nesaf . %snd:"patagonia29"_217260_219383
+*FER:	na (.) dim blwyddyn nesaf . 217260_219383
 %eng:	no, not next year.
-*FER:	dau flwyddyn nesaf (.) fyddai (y)n wneud biotechnoleg (.) achos fyddai ddim yn gallu inscribirme@s:spa yn ddau . %snd:"patagonia29"_219435_225921
+*FER:	dau flwyddyn nesaf (.) fyddai (y)n wneud biotechnoleg (.) achos fyddai ddim yn gallu inscribirme@s:spa yn ddau . 219435_225921
 %eng:	the next two years I will be doing biotechnology because I won't be able to register for both.
-*MER:	ia . %snd:"patagonia29"_226027_226379
+*MER:	ia . 226027_226379
 %eng:	yes.
-*MER:	wyt ti (y)n meddwl (.) mynd i Cymru blwyddyn nesaf ? %snd:"patagonia29"_227235_231309
+*MER:	wyt ti (y)n meddwl (.) mynd i Cymru blwyddyn nesaf ? 227235_231309
 %eng:	are you thinking of going to Wales next year?
-*FER:	dw i (ddi)m yn gwybod achos dw i (y)n dechrau y prifysgol yn mis (.) Chwefror . %snd:"patagonia29"_231821_236557
+*FER:	dw i (ddi)m yn gwybod achos dw i (y)n dechrau y prifysgol yn mis (.) Chwefror . 231821_236557
 %eng:	I don't know because I start at the university in February.
-*MER:	oh@s:cym&spa ia . %snd:"patagonia29"_236632_237784
+*MER:	oh@s:cym&spa ia . 236632_237784
 %eng:	oh, yes.
-*FER:	achos (..) os dw isio mynd (.) i (y)r xxx mae tan mis Mawrth . %snd:"patagonia29"_238494_247998
+*FER:	achos (..) os dw isio mynd (.) i (y)r xxx mae tan mis Mawrth . 238494_247998
 %eng:	because if I want to go to [...] that runs until March.
-*FER:	ia mis Ionawr mis Chwefror a mis Mawrth . %snd:"patagonia29"_245137_248252
+*FER:	ia mis Ionawr mis Chwefror a mis Mawrth . 245137_248252
 %eng:	yes, January, February and March.
-*FER:	felly dw i (ddi)m yn gallu . %snd:"patagonia29"_248049_249308
+*FER:	felly dw i (ddi)m yn gallu . 248049_249308
 %eng:	so I can't.
-*FER:	a dw i ddim yn gwybod os (.) mae amser i fi (.) i mynd yn xx +/ . %snd:"patagonia29"_250011_256422
+*FER:	a dw i ddim yn gwybod os (.) mae amser i fi (.) i mynd yn xx +/. 250011_256422
 %eng:	and I don't know if there is time for me to go [...].
-*MER:	wyt ti (y)n gallu mynd i [//] yn mis Mehefin ? %snd:"patagonia29"_255827_258467
+*MER:	wyt ti (y)n gallu mynd i [//] yn mis Mehefin ? 255827_258467
 %eng:	can you go in June?
-*MER:	dim_ond mis Mehefin neu dim_ond mis (..) um (.) Gorffenaf . %snd:"patagonia29"_258894_264163
+*MER:	dim_ond mis Mehefin neu dim_ond mis (..) um (.) Gorffenaf . 258894_264163
 %eng:	only June or only July.
-*FER:	+< ah@s:cym&spa . %snd:"patagonia29"_263472_264048
+*FER:	+< ah@s:cym&spa . 263472_264048
 %eng:	ah.
-*FER:	dw i (y)n meddwl (.) efall(ai) +/ . %snd:"patagonia29"_265205_265845
+*FER:	dw i (y)n meddwl (.) efall(ai) +/. 265205_265845
 %eng:	I think maybe...
-*MER:	+< wyt ti (y)n gallu dewis y mis ? %snd:"patagonia29"_266245_267755
+*MER:	+< wyt ti (y)n gallu dewis y mis ? 266245_267755
 %eng:	can you choose the month?
-*FER:	+< wy(f) [?] . %snd:"patagonia29"_267045_267339
+*FER:	+< wy(f) [?] . 267045_267339
 %eng:	yes.
-*MER:	ah@s:cym&spa . %snd:"patagonia29"_267813_268139
+*MER:	ah@s:cym&spa . 267813_268139
 %eng:	ah.
-*FER:	neu ddau . %snd:"patagonia29"_268475_269531
+*FER:	neu ddau . 268475_269531
 %eng:	or two.
-*FER:	achos mae (.) gwyliau . %snd:"patagonia29"_269729_272379
+*FER:	achos mae (.) gwyliau . 269729_272379
 %eng:	because ther are holidays.
-*MER:	ie . %snd:"patagonia29"_270443_270769
+*MER:	ie . 270443_270769
 %eng:	yes.
-*MER:	ie . %snd:"patagonia29"_272497_272907
+*MER:	ie . 272497_272907
 %eng:	yes.
-*FER:	dw i (ddi)m yn gwybod . %snd:"patagonia29"_274601_275561
+*FER:	dw i (ddi)m yn gwybod . 274601_275561
 %eng:	I don't know.
-*MER:	ie dan ni (y)n mynd efo (y)r côr (.) um (.) yr pumed . %snd:"patagonia29"_274740_278127
+*MER:	ie dan ni (y)n mynd efo (y)r côr (.) um (.) yr pumed . 274740_278127
 %eng:	yes, we are going with the choir on the fifth.
-*FER:	+< ac efallai dan +.. . %snd:"patagonia29"_277207_279559
+*FER:	+< ac efallai dan +... 277207_279559
 %eng:	and maybe we are...
-*MER:	pumed o Gorffenaf . %snd:"patagonia29"_278337_279505
+*MER:	pumed o Gorffenaf . 278337_279505
 %eng:	fifth of July.
-*MER:	tan dauddeg_saith . %snd:"patagonia29"_282298_284207
+*MER:	tan dauddeg_saith . 282298_284207
 %eng:	until 27th.
-*FER:	[- spa] ya está . %snd:"patagonia29"_284490_285290
+*FER:	[- spa] ya está . 284490_285290
 %eng:	that's it.
-*MER:	ia . %snd:"patagonia29"_285642_286052
+*MER:	ia . 285642_286052
 %eng:	yes.
-*FER:	xx (.) efallai dan ni (y)n mynd wel . %snd:"patagonia29"_287907_290504
+*FER:	xx (.) efallai dan ni (y)n mynd wel . 287907_290504
 %eng:	[..] maybe we'll go.
-*FER:	mae er@s:cym&spa wyth [/] (.) wyth xxx . %snd:"patagonia29"_291182_294953
+*FER:	mae er@s:cym&spa wyth [/] (.) wyth xxx . 291182_294953
 %eng:	there are eight [...].
-*FER:	[- spa] bueno no hay más xxx . %snd:"patagonia29"_296892_298689
+*FER:	[- spa] bueno no hay más xxx . 296892_298689
 %eng:	well, there aren't any more [...].
-*MER:	[- spa] claro . %snd:"patagonia29"_298566_299174
+*MER:	[- spa] claro . 298566_299174
 %eng:	of course.
-*FER:	xxx . %snd:"patagonia29"_299639_300604
-*FER:	um +.. . %snd:"patagonia29"_301729_302673
+*FER:	xxx . 299639_300604
+*FER:	um +... 301729_302673
 %eng:	um...
-*FER:	faint o flwyddyn rhaid i ti astudio yn yr ysgol gerdd i gorffen ? %snd:"patagonia29"_305846_310091
+*FER:	faint o flwyddyn rhaid i ti astudio yn yr ysgol gerdd i gorffen ? 305846_310091
 %eng:	how many years do you have to study at the music school to finish?
-*MER:	um (.) dau blwyddyn arall . %snd:"patagonia29"_311166_314206
+*MER:	um (.) dau blwyddyn arall . 311166_314206
 %eng:	another two years.
-*FER:	faint o pwnciau ? %snd:"patagonia29"_315491_317054
+*FER:	faint o pwnciau ? 315491_317054
 %eng:	how many subjects?
-*MER:	undeg_dau o (y)r blwyddyn . %snd:"patagonia29"_318296_320477
+*MER:	undeg_dau o (y)r blwyddyn . 318296_320477
 %eng:	twelve per year.
-*FER:	o (y)r blwyddyn ? %snd:"patagonia29"_321245_322066
+*FER:	o (y)r blwyddyn ? 321245_322066
 %eng:	per year?
-*MER:	ia . %snd:"patagonia29"_322081_322395
+*MER:	ia . 322081_322395
 %eng:	yes.
-*MER:	y blwyddyn yma undeg_tri . %snd:"patagonia29"_322716_324738
+*MER:	y blwyddyn yma undeg_tri . 322716_324738
 %eng:	this year thirteen.
-*MER:	y blwyddyn nesaf undeg_dau . %snd:"patagonia29"_325431_326796
+*MER:	y blwyddyn nesaf undeg_dau . 325431_326796
 %eng:	next year twelve.
-*MER:	y blwyddyn olaf undeg_dau . %snd:"patagonia29"_327185_328476
+*MER:	y blwyddyn olaf undeg_dau . 327185_328476
 %eng:	teh last year twelve.
-*MER:	ie mae llawer . %snd:"patagonia29"_330524_331638
+*MER:	ie mae llawer . 330524_331638
 %eng:	yes, it's a lot.
-*MER:	a mae llawer i darllen a darllen a darllen . %snd:"patagonia29"_332730_335620
+*MER:	a mae llawer i darllen a darllen a darllen . 332730_335620
 %eng:	and there's a lot to read and read and read.
-*FER:	mae yn ddiflas [=! laugh] (.) iawn . %snd:"patagonia29"_336351_338031
+*FER:	mae yn ddiflas [=! laugh] (.) iawn . 336351_338031
 %eng:	it's very boring.
-*MER:	+< ie . %snd:"patagonia29"_337729_338086
+*MER:	+< ie . 337729_338086
 %eng:	yes.
-*MER:	dim cerddoriaeth . %snd:"patagonia29"_338939_340155
+*MER:	dim cerddoriaeth . 338939_340155
 %eng:	no music.
-*MER:	xxx dw i xxx darllen darllen darllen . %snd:"patagonia29"_340281_342574
+*MER:	xxx dw i xxx darllen darllen darllen . 340281_342574
 %eng:	[...] I am [...] reading, reading, reading.
-*FER:	+< na dw i (y)n gwybod . %snd:"patagonia29"_340697_341454
+*FER:	+< na dw i (y)n gwybod . 340697_341454
 %eng:	no, I know.
-*MER:	ie mae (y)n ddiflas iawn . %snd:"patagonia29"_342478_343630
+*MER:	ie mae (y)n ddiflas iawn . 342478_343630
 %eng:	yes, it's very boring.
-*FER:	diflas . %snd:"patagonia29"_343621_344315
+*FER:	diflas . 343621_344315
 %eng:	boring.
-*FER:	iawn xx . %snd:"patagonia29"_346311_347671
+*FER:	iawn xx . 346311_347671
 %eng:	very [..].
-*FER:	um +.. . %snd:"patagonia29"_348045_348866
+*FER:	um +... 348045_348866
 %eng:	um...
-*MER:	a wyt ti (y)n gallu dysgu dawnsio werin Cymraeg yn La_Plata@s:cym&spa ? %snd:"patagonia29"_350073_353604
+*MER:	a wyt ti (y)n gallu dysgu dawnsio werin Cymraeg yn La_Plata@s:cym&spa ? 350073_353604
 %eng:	and can you teach Welsh folk dancing in La Plata?
-*FER:	dw i wedi meddwl am hwn . %snd:"patagonia29"_354398_355993
+*FER:	dw i wedi meddwl am hwn . 354398_355993
 %eng:	I have thought of that.
-*FER:	a byddai (y)n (.) er@s:cym&spa mynd a (..) um (..) material@s:spa (.) i dysgu . %snd:"patagonia29"_356169_365513
+*FER:	a byddai (y)n (.) er@s:cym&spa mynd a (..) um (..) material@s:spa (.) i dysgu . 356169_365513
 %eng:	and I'll take materials for teaching.
-*MER:	+< ia C_Ds@s:cym&spa neu llyfrau . %snd:"patagonia29"_364223_366837
+*MER:	+< ia C_Ds@s:cym&spa neu llyfrau . 364223_366837
 %eng:	yes, CDs or books.
-*FER:	+< C_Ds@s:cym&spa llyfrau . %snd:"patagonia29"_365706_367871
+*FER:	+< C_Ds@s:cym&spa llyfrau . 365706_367871
 %eng:	CD, books.
-*MER:	ie mae (y)n ddiddorol . %snd:"patagonia29"_371603_372787
+*MER:	ie mae (y)n ddiddorol . 371603_372787
 %eng:	yes, it's interesting.
-*FER:	dw i isio wneud ryw criw bach efo Anton@s:cym&spa Alica@s:cym&spa Elena@s:cym&spa Mariela@s:cym&spa Mariana@s:cym&spa Augustino@s:cym&spa . %snd:"patagonia29"_373602_383586
+*FER:	dw i isio wneud ryw criw bach efo Anton@s:cym&spa Alica@s:cym&spa Elena@s:cym&spa Mariela@s:cym&spa Mariana@s:cym&spa Augustino@s:cym&spa . 373602_383586
 %eng:	I want to form a group with Anton, Alica, Elena, Mariela, Mariana, Augustino.
-*MER:	+< ie Mariela@s:cym&spa Mariana@s:cym&spa Lalico@s:cym&spa . %snd:"patagonia29"_378434_381122
+*MER:	+< ie Mariela@s:cym&spa Mariana@s:cym&spa Lalico@s:cym&spa . 378434_381122
 %eng:	yes, Mariela, Mariana, Lalico.
-*MER:	mae llawer o bobl o Gaiman@s:cym&spa . %snd:"patagonia29"_381442_383437
+*MER:	mae llawer o bobl o Gaiman@s:cym&spa . 381442_383437
 %eng:	there are many people from Gaiman.
-*FER:	ac os dan ni (y)n gallu dod i (y)r eisteddfod y bobl ifanc y blwyddyn nesaf . %snd:"patagonia29"_383794_387879
+*FER:	ac os dan ni (y)n gallu dod i (y)r eisteddfod y bobl ifanc y blwyddyn nesaf . 383794_387879
 %eng:	and if we can come to the eisteddfod of the young people next year.
-*MER:	ia ia . %snd:"patagonia29"_387591_388327
+*MER:	ia ia . 387591_388327
 %eng:	yes.
-*MER:	&=laugh . %snd:"patagonia29"_388445_389575
-*FER:	<rhaid i ni> [/] (.) rhaid i ni ddawnsio (y)n iawn ? %snd:"patagonia29"_388595_393160
+*MER:	&=laugh . 388445_389575
+*FER:	<rhaid i ni> [/] (.) rhaid i ni ddawnsio (y)n iawn ? 388595_393160
 %eng:	we need to dance properly.
-*MER:	&=laugh . %snd:"patagonia29"_393331_393981
-*FER:	bydda i (y)n dod i ganu efo (y)r côr ifanc . %snd:"patagonia29"_394142_396478
+*MER:	&=laugh . 393331_393981
+*FER:	bydda i (y)n dod i ganu efo (y)r côr ifanc . 394142_396478
 %eng:	I'll come to sing with the youth choir.
-*MER:	efo (y)r côr yndw . %snd:"patagonia29"_395955_397619
+*MER:	efo (y)r côr yndw . 395955_397619
 %eng:	with the choir, yes.
-*FER:	ac os dw i (y)n gallu bydda i'n dod i (.) Eisteddfod@s:cym&spa y Wladfa . %snd:"patagonia29"_397310_401097
+*FER:	ac os dw i (y)n gallu bydda i'n dod i (.) Eisteddfod@s:cym&spa y Wladfa . 397310_401097
 %eng:	and if I can I'll come to the Eisteddfod of the Colony.
-*MER:	a dach chi (y)n gallu dod efo (y)r coranto@s:spa hefyd ? %snd:"patagonia29"_401235_404243
+*MER:	a dach chi (y)n gallu dod efo (y)r coranto@s:spa hefyd ? 401235_404243
 %eng:	and you can come with the courante as well.
-*FER:	ah@s:cym&spa mae (y)n iawn . %snd:"patagonia29"_404277_405536
+*FER:	ah@s:cym&spa mae (y)n iawn . 404277_405536
 %eng:	ah, it;s okay.
-*FER:	dw i ddim yn nabod dy frawd . %snd:"patagonia29"_405664_407285
+*FER:	dw i ddim yn nabod dy frawd . 405664_407285
 %eng:	I don't know about your brother.
-*MER:	na fi chwaith . %snd:"patagonia29"_407456_408267
+*MER:	na fi chwaith . 407456_408267
 %eng:	nor do I.
-*MER:	dw i (y)n gwybod fod Mariela@s:cym&spa yn canu . %snd:"patagonia29"_408384_411733
+*MER:	dw i (y)n gwybod fod Mariela@s:cym&spa yn canu . 408384_411733
 %eng:	I know that Mariela sings.
-*FER:	beth (yd)y chi (y)n canu ? %snd:"patagonia29"_411787_412843
+*FER:	beth (yd)y chi (y)n canu ? 411787_412843
 %eng:	what are you singing?
-*MER:	na dw i ddim yn gwybod . %snd:"patagonia29"_412993_414113
+*MER:	na dw i ddim yn gwybod . 412993_414113
 %eng:	no, I don't know.
-*FER:	iawn dw i (y)n gallu mynd a pethau yn Gymraeg i dysgu . %snd:"patagonia29"_417324_422156
+*FER:	iawn dw i (y)n gallu mynd a pethau yn Gymraeg i dysgu . 417324_422156
 %eng:	okay, I can take things in Welsh to teach.
-*MER:	+< ia . %snd:"patagonia29"_421335_422028
+*MER:	+< ia . 421335_422028
 %eng:	yes.
-*MER:	a wyt ti (y)n mynd i astudio cyfansoddi a arweinydd hefyd ? %snd:"patagonia29"_422221_426477
+*MER:	a wyt ti (y)n mynd i astudio cyfansoddi a arweinydd hefyd ? 422221_426477
 %eng:	and are you going to study composition and conducting as well?
-*FER:	na dw i ddim yn gwybod . %snd:"patagonia29"_426658_427832
+*FER:	na dw i ddim yn gwybod . 426658_427832
 %eng:	no, I don't know.
-*FER:	bydda i yn astudio (.) yn cyfansoddi ac os dw i (y)n gallu dau peth (.) xx wahanol iawn biotechnoleg . %snd:"patagonia29"_428159_436639
+*FER:	bydda i yn astudio (.) yn cyfansoddi ac os dw i (y)n gallu dau peth (.) xx wahanol iawn biotechnoleg . 428159_436639
 %eng:	I will study composition and if I can do two things, something very different, biotechnology.
-*MER:	yn La_Plata@s:cym&spa hefyd . %snd:"patagonia29"_437008_438330
+*MER:	yn La_Plata@s:cym&spa hefyd . 437008_438330
 %eng:	in La Plata as well.
-*FER:	+< yn La_Plata@s:cym&spa . %snd:"patagonia29"_437744_438864
+*FER:	+< yn La_Plata@s:cym&spa . 437744_438864
 %eng:	in La Plata.
-*FER:	dim (.) pob [?] pwnciau . %snd:"patagonia29"_439792_442341
+*FER:	dim (.) pob [?] pwnciau . 439792_442341
 %eng:	not every subject.
-*MER:	ie . %snd:"patagonia29"_442554_443280
+*MER:	ie . 442554_443280
 %eng:	yes.
-*FER:	dim_ond (.) tri xx am y blwyddyn . %snd:"patagonia29"_442757_446213
+*FER:	dim_ond (.) tri xx am y blwyddyn . 442757_446213
 %eng:	only three a year.
-*FER:	ie . %snd:"patagonia29"_446471_447250
+*FER:	ie . 446471_447250
 %eng:	yes.
-*FER:	pob pwnc eh popeth +.. . %snd:"patagonia29"_448007_450770
+*FER:	pob pwnc eh popeth +... 448007_450770
 %eng:	every subject, everything...
-*MER:	xxx cyfansoddi a +.. . %snd:"patagonia29"_449991_451986
+*MER:	xxx cyfansoddi a +... 449991_451986
 %eng:	[...] composition and...
-*FER:	+, o cyfansoddi . %snd:"patagonia29"_450972_451986
+*FER:	+, o cyfansoddi . 450972_451986
 %eng:	...of compostion.
-*FER:	a dim_ond dau neu &p tri o biotechnoleg . %snd:"patagonia29"_452064_456373
+*FER:	a dim_ond dau neu &p tri o biotechnoleg . 452064_456373
 %eng:	and only two or three of biotechnology.
-*FER:	dw i ddim yn gwybod os biotechnoleg neu (.) alimentos@s:spa . %snd:"patagonia29"_456629_459893
+*FER:	dw i ddim yn gwybod os biotechnoleg neu (.) alimentos@s:spa . 456629_459893
 %eng:	I don't know if biotechnology or food.
-*MER:	o faint o amser ydy cyfansoddi ? %snd:"patagonia29"_460372_463050
+*MER:	o faint o amser ydy cyfansoddi ? 460372_463050
 %eng:	how much time is composition?
-*FER:	chwech . %snd:"patagonia29"_463434_464255
+*FER:	chwech . 463434_464255
 %eng:	six.
-*MER:	a &biotel biotechnoleg ? %snd:"patagonia29"_464458_466132
+*MER:	a &biotel biotechnoleg ? 464458_466132
 %eng:	and biotechnology?
-*FER:	+< pump . %snd:"patagonia29"_465962_466783
+*FER:	+< pump . 465962_466783
 %eng:	five.
-*FER:	xxx . %snd:"patagonia29"_467739_469734
-*MER:	wyt ti (y)n mynd i [/] (.) i orffen y dau ? %snd:"patagonia29"_469040_471760
+*FER:	xxx . 467739_469734
+*MER:	wyt ti (y)n mynd i [/] (.) i orffen y dau ? 469040_471760
 %eng:	are you going to complete the two?
-*FER:	na [=! laugh] dydw i ddim yn xxx . %snd:"patagonia29"_472198_473659
+*FER:	na [=! laugh] dydw i ddim yn xxx . 472198_473659
 %eng:	no, I don't [...].
-*MER:	+< efallai . %snd:"patagonia29"_472955_473627
+*MER:	+< efallai . 472955_473627
 %eng:	maybe.
-*FER:	efallai os dw i (y)n gallu . %snd:"patagonia29"_473766_475398
+*FER:	efallai os dw i (y)n gallu . 473766_475398
 %eng:	maybe if I can.
-*MER:	ia . %snd:"patagonia29"_475726_476217
+*MER:	ia . 475726_476217
 %eng:	yes.
-*FER:	er@s:cym&spa +.. . %snd:"patagonia29"_477091_477507
+*FER:	er@s:cym&spa +... 477091_477507
 %eng:	er...
-*FER:	ond dw i ddim yn gallu inscribirme@s:spa (.) yn y dos@s:spa . %snd:"patagonia29"_477795_481529
+*FER:	ond dw i ddim yn gallu inscribirme@s:spa (.) yn y dos@s:spa . 477795_481529
 %eng:	but I can't register in both.
-*MER:	pam ? %snd:"patagonia29"_482041_482489
+*MER:	pam ? 482041_482489
 %eng:	why?
-*FER:	dw i (ddi)m yn gwybod . %snd:"patagonia29"_482745_483395
+*FER:	dw i (ddi)m yn gwybod . 482745_483395
 %eng:	I don't know.
-*FER:	xxx . %snd:"patagonia29"_483474_484818
-*MER:	ah@s:cym&spa ie . %snd:"patagonia29"_486386_487175
+*FER:	xxx . 483474_484818
+*MER:	ah@s:cym&spa ie . 486386_487175
 %eng:	ah.
-*MER:	mae Mariela@s:cym&spa yn mynd i dod ie . %snd:"patagonia29"_488210_490087
+*MER:	mae Mariela@s:cym&spa yn mynd i dod ie . 488210_490087
 %eng:	Mariela is going to come, yes.
-*FER:	felly rhaid i mi dechrau dau blwyddyn nesaf . %snd:"patagonia29"_488984_492899
+*FER:	felly rhaid i mi dechrau dau blwyddyn nesaf . 488984_492899
 %eng:	so I have to start teh next two years.
-*FER:	a (.) os dw i (y)n gallu y blwyddyn nesaf (..) <byddai (y)n> [//] (.) <dw i (y)n mynd i dawns sals(a)@s:cym&spa> [//] dw i (y)n mynd i dysgu salsa@s:cym&spa a xx . %snd:"patagonia29"_495236_507097
+*FER:	a (.) os dw i (y)n gallu y blwyddyn nesaf (..) <byddai (y)n> [//] (.) <dw i (y)n mynd i dawns sals(a)@s:cym&spa> [//] dw i (y)n mynd i dysgu salsa@s:cym&spa a xx . 495236_507097
 %eng:	and if I can next year I'm going to learn salsa and [..].
-*FER:	achos (.) dw i wedi mynd i dosbarthau yma felly dw isio (..) continuar@s:spa [?] . %snd:"patagonia29"_507262_514153
+*FER:	achos (.) dw i wedi mynd i dosbarthau yma felly dw isio (..) continuar@s:spa [?] . 507262_514153
 %eng:	because I have been to courses here, so I want to continue.
-*MER:	+< oh@s:cym&spa mae (y)n ddiddorol . %snd:"patagonia29"_507507_508702
+*MER:	+< oh@s:cym&spa mae (y)n ddiddorol . 507507_508702
 %eng:	oh, that's interesting.
-*MER:	mm . %snd:"patagonia29"_514380_514722
+*MER:	mm . 514380_514722
 %eng:	mm.
-*MER:	a faint o bobl o Gaiman@s:cym&spa yn mynd i astudio yn La_Plata@s:cym&spa neu Buenos_Aires@s:cym&spa (.) y flwyddyn nesaf ? %snd:"patagonia29"_514999_520183
+*MER:	a faint o bobl o Gaiman@s:cym&spa yn mynd i astudio yn La_Plata@s:cym&spa neu Buenos_Aires@s:cym&spa (.) y flwyddyn nesaf ? 514999_520183
 %eng:	and how many people from gaiman are going to study in La Plata or Buenos Aires next year?
-*FER:	La_Plata@s:cym&spa +.. . %snd:"patagonia29"_519959_521111
+*FER:	La_Plata@s:cym&spa +... 519959_521111
 %eng:	La Plata...
-*MER:	wyt ti (y)n gwybod ? %snd:"patagonia29"_520214_521089
+*MER:	wyt ti (y)n gwybod ? 520214_521089
 %eng:	do you know?
-*MER:	o (y)r er@s:cym&spa Ysgol_Camwy@s:cym&spa ? %snd:"patagonia29"_521131_522262
+*MER:	o (y)r er@s:cym&spa Ysgol_Camwy@s:cym&spa ? 521131_522262
 %eng:	from Ysgol Camwy?
-*FER:	La_Plata@s:cym&spa mae Maria@s:cym&spa yn dod i fyw efo fi . %snd:"patagonia29"_522934_525761
+*FER:	La_Plata@s:cym&spa mae Maria@s:cym&spa yn dod i fyw efo fi . 522934_525761
 %eng:	La Plata, Maria is coming to live with me.
-*FER:	Maria@s:cym&spa . %snd:"patagonia29"_526251_526827
+*FER:	Maria@s:cym&spa . 526251_526827
 %eng:	Maria.
-*MER:	a beth mae hi yn mynd i astudio ? %snd:"patagonia29"_526923_528545
+*MER:	a beth mae hi yn mynd i astudio ? 526923_528545
 %eng:	and what is she going to study?
-*FER:	[- spa] geofísica . %snd:"patagonia29"_528705_529846
+*FER:	[- spa] geofísica . 528705_529846
 %eng:	geophysics
-*FER:	a <tri person> [//] tri o ffrindiau [/] (.) tri ffrindiau . %snd:"patagonia29"_531801_539289
+*FER:	a <tri person> [//] tri o ffrindiau [/] (.) tri ffrindiau . 531801_539289
 %eng:	and three friends.
-*MER:	+< mae (y)n ddiddorol . %snd:"patagonia29"_532047_533007
+*MER:	+< mae (y)n ddiddorol . 532047_533007
 %eng:	that's interesting.
-*MER:	+< a mae (y)n anodd hefyd . %snd:"patagonia29"_534148_535513
+*MER:	+< a mae (y)n anodd hefyd . 534148_535513
 %eng:	and it's difficult as well.
-*FER:	Shamila@s:cym&spa Yara@s:cym&spa y@s:spa Bere@s:cym&spa . %snd:"patagonia29"_539470_542382
+*FER:	Shamila@s:cym&spa Yara@s:cym&spa y@s:spa Bere@s:cym&spa . 539470_542382
 %eng:	Shamila, Yara and Bere.
-*MER:	a beth mae hi (y)n mynd i astudio xxx ? %snd:"patagonia29"_542830_545784
+*MER:	a beth mae hi (y)n mynd i astudio xxx ? 542830_545784
 %eng:	and what is she going to study [...]?
-*FER:	+< mae Shamila@s:spa yn mynd i wneud (.) kinisiología@s:spa . %snd:"patagonia29"_543943_547378
+*FER:	+< mae Shamila@s:spa yn mynd i wneud (.) kinisiología@s:spa . 543943_547378
 %eng:	
-*FER:	mae yara (y)n mynd i wneud alimentos@s:spa . %snd:"patagonia29"_547858_550066
+*FER:	mae yara (y)n mynd i wneud alimentos@s:spa . 547858_550066
 %eng:	
-*FER:	ac mae vera yn mynd i wneud (.) um (.) nutrición@s:spa . %snd:"patagonia29"_550172_553639
+*FER:	ac mae vera yn mynd i wneud (.) um (.) nutrición@s:spa . 550172_553639
 %eng:	
-*MER:	a Felipe wyt ti (y)n gwybod ? %snd:"patagonia29"_555174_556262
+*MER:	a Felipe wyt ti (y)n gwybod ? 555174_556262
 %eng:	
-*MER:	na . %snd:"patagonia29"_556294_556582
+*MER:	na . 556294_556582
 %eng:	
-*FER:	na dw i ddim yn gwybod . %snd:"patagonia29"_556529_557510
+*FER:	na dw i ddim yn gwybod . 556529_557510
 %eng:	
-*FER:	mae [/] mae o dim yn gwybod felly dan ni ddim yn gwybod &=laugh . %snd:"patagonia29"_557787_560731
+*FER:	mae [/] mae o dim yn gwybod felly dan ni ddim yn gwybod &=laugh . 557787_560731
 %eng:	
-*MER:	+< ah@s:cym&spa iawn . %snd:"patagonia29"_559558_560251
+*MER:	+< ah@s:cym&spa iawn . 559558_560251
 %eng:	
-*MER:	+< &=laugh . %snd:"patagonia29"_560625_562118
+*MER:	+< &=laugh . 560625_562118
 %eng:	
-*FER:	ond (.) dydy hi ddim yn gwybod <os mae llawer mae os> [//] (.) mae [//] (.) <os mae pobl yn mynd i astudio> [//] os mae pobl arall yn mynd i astudio . %snd:"patagonia29"_562536_571208
+*FER:	ond (.) dydy hi ddim yn gwybod <os mae llawer mae os> [//] (.) mae [//] (.) <os mae pobl yn mynd i astudio> [//] os mae pobl arall yn mynd i astudio . 562536_571208
 %eng:	
-*FER:	llawer o bobl yn mynd i aros yma . %snd:"patagonia29"_572811_574742
+*FER:	llawer o bobl yn mynd i aros yma . 572811_574742
 %eng:	
-*MER:	+< yma yn Nhrelew@s:cym&spa neu +.. . %snd:"patagonia29"_574528_576000
+*MER:	+< yma yn Nhrelew@s:cym&spa neu +... 574528_576000
 %eng:	
-*FER:	ond dw i (ddi)m yn gwybod os mae nhw yn mynd i astudio . %snd:"patagonia29"_576246_578123
+*FER:	ond dw i (ddi)m yn gwybod os mae nhw yn mynd i astudio . 576246_578123
 %eng:	
-*MER:	ia . %snd:"patagonia29"_578390_579478
+*MER:	ia . 578390_579478
 %eng:	
-*FER:	efallai . %snd:"patagonia29"_580060_580999
+*FER:	efallai . 580060_580999
 %eng:	
-*MER:	a pam dach chi yn mynd yn awr i [/] Drefelin beth dach chi (y)n mynd i wneud ? %snd:"patagonia29"_581703_585095
+*MER:	a pam dach chi yn mynd yn awr i [/] Drefelin beth dach chi (y)n mynd i wneud ? 581703_585095
 %eng:	
-*MER:	dach chi yn mynd i +.. . %snd:"patagonia29"_586585_587811
+*MER:	dach chi yn mynd i +..? 586585_587811
 %eng:	
-*FER:	dan ni (y)n mynd i aros yn [/] yn Nhrefelin@s:cym&spa yn <y campamen(to)@s:spa> [///] en@s:spa otro@s:spa . %snd:"patagonia29"_587993_594457
+*FER:	dan ni (y)n mynd i aros yn [/] yn Nhrefelin@s:cym&spa yn <y campamen(to)@s:spa> [///] en@s:spa otro@s:spa . 587993_594457
 %eng:	
-*MER:	[- eng] +< camping . %snd:"patagonia29"_593735_594482
+*MER:	[- eng] +< camping . 593735_594482
 %eng:	
-*FER:	camping mynd . %snd:"patagonia29"_595229_596551
+*FER:	camping mynd . 595229_596551
 %eng:	
-*FER:	xxx . %snd:"patagonia29"_597340_598012
+*FER:	xxx . 597340_598012
 %eng:	
-*FER:	na xxx . %snd:"patagonia29"_598300_599271
+*FER:	na xxx . 598300_599271
 %eng:	
-*FER:	eh@s:cym&spa dan ni (y)n mynd i (.) wneud cerdded xx +/ . %snd:"patagonia29"_599388_607921
+*FER:	eh@s:cym&spa dan ni (y)n mynd i (.) wneud cerdded xx +/. 599388_607921
 %eng:	
-*MER:	dach chi (y)n mynd i wneud cyngerdd a dawnsio hefyd na . %snd:"patagonia29"_607312_609648
+*MER:	dach chi (y)n mynd i wneud cyngerdd a dawnsio hefyd na . 607312_609648
 %eng:	
-*FER:	does dim cyngerdd y flwyddyn yma . %snd:"patagonia29"_609680_611227
+*FER:	does dim cyngerdd y flwyddyn yma . 609680_611227
 %eng:	
-*MER:	pam ? %snd:"patagonia29"_611302_611782
+*MER:	pam ? 611302_611782
 %eng:	
-*FER:	dw i (ddi)m yn gwybod . %snd:"patagonia29"_611846_612560
+*FER:	dw i (ddi)m yn gwybod . 611846_612560
 %eng:	
-*FER:	a dan ni ddim yn gallu mynd i (y)r desfile@s:spa (.) o (y)r dydd o Trevelin@s:cym&spa . %snd:"patagonia29"_614145_618903
+*FER:	a dan ni ddim yn gallu mynd i (y)r desfile@s:spa (.) o (y)r dydd o Trevelin@s:cym&spa . 614145_618903
 %eng:	
-*MER:	chwaith ? %snd:"patagonia29"_618156_618924
+*MER:	chwaith ? 618156_618924
 %eng:	
-*MER:	pam ? %snd:"patagonia29"_619063_619628
+*MER:	pam ? 619063_619628
 %eng:	
-*FER:	achos +/ . %snd:"patagonia29"_619735_620471
+*FER:	achos +/. 619735_620471
 %eng:	
-*MER:	dach chi (y)n dod (.) yn gyntaf ? %snd:"patagonia29"_620567_622561
+*MER:	dach chi (y)n dod (.) yn gyntaf ? 620567_622561
 %eng:	
-*FER:	+< na dan ni yn mynd i La@s:spa Trochita@s:cym&spa [?] . %snd:"patagonia29"_621559_624204
+*FER:	+< na dan ni yn mynd i La@s:spa Trochita@s:cym&spa [?] . 621559_624204
 %eng:	
-*MER:	ah@s:cym&spa xxx . %snd:"patagonia29"_624808_626653
+*MER:	ah@s:cym&spa xxx . 624808_626653
 %eng:	
-*FER:	mae (y)n adael [?] i ti ddewis (..) beth wyt ti (y)n y@s:spa y@s:spa perdóname@s:spa xxx me@s:spa iba@s:spa a@s:spa gustar@s:spa más@s:spa de@s:spa xxx . %snd:"patagonia29"_625606_634514
+*FER:	mae (y)n adael [?] i ti ddewis (..) beth wyt ti (y)n y@s:spa y@s:spa perdóname@s:spa xxx me@s:spa iba@s:spa a@s:spa gustar@s:spa más@s:spa de@s:spa xxx . 625606_634514
 %eng:	
-*MER:	mm . %snd:"patagonia29"_634539_634998
+*MER:	mm . 634539_634998
 %eng:	
-*FER:	felly ah@s:cym&spa does dim cyngerdd . %snd:"patagonia29"_635873_637974
+*FER:	felly ah@s:cym&spa does dim cyngerdd . 635873_637974
 %eng:	
-*MER:	dach chi (y)n mynd i (y)r ysgol undeg_wyth ? %snd:"patagonia29"_637025_638955
+*MER:	dach chi (y)n mynd i (y)r ysgol undeg_wyth ? 637025_638955
 %eng:	
-*FER:	undeg_wyth ? %snd:"patagonia29"_639381_640618
+*FER:	undeg_wyth ? 639381_640618
 %eng:	
-*FER:	ah@s:cym&spa dw i ddim yn gwybod ? %snd:"patagonia29"_640640_642858
+*FER:	ah@s:cym&spa dw i ddim yn gwybod ? 640640_642858
 %eng:	
-*FER:	i (y)r ysgol undeg_ddau mae (y)n xxx . %snd:"patagonia29"_643914_645984
+*FER:	i (y)r ysgol undeg_ddau mae (y)n xxx . 643914_645984
 %eng:	
-*FER:	xxx (y)r ysgol dau . %snd:"patagonia29"_646925_648141
+*FER:	xxx (y)r ysgol dau . 646925_648141
 %eng:	
-*MER:	undeg_wyth ydy (y)r ysgol cyntaf yn y Trevelin@s:cym&spa . %snd:"patagonia29"_648183_650967
+*MER:	undeg_wyth ydy (y)r ysgol cyntaf yn y Trevelin@s:cym&spa . 648183_650967
 %eng:	
-*FER:	efallai dw i <ddim yn> [/] ddim yn cofio . %snd:"patagonia29"_651085_653303
+*FER:	efallai dw i <ddim yn> [/] ddim yn cofio . 651085_653303
 %eng:	
-*MER:	ie siŵr o fod . %snd:"patagonia29"_653431_655213
+*MER:	ie siŵr o fod . 653431_655213
 %eng:	
-*FER:	does dim rhaid i ni er@s:cym&spa (.) paratoi ddawnswyr yn y &k achos does dim cyngerdd . %snd:"patagonia29"_656198_661467
+*FER:	does dim rhaid i ni er@s:cym&spa (.) paratoi ddawnswyr yn y &k achos does dim cyngerdd . 656198_661467
 %eng:	
-*MER:	ie . %snd:"patagonia29"_661537_661766
+*MER:	ie . 661537_661766
 %eng:	
-*FER:	ond mae Marta wedi deud +"/ . %snd:"patagonia29"_661807_663188
+*FER:	ond mae Marta wedi deud +"/. 661807_663188
 %eng:	
-*FER:	+" paratoiwch +" . %snd:"patagonia29"_663551_664639
+*FER:	+" paratoiwch +". 663551_664639
 %eng:	
-*FER:	achos efallai (.) dan ni (y)n gallu dawnsio . %snd:"patagonia29"_664738_667890
+*FER:	achos efallai (.) dan ni (y)n gallu dawnsio . 664738_667890
 %eng:	
-*MER:	+< ie . %snd:"patagonia29"_665997_666381
+*MER:	+< ie . 665997_666381
 %eng:	
-*MER:	a dach chi (y)n mynd i (y)r parc cenedlaethol [?] . %snd:"patagonia29"_666905_669108
+*MER:	a dach chi (y)n mynd i (y)r parc cenedlaethol [?] . 666905_669108
 %eng:	
-*MER:	Los_Alerces@s:cym&spa ? %snd:"patagonia29"_669460_670351
+*MER:	Los_Alerces@s:cym&spa ? 669460_670351
 %eng:	
-*MER:	ie siŵr o fod . %snd:"patagonia29"_670372_671172
+*MER:	ie siŵr o fod . 670372_671172
 %eng:	
-*FER:	er@s:cym&spa (.) dw i (y)n meddwl . %snd:"patagonia29"_672031_673754
+*FER:	er@s:cym&spa (.) dw i (y)n meddwl . 672031_673754
 %eng:	
-*FER:	[- spa] sí . %snd:"patagonia29"_673775_674239
+*FER:	[- spa] sí . 673775_674239
 %eng:	
-*FER:	ydw [//] ydy . %snd:"patagonia29"_674266_675300
+*FER:	ydw [//] ydy . 674266_675300
 %eng:	
-*FER:	dan ni (y)n mynd (.) er@s:cym&spa dydd Mawrth . %snd:"patagonia29"_676021_679765
+*FER:	dan ni (y)n mynd (.) er@s:cym&spa dydd Mawrth . 676021_679765
 %eng:	
-*FER:	neu +.. . %snd:"patagonia29"_680052_680788
+*FER:	neu +... 680052_680788
 %eng:	
-*MER:	dach chi (y)n mynd dydd Llun . %snd:"patagonia29"_681135_683369
+*MER:	dach chi (y)n mynd dydd Llun . 681135_683369
 %eng:	
-*MER:	o Gaiman@s:cym&spa ? %snd:"patagonia29"_683572_684330
+*MER:	o Gaiman@s:cym&spa ? 683572_684330
 %eng:	
-*MER:	ie . %snd:"patagonia29"_684378_684708
+*MER:	ie . 684378_684708
 %eng:	
-*FER:	am wyth o (y)r gloch . %snd:"patagonia29"_684799_686522
+*FER:	am wyth o (y)r gloch . 684799_686522
 %eng:	
-*MER:	yn y bore . %snd:"patagonia29"_686714_687210
+*MER:	yn y bore . 686714_687210
 %eng:	
-*FER:	yn y bore . %snd:"patagonia29"_687284_687754
+*FER:	yn y bore . 687284_687754
 %eng:	
-*MER:	iawn . %snd:"patagonia29"_687954_688322
+*MER:	iawn . 687954_688322
 %eng:	
-*FER:	dan ni (y)n cyrraedd i Trefelin@s:cym&spa +/ . %snd:"patagonia29"_689367_691623
+*FER:	dan ni (y)n cyrraedd i Trefelin@s:cym&spa +/. 689367_691623
 %eng:	
-*MER:	++ tua pump achos +.. . %snd:"patagonia29"_692130_693346
+*MER:	++ tua pump achos +... 692130_693346
 %eng:	
-*FER:	os (.) mae +/ . %snd:"patagonia29"_694616_696477
+*FER:	os (.) mae +/. 694616_696477
 %eng:	
-*MER:	++ popeth yn iawn ? %snd:"patagonia29"_696343_697047
+*MER:	++ popeth yn iawn ? 696343_697047
 %eng:	
-*FER:	+, popeth yn iawn (.) dan ni (y)n cyrraedd am bump . %snd:"patagonia29"_697191_699948
+*FER:	+, popeth yn iawn (.) dan ni (y)n cyrraedd am bump . 697191_699948
 %eng:	
-*FER:	ac <dan ni (y)n (.) &para> [//] eh@s:cym&spa dan ni (y)n (.) eh@s:cym&spa paratoi +/ . %snd:"patagonia29"_700475_705873
+*FER:	ac <dan ni (y)n (.) &para> [//] eh@s:cym&spa dan ni (y)n (.) eh@s:cym&spa paratoi +/. 700475_705873
 %eng:	
-*MER:	++ eh@s:cym&spa pabell ? %snd:"patagonia29"_706214_706918
+*MER:	++ eh@s:cym&spa pabell ? 706214_706918
 %eng:	
-*FER:	+, y pabell . %snd:"patagonia29"_706993_707921
+*FER:	+, y pabell . 706993_707921
 %eng:	
-*FER:	ac wedyn bwyta . %snd:"patagonia29"_708464_710800
+*FER:	ac wedyn bwyta . 708464_710800
 %eng:	
-*MER:	ie . %snd:"patagonia29"_710853_711258
+*MER:	ie . 710853_711258
 %eng:	
-*MER:	a dach chi (y)n mynd i canu a dawnsio siŵr o fod . %snd:"patagonia29"_711280_713424
+*MER:	a dach chi (y)n mynd i canu a dawnsio siŵr o fod . 711280_713424
 %eng:	
-*FER:	canu dawnsio (.) a cysgu . %snd:"patagonia29"_712592_715429
+*FER:	canu dawnsio (.) a cysgu . 712592_715429
 %eng:	
-*MER:	trwy (y)r nos . %snd:"patagonia29"_714085_715674
+*MER:	trwy (y)r nos . 714085_715674
 %eng:	
-*FER:	dw i (ddi)m yn gwybod . %snd:"patagonia29"_716381_718173
+*FER:	dw i (ddi)m yn gwybod . 716381_718173
 %eng:	
-*MER:	&=laugh . %snd:"patagonia29"_716626_718215
+*MER:	&=laugh . 716626_718215
 %eng:	
-*FER:	oedden ni &k cysgu . %snd:"patagonia29"_718305_719649
+*FER:	oedden ni &k cysgu . 718305_719649
 %eng:	
-*FER:	um a dydd Mawrth (.) dan ni (y)n mynd dw i meddwl i Los_Alerces@s:cym&spa . %snd:"patagonia29"_719723_724801
+*FER:	um a dydd Mawrth (.) dan ni (y)n mynd dw i meddwl i Los_Alerces@s:cym&spa . 719723_724801
 %eng:	
-*MER:	ie . %snd:"patagonia29"_724769_725441
+*MER:	ie . 724769_725441
 %eng:	
-*FER:	dydd Mercher bydden ni (y)n mynd i la@s:spa trochita@s:spa . %snd:"patagonia29"_725842_728445
+*FER:	dydd Mercher bydden ni (y)n mynd i la@s:spa trochita@s:spa . 725842_728445
 %eng:	
-*FER:	dydd (.) Iau (.) xx er@s:cym&spa +/ . %snd:"patagonia29"_728743_732530
+*FER:	dydd (.) Iau (.) xx er@s:cym&spa +/. 728743_732530
 %eng:	
-*MER:	i xxx . %snd:"patagonia29"_732607_733877
+*MER:	i xxx . 732607_733877
 %eng:	
-*FER:	ah@s:cym&spa dydd Iau xxx . %snd:"patagonia29"_734197_735594
+*FER:	ah@s:cym&spa dydd Iau xxx . 734197_735594
 %eng:	
-*FER:	ah@s:cym&spa dydd Mawrth (.) dan ni (y)n mynd i fynd i (y)r Hotel_Argentina@s:spa neu ryw xxx boliche@s:spa si@s:spa hay@s:spa abierto@s:spa . %snd:"patagonia29"_735715_744035
+*FER:	ah@s:cym&spa dydd Mawrth (.) dan ni (y)n mynd i fynd i (y)r Hotel_Argentina@s:spa neu ryw xxx boliche@s:spa si@s:spa hay@s:spa abierto@s:spa . 735715_744035
 %eng:	
-*MER:	+< oh@s:cym&spa ie . %snd:"patagonia29"_740622_741209
+*MER:	+< oh@s:cym&spa ie . 740622_741209
 %eng:	
-*MER:	ie . %snd:"patagonia29"_743374_743747
+*MER:	ie . 743374_743747
 %eng:	
-*FER:	xxx . %snd:"patagonia29"_743758_744408
+*FER:	xxx . 743758_744408
 %eng:	
-*FER:	mynd i ddawnsio . %snd:"patagonia29"_744739_746264
+*FER:	mynd i ddawnsio . 744739_746264
 %eng:	
-*FER:	[- spa] sí había boliche abierto xxx . %snd:"patagonia29"_747525_749626
+*FER:	[- spa] sí había boliche abierto xxx . 747525_749626
 %eng:	
-*MER:	+< ie . %snd:"patagonia29"_749018_749541
+*MER:	+< ie . 749018_749541
 %eng:	
-*FER:	a dydd Gwener dw i ddim yn cofio . %snd:"patagonia29"_750789_752687
+*FER:	a dydd Gwener dw i ddim yn cofio . 750789_752687
 %eng:	
-*FER:	a dan ni (y)n dod (e)to i Gaiman@s:cym&spa dydd Sadwrn . %snd:"patagonia29"_752826_756293
+*FER:	a dan ni (y)n dod (e)to i Gaiman@s:cym&spa dydd Sadwrn . 752826_756293
 %eng:	
-*MER:	ah@s:cym&spa dim_ond pump diwrnod . %snd:"patagonia29"_756592_758171
+*MER:	ah@s:cym&spa dim_ond pump diwrnod . 756592_758171
 %eng:	
-*FER:	tan dydd Llun ? %snd:"patagonia29"_759289_760281
+*FER:	tan dydd Llun ? 759289_760281
 %eng:	
-*MER:	ie . %snd:"patagonia29"_760398_760899
+*MER:	ie . 760398_760899
 %eng:	
-*FER:	o dydd Llun tan dydd Sadwrn . %snd:"patagonia29"_761155_763534
+*FER:	o dydd Llun tan dydd Sadwrn . 761155_763534
 %eng:	
-*MER:	+< dydd Llun tan dydd Sadwrn . %snd:"patagonia29"_762030_763630
+*MER:	+< dydd Llun tan dydd Sadwrn . 762030_763630
 %eng:	
-*MER:	pan (.) roedden ni wedi bod yn Nhrefelin@s:cym&spa eh@s:cym&spa fuon ni (.) deg diwrnod dw i (y)n meddwl . %snd:"patagonia29"_764385_771798
+*MER:	pan (.) roedden ni wedi bod yn Nhrefelin@s:cym&spa eh@s:cym&spa fuon ni (.) deg diwrnod dw i (y)n meddwl . 764385_771798
 %eng:	
-*FER:	deg diwrnod ? %snd:"patagonia29"_772214_773153
+*FER:	deg diwrnod ? 772214_773153
 %eng:	
-*MER:	ie ie mwy na un wythnos . %snd:"patagonia29"_772610_774924
+*MER:	ie ie mwy na un wythnos . 772610_774924
 %eng:	
-*FER:	pam (.) mae prosiect yn +// . %snd:"patagonia29"_776044_778732
+*FER:	pam (.) mae prosiect yn +//. 776044_778732
 %eng:	
-*FER:	ah@s:cym&spa porque@s:spa quizá@s:spa xxx (.) la@s:spa semana@s:spa . %snd:"patagonia29"_779816_782920
+*FER:	ah@s:cym&spa porque@s:spa quizá@s:spa xxx (.) la@s:spa semana@s:spa . 779816_782920
 %eng:	
-*MER:	ie falle . %snd:"patagonia29"_783422_784254
+*MER:	ie falle . 783422_784254
 %eng:	
-*MER:	dw i ddim yn gwybod . %snd:"patagonia29"_784627_785630
+*MER:	dw i ddim yn gwybod . 784627_785630
 %eng:	
-*MER:	a beth wyt ti (y)n mynd i wneud yn awr ? %snd:"patagonia29"_788151_790145
+*MER:	a beth wyt ti (y)n mynd i wneud yn awr ? 788151_790145
 %eng:	
-*FER:	wel rhaid ti mynd i (.) Trelew i prynnu (.) cyfrifiadur ? %snd:"patagonia29"_790523_795643
+*FER:	wel rhaid ti mynd i (.) Trelew i prynnu (.) cyfrifiadur ? 790523_795643
 %eng:	
-*MER:	ah@s:cym&spa . %snd:"patagonia29"_795760_796411
+*MER:	ah@s:cym&spa . 795760_796411
 %eng:	
-*FER:	&=laugh . %snd:"patagonia29"_796603_797499
+*FER:	&=laugh . 796603_797499
 %eng:	
-*FER:	a wedyn rhaid i mi ddarllen [=! laugh] . %snd:"patagonia29"_798119_801703
+*FER:	a wedyn rhaid i mi ddarllen [=! laugh] . 798119_801703
 %eng:	
-*MER:	wyt ti (y)n mynd ar y bws . %snd:"patagonia29"_801767_802813
+*MER:	wyt ti (y)n mynd ar y bws . 801767_802813
 %eng:	
-*MER:	neu yn y car efo (.) dy nain +.. . %snd:"patagonia29"_803005_804935
+*MER:	neu yn y car efo (.) dy nain +... 803005_804935
 %eng:	
-*FER:	na dw i (y)n mynd efo nain . %snd:"patagonia29"_804562_806749
+*FER:	na dw i (y)n mynd efo nain . 804562_806749
 %eng:	
-*FER:	ac wedyn rhaid i fi ddewis xx +/ . %snd:"patagonia29"_808488_810354
+*FER:	ac wedyn rhaid i fi ddewis xx +/. 808488_810354
 %eng:	
-*MER:	+< oes arholiadau wythnos yma (.) yn y prifysgol ? %snd:"patagonia29"_809992_813298
+*MER:	+< oes arholiadau wythnos yma (.) yn y prifysgol ? 809992_813298
 %eng:	
-*FER:	+< llawer achos dw i wedi (.) symud popeth i y &blwy yr wythnos nesaf achos dw i (y)n mynd i Buenos_Aires@s:cym&spa (.) blwyddyn nesaf . %snd:"patagonia29"_812296_819250
+*FER:	+< llawer achos dw i wedi (.) symud popeth i y &blwy yr wythnos nesaf achos dw i (y)n mynd i Buenos_Aires@s:cym&spa (.) blwyddyn nesaf . 812296_819250
 %eng:	
-*MER:	mm . %snd:"patagonia29"_819206_819569
+*MER:	mm . 819206_819569
 %eng:	
-*FER:	felly rhaid i mi ah@s:cym&spa gwaith cartref a popeth . %snd:"patagonia29"_819729_823654
+*FER:	felly rhaid i mi ah@s:cym&spa gwaith cartref a popeth . 819729_823654
 %eng:	
-*MER:	mae rhaid i mi fynd yn awr achos mae Milton@s:cym&spa fy ffrind yn aros yn yr ysgol gerdd yma . %snd:"patagonia29"_825090_829912
+*MER:	mae rhaid i mi fynd yn awr achos mae Milton@s:cym&spa fy ffrind yn aros yn yr ysgol gerdd yma . 825090_829912
 %eng:	
-*FER:	ah@s:cym&spa wyt ti (y)n mynd i Trelew@s:cym&spa nawr . %snd:"patagonia29"_830136_832152
+*FER:	ah@s:cym&spa wyt ti (y)n mynd i Trelew@s:cym&spa nawr . 830136_832152
 %eng:	
-*MER:	ie nawr . %snd:"patagonia29"_831533_832568
+*MER:	ie nawr . 831533_832568
 %eng:	
-*FER:	iawn wel +/ . %snd:"patagonia29"_832725_834379
+*FER:	iawn wel +/. 832725_834379
 %eng:	
-*MER:	welai di wythnos nesaf ? %snd:"patagonia29"_834603_835947
+*MER:	welai di wythnos nesaf ? 834603_835947
 %eng:	
-*FER:	iawn . %snd:"patagonia29"_836085_836715
+*FER:	iawn . 836085_836715
 %eng:	
-*MER:	neu wythnos nesaf wyt ti (y)n mynd i La_Plata@s:cym&spa ? %snd:"patagonia29"_836885_838667
+*MER:	neu wythnos nesaf wyt ti (y)n mynd i La_Plata@s:cym&spa ? 836885_838667
 %eng:	
-*FER:	na er dw i er +.. . %snd:"patagonia29"_838698_840650
+*FER:	na er dw i er +... 838698_840650
 %eng:	
-*FER:	wel er ti fory ? %snd:"patagonia29"_840767_843039
+*FER:	wel er ti fory ? 840767_843039
 %eng:	
-*MER:	mm dw i (ddi)m yn gwybod ? %snd:"patagonia29"_843487_844735
+*MER:	mm dw i (ddi)m yn gwybod ? 843487_844735
 %eng:	
-*MER:	a <os dw i> [/] os dw i (y)n mynd i cyngerdd ia . %snd:"patagonia29"_844362_847946
+*MER:	a <os dw i> [/] os dw i (y)n mynd i cyngerdd ia . 844362_847946
 %eng:	
-*FER:	+< os wyt ti (y)n mynd i (y)r cyngerdd . %snd:"patagonia29"_846276_847898
+*FER:	+< os wyt ti (y)n mynd i (y)r cyngerdd . 846276_847898
 %eng:	
-*MER:	os ydw i ddim yn mynd i (y)r cyngerdd dydd [/] (.) dydd Gwener yn y côr . %snd:"patagonia29"_848301_852099
+*MER:	os ydw i ddim yn mynd i (y)r cyngerdd dydd [/] (.) dydd Gwener yn y côr . 848301_852099
 %eng:	
-*FER:	++ dydd Gwener ? %snd:"patagonia29"_850596_851791
+*FER:	++ dydd Gwener ? 850596_851791
 %eng:	
-*FER:	neu ddydd +/ . %snd:"patagonia29"_852239_853316
+*FER:	neu ddydd +/. 852239_853316
 %eng:	
-*MER:	xxx . %snd:"patagonia29"_852335_853188
+*MER:	xxx . 852335_853188
 %eng:	
-*FER:	[- spa] sí . %snd:"patagonia29"_853583_854127
+*FER:	[- spa] sí . 853583_854127
 %eng:	
-*MER:	ia . %snd:"patagonia29"_854212_854650
+*MER:	ia . 854212_854650
 %eng:	
-*FER:	iawn . %snd:"patagonia29"_854820_855226
+*FER:	iawn . 854820_855226
 %eng:	
-*MER:	o_k@s:cym&spa . %snd:"patagonia29"_855236_855674
+*MER:	o_k@s:cym&spa . 855236_855674
 %eng:	
-*MER:	rhaid i mi wneud parti . %snd:"patagonia29"_855964_857212
+*MER:	rhaid i mi wneud parti . 855964_857212
 %eng:	
-*FER:	+< xx . %snd:"patagonia29"_856679_856903
+*FER:	+< xx . 856679_856903
 %eng:	
-*FER:	ah@s:cym&spa dydd Sadwrn (.) dan ni (y)n gallu wneud . %snd:"patagonia29"_858311_861276
+*FER:	ah@s:cym&spa dydd Sadwrn (.) dan ni (y)n gallu wneud . 858311_861276
 %eng:	
-*MER:	+< ie . %snd:"patagonia29"_859740_860092
+*MER:	+< ie . 859740_860092
 %eng:	
-*FER:	mae (.) llawer o pobl <yn wneud> [//] yn [/] <yn isio wneud parti dydd Sadwrn> [=! laugh] . %snd:"patagonia29"_862151_866940
+*FER:	mae (.) llawer o pobl <yn wneud> [//] yn [/] <yn isio wneud parti dydd Sadwrn> [=! laugh] . 862151_866940
 %eng:	
-*MER:	+< mm . %snd:"patagonia29"_866332_866684
+*MER:	+< mm . 866332_866684
 @End

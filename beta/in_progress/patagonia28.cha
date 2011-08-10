@@ -12,1788 +12,1788 @@
 @Time Duration:	00:35:07
 @Media:	Patagonia28, audio
 @Comment:	Filename: Patagonia28.cha; Soundfile: Patagonia28.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Due to the mono recording it has sometimes been difficult to tell the two speakers apart, so some tiers may be mis-identified. ZER frequently speaks very softly and mumbles.
-*ZER:	does dim lot o enwau Cymraeg (.) pert yn +.. . %snd:"patagonia28"_6_3199
+*ZER:	does dim lot o enwau Cymraeg (.) pert yn +... 6_3199
 %eng:	there aren't many pretty Welsh names that are...
-*TOY:	ond mae Seren@s:cym&spa ["] yn hawdd i ysgrifennu . %snd:"patagonia28"_4336_6594
+*TOY:	ond mae Seren@s:cym&spa ["] yn hawdd i ysgrifennu . 4336_6594
 %eng:	but "Seren" is easy to write
-*ZER:	ie (.) a ddarllen yn Sbaeneg [?] +/ . %snd:"patagonia28"_7200_9545
+*ZER:	ie (.) a ddarllen yn Sbaeneg [?] +/. 7200_9545
 %eng:	yes, and to read in Spanish
-*TOY:	+< a darllen ie . %snd:"patagonia28"_9104_10811
+*TOY:	+< a darllen ie . 9104_10811
 %eng:	and read, yes
-*ZER:	dw i (y)n hoffi Seren@s:cym&spa ["] hefyd . %snd:"patagonia28"_12227_13608
+*ZER:	dw i (y)n hoffi Seren@s:cym&spa ["] hefyd . 12227_13608
 %eng:	I like "Seren" as well
-*TOY:	dw i (y)n hoffi Nia@s:cym&spa ["] hefyd . %snd:"patagonia28"_13926_15546
+*TOY:	dw i (y)n hoffi Nia@s:cym&spa ["] hefyd . 13926_15546
 %eng:	I like "Nia" as well
-*ZER:	ah@s:cym&spa a fi . %snd:"patagonia28"_15553_16528
+*ZER:	ah@s:cym&spa a fi . 15553_16528
 %eng:	oh, me too
-*TOY:	a (.) Lowri@s:cym&spa ["] yn neis . %snd:"patagonia28"_17863_20284
+*TOY:	a (.) Lowri@s:cym&spa ["] yn neis . 17863_20284
 %eng:	and "Lowri" is nice
-*ZER:	ie xxx mae Laura@s:cym&spa ["] . %snd:"patagonia28"_20722_21941
+*ZER:	ie xxx mae Laura@s:cym&spa ["] . 20722_21941
 %eng:	yes, [...] there's "Laura"
-*ZER:	dw i (ddi)m yn gallu defnyddio fo . %snd:"patagonia28"_21941_23189
+*ZER:	dw i (ddi)m yn gallu defnyddio fo . 21941_23189
 %eng:	I can't use it
-*ZER:	does dim pwynt i galw [?] (.) y babi +// . %snd:"patagonia28"_23187_25405
+*ZER:	does dim pwynt i galw [?] (.) y babi +//. 23187_25405
 %eng:	there's no point in calling the baby...
-*ZER:	<fedri di wneud fel ti (y)n teimlo> [?] . %snd:"patagonia28"_25422_27129
+*ZER:	<fedri di wneud fel ti (y)n teimlo> [?] . 25422_27129
 %eng:	you can do what you feel like
-*TOY:	&=cough . %snd:"patagonia28"_28613_29940
-*ZER:	beth arall ? %snd:"patagonia28"_30671_31536
+*TOY:	&=cough . 28613_29940
+*ZER:	beth arall ? 30671_31536
 %eng:	what else?
-*ZER:	Gareth@s:cym&spa ["] . %snd:"patagonia28"_31693_32836
-*TOY:	+< os +/ . %snd:"patagonia28"_32253_32694
+*ZER:	Gareth@s:cym&spa ["] . 31693_32836
+*TOY:	+< os +/. 32253_32694
 %eng:	if...
-*ZER:	dw i (y)n hoffi Gareth@s:cym&spa ["] . %snd:"patagonia28"_33563_34741
+*ZER:	dw i (y)n hoffi Gareth@s:cym&spa ["] . 33563_34741
 %eng:	I like "Gareth"
-*ZER:	dw i +// . %snd:"patagonia28"_34832_35273
+*ZER:	dw i +//. 34832_35273
 %eng:	I...
-*ZER:	so fe (y)n swnio (y)n iawn . %snd:"patagonia28"_35297_36887
+*ZER:	so fe (y)n swnio (y)n iawn . 35297_36887
 %eng:	it doesn't sound right
-*ZER:	ond dw i (y)n hoffi fe . %snd:"patagonia28"_36875_38251
+*ZER:	ond dw i (y)n hoffi fe . 36875_38251
 %eng:	but I like it
-*TOY:	+< Gareth@s:cym&spa . %snd:"patagonia28"_37493_37998
-*TOY:	na dw i (y)n hoffi Iestyn@s:cym&spa ["] . %snd:"patagonia28"_38759_40541
+*TOY:	+< Gareth@s:cym&spa . 37493_37998
+*TOY:	na dw i (y)n hoffi Iestyn@s:cym&spa ["] . 38759_40541
 %eng:	no, I like "Iestyn"
-*ZER:	ie ond dw i ddim xxx Iestyn@s:cym&spa ["] xxx +/ . %snd:"patagonia28"_42018_44851
+*ZER:	ie ond dw i ddim xxx Iestyn@s:cym&spa ["] xxx +/. 42018_44851
 %eng:	yes, but I don't [...] Iestyn [...]...
-*TOY:	+< +, i bachgen . %snd:"patagonia28"_42308_43034
+*TOY:	+< +, i bachgen . 42308_43034
 %eng:	for a boy
-*TOY:	+< ond dw i ddim +/ . %snd:"patagonia28"_43011_43643
+*TOY:	+< ond dw i ddim +/. 43011_43643
 %eng:	but I don't...
-*TOY:	oedd e (y)n drwg ? %snd:"patagonia28"_45558_46499
+*TOY:	oedd e (y)n drwg ? 45558_46499
 %eng:	was he naughty?
-*ZER:	na dim cweit ond (.) dim yn (..) timod . %snd:"patagonia28"_46644_51666
-%eng:	no, not quite, not.. . you know
-*TOY:	+< ah@s:cym&spa ! %snd:"patagonia28"_47010_47399
-*TOY:	&=laugh . %snd:"patagonia28"_50928_52682
-*ZER:	dim beth dw i isio fel babi &=laugh ! %snd:"patagonia28"_52450_55260
+*ZER:	na dim cweit ond (.) dim yn (..) timod . 46644_51666
+%eng:	no, not quite, not... you know
+*TOY:	+< ah@s:cym&spa ! 47010_47399
+*TOY:	&=laugh . 50928_52682
+*ZER:	dim beth dw i isio fel babi &=laugh ! 52450_55260
 %eng:	not what I want as a baby!
-*TOY:	+< &=laugh . %snd:"patagonia28"_53806_55165
-*ZER:	xx . %snd:"patagonia28"_55358_56502
-*TOY:	hoffwn i roi enw Gymraeg . %snd:"patagonia28"_57620_59135
+*TOY:	+< &=laugh . 53806_55165
+*ZER:	xx . 55358_56502
+*TOY:	hoffwn i roi enw Gymraeg . 57620_59135
 %eng:	I'd like to give a Welsh name
-*TOY:	ond dw i (ddi)m yn gwybod . %snd:"patagonia28"_59130_60221
+*TOY:	ond dw i (ddi)m yn gwybod . 59130_60221
 %eng:	but I don't know
-*TOY:	cawn ni weld . %snd:"patagonia28"_60515_61232
+*TOY:	cawn ni weld . 60515_61232
 %eng:	we'll see
-*ZER:	beth ydy dy gŵr er@s:cym&spa di yn deud ? %snd:"patagonia28"_61286_63288
+*ZER:	beth ydy dy gŵr er@s:cym&spa di yn deud ? 61286_63288
 %eng:	what does your husband say?
-*TOY:	+< <mae yn> [//] mae isio (.) hefyd . %snd:"patagonia28"_62799_64958
+*TOY:	+< <mae yn> [//] mae isio (.) hefyd . 62799_64958
 %eng:	he wants to too
-*TOY:	ond mae anodd &f (.) ffeindio enw (.) i (.) hawdd i ysgrifennu a (..) ynganu yn Cymraeg . %snd:"patagonia28"_65998_73424
+*TOY:	ond mae anodd &f (.) ffeindio enw (.) i (.) hawdd i ysgrifennu a (..) ynganu yn Cymraeg . 65998_73424
 %eng:	but it's hard to find a name that's easy to write and pronounce in Welsh
-*ZER:	wel (.) ti (y)n gallu wneud nhw (.) rhyfedd [?] iawn a +.. . %snd:"patagonia28"_74280_78413
+*ZER:	wel (.) ti (y)n gallu wneud nhw (.) rhyfedd [?] iawn a +... 74280_78413
 %eng:	well, you can make them really strange and...
-*ZER:	[- spa] qué <tipo xxx> [=! laughs] ! %snd:"patagonia28"_80454_85133
+*ZER:	[- spa] qué <tipo xxx> [=! laughs] ! 80454_85133
 %eng:	what type of [...]
-*ZER:	[- spa] sólo la xxx . %snd:"patagonia28"_85324_86688
+*ZER:	[- spa] sólo la xxx . 85324_86688
 %eng:	only the [...]
-*TOY:	+< na . %snd:"patagonia28"_85460_86325
+*TOY:	+< na . 85460_86325
 %eng:	no
-*TOY:	truan ar y babi . %snd:"patagonia28"_86619_87444
+*TOY:	truan ar y babi . 86619_87444
 %eng:	poor baby
-*ZER:	&=cough be ? %snd:"patagonia28"_87445_88670
+*ZER:	&=cough be ? 87445_88670
 %eng:	what?
-*TOY:	truan ar y babi wedyn . %snd:"patagonia28"_88868_90179
+*TOY:	truan ar y babi wedyn . 88868_90179
 %eng:	poor baby afterwards
-*ZER:	ie . %snd:"patagonia28"_90138_90904
+*ZER:	ie . 90138_90904
 %eng:	yes
-*ZER:	&=laugh . %snd:"patagonia28"_90950_91751
-*TOY:	+" pwy wyt ti ? %snd:"patagonia28"_93080_93667
+*ZER:	&=laugh . 90950_91751
+*TOY:	+" pwy wyt ti ? 93080_93667
 %eng:	"who are you?"
-*TOY:	beth ["] fydden nhw (y)n deud ie ? %snd:"patagonia28"_94038_95641
+*TOY:	beth ["] fydden nhw (y)n deud ie ? 94038_95641
 %eng:	"what", they'd say, right?
-*ZER:	+< &=laugh ie . %snd:"patagonia28"_94642_95194
+*ZER:	+< &=laugh ie . 94642_95194
 %eng:	yes
-*TOY:	sut ["] &=laugh +! ? %snd:"patagonia28"_95563_97351
+*TOY:	sut ["] &=laugh +!? 95563_97351
 %eng:	"how"?
-*ZER:	+< eto &=laugh ! %snd:"patagonia28"_95563_97351
+*ZER:	+< eto &=laugh ! 95563_97351
 %eng:	come again!
-*ZER:	druan ah@s:cym&spa . %snd:"patagonia28"_98021_99136
+*ZER:	druan ah@s:cym&spa . 98021_99136
 %eng:	poor thing, ah
-*ZER:	mae raid i ti meddwl lot o bethau . %snd:"patagonia28"_99850_101946
+*ZER:	mae raid i ti meddwl lot o bethau . 99850_101946
 %eng:	you have to think about lots of things
-*ZER:	achos mae plant yn rhy drwg yn yr ysgol hefyd . %snd:"patagonia28"_104787_107568
+*ZER:	achos mae plant yn rhy drwg yn yr ysgol hefyd . 104787_107568
 %eng:	because children are too naughty in school as well
-*TOY:	+< mmhm . %snd:"patagonia28"_106733_107186
-*TOY:	ie ! %snd:"patagonia28"_107550_108107
+*TOY:	+< mmhm . 106733_107186
+*TOY:	ie ! 107550_108107
 %eng:	yes!
-*ZER:	maen nhw (y)n rhoi enwau arall timod +.. . %snd:"patagonia28"_108030_110131
+*ZER:	maen nhw (y)n rhoi enwau arall timod +... 108030_110131
 %eng:	they give other names, you know...
-*TOY:	ie mae plant yn chwerthin gweithiau . %snd:"patagonia28"_113216_115161
+*TOY:	ie mae plant yn chwerthin gweithiau . 113216_115161
 %eng:	yes, children laugh sometimes
-*ZER:	ie . %snd:"patagonia28"_115254_115707
+*ZER:	ie . 115254_115707
 %eng:	yes
-*TOY:	a maen dweud pethau cas . %snd:"patagonia28"_115637_117284
+*TOY:	a maen dweud pethau cas . 115637_117284
 %eng:	and they say nasty things
-*ZER:	truan . %snd:"patagonia28"_118905_119758
+*ZER:	truan . 118905_119758
 %eng:	shame
-*TOY:	ond dim ond mis (..) a hanner i gyrraedd [?] . %snd:"patagonia28"_121492_125428
+*TOY:	ond dim ond mis (..) a hanner i gyrraedd [?] . 121492_125428
 %eng:	but only a month and a half to arrive
-*ZER:	&=gasp . %snd:"patagonia28"_125775_127383
-*ZER:	xxx . %snd:"patagonia28"_127537_128721
-*TOY:	i gwybod beth yw e ! %snd:"patagonia28"_129490_131139
+*ZER:	&=gasp . 125775_127383
+*ZER:	xxx . 127537_128721
+*TOY:	i gwybod beth yw e ! 129490_131139
 %eng:	to know what it is!
-*TOY:	ooh ! %snd:"patagonia28"_131243_132660
-*ZER:	+< xxx mae [/] mae [/] mae (..) xx bachgen dw i meddwl . %snd:"patagonia28"_131352_135352
+*TOY:	ooh ! 131243_132660
+*ZER:	+< xxx mae [/] mae [/] mae (..) xx bachgen dw i meddwl . 131352_135352
 %eng:	[...] a boy, I think
-*ZER:	&=cough . %snd:"patagonia28"_136073_136421
-*TOY:	+< bachgen ? %snd:"patagonia28"_136276_137187
+*ZER:	&=cough . 136073_136421
+*TOY:	+< bachgen ? 136276_137187
 %eng:	a boy?
-*TOY:	cawn ni weld . %snd:"patagonia28"_137419_138319
+*TOY:	cawn ni weld . 137419_138319
 %eng:	we'll see
-*ZER:	be ti isio ? %snd:"patagonia28"_138505_139225
+*ZER:	be ti isio ? 138505_139225
 %eng:	what do you want?
-*ZER:	ti isio rywbeth ? %snd:"patagonia28"_139298_140233
+*ZER:	ti isio rywbeth ? 139298_140233
 %eng:	do you want anything
-*TOY:	dw i isio merch &=laugh ! %snd:"patagonia28"_140556_142187
+*TOY:	dw i isio merch &=laugh ! 140556_142187
 %eng:	I want a girl!
-*ZER:	dw i isio xx . %snd:"patagonia28"_142073_143199
+*ZER:	dw i isio xx . 142073_143199
 %eng:	I want a [..]
-*TOY:	&=laugh ! %snd:"patagonia28"_143225_145239
-*TOY:	na ond +.. . %snd:"patagonia28"_145349_146539
+*TOY:	&=laugh ! 143225_145239
+*TOY:	na ond +... 145349_146539
 %eng:	no, but...
-*TOY:	wel (.) mae (y)n iawn . %snd:"patagonia28"_146859_149047
+*TOY:	wel (.) mae (y)n iawn . 146859_149047
 %eng:	well, it's alright
-*ZER:	+< &=cough . %snd:"patagonia28"_147924_148696
-*ZER:	mae lot o bethau (..) gwahanol (.) fel +// . %snd:"patagonia28"_150950_155501
+*ZER:	+< &=cough . 147924_148696
+*ZER:	mae lot o bethau (..) gwahanol (.) fel +//. 150950_155501
 %eng:	there are lots of different things, like...
-*ZER:	achos mae merch [///] (.) ti (y)n gallu wneud [//] (..) roi +.. . %snd:"patagonia28"_155511_160969
-%eng:	because a girl.. . you can do, give...
-*TOY:	++ ffrogau [?] . %snd:"patagonia28"_161095_161960
+*ZER:	achos mae merch [///] (.) ti (y)n gallu wneud [//] (..) roi +... 155511_160969
+%eng:	because a girl... you can do, give...
+*TOY:	++ ffrogau [?] . 161095_161960
 %eng:	dresses
-*ZER:	ie ie (.) ie . %snd:"patagonia28"_161854_163880
+*ZER:	ie ie (.) ie . 161854_163880
 %eng:	yes
-*TOY:	+< mae llawer o ddillad i merched <gyda merch> [?] . %snd:"patagonia28"_162065_164265
+*TOY:	+< mae llawer o ddillad i merched <gyda merch> [?] . 162065_164265
 %eng:	there are a lot of womens' clothes [...]
-*ZER:	ond (.) hefyd (..) mae raid ti bod (.) mwy ofalus efallai . %snd:"patagonia28"_165812_171518
+*ZER:	ond (.) hefyd (..) mae raid ti bod (.) mwy ofalus efallai . 165812_171518
 %eng:	but also you have to be more careful, perhaps
-*ZER:	mae lot o bethau drwg (.) pan maen nhw (y)n (..) crecer@s:spa . %snd:"patagonia28"_173232_178532
+*ZER:	mae lot o bethau drwg (.) pan maen nhw (y)n (..) crecer@s:spa . 173232_178532
 %eng:	there are a lot of bad things when they grow up
-*ZER:	beth yw crecer@s:spa ["] ? %snd:"patagonia28"_178542_179389
+*ZER:	beth yw crecer@s:spa ["] ? 178542_179389
 %eng:	what's "to grow"?
-*TOY:	tyfu ["] . %snd:"patagonia28"_179466_179948
+*TOY:	tyfu ["] . 179466_179948
 %eng:	[grow]
-*ZER:	tyfu ["] . %snd:"patagonia28"_180192_180679
+*ZER:	tyfu ["] . 180192_180679
 %eng:	[grow]
-*TOY:	ie . %snd:"patagonia28"_182444_182810
+*TOY:	ie . 182444_182810
 %eng:	yes
-*ZER:	wel xxx +.. . %snd:"patagonia28"_182895_184695
+*ZER:	wel xxx +... 182895_184695
 %eng:	well...
-*ZER:	ah@s:cym&spa mae (y)r un peth . %snd:"patagonia28"_185269_186094
+*ZER:	ah@s:cym&spa mae (y)r un peth . 185269_186094
 %eng:	ah, it's the same
-*TOY:	mae (y)n iawn . %snd:"patagonia28"_186969_187909
+*TOY:	mae (y)n iawn . 186969_187909
 %eng:	it's alright
-*TOY:	mae nith bach gen ti (.) oes ? %snd:"patagonia28"_188795_190490
+*TOY:	mae nith bach gen ti (.) oes ? 188795_190490
 %eng:	you've got a little niece, haven't you?
-*ZER:	+< &=cough . %snd:"patagonia28"_189509_189868
-*ZER:	oes &s oes . %snd:"patagonia28"_190617_191964
+*ZER:	+< &=cough . 189509_189868
+*ZER:	oes &s oes . 190617_191964
 %eng:	yes, yes
-*TOY:	beth yw (y)r enw ? %snd:"patagonia28"_191958_192666
+*TOY:	beth yw (y)r enw ? 191958_192666
 %eng:	what's the name?
-*ZER:	Lora@s:cym&spa . %snd:"patagonia28"_193904_194328
+*ZER:	Lora@s:cym&spa . 193904_194328
 %eng:	Lora
-*TOY:	&=laugh ! %snd:"patagonia28"_194357_195309
-*ZER:	+< xxx meddwl ! %snd:"patagonia28"_194459_195689
+*TOY:	&=laugh ! 194357_195309
+*ZER:	+< xxx meddwl ! 194459_195689
 %eng:	[...] think
-*TOY:	ti (ddi)m yn ei cofio ? %snd:"patagonia28"_195686_196615
+*TOY:	ti (ddi)m yn ei cofio ? 195686_196615
 %eng:	you don't remember it?
-*TOY:	&=laugh er@s:cym&spa mmm ! %snd:"patagonia28"_196783_199552
-*ZER:	Lora_Ann@s:cym&spa . %snd:"patagonia28"_199607_200908
-*ZER:	Lora@s:cym&spa dw i (ddi)m yn hoffi xx sy (y)n swnio . %snd:"patagonia28"_201221_203566
+*TOY:	&=laugh er@s:cym&spa mmm ! 196783_199552
+*ZER:	Lora_Ann@s:cym&spa . 199607_200908
+*ZER:	Lora@s:cym&spa dw i (ddi)m yn hoffi xx sy (y)n swnio . 201221_203566
 %eng:	Lora, I don't like the way it sounds
-*TOY:	+< Ann@s:cym&spa ? %snd:"patagonia28"_202529_202912
-*ZER:	Lora_Ann@s:cym&spa . %snd:"patagonia28"_203787_204611
-*ZER:	mae (y)n <swnio fel> [?] (.) Loran@s:cym&spa ["] ! %snd:"patagonia28"_204669_206527
+*TOY:	+< Ann@s:cym&spa ? 202529_202912
+*ZER:	Lora_Ann@s:cym&spa . 203787_204611
+*ZER:	mae (y)n <swnio fel> [?] (.) Loran@s:cym&spa ["] ! 204669_206527
 %eng:	it sounds like "Loran"
-*TOY:	beth yw ? %snd:"patagonia28"_206530_207140
+*TOY:	beth yw ? 206530_207140
 %eng:	what is it?
-*TOY:	Lora@s:cym&spa (.) Ann@s:cym&spa ah@s:cym&spa . %snd:"patagonia28"_207122_209566
-*ZER:	+< Ann@s:cym&spa . %snd:"patagonia28"_208109_208637
-*ZER:	achos oedden nhw wedi roi Lora@s:cym&spa +.. . %snd:"patagonia28"_210504_212913
+*TOY:	Lora@s:cym&spa (.) Ann@s:cym&spa ah@s:cym&spa . 207122_209566
+*ZER:	+< Ann@s:cym&spa . 208109_208637
+*ZER:	achos oedden nhw wedi roi Lora@s:cym&spa +... 210504_212913
 %eng:	because they'd given "Lora"
-*ZER:	wel +.. . %snd:"patagonia28"_214448_215064
+*ZER:	wel +... 214448_215064
 %eng:	well...
-*ZER:	mae (.) fy chwaer +.. . %snd:"patagonia28"_217313_219525
+*ZER:	mae (.) fy chwaer +... 217313_219525
 %eng:	my sister...
-*ZER:	beth yw +.. . %snd:"patagonia28"_221213_222066
+*ZER:	beth yw +..? 221213_222066
 %eng:	what's..?
-*ZER:	mam_yng_nghyfraith whatever . %snd:"patagonia28"_223593_225271
+*ZER:	mam_yng_nghyfraith whatever . 223593_225271
 %eng:	mother-in-law, whatever
-*ZER:	[- spa] la [/] la suegra de mi hermana . %snd:"patagonia28"_226226_228298
+*ZER:	[- spa] la [/] la suegra de mi hermana . 226226_228298
 %eng:	my sister's mother in law
-*TOY:	+< mmhm . %snd:"patagonia28"_226512_227301
-*TOY:	mmhm . %snd:"patagonia28"_228879_229668
-*ZER:	mae hi ddim yn eisio rhywbeth (..) &s sy ddim yn Saesneg (.) timod . %snd:"patagonia28"_230302_235965
+*TOY:	+< mmhm . 226512_227301
+*TOY:	mmhm . 228879_229668
+*ZER:	mae hi ddim yn eisio rhywbeth (..) &s sy ddim yn Saesneg (.) timod . 230302_235965
 %eng:	she doesn't want anything that isn't English, you know
-*TOY:	ah@s:cym&spa . %snd:"patagonia28"_235797_236395
-*ZER:	mae hi yn rhy (..) twp ! %snd:"patagonia28"_236432_239585
-%eng:	she's too.. . stupid!
-*TOY:	&=laugh . %snd:"patagonia28"_239511_239975
-*ZER:	ac &=cough dim yn siwr pam . %snd:"patagonia28"_239996_242080
-%eng:	and.. . not sure why
-*ZER:	oedden nhw rhy +// . %snd:"patagonia28"_242080_243090
+*TOY:	ah@s:cym&spa . 235797_236395
+*ZER:	mae hi yn rhy (..) twp ! 236432_239585
+%eng:	she's too... stupid!
+*TOY:	&=laugh . 239511_239975
+*ZER:	ac &=cough dim yn siwr pam . 239996_242080
+%eng:	and... not sure why
+*ZER:	oedden nhw rhy +//. 242080_243090
 %eng:	they were too...
-*ZER:	(ba)sai (y)n gallu sbwylio fe . %snd:"patagonia28"_243032_244291
+*ZER:	(ba)sai (y)n gallu sbwylio fe . 243032_244291
 %eng:	it could spoil it
-*ZER:	ond (..) mae fy [///] um mae [/] maen nhw wedi roi Lora@s:cym&spa +// . %snd:"patagonia28"_244548_249384
-%eng:	but my.. . um, they've given "Lora"
-*ZER:	wel mae fy &m mrawd_yng_nghyfraith wedi roi er@s:cym&spa yr enw Lora@s:cym&spa ["] (.) i (y)r ferch (.) i wneud hi (y)n (.) xxx &=laugh ! %snd:"patagonia28"_249811_258972
+*ZER:	ond (..) mae fy [///] um mae [/] maen nhw wedi roi Lora@s:cym&spa +//. 244548_249384
+%eng:	but my... um, they've given "Lora"
+*ZER:	wel mae fy &m mrawd_yng_nghyfraith wedi roi er@s:cym&spa yr enw Lora@s:cym&spa ["] (.) i (y)r ferch (.) i wneud hi (y)n (.) xxx &=laugh ! 249811_258972
 %eng:	well, my brother-in-law had given the name "Lora" to the daughter to make her [...]
-*ZER:	ac ar_ôl +// . %snd:"patagonia28"_259408_260522
+*ZER:	ac ar_ôl +//. 259408_260522
 %eng:	and after...
-*ZER:	wel Ann@s:cym&spa achos mae ei enw hi (.) ar_ôl +// . %snd:"patagonia28"_260650_265027
+*ZER:	wel Ann@s:cym&spa achos mae ei enw hi (.) ar_ôl +//. 260650_265027
 %eng:	well, "Ann" because it's her name, after...
-*TOY:	+< ah@s:cym&spa . %snd:"patagonia28"_263860_264446
-*ZER:	o_k@s:cym&spa paid â becso (.) <Ann@s:cym&spa hefyd> [?] timod . %snd:"patagonia28"_265132_268813
+*TOY:	+< ah@s:cym&spa . 263860_264446
+*ZER:	o_k@s:cym&spa paid â becso (.) <Ann@s:cym&spa hefyd> [?] timod . 265132_268813
 %eng:	ok, don't worry, "Ann" as well, you know
-*ZER:	dw i (dd)im yn hoffi sut mae (y)n swnio (.) Loran@s:cym&spa ["] . %snd:"patagonia28"_270101_272429
+*ZER:	dw i (dd)im yn hoffi sut mae (y)n swnio (.) Loran@s:cym&spa ["] . 270101_272429
 %eng:	I don't like the way it sounds, Loran.
-*TOY:	+< Lora_Ann@s:cym&spa . %snd:"patagonia28"_270627_271730
-*TOY:	a beth yw cyfenw ? %snd:"patagonia28"_272498_273369
+*TOY:	+< Lora_Ann@s:cym&spa . 270627_271730
+*TOY:	a beth yw cyfenw ? 272498_273369
 %eng:	and what's the surname?
-*ZER:	&=clears_throat Malkovich@s:cym&spa . %snd:"patagonia28"_273891_275254
-*TOY:	enw (y)r chwaer hi . %snd:"patagonia28"_277165_278187
+*ZER:	&=clears_throat Malkovich@s:cym&spa . 273891_275254
+*TOY:	enw (y)r chwaer hi . 277165_278187
 %eng:	her sister's name
-*ZER:	+< ond +// . %snd:"patagonia28"_277257_277820
+*ZER:	+< ond +//. 277257_277820
 %eng:	but...
-*ZER:	ie ond (.) er@s:cym&spa mae hi (y)n (.) Lora_Ann_Malkovich@s:cym&spa . %snd:"patagonia28"_278786_283482
+*ZER:	ie ond (.) er@s:cym&spa mae hi (y)n (.) Lora_Ann_Malkovich@s:cym&spa . 278786_283482
 %eng:	yes, but she's "Lora Ann Malkovich"
-*TOY:	mmhm . %snd:"patagonia28"_283467_283827
-*ZER:	ah@s:cym&spa does dim (.) cyfenw (..) o (y)r +/ . %snd:"patagonia28"_284427_287870
+*TOY:	mmhm . 283467_283827
+*ZER:	ah@s:cym&spa does dim (.) cyfenw (..) o (y)r +/. 284427_287870
 %eng:	oh, there's no surname from the...
-*TOY:	+< ie ie ie ! %snd:"patagonia28"_287249_287910
+*TOY:	+< ie ie ie ! 287249_287910
 %eng:	yes!
-*ZER:	&=cough wnaeth [?] um +.. . %snd:"patagonia28"_288605_290875
+*ZER:	&=cough wnaeth [?] um +... 288605_290875
 %eng:	did, er...
-*ZER:	ti (y)n gallu &ne yn [/] yn [/] yn xxx +// . %snd:"patagonia28"_291281_294700
+*ZER:	ti (y)n gallu &ne yn [/] yn [/] yn xxx +//. 291281_294700
 %eng:	you can [...]
-*ZER:	ti (y)n gallu newid (.) er@s:cym&spa +.. . %snd:"patagonia28"_294703_297466
+*ZER:	ti (y)n gallu newid (.) er@s:cym&spa +... 294703_297466
 %eng:	you can change...
-*ZER:	Daniel@s:cym&spa yn gallu enwi [//] er@s:cym&spa newid (.) ei (.) cyfenw fe (.) i (..) cyfenw +.. . %snd:"patagonia28"_297927_305927
-%eng:	Daniel can name.. . change his surname to the surname of...
-*TOY:	++ ei gwraig . %snd:"patagonia28"_306433_307135
+*ZER:	Daniel@s:cym&spa yn gallu enwi [//] er@s:cym&spa newid (.) ei (.) cyfenw fe (.) i (..) cyfenw +... 297927_305927
+%eng:	Daniel can name... change his surname to the surname of...
+*TOY:	++ ei gwraig . 306433_307135
 %eng:	...his wife
-*ZER:	+, ei gwraig . %snd:"patagonia28"_307031_307693
+*ZER:	+, ei gwraig . 307031_307693
 %eng:	his wife
-*TOY:	oh@s:cym&spa (.) o(eddw)n i (dd)im yn gwybod hwnna . %snd:"patagonia28"_308854_310938
+*TOY:	oh@s:cym&spa (.) o(eddw)n i (dd)im yn gwybod hwnna . 308854_310938
 %eng:	oh, I didn't know that
-*ZER:	ie . %snd:"patagonia28"_310797_311511
+*ZER:	ie . 310797_311511
 %eng:	yes
-*TOY:	&=laugh . %snd:"patagonia28"_311612_312715
-*ZER:	ond mae [/] mae wedi newid fe . %snd:"patagonia28"_311884_313840
+*TOY:	&=laugh . 311612_312715
+*ZER:	ond mae [/] mae wedi newid fe . 311884_313840
 %eng:	but he's changed it
-*TOY:	felly mae fe Malkovich@s:cym&spa hefyd ? %snd:"patagonia28"_314316_316125
+*TOY:	felly mae fe Malkovich@s:cym&spa hefyd ? 314316_316125
 %eng:	so he's Malkovich too
-*ZER:	ie . %snd:"patagonia28"_316270_316827
+*ZER:	ie . 316270_316827
 %eng:	yes
-*TOY:	ah@s:cym&spa ! %snd:"patagonia28"_317083_317593
-*TOY:	od iawn ! %snd:"patagonia28"_319346_320716
+*TOY:	ah@s:cym&spa ! 317083_317593
+*TOY:	od iawn ! 319346_320716
 %eng:	very strange
-*ZER:	+< xxx [=! laughs] ydy ! %snd:"patagonia28"_319514_322213
+*ZER:	+< xxx [=! laughs] ydy ! 319514_322213
 %eng:	it is !
-*TOY:	ie . %snd:"patagonia28"_322292_322728
+*TOY:	ie . 322292_322728
 %eng:	yes
-*ZER:	ond mae lot well na (e)i enw fe (.) yw +/ . %snd:"patagonia28"_323040_325372
+*ZER:	ond mae lot well na (e)i enw fe (.) yw +/. 323040_325372
 %eng:	but it's a lot better that his name is...
-*TOY:	a beth oedd ei gyfenw fe ? %snd:"patagonia28"_325714_327038
+*TOY:	a beth oedd ei gyfenw fe ? 325714_327038
 %eng:	and what was his surname?
-*ZER:	&b er@s:cym&spa Butter@s:cym&spa . %snd:"patagonia28"_327316_328953
-*TOY:	Butter@s:cym&spa . %snd:"patagonia28"_329681_330429
-*ZER:	mae fel (.) manteca@s:spa . %snd:"patagonia28"_330688_332621
+*ZER:	&b er@s:cym&spa Butter@s:cym&spa . 327316_328953
+*TOY:	Butter@s:cym&spa . 329681_330429
+*ZER:	mae fel (.) manteca@s:spa . 330688_332621
 %eng:	it's like "butter"
-*TOY:	+< &m menyn &=laugh ! %snd:"patagonia28"_332436_334456
+*TOY:	+< &m menyn &=laugh ! 332436_334456
 %eng:	butter
-*ZER:	+< &=laugh ! %snd:"patagonia28"_333159_335388
-*TOY:	+< <da iawn o(eddw)n i meddwl> [=! laughs] +"/ . %snd:"patagonia28"_334059_335522
+*ZER:	+< &=laugh ! 333159_335388
+*TOY:	+< <da iawn o(eddw)n i meddwl> [=! laughs] +"/. 334059_335522
 %eng:	very good, I was thinking...
-*TOY:	ah@s:cym&spa dyna pam mae fe (.) wedi +.. . %snd:"patagonia28"_335585_338325
+*TOY:	ah@s:cym&spa dyna pam mae fe (.) wedi +... 335585_338325
 %eng:	oh, that's why he's...
-*TOY:	+< &=cough &=laugh ie . %snd:"patagonia28"_336967_337931
+*TOY:	+< &=cough &=laugh ie . 336967_337931
 %eng:	yes
-*TOY:	+, penderfynu newid . %snd:"patagonia28"_338386_339680
+*TOY:	+, penderfynu newid . 338386_339680
 %eng:	...decided to change
-*ZER:	ie . %snd:"patagonia28"_339918_340859
+*ZER:	ie . 339918_340859
 %eng:	yes
-*TOY:	&=laugh . %snd:"patagonia28"_340900_341730
-*ZER:	truan (.) truan fe . %snd:"patagonia28"_341707_343779
+*TOY:	&=laugh . 340900_341730
+*ZER:	truan (.) truan fe . 341707_343779
 %eng:	poor thing
-*ZER:	Ellis_Butter@s:cym&spa . %snd:"patagonia28"_345157_346846
-*ZER:	ie rywbeth fel (y)na . %snd:"patagonia28"_347551_348654
+*ZER:	Ellis_Butter@s:cym&spa . 345157_346846
+*ZER:	ie rywbeth fel (y)na . 347551_348654
 %eng:	yes something like that
-*TOY:	&=laugh waw@s:cym&spa . %snd:"patagonia28"_349259_350803
+*TOY:	&=laugh waw@s:cym&spa . 349259_350803
 %eng:	wow
-*ZER:	mm . %snd:"patagonia28"_351148_352175
-*TOY:	ie o(eddw)n i ddim yn gwybod hwnna . %snd:"patagonia28"_352125_353507
+*ZER:	mm . 351148_352175
+*TOY:	ie o(eddw)n i ddim yn gwybod hwnna . 352125_353507
 %eng:	yes, I didn't know that
-*ZER:	xxx ddim yn gwybod timod nage [?] . %snd:"patagonia28"_354977_357641
+*ZER:	xxx ddim yn gwybod timod nage [?] . 354977_357641
 %eng:	[...] didn't know, you know, is it?
-*ZER:	ond +.. . %snd:"patagonia28"_357732_359289
+*ZER:	ond +... 357732_359289
 %eng:	but
-*TOY:	<ac oes (gy)da ti> [?] (.) lluniau oddi_wrthyn nhw +.. . %snd:"patagonia28"_359580_361914
+*TOY:	<ac oes (gy)da ti> [?] (.) lluniau oddi_wrthyn nhw +..? 359580_361914
 %eng:	and do you have pictures from them?
-*ZER:	ie oh@s:cym&spa ti isio weld nhw ? %snd:"patagonia28"_362015_363832
+*ZER:	ie oh@s:cym&spa ti isio weld nhw ? 362015_363832
 %eng:	yes, oh do you want to see them?
-*TOY:	oes . %snd:"patagonia28"_364140_364772
+*TOY:	oes . 364140_364772
 %eng:	yes
-*TOY:	oes gennot ti fan_hyn ? %snd:"patagonia28"_364941_365719
+*TOY:	oes gennot ti fan_hyn ? 364941_365719
 %eng:	do you have them here?
-*ZER:	ie . %snd:"patagonia28"_365649_366015
+*ZER:	ie . 365649_366015
 %eng:	yes
-*ZER:	&=cough ar y cyfrifiadur . %snd:"patagonia28"_368178_370012
+*ZER:	&=cough ar y cyfrifiadur . 368178_370012
 %eng:	on the computer
-*TOY:	ah@s:cym&spa ! %snd:"patagonia28"_371475_372189
-*ZER:	dw i isio mynd i (y)r internet@s:spa ar_ôl tri [?] . %snd:"patagonia28"_376119_378865
+*TOY:	ah@s:cym&spa ! 371475_372189
+*ZER:	dw i isio mynd i (y)r internet@s:spa ar_ôl tri [?] . 376119_378865
 %eng:	I want to go to the internet after three
-*ZER:	dw i (y)n dod gyda (y)r cyfrifiadur achos mae lot +// . %snd:"patagonia28"_378986_381401
+*ZER:	dw i (y)n dod gyda (y)r cyfrifiadur achos mae lot +//. 378986_381401
 %eng:	I come with the computer because there's a lot...
-*ZER:	mae (y)n hawdd . %snd:"patagonia28"_381808_382870
+*ZER:	mae (y)n hawdd . 381808_382870
 %eng:	it's easy
-*ZER:	ond lot well na (y)r cyfrifiaduron o (y)r (.) cyber@s:cym&spa (.) ti wybod . %snd:"patagonia28"_383405_388769
+*ZER:	ond lot well na (y)r cyfrifiaduron o (y)r (.) cyber@s:cym&spa (.) ti wybod . 383405_388769
 %eng:	but much better than the computers from the cyber (café), you know
-*ZER:	xxx . %snd:"patagonia28"_389252_390599
-*ZER:	xxx . %snd:"patagonia28"_390604_391359
-*ZER:	&=sigh mae lot o llwch bob man . %snd:"patagonia28"_393810_396481
+*ZER:	xxx . 389252_390599
+*ZER:	xxx . 390604_391359
+*ZER:	&=sigh mae lot o llwch bob man . 393810_396481
 %eng:	there's lots of dust everywhere
-*TOY:	mmhm . %snd:"patagonia28"_396515_396982
-*ZER:	&=sigh ych_a_fi ! %snd:"patagonia28"_397028_398319
+*TOY:	mmhm . 396515_396982
+*ZER:	&=sigh ych_a_fi ! 397028_398319
 %eng:	yuck
-*ZER:	[- eng] xx systems . %snd:"patagonia28"_403703_405044
+*ZER:	[- eng] xx systems . 403703_405044
 %eng:	[...] systems
-*ZER:	mae fy brawd fi xx ! %snd:"patagonia28"_404998_406601
+*ZER:	mae fy brawd fi xx ! 404998_406601
 %eng:	my brother is [...]
-*TOY:	xxx [=! laughs] . %snd:"patagonia28"_406745_408457
-*TOY:	[- eng] xx systems . %snd:"patagonia28"_408359_409961
+*TOY:	xxx [=! laughs] . 406745_408457
+*TOY:	[- eng] xx systems . 408359_409961
 %eng:	[...] systems
-*ZER:	&=cough drwg drwg ! %snd:"patagonia28"_410120_413109
+*ZER:	&=cough drwg drwg ! 410120_413109
 %eng:	bad, bad!
-*TOY:	ble mae dy frawd di yn byw yma ? %snd:"patagonia28"_415035_416469
+*TOY:	ble mae dy frawd di yn byw yma ? 415035_416469
 %eng:	where does your brother live here?
-*TOY:	yn Esquel@s:cym&spa ? %snd:"patagonia28"_416417_416974
+*TOY:	yn Esquel@s:cym&spa ? 416417_416974
 %eng:	in Esquel?
-*ZER:	yn Esquel@s:cym&spa . %snd:"patagonia28"_416962_417514
+*ZER:	yn Esquel@s:cym&spa . 416962_417514
 %eng:	in Esquel
-*TOY:	ah@s:cym&spa . %snd:"patagonia28"_417543_419023
-*TOY:	[- spa] xxx de todo . %snd:"patagonia28"_424716_425998
+*TOY:	ah@s:cym&spa . 417543_419023
+*TOY:	[- spa] xxx de todo . 424716_425998
 %eng:	xxx of everything.
-*TOY:	xxx . %snd:"patagonia28"_426465_428311
-*ZER:	[- spa] debe ser el solcito porque ayer lo puse ahí . %snd:"patagonia28"_428612_431846
+*TOY:	xxx . 426465_428311
+*ZER:	[- spa] debe ser el solcito porque ayer lo puse ahí . 428612_431846
 %eng:	it must be the little bit of sun because yesterday I put it there.
-*ZER:	ti (ddi)m yn gallu deud hwnna (y)n Cymraeg . %snd:"patagonia28"_431857_433506
+*ZER:	ti (ddi)m yn gallu deud hwnna (y)n Cymraeg . 431857_433506
 %eng:	you can't say that in Welsh
-*ZER:	beth yw xxx de@s:spa todo@s:spa ? %snd:"patagonia28"_433587_435311
+*ZER:	beth yw xxx de@s:spa todo@s:spa ? 433587_435311
 %eng:	what is [...] of everything ?
-*TOY:	dw i ddim yn gwybod . %snd:"patagonia28"_435430_436969
+*TOY:	dw i ddim yn gwybod . 435430_436969
 %eng:	I don't know
-*ZER:	&=laugh . %snd:"patagonia28"_436899_437532
-*TOY:	cosbi ["] es@s:spa picar@s:spa . %snd:"patagonia28"_438129_439407
+*ZER:	&=laugh . 436899_437532
+*TOY:	cosbi ["] es@s:spa picar@s:spa . 438129_439407
 %eng:	cosbi (to punish) is "picar" (to itch)
-*ZER:	beth ? %snd:"patagonia28"_440197_440592
+*ZER:	beth ? 440197_440592
 %eng:	what?
-*TOY:	cosbi ["] . %snd:"patagonia28"_440627_441387
+*TOY:	cosbi ["] . 440627_441387
 %eng:	to punish
-*ZER:	cosbi ["] ? %snd:"patagonia28"_441638_442323
+*ZER:	cosbi ["] ? 441638_442323
 %eng:	to punish?
-*TOY:	mmhm . %snd:"patagonia28"_442451_443002
-*ZER:	oh@s:cym&spa cosbi gyda b@s:cym&spa ! %snd:"patagonia28"_444239_446253
+*TOY:	mmhm . 442451_443002
+*ZER:	oh@s:cym&spa cosbi gyda b@s:cym&spa ! 444239_446253
 %eng:	oh, "cosbi" with a b!
-*ZER:	dywedes i cosi ["] (.) trwy (y)r amser . %snd:"patagonia28"_446892_448697
+*ZER:	dywedes i cosi ["] (.) trwy (y)r amser . 446892_448697
 %eng:	I always said "cosi" (to itch)
-*TOY:	neu gosi ["] . %snd:"patagonia28"_449646_450465
+*TOY:	neu gosi ["] . 449646_450465
 %eng:	or "gosi"
-*TOY:	wel (dy)dy o ddim xx . %snd:"patagonia28"_450477_451858
+*TOY:	wel (dy)dy o ddim xx . 450477_451858
 %eng:	well, it's not [...]
-*ZER:	&=laugh . %snd:"patagonia28"_451919_453580
-*ZER:	&=cough . %snd:"patagonia28"_455227_455842
-*TOY:	mae (y)na te dydd Sadwrn (.) fan_hyn am pump o (y)r gloch . %snd:"patagonia28"_456184_459366
+*ZER:	&=laugh . 451919_453580
+*ZER:	&=cough . 455227_455842
+*TOY:	mae (y)na te dydd Sadwrn (.) fan_hyn am pump o (y)r gloch . 456184_459366
 %eng:	there's a tea here Saturday at five o clock
-*ZER:	ah@s:cym&spa i pwy ? %snd:"patagonia28"_459630_460472
+*ZER:	ah@s:cym&spa i pwy ? 459630_460472
 %eng:	oh, who for?
-*TOY:	i Beryl@s:cym&spa . %snd:"patagonia28"_460516_461584
+*TOY:	i Beryl@s:cym&spa . 460516_461584
 %eng:	for Beryl
-*TOY:	wyt ti wedi <clywed gan> [?] Beryl@s:cym&spa ? %snd:"patagonia28"_463552_465125
+*TOY:	wyt ti wedi <clywed gan> [?] Beryl@s:cym&spa ? 463552_465125
 %eng:	have you heard from Beryl?
-*ZER:	oh@s:cym&spa efallai oedd [/] oedd o tŷ Beryl@s:cym&spa . %snd:"patagonia28"_467384_469463
+*ZER:	oh@s:cym&spa efallai oedd [/] oedd o tŷ Beryl@s:cym&spa . 467384_469463
 %eng:	oh, maybe it was at Beryl's house
-*ZER:	ydy hi (y)n fan_hyn (.) nawr ? %snd:"patagonia28"_470645_472253
+*ZER:	ydy hi (y)n fan_hyn (.) nawr ? 470645_472253
 %eng:	is she here now?
-*TOY:	yn Esquel@s:cym&spa . %snd:"patagonia28"_472679_473463
+*TOY:	yn Esquel@s:cym&spa . 472679_473463
 %eng:	in Esquel
-*ZER:	ydy hi (y)n siarad Sbaeneg ? %snd:"patagonia28"_473712_474676
+*ZER:	ydy hi (y)n siarad Sbaeneg ? 473712_474676
 %eng:	does she speak Spanish?
-*TOY:	+< mae +// . %snd:"patagonia28"_474056_474828
-*ZER:	na . %snd:"patagonia28"_474664_475117
+*TOY:	+< mae +//. 474056_474828
+*ZER:	na . 474664_475117
 %eng:	no
-*TOY:	er@s:cym&spa (.) ydy . %snd:"patagonia28"_475239_476850
+*TOY:	er@s:cym&spa (.) ydy . 475239_476850
 %eng:	er, yes she does
-*ZER:	+< ond +/ . %snd:"patagonia28"_475498_476084
+*ZER:	+< ond +/. 475498_476084
 %eng:	but...
-*ZER:	ie ! %snd:"patagonia28"_477549_478269
+*ZER:	ie ! 477549_478269
 %eng:	yes!
-*TOY:	+< oh@s:cym&spa na na . %snd:"patagonia28"_478025_479006
+*TOY:	+< oh@s:cym&spa na na . 478025_479006
 %eng:	oh, no
-*ZER:	ah@s:cym&spa na (.) na . %snd:"patagonia28"_479036_480273
+*ZER:	ah@s:cym&spa na (.) na . 479036_480273
 %eng:	ah, no
-*TOY:	na ffoniodd Heulwen@s:cym&spa (.) o Esquel@s:cym&spa siwr o fod . %snd:"patagonia28"_480649_483290
+*TOY:	na ffoniodd Heulwen@s:cym&spa (.) o Esquel@s:cym&spa siwr o fod . 480649_483290
 %eng:	no, Heulwen phoned, from Esquel, must have been
-*ZER:	xx . %snd:"patagonia28"_483346_484350
-*TOY:	bore (y)ma ? %snd:"patagonia28"_484338_484989
+*ZER:	xx . 483346_484350
+*TOY:	bore (y)ma ? 484338_484989
 %eng:	this morning
-*ZER:	pan [?] +// . %snd:"patagonia28"_484983_485368
+*ZER:	pan [?] +//. 484983_485368
 %eng:	when...
-*ZER:	ie . %snd:"patagonia28"_485387_485898
+*ZER:	ie . 485387_485898
 %eng:	yes
-*ZER:	nawr . %snd:"patagonia28"_485846_486525
+*ZER:	nawr . 485846_486525
 %eng:	now
-*TOY:	oh@s:cym&spa . %snd:"patagonia28"_487131_487863
-*ZER:	+< xx . %snd:"patagonia28"_487252_487769
-*TOY:	&=cough <(we)di gael o> [?] . %snd:"patagonia28"_489422_491964
+*TOY:	oh@s:cym&spa . 487131_487863
+*ZER:	+< xx . 487252_487769
+*TOY:	&=cough <(we)di gael o> [?] . 489422_491964
 %eng:	got it
-*TOY:	[- spa] mis imagenes . %snd:"patagonia28"_493153_494720
+*TOY:	[- spa] mis imagenes . 493153_494720
 %eng:	my pictures
-*TOY:	um +.. . %snd:"patagonia28"_498511_500641
-*TOY:	mae +.. . %snd:"patagonia28"_504976_506248
+*TOY:	um +... 498511_500641
+*TOY:	mae +... 504976_506248
 %eng:	[is]...
-*TOY:	oh@s:cym&spa (dy)na neis ! %snd:"patagonia28"_511193_512905
+*TOY:	oh@s:cym&spa (dy)na neis ! 511193_512905
 %eng:	oh, that's nice
-*TOY:	&=whimper . %snd:"patagonia28"_513539_514386
-*ZER:	ti (y)n gweld o ? %snd:"patagonia28"_514897_515518
+*TOY:	&=whimper . 513539_514386
+*ZER:	ti (y)n gweld o ? 514897_515518
 %eng:	do you see it?
-*TOY:	ydw . %snd:"patagonia28"_515608_516287
+*TOY:	ydw . 515608_516287
 %eng:	yes
-*TOY:	&=laugh . %snd:"patagonia28"_517454_518412
-*ZER:	dyna Nancy@s:cym&spa . %snd:"patagonia28"_521167_522275
+*TOY:	&=laugh . 517454_518412
+*ZER:	dyna Nancy@s:cym&spa . 521167_522275
 %eng:	that's Nancy
-*TOY:	hi ydy +// . %snd:"patagonia28"_522248_523078
+*TOY:	hi ydy +//. 522248_523078
 %eng:	she is...
-*TOY:	na . %snd:"patagonia28"_523147_523548
+*TOY:	na . 523147_523548
 %eng:	no
-*ZER:	fy chwaer . %snd:"patagonia28"_523565_524279
+*ZER:	fy chwaer . 523565_524279
 %eng:	my sister
-*ZER:	fy chwaer fi . %snd:"patagonia28"_525248_526426
+*ZER:	fy chwaer fi . 525248_526426
 %eng:	my sister
-*TOY:	+< mae (y)n tyfu dydy ? %snd:"patagonia28"_525845_526815
+*TOY:	+< mae (y)n tyfu dydy ? 525845_526815
 %eng:	she's growing, isn't she?
-*ZER:	ti (y)n gallu (.) gweld gyda (y)r +.. . %snd:"patagonia28"_526778_529413
+*ZER:	ti (y)n gallu (.) gweld gyda (y)r +... 526778_529413
 %eng:	you can tell with the...
-*TOY:	fydda i (y)n cau (y)r (.) &=cough lleni . %snd:"patagonia28"_530445_533016
+*TOY:	fydda i (y)n cau (y)r (.) &=cough lleni . 530445_533016
 %eng:	I'll close the curtains
-*ZER:	ers faint mae hi (y)n byw yna ? %snd:"patagonia28"_540527_542018
+*ZER:	ers faint mae hi (y)n byw yna ? 540527_542018
 %eng:	how long has she lived here?
-*TOY:	ers &s (.) y twin towers thing [?] . %snd:"patagonia28"_543547_547036
+*TOY:	ers &s (.) y twin towers thing [?] . 543547_547036
 %eng:	since the twin towers thing
-*TOY:	[- spa] desde la caída de las torres gemelas . %snd:"patagonia28"_547326_549787
+*TOY:	[- spa] desde la caída de las torres gemelas . 547326_549787
 %eng:	since the fall of the Twin_Towers
-*TOY:	sa i (y)n cofio . %snd:"patagonia28"_549001_549762
+*TOY:	sa i (y)n cofio . 549001_549762
 %eng:	I don't remember
-*ZER:	ooh er@s:cym&spa +.. . %snd:"patagonia28"_549876_551223
-*ZER:	dwy fil neu dwy fil ac un . %snd:"patagonia28"_552506_554931
+*ZER:	ooh er@s:cym&spa +... 549876_551223
+*ZER:	dwy fil neu dwy fil ac un . 552506_554931
 %eng:	2000 or 2001
-*ZER:	dwy fil ac un dw i meddwl . %snd:"patagonia28"_557607_558745
+*ZER:	dwy fil ac un dw i meddwl . 557607_558745
 %eng:	2001 I think
-*TOY:	+< &=noise ie . %snd:"patagonia28"_557709_559033
+*TOY:	+< &=noise ie . 557709_559033
 %eng:	yes
-*ZER:	dw meddwl . %snd:"patagonia28"_560738_561765
+*ZER:	dw meddwl . 560738_561765
 %eng:	I think
-*ZER:	fy brawd_yng_nghyfraith yw e . %snd:"patagonia28"_565575_567258
+*ZER:	fy brawd_yng_nghyfraith yw e . 565575_567258
 %eng:	he's my brother-in-law
-*TOY:	ah@s:cym&spa ! %snd:"patagonia28"_567212_567943
-*ZER:	gwallt coch goch iawn ie &=laugh ? %snd:"patagonia28"_570266_573354
+*TOY:	ah@s:cym&spa ! 567212_567943
+*ZER:	gwallt coch goch iawn ie &=laugh ? 570266_573354
 %eng:	very red hair
-*TOY:	<dos@s:spa (.) ay@s:cym&spa> [?] . %snd:"patagonia28"_574446_575915
+*TOY:	<dos@s:spa (.) ay@s:cym&spa> [?] . 574446_575915
 %eng:	two, ay
-*ZER:	[- spa] no &=laugh . %snd:"patagonia28"_575904_576548
+*ZER:	[- spa] no &=laugh . 575904_576548
 %eng:	no
-*TOY:	&=laugh . %snd:"patagonia28"_577608_578009
-*TOY:	<dw i (ddi)m yn> [?] +/ . %snd:"patagonia28"_577994_578470
+*TOY:	&=laugh . 577608_578009
+*TOY:	<dw i (ddi)m yn> [?] +/. 577994_578470
 %eng:	I don't...
-*TOY:	ydy hi weithio (y)na (.) neu +.. . %snd:"patagonia28"_578673_581250
+*TOY:	ydy hi weithio (y)na (.) neu +..? 578673_581250
 %eng:	does she work there or...
-*TOY:	&=cough na [?] . %snd:"patagonia28"_581267_582289
+*TOY:	&=cough na [?] . 581267_582289
 %eng:	no
-*ZER:	oedd hi +.. . %snd:"patagonia28"_582793_584308
+*ZER:	oedd hi +..? 582793_584308
 %eng:	was she..?
-*ZER:	oedd hi ? %snd:"patagonia28"_585121_585684
+*ZER:	oedd hi ? 585121_585684
 %eng:	was she?
-*ZER:	&=laugh ! %snd:"patagonia28"_586117_587202
-*TOY:	i deithio (.) neu +.. . %snd:"patagonia28"_587300_589790
+*ZER:	&=laugh ! 586117_587202
+*TOY:	i deithio (.) neu +... 587300_589790
 %eng:	to travel, or...
-*ZER:	ie fel twristie . %snd:"patagonia28"_589833_591795
+*ZER:	ie fel twristie . 589833_591795
 %eng:	yes, as a tourist
 %com:	twrist-ie is irregular. GPC has "twristiaid" as plural of "twrist", but from context this doesn't seem to be a plural here, but singular
-*TOY:	ah@s:cym&spa ! %snd:"patagonia28"_591833_592593
-*ZER:	a <drosodd â hi timod o (y)ma> [?] . %snd:"patagonia28"_592845_594412
+*TOY:	ah@s:cym&spa ! 591833_592593
+*ZER:	a <drosodd â hi timod o (y)ma> [?] . 592845_594412
 %eng:	and over she goes, you know, from here
-*ZER:	xxx . %snd:"patagonia28"_594674_595794
-*ZER:	drwg iawn . %snd:"patagonia28"_596346_597518
+*ZER:	xxx . 594674_595794
+*ZER:	drwg iawn . 596346_597518
 %eng:	very bad
-*ZER:	dw i ddim yn gallu (.) meddwl +// . %snd:"patagonia28"_597623_600094
+*ZER:	dw i ddim yn gallu (.) meddwl +//. 597623_600094
 %eng:	I can't think...
-*ZER:	dw i (dd)im yn gallu wneud hwn . %snd:"patagonia28"_600111_601406
+*ZER:	dw i (dd)im yn gallu wneud hwn . 600111_601406
 %eng:	I can't do this
-*TOY:	pam ? %snd:"patagonia28"_602044_602834
+*TOY:	pam ? 602044_602834
 %eng:	why?
-*ZER:	fel [?] +.. . %snd:"patagonia28"_603501_604133
+*ZER:	fel [?] +... 603501_604133
 %eng:	like...
-*TOY:	o(edde)t [?] ti (y)n crap [?] yn +.. . %snd:"patagonia28"_604737_606200
+*TOY:	o(edde)t [?] ti (y)n crap [?] yn +..? 604737_606200
 %eng:	were you crap at...
-*ZER:	na na &d dim yn crap [?] achos dw i (y)n deall pam (..) mae hi wedi wneud hwn . %snd:"patagonia28"_606139_611509
+*ZER:	na na &d dim yn crap [?] achos dw i (y)n deall pam (..) mae hi wedi wneud hwn . 606139_611509
 %eng:	no, no, not crap, because I understand why she's done this
-*ZER:	achos mae hi wedi &trai trio (.) gormod i fynd mewn . %snd:"patagonia28"_611540_615398
+*ZER:	achos mae hi wedi &trai trio (.) gormod i fynd mewn . 611540_615398
 %eng:	because she's tried too hard to get in
-*ZER:	mae hi wedi talu (.) er@s:cym&spa i astudio fel <mewn (.) coleg> [//] (.) mewn prifysgol . %snd:"patagonia28"_615513_623164
+*ZER:	mae hi wedi talu (.) er@s:cym&spa i astudio fel <mewn (.) coleg> [//] (.) mewn prifysgol . 615513_623164
 %eng:	she's paid to study at a college, at a university
-*TOY:	+< ah@s:cym&spa . %snd:"patagonia28"_619761_621102
-*ZER:	&=cough a dywedon nhw na ["] . %snd:"patagonia28"_623537_625621
+*TOY:	+< ah@s:cym&spa . 619761_621102
+*ZER:	&=cough a dywedon nhw na ["] . 623537_625621
 %eng:	and they said "no"
-*ZER:	timod (.) lot o waith . %snd:"patagonia28"_625822_627999
+*ZER:	timod (.) lot o waith . 625822_627999
 %eng:	you know, a lot of work
-*ZER:	che@s:spa dywedodd hi +"/ . %snd:"patagonia28"_628118_629122
+*ZER:	che@s:spa dywedodd hi +"/. 628118_629122
 %eng:	so she said
-*ZER:	+" o_k@s:cym&spa (.) dw i (y)n mynd (.) fel twristie . %snd:"patagonia28"_629026_631458
+*ZER:	+" o_k@s:cym&spa (.) dw i (y)n mynd (.) fel twristie . 629026_631458
 %eng:	ok, I'm going as a tourist
-*ZER:	cyn y twin towers . %snd:"patagonia28"_631387_633727
+*ZER:	cyn y twin towers . 631387_633727
 %eng:	before the twin towers
-*ZER:	ac (..) ac ar_ôl +/ . %snd:"patagonia28"_634910_637331
+*ZER:	ac (..) ac ar_ôl +/. 634910_637331
 %eng:	and after...
-*TOY:	<ffeindio hi> [?] cariad a (..) chwympo mewn cariad . %snd:"patagonia28"_637258_638733
+*TOY:	<ffeindio hi> [?] cariad a (..) chwympo mewn cariad . 637258_638733
 %eng:	find her a boyfriend, and fall in love
-*ZER:	+< na . %snd:"patagonia28"_639111_639576
+*ZER:	+< na . 639111_639576
 %eng:	no
-*ZER:	wel &tim dim_ond nawr . %snd:"patagonia28"_641154_642820
+*ZER:	wel &tim dim_ond nawr . 641154_642820
 %eng:	well, only now
-*ZER:	dim (.) pan oedd hi (y)n +// . %snd:"patagonia28"_643070_645400
+*ZER:	dim (.) pan oedd hi (y)n +//. 643070_645400
 %eng:	not when she was...
-*ZER:	achos mae hi fel [/] (..) fel wyth mlynedd yn fan_(y)na trwy (y)r peth yma . %snd:"patagonia28"_645338_650621
+*ZER:	achos mae hi fel [/] (..) fel wyth mlynedd yn fan_(y)na trwy (y)r peth yma . 645338_650621
 %eng:	because she's like eight years there through this thing
-*ZER:	ac (.) mae hi wedi priod(i) a (.) fel (.) tri flynedd yn_ôl (..) dw i meddwl . %snd:"patagonia28"_650530_658798
+*ZER:	ac (.) mae hi wedi priod(i) a (.) fel (.) tri flynedd yn_ôl (..) dw i meddwl . 650530_658798
 %eng:	and she's got married and, like, three years ago I think
-*ZER:	ie (.) tair blynedd yn_ôl . %snd:"patagonia28"_659877_662019
+*ZER:	ie (.) tair blynedd yn_ôl . 659877_662019
 %eng:	yes, three years ago
-*ZER:	wel &d ond <dw i> [/] dw i ddim yn gallu wneud o timod . %snd:"patagonia28"_664796_668680
+*ZER:	wel &d ond <dw i> [/] dw i ddim yn gallu wneud o timod . 664796_668680
 %eng:	but I can't do it you know
-*ZER:	<(dy)dy o> [/] (dy)dy o ddim (.) o_gwbl na . %snd:"patagonia28"_670197_672612
+*ZER:	<(dy)dy o> [/] (dy)dy o ddim (.) o_gwbl na . 670197_672612
 %eng:	it's not at all, no
-*TOY:	&=laugh . %snd:"patagonia28"_673447_674004
-*ZER:	na . %snd:"patagonia28"_674045_674666
+*TOY:	&=laugh . 673447_674004
+*ZER:	na . 674045_674666
 %eng:	no
-*ZER:	dw i isio mynd rywle ond dim_ond (.) am (.) amser a [/] a aros <iawn timod> [=! laughs] . %snd:"patagonia28"_675735_682116
+*ZER:	dw i isio mynd rywle ond dim_ond (.) am (.) amser a [/] a aros <iawn timod> [=! laughs] . 675735_682116
 %eng:	I want to go somewhere but only for a time, and to stay, you know
-*TOY:	wyt ti nabod gŵr Aurelia_Richards@s:cym&spa ? %snd:"patagonia28"_682261_684560
+*TOY:	wyt ti nabod gŵr Aurelia_Richards@s:cym&spa ? 682261_684560
 %eng:	do you know Aurelia Richards's husband?
-*ZER:	na pwy yw e ? %snd:"patagonia28"_685780_686999
+*ZER:	na pwy yw e ? 685780_686999
 %eng:	no, who is he?
-*TOY:	mae hi (y)n byw yng Nghymru nawr . %snd:"patagonia28"_687428_688792
+*TOY:	mae hi (y)n byw yng Nghymru nawr . 687428_688792
 %eng:	she lives in Wales now
-*TOY:	a priododd hi â Gymro . %snd:"patagonia28"_688843_690456
+*TOY:	a priododd hi â Gymro . 688843_690456
 %eng:	and she married a Welshman
-*ZER:	ah@s:cym&spa . %snd:"patagonia28"_690630_691425
-*TOY:	+< a mae o (y)n tebyg iddo . %snd:"patagonia28"_690630_692098
+*ZER:	ah@s:cym&spa . 690630_691425
+*TOY:	+< a mae o (y)n tebyg iddo . 690630_692098
 %eng:	and he's like him
-*ZER:	gwir ? %snd:"patagonia28"_692519_693082
+*ZER:	gwir ? 692519_693082
 %eng:	really?
-*TOY:	yndy mae yn tebyg iawn . %snd:"patagonia28"_693055_694564
+*TOY:	yndy mae yn tebyg iawn . 693055_694564
 %eng:	yes, he's very much alike
-*ZER:	&=laugh . %snd:"patagonia28"_694732_695266
-*TOY:	gwallt goch . %snd:"patagonia28"_695237_695973
+*ZER:	&=laugh . 694732_695266
+*TOY:	gwallt goch . 695237_695973
 %eng:	red hair
-*TOY:	mae o (y)n gwisgo &s er@s:cym&spa sbectol hefyd . %snd:"patagonia28"_696014_698720
+*TOY:	mae o (y)n gwisgo &s er@s:cym&spa sbectol hefyd . 696014_698720
 %eng:	he wears glasses too
-*ZER:	&=laugh . %snd:"patagonia28"_698720_699608
-*TOY:	ie . %snd:"patagonia28"_701299_701682
+*ZER:	&=laugh . 698720_699608
+*TOY:	ie . 701299_701682
 %eng:	yes
-*TOY:	wyt ti nabod Aurelia@s:cym&spa ? %snd:"patagonia28"_703713_704821
+*TOY:	wyt ti nabod Aurelia@s:cym&spa ? 703713_704821
 %eng:	do you know Aurelia?
-*TOY:	chwaer Jade@s:cym&spa (.) Richards@s:cym&spa . %snd:"patagonia28"_706247_708325
+*TOY:	chwaer Jade@s:cym&spa (.) Richards@s:cym&spa . 706247_708325
 %eng:	Jade Richards's sister
-*ZER:	dw i gweld hi dim_ond +.. . %snd:"patagonia28"_708807_711222
+*ZER:	dw i gweld hi dim_ond +... 708807_711222
 %eng:	I only seen her...
-*ZER:	dw i (ddi)m yn nabod iawn . %snd:"patagonia28"_711918_714113
+*ZER:	dw i (ddi)m yn nabod iawn . 711918_714113
 %eng:	I don't really know [her]
-*TOY:	&=laugh (.) &=noise . %snd:"patagonia28"_716321_718440
-*ZER:	ti (y)n cysgu ? %snd:"patagonia28"_718782_719816
+*TOY:	&=laugh (.) &=noise . 716321_718440
+*ZER:	ti (y)n cysgu ? 718782_719816
 %eng:	are you asleep?
-*ZER:	mae popeth yn pinc &=gasp ! %snd:"patagonia28"_720158_722562
+*ZER:	mae popeth yn pinc &=gasp ! 720158_722562
 %eng:	everything's pink!
-*TOY:	oedd . %snd:"patagonia28"_722283_722596
+*TOY:	oedd . 722283_722596
 %eng:	it was
-*ZER:	oh@s:cym&spa mae (y)n gwisgo +.. . %snd:"patagonia28"_722937_725062
+*ZER:	oh@s:cym&spa mae (y)n gwisgo +... 722937_725062
 %eng:	oh, he/she's wearing...
-*TOY:	dw i (ddi)m yn hoffi hwnna . %snd:"patagonia28"_725126_726529
+*TOY:	dw i (ddi)m yn hoffi hwnna . 725126_726529
 %eng:	I don't like that
-*ZER:	ie boca@s:spa . %snd:"patagonia28"_726457_727671
+*ZER:	ie boca@s:spa . 726457_727671
 %eng:	yes, mouth
-*ZER:	achos <mae (y)n> [/] mae (y)n +// . %snd:"patagonia28"_727694_730237
+*ZER:	achos <mae (y)n> [/] mae (y)n +//. 727694_730237
 %eng:	because he/she's...
-*ZER:	beth yw ? %snd:"patagonia28"_730800_731955
+*ZER:	beth yw ? 730800_731955
 %eng:	what's...
-*ZER:	+, latinoamericano@s:spa (.) iawn ! %snd:"patagonia28"_731862_734695
+*ZER:	+, latinoamericano@s:spa (.) iawn ! 731862_734695
 %eng:	very Latin American
-*TOY:	daethon nhw i (y)r Ariannin ? %snd:"patagonia28"_734873_736591
+*TOY:	daethon nhw i (y)r Ariannin ? 734873_736591
 %eng:	did they come to Argentina?
-*ZER:	+< xxx . %snd:"patagonia28"_735108_736295
-*ZER:	do . %snd:"patagonia28"_736556_737015
+*ZER:	+< xxx . 735108_736295
+*ZER:	do . 736556_737015
 %eng:	yes
-*TOY:	ah@s:cym&spa . %snd:"patagonia28"_737247_738042
-*ZER:	dau [//] (..) dwy waith . %snd:"patagonia28"_738362_740487
+*TOY:	ah@s:cym&spa . 737247_738042
+*ZER:	dau [//] (..) dwy waith . 738362_740487
 %eng:	twice
-*ZER:	sa i (y)n cofio (.) pryd ond dwy waith . %snd:"patagonia28"_741437_744131
+*ZER:	sa i (y)n cofio (.) pryd ond dwy waith . 741437_744131
 %eng:	I don't remember when, but twice
-*ZER:	&=clears_throat y blwyddyn diwethaf dw i meddwl . %snd:"patagonia28"_744758_746720
+*ZER:	&=clears_throat y blwyddyn diwethaf dw i meddwl . 744758_746720
 %eng:	last year I think
-*ZER:	na ! %snd:"patagonia28"_746773_747377
+*ZER:	na ! 746773_747377
 %eng:	no
-*ZER:	do . %snd:"patagonia28"_747511_748097
+*ZER:	do . 747511_748097
 %eng:	yes
-*ZER:	ie y blwyddyn diwetha . %snd:"patagonia28"_749679_751136
+*ZER:	ie y blwyddyn diwetha . 749679_751136
 %eng:	yes, last year
-*ZER:	oh@s:cym&spa (.) horrible ! %snd:"patagonia28"_752915_754999
-*TOY:	&=laugh . %snd:"patagonia28"_755274_755832
-*ZER:	pero@s:spa qué@s:spa fea@s:spa la@s:spa foto@s:cym&spa . %snd:"patagonia28"_755756_757109
+*ZER:	oh@s:cym&spa (.) horrible ! 752915_754999
+*TOY:	&=laugh . 755274_755832
+*ZER:	pero@s:spa qué@s:spa fea@s:spa la@s:spa foto@s:cym&spa . 755756_757109
 %eng:	but what an ugly photo
-*TOY:	ah@s:cym&spa gyda draig goch ! %snd:"patagonia28"_758229_760940
+*TOY:	ah@s:cym&spa gyda draig goch ! 758229_760940
 %eng:	ah, with a red dragon!
-*ZER:	+< ah@s:cym&spa ! %snd:"patagonia28"_758380_759019
-*ZER:	+< mae (y)n licio draig goch . %snd:"patagonia28"_759762_761231
+*ZER:	+< ah@s:cym&spa ! 758380_759019
+*ZER:	+< mae (y)n licio draig goch . 759762_761231
 %eng:	he/she likes the red dragon
-*TOY:	&=laugh . %snd:"patagonia28"_761364_762554
-*ZER:	achos dywedodd y ferch sy (y)n gweithio (y)n y [/] yn xx dywedodd hi +"/ . %snd:"patagonia28"_763417_766944
+*TOY:	&=laugh . 761364_762554
+*ZER:	achos dywedodd y ferch sy (y)n gweithio (y)n y [/] yn xx dywedodd hi +"/. 763417_766944
 %eng:	because the girls who works in the [...], she said
-*ZER:	+" oh@s:cym&spa weles i rywbeth mor ciwt <yn y (y)r> [//] er@s:cym&spa yn y siop . %snd:"patagonia28"_767205_770654
+*ZER:	+" oh@s:cym&spa weles i rywbeth mor ciwt <yn y (y)r> [//] er@s:cym&spa yn y siop . 767205_770654
 %eng:	"oh, I saw saw something so cute in the shop!
-*ZER:	+" a prynes i hwn i dy chwaer di . %snd:"patagonia28"_770811_772732
+*ZER:	+" a prynes i hwn i dy chwaer di . 770811_772732
 %eng:	"and I bought this for your sister"
-*TOY:	oh@s:cym&spa ! %snd:"patagonia28"_772814_773232
-*ZER:	+< a wnes i ddweud +"/ . %snd:"patagonia28"_772930_774178
+*TOY:	oh@s:cym&spa ! 772814_773232
+*ZER:	+< a wnes i ddweud +"/. 772930_774178
 %eng:	and I said:
-*TOY:	++ pert ! %snd:"patagonia28"_774416_774805
+*TOY:	++ pert ! 774416_774805
 %eng:	"lovely"
-*ZER:	+" pert ! %snd:"patagonia28"_774724_775148
+*ZER:	+" pert ! 774724_775148
 %eng:	"lovely!
-*ZER:	oh@s:cym&spa ! %snd:"patagonia28"_775230_775701
-*TOY:	+< oh@s:cym&spa ! %snd:"patagonia28"_775445_776177
-*ZER:	mae o mor ciwt ! %snd:"patagonia28"_777032_778226
+*ZER:	oh@s:cym&spa ! 775230_775701
+*TOY:	+< oh@s:cym&spa ! 775445_776177
+*ZER:	mae o mor ciwt ! 777032_778226
 %eng:	it's so cute
-*ZER:	xxx dylwn i danfon hwn i hi . %snd:"patagonia28"_779055_780518
+*ZER:	xxx dylwn i danfon hwn i hi . 779055_780518
 %eng:	[...] I should send her this
-*TOY:	+< oh@s:cym&spa . %snd:"patagonia28"_779113_779403
-*TOY:	neis . %snd:"patagonia28"_783030_783669
+*TOY:	+< oh@s:cym&spa . 779113_779403
+*TOY:	neis . 783030_783669
 %eng:	nice
-*ZER:	dw i (ddi)m yn hoffi lluniau fel (y)na . %snd:"patagonia28"_784972_787613
+*ZER:	dw i (ddi)m yn hoffi lluniau fel (y)na . 784972_787613
 %eng:	I don't like photos like that
-*ZER:	fel (.) xxx gusta@s:spa [?] . %snd:"patagonia28"_788407_790462
+*ZER:	fel (.) xxx gusta@s:spa [?] . 788407_790462
 %eng:	like [..] like.
-*TOY:	&=laugh hen ddillad . %snd:"patagonia28"_790684_792170
+*TOY:	&=laugh hen ddillad . 790684_792170
 %eng:	old clothes
-*ZER:	ie . %snd:"patagonia28"_792126_792515
+*ZER:	ie . 792126_792515
 %eng:	yes
-*TOY:	pam ? %snd:"patagonia28"_792475_792858
+*TOY:	pam ? 792475_792858
 %eng:	why?
-*ZER:	achos nhw mor drwg ! %snd:"patagonia28"_794884_796608
+*ZER:	achos nhw mor drwg ! 794884_796608
 %eng:	because they're so bad!
-*ZER:	pan [/] pan maen nhw (y)n er@s:cym&spa tyfu (.) er@s:cym&spa bydd hi cael ei cariad hi . %snd:"patagonia28"_796552_802515
+*ZER:	pan [/] pan maen nhw (y)n er@s:cym&spa tyfu (.) er@s:cym&spa bydd hi cael ei cariad hi . 796552_802515
 %eng:	when they've grown up, she'll have her boyfriend
-*TOY:	&=laugh . %snd:"patagonia28"_802441_803179
-*ZER:	a (.) bydd y teulu yn dweud +"/ . %snd:"patagonia28"_803544_805342
+*TOY:	&=laugh . 802441_803179
+*ZER:	a (.) bydd y teulu yn dweud +"/. 803544_805342
 %eng:	and the family will say:
-*ZER:	+" oh@s:cym&spa ti isio gweld lluniau +! ? %snd:"patagonia28"_805348_807515
+*ZER:	+" oh@s:cym&spa ti isio gweld lluniau +!? 805348_807515
 %eng:	do you want to see some photos?
-*TOY:	&=laugh . %snd:"patagonia28"_807556_808066
-*ZER:	&=laugh . %snd:"patagonia28"_808357_809552
-*TOY:	oh@s:cym&spa mae hwnne (y)n neis . %snd:"patagonia28"_811042_812540
+*TOY:	&=laugh . 807556_808066
+*ZER:	&=laugh . 808357_809552
+*TOY:	oh@s:cym&spa mae hwnne (y)n neis . 811042_812540
 %eng:	oh, that's nice
-*TOY:	oh@s:cym&spa . %snd:"patagonia28"_815102_816385
-*ZER:	xxx . %snd:"patagonia28"_816670_821285
-*ZER:	oh@s:cym&spa dw i (y)n hoffi hwnna . %snd:"patagonia28"_821288_822814
+*TOY:	oh@s:cym&spa . 815102_816385
+*ZER:	xxx . 816670_821285
+*ZER:	oh@s:cym&spa dw i (y)n hoffi hwnna . 821288_822814
 %eng:	I like that
-*ZER:	achos ti (y)n gallu (..) gweld y llygaid . %snd:"patagonia28"_822783_826393
+*ZER:	achos ti (y)n gallu (..) gweld y llygaid . 822783_826393
 %eng:	because you can see the eyes
-*TOY:	+< mmhm . %snd:"patagonia28"_824519_824914
-*TOY:	+< llygaid ar agor . %snd:"patagonia28"_825815_826674
+*TOY:	+< mmhm . 824519_824914
+*TOY:	+< llygaid ar agor . 825815_826674
 %eng:	eyes open
-*ZER:	gorffen . %snd:"patagonia28"_831741_832501
+*ZER:	gorffen . 831741_832501
 %eng:	finished
-*TOY:	hmm . %snd:"patagonia28"_833002_833339
-*ZER:	&=cough . %snd:"patagonia28"_834260_834939
-*TOY:	does dim llawer o lluniau gyda ti . %snd:"patagonia28"_834585_836431
+*TOY:	hmm . 833002_833339
+*ZER:	&=cough . 834260_834939
+*TOY:	does dim llawer o lluniau gyda ti . 834585_836431
 %eng:	you haven't got many photos
-*ZER:	be ? %snd:"patagonia28"_836553_837058
+*ZER:	be ? 836553_837058
 %eng:	what?
-*TOY:	dim llawer . %snd:"patagonia28"_837332_838278
+*TOY:	dim llawer . 837332_838278
 %eng:	not many
-*ZER:	na dim llawer . %snd:"patagonia28"_838236_839536
+*ZER:	na dim llawer . 838236_839536
 %eng:	no, not many
-*TOY:	ond (dy)na neis &=noise . %snd:"patagonia28"_840573_842430
+*TOY:	ond (dy)na neis &=noise . 840573_842430
 %eng:	but that's nice
-*ZER:	ie (.) mae (y)n rhy (..) bell i ti mynd nage [?] ? %snd:"patagonia28"_844884_849151
+*ZER:	ie (.) mae (y)n rhy (..) bell i ti mynd nage [?] ? 844884_849151
 %eng:	yes, it's too far for you to go, isn't it?
-*ZER:	mae (y)r byd (.) yn (..) mawr iawn . %snd:"patagonia28"_850596_855031
+*ZER:	mae (y)r byd (.) yn (..) mawr iawn . 850596_855031
 %eng:	the world is very big
-*ZER:	ond mae (y)r problem yw (.) <dim acho(s)> [/] ddim achos mae hi (y)n bell &t timod (.) y lle . %snd:"patagonia28"_855041_861147
+*ZER:	ond mae (y)r problem yw (.) <dim acho(s)> [/] ddim achos mae hi (y)n bell &t timod (.) y lle . 855041_861147
 %eng:	but the problem is, not because it's far away, you know, the place
-*ZER:	dim_ond achos <mae (y)n &dru> [//] mae (y)n drud iawn . %snd:"patagonia28"_861439_864144
+*ZER:	dim_ond achos <mae (y)n &dru> [//] mae (y)n drud iawn . 861439_864144
 %eng:	only because it's very expensive
-*ZER:	ti (dd)im yn gallu <fynd ry bell> [?] &=laugh ! %snd:"patagonia28"_864098_866605
+*ZER:	ti (dd)im yn gallu <fynd ry bell> [?] &=laugh ! 864098_866605
 %eng:	you can't go too far!
-*ZER:	mmm (.) mae (y)n rhy rhy rhy (...) drud . %snd:"patagonia28"_867143_873362
+*ZER:	mmm (.) mae (y)n rhy rhy rhy (...) drud . 867143_873362
 %eng:	mmm, it's too too too expensive
-*ZER:	drud iawn . %snd:"patagonia28"_874917_876043
+*ZER:	drud iawn . 874917_876043
 %eng:	very expensive
-*TOY:	ble brynest ti (y)r cyfri(fiadur) [/] cyfrifiadur ? %snd:"patagonia28"_877091_879460
+*TOY:	ble brynest ti (y)r cyfri(fiadur) [/] cyfrifiadur ? 877091_879460
 %eng:	where did you buy the computer?
-*TOY:	yng Nghymru ? %snd:"patagonia28"_879541_880203
+*TOY:	yng Nghymru ? 879541_880203
 %eng:	in Wales?
-*ZER:	xxx ie . %snd:"patagonia28"_880198_881324
+*ZER:	xxx ie . 880198_881324
 %eng:	[...], yes
-*TOY:	oh@s:cym&spa (dy)na neis waw@s:cym&spa . %snd:"patagonia28"_881491_883476
+*TOY:	oh@s:cym&spa (dy)na neis waw@s:cym&spa . 881491_883476
 %eng:	oh, that's nice, wow
-*ZER:	roedd y (.) pobl o (y)r gwersyll wedi roi arian i fi . %snd:"patagonia28"_884198_888807
+*ZER:	roedd y (.) pobl o (y)r gwersyll wedi roi arian i fi . 884198_888807
 %eng:	the people at the camp had given me money
-*ZER:	codi arian (..) fel +// . %snd:"patagonia28"_888802_891531
+*ZER:	codi arian (..) fel +//. 888802_891531
 %eng:	fundraising, like...
-*ZER:	codon nhw fel (...) dau cant a hanner (.) neu rywbeth . %snd:"patagonia28"_892053_898961
+*ZER:	codon nhw fel (...) dau cant a hanner (.) neu rywbeth . 892053_898961
 %eng:	they raised about 250 or something
-*ZER:	a prynes i hwn (.) gyda (y)r arian . %snd:"patagonia28"_899278_901263
+*ZER:	a prynes i hwn (.) gyda (y)r arian . 899278_901263
 %eng:	and I bought this with the money
-*TOY:	oh@s:cym&spa neis . %snd:"patagonia28"_900990_901420
+*TOY:	oh@s:cym&spa neis . 900990_901420
 %eng:	oh, nice
-*ZER:	achos o(eddw)n i meddwl +"/ . %snd:"patagonia28"_902497_903356
+*ZER:	achos o(eddw)n i meddwl +"/. 902497_903356
 %eng:	because I thought:
-*ZER:	+" wel (.) mae ddau cant a hanner yw fel (..) milliardo@s:spa de@s:spa pesos@s:spa . %snd:"patagonia28"_903983_908233
+*ZER:	+" wel (.) mae ddau cant a hanner yw fel (..) milliardo@s:spa de@s:spa pesos@s:spa . 903983_908233
 %eng:	well, 250 is like, a thousand millions of pesos
-*TOY:	mmhm . %snd:"patagonia28"_908206_908699
-*ZER:	ond &=cough yn yr Ariannin ti dim yn gallu wneud dim_byd gyda [/] (..) gyda hon . %snd:"patagonia28"_909375_915170
+*TOY:	mmhm . 908206_908699
+*ZER:	ond &=cough yn yr Ariannin ti dim yn gallu wneud dim_byd gyda [/] (..) gyda hon . 909375_915170
 %eng:	but in Argentina you can't do anything with that
-*TOY:	+< na . %snd:"patagonia28"_912703_913353
+*TOY:	+< na . 912703_913353
 %eng:	no
-*ZER:	a +/ . %snd:"patagonia28"_915746_916286
+*ZER:	a +/. 915746_916286
 %eng:	and...
-*TOY:	ti (ddi)m yn gallu cael cyfrifiadur yn arbennig . %snd:"patagonia28"_916245_918317
+*TOY:	ti (ddi)m yn gallu cael cyfrifiadur yn arbennig . 916245_918317
 %eng:	you can't get a computer, particularly
-*ZER:	+< na dim o_gwbl . %snd:"patagonia28"_917476_918550
+*ZER:	+< na dim o_gwbl . 917476_918550
 %eng:	no, not at all
-*ZER:	maen nhw fel tri [/] (.) tri mil o +.. . %snd:"patagonia28"_918550_921864
+*ZER:	maen nhw fel tri [/] (.) tri mil o +... 918550_921864
 %eng:	they're like 3000 ...
-*ZER:	neu rywbeth . %snd:"patagonia28"_922305_923327
+*ZER:	neu rywbeth . 922305_923327
 %eng:	or something
-*ZER:	a dudes i +"/ . %snd:"patagonia28"_923828_924519
+*ZER:	a dudes i +"/. 923828_924519
 %eng:	and I said:
-*ZER:	+" o_k@s:cym&spa now or never . %snd:"patagonia28"_924507_927416
-*TOY:	oh@s:cym&spa syniad da . %snd:"patagonia28"_927849_929415
+*ZER:	+" o_k@s:cym&spa now or never . 924507_927416
+*TOY:	oh@s:cym&spa syniad da . 927849_929415
 %eng:	oh, good idea
-*ZER:	<ie (.) a mae (y)n> [=! yawns] (.) helpu lot yn yr ysgol a popeth achos +/ . %snd:"patagonia28"_930067_935498
+*ZER:	<ie (.) a mae (y)n> [=! yawns] (.) helpu lot yn yr ysgol a popeth achos +/. 930067_935498
 %eng:	yes, and it helps lots of people at school and everything, because...
-*TOY:	ie nawr (.) achos wyt ti (y)n astudio . %snd:"patagonia28"_934993_937820
+*TOY:	ie nawr (.) achos wyt ti (y)n astudio . 934993_937820
 %eng:	yes, now, because you're studying
-*ZER:	a mae lot o (.) er@s:cym&spa Wi_Fi@s:cym&spa yn Esquel@s:cym&spa hefyd . %snd:"patagonia28"_938099_943584
+*ZER:	a mae lot o (.) er@s:cym&spa Wi_Fi@s:cym&spa yn Esquel@s:cym&spa hefyd . 938099_943584
 %eng:	and there's a lot of WiFi in Esquel too
-*ZER:	ti (y)n gallu mynd a cael internet@s:cym&spa heb talu xxx yn yr ysgol ac (.) mewn +// . %snd:"patagonia28"_943817_949488
+*ZER:	ti (y)n gallu mynd a cael internet@s:cym&spa heb talu xxx yn yr ysgol ac (.) mewn +//. 943817_949488
 %eng:	you can go and get the internet without paying [...] at school or in [...]
-*TOY:	+< ah@s:cym&spa . %snd:"patagonia28"_943907_944981
-*ZER:	mae (y)n araf ond mae (y)n digon glir [?] . %snd:"patagonia28"_950144_952336
+*TOY:	+< ah@s:cym&spa . 943907_944981
+*ZER:	mae (y)n araf ond mae (y)n digon glir [?] . 950144_952336
 %eng:	it's slow but it's clear enough
-*ZER:	ac (..) ie . %snd:"patagonia28"_953038_955354
+*ZER:	ac (..) ie . 953038_955354
 %eng:	and yes
-*ZER:	mae (y)n hawdd iawn . %snd:"patagonia28"_956422_958117
+*ZER:	mae (y)n hawdd iawn . 956422_958117
 %eng:	it's very easy
-*TOY:	pryd wyt ti (y)n gorffen yn y brifysgol ? %snd:"patagonia28"_958459_960387
+*TOY:	pryd wyt ti (y)n gorffen yn y brifysgol ? 958459_960387
 %eng:	when do you finish university?
-*ZER:	er@s:cym&spa nawr . %snd:"patagonia28"_961249_962753
+*ZER:	er@s:cym&spa nawr . 961249_962753
 %eng:	now
-*ZER:	mis yma . %snd:"patagonia28"_963391_964308
+*ZER:	mis yma . 963391_964308
 %eng:	this month
-*TOY:	bopeth yn iawn ? %snd:"patagonia28"_964993_965968
+*TOY:	bopeth yn iawn ? 964993_965968
 %eng:	everything ok?
-*ZER:	&=inhale ie dw i (ddi)m yn gwybod i ddeud y gwir . %snd:"patagonia28"_966368_971308
+*ZER:	&=inhale ie dw i (ddi)m yn gwybod i ddeud y gwir . 966368_971308
 %eng:	yes, I don't know to be honest
-*ZER:	mae (y)n digon iawn timod fel saith wyth bopeth . %snd:"patagonia28"_972050_976659
+*ZER:	mae (y)n digon iawn timod fel saith wyth bopeth . 972050_976659
 %eng:	it's reasonably ok, you know like everything seven, eight
-*ZER:	rhai ohonyn nhw (.) naw . %snd:"patagonia28"_977002_979144
+*ZER:	rhai ohonyn nhw (.) naw . 977002_979144
 %eng:	some of them nine
-*ZER:	ond (..) &=cough (.) <dw i ddim yn> [/] (...) dw i (ddi)m yn hoffi lot o (.) materias@s:spa . %snd:"patagonia28"_980103_989301
+*ZER:	ond (..) &=cough (.) <dw i ddim yn> [/] (...) dw i (ddi)m yn hoffi lot o (.) materias@s:spa . 980103_989301
 %eng:	but I don't like a lot of subjects
-*ZER:	beth yw materias@s:spa ? %snd:"patagonia28"_989301_990677
+*ZER:	beth yw materias@s:spa ? 989301_990677
 %eng:	what is "subjects"?
-*ZER:	dim cofio . %snd:"patagonia28"_990838_991877
+*ZER:	dim cofio . 990838_991877
 %eng:	don't remember
-*ZER:	wel (.) dw i (ddi)m yn hoffi lot ohonyn nhw fel (.) hanes . %snd:"patagonia28"_991896_996609
+*ZER:	wel (.) dw i (ddi)m yn hoffi lot ohonyn nhw fel (.) hanes . 991896_996609
 %eng:	well, I don't like a lot of them, like history
-*TOY:	oh@s:cym&spa . %snd:"patagonia28"_996678_997282
-*ZER:	mae (y)r +// . %snd:"patagonia28"_997226_998132
+*TOY:	oh@s:cym&spa . 996678_997282
+*ZER:	mae (y)r +//. 997226_998132
 %eng:	the...
-*ZER:	dim achos mae (y)n hanes ti weld . %snd:"patagonia28"_998219_1000041
+*ZER:	dim achos mae (y)n hanes ti weld . 998219_1000041
 %eng:	not because it's history, you see.
-*ZER:	wel dw i (ddi)m yn hoffi hanes . %snd:"patagonia28"_1000055_1001355
+*ZER:	wel dw i (ddi)m yn hoffi hanes . 1000055_1001355
 %eng:	well, I don't like history
-*ZER:	ond (..) mae (y)r dyn sy (y)n dysgu hanes yn mor mor (.) twp a drwg . %snd:"patagonia28"_1001338_1009459
+*ZER:	ond (..) mae (y)r dyn sy (y)n dysgu hanes yn mor mor (.) twp a drwg . 1001338_1009459
 %eng:	but the guy who teaches history is so, so stupid, and bad
-*ZER:	mae o (y)n dod yn hwyr iawn fel +// . %snd:"patagonia28"_1009753_1013073
+*ZER:	mae o (y)n dod yn hwyr iawn fel +//. 1009753_1013073
 %eng:	he comes very late, like...
-*TOY:	+< oh@s:cym&spa . %snd:"patagonia28"_1009950_1010298
-*ZER:	<dw i (y)n> [/] <dw i (y)n cael> [//] dw i (y)n dal y bws am phump ar_ôl [/] ar_ôl y +/ . %snd:"patagonia28"_1013723_1018263
+*TOY:	+< oh@s:cym&spa . 1009950_1010298
+*ZER:	<dw i (y)n> [/] <dw i (y)n cael> [//] dw i (y)n dal y bws am phump ar_ôl [/] ar_ôl y +/. 1013723_1018263
 %eng:	I catch the bus at five past after the...
-*TOY:	+< ++ ar_ôl yr (.) ysgol feithrin . %snd:"patagonia28"_1017906_1019736
+*TOY:	+< ++ ar_ôl yr (.) ysgol feithrin . 1017906_1019736
 %eng:	after pre-school
-*ZER:	ie . %snd:"patagonia28"_1019661_1020369
+*ZER:	ie . 1019661_1020369
 %eng:	yes
-*ZER:	a dw i (y)n rhedeg i cael y bws ar fy traed . %snd:"patagonia28"_1021079_1023523
+*ZER:	a dw i (y)n rhedeg i cael y bws ar fy traed . 1021079_1023523
 %eng:	and I run to catch the bus, on foot
-*TOY:	+< ydw dw i (y)n gwybod . %snd:"patagonia28"_1022826_1024127
+*TOY:	+< ydw dw i (y)n gwybod . 1022826_1024127
 %eng:	yes, I know
-*ZER:	a <dw i (y)n> [/] dw i (y)n cyrraedd am chwech . %snd:"patagonia28"_1024067_1026058
+*ZER:	a <dw i (y)n> [/] dw i (y)n cyrraedd am chwech . 1024067_1026058
 %eng:	and I arrive at six
-*ZER:	a mae (y)n cyrraedd ambell waith am hanner awr xx +/ . %snd:"patagonia28"_1026060_1028393
+*ZER:	a mae (y)n cyrraedd ambell waith am hanner awr xx +/. 1026060_1028393
 %eng:	and several times he arrives at half [past]...
-*TOY:	oh@s:cym&spa na ! %snd:"patagonia28"_1028336_1029172
+*TOY:	oh@s:cym&spa na ! 1028336_1029172
 %eng:	oh, no
-*ZER:	timod . %snd:"patagonia28"_1029262_1029906
+*ZER:	timod . 1029262_1029906
 %eng:	you know
-*ZER:	mae o (.) fel (.) falta@s:spa de@s:spa respeto@s:spa (.) dw i meddwl . %snd:"patagonia28"_1030200_1034932
+*ZER:	mae o (.) fel (.) falta@s:spa de@s:spa respeto@s:spa (.) dw i meddwl . 1030200_1034932
 %eng:	it's like I think disrespectful ...
-*TOY:	+< mmhm . %snd:"patagonia28"_1033163_1034138
-*ZER:	achos mae (y)n cael ei &t [/] <ei thalu> [//] &ax <ei talu> [//] ei dalu . %snd:"patagonia28"_1035473_1041649
+*TOY:	+< mmhm . 1033163_1034138
+*ZER:	achos mae (y)n cael ei &t [/] <ei thalu> [//] &ax <ei talu> [//] ei dalu . 1035473_1041649
 %eng:	because he gets paid
 %com:	correction of mutation
-*ZER:	<mae (y)n cael> [/] mae +// . %snd:"patagonia28"_1044396_1045546
+*ZER:	<mae (y)n cael> [/] mae +//. 1044396_1045546
 %eng:	he gets...
-*ZER:	oh@s:cym&spa freak ! %snd:"patagonia28"_1045861_1046976
+*ZER:	oh@s:cym&spa freak ! 1045861_1046976
 %eng:	oh damn!
 %com:	"freak" used as a mild curse here and later.  Unsure of which language tag to use.
-*ZER:	fi ddim yn gallu siarad bore (y)ma . %snd:"patagonia28"_1046982_1048704
+*ZER:	fi ddim yn gallu siarad bore (y)ma . 1046982_1048704
 %eng:	I can't speak this morning
-*ZER:	mae (y)n cael ei dalu (.) achos (.) yr amser . %snd:"patagonia28"_1049225_1053005
-%eng:	he gets paid because of .. . the time
-*ZER:	a mae (y)n cael popeth . %snd:"patagonia28"_1053049_1054352
+*ZER:	mae (y)n cael ei dalu (.) achos (.) yr amser . 1049225_1053005
+%eng:	he gets paid because of ... the time
+*ZER:	a mae (y)n cael popeth . 1053049_1054352
 %eng:	and he gets everything
-*ZER:	mae (y)n dod yn hwyr . %snd:"patagonia28"_1054485_1055385
+*ZER:	mae (y)n dod yn hwyr . 1054485_1055385
 %eng:	he arrives late
-*ZER:	a mae (y)n cael popeth . %snd:"patagonia28"_1055443_1056500
+*ZER:	a mae (y)n cael popeth . 1055443_1056500
 %eng:	and he gets everything
-*ZER:	a dw i ddim yn dysgu . %snd:"patagonia28"_1056501_1057819
+*ZER:	a dw i ddim yn dysgu . 1056501_1057819
 %eng:	and I don't learn
-*ZER:	a mae (y)n dod gyda llyfr . %snd:"patagonia28"_1058277_1059885
+*ZER:	a mae (y)n dod gyda llyfr . 1058277_1059885
 %eng:	and he comes with a book
-*TOY:	+< (dy)dy hwnna ddim yn teg . %snd:"patagonia28"_1058916_1059920
+*TOY:	+< (dy)dy hwnna ddim yn teg . 1058916_1059920
 %eng:	that's not fair
-*ZER:	a mae raid fi prynu llyfr +// . %snd:"patagonia28"_1060520_1062612
+*ZER:	a mae raid fi prynu llyfr +//. 1060520_1062612
 %eng:	and I have to buy a book
-*ZER:	wel dim llyfr . %snd:"patagonia28"_1062618_1063366
+*ZER:	wel dim llyfr . 1062618_1063366
 %eng:	well, not a book
-*ZER:	mae (y)n copi@s:cym&spa o llyfr . %snd:"patagonia28"_1063376_1065019
+*ZER:	mae (y)n copi@s:cym&spa o llyfr . 1063376_1065019
 %eng:	it's a copy of a book
-*ZER:	ac (.) dan ni (y)n darllen . %snd:"patagonia28"_1065090_1066890
+*ZER:	ac (.) dan ni (y)n darllen . 1065090_1066890
 %eng:	and we read
-*ZER:	a mae (y)n dweud yr un peth sy (y)n dweud yn <y llyfr> [=! laughs] . %snd:"patagonia28"_1066877_1069147
+*ZER:	a mae (y)n dweud yr un peth sy (y)n dweud yn <y llyfr> [=! laughs] . 1066877_1069147
 %eng:	and he says the same thing that it says in the book
-*TOY:	yn y llyfr . %snd:"patagonia28"_1069001_1069628
+*TOY:	yn y llyfr . 1069001_1069628
 %eng:	in the book
-*ZER:	+< a ti (y)n feddwl +"/ . %snd:"patagonia28"_1069155_1069898
+*ZER:	+< a ti (y)n feddwl +"/. 1069155_1069898
 %eng:	and you think:
-*ZER:	oh@s:cym&spa freak ! %snd:"patagonia28"_1069886_1071077
+*ZER:	oh@s:cym&spa freak ! 1069886_1071077
 %eng:	oh damn!
-*ZER:	a mae o (y)n gweithio pob man yn Esquel@s:cym&spa . %snd:"patagonia28"_1071435_1073653
+*ZER:	a mae o (y)n gweithio pob man yn Esquel@s:cym&spa . 1071435_1073653
 %eng:	and he works everywhere in Esquel
-*ZER:	pob man . %snd:"patagonia28"_1073860_1074673
+*ZER:	pob man . 1073860_1074673
 %eng:	everywhere
-*ZER:	trwy (y)r dydd . %snd:"patagonia28"_1074754_1075787
+*ZER:	trwy (y)r dydd . 1074754_1075787
 %eng:	all day
-*TOY:	+< oh@s:cym&spa . %snd:"patagonia28"_1075062_1075503
-*ZER:	<mae yn> [/] mae yn gweithio fel (..) director@s:spa . %snd:"patagonia28"_1076362_1080199
+*TOY:	+< oh@s:cym&spa . 1075062_1075503
+*ZER:	<mae yn> [/] mae yn gweithio fel (..) director@s:spa . 1076362_1080199
 %eng:	he works as a headmaster
-*ZER:	beth (y)dy director@s:spa ["] ? %snd:"patagonia28"_1080190_1081153
+*ZER:	beth (y)dy director@s:spa ["] ? 1080190_1081153
 %eng:	what's "headmaster"
-*TOY:	prifathro . %snd:"patagonia28"_1081626_1082433
+*TOY:	prifathro . 1081626_1082433
 %eng:	[headmaster]
-*ZER:	+, prifathro (.) mewn ysgol (..) uwchradd (..) yn y bore . %snd:"patagonia28"_1082567_1087908
+*ZER:	+, prifathro (.) mewn ysgol (..) uwchradd (..) yn y bore . 1082567_1087908
 %eng:	a headmaster in a secondary school in the morning
-*ZER:	ac (..) athro neu prifathro <(y)n y &s> [/] yn y prynhawn (.) mewn ysgol arall . %snd:"patagonia28"_1087951_1094275
+*ZER:	ac (..) athro neu prifathro <(y)n y &s> [/] yn y prynhawn (.) mewn ysgol arall . 1087951_1094275
 %eng:	and a teacher or headmaster in the afternoon at another school
-*TOY:	+< &=noise . %snd:"patagonia28"_1093101_1093339
-*ZER:	ac (.) mae (y)n athro (y)n y nos . %snd:"patagonia28"_1094773_1097246
+*TOY:	+< &=noise . 1093101_1093339
+*ZER:	ac (.) mae (y)n athro (y)n y nos . 1094773_1097246
 %eng:	and he's a teacher in the evening
-*ZER:	does dim amser (gy)da fe i wneud bethau iawn timod . %snd:"patagonia28"_1097226_1099793
+*ZER:	does dim amser (gy)da fe i wneud bethau iawn timod . 1097226_1099793
 %eng:	he has no time to do things properly, you know
-*TOY:	+< &=laugh erbyn y nos mae fe wedi blino felly . %snd:"patagonia28"_1099113_1101391
+*TOY:	+< &=laugh erbyn y nos mae fe wedi blino felly . 1099113_1101391
 %eng:	so by the evening he's tired out
-*TOY:	mae fe (y)n cyrraedd yn hwyr . %snd:"patagonia28"_1101377_1102625
+*TOY:	mae fe (y)n cyrraedd yn hwyr . 1101377_1102625
 %eng:	he arrives late
-*ZER:	ie ond mae ganddo (.) lot o arian cofia . %snd:"patagonia28"_1102573_1105655
+*ZER:	ie ond mae ganddo (.) lot o arian cofia . 1102573_1105655
 %eng:	yes but he has a lot of money, remember
-*TOY:	+< dyna pam siwr . %snd:"patagonia28"_1103296_1104207
+*TOY:	+< dyna pam siwr . 1103296_1104207
 %eng:	that must be why
-*ZER:	ond (.) timod (.) does dim pwynt wneud lot o bethau os ti ddim yn gallu wneud nhw (y)n iawn . %snd:"patagonia28"_1105985_1111529
+*ZER:	ond (.) timod (.) does dim pwynt wneud lot o bethau os ti ddim yn gallu wneud nhw (y)n iawn . 1105985_1111529
 %eng:	but you know, there's no point in doing a lot of things unless you can do them properly
-*ZER:	mae o dim yn (..) dysgu (y)n iawn achos (.) mae (y)n weithio bob man . %snd:"patagonia28"_1112457_1117629
+*ZER:	mae o dim yn (..) dysgu (y)n iawn achos (.) mae (y)n weithio bob man . 1112457_1117629
 %eng:	he doesn't teach properly because he works everywhere
-*TOY:	trwy (y)r dydd ie . %snd:"patagonia28"_1118589_1119889
+*TOY:	trwy (y)r dydd ie . 1118589_1119889
 %eng:	all day, yes
-*ZER:	ie so fe (y)n paratoi y (.) dosbarth o gwbl . %snd:"patagonia28"_1119460_1122804
+*ZER:	ie so fe (y)n paratoi y (.) dosbarth o gwbl . 1119460_1122804
 %eng:	yes, he doesn't prepare the lesson at all
-*ZER:	ac +.. . %snd:"patagonia28"_1123589_1124988
+*ZER:	ac +... 1123589_1124988
 %eng:	and...
-*ZER:	ie twp twp twp . %snd:"patagonia28"_1125492_1127570
+*ZER:	ie twp twp twp . 1125492_1127570
 %eng:	yes, stupid stupid stupid
-*ZER:	mae gás (gy)da fi fe . %snd:"patagonia28"_1127645_1129004
+*ZER:	mae gás (gy)da fi fe . 1127645_1129004
 %eng:	I hate it
-*ZER:	&=sigh ac +.. . %snd:"patagonia28"_1129132_1130433
+*ZER:	&=sigh ac +... 1129132_1130433
 %eng:	and...
-*ZER:	ie pethau fel (y)na . %snd:"patagonia28"_1130917_1132803
+*ZER:	ie pethau fel (y)na . 1130917_1132803
 %eng:	yes, things like that
-*ZER:	pedagogía@s:spa (...) ac práctica@s:spa profesional@s:spa . %snd:"patagonia28"_1133081_1139473
+*ZER:	pedagogía@s:spa (...) ac práctica@s:spa profesional@s:spa . 1133081_1139473
 %eng:	pedagogy, and professional practice
-*TOY:	hmm . %snd:"patagonia28"_1141071_1141576
-*ZER:	ofnadwy . %snd:"patagonia28"_1141698_1142720
+*TOY:	hmm . 1141071_1141576
+*ZER:	ofnadwy . 1141698_1142720
 %eng:	awful
-*ZER:	popeth yw (..) humanística@s:spa (.) timod . %snd:"patagonia28"_1143988_1148209
+*ZER:	popeth yw (..) humanística@s:spa (.) timod . 1143988_1148209
 %eng:	everything's, humanistic you know
-*ZER:	&=cough . %snd:"patagonia28"_1149951_1150712
-*TOY:	a be sy (y)n mynd i ddigwydd y flwyddyn nesa ? %snd:"patagonia28"_1150761_1152409
+*ZER:	&=cough . 1149951_1150712
+*TOY:	a be sy (y)n mynd i ddigwydd y flwyddyn nesa ? 1150761_1152409
 %eng:	and what's going to happen next year?
-*TOY:	ydy (y)r +.. . %snd:"patagonia28"_1152913_1153778
+*TOY:	ydy (y)r +..? 1152913_1153778
 %eng:	is the..?
-*ZER:	mae lot well dw i meddwl . %snd:"patagonia28"_1154623_1156213
+*ZER:	mae lot well dw i meddwl . 1154623_1156213
 %eng:	it's a lot better I think
-*ZER:	mae +/ . %snd:"patagonia28"_1156714_1157574
+*ZER:	mae +/. 1156714_1157574
 %eng:	[is]...
-*TOY:	ond dim ond pedwar <yn y> [//] mewn dosbarth ? %snd:"patagonia28"_1157530_1159355
+*TOY:	ond dim ond pedwar <yn y> [//] mewn dosbarth ? 1157530_1159355
 %eng:	but only four in a class?
-*TOY:	na . %snd:"patagonia28"_1159418_1160057
+*TOY:	na . 1159418_1160057
 %eng:	no
-*ZER:	ie ! %snd:"patagonia28"_1160061_1160421
+*ZER:	ie ! 1160061_1160421
 %eng:	yes!
-*TOY:	+< be (y)dy +/? %snd:"patagonia28"_1160272_1160725
+*TOY:	+< be (y)dy +/? 1160272_1160725
 %eng:	what's..?
-*ZER:	ie . %snd:"patagonia28"_1160892_1161293
+*ZER:	ie . 1160892_1161293
 %eng:	yes
-*TOY:	&=gasp . %snd:"patagonia28"_1161089_1161496
-*ZER:	&=laugh . %snd:"patagonia28"_1161798_1162546
-*TOY:	be (y)dyn nhw ddim yn mynd i cau (y)r +.. . %snd:"patagonia28"_1162535_1164271
+*TOY:	&=gasp . 1161089_1161496
+*ZER:	&=laugh . 1161798_1162546
+*TOY:	be (y)dyn nhw ddim yn mynd i cau (y)r +..? 1162535_1164271
 %eng:	what, they're not going to close the..?
-*ZER:	na so nhw (y)n gallu . %snd:"patagonia28"_1164970_1166183
+*ZER:	na so nhw (y)n gallu . 1164970_1166183
 %eng:	no, they can't
-*ZER:	maen nhw wedi agor nhw a (.) tydyn nhw (ddi)m gallu cau hwn . %snd:"patagonia28"_1166189_1169440
+*ZER:	maen nhw wedi agor nhw a (.) tydyn nhw (ddi)m gallu cau hwn . 1166189_1169440
 %eng:	they've opened them, and they can't close this one
-*TOY:	+< ah@s:cym&spa . %snd:"patagonia28"_1167908_1168257
-*ZER:	achos mae a@s:spa término@s:spa . %snd:"patagonia28"_1169618_1171865
+*TOY:	+< ah@s:cym&spa . 1167908_1168257
+*ZER:	achos mae a@s:spa término@s:spa . 1169618_1171865
 %eng:	because it is about to finish.
-*TOY:	aha@s:cym&spa . %snd:"patagonia28"_1172004_1172544
-*ZER:	bydd nhw (y)n trio agor hwn blwyddyn nesa . %snd:"patagonia28"_1173560_1175801
+*TOY:	aha@s:cym&spa . 1172004_1172544
+*ZER:	bydd nhw (y)n trio agor hwn blwyddyn nesa . 1173560_1175801
 %eng:	they'll be trying to open this next year
-*ZER:	ond (dy)dyn nhw ddim yn siwr . %snd:"patagonia28"_1175714_1177485
+*ZER:	ond (dy)dyn nhw ddim yn siwr . 1175714_1177485
 %eng:	but they're not sure
-*ZER:	xx . %snd:"patagonia28"_1180185_1181009
-*ZER:	a beth yw e raid i ti deithio bob dydd . %snd:"patagonia28"_1184909_1187487
+*ZER:	xx . 1180185_1181009
+*ZER:	a beth yw e raid i ti deithio bob dydd . 1184909_1187487
 %eng:	and what it is, you have to travel every day
-*ZER:	mae (y)n ofnadwy . %snd:"patagonia28"_1188404_1189646
+*ZER:	mae (y)n ofnadwy . 1188404_1189646
 %eng:	it's awful
-*ZER:	dw i wedi blino xx +/ . %snd:"patagonia28"_1190540_1191417
+*ZER:	dw i wedi blino xx +/. 1190540_1191417
 %eng:	I'm tired [..]
-*TOY:	+< am faint o (y)r gloch wyt ti (y)n dod yn_ôl ? %snd:"patagonia28"_1190923_1192421
+*TOY:	+< am faint o (y)r gloch wyt ti (y)n dod yn_ôl ? 1190923_1192421
 %eng:	what time do you get back?
-*ZER:	am un_ar_ddeg . %snd:"patagonia28"_1193107_1194343
+*ZER:	am un_ar_ddeg . 1193107_1194343
 %eng:	at eleven
-*ZER:	wel dw i (y)n dal y bws yn Esquel@s:cym&spa am un_ar_ddeg . %snd:"patagonia28"_1194552_1196777
+*ZER:	wel dw i (y)n dal y bws yn Esquel@s:cym&spa am un_ar_ddeg . 1194552_1196777
 %eng:	well, I catch the bus in Esquel at eleven
-*TOY:	+< xx +/ . %snd:"patagonia28"_1194902_1195222
-*ZER:	dw i (y)n cyrraedd tua hanner awr neu +.. . %snd:"patagonia28"_1197358_1199419
+*TOY:	+< xx +/. 1194902_1195222
+*ZER:	dw i (y)n cyrraedd tua hanner awr neu +... 1197358_1199419
 %eng:	I arrive about half an hour or...
-*TOY:	ie (..) mae (y)n dibynnu . %snd:"patagonia28"_1200245_1202370
+*TOY:	ie (..) mae (y)n dibynnu . 1200245_1202370
 %eng:	yes, it depends
-*ZER:	+< neu xx . %snd:"patagonia28"_1201215_1202440
+*ZER:	+< neu xx . 1201215_1202440
 %eng:	or [..]
-*ZER:	&=groan ie ond wel +.. . %snd:"patagonia28"_1204435_1207111
+*ZER:	&=groan ie ond wel +... 1204435_1207111
 %eng:	yes, but well...
-*TOY:	da iawn (.) hmm . %snd:"patagonia28"_1208131_1209333
+*TOY:	da iawn (.) hmm . 1208131_1209333
 %eng:	very good, hmm
-*ZER:	mae (y)n iawn . %snd:"patagonia28"_1209691_1210341
+*ZER:	mae (y)n iawn . 1209691_1210341
 %eng:	it's ok
-*TOY:	+< chwarae teg . %snd:"patagonia28"_1210144_1210869
+*TOY:	+< chwarae teg . 1210144_1210869
 %eng:	fair enough
-*ZER:	achos dw i <nabod (.) rywun sy (y)n> [=! laughs] byw yn +.. . %snd:"patagonia28"_1210337_1214509
+*ZER:	achos dw i <nabod (.) rywun sy (y)n> [=! laughs] byw yn +... 1210337_1214509
 %eng:	because I know someone who lives in...
-*ZER:	ble mae fe ? %snd:"patagonia28"_1215375_1216222
+*ZER:	ble mae fe ? 1215375_1216222
 %eng:	where is it?
-*ZER:	San_Martin@s:cym&spa neu ryw le fel (y)na xx +// . %snd:"patagonia28"_1216429_1218664
+*ZER:	San_Martin@s:cym&spa neu ryw le fel (y)na xx +//. 1216429_1218664
 %eng:	San Martin or somewhere like that [..]
-*ZER:	sa i (y)n cofio (y)r enw nawr . %snd:"patagonia28"_1218717_1219954
+*ZER:	sa i (y)n cofio (y)r enw nawr . 1218717_1219954
 %eng:	I don't remember the name now
-*ZER:	mae (y)n +// . %snd:"patagonia28"_1219944_1220472
+*ZER:	mae (y)n +//. 1219944_1220472
 %eng:	it's...
-*ZER:	ond (.) lle bach bach iawn bell bell iawn . %snd:"patagonia28"_1220529_1224366
+*ZER:	ond (.) lle bach bach iawn bell bell iawn . 1220529_1224366
 %eng:	but a very very small place very very far away
-*ZER:	a mae (y)n dod (.) mewn car yn (.) fel awr neu rywbeth mae o . %snd:"patagonia28"_1224683_1229652
+*ZER:	a mae (y)n dod (.) mewn car yn (.) fel awr neu rywbeth mae o . 1224683_1229652
 %eng:	and he comes by car in about an hour or something, it is
-*TOY:	i astudio ? %snd:"patagonia28"_1229842_1230788
+*TOY:	i astudio ? 1229842_1230788
 %eng:	to study?
-*ZER:	i astudio . %snd:"patagonia28"_1231377_1232137
+*ZER:	i astudio . 1231377_1232137
 %eng:	to study
-*TOY:	+< mae (y)n dod pob dydd ? %snd:"patagonia28"_1231725_1232886
+*TOY:	+< mae (y)n dod pob dydd ? 1231725_1232886
 %eng:	he comes every day?
-*ZER:	mae (y)n trio dod pob [/] (.) pob dydd . %snd:"patagonia28"_1233851_1235959
+*ZER:	mae (y)n trio dod pob [/] (.) pob dydd . 1233851_1235959
 %eng:	he tries to come every day
-*TOY:	ond (..) mae (y)n anodd iawn xxx . %snd:"patagonia28"_1235962_1240211
+*TOY:	ond (..) mae (y)n anodd iawn xxx . 1235962_1240211
 %eng:	but it's very hard [...]
-*ZER:	bydd y (.) um (.) finales@s:spa +.. . %snd:"patagonia28"_1240358_1243516
+*ZER:	bydd y (.) um (.) finales@s:spa +... 1240358_1243516
 %eng:	the finals will be...
-*TOY:	mmhm ? %snd:"patagonia28"_1243978_1244900
-*ZER:	i [///] (.) achos mae (y)n +.. . %snd:"patagonia28"_1245915_1247976
+*TOY:	mmhm ? 1243978_1244900
+*ZER:	i [///] (.) achos mae (y)n +... 1245915_1247976
 %eng:	yes because it's...
-*ZER:	os ti ddim yn dod pob dydd +// . %snd:"patagonia28"_1249713_1257181
+*ZER:	os ti ddim yn dod pob dydd +//. 1249713_1257181
 %eng:	if you don't come every day...
-*ZER:	wel (.) raid ti ddod (.) fel (.) ochenta@s:spa por@s:spa cierto@s:spa de@s:spa asistencia@s:spa . %snd:"patagonia28"_1252193_1257181
+*ZER:	wel (.) raid ti ddod (.) fel (.) ochenta@s:spa por@s:spa cierto@s:spa de@s:spa asistencia@s:spa . 1252193_1257181
 %eng:	well, you have to come, like [...] eighty per cent of attendance.
-*ZER:	ac (..) os ti ddim yn (.) gallu (..) mae raid ti (.) dod hefyd ar (.) diwedd y blwyddyn a wneud (...) y (.) final@s:spa . %snd:"patagonia28"_1258535_1270886
+*ZER:	ac (..) os ti ddim yn (.) gallu (..) mae raid ti (.) dod hefyd ar (.) diwedd y blwyddyn a wneud (...) y (.) final@s:spa . 1258535_1270886
 %eng:	and if you can't then you have to also come at the end of the year and do the final
-*ZER:	[- spa] xxx final . %snd:"patagonia28"_1271165_1272903
+*ZER:	[- spa] xxx final . 1271165_1272903
 %eng:	xxx final.
-*ZER:	druan . %snd:"patagonia28"_1274663_1275464
+*ZER:	druan . 1274663_1275464
 %eng:	oh dear
-*TOY:	mmm . %snd:"patagonia28"_1275905_1276381
-*ZER:	mae (y)n ofnadwy &=imit:crying . %snd:"patagonia28"_1279456_1280971
+*TOY:	mmm . 1275905_1276381
+*ZER:	mae (y)n ofnadwy &=imit:crying . 1279456_1280971
 %eng:	it's awful
-*ZER:	oh@s:cym&spa <dw i> [/] dw i (y)n hapus achos dw i (y)n gorffen nawr . %snd:"patagonia28"_1281125_1283511
+*ZER:	oh@s:cym&spa <dw i> [/] dw i (y)n hapus achos dw i (y)n gorffen nawr . 1281125_1283511
 %eng:	oh, I'm happy because I'm finishing now
-*ZER:	ond (.) bydda i yn xxx ar_ôl +/ . %snd:"patagonia28"_1283795_1286843
+*ZER:	ond (.) bydda i yn xxx ar_ôl +/. 1283795_1286843
 %eng:	but I'll be [...] afterwards
-*TOY:	ah@s:cym&spa &p (.) pryd wyt ti (y)n dechrau ? %snd:"patagonia28"_1286826_1288538
+*TOY:	ah@s:cym&spa &p (.) pryd wyt ti (y)n dechrau ? 1286826_1288538
 %eng:	ah, when do you start?
-*ZER:	sa i (y)n siwr . %snd:"patagonia28"_1289031_1289745
+*ZER:	sa i (y)n siwr . 1289031_1289745
 %eng:	I'm not sure
-*TOY:	be ti (y)n gweithio yn y bore neu yn y pnawn &t neu (.) trwy (y)r dydd ? %snd:"patagonia28"_1290649_1293748
+*TOY:	be ti (y)n gweithio yn y bore neu yn y pnawn &t neu (.) trwy (y)r dydd ? 1290649_1293748
 %eng:	what, you work in the morning or in the afternoon or all day?
-*ZER:	+< prynhawn . %snd:"patagonia28"_1293102_1293601
+*ZER:	+< prynhawn . 1293102_1293601
 %eng:	afternoon
-*ZER:	dw i (y)n meddwl prynhawn . %snd:"patagonia28"_1294066_1295258
+*ZER:	dw i (y)n meddwl prynhawn . 1294066_1295258
 %eng:	I think afternoon
-*ZER:	achos mae Sonia@s:cym&spa isio fi (.) gweithio (y)n y prynhawn . %snd:"patagonia28"_1295285_1298378
+*ZER:	achos mae Sonia@s:cym&spa isio fi (.) gweithio (y)n y prynhawn . 1295285_1298378
 %eng:	because Sonia wants me to work in the afternoon
-*TOY:	yn y siop ? %snd:"patagonia28"_1298606_1299355
+*TOY:	yn y siop ? 1298606_1299355
 %eng:	in the shop?
-*ZER:	yn y siop . %snd:"patagonia28"_1299553_1300197
+*ZER:	yn y siop . 1299553_1300197
 %eng:	in the shop
-*ZER:	achos mae (y)na ferch sy (y)n +.. . %snd:"patagonia28"_1300802_1302456
+*ZER:	achos mae (y)na ferch sy (y)n +... 1300802_1302456
 %eng:	because there's a girl who...
-*TOY:	+< oh@s:cym&spa neis . %snd:"patagonia28"_1301197_1301690
+*TOY:	+< oh@s:cym&spa neis . 1301197_1301690
 %eng:	oh nice
-*ZER:	mae hi (y)n gallu (.) glanhau a paratoi popeth iawn . %snd:"patagonia28"_1303373_1307988
+*ZER:	mae hi (y)n gallu (.) glanhau a paratoi popeth iawn . 1303373_1307988
 %eng:	she can tidy and prepare everything well
-*ZER:	mae (y)n lot well na fi . %snd:"patagonia28"_1307952_1309055
+*ZER:	mae (y)n lot well na fi . 1307952_1309055
 %eng:	she's much better than me
-*ZER:	dw i ddim yn +// . %snd:"patagonia28"_1309076_1309465
+*ZER:	dw i ddim yn +//. 1309076_1309465
 %eng:	I'm not...
-*TOY:	&=laugh . %snd:"patagonia28"_1309471_1309808
-*ZER:	dw i (y)n drwg iawn i wneud bethau fel (yn)a . %snd:"patagonia28"_1309622_1311619
+*TOY:	&=laugh . 1309471_1309808
+*ZER:	dw i (y)n drwg iawn i wneud bethau fel (yn)a . 1309622_1311619
 %eng:	I'm very bad at doing things like that
-*ZER:	ac dw i (y)n well i siarad â bobl a esbonio beth sy xxx +/ . %snd:"patagonia28"_1311700_1316640
+*ZER:	ac dw i (y)n well i siarad â bobl a esbonio beth sy xxx +/. 1311700_1316640
 %eng:	and I'm better at talking to people and explaining what's...
-*TOY:	+< ia mwy o bobl yn dod yn y pnawn . %snd:"patagonia28"_1315952_1317705
+*TOY:	+< ia mwy o bobl yn dod yn y pnawn . 1315952_1317705
 %eng:	yes, more people come in the afternoon
-*ZER:	ie . %snd:"patagonia28"_1317880_1318344
+*ZER:	ie . 1317880_1318344
 %eng:	yes
-*TOY:	byddi ti (y)n prysur iawn . %snd:"patagonia28"_1319867_1321179
+*TOY:	byddi ti (y)n prysur iawn . 1319867_1321179
 %eng:	you'll be very busy
-*ZER:	ie ond mae (y)n well timod . %snd:"patagonia28"_1321861_1323104
+*ZER:	ie ond mae (y)n well timod . 1321861_1323104
 %eng:	yes, but it's better, you know
-*ZER:	achos pan (.) does dim bobl mae (y)n &=moan mae (y)r amser yn mynd yn araf ofnadwy . %snd:"patagonia28"_1323091_1329186
+*ZER:	achos pan (.) does dim bobl mae (y)n &=moan mae (y)r amser yn mynd yn araf ofnadwy . 1323091_1329186
 %eng:	because when there aren't any people it's, oh, the time passes terribly slowly
-*TOY:	+< ie . %snd:"patagonia28"_1328002_1328525
+*TOY:	+< ie . 1328002_1328525
 %eng:	yes
-*ZER:	ti [/] ti <(we)di gweld> [?] xx yn y siop neu yn y +.. . %snd:"patagonia28"_1331468_1334522
+*ZER:	ti [/] ti <(we)di gweld> [?] xx yn y siop neu yn y +..? 1331468_1334522
 %eng:	have you seen [...] in the shop or in the..?
-*TOY:	+< xxx . %snd:"patagonia28"_1331762_1332981
-*TOY:	yn y siop . %snd:"patagonia28"_1334533_1335329
+*TOY:	+< xxx . 1331762_1332981
+*TOY:	yn y siop . 1334533_1335329
 %eng:	in the shop
-*ZER:	do . %snd:"patagonia28"_1335336_1336114
+*ZER:	do . 1335336_1336114
 %eng:	yes
-*TOY:	mae (y)n neis . %snd:"patagonia28"_1336596_1337188
+*TOY:	mae (y)n neis . 1336596_1337188
 %eng:	it's nice
-*ZER:	ond does dim digon o le timod ? %snd:"patagonia28"_1337246_1338987
+*ZER:	ond does dim digon o le timod ? 1337246_1338987
 %eng:	but there's not enough room, you know
-*TOY:	nag oes ! %snd:"patagonia28"_1338656_1339358
+*TOY:	nag oes ! 1338656_1339358
 %eng:	no
-*ZER:	+< dw i (y)n teimlo [?] (.) dim wybod . %snd:"patagonia28"_1339009_1341012
+*ZER:	+< dw i (y)n teimlo [?] (.) dim wybod . 1339009_1341012
 %eng:	I feel, I don't know
-*TOY:	fydda i ddim yn gallu weithio yn [//] yna achos +// . %snd:"patagonia28"_1341091_1343453
+*TOY:	fydda i ddim yn gallu weithio yn [//] yna achos +//. 1341091_1343453
 %eng:	I won't be able to work there because...
-*ZER:	huh@s:cym&spa ? %snd:"patagonia28"_1343883_1344272
-*TOY:	os dw i mynd i weithio (y)na (.) dw i ddim yn gallu nawr . %snd:"patagonia28"_1345439_1348359
+*ZER:	huh@s:cym&spa ? 1343883_1344272
+*TOY:	os dw i mynd i weithio (y)na (.) dw i ddim yn gallu nawr . 1345439_1348359
 %eng:	if I'm going to work there, I can't now
-*ZER:	+< ah@s:cym&spa ti (dd)im yn gallu xx &=laugh ! %snd:"patagonia28"_1346745_1349688
+*ZER:	+< ah@s:cym&spa ti (dd)im yn gallu xx &=laugh ! 1346745_1349688
 %eng:	ah, you can't [..]!
-*TOY:	achos (.) ry tew (.) ydw i . %snd:"patagonia28"_1349603_1351902
+*TOY:	achos (.) ry tew (.) ydw i . 1349603_1351902
 %eng:	because I'm too fat
-*ZER:	+< &=cough . %snd:"patagonia28"_1350717_1351008
-*TOY:	na . %snd:"patagonia28"_1352514_1352950
+*ZER:	+< &=cough . 1350717_1351008
+*TOY:	na . 1352514_1352950
 %eng:	no
-*ZER:	ie mae (y)n gormod +/ . %snd:"patagonia28"_1352804_1353843
+*ZER:	ie mae (y)n gormod +/. 1352804_1353843
 %eng:	yes it's too much
-*TOY:	ie mae [/] mae lle (y)n bach (.) ie . %snd:"patagonia28"_1353719_1355890
+*TOY:	ie mae [/] mae lle (y)n bach (.) ie . 1353719_1355890
 %eng:	yes the place is small
-*ZER:	ydy a mae (y)n gormod +/ . %snd:"patagonia28"_1355871_1356782
+*ZER:	ydy a mae (y)n gormod +/. 1355871_1356782
 %eng:	yes and it's too much...
-*TOY:	mae (y)n anghyfforddu(s) [?] weithiau . %snd:"patagonia28"_1356672_1358326
+*TOY:	mae (y)n anghyfforddu(s) [?] weithiau . 1356672_1358326
 %eng:	it's uncomfortable sometimes
-*ZER:	mmm . %snd:"patagonia28"_1358580_1358905
-*TOY:	mmm . %snd:"patagonia28"_1359790_1360115
-*ZER:	ti (dd)im yn gallu symyd . %snd:"patagonia28"_1360126_1361351
+*ZER:	mmm . 1358580_1358905
+*TOY:	mmm . 1359790_1360115
+*ZER:	ti (dd)im yn gallu symyd . 1360126_1361351
 %eng:	you can't move
-*TOY:	na (.) dw i fel +"/ . %snd:"patagonia28"_1361394_1362532
+*TOY:	na (.) dw i fel +"/. 1361394_1362532
 %eng:	no, I'm like
-*TOY:	+" &=grunt esgusodwch fi &=grunt ! %snd:"patagonia28"_1362549_1364355
+*TOY:	+" &=grunt esgusodwch fi &=grunt ! 1362549_1364355
 %eng:	"excuse me!
-*ZER:	ie . %snd:"patagonia28"_1364438_1365059
+*ZER:	ie . 1364438_1365059
 %eng:	yes
-*ZER:	mae xx +/ . %snd:"patagonia28"_1365533_1366251
+*ZER:	mae xx +/. 1365533_1366251
 %eng:	[is]...
-*TOY:	+< a weithiau mae (y)r pobl yn (.) pico rywbeth a ddweud +"/ . %snd:"patagonia28"_1366007_1369374
+*TOY:	+< a weithiau mae (y)r pobl yn (.) pico rywbeth a ddweud +"/. 1366007_1369374
 %eng:	and sometimes people pick something and say:
-*TOY:	+" faint ydy hwn ? %snd:"patagonia28"_1369769_1371124
+*TOY:	+" faint ydy hwn ? 1369769_1371124
 %eng:	"how much is this?
-*TOY:	a ti (ddi)m yn gallu mynd achos ti (ddi)m yn gallu helpu . %snd:"patagonia28"_1371130_1374015
+*TOY:	a ti (ddi)m yn gallu mynd achos ti (ddi)m yn gallu helpu . 1371130_1374015
 %eng:	and you can't go because you can't help
-*TOY:	achos mae (y)n ry fach . %snd:"patagonia28"_1374775_1375855
+*TOY:	achos mae (y)n ry fach . 1374775_1375855
 %eng:	because it's too small
-*ZER:	ie a maen nhw (y)n pico pethau sy [//] ti ddim yn gallu +// . %snd:"patagonia28"_1376135_1378855
+*ZER:	ie a maen nhw (y)n pico pethau sy [//] ti ddim yn gallu +//. 1376135_1378855
 %eng:	yes, and they pick things that you can't...
-*ZER:	faint yw e (..) timod fel xx +/ . %snd:"patagonia28"_1378924_1381031
+*ZER:	faint yw e (..) timod fel xx +/. 1378924_1381031
 %eng:	how much it is, you know like [...]
-*TOY:	+< wyt ti ddim yn gwybod . %snd:"patagonia28"_1380436_1381847
+*TOY:	+< wyt ti ddim yn gwybod . 1380436_1381847
 %eng:	you don't know
-*ZER:	ie . %snd:"patagonia28"_1381653_1382309
+*ZER:	ie . 1381653_1382309
 %eng:	yes
-*TOY:	ie . %snd:"patagonia28"_1382762_1383192
+*TOY:	ie . 1382762_1383192
 %eng:	yes
-*TOY:	ond mae (y)r siop yn neis beth bynnag . %snd:"patagonia28"_1383797_1385660
+*TOY:	ond mae (y)r siop yn neis beth bynnag . 1383797_1385660
 %eng:	but the shop's nice anyway
-*TOY:	mae llawer o bethau . %snd:"patagonia28"_1386443_1388004
+*TOY:	mae llawer o bethau . 1386443_1388004
 %eng:	there are lots of things
-*TOY:	llawer o bethau . %snd:"patagonia28"_1388178_1388927
+*TOY:	llawer o bethau . 1388178_1388927
 %eng:	lots of things
-*ZER:	ie . %snd:"patagonia28"_1388904_1389212
+*ZER:	ie . 1388904_1389212
 %eng:	yes
-*ZER:	mae (y)n anodd iawn <i rhoi> [//] (..) <i wneud> [//] (.) <i rhoi nhw (.) i bob> [//] i wneud pobl i (.) gweld popeth ti wybod . %snd:"patagonia28"_1390043_1397665
+*ZER:	mae (y)n anodd iawn <i rhoi> [//] (..) <i wneud> [//] (.) <i rhoi nhw (.) i bob> [//] i wneud pobl i (.) gweld popeth ti wybod . 1390043_1397665
 %eng:	it's very hard to put them for people to see everything, you know
-*TOY:	mmm . %snd:"patagonia28"_1397663_1397982
-*ZER:	achos mae gormod o bethau . %snd:"patagonia28"_1398369_1399911
+*TOY:	mmm . 1397663_1397982
+*ZER:	achos mae gormod o bethau . 1398369_1399911
 %eng:	because there are too many things
-*ZER:	a mae pob un yn wahanol . %snd:"patagonia28"_1399906_1401920
+*ZER:	a mae pob un yn wahanol . 1399906_1401920
 %eng:	and every one is different
-*TOY:	+< mmhm . %snd:"patagonia28"_1401114_1401515
-*ZER:	ac (.) ych (..) ych_a_fi ! %snd:"patagonia28"_1402215_1404781
-%eng:	and.. . yuck
-*ZER:	dyna pam dw i (y)n hapus i (y)r (.) merch sy (y)n gweithio <(y)n y bore> [=! laughs] ! %snd:"patagonia28"_1405403_1409722
+*TOY:	+< mmhm . 1401114_1401515
+*ZER:	ac (.) ych (..) ych_a_fi ! 1402215_1404781
+%eng:	and... yuck
+*ZER:	dyna pam dw i (y)n hapus i (y)r (.) merch sy (y)n gweithio <(y)n y bore> [=! laughs] ! 1405403_1409722
 %eng:	that's why I'm happy for the girl who works in the morning
-*TOY:	achos mae hi (y)n tacluso bopeth xxx . %snd:"patagonia28"_1409844_1412700
+*TOY:	achos mae hi (y)n tacluso bopeth xxx . 1409844_1412700
 %eng:	because she tidies everything
-*ZER:	+< &=laugh . %snd:"patagonia28"_1411848_1412428
-*ZER:	dywedodd Sonia@s:cym&spa +"/ . %snd:"patagonia28"_1413263_1413895
+*ZER:	+< &=laugh . 1411848_1412428
+*ZER:	dywedodd Sonia@s:cym&spa +"/. 1413263_1413895
 %eng:	Sonia said:
-*ZER:	+" o_k@s:cym&spa ond (.) paid wneud mès yn y prynhawn . %snd:"patagonia28"_1413895_1416438
+*ZER:	+" o_k@s:cym&spa ond (.) paid wneud mès yn y prynhawn . 1413895_1416438
 %eng:	ok, but don't make a mess in the afternoon
-*ZER:	<a o(eddw)n i (y)n dweud> [?] +"/ . %snd:"patagonia28"_1416516_1417033
+*ZER:	<a o(eddw)n i (y)n dweud> [?] +"/. 1416516_1417033
 %eng:	and I was saying:
-*TOY:	+< &=laugh . %snd:"patagonia28"_1416661_1417004
-*ZER:	+" paid becso . %snd:"patagonia28"_1417033_1417803
+*TOY:	+< &=laugh . 1416661_1417004
+*ZER:	+" paid becso . 1417033_1417803
 %eng:	"don't worry"
-*ZER:	+" yr pwynt yw rhywbeth arall . %snd:"patagonia28"_1417803_1419962
+*ZER:	+" yr pwynt yw rhywbeth arall . 1417803_1419962
 %eng:	the point is something else
-*ZER:	paratoi yw (y)r problem . %snd:"patagonia28"_1420861_1422394
+*ZER:	paratoi yw (y)r problem . 1420861_1422394
 %eng:	preparing is the problem
-*TOY:	ie . %snd:"patagonia28"_1422803_1423390
+*TOY:	ie . 1422803_1423390
 %eng:	yes
-*ZER:	ond bydda i (y)n (.) gweithio (.) siwr o fod (.) bore dydd Sadwrn . %snd:"patagonia28"_1425619_1430958
+*ZER:	ond bydda i (y)n (.) gweithio (.) siwr o fod (.) bore dydd Sadwrn . 1425619_1430958
 %eng:	but I'll be working, must be, on Saturday morning
-*ZER:	&=noise dydd Sadwrn trwy dydd i wneud y (..) er@s:cym&spa día@s:spa libre@s:spa . %snd:"patagonia28"_1431029_1436149
+*ZER:	&=noise dydd Sadwrn trwy dydd i wneud y (..) er@s:cym&spa día@s:spa libre@s:spa . 1431029_1436149
 %eng:	all day Saturday to get the, er, free day.
-*TOY:	mmhm . %snd:"patagonia28"_1436282_1436841
-*ZER:	diwrnod bant er@s:cym&spa dydd Sul neu rywbeth . %snd:"patagonia28"_1436772_1439320
+*TOY:	mmhm . 1436282_1436841
+*ZER:	diwrnod bant er@s:cym&spa dydd Sul neu rywbeth . 1436772_1439320
 %eng:	day off on Sunday or something
-*TOY:	+< Sul . %snd:"patagonia28"_1438230_1438695
+*TOY:	+< Sul . 1438230_1438695
 %eng:	Sun(day)
-*ZER:	+" dw i (ddi)m eisio weithio dydd Sul . %snd:"patagonia28"_1439856_1441180
+*ZER:	+" dw i (ddi)m eisio weithio dydd Sul . 1439856_1441180
 %eng:	"I don't want to work Sunday"
-*ZER:	dywedais i Sonia@s:cym&spa +" . %snd:"patagonia28"_1441963_1443281
+*ZER:	dywedais i Sonia@s:cym&spa +". 1441963_1443281
 %eng:	I said to Sonia
-*ZER:	wel <dw i (ddi)m yn> [/] (.) dw i (ddi)m yn weithio dydd Sul o_gwbl . %snd:"patagonia28"_1443631_1446751
+*ZER:	wel <dw i (ddi)m yn> [/] (.) dw i (ddi)m yn weithio dydd Sul o_gwbl . 1443631_1446751
 %eng:	I won't work Sunday at all
-*ZER:	o(eddw)n i (y)n gweithio (..) y blwyddyn diwetha +// . %snd:"patagonia28"_1448063_1450919
+*ZER:	o(eddw)n i (y)n gweithio (..) y blwyddyn diwetha +//. 1448063_1450919
 %eng:	I was working last year
-*ZER:	na (.) yr un cyn . %snd:"patagonia28"_1450957_1452728
+*ZER:	na (.) yr un cyn . 1450957_1452728
 %eng:	no, the one before
-*ZER:	er@s:cym&spa o(eddw)n i (y)n gweithio (..) dydd Sadwrn trwy dydd (.) i cael dydd Sul bant . %snd:"patagonia28"_1453286_1459683
+*ZER:	er@s:cym&spa o(eddw)n i (y)n gweithio (..) dydd Sadwrn trwy dydd (.) i cael dydd Sul bant . 1453286_1459683
 %eng:	I worked all day Saturday to get Sunday off
-*TOY:	+< ah@s:cym&spa (.) dydd Sul . %snd:"patagonia28"_1458229_1459662
+*TOY:	+< ah@s:cym&spa (.) dydd Sul . 1458229_1459662
 %eng:	ah, Sunday
-*ZER:	ti (y)n dweud bant ["] neu (.) i_ffwrdd ["] +.. . %snd:"patagonia28"_1461120_1463419
+*ZER:	ti (y)n dweud bant ["] neu (.) i_ffwrdd ["] +..? 1461120_1463419
 %eng:	do you say "bant" or "i ffwrdd" [away/off]
 %com:	"bant" is the SW variant, "i ffwrdd" NW, both meaning off or away. In the following minute of conversation they discuss Southern Welsh variants of words
-*TOY:	i_ffwrdd ["] . %snd:"patagonia28"_1463415_1464094
+*TOY:	i_ffwrdd ["] . 1463415_1464094
 %eng:	"i ffwrdd" [off]
-*ZER:	dw i trwy (y)r amser xx (.) bant ["] ? %snd:"patagonia28"_1465093_1467630
+*ZER:	dw i trwy (y)r amser xx (.) bant ["] ? 1465093_1467630
 %eng:	I always [...] "bant"
-*TOY:	wel ti (.) xx . %snd:"patagonia28"_1467806_1469228
+*TOY:	wel ti (.) xx . 1467806_1469228
 %eng:	well, you [...]
-*ZER:	+< &=cough . %snd:"patagonia28"_1468601_1469123
-*ZER:	dim_ond fi . %snd:"patagonia28"_1470187_1471348
+*ZER:	+< &=cough . 1468601_1469123
+*ZER:	dim_ond fi . 1470187_1471348
 %eng:	only me
-*TOY:	&=grunt . %snd:"patagonia28"_1471528_1472132
-*TOY:	achos mae bobl o Llangrannog@s:cym&spa yn dweud pant ["] (.) siwr o fod . %snd:"patagonia28"_1474751_1478182
+*TOY:	&=grunt . 1471528_1472132
+*TOY:	achos mae bobl o Llangrannog@s:cym&spa yn dweud pant ["] (.) siwr o fod . 1474751_1478182
 %eng:	must be because people from Llangrannog say "pant"
-*ZER:	ie . %snd:"patagonia28"_1478367_1479011
+*ZER:	ie . 1478367_1479011
 %eng:	ye
-*ZER:	pant ["] . %snd:"patagonia28"_1479501_1480320
+*ZER:	pant ["] . 1479501_1480320
 %eng:	"pant" [off]
-*TOY:	&=laugh . %snd:"patagonia28"_1480523_1480993
-*ZER:	moyn ["] . %snd:"patagonia28"_1481309_1482052
+*TOY:	&=laugh . 1480523_1480993
+*ZER:	moyn ["] . 1481309_1482052
 %eng:	"moyn" [want]
 %com:	"moyn" is the SW variant of isio/eisiau (want)
-*ZER:	+" wyt ti moyn xx ? %snd:"patagonia28"_1482070_1484026
+*ZER:	+" wyt ti moyn xx ? 1482070_1484026
 %eng:	"do you want [...]?
-*TOY:	na be wyt ti moyn ? %snd:"patagonia28"_1484005_1485137
+*TOY:	na be wyt ti moyn ? 1484005_1485137
 %eng:	no, what do you want?
-*TOY:	ie . %snd:"patagonia28"_1485427_1485926
+*TOY:	ie . 1485427_1485926
 %eng:	yes
-*TOY:	+" sa i (y)n siwr . %snd:"patagonia28"_1486552_1487504
+*TOY:	+" sa i (y)n siwr . 1486552_1487504
 %eng:	"I'm not sure"
 %com:	SW dialect
-*ZER:	+" <sa i (y)n siwr> [=! laughs] . %snd:"patagonia28"_1487771_1489118
+*ZER:	+" <sa i (y)n siwr> [=! laughs] . 1487771_1489118
 %eng:	"I'm not sure"
-*ZER:	+" &x sa i (y)n siwr . %snd:"patagonia28"_1491513_1492883
+*ZER:	+" &x sa i (y)n siwr . 1491513_1492883
 %eng:	"I'm not sure"
-*TOY:	+" sa i (y)n siwr . %snd:"patagonia28"_1494563_1495010
+*TOY:	+" sa i (y)n siwr . 1494563_1495010
 %eng:	"I'm not sure"
-*TOY:	o(eddw)n i (y)n hoffi +" . %snd:"patagonia28"_1494981_1495684
+*TOY:	o(eddw)n i (y)n hoffi +". 1494981_1495684
 %eng:	I liked:
-*TOY:	+" sa i (y)n siwr . %snd:"patagonia28"_1495736_1496392
+*TOY:	+" sa i (y)n siwr . 1495736_1496392
 %eng:	"I'm not sure"
-*TOY:	+" sa i (y)n gwybod . %snd:"patagonia28"_1496757_1497575
+*TOY:	+" sa i (y)n gwybod . 1496757_1497575
 %eng:	"I don't know"
-*ZER:	ie mae (y)n swnio (y)n well ie . %snd:"patagonia28"_1497877_1499938
+*ZER:	ie mae (y)n swnio (y)n well ie . 1497877_1499938
 %eng:	yes, it sounds better, yes
-*TOY:	+< &=laugh mae neis (.) ie . %snd:"patagonia28"_1498234_1500054
-%eng:	it's nice.. . yes
-*TOY:	a dw i (y)n hoffi te ["] hefyd . %snd:"patagonia28"_1500791_1502115
+*TOY:	+< &=laugh mae neis (.) ie . 1498234_1500054
+%eng:	it's nice... yes
+*TOY:	a dw i (y)n hoffi te ["] hefyd . 1500791_1502115
 %eng:	I like "te" too
-*TOY:	timod pan ti (y)n dweud rywbeth te ["] ? %snd:"patagonia28"_1502701_1504417
+*TOY:	timod pan ti (y)n dweud rywbeth te ["] ? 1502701_1504417
 %eng:	you know, when you say something, "te"
 %com:	"te" is a non-agreeing tag in Welsh
-*ZER:	ah@s:cym&spa ie . %snd:"patagonia28"_1504834_1506550
+*ZER:	ah@s:cym&spa ie . 1504834_1506550
 %eng:	oh yes
-*TOY:	+" mae (y)n iawn te . %snd:"patagonia28"_1506989_1508109
+*TOY:	+" mae (y)n iawn te . 1506989_1508109
 %eng:	it's alright, "te" [eh]
-*ZER:	mmhm . %snd:"patagonia28"_1508347_1508887
-*TOY:	dw i (y)n hoffi hwn . %snd:"patagonia28"_1509622_1510545
+*ZER:	mmhm . 1508347_1508887
+*TOY:	dw i (y)n hoffi hwn . 1509622_1510545
 %eng:	I like this
-*ZER:	aw@s:cym&spa (.) dw i (y)n gweld isio pawb (.) ofnadwy . %snd:"patagonia28"_1511912_1515964
+*ZER:	aw@s:cym&spa (.) dw i (y)n gweld isio pawb (.) ofnadwy . 1511912_1515964
 %eng:	aw, I'm missing people terribly
-*TOY:	ffoniest ti (.) i Langrannog@s:cym&spa ? %snd:"patagonia28"_1516580_1518733
+*TOY:	ffoniest ti (.) i Langrannog@s:cym&spa ? 1516580_1518733
 %eng:	did you phone Llangrannog?
-*ZER:	+< na xx anghofio . %snd:"patagonia28"_1518103_1519902
+*ZER:	+< na xx anghofio . 1518103_1519902
 %eng:	no [...] forgot
-*TOY:	oh@s:cym&spa ti (y)n ddrwg &=laugh . %snd:"patagonia28"_1520139_1521509
+*TOY:	oh@s:cym&spa ti (y)n ddrwg &=laugh . 1520139_1521509
 %eng:	oh, you're bad
-*ZER:	+< ie dw i (y)n xxx . %snd:"patagonia28"_1521562_1522943
+*ZER:	+< ie dw i (y)n xxx . 1521562_1522943
 %eng:	yes, I'm [...]
-*ZER:	o(eddw)n i (y)n meddwl bore (y)ma . %snd:"patagonia28"_1523132_1524131
+*ZER:	o(eddw)n i (y)n meddwl bore (y)ma . 1523132_1524131
 %eng:	I was thinking this morning
-*ZER:	achos (.) weles i (.) er@s:cym&spa cerdyn . %snd:"patagonia28"_1524131_1528110
+*ZER:	achos (.) weles i (.) er@s:cym&spa cerdyn . 1524131_1528110
 %eng:	because I saw a card
-*ZER:	hwn (.) Nadolig . %snd:"patagonia28"_1530105_1531501
+*ZER:	hwn (.) Nadolig . 1530105_1531501
 %eng:	this, Christmas
-*TOY:	ah@s:cym&spa cerdyn Nadolig . %snd:"patagonia28"_1531164_1532454
+*TOY:	ah@s:cym&spa cerdyn Nadolig . 1531164_1532454
 %eng:	ah, a Christmas card
-*ZER:	ac o(eddw)n i (y)n meddwl +/ . %snd:"patagonia28"_1532499_1533329
+*ZER:	ac o(eddw)n i (y)n meddwl +/. 1532499_1533329
 %eng:	and I was thinking...
-*TOY:	+< oh@s:cym&spa mae raid i mi (.) &=cough +/ . %snd:"patagonia28"_1532762_1535317
+*TOY:	+< oh@s:cym&spa mae raid i mi (.) &=cough +/. 1532762_1535317
 %eng:	oh, I have to...
-*ZER:	o(eddw)n i (y)n meddwl +/ . %snd:"patagonia28"_1535298_1536081
+*ZER:	o(eddw)n i (y)n meddwl +/. 1535298_1536081
 %eng:	I was thinking...
-*TOY:	++ +< anfon ? %snd:"patagonia28"_1535849_1536592
+*TOY:	++ +< anfon ? 1535849_1536592
 %eng:	sending?
-*ZER:	ie mae raid i fi prynu rhai ohonyn nhw a danfon i (y)r gwersyllt a pobl <fydd raid> [?] . %snd:"patagonia28"_1536579_1542616
+*ZER:	ie mae raid i fi prynu rhai ohonyn nhw a danfon i (y)r gwersyllt a pobl <fydd raid> [?] . 1536579_1542616
 %eng:	yes, I need to buy some of them and send to the camp and people, will have to
-*TOY:	mmhm &=noise . %snd:"patagonia28"_1544059_1545661
-*ZER:	achos (...) dw i (y)n anghofio trwy (y)r amser . %snd:"patagonia28"_1545659_1550920
+*TOY:	mmhm &=noise . 1544059_1545661
+*ZER:	achos (...) dw i (y)n anghofio trwy (y)r amser . 1545659_1550920
 %eng:	because I forget all the time
-*TOY:	a mae (y)n cymryd amser (.) i cyrraedd i Gymru . %snd:"patagonia28"_1553579_1556394
+*TOY:	a mae (y)n cymryd amser (.) i cyrraedd i Gymru . 1553579_1556394
 %eng:	and it takes time to get to Wales
-*TOY:	mae (y)r bethau +/ . %snd:"patagonia28"_1556415_1557082
+*TOY:	mae (y)r bethau +/. 1556415_1557082
 %eng:	things...
-*ZER:	ydy [=! yawns] sa i (y)n siwr faint o amser ond +.. . %snd:"patagonia28"_1557026_1560289
+*ZER:	ydy [=! yawns] sa i (y)n siwr faint o amser ond +... 1557026_1560289
 %eng:	yes, I'm not sure how much time, but...
-*ZER:	mis ? %snd:"patagonia28"_1560634_1561209
+*ZER:	mis ? 1560634_1561209
 %eng:	a month?
 %com:	Southern Welsh pronunciation /sh/ .
-*TOY:	ie siwr o fod . %snd:"patagonia28"_1561470_1562556
+*TOY:	ie siwr o fod . 1561470_1562556
 %eng:	yes, mut be
-*ZER:	&=laugh mis ["] ! %snd:"patagonia28"_1563800_1565304
+*ZER:	&=laugh mis ["] ! 1563800_1565304
 %eng:	[month]
 %com:	comments on /sh/ pronunciation (which Welsh orthography cannot represent)
-*TOY:	mis ["] . %snd:"patagonia28"_1565492_1566264
+*TOY:	mis ["] . 1565492_1566264
 %eng:	[month]
-*TOY:	mis ["] dw i (y)n deud mis ["] . %snd:"patagonia28"_1566976_1568660
+*TOY:	mis ["] dw i (y)n deud mis ["] . 1566976_1568660
 %eng:	I say [month]
 %com:	standard /s/ pronunciation now
-*ZER:	mae pawb yn xx mis ["] . %snd:"patagonia28"_1569333_1571539
+*ZER:	mae pawb yn xx mis ["] . 1569333_1571539
 %eng:	everyone [...] [month]
 %com:	/s/
-*TOY:	&=laugh . %snd:"patagonia28"_1572886_1573698
-*ZER:	mis ["] . %snd:"patagonia28"_1574173_1574724
+*TOY:	&=laugh . 1572886_1573698
+*ZER:	mis ["] . 1574173_1574724
 %eng:	[month]
 %com:	/sh/
-*ZER:	xx ["] . %snd:"patagonia28"_1574747_1575694
-*TOY:	llall . %snd:"patagonia28"_1576051_1576603
+*ZER:	xx ["] . 1574747_1575694
+*TOY:	llall . 1576051_1576603
 %eng:	the other
-*ZER:	mae popeth yn wahanol . %snd:"patagonia28"_1578017_1579555
+*ZER:	mae popeth yn wahanol . 1578017_1579555
 %eng:	everything's different
-*ZER:	o(eddw)n i (y)n meddwl <pan oedd> [//] er@s:cym&spa (..) pan (.) o(eddw)n i (y)n cyrraedd yn [/] (..) yng Nghymru +// . %snd:"patagonia28"_1579552_1586698
+*ZER:	o(eddw)n i (y)n meddwl <pan oedd> [//] er@s:cym&spa (..) pan (.) o(eddw)n i (y)n cyrraedd yn [/] (..) yng Nghymru +//. 1579552_1586698
 %eng:	I was thinking when I arrived in Wales...
-*ZER:	wel ar_ôl mis neu rywbeth . %snd:"patagonia28"_1586746_1588354
+*ZER:	wel ar_ôl mis neu rywbeth . 1586746_1588354
 %eng:	well, after a month or something
-*ZER:	o(eddw)n i meddwl +"/ . %snd:"patagonia28"_1588637_1589595
+*ZER:	o(eddw)n i meddwl +"/. 1588637_1589595
 %eng:	I was thinking:
-*ZER:	+" beth yw (y)r pwynt i dysgu (.) Cymraeg (..) yn yr Ariannin os pan ti (y)n dod (.) i Cymru (.) <ti ddim yn gallu> [/] (..) ti (ddi)m yn gallu ddweud dim_byd ? %snd:"patagonia28"_1589815_1600388
+*ZER:	+" beth yw (y)r pwynt i dysgu (.) Cymraeg (..) yn yr Ariannin os pan ti (y)n dod (.) i Cymru (.) <ti ddim yn gallu> [/] (..) ti (ddi)m yn gallu ddweud dim_byd ? 1589815_1600388
 %eng:	"what's the point in learning Welsh in Argentina if when you come to Wales you can't say anything
-*ZER:	achos maen nhw (y)n dweud popeth yn wahanol timod [=! laughs] ! %snd:"patagonia28"_1600380_1602818
+*ZER:	achos maen nhw (y)n dweud popeth yn wahanol timod [=! laughs] ! 1600380_1602818
 %eng:	because they say everything differently, you know
-*TOY:	neu maen nhw (y)n cymysgu (.) Saesneg a Chymraeg . %snd:"patagonia28"_1602874_1606031
+*TOY:	neu maen nhw (y)n cymysgu (.) Saesneg a Chymraeg . 1602874_1606031
 %eng:	or they mix English and Welsh
-*ZER:	+< ie hefyd . %snd:"patagonia28"_1605653_1606646
+*ZER:	+< ie hefyd . 1605653_1606646
 %eng:	yes, as well
-*TOY:	felly weithiau ti (y)n dweud +"/ . %snd:"patagonia28"_1606147_1607644
+*TOY:	felly weithiau ti (y)n dweud +"/. 1606147_1607644
 %eng:	so sometimes you say:
-*TOY:	+" beth +! ? %snd:"patagonia28"_1607633_1608329
+*TOY:	+" beth +!? 1607633_1608329
 %eng:	"what"!?
-*ZER:	&=laugh ie [?] . %snd:"patagonia28"_1608203_1608726
+*ZER:	&=laugh ie [?] . 1608203_1608726
 %eng:	yes
-*TOY:	os wyt ti (dd)im yn gwybod Saesneg . %snd:"patagonia28"_1608699_1610127
+*TOY:	os wyt ti (dd)im yn gwybod Saesneg . 1608699_1610127
 %eng:	if you don't know English
-*ZER:	miso ["] . %snd:"patagonia28"_1610521_1611351
+*ZER:	miso ["] . 1610521_1611351
 %eng:	[to miss]
-*TOY:	+< er engraifft fel fi . %snd:"patagonia28"_1610892_1612082
+*TOY:	+< er engraifft fel fi . 1610892_1612082
 %eng:	for example, like me
-*ZER:	wel <dw i (y)n> [/] <dw i (y)n> [/] dw i (y)n gallu siarad Saesneg ond +/ . %snd:"patagonia28"_1612613_1615435
+*ZER:	wel <dw i (y)n> [/] <dw i (y)n> [/] dw i (y)n gallu siarad Saesneg ond +/. 1612613_1615435
 %eng:	well, I can speak English, but...
-*TOY:	+< ah@s:cym&spa dw i ddim . %snd:"patagonia28"_1615092_1616201
+*TOY:	+< ah@s:cym&spa dw i ddim . 1615092_1616201
 %eng:	oh, I can't
-*ZER:	mae (y)n helpu lot i ddweud y gwir ond +.. . %snd:"patagonia28"_1616188_1619207
+*ZER:	mae (y)n helpu lot i ddweud y gwir ond +... 1616188_1619207
 %eng:	it helps a lot actually, but...
-*TOY:	+< mmm . %snd:"patagonia28"_1617425_1617901
-*ZER:	<so oedd e (y)n> [?] iawn . %snd:"patagonia28"_1620632_1621694
+*TOY:	+< mmm . 1617425_1617901
+*ZER:	<so oedd e (y)n> [?] iawn . 1620632_1621694
 %eng:	so it was alright
-*ZER:	nage (.) xxx . %snd:"patagonia28"_1621795_1623403
+*ZER:	nage (.) xxx . 1621795_1623403
 %eng:	no [...]
-*TOY:	ie . %snd:"patagonia28"_1624344_1624634
+*TOY:	ie . 1624344_1624634
 %eng:	yes
-*ZER:	mae (y)n ddrwg iawn . %snd:"patagonia28"_1625264_1626280
+*ZER:	mae (y)n ddrwg iawn . 1625264_1626280
 %eng:	it's very bad
-*TOY:	&=laugh . %snd:"patagonia28"_1626361_1627354
-*ZER:	&=cough . %snd:"patagonia28"_1629420_1630209
-*ZER:	ti wybod <pa diwrnod (y)dy> [?] (.) Aurelius@s:cym&spa yn cyrraedd ? %snd:"patagonia28"_1631675_1634241
+*TOY:	&=laugh . 1626361_1627354
+*ZER:	&=cough . 1629420_1630209
+*ZER:	ti wybod <pa diwrnod (y)dy> [?] (.) Aurelius@s:cym&spa yn cyrraedd ? 1631675_1634241
 %eng:	do you know which day is Aurelius arriving?
-*TOY:	diwedd y mis dw i meddwl . %snd:"patagonia28"_1634748_1636437
+*TOY:	diwedd y mis dw i meddwl . 1634748_1636437
 %eng:	end of the month I think
-*TOY:	ond mae fe (y)n gadael (.) Cymru . %snd:"patagonia28"_1638712_1640645
+*TOY:	ond mae fe (y)n gadael (.) Cymru . 1638712_1640645
 %eng:	but he's leaving Wales
-*TOY:	a mae (y)n mynd i Sbaen (..) am wythnos neu rywbeth (.) am gwyliau bach . %snd:"patagonia28"_1640660_1645663
+*TOY:	a mae (y)n mynd i Sbaen (..) am wythnos neu rywbeth (.) am gwyliau bach . 1640660_1645663
 %eng:	and he's going to Spain for a week or something for a little holiday
-*ZER:	&=noise . %snd:"patagonia28"_1645943_1646518
-*TOY:	mwy o wyliau ! %snd:"patagonia28"_1646466_1647203
+*ZER:	&=noise . 1645943_1646518
+*TOY:	mwy o wyliau ! 1646466_1647203
 %eng:	more holidays!
-*ZER:	&=laugh . %snd:"patagonia28"_1647226_1648033
-*TOY:	a wedyn mae (y)n dod yn_ôl . %snd:"patagonia28"_1648058_1649335
+*ZER:	&=laugh . 1647226_1648033
+*TOY:	a wedyn mae (y)n dod yn_ôl . 1648058_1649335
 %eng:	and then he's coming back
-*TOY:	a fydd e (y)n aros yn Buenos_Aires@s:cym&spa siwr o fod . %snd:"patagonia28"_1649898_1652052
+*TOY:	a fydd e (y)n aros yn Buenos_Aires@s:cym&spa siwr o fod . 1649898_1652052
 %eng:	and he'll be staying in Buenos Aires, surely
-*TOY:	wythnos arall (.) cyn cyrraedd i Drevelin@s:cym&spa . %snd:"patagonia28"_1652453_1654989
+*TOY:	wythnos arall (.) cyn cyrraedd i Drevelin@s:cym&spa . 1652453_1654989
 %eng:	another week before arriving in Trevelin
-*ZER:	mae iawn . %snd:"patagonia28"_1654924_1655627
+*ZER:	mae iawn . 1654924_1655627
 %eng:	it's alright
-*ZER:	o(eddw)n i mor mor xx ar_ôl dod xx +.. . %snd:"patagonia28"_1655795_1658699
+*ZER:	o(eddw)n i mor mor xx ar_ôl dod xx +... 1655795_1658699
 %eng:	I was so so [..] after coming...
-*ZER:	teithio am dim . %snd:"patagonia28"_1659825_1660619
+*ZER:	teithio am dim . 1659825_1660619
 %eng:	travelling for nothing
-*TOY:	ie . %snd:"patagonia28"_1660627_1661196
+*TOY:	ie . 1660627_1661196
 %eng:	yes
-*TOY:	bydd yn dechrau gweithio (.) blwyddyn nesaf siwr o fod . %snd:"patagonia28"_1661602_1664504
+*TOY:	bydd yn dechrau gweithio (.) blwyddyn nesaf siwr o fod . 1661602_1664504
 %eng:	he'll be starting work next year, no doubt
-*ZER:	ie . %snd:"patagonia28"_1664472_1665140
+*ZER:	ie . 1664472_1665140
 %eng:	yes
-*TOY:	nawr xx (..) does dim pwynt . %snd:"patagonia28"_1665416_1668005
+*TOY:	nawr xx (..) does dim pwynt . 1665416_1668005
 %eng:	now [...], there's no point
-*ZER:	nag oes . %snd:"patagonia28"_1668112_1669017
+*ZER:	nag oes . 1668112_1669017
 %eng:	no
-*ZER:	dim_ond tair wythnos i gorffen ? %snd:"patagonia28"_1669574_1672073
+*ZER:	dim_ond tair wythnos i gorffen ? 1669574_1672073
 %eng:	only three weeks to finish?
-*ZER:	dwedodd Freira@s:cym&spa sy ddim yn ga(llu) er@s:cym&spa +// . %snd:"patagonia28"_1672486_1674965
+*ZER:	dwedodd Freira@s:cym&spa sy ddim yn ga(llu) er@s:cym&spa +//. 1672486_1674965
 %eng:	Freira was saying, who can't...
-*ZER:	mae hi ddim yn gallu +// . %snd:"patagonia28"_1675046_1676817
+*ZER:	mae hi ddim yn gallu +//. 1675046_1676817
 %eng:	she can't...
-*ZER:	gallu neu isio ? %snd:"patagonia28"_1677041_1678359
+*ZER:	gallu neu isio ? 1677041_1678359
 %eng:	can't or doesn't want to?
-*ZER:	ah@s:cym&spa gallu (.) er@s:cym&spa dod . %snd:"patagonia28"_1678302_1681147
+*ZER:	ah@s:cym&spa gallu (.) er@s:cym&spa dod . 1678302_1681147
 %eng:	oh, can't, er, come
-*TOY:	+< ++ dod . %snd:"patagonia28"_1680462_1681187
+*TOY:	+< ++ dod . 1680462_1681187
 %eng:	...come
-*TOY:	oh@s:cym&spa pam ? %snd:"patagonia28"_1681726_1682620
+*TOY:	oh@s:cym&spa pam ? 1681726_1682620
 %eng:	oh, why?
-*ZER:	dw i (ddi)m yn gwybod . %snd:"patagonia28"_1682614_1684123
+*ZER:	dw i (ddi)m yn gwybod . 1682614_1684123
 %eng:	I don't know
-*ZER:	dywedodd er@s:cym&spa hi +/ . %snd:"patagonia28"_1684459_1686409
+*ZER:	dywedodd er@s:cym&spa hi +/. 1684459_1686409
 %eng:	she said...
-*TOY:	oh@s:cym&spa mae hi (y)n gadael diwedd (.) yr wyth(nos) [//] er@s:cym&spa blwyddyn ? %snd:"patagonia28"_1686095_1689683
-%eng:	oh is she leaving at the end of the week.. . year?
-*ZER:	+< ie ! %snd:"patagonia28"_1688106_1688565
+*TOY:	oh@s:cym&spa mae hi (y)n gadael diwedd (.) yr wyth(nos) [//] er@s:cym&spa blwyddyn ? 1686095_1689683
+%eng:	oh is she leaving at the end of the week... year?
+*ZER:	+< ie ! 1688106_1688565
 %eng:	yes!
-*ZER:	(e)fallai mae hi (y)n disgwyl babi . %snd:"patagonia28"_1690356_1692364
+*ZER:	(e)fallai mae hi (y)n disgwyl babi . 1690356_1692364
 %eng:	maybe she's pregnant
-*TOY:	na . %snd:"patagonia28"_1692408_1693592
+*TOY:	na . 1692408_1693592
 %eng:	no
-*ZER:	yr un arall &d wedi (.) &gor [/] wedi (.) stopio achos (.) mae hi (y)n disgwyl babi . %snd:"patagonia28"_1693783_1699234
+*ZER:	yr un arall &d wedi (.) &gor [/] wedi (.) stopio achos (.) mae hi (y)n disgwyl babi . 1693783_1699234
 %eng:	the other one left because she's pregnant
-*TOY:	+< ++ gadael ? %snd:"patagonia28"_1696326_1696854
+*TOY:	+< ++ gadael ? 1696326_1696854
 %eng:	...left?
-*ZER:	wel ond ti (y)n siwr bod +/ . %snd:"patagonia28"_1699617_1700691
+*ZER:	wel ond ti (y)n siwr bod +/. 1699617_1700691
 %eng:	wel, but you're sure that...
-*TOY:	+< wel dw i (y)n disgwyl babi ond dw i ddi(m) &=laugh +/ . %snd:"patagonia28"_1700103_1702993
+*TOY:	+< wel dw i (y)n disgwyl babi ond dw i ddi(m) &=laugh +/. 1700103_1702993
 %eng:	well, I'm pregnant but i'm not...
-*ZER:	+< ie ti ddim yn stopio . %snd:"patagonia28"_1701827_1703528
+*ZER:	+< ie ti ddim yn stopio . 1701827_1703528
 %eng:	yes, you're not stopping
-*ZER:	does [///] wel does dim pwynt i dweud y gwir achos (.) os <ti (y)n> [/] (..) ti (y)n gallu (a)studio gyda babi &=laugh xxx ! %snd:"patagonia28"_1703586_1711283
-%eng:	there's no point really because if you.. . you can study with a baby [...] !
-*TOY:	ie . %snd:"patagonia28"_1711472_1712006
+*ZER:	does [///] wel does dim pwynt i dweud y gwir achos (.) os <ti (y)n> [/] (..) ti (y)n gallu (a)studio gyda babi &=laugh xxx ! 1703586_1711283
+%eng:	there's no point really because if you... you can study with a baby [...] !
+*TOY:	ie . 1711472_1712006
 %eng:	yes
-*TOY:	ond ar y ddechrau mae e (y)n anodd . %snd:"patagonia28"_1713626_1715263
+*TOY:	ond ar y ddechrau mae e (y)n anodd . 1713626_1715263
 %eng:	but it's difficult at the beginning
-*TOY:	ti (y)n teimlo (y)n sâl . %snd:"patagonia28"_1715892_1717401
+*TOY:	ti (y)n teimlo (y)n sâl . 1715892_1717401
 %eng:	you feel sick
-*ZER:	+< ie . %snd:"patagonia28"_1716706_1717281
+*ZER:	+< ie . 1716706_1717281
 %eng:	yes
-*TOY:	ti (y)n (.) taflu . %snd:"patagonia28"_1717339_1718752
+*TOY:	ti (y)n (.) taflu . 1717339_1718752
 %eng:	you're throwing (up)
-*TOY:	ti (y)n [///] (.) os wyt ti (y)n &wi bwyta rywbeth (.) gweithiau mae (y)n +.. . %snd:"patagonia28"_1718798_1722890
+*TOY:	ti (y)n [///] (.) os wyt ti (y)n &wi bwyta rywbeth (.) gweithiau mae (y)n +... 1718798_1722890
 %eng:	if you eat something, sometimes it...
-*TOY:	oh@s:cym&spa na ! %snd:"patagonia28"_1723242_1724247
+*TOY:	oh@s:cym&spa na ! 1723242_1724247
 %eng:	oh, no!
-*TOY:	mae (y)n ofnadwy . %snd:"patagonia28"_1724223_1725135
+*TOY:	mae (y)n ofnadwy . 1724223_1725135
 %eng:	it's awful
-*ZER:	a mae hi (y)n brifo ac +.. . %snd:"patagonia28"_1726571_1728771
+*ZER:	a mae hi (y)n brifo ac +... 1726571_1728771
 %eng:	and it hurts and...
-*ZER:	rhy ifanc ! %snd:"patagonia28"_1729551_1730695
+*ZER:	rhy ifanc ! 1729551_1730695
 %eng:	too young!
-*TOY:	mmm . %snd:"patagonia28"_1731024_1731256
-*ZER:	fel un_deg_chwech awr +.. . %snd:"patagonia28"_1731175_1733526
+*TOY:	mmm . 1731024_1731256
+*ZER:	fel un_deg_chwech awr +... 1731175_1733526
 %eng:	like, sixteen hours...
-*ZER:	wel +.. . %snd:"patagonia28"_1733551_1734822
+*ZER:	wel +... 1733551_1734822
 %eng:	well...
-*ZER:	o(eddw)n i (y)n meddwl yn gyntaf +"/ . %snd:"patagonia28"_1736250_1737405
+*ZER:	o(eddw)n i (y)n meddwl yn gyntaf +"/. 1736250_1737405
 %eng:	I was thinking at first:
-*ZER:	+" oh@s:cym&spa na (e)fallai (.) dw i wedi wneud rywbeth (.) drwg . %snd:"patagonia28"_1737340_1740939
+*ZER:	+" oh@s:cym&spa na (e)fallai (.) dw i wedi wneud rywbeth (.) drwg . 1737340_1740939
 %eng:	"oh no, maybe I've done a bad thing"
-*ZER:	ond o(eddw)n i (y)n meddwl +"/ . %snd:"patagonia28"_1741113_1742306
+*ZER:	ond o(eddw)n i (y)n meddwl +"/. 1741113_1742306
 %eng:	but I thought:
-*ZER:	+" wel beth ? %snd:"patagonia28"_1742353_1743467
+*ZER:	+" wel beth ? 1742353_1743467
 %eng:	"well, what?
-*ZER:	dim_byd . %snd:"patagonia28"_1744920_1745622
+*ZER:	dim_byd . 1744920_1745622
 %eng:	nothing
-*ZER:	na does dim pwynt . %snd:"patagonia28"_1745854_1747404
+*ZER:	na does dim pwynt . 1745854_1747404
 %eng:	no, there's no point
-*ZER:	ac ar_ôl (..) xx +/ . %snd:"patagonia28"_1747974_1750668
+*ZER:	ac ar_ôl (..) xx +/. 1747974_1750668
 %eng:	and after ...
-*TOY:	ond (e)fallai mae hi wedi blino . %snd:"patagonia28"_1750522_1752101
+*TOY:	ond (e)fallai mae hi wedi blino . 1750522_1752101
 %eng:	but maybe she's tired
-*ZER:	ond +/ . %snd:"patagonia28"_1753234_1753548
+*ZER:	ond +/. 1753234_1753548
 %eng:	but...
-*TOY:	dim_ond hi sy (y)n dod (.) i (y)r dosbarth . %snd:"patagonia28"_1753501_1756149
+*TOY:	dim_ond hi sy (y)n dod (.) i (y)r dosbarth . 1753501_1756149
 %eng:	it's only her coming to the lesson
-*TOY:	mae hwnna (y)n anodd . %snd:"patagonia28"_1756425_1757604
+*TOY:	mae hwnna (y)n anodd . 1756425_1757604
 %eng:	that's hard
-*ZER:	+< ie mae (y)n ofnadwy . %snd:"patagonia28"_1756901_1758469
+*ZER:	+< ie mae (y)n ofnadwy . 1756901_1758469
 %eng:	yes, it's awful
-*ZER:	mae (y)n ofnadwy . %snd:"patagonia28"_1758469_1759455
+*ZER:	mae (y)n ofnadwy . 1758469_1759455
 %eng:	it's awful
-*TOY:	mae hwnna (y)n anodd i ti a anodd iddi hi hefyd . %snd:"patagonia28"_1759433_1762388
+*TOY:	mae hwnna (y)n anodd i ti a anodd iddi hi hefyd . 1759433_1762388
 %eng:	that's hard for you and hard for her as well
-*ZER:	ie mwy anodd <iddi hi> [?] dw i meddwl . %snd:"patagonia28"_1762391_1764777
+*ZER:	ie mwy anodd <iddi hi> [?] dw i meddwl . 1762391_1764777
 %eng:	yes, harder for her I think
-*TOY:	ond (e)fallai xx blwyddyn nesa (.) bydd hi (y)n gallu (.) dod gyda (..) grŵp arall . %snd:"patagonia28"_1766971_1773869
+*TOY:	ond (e)fallai xx blwyddyn nesa (.) bydd hi (y)n gallu (.) dod gyda (..) grŵp arall . 1766971_1773869
 %eng:	but maybe [..] next year she'll be able to come with another group
-*ZER:	+< ie gyda rhai +/ . %snd:"patagonia28"_1772076_1773097
+*ZER:	+< ie gyda rhai +/. 1772076_1773097
 %eng:	yes, with some...
-*ZER:	gobeithio achos ti isio hi fynd i [/] (..) i +/ . %snd:"patagonia28"_1775655_1780107
+*ZER:	gobeithio achos ti isio hi fynd i [/] (..) i +/. 1775655_1780107
 %eng:	hopefully, because you want her to go to...
-*TOY:	++ Llanymddyfri (.) i (y)r ysgol . %snd:"patagonia28"_1780154_1782209
+*TOY:	++ Llanymddyfri (.) i (y)r ysgol . 1780154_1782209
 %eng:	...Llandovery, to school
-*ZER:	i (y)r ysgol ie . %snd:"patagonia28"_1782721_1783824
+*ZER:	i (y)r ysgol ie . 1782721_1783824
 %eng:	to school, yes
-*ZER:	beth sy (y)n bod yn y (...) scholarship (.) beth +/ . %snd:"patagonia28"_1787225_1792391
+*ZER:	beth sy (y)n bod yn y (...) scholarship (.) beth +/. 1787225_1792391
 %eng:	what's up with the scholarship, the thing...
-*TOY:	ysgoloriaeth . %snd:"patagonia28"_1792096_1793054
+*TOY:	ysgoloriaeth . 1792096_1793054
 %eng:	scholarship
-*ZER:	(y)sgoloriaeth . %snd:"patagonia28"_1792994_1793941
+*ZER:	(y)sgoloriaeth . 1792994_1793941
 %eng:	scholarship
-*ZER:	dw i (y)n meddwl yn y Saesneg xx +// . %snd:"patagonia28"_1795177_1797342
+*ZER:	dw i (y)n meddwl yn y Saesneg xx +//. 1795177_1797342
 %eng:	I'm thinking in English
-*TOY:	+< dw i xxx gwybod . %snd:"patagonia28"_1795421_1796118
+*TOY:	+< dw i xxx gwybod . 1795421_1796118
 %eng:	I [...] know
-*ZER:	pan &d [/] pan dw i isio dweud rywbeth fi ddim yn gwybod (..) dw i (y)n meddwl y gair yn Saesneg ddim yn Sbaeneg . %snd:"patagonia28"_1796773_1802787
+*ZER:	pan &d [/] pan dw i isio dweud rywbeth fi ddim yn gwybod (..) dw i (y)n meddwl y gair yn Saesneg ddim yn Sbaeneg . 1796773_1802787
 %eng:	when I want to say something I don't know, I think of the word in English, not in Spanish
-*TOY:	ah@s:cym&spa . %snd:"patagonia28"_1803090_1803874
-*ZER:	wel dw i (y)n dweud hwn . %snd:"patagonia28"_1804931_1806419
+*TOY:	ah@s:cym&spa . 1803090_1803874
+*ZER:	wel dw i (y)n dweud hwn . 1804931_1806419
 %eng:	well, I say that
-*ZER:	achos [//] wel achos (.) o(eddw)n i (y)n arfer (.) wneud hwn yn [/] (..) yng Nghymry xx . %snd:"patagonia28"_1806460_1811545
+*ZER:	achos [//] wel achos (.) o(eddw)n i (y)n arfer (.) wneud hwn yn [/] (..) yng Nghymry xx . 1806460_1811545
 %eng:	because I used to doing that in Wales [..]
-*TOY:	yng Nghymry . %snd:"patagonia28"_1811319_1811754
+*TOY:	yng Nghymry . 1811319_1811754
 %eng:	in Wales
-*ZER:	xxx +/ . %snd:"patagonia28"_1813846_1814734
-*TOY:	+< a gyda Sian@s:cym&spa ti (y)n gallu +// . %snd:"patagonia28"_1813846_1815425
+*ZER:	xxx +/. 1813846_1814734
+*TOY:	+< a gyda Sian@s:cym&spa ti (y)n gallu +//. 1813846_1815425
 %eng:	and with Sian you can...
-*TOY:	<mae hwnna (y)dy (y)r unig beth> [?] (.) hefyd . %snd:"patagonia28"_1815431_1816668
+*TOY:	<mae hwnna (y)dy (y)r unig beth> [?] (.) hefyd . 1815431_1816668
 %eng:	that's the only thing, too
-*ZER:	oh@s:cym&spa ie . %snd:"patagonia28"_1816645_1817121
+*ZER:	oh@s:cym&spa ie . 1816645_1817121
 %eng:	oh yes
-*TOY:	os wyt ti (y)n dweud yn Saesneg mae hi (y)n gallu cyfieithu . %snd:"patagonia28"_1817133_1819501
+*TOY:	os wyt ti (y)n dweud yn Saesneg mae hi (y)n gallu cyfieithu . 1817133_1819501
 %eng:	if you say it in English she can translate
-*ZER:	ie . %snd:"patagonia28"_1819543_1820153
+*ZER:	ie . 1819543_1820153
 %eng:	yes
-*TOY:	+, i (y)r Cymraeg . %snd:"patagonia28"_1820322_1821240
+*TOY:	+, i (y)r Cymraeg . 1820322_1821240
 %eng:	...into Welsh
-*TOY:	oes (.) clwb dydd Sadwrn ? %snd:"patagonia28"_1822741_1824854
+*TOY:	oes (.) clwb dydd Sadwrn ? 1822741_1824854
 %eng:	is there club on Saturday
-*ZER:	does dim syniad (gy)da fi ! %snd:"patagonia28"_1825540_1826562
+*ZER:	does dim syniad (gy)da fi ! 1825540_1826562
 %eng:	I've no idea!
-*TOY:	ie siwr o fod . %snd:"patagonia28"_1826533_1827305
+*TOY:	ie siwr o fod . 1826533_1827305
 %eng:	yes, must be
-*TOY:	mae (y)na un yn yr ysgol (.) dw i meddwl . %snd:"patagonia28"_1827322_1829447
+*TOY:	mae (y)na un yn yr ysgol (.) dw i meddwl . 1827322_1829447
 %eng:	there's one in school, I think
-*ZER:	yn yr ysgol ? %snd:"patagonia28"_1829273_1830196
+*ZER:	yn yr ysgol ? 1829273_1830196
 %eng:	in school?
-*TOY:	dim yn y Rincón@s:spa del@s:spa Arte@s:spa achos dim_ond unwaith +.. . %snd:"patagonia28"_1831659_1834021
+*TOY:	dim yn y Rincón@s:spa del@s:spa Arte@s:spa achos dim_ond unwaith +... 1831659_1834021
 %eng:	not in the Art Corner because only once...
-*TOY:	achos mae Franco@s:cym&spa wedi baratoi (.) er@s:cym&spa gwers (.) arbennig (.) i (y)r plant . %snd:"patagonia28"_1835193_1840423
+*TOY:	achos mae Franco@s:cym&spa wedi baratoi (.) er@s:cym&spa gwers (.) arbennig (.) i (y)r plant . 1835193_1840423
 %eng:	because Franco's prepared a special lesson for the children
-*ZER:	mae Franco@s:cym&spa yn [?] xxx . %snd:"patagonia28"_1841877_1843636
+*ZER:	mae Franco@s:cym&spa yn [?] xxx . 1841877_1843636
 %eng:	Franco is [...]
-*TOY:	Franco@s:cym&spa +.. . %snd:"patagonia28"_1844153_1845215
-*ZER:	ah@s:cym&spa . %snd:"patagonia28"_1845179_1846078
-*TOY:	ie dw i (ddi)m yn gwybod xx +/ . %snd:"patagonia28"_1846046_1846847
+*TOY:	Franco@s:cym&spa +... 1844153_1845215
+*ZER:	ah@s:cym&spa . 1845179_1846078
+*TOY:	ie dw i (ddi)m yn gwybod xx +/. 1846046_1846847
 %eng:	yes I don't know
-*ZER:	ti (ddi)m yn cofio <(y)r enw> [//] y cyfenw na . %snd:"patagonia28"_1846708_1848513
-%eng:	you don't remember the name.. . surname, no.
-*TOY:	buest ti yn Rincón@s:spa del@s:spa Arte@s:spa (..) er@s:cym&spa rhywbryd ? %snd:"patagonia28"_1849889_1853685
+*ZER:	ti (ddi)m yn cofio <(y)r enw> [//] y cyfenw na . 1846708_1848513
+%eng:	you don't remember the name... surname, no.
+*TOY:	buest ti yn Rincón@s:spa del@s:spa Arte@s:spa (..) er@s:cym&spa rhywbryd ? 1849889_1853685
 %eng:	have you been to Art Corner er, any time?
-*TOY:	est ti (i)r xx +.. . %snd:"patagonia28"_1854370_1855633
+*TOY:	est ti (i)r xx +..? 1854370_1855633
 %eng:	did you go to [..] ?
-*ZER:	es i unwaith . %snd:"patagonia28"_1855617_1856848
+*ZER:	es i unwaith . 1855617_1856848
 %eng:	I went once
-*ZER:	a <roedd hwn> [?] ar gau &=laugh ! %snd:"patagonia28"_1857277_1859291
+*ZER:	a <roedd hwn> [?] ar gau &=laugh ! 1857277_1859291
 %eng:	and it was closed!
-*TOY:	ah@s:cym&spa xx . %snd:"patagonia28"_1859326_1860243
-*ZER:	+< &=laugh . %snd:"patagonia28"_1859703_1860657
-*TOY:	ond mae (y)n lle neis . %snd:"patagonia28"_1860610_1861916
+*TOY:	ah@s:cym&spa xx . 1859326_1860243
+*ZER:	+< &=laugh . 1859703_1860657
+*TOY:	ond mae (y)n lle neis . 1860610_1861916
 %eng:	but it's a nice place
-*ZER:	ydy . %snd:"patagonia28"_1862294_1862857
+*ZER:	ydy . 1862294_1862857
 %eng:	yes
-*ZER:	ydy hi (y)n fawr ? %snd:"patagonia28"_1863200_1864239
+*ZER:	ydy hi (y)n fawr ? 1863200_1864239
 %eng:	is it big?
-*ZER:	achos oedd yn edrych yn xx +/ . %snd:"patagonia28"_1864273_1865829
+*ZER:	achos oedd yn edrych yn xx +/. 1864273_1865829
 %eng:	because it looked...
-*TOY:	na mae hi (y)n bach . %snd:"patagonia28"_1865770_1866873
+*TOY:	na mae hi (y)n bach . 1865770_1866873
 %eng:	no, it's small
-*TOY:	ond mae (y)na llawer o bethau . %snd:"patagonia28"_1867191_1868555
+*TOY:	ond mae (y)na llawer o bethau . 1867191_1868555
 %eng:	but there are lots of things
-*TOY:	maen nhw (y)n (..) gwneud llawer o bethau . %snd:"patagonia28"_1868555_1870749
+*TOY:	maen nhw (y)n (..) gwneud llawer o bethau . 1868555_1870749
 %eng:	they do lots of things
-*TOY:	paentio (.) um +.. . %snd:"patagonia28"_1870815_1873422
+*TOY:	paentio (.) um +... 1870815_1873422
 %eng:	painting, um...
-*TOY:	beth yw (y)r +//? %snd:"patagonia28"_1874279_1874941
+*TOY:	beth yw (y)r +//? 1874279_1874941
 %eng:	what's the...
-*TOY:	xxx . %snd:"patagonia28"_1875644_1877054
-*ZER:	wir ? %snd:"patagonia28"_1877397_1877849
+*TOY:	xxx . 1875644_1877054
+*ZER:	wir ? 1877397_1877849
 %eng:	really?
-*TOY:	xx . %snd:"patagonia28"_1879601_1880182
+*TOY:	xx . 1879601_1880182
 %eng:	[...]
-*TOY:	ond <maen nhw (y)n> [/] (..) maen nhw (y)n da <fydda i (y)n> [?] meddwl . %snd:"patagonia28"_1881548_1884856
+*TOY:	ond <maen nhw (y)n> [/] (..) maen nhw (y)n da <fydda i (y)n> [?] meddwl . 1881548_1884856
 %eng:	but they're good, I should think
-*TOY:	raid i ti talu pedwar (.) deg peso@s:cym&spa pob mis . %snd:"patagonia28"_1885426_1888892
+*TOY:	raid i ti talu pedwar (.) deg peso@s:cym&spa pob mis . 1885426_1888892
 %eng:	you have to pay 40 pesos per month
-*ZER:	mmhm . %snd:"patagonia28"_1888974_1889404
-*TOY:	ti (y)n gallu mynd dwywaith yr wythnos . %snd:"patagonia28"_1889456_1891824
+*ZER:	mmhm . 1888974_1889404
+*TOY:	ti (y)n gallu mynd dwywaith yr wythnos . 1889456_1891824
 %eng:	you can go twice a week
-*TOY:	awr a hanner (.) dw i meddwl . %snd:"patagonia28"_1892235_1894157
+*TOY:	awr a hanner (.) dw i meddwl . 1892235_1894157
 %eng:	an hour and a half, I think
-*ZER:	so fe (y)n drud o_gwbl . %snd:"patagonia28"_1895037_1896233
+*ZER:	so fe (y)n drud o_gwbl . 1895037_1896233
 %eng:	it's not expensive at all
-*TOY:	na . %snd:"patagonia28"_1896198_1896645
+*TOY:	na . 1896198_1896645
 %eng:	no
-*TOY:	na mae (y)n da dw i meddwl . %snd:"patagonia28"_1900038_1901228
+*TOY:	na mae (y)n da dw i meddwl . 1900038_1901228
 %eng:	no, it's good I think
-*TOY:	hoffwn i fynd i [/] (..) i ddysgu sut i baentio . %snd:"patagonia28"_1902103_1906027
+*TOY:	hoffwn i fynd i [/] (..) i ddysgu sut i baentio . 1902103_1906027
 %eng:	I'd like to learn to paint
-*ZER:	o(eddw)n i (y)n clywed roedd y (..) italiano@s:spa (.) Italian whatever +// . %snd:"patagonia28"_1906716_1912903
+*ZER:	o(eddw)n i (y)n clywed roedd y (..) italiano@s:spa (.) Italian whatever +//. 1906716_1912903
 %eng:	I heard that Italian...
-*ZER:	dw (ddi)m yn gwybod y xx +/ . %snd:"patagonia28"_1913143_1914107
+*ZER:	dw (ddi)m yn gwybod y xx +/. 1913143_1914107
 %eng:	I don't know the
-*TOY:	yr Eidal ? %snd:"patagonia28"_1913898_1914786
+*TOY:	yr Eidal ? 1913898_1914786
 %eng:	Italy?
-*TOY:	rhywun o (y)r Eidal ? %snd:"patagonia28"_1915198_1916278
+*TOY:	rhywun o (y)r Eidal ? 1915198_1916278
 %eng:	someone from Italy?
-*ZER:	na na yr [/] er@s:cym&spa yr er@s:cym&spa er@s:cym&spa iaith . %snd:"patagonia28"_1916585_1918901
+*ZER:	na na yr [/] er@s:cym&spa yr er@s:cym&spa er@s:cym&spa iaith . 1916585_1918901
 %eng:	no, the language
-*TOY:	ah@s:cym&spa (.) Eidaleg . %snd:"patagonia28"_1919573_1921813
+*TOY:	ah@s:cym&spa (.) Eidaleg . 1919573_1921813
 %eng:	oh, Italian
-*ZER:	Eidaleg mae [?] +.. . %snd:"patagonia28"_1922349_1924074
+*ZER:	Eidaleg mae [?] +... 1922349_1924074
 %eng:	Italian, it's...
-*ZER:	o(eddw)n i isio (.) dysgu hwn . %snd:"patagonia28"_1924894_1926375
+*ZER:	o(eddw)n i isio (.) dysgu hwn . 1924894_1926375
 %eng:	I wanted to learn this
-*ZER:	ond mae gormod o iaith . %snd:"patagonia28"_1926375_1927936
+*ZER:	ond mae gormod o iaith . 1926375_1927936
 %eng:	but it's too much language
-*TOY:	yn Rincón@s:spa del@s:spa Arte@s:spa ? %snd:"patagonia28"_1928371_1929486
+*TOY:	yn Rincón@s:spa del@s:spa Arte@s:spa ? 1928371_1929486
 %eng:	in Art Corner?
-*ZER:	ie (.) o(eddw)n i (y)n clywed +// . %snd:"patagonia28"_1929576_1931010
+*ZER:	ie (.) o(eddw)n i (y)n clywed +//. 1929576_1931010
 %eng:	yes, I heard...
-*ZER:	achos roedd um +// . %snd:"patagonia28"_1931269_1933841
+*ZER:	achos roedd um +//. 1931269_1933841
 %eng:	because...
-*ZER:	beth yw enw hi ? %snd:"patagonia28"_1933858_1934886
+*ZER:	beth yw enw hi ? 1933858_1934886
 %eng:	what's her name?
-*ZER:	Oliveria@s:cym&spa ? %snd:"patagonia28"_1935797_1936587
-*TOY:	&=noise . %snd:"patagonia28"_1936876_1937253
-*ZER:	Oliveria@s:cym&spa &=laugh ? %snd:"patagonia28"_1937399_1938130
-*ZER:	er@s:cym&spa mae hi isio ddechrau . %snd:"patagonia28"_1938767_1940416
+*ZER:	Oliveria@s:cym&spa ? 1935797_1936587
+*TOY:	&=noise . 1936876_1937253
+*ZER:	Oliveria@s:cym&spa &=laugh ? 1937399_1938130
+*ZER:	er@s:cym&spa mae hi isio ddechrau . 1938767_1940416
 %eng:	er, she wants to start
-*ZER:	ond (.) roedd hi isio dechrau . %snd:"patagonia28"_1940462_1942476
+*ZER:	ond (.) roedd hi isio dechrau . 1940462_1942476
 %eng:	but, she did want to start
-*ZER:	dw i (ddi)m yn siwr nawr . %snd:"patagonia28"_1942890_1944179
+*ZER:	dw i (ddi)m yn siwr nawr . 1942890_1944179
 %eng:	I'm not sure now
-*TOY:	a mae Oliveria@s:cym&spa yn mynd i Gymru (..) diwedd <y flwyddyn> [?] (.) neu (..) mis Ionawr ? %snd:"patagonia28"_1945656_1951610
+*TOY:	a mae Oliveria@s:cym&spa yn mynd i Gymru (..) diwedd <y flwyddyn> [?] (.) neu (..) mis Ionawr ? 1945656_1951610
 %eng:	and Oliveria's going to Wales, at the end of the year, or in January?
-*TOY:	beth mae +/? %snd:"patagonia28"_1952123_1952704
+*TOY:	beth mae +/? 1952123_1952704
 %eng:	what is..?
-*ZER:	dim [?] yn siwr . %snd:"patagonia28"_1952355_1953545
+*ZER:	dim [?] yn siwr . 1952355_1953545
 %eng:	not sure
-*TOY:	ar_ôl Nadolig dw i (y)n meddwl . %snd:"patagonia28"_1955980_1957489
+*TOY:	ar_ôl Nadolig dw i (y)n meddwl . 1955980_1957489
 %eng:	after Christmas, I think
-*ZER:	aw@s:cym&spa does dim pwynt . %snd:"patagonia28"_1958474_1959821
+*ZER:	aw@s:cym&spa does dim pwynt . 1958474_1959821
 %eng:	oh, there's no point
-*TOY:	pam ? %snd:"patagonia28"_1960140_1960616
+*TOY:	pam ? 1960140_1960616
 %eng:	why?
-*ZER:	&i achos dw i (y)n hoffi . %snd:"patagonia28"_1960656_1962166
+*ZER:	&i achos dw i (y)n hoffi . 1960656_1962166
 %eng:	because I like it
-*ZER:	mae [/] mae (y)n neis i (.) ffeindio mas (.) sut mae (y)r Nadolig rhywle arall na(g)_(y)fe ? %snd:"patagonia28"_1962140_1967098
+*ZER:	mae [/] mae (y)n neis i (.) ffeindio mas (.) sut mae (y)r Nadolig rhywle arall na(g)_(y)fe ? 1962140_1967098
 %eng:	it's nice to find out what Christmas is like somewhere else isn't it?
-*TOY:	+< ie . %snd:"patagonia28"_1966408_1966646
+*TOY:	+< ie . 1966408_1966646
 %eng:	yes
-*ZER:	a mae [/] mae [/] mae wahanol iawn yng Nghymru . %snd:"patagonia28"_1969115_1971763
+*ZER:	a mae [/] mae [/] mae wahanol iawn yng Nghymru . 1969115_1971763
 %eng:	and it's very different in Wales
-*ZER:	neis oh@s:cym&spa ! %snd:"patagonia28"_1973041_1974759
+*ZER:	neis oh@s:cym&spa ! 1973041_1974759
 %eng:	nice, oh!
-*TOY:	maen nhw (y)n +// . %snd:"patagonia28"_1975645_1976627
+*TOY:	maen nhw (y)n +//. 1975645_1976627
 %eng:	they...
-*ZER:	xx +/ . %snd:"patagonia28"_1976638_1977073
-*TOY:	o(eddw)n i (y)n hoffi (y)r crackers . %snd:"patagonia28"_1977039_1979047
+*ZER:	xx +/. 1976638_1977073
+*TOY:	o(eddw)n i (y)n hoffi (y)r crackers . 1977039_1979047
 %eng:	I liked the crackers
-*TOY:	welest ti (y)r crackers ? %snd:"patagonia28"_1979808_1980807
+*TOY:	welest ti (y)r crackers ? 1979808_1980807
 %eng:	did you see the crackers?
-*ZER:	do [=! laughs] ! %snd:"patagonia28"_1980882_1981858
+*ZER:	do [=! laughs] ! 1980882_1981858
 %eng:	yes!
-*ZER:	o(eddw)n i (y)n meddwl +"/ . %snd:"patagonia28"_1981916_1982488
+*ZER:	o(eddw)n i (y)n meddwl +"/. 1981916_1982488
 %eng:	I was thinking:
-*ZER:	+" tybed ta [?] beth yw fe ? %snd:"patagonia28"_1982494_1983829
+*ZER:	+" tybed ta [?] beth yw fe ? 1982494_1983829
 %eng:	"I wonder what it is!
-*TOY:	mae (y)n edrych fel losin mawr &=laugh ! %snd:"patagonia28"_1983815_1986340
+*TOY:	mae (y)n edrych fel losin mawr &=laugh ! 1983815_1986340
 %eng:	it looks like a big sweet!
-*ZER:	a mae crackers ["] yn swnio fel bisgedi ti wybod ? %snd:"patagonia28"_1986309_1989461
+*ZER:	a mae crackers ["] yn swnio fel bisgedi ti wybod ? 1986309_1989461
 %eng:	and "crackers" sounds like biscuits, you know?
-*TOY:	ie . %snd:"patagonia28"_1989260_1989678
+*TOY:	ie . 1989260_1989678
 %eng:	yes
-*ZER:	ac o(eddw)n i meddwl +"/ . %snd:"patagonia28"_1989781_1990495
+*ZER:	ac o(eddw)n i meddwl +"/. 1989781_1990495
 %eng:	and I was thinking:
-*ZER:	+" oedd (y)na bisged tu mewn ? %snd:"patagonia28"_1990495_1991935
+*ZER:	+" oedd (y)na bisged tu mewn ? 1990495_1991935
 %eng:	"was there a biscuit inside?
-*ZER:	&=laugh achos roedd yn rownd xx +.. . %snd:"patagonia28"_1991924_1993996
+*ZER:	&=laugh achos roedd yn rownd xx +... 1991924_1993996
 %eng:	because it was round [..]...
-*TOY:	ie . %snd:"patagonia28"_1994840_1995176
+*TOY:	ie . 1994840_1995176
 %eng:	yes
-*ZER:	wel mae hwnna (y)n syniad dda . %snd:"patagonia28"_1995224_1996745
+*ZER:	wel mae hwnna (y)n syniad dda . 1995224_1996745
 %eng:	well, that's a good idea
-*ZER:	llun (gy)da fi gyda (y)r crown &=laugh ! %snd:"patagonia28"_1997126_1999935
+*ZER:	llun (gy)da fi gyda (y)r crown &=laugh ! 1997126_1999935
 %eng:	I've got a picture with the crown!
-*TOY:	+< &=laugh . %snd:"patagonia28"_1998935_2000288
-*ZER:	xxx . %snd:"patagonia28"_2001619_2002577
-*ZER:	ond diddorol iawn . %snd:"patagonia28"_2004203_2005242
+*TOY:	+< &=laugh . 1998935_2000288
+*ZER:	xxx . 2001619_2002577
+*ZER:	ond diddorol iawn . 2004203_2005242
 %eng:	but very interesting
-*TOY:	ie mae yn wahanol iawn i ni . %snd:"patagonia28"_2007392_2009406
+*TOY:	ie mae yn wahanol iawn i ni . 2007392_2009406
 %eng:	yes it is very different from us
-*TOY:	pawb yn cael twrci (.) a (.) pwdin Nadolig . %snd:"patagonia28"_2010872_2014448
+*TOY:	pawb yn cael twrci (.) a (.) pwdin Nadolig . 2010872_2014448
 %eng:	everyone having turkey and Christmas pudding
-*TOY:	a fan_hyn dan ni (y)n cael (..) asado@s:spa . %snd:"patagonia28"_2014919_2018024
+*TOY:	a fan_hyn dan ni (y)n cael (..) asado@s:spa . 2014919_2018024
 %eng:	and here we have "asado" [barbecue]
-*ZER:	ie . %snd:"patagonia28"_2018704_2019313
+*ZER:	ie . 2018704_2019313
 %eng:	yes
-*TOY:	oen neu +.. . %snd:"patagonia28"_2020719_2021804
+*TOY:	oen neu +... 2020719_2021804
 %eng:	a lamb, or...
-*ZER:	ond dan ni (y)n cael swper timod . %snd:"patagonia28"_2022195_2024314
+*ZER:	ond dan ni (y)n cael swper timod . 2022195_2024314
 %eng:	but we have dinner, you know
-*TOY:	+< +, cig moch . %snd:"patagonia28"_2023268_2023895
+*TOY:	+< +, cig moch . 2023268_2023895
 %eng:	...pork
-*ZER:	wel (.) hefyd . %snd:"patagonia28"_2026079_2027414
+*ZER:	wel (.) hefyd . 2026079_2027414
 %eng:	well, as well.
-*TOY:	wel dan ni (y)n cael swper (.) a +/ . %snd:"patagonia28"_2027385_2029754
+*TOY:	wel dan ni (y)n cael swper (.) a +/. 2027385_2029754
 %eng:	well, we have dinner, and...
-*ZER:	++ cinio a swper eto &=laugh ! %snd:"patagonia28"_2029871_2032514
+*ZER:	++ cinio a swper eto &=laugh ! 2029871_2032514
 %eng:	...lunch, and dinner again!
-*TOY:	a dydd Nadolig dan ni (y)n cael asado@s:spa xx . %snd:"patagonia28"_2033632_2035890
+*TOY:	a dydd Nadolig dan ni (y)n cael asado@s:spa xx . 2033632_2035890
 %eng:	and Christmas day we have a barbecue [..]
-*ZER:	ie . %snd:"patagonia28"_2036911_2037212
+*ZER:	ie . 2036911_2037212
 %eng:	yes
-*TOY:	fel arfer adre dan ni (y)n cael (.) um (..) swper (..) oer (.) fel (.) cyw iar (.) a pethau fach . %snd:"patagonia28"_2037202_2047526
+*TOY:	fel arfer adre dan ni (y)n cael (.) um (..) swper (..) oer (.) fel (.) cyw iar (.) a pethau fach . 2037202_2047526
 %eng:	usually at home we have a cold dinner, like chicken and little things
-*ZER:	+< ie . %snd:"patagonia28"_2045543_2046101
+*ZER:	+< ie . 2045543_2046101
 %eng:	yes
-*TOY:	a wedyn (..) dirwnod Nadolig dan ni (y)n cael (.) asado@s:spa . %snd:"patagonia28"_2048792_2053401
+*TOY:	a wedyn (..) dirwnod Nadolig dan ni (y)n cael (.) asado@s:spa . 2048792_2053401
 %eng:	and then Christmas day we have a barbecue
-*ZER:	ie . %snd:"patagonia28"_2054352_2054869
+*ZER:	ie . 2054352_2054869
 %eng:	yes
-*ZER:	wel dan ni (y)n cael (...) asado@s:spa al@s:spa horno@s:spa . %snd:"patagonia28"_2055381_2060449
+*ZER:	wel dan ni (y)n cael (...) asado@s:spa al@s:spa horno@s:spa . 2055381_2060449
 %eng:	well we have an oven barbecue
-*TOY:	ah@s:cym&spa . %snd:"patagonia28"_2060748_2061189
-*ZER:	yn y nos . %snd:"patagonia28"_2061492_2062467
+*TOY:	ah@s:cym&spa . 2060748_2061189
+*ZER:	yn y nos . 2061492_2062467
 %eng:	in the evening
-*ZER:	noson Nadolig (..) noson cyn +// . %snd:"patagonia28"_2062806_2065946
-%eng:	Christmas night.. . the night before...
-*ZER:	beth yw <Christmas Eve> ["] ? %snd:"patagonia28"_2066118_2068237
+*ZER:	noson Nadolig (..) noson cyn +//. 2062806_2065946
+%eng:	Christmas night... the night before...
+*ZER:	beth yw <Christmas Eve> ["] ? 2066118_2068237
 %eng:	what's "Christmas Eve"?
-*ZER:	[- spa] qué cómo se dice esto ? %snd:"patagonia28"_2068721_2070097
+*ZER:	[- spa] qué cómo se dice esto ? 2068721_2070097
 %eng:	how do you say this ?
-*ZER:	dim yn cofio . %snd:"patagonia28"_2070793_2071653
+*ZER:	dim yn cofio . 2070793_2071653
 %eng:	don't remember
-*TOY:	+< xxx . %snd:"patagonia28"_2070973_2071473
-*ZER:	wel ac +.. . %snd:"patagonia28"_2072250_2074613
+*TOY:	+< xxx . 2070973_2071473
+*ZER:	wel ac +... 2072250_2074613
 %eng:	well, and...
-*ZER:	ie &d diwrnod ar_ôl dan ni mynd mas a cael asado@s:spa ambell waith . %snd:"patagonia28"_2075878_2079826
+*ZER:	ie &d diwrnod ar_ôl dan ni mynd mas a cael asado@s:spa ambell waith . 2075878_2079826
 %eng:	yes, the day afterwards we go out and have a barbecue now and again
-*ZER:	<does dim lot o xx> [=! laughs] ! %snd:"patagonia28"_2079798_2082242
+*ZER:	<does dim lot o xx> [=! laughs] ! 2079798_2082242
 %eng:	there's not much [..] !
-*TOY:	+< ie mae (y)n dibynnu . %snd:"patagonia28"_2081428_2082479
+*TOY:	+< ie mae (y)n dibynnu . 2081428_2082479
 %eng:	yes, it depends
-*ZER:	ond +/ . %snd:"patagonia28"_2083588_2084081
+*ZER:	ond +/. 2083588_2084081
 %eng:	but...
-*TOY:	cwrdd â (y)r teulu neu ffrindiau . %snd:"patagonia28"_2083965_2086066
+*TOY:	cwrdd â (y)r teulu neu ffrindiau . 2083965_2086066
 %eng:	meeting with family or friends
-*ZER:	oh@s:cym&spa mynd allan timod fel (..) (ba)sa i (y)n siwr Las_Torres@s:cym&spa neu +/ . %snd:"patagonia28"_2086392_2091734
+*ZER:	oh@s:cym&spa mynd allan timod fel (..) (ba)sa i (y)n siwr Las_Torres@s:cym&spa neu +/. 2086392_2091734
 %eng:	oh, going out, you know, like, I'm not sure, Las Torres or...
-*TOY:	+< ie mynd i (y)r afon neu mynd i (.) lle xxx neu rywle . %snd:"patagonia28"_2091362_2095118
+*TOY:	+< ie mynd i (y)r afon neu mynd i (.) lle xxx neu rywle . 2091362_2095118
 %eng:	yes, going to the river, or going to the [...] place or somewhere
-*ZER:	ie achos mae hi (y)n braf . %snd:"patagonia28"_2095212_2096399
+*ZER:	ie achos mae hi (y)n braf . 2095212_2096399
 %eng:	yes, because the weather's fine
-*TOY:	ydy . %snd:"patagonia28"_2096422_2096713
+*TOY:	ydy . 2096422_2096713
 %eng:	yes
-*ZER:	mae hi (y)n oer ofnadwy yng Nghymru . %snd:"patagonia28"_2097066_2098778
+*ZER:	mae hi (y)n oer ofnadwy yng Nghymru . 2097066_2098778
 %eng:	it's terribly cold in Wales
-*TOY:	mmm . %snd:"patagonia28"_2099316_2100053
-*TOY:	ie achos mae <(y)n wir> [?] . %snd:"patagonia28"_2101086_2102107
+*TOY:	mmm . 2099316_2100053
+*TOY:	ie achos mae <(y)n wir> [?] . 2101086_2102107
 %eng:	yes, because it's true
-*TOY:	maen nhw yn y gaea (..) a dan ni yn y (.) haf . %snd:"patagonia28"_2102403_2105973
+*TOY:	maen nhw yn y gaea (..) a dan ni yn y (.) haf . 2102403_2105973
 %eng:	they're in the winter, and we're in the summer
 @End

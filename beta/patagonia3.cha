@@ -12,7 +12,7 @@
 @Time Duration:	00:28:44
 @Media:	Patagonia3, audio
 @Comment:	Filename: Patagonia3.CHA; Soundfile: Patagonia3.WAV
-@Comment:	Language markers:  @s:eng = English, @s:spa = Spanish @0 = Undetermined
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *CAR:	ond mae plant a [/] a (y)r rhai ifanc nawr isio popeth yn hwylus . 11_3984
 %eng:	but children and young people now want everything to be convenient
 *PIL:	yndyn . 4139_4512

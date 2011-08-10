@@ -13,2069 +13,2069 @@
 @Time Duration:	00:30:02
 @Media:	Patagonia38, audio
 @Comment:	Filename: Patagonia38.CHA; Soundfile: Patagonia38.WAV
-@Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish
-*ESF:	dw i byth yn clywed (.) <yn siarad> [//] fy nhad yn siarad Cymraeg gyda neb . %snd:"patagonia38"_16_4496
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
+*ESF:	dw i byth yn clywed (.) <yn siarad> [//] fy nhad yn siarad Cymraeg gyda neb . 16_4496
 %eng:	I never hear my father speaking Welsh with anyone
-*INE:	+< na . %snd:"patagonia38"_3243_3547
+*INE:	+< na . 3243_3547
 %eng:	no
-*ESF:	na . %snd:"patagonia38"_5359_5737
+*ESF:	na . 5359_5737
 %eng:	no
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_5817_6201
-*ESF:	+< ie . %snd:"patagonia38"_5908_6329
+*INE:	ah@s:cym&spa . 5817_6201
+*ESF:	+< ie . 5908_6329
 %eng:	yes
-*INE:	fy nhad hefyd . %snd:"patagonia38"_6607_7983
+*INE:	fy nhad hefyd . 6607_7983
 %eng:	my father too
-*INE:	<pan o(edde)n> [/] pan o(edde)n nhw (y)n blentyn &=laugh +/ . %snd:"patagonia38"_8713_11417
+*INE:	<pan o(edde)n> [/] pan o(edde)n nhw (y)n blentyn &=laugh +/. 8713_11417
 %eng:	when they were children...
-*ESF:	ia dim_ond Cymraeg . %snd:"patagonia38"_11879_12967
+*ESF:	ia dim_ond Cymraeg . 11879_12967
 %eng:	yes, only Welsh
-*INE:	+, dim_ond siarad Cymraeg yn y teulu (.) meddai fy nain . %snd:"patagonia38"_12609_15926
+*INE:	+, dim_ond siarad Cymraeg yn y teulu (.) meddai fy nain . 12609_15926
 %eng:	only speaking Welsh in the family, my grandmother said
-*ESF:	[- spa] +< claro . %snd:"patagonia38"_13777_14139
+*ESF:	[- spa] +< claro . 13777_14139
 %eng:	sure
-*ESF:	+< a [/] a pam ? %snd:"patagonia38"_15367_16317
+*ESF:	+< a [/] a pam ? 15367_16317
 %eng:	and why?
-*INE:	a &p <pam o(eddw)n> [/] pan o(eddw)n i (y)n plentyn . %snd:"patagonia38"_16007_20157
+*INE:	a &p <pam o(eddw)n> [/] pan o(eddw)n i (y)n plentyn . 16007_20157
 %eng:	and when I was a child
-*ESF:	+< ia (.) pam ? %snd:"patagonia38"_16690_17906
+*ESF:	+< ia (.) pam ? 16690_17906
 %eng:	yes, why?
-*ESF:	[- spa] sí . %snd:"patagonia38"_19495_19970
+*ESF:	[- spa] sí . 19495_19970
 %eng:	yes
-*INE:	o(eddw)n i (y)n clywed (.) siarad Cymraeg fy nhad a fy nain (.) trwy (y)r amser . %snd:"patagonia38"_20462_26958
+*INE:	o(eddw)n i (y)n clywed (.) siarad Cymraeg fy nhad a fy nain (.) trwy (y)r amser . 20462_26958
 %eng:	I used to hear my father and my grandmother speaking Welsh all the time
-*INE:	pam ? %snd:"patagonia38"_27614_28457
+*INE:	pam ? 27614_28457
 %eng:	why?
-*INE:	achos (.) (wn)aethon ni ddim (.) eh@s:cym&spa deall Cymraeg . %snd:"patagonia38"_28751_35471
+*INE:	achos (.) (wn)aethon ni ddim (.) eh@s:cym&spa deall Cymraeg . 28751_35471
 %eng:	because we didn't understand Welsh
-*ESF:	+< ie . %snd:"patagonia38"_28858_29498
+*ESF:	+< ie . 28858_29498
 %eng:	yes
-*ESF:	+< xxx . %snd:"patagonia38"_34938_35535
-*INE:	felly +.. . %snd:"patagonia38"_35535_37327
+*ESF:	+< xxx . 34938_35535
+*INE:	felly +... 35535_37327
 %eng:	so...
-*ESF:	+< ah@s:cym&spa ia . %snd:"patagonia38"_35684_36772
+*ESF:	+< ah@s:cym&spa ia . 35684_36772
 %eng:	ah, yes
-*ESF:	ia . %snd:"patagonia38"_37647_38415
+*ESF:	ia . 37647_38415
 %eng:	yes
-*INE:	[- spa] hablaban en +.. . %snd:"patagonia38"_39140_40527
+*INE:	[- spa] hablaban en +... 39140_40527
 %eng:	they were talking in...
-*ESF:	[- spa] +< xxx sí sí sí . %snd:"patagonia38"_39930_42404
-%eng:	.. . yes yes yes
-*ESF:	Juanita@s:cym&spa ! %snd:"patagonia38"_44216_45464
+*ESF:	[- spa] +< xxx sí sí sí . 39930_42404
+%eng:	... yes yes yes
+*ESF:	Juanita@s:cym&spa ! 44216_45464
 %com:	addressing the baby.
-*INE:	ar_ôl mae [/] mae o (y)n (.) ddim siarad Cymraeg (..) dim neb . %snd:"patagonia38"_47178_56308
+*INE:	ar_ôl mae [/] mae o (y)n (.) ddim siarad Cymraeg (..) dim neb . 47178_56308
 %eng:	afterwards he doesn't speak Welsh, none, nobody
-*ESF:	a [/] a wedyn wyt ti (y)n gallu siarad Cymraeg gyda dy [/] dy [/] dy dad (.) nawr ? %snd:"patagonia38"_57005_62413
+*ESF:	a [/] a wedyn wyt ti (y)n gallu siarad Cymraeg gyda dy [/] dy [/] dy dad (.) nawr ? 57005_62413
 %eng:	and then can you speak Welsh with your father now?
-*INE:	+< felly +.. . %snd:"patagonia38"_57453_57976
+*INE:	+< felly +... 57453_57976
 %eng:	so...
-*INE:	+< fy nhad ? %snd:"patagonia38"_61656_62541
+*INE:	+< fy nhad ? 61656_62541
 %eng:	my father?
-*INE:	er@s:cym&spa tipyn bach . %snd:"patagonia38"_62908_64252
+*INE:	er@s:cym&spa tipyn bach . 62908_64252
 %eng:	er, a little bit
-*INE:	mae o (y)n (.) cofio . %snd:"patagonia38"_66611_68638
+*INE:	mae o (y)n (.) cofio . 66611_68638
 %eng:	he remembers
-*ESF:	a mae o ddim yn cofio +// . %snd:"patagonia38"_69651_70697
+*ESF:	a mae o ddim yn cofio +//. 69651_70697
 %eng:	and he doesn't remember...
-*ESF:	ai@s:cym&spa ! %snd:"patagonia38"_70825_71465
-*ESF:	ah@s:cym&spa &=blows_rasberry . %snd:"patagonia38"_72382_73513
-*ESF:	[- spa] era el celular . %snd:"patagonia38"_73689_75534
+*ESF:	ai@s:cym&spa ! 70825_71465
+*ESF:	ah@s:cym&spa &=blows_rasberry . 72382_73513
+*ESF:	[- spa] era el celular . 73689_75534
 %eng:	it was the cellphone
-*INE:	[- spa] sí [=! laugh] . %snd:"patagonia38"_75619_76078
+*INE:	[- spa] sí [=! laugh] . 75619_76078
 %eng:	yes
-*INE:	mae [/] mae o (y)n cofio . %snd:"patagonia38"_76259_77817
+*INE:	mae [/] mae o (y)n cofio . 76259_77817
 %eng:	he remembers
-*INE:	ond (.) dw i ddim deall +.. . %snd:"patagonia38"_78628_82159
+*INE:	ond (.) dw i ddim deall +... 78628_82159
 %eng:	but I don't understand...
-*ESF:	Anto@s:cym&spa . %snd:"patagonia38"_84548_85401
-*INE:	achos +/ . %snd:"patagonia38"_86132_86964
+*ESF:	Anto@s:cym&spa . 84548_85401
+*INE:	achos +/. 86132_86964
 %eng:	because...
-*ESF:	a dwyt ti ddim yn deall dy dad ? %snd:"patagonia38"_87081_88969
+*ESF:	a dwyt ti ddim yn deall dy dad ? 87081_88969
 %eng:	and you don't understand your father?
-*INE:	ie achos mae o (y)n +/ . %snd:"patagonia38"_89076_91209
+*INE:	ie achos mae o (y)n +/. 89076_91209
 %eng:	yes, because he...
-*ESF:	+< wel mae <accent yn yn> [//] acen yn [/] yn wahanol . %snd:"patagonia38"_89929_93332
+*ESF:	+< wel mae <accent yn yn> [//] acen yn [/] yn wahanol . 89929_93332
 %eng:	well, the accent is different
-*INE:	+< xxx . %snd:"patagonia38"_91401_91817
-*INE:	mm accent a mae o (y)n siarad yn caled . %snd:"patagonia38"_92222_95860
+*INE:	+< xxx . 91401_91817
+*INE:	mm accent a mae o (y)n siarad yn caled . 92222_95860
 %eng:	mm, accent, and he speaks quite hard
-*ESF:	[- spa] y qué ? %snd:"patagonia38"_96137_96585
+*ESF:	[- spa] y qué ? 96137_96585
 %eng:	and what ?
-*INE:	caled . %snd:"patagonia38"_96606_97150
+*INE:	caled . 96606_97150
 %eng:	hard
-*INE:	[- spa] duro . %snd:"patagonia38"_97172_97630
+*INE:	[- spa] duro . 97172_97630
 %eng:	hard
-*ESF:	ia ? %snd:"patagonia38"_97850_98576
+*ESF:	ia ? 97850_98576
 %eng:	really?
-*INE:	ie viste@s:spa el@s:spa +//? %snd:"patagonia38"_98650_100218
+*INE:	ie viste@s:spa el@s:spa +//? 98650_100218
 %eng:	yes, you see, the...
-*INE:	[- spa] un acento duro . %snd:"patagonia38"_100112_102181
+*INE:	[- spa] un acento duro . 100112_102181
 %eng:	a hard accent
-*ESF:	[- spa] +< duro . %snd:"patagonia38"_101579_102112
+*ESF:	[- spa] +< duro . 101579_102112
 %eng:	hard
-*ESF:	[- spa] sí sí duro y como trabado . %snd:"patagonia38"_102326_104614
+*ESF:	[- spa] sí sí duro y como trabado . 102326_104614
 %eng:	yes yes, hard and like stuttering
-*INE:	[- spa] +< cerrado . %snd:"patagonia38"_103789_105810
+*INE:	[- spa] +< cerrado . 103789_105810
 %eng:	closed
-*INE:	[- spa] trabado viste . %snd:"patagonia38"_104626_105639
+*INE:	[- spa] trabado viste . 104626_105639
 %eng:	stuttering, see ?
-*ESF:	[- spa] sí sí sí . %snd:"patagonia38"_105485_106392
+*ESF:	[- spa] sí sí sí . 105485_106392
 %eng:	yes yes yes
-*INE:	[- spa] entonces (.) muy nasal no sé muy así viste xxx . %snd:"patagonia38"_106062_110163
+*INE:	[- spa] entonces (.) muy nasal no sé muy así viste xxx . 106062_110163
 %eng:	then, very nasal, I don't know, very much like this, see
-*INE:	a@s:spa mis@s:spa tías@s:spa tampoco@s:spa les@s:spa entiendo@s:spa eh@s:cym&spa ? %snd:"patagonia38"_110208_112838
+*INE:	a@s:spa mis@s:spa tías@s:spa tampoco@s:spa les@s:spa entiendo@s:spa eh@s:cym&spa ? 110208_112838
 %eng:	I don't understand my aunts either, eh?
-*ESF:	[- spa] +< ni papa . %snd:"patagonia38"_111416_112291
+*ESF:	[- spa] +< ni papa . 111416_112291
 %eng:	not a word
-*ESF:	[- spa] mirá vos . %snd:"patagonia38"_113208_114366
+*ESF:	[- spa] mirá vos . 113208_114366
 %eng:	see
-*ESF:	sé@s:spa que@s:spa hablan@s:spa un@s:spa Galés@s:spa muy@s:spa como@s:spa muy@s:spa de acá muy@s:spa cerrado@s:spa muy@s:spa +.. . %snd:"patagonia38"_114225_119857
+*ESF:	sé@s:spa que@s:spa hablan@s:spa un@s:spa Galés@s:spa muy@s:spa como@s:spa muy@s:spa de acá muy@s:spa cerrado@s:spa muy@s:spa +... 114225_119857
 %eng:	I know they speak a Welsh variety very, like, from here, very closed, very
-*INE:	[- spa] no sé . %snd:"patagonia38"_120124_120807
+*INE:	[- spa] no sé . 120124_120807
 %eng:	I don't know
-*INE:	[- spa] o será que nosotros modulamos más ? %snd:"patagonia38"_120903_123377
+*INE:	[- spa] o será que nosotros modulamos más ? 120903_123377
 %eng:	or maybe we modulate more?
-*ESF:	[- spa] no porque &e [///] y entre ellos se entienden . %snd:"patagonia38"_123995_126118
-%eng:	no because.. . and they understand each other
-*INE:	[- spa] entre ellos se entienden más vale . %snd:"patagonia38"_125958_128102
+*ESF:	[- spa] no porque &e [///] y entre ellos se entienden . 123995_126118
+%eng:	no because... and they understand each other
+*INE:	[- spa] entre ellos se entienden más vale . 125958_128102
 %eng:	they understand each other more, okay
-*ESF:	[- spa] claro . %snd:"patagonia38"_128294_128934
+*ESF:	[- spa] claro . 128294_128934
 %eng:	of course
-*INE:	[- spa] yo no por ahí no los entiendo . %snd:"patagonia38"_129226_131089
+*INE:	[- spa] yo no por ahí no los entiendo . 129226_131089
 %eng:	I don't understand them
-*ESF:	[- spa] este +.. . %snd:"patagonia38"_133399_134700
+*ESF:	[- spa] este +... 133399_134700
 %eng:	this...
 %com:	INE is interrupted by non-participant.
-*OSE:	www . %snd:"patagonia38"_135084_136087
-*INE:	hmm . %snd:"patagonia38"_138274_139074
-*ESF:	aethon ni i (y)r côr heno . %snd:"patagonia38"_142448_144869
+*OSE:	www . 135084_136087
+*INE:	hmm . 138274_139074
+*ESF:	aethon ni i (y)r côr heno . 142448_144869
 %eng:	we went to the choir tonight
-*INE:	&=laugh . %snd:"patagonia38"_144997_145882
-*ESF:	ia hoffwn i (.) arfer yn siarad Cymraeg . %snd:"patagonia38"_146458_150117
+*INE:	&=laugh . 144997_145882
+*ESF:	ia hoffwn i (.) arfer yn siarad Cymraeg . 146458_150117
 %eng:	yes, I'd like to get used to speaking Welsh
-*ESF:	ond ni (y)n gwybod +.. . %snd:"patagonia38"_150247_151506
+*ESF:	ond ni (y)n gwybod +... 150247_151506
 %eng:	but we know...
-*INE:	ie . %snd:"patagonia38"_150642_151239
+*INE:	ie . 150642_151239
 %eng:	yes
-*ESF:	<os mae hi (y)n clywed Cymraeg mae [/] mae> [///] dw i (y)n siŵr os mae hi (y)n clywed Cymraeg mae (y)n dipyn bach yn haws iddi hi ddysgu (.) dw i (y)n credu . %snd:"patagonia38"_151883_164129
+*ESF:	<os mae hi (y)n clywed Cymraeg mae [/] mae> [///] dw i (y)n siŵr os mae hi (y)n clywed Cymraeg mae (y)n dipyn bach yn haws iddi hi ddysgu (.) dw i (y)n credu . 151883_164129
 %eng:	I'm sure if she hears Welsh it's a little bit easier for her to learn, I think
-*INE:	+< ie . %snd:"patagonia38"_163284_164265
+*INE:	+< ie . 163284_164265
 %eng:	yes
-*ESF:	achos pan o(eddw)n i (y)n blentyn (.) ia clywais fy nain a fy modryb a fy um chwaer fy nain &g siarad gyda fy nain yn Cymraeg a clywed y Cymraeg . %snd:"patagonia38"_164283_176901
+*ESF:	achos pan o(eddw)n i (y)n blentyn (.) ia clywais fy nain a fy modryb a fy um chwaer fy nain &g siarad gyda fy nain yn Cymraeg a clywed y Cymraeg . 164283_176901
 %eng:	because when I was a child, yes, I heard my grandmother and my aunt and my grandmother's sister talking to my grandmother in Welsh, and heard the Welsh
-*ESF:	a dw i (y)n credu dyma pam dw i (y)n gallu siarad nawr . %snd:"patagonia38"_177660_181095
+*ESF:	a dw i (y)n credu dyma pam dw i (y)n gallu siarad nawr . 177660_181095
 %eng:	and I think that's why I can speak it now
-*INE:	ie (.) dw i (y)n credu bod mae [/] mae ysgol Cymraeg (.) eh@s:cym&spa el@s:spa jardín@s:spa (.) más@s:spa chiquito@s:spa . %snd:"patagonia38"_182182_192892
+*INE:	ie (.) dw i (y)n credu bod mae [/] mae ysgol Cymraeg (.) eh@s:cym&spa el@s:spa jardín@s:spa (.) más@s:spa chiquito@s:spa . 182182_192892
 %eng:	yes, I think that there's a Welsh school, eh, the smaller garden
-*ESF:	+< dan ni (y)n canu (y)n Cymraeg nawr . %snd:"patagonia38"_183555_185827
+*ESF:	+< dan ni (y)n canu (y)n Cymraeg nawr . 183555_185827
 %eng:	we sing in Welsh now.
-*ESF:	[- spa] sí pero por qué no van ? %snd:"patagonia38"_193779_196136
+*ESF:	[- spa] sí pero por qué no van ? 193779_196136
 %eng:	yes, but why aren't they going?
-*ESF:	[- spa] ya sé por qué no van . %snd:"patagonia38"_197043_199091
+*ESF:	[- spa] ya sé por qué no van . 197043_199091
 %eng:	now I know why they're not going
-*ESF:	[- spa] sí no sé . %snd:"patagonia38"_199925_201003
+*ESF:	[- spa] sí no sé . 199925_201003
 %eng:	yes, I don't know
-*INE:	[- spa] viste ? %snd:"patagonia38"_200864_202475
+*INE:	[- spa] viste ? 200864_202475
 %eng:	see ?
-*INE:	um +.. . %snd:"patagonia38"_203586_204642
-*ESF:	[- spa] pero y con xxx ? %snd:"patagonia38"_205196_206359
+*INE:	um +... 203586_204642
+*ESF:	[- spa] pero y con xxx ? 205196_206359
 %eng:	but and with [...]
-*ESF:	[- spa] xxx va . %snd:"patagonia38"_206311_206759
-%eng:	.. . go
-*ESF:	[- spa] todo bien ? %snd:"patagonia38"_206737_207719
+*ESF:	[- spa] xxx va . 206311_206759
+%eng:	... go
+*ESF:	[- spa] todo bien ? 206737_207719
 %eng:	everything all right ?
-*INE:	ond rŵan mae xxx cael babi blwyddyn diwetha +// . %snd:"patagonia38"_210790_215878
+*INE:	ond rŵan mae xxx cael babi blwyddyn diwetha +//. 210790_215878
 %eng:	but now [...] is having a baby last year
-*ESF:	+< oh@s:cym&spa ia ay@s:spa que@s:spa &lin . %snd:"patagonia38"_215099_217702
+*ESF:	+< oh@s:cym&spa ia ay@s:spa que@s:spa &lin . 215099_217702
 %eng:	oh yes how lovely.
-*INE:	+< no@s:spa blwyddyn nesa . %snd:"patagonia38"_216240_217606
+*INE:	+< no@s:spa blwyddyn nesa . 216240_217606
 %eng:	no, next year
-*ESF:	ia ia . %snd:"patagonia38"_217584_218363
+*ESF:	ia ia . 217584_218363
 %eng:	yes, yes
-*INE:	ond mae [/] mae (.) Selina@s:spa (..) eh@s:cym&spa dysgu <yn y> [//] yn yr ysgol blant (.) Mehefin . %snd:"patagonia38"_218616_229645
-%eng:	but Selina is teaching at the children's school.. . June
-*INE:	meithrin [/] ysgol meithrin . %snd:"patagonia38"_230499_232163
+*INE:	ond mae [/] mae (.) Selina@s:spa (..) eh@s:cym&spa dysgu <yn y> [//] yn yr ysgol blant (.) Mehefin . 218616_229645
+%eng:	but Selina is teaching at the children's school... June
+*INE:	meithrin [/] ysgol meithrin . 230499_232163
 %eng:	nursery, nursery school
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_233336_236088
-*ESF:	oes plant yn yr ysgol meithrin neu ysgol Cymraeg . %snd:"patagonia38"_233507_236067
+*ESF:	ah@s:cym&spa . 233336_236088
+*ESF:	oes plant yn yr ysgol meithrin neu ysgol Cymraeg . 233507_236067
 %eng:	are there children at nursery school or Welsh school?
-*INE:	pump . %snd:"patagonia38"_237059_238104
+*INE:	pump . 237059_238104
 %eng:	five
-*ESF:	pump ah@s:cym&spa bueno@s:spa . %snd:"patagonia38"_239341_240643
+*ESF:	pump ah@s:cym&spa bueno@s:spa . 239341_240643
 %eng:	five, ah good
-*INE:	ah@s:cym&spa pump . %snd:"patagonia38"_240685_241731
+*INE:	ah@s:cym&spa pump . 240685_241731
 %eng:	ah, five
-*INE:	pum [/] pum dysgwyr . %snd:"patagonia38"_242115_243736
+*INE:	pum [/] pum dysgwyr . 242115_243736
 %eng:	five learners
-*ESF:	[- spa] bien . %snd:"patagonia38"_243160_244141
+*ESF:	[- spa] bien . 243160_244141
 %eng:	good
-*INE:	ie . %snd:"patagonia38"_244099_244824
+*INE:	ie . 244099_244824
 %eng:	yes
-*INE:	mae Ester@s:cym&spa ddim yn dod . %snd:"patagonia38"_245057_246359
+*INE:	mae Ester@s:cym&spa ddim yn dod . 245057_246359
 %eng:	Ester isn't coming
-*ESF:	oh@s:cym&spa mae Ester@s:cym&spa oh@s:cym&spa +.. . %snd:"patagonia38"_246401_247980
-%eng:	oh, Ester is.. . oh...
-*ESF:	+< ie eh@s:cym&spa na flwyddyn +.. . %snd:"patagonia38"_246561_247916
+*ESF:	oh@s:cym&spa mae Ester@s:cym&spa oh@s:cym&spa +... 246401_247980
+%eng:	oh, Ester is... oh...
+*ESF:	+< ie eh@s:cym&spa na flwyddyn +... 246561_247916
 %eng:	yes, no, the year...
-*ESF:	no@s:spa achos mae (.) llawer o bethau i wneud . %snd:"patagonia38"_248090_251504
+*ESF:	no@s:spa achos mae (.) llawer o bethau i wneud . 248090_251504
 %eng:	no because there are lots of things to do
-*INE:	+< ie . %snd:"patagonia38"_251301_251685
+*INE:	+< ie . 251301_251685
 %eng:	yes
-*ESF:	achos mae hi (y)n mynd i (y)r [/] i (y)r (.) dawnsio . %snd:"patagonia38"_251706_254554
+*ESF:	achos mae hi (y)n mynd i (y)r [/] i (y)r (.) dawnsio . 251706_254554
 %eng:	because she goes to the dancing
-*ESF:	sí@s:spa sí@s:spa sí@s:spa (.) mae [/] mae hi (y)n mynd i ddawnsio yn y festival@s:spa (.) i gorffen y cwrs . %snd:"patagonia38"_255771_260422
+*ESF:	sí@s:spa sí@s:spa sí@s:spa (.) mae [/] mae hi (y)n mynd i ddawnsio yn y festival@s:spa (.) i gorffen y cwrs . 255771_260422
 %eng:	yes yes yes she goes to the dancing at the festival to finish the course
-*INE:	xxx . %snd:"patagonia38"_256496_257563
-*INE:	+< &=laugh . %snd:"patagonia38"_259856_260528
-*ESF:	ay@s:spa no@s:spa no@s:spa fel campanita@s:spa . %snd:"patagonia38"_260550_263184
+*INE:	xxx . 256496_257563
+*INE:	+< &=laugh . 259856_260528
+*ESF:	ay@s:spa no@s:spa no@s:spa fel campanita@s:spa . 260550_263184
 %eng:	oh, no no, like a little bell
-*INE:	[- spa] +< xxx danza (.) danza . %snd:"patagonia38"_261450_263892
-%eng:	.. . dance (.) dance .
-*ESF:	[- spa] campanita . %snd:"patagonia38"_263263_264020
+*INE:	[- spa] +< xxx danza (.) danza . 261450_263892
+%eng:	... dance (.) dance .
+*ESF:	[- spa] campanita . 263263_264020
 %eng:	little bell
-*INE:	ah@s:cym&spa qué@s:spa lindo@s:spa . %snd:"patagonia38"_263894_265849
+*INE:	ah@s:cym&spa qué@s:spa lindo@s:spa . 263894_265849
 %eng:	ah, how lovely
-*ESF:	[- spa] +< danzas . %snd:"patagonia38"_263993_264750
+*ESF:	[- spa] +< danzas . 263993_264750
 %eng:	dances
-*ESF:	[- spa] +< sí ella va a danzas . %snd:"patagonia38"_264830_265956
+*ESF:	[- spa] +< sí ella va a danzas . 264830_265956
 %eng:	yes, she goes dancing
-*ESF:	[- spa] va a danzas . %snd:"patagonia38"_265886_267060
+*ESF:	[- spa] va a danzas . 265886_267060
 %eng:	she goes dancing
-*ESF:	blwyddyn diwetha (.) mae hi wedi dawnsio fel brujita@s:spa . %snd:"patagonia38"_267191_271788
+*ESF:	blwyddyn diwetha (.) mae hi wedi dawnsio fel brujita@s:spa . 267191_271788
 %eng:	last year she danced as a witch
-*INE:	mm . %snd:"patagonia38"_271937_272748
-*ESF:	[- spa] ay no no no . %snd:"patagonia38"_272460_273591
+*INE:	mm . 271937_272748
+*ESF:	[- spa] ay no no no . 272460_273591
 %eng:	ah no no no
-*ESF:	[- spa] no aparte xxx (.) va a tener un hermanito tambien . %snd:"patagonia38"_273992_278312
+*ESF:	[- spa] no aparte xxx (.) va a tener un hermanito tambien . 273992_278312
 %eng:	no aside from that, xxx going to have a little brother as well
-*INE:	ah@s:cym&spa me@s:spa parecía@s:spa . %snd:"patagonia38"_277640_279517
+*INE:	ah@s:cym&spa me@s:spa parecía@s:spa . 277640_279517
 %eng:	ah it seemed to me
-*ESF:	sí@s:spa sí@s:spa sí . %snd:"patagonia38"_279623_280476
+*ESF:	sí@s:spa sí@s:spa sí . 279623_280476
 %eng:	yes yes yes
-*INE:	+< no@s:spa le@s:spa quise@s:spa preguntar@s:spa a@s:spa [/] a@s:spa Martha@s:cym&spa . %snd:"patagonia38"_280034_283447
+*INE:	+< no@s:spa le@s:spa quise@s:spa preguntar@s:spa a@s:spa [/] a@s:spa Martha@s:cym&spa . 280034_283447
 %eng:	I didn't want to ask Martha
-*ESF:	+< a@s:spa Martha@s:cym&spa . %snd:"patagonia38"_282597_283397
+*ESF:	+< a@s:spa Martha@s:cym&spa . 282597_283397
 %eng:	Martha.
-*INE:	[- spa] pero me parecía que la panza no era de gordura . %snd:"patagonia38"_283593_285817
+*INE:	[- spa] pero me parecía que la panza no era de gordura . 283593_285817
 %eng:	but it seemed to me that the belly was not fat from eating
-*INE:	[- spa] era hinchazón &=laugh . %snd:"patagonia38"_285854_287476
+*INE:	[- spa] era hinchazón &=laugh . 285854_287476
 %eng:	it was swelling
-*ESF:	[- spa] +< no aparte +// . %snd:"patagonia38"_285919_286820
+*ESF:	[- spa] +< no aparte +//. 285919_286820
 %eng:	no, and...
-*ESF:	[- spa] aparte viste . %snd:"patagonia38"_287183_288026
+*ESF:	[- spa] aparte viste . 287183_288026
 %eng:	besides, see
-*ESF:	[- spa] +" estoy embarazada . %snd:"patagonia38"_288010_288911
+*ESF:	[- spa] +" estoy embarazada . 288010_288911
 %eng:	"I'm pregnant"
-*ESF:	[- spa] la panza viste que la relajó y chao . %snd:"patagonia38"_289202_291389
+*ESF:	[- spa] la panza viste que la relajó y chao . 289202_291389
 %eng:	the belly, see, that she relaxed it and "bye"
-*ESF:	listo . %snd:"patagonia38"_291505_291963
+*ESF:	listo . 291505_291963
 %eng:	ready
-*INE:	+< mm . %snd:"patagonia38"_291729_292561
-*ESF:	[- spa] sí sí sí . %snd:"patagonia38"_292198_292891
+*INE:	+< mm . 291729_292561
+*ESF:	[- spa] sí sí sí . 292198_292891
 %eng:	yes yes yes
-*ESF:	[- spa] no está recotenta . %snd:"patagonia38"_292922_294245
+*ESF:	[- spa] no está recotenta . 292922_294245
 %eng:	no, she's very happy
-*ESF:	estaban@s:spa buscando@s:spa ellos@s:spa ya@s:spa un@s:spa hermanito@s:spa para@s:spa Ester@s:cym&spa . %snd:"patagonia38"_294102_297744
+*ESF:	estaban@s:spa buscando@s:spa ellos@s:spa ya@s:spa un@s:spa hermanito@s:spa para@s:spa Ester@s:cym&spa . 294102_297744
 %eng:	they were already looking for a little brother for Ester
-*INE:	&=laugh . %snd:"patagonia38"_297745_298534
-*ESF:	y@s:spa un@s:spa amiguito@s:spa para@s:spa Julia@s:cym&spa . %snd:"patagonia38"_298414_300537
+*INE:	&=laugh . 297745_298534
+*ESF:	y@s:spa un@s:spa amiguito@s:spa para@s:spa Julia@s:cym&spa . 298414_300537
 %eng:	and a little boyfriend for Julia
-*ESF:	[- spa] van a ir juntas a la escuela . %snd:"patagonia38"_301868_303462
+*ESF:	[- spa] van a ir juntas a la escuela . 301868_303462
 %eng:	they are going to the school together
-*INE:	[- spa] o amiguita . %snd:"patagonia38"_303468_304716
+*INE:	[- spa] o amiguita . 303468_304716
 %eng:	or a little girlfriend
-*ESF:	[- spa] o amiguita . %snd:"patagonia38"_304785_306183
+*ESF:	[- spa] o amiguita . 304785_306183
 %eng:	or a little girlfriend
-*ESF:	si@s:spa es@s:spa varón@s:spa lo@s:spa van@s:spa a@s:spa poner@s:spa Clemente@s:cym&spa . %snd:"patagonia38"_306243_308653
+*ESF:	si@s:spa es@s:spa varón@s:spa lo@s:spa van@s:spa a@s:spa poner@s:spa Clemente@s:cym&spa . 306243_308653
 %eng:	if he is boy, they will name him Clemente
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_308739_309571
-*ESF:	Clemente@s:cym&spa era@s:spa el@s:spa abuelo@s:spa de@s:spa Fran@s:cym&spa . %snd:"patagonia38"_309936_311418
+*INE:	ah@s:cym&spa . 308739_309571
+*ESF:	Clemente@s:cym&spa era@s:spa el@s:spa abuelo@s:spa de@s:spa Fran@s:cym&spa . 309936_311418
 %eng:	Clemente was Fran's grandfather
-*ESF:	[- spa] pero es original . %snd:"patagonia38"_311354_312624
+*ESF:	[- spa] pero es original . 311354_312624
 %eng:	but it is original
-*INE:	[- spa] pero no me gusta . %snd:"patagonia38"_312666_313616
+*INE:	[- spa] pero no me gusta . 312666_313616
 %eng:	but I don't like it
-*ESF:	[- spa] no pero +// . %snd:"patagonia38"_313552_314778
+*ESF:	[- spa] no pero +//. 313552_314778
 %eng:	no but...
-*INE:	[- spa] nombre loco parece . %snd:"patagonia38"_314341_315781
+*INE:	[- spa] nombre loco parece . 314341_315781
 %eng:	it seems an odd name
-*ESF:	[- spa] che y ? %snd:"patagonia38"_315774_319337
+*ESF:	[- spa] che y ? 315774_319337
 %eng:	and ?
-*ESF:	xxx . %snd:"patagonia38"_317596_319740
+*ESF:	xxx . 317596_319740
 %eng:	[...]
-*INE:	Noel@s:cym&spa . %snd:"patagonia38"_319849_320873
+*INE:	Noel@s:cym&spa . 319849_320873
 %eng:	Noel
-*ESF:	no@s:spa Karina@s:cym&spa . %snd:"patagonia38"_320521_321844
+*ESF:	no@s:spa Karina@s:cym&spa . 320521_321844
 %eng:	no, Karina
-*INE:	[- spa] no . %snd:"patagonia38"_321705_322270
+*INE:	[- spa] no . 321705_322270
 %eng:	no
-*INE:	blwyddyn +/ . %snd:"patagonia38"_323181_325399
+*INE:	blwyddyn +/. 323181_325399
 %eng:	year...
-*ESF:	++ blwyddyn nesa . %snd:"patagonia38"_324311_325271
+*ESF:	++ blwyddyn nesa . 324311_325271
 %eng:	...next year
-*INE:	+, nesa . %snd:"patagonia38"_324759_325229
+*INE:	+, nesa . 324759_325229
 %eng:	...next
-*ESF:	ah@s:cym&spa wel menos@s:spa mal@s:spa . %snd:"patagonia38"_325837_327405
+*ESF:	ah@s:cym&spa wel menos@s:spa mal@s:spa . 325837_327405
 %eng:	ah well, fortunately
-*INE:	mae [/] mae merch +/ . %snd:"patagonia38"_327558_329371
+*INE:	mae [/] mae merch +/. 327558_329371
 %eng:	a girl is...
-*ESF:	blwyddyn +/ . %snd:"patagonia38"_329489_329947
+*ESF:	blwyddyn +/. 329489_329947
 %eng:	year...
-*INE:	maen nhw yn mynd i (y)r [///] (.) buoch i (y)r asado@s:spa ? %snd:"patagonia38"_330001_333531
-%eng:	they're going to the.. . did you go to the barbecue?
-*ESF:	[- spa] no lo terminaste no ? %snd:"patagonia38"_334221_335629
+*INE:	maen nhw yn mynd i (y)r [///] (.) buoch i (y)r asado@s:spa ? 330001_333531
+%eng:	they're going to the... did you go to the barbecue?
+*ESF:	[- spa] no lo terminaste no ? 334221_335629
 %eng:	you didn't finish it, did you?
-*INE:	[- spa] +< no . %snd:"patagonia38"_335087_335727
+*INE:	[- spa] +< no . 335087_335727
 %eng:	no
-*INE:	na blwyddyn diweth(af) [//] blwyddyn nesa mae hi dal i fod undeg wyth . %snd:"patagonia38"_335181_338711
+*INE:	na blwyddyn diweth(af) [//] blwyddyn nesa mae hi dal i fod undeg wyth . 335181_338711
 %eng:	no, next year, she's still 18
-*ESF:	yr un blwyddyn ? %snd:"patagonia38"_338839_339725
+*ESF:	yr un blwyddyn ? 338839_339725
 %eng:	the same year?
-*INE:	ie . %snd:"patagonia38"_339842_340525
+*INE:	ie . 339842_340525
 %eng:	yes
-*ESF:	[- spa] ah están en el mismo año ? %snd:"patagonia38"_341091_342744
+*ESF:	[- spa] ah están en el mismo año ? 341091_342744
 %eng:	ah they're in the same year
-*INE:	[- spa] claro . %snd:"patagonia38"_342776_343501
+*INE:	[- spa] claro . 342776_343501
 %eng:	of course
-*ESF:	ah@s:cym&spa el@s:spa mismo@s:spa curso@s:spa no@s:spa ? %snd:"patagonia38"_343768_345901
+*ESF:	ah@s:cym&spa el@s:spa mismo@s:spa curso@s:spa no@s:spa ? 343768_345901
 %eng:	in the same classroom, no?
-*INE:	[- spa] +< no . %snd:"patagonia38"_345411_345923
+*INE:	[- spa] +< no . 345411_345923
 %eng:	no
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_346110_346771
-*INE:	no@s:spa en@s:spa humanidades@s:spa (.) y@s:spa Ana@s:cym&spa en@s:spa bienes@s:spa y@s:spa servicios@s:spa +/ . %snd:"patagonia38"_346707_351699
+*ESF:	ah@s:cym&spa . 346110_346771
+*INE:	no@s:spa en@s:spa humanidades@s:spa (.) y@s:spa Ana@s:cym&spa en@s:spa bienes@s:spa y@s:spa servicios@s:spa +/. 346707_351699
 %eng:	no, in humanities, and Ana in property and services
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_352030_353150
-*INE:	[- spa] +, con orientación en computación . %snd:"patagonia38"_352734_354612
+*ESF:	ah@s:cym&spa . 352030_353150
+*INE:	[- spa] +, con orientación en computación . 352734_354612
 %eng:	with instruction in computation
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_355220_356542
-*ESF:	a nhw yn mynd i (y)r [///] (.) buoch chi (y)r asados@s:spa ? %snd:"patagonia38"_356924_359676
-%eng:	and they're going to the.. . did you go to the barbecue?
-*INE:	[- spa] +< sí . %snd:"patagonia38"_359356_359794
+*INE:	ah@s:cym&spa . 355220_356542
+*ESF:	a nhw yn mynd i (y)r [///] (.) buoch chi (y)r asados@s:spa ? 356924_359676
+%eng:	and they're going to the... did you go to the barbecue?
+*INE:	[- spa] +< sí . 359356_359794
 %eng:	yes
-*INE:	xxx . %snd:"patagonia38"_360263_361074
-*ESF:	ble ? %snd:"patagonia38"_361234_362364
+*INE:	xxx . 360263_361074
+*ESF:	ble ? 361234_362364
 %eng:	where?
-*INE:	[- spa] Córdoba . %snd:"patagonia38"_362546_363207
+*INE:	[- spa] Córdoba . 362546_363207
 %eng:	Córdoba
-*ESF:	oh@s:cym&spa y@s:spa qué@s:spa lindo@s:spa . %snd:"patagonia38"_363883_366112
+*ESF:	oh@s:cym&spa y@s:spa qué@s:spa lindo@s:spa . 363883_366112
 %eng:	oh and how lovely
-*INE:	+< a mae Ester@s:cym&spa (.) ddim talu viaje@s:spa de@s:spa egresados@s:spa . %snd:"patagonia38"_365301_369685
+*INE:	+< a mae Ester@s:cym&spa (.) ddim talu viaje@s:spa de@s:spa egresados@s:spa . 365301_369685
 %eng:	and Ester isn't paying for the graduate trip
-*INE:	porque@s:spa para@s:spa Carmen@s:cym&spa . %snd:"patagonia38"_370503_372817
+*INE:	porque@s:spa para@s:spa Carmen@s:cym&spa . 370503_372817
 %eng:	because of Carmen
-*INE:	[- spa] si son hermanas (.) paga una . %snd:"patagonia38"_373031_375399
+*INE:	[- spa] si son hermanas (.) paga una . 373031_375399
 %eng:	if there are sisters, one pays
-*ESF:	ah@s:cym&spa buenísimo@s:spa . %snd:"patagonia38"_375177_376703
+*ESF:	ah@s:cym&spa buenísimo@s:spa . 375177_376703
 %eng:	ah excellent
-*INE:	[- spa] como egresan juntas porque si egresara este año una y el otro año la otra pagábamos la mitad (.) del viaje . %snd:"patagonia38"_376762_383076
+*INE:	[- spa] como egresan juntas porque si egresara este año una y el otro año la otra pagábamos la mitad (.) del viaje . 376762_383076
 %eng:	because they graduate together, because if one graduates this year and the other one the next year, we would have payed half of the trip
-*ESF:	[- spa] +< pagan las dos . %snd:"patagonia38"_381251_382382
+*ESF:	[- spa] +< pagan las dos . 381251_382382
 %eng:	both pay
-*ESF:	aha@s:cym&spa . %snd:"patagonia38"_383567_384207
+*ESF:	aha@s:cym&spa . 383567_384207
 %eng:	yes
-*INE:	como@s:spa egresan@s:spa las@s:spa dos@s:spa juntas@s:spa Ester@s:cym&spa dim talu . %snd:"patagonia38"_384243_387443
+*INE:	como@s:spa egresan@s:spa las@s:spa dos@s:spa juntas@s:spa Ester@s:cym&spa dim talu . 384243_387443
 %eng:	because both graduate together, Ester doesn't pay
-*ESF:	[- spa] buenísimo . %snd:"patagonia38"_387827_388829
+*ESF:	[- spa] buenísimo . 387827_388829
 %eng:	excellent
-*INE:	[- spa] pero no quiere ir . %snd:"patagonia38"_388317_389341
+*INE:	[- spa] pero no quiere ir . 388317_389341
 %eng:	but she doesn't want to go
-*ESF:	ond (dy)na fo . %snd:"patagonia38"_389768_390899
+*ESF:	ond (dy)na fo . 389768_390899
 %eng:	but that's it
-*INE:	[- spa] sí tú sabés que con la otra xxx . %snd:"patagonia38"_391261_393480
+*INE:	[- spa] sí tú sabés que con la otra xxx . 391261_393480
 %eng:	yes you know that with the other xxx
-*ESF:	[- spa] por qué ? %snd:"patagonia38"_392819_393629
+*ESF:	[- spa] por qué ? 392819_393629
 %eng:	why ?
-*INE:	y@s:spa porque@s:spa no@s:spa va@s:spa su@s:spa grupo@s:spa de@s:spa [/] de compañeras@s:spa . %snd:"patagonia38"_393881_397316
+*INE:	y@s:spa porque@s:spa no@s:spa va@s:spa su@s:spa grupo@s:spa de@s:spa [/] de compañeras@s:spa . 393881_397316
 %eng:	because her group of friends is not going
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_396377_397337
-*INE:	felly mae hi ddim (.) isio mynd i (y)r viaje@s:spa de@s:spa egresados@s:spa ar ben fy hun . %snd:"patagonia38"_398574_404420
+*ESF:	ah@s:cym&spa . 396377_397337
+*INE:	felly mae hi ddim (.) isio mynd i (y)r viaje@s:spa de@s:spa egresados@s:spa ar ben fy hun . 398574_404420
 %eng:	so she doesn't want to go on the graduate trip on my own
 %com:	mistake in the Welsh here - 'ar ben fy hun' should be 'ar ben ei hun' (on her own)
-*ESF:	[- spa] bueno pero (.) el año que viene es recien . %snd:"patagonia38"_405494_410294
+*ESF:	[- spa] bueno pero (.) el año que viene es recien . 405494_410294
 %eng:	right but, next year is almost here
-*ESF:	[- spa] quizá este año ? %snd:"patagonia38"_410465_411553
+*ESF:	[- spa] quizá este año ? 410465_411553
 %eng:	maybe this year
-*INE:	[- spa] +< y pero tengo [//] tiene que reservar el lugar si quiere ir . %snd:"patagonia38"_411382_414049
+*INE:	[- spa] +< y pero tengo [//] tiene que reservar el lugar si quiere ir . 411382_414049
 %eng:	yes but she has to book the place if she wants to go
-*ESF:	[- spa] pucha porque es tan lindo . %snd:"patagonia38"_414900_417290
+*ESF:	[- spa] pucha porque es tan lindo . 414900_417290
 %eng:	wow, because it is so lovely
-*INE:	[- spa] yo le decía . %snd:"patagonia38"_417375_418420
+*INE:	[- spa] yo le decía . 417375_418420
 %eng:	I told her
-*ESF:	+< es i i Córdoba@s:cym&spa i el@s:spa viaje@s:spa de@s:spa egresados@s:spa (.) gyda (.) um (.) y (.) plant . %snd:"patagonia38"_418207_427764
+*ESF:	+< es i i Córdoba@s:cym&spa i el@s:spa viaje@s:spa de@s:spa egresados@s:spa (.) gyda (.) um (.) y (.) plant . 418207_427764
 %eng:	I went to Córdoba on the graduate trip with the children
-*ESF:	na dim y plant . %snd:"patagonia38"_428010_429076
+*ESF:	na dim y plant . 428010_429076
 %eng:	no, not the children
-*ESF:	[- spa] qué sería ? %snd:"patagonia38"_429226_430271
+*ESF:	[- spa] qué sería ? 429226_430271
 %eng:	what it would be?
-*ESF:	chicos@s:spa sí@s:spa (.) plant (.) o (y)r ysgol arall . %snd:"patagonia38"_430484_434068
+*ESF:	chicos@s:spa sí@s:spa (.) plant (.) o (y)r ysgol arall . 430484_434068
 %eng:	guys, yes, children from the other school
-*INE:	+< mm . %snd:"patagonia38"_431828_432340
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_434218_434964
-*ESF:	aethon ni i wel er@s:cym&spa (.) <dw i meddwl> [?] (.) bron deg o (y)r cwrs fi . %snd:"patagonia38"_435092_441705
-%eng:	we went to, well, er.. . I think nearly ten from my course
-*INE:	mmhm . %snd:"patagonia38"_440617_441534
-*INE:	mm . %snd:"patagonia38"_441748_442110
-*ESF:	a wedyn ddeg arall i cwrs arall . %snd:"patagonia38"_442238_444756
+*INE:	+< mm . 431828_432340
+*INE:	ah@s:cym&spa . 434218_434964
+*ESF:	aethon ni i wel er@s:cym&spa (.) <dw i meddwl> [?] (.) bron deg o (y)r cwrs fi . 435092_441705
+%eng:	we went to, well, er... I think nearly ten from my course
+*INE:	mmhm . 440617_441534
+*INE:	mm . 441748_442110
+*ESF:	a wedyn ddeg arall i cwrs arall . 442238_444756
 %eng:	and then another ten for another course
-*ESF:	a ddeg arall i cwrs arall . %snd:"patagonia38"_444820_446270
+*ESF:	a ddeg arall i cwrs arall . 444820_446270
 %eng:	and another ten for another course
-*ESF:	a [/] a &ug &hu ugain bobl [//] plant o (y)r ysgol arall . %snd:"patagonia38"_446336_451691
+*ESF:	a [/] a &ug &hu ugain bobl [//] plant o (y)r ysgol arall . 446336_451691
 %eng:	and twenty children from the other school
-*INE:	ia . %snd:"patagonia38"_451862_452395
+*INE:	ia . 451862_452395
 %eng:	yes
-*ESF:	a tri o (y)r politécnica@s:spa . %snd:"patagonia38"_452203_454144
+*ESF:	a tri o (y)r politécnica@s:spa . 452203_454144
 %eng:	and three from the polytechnic
-*ESF:	dim_ond tri . %snd:"patagonia38"_454166_454742
+*ESF:	dim_ond tri . 454166_454742
 %eng:	only three
-*ESF:	ond cawsom ni (.) trip ardderchog . %snd:"patagonia38"_454877_460040
+*ESF:	ond cawsom ni (.) trip ardderchog . 454877_460040
 %eng:	but we had an excellent trip
-*INE:	+< ie . %snd:"patagonia38"_454899_455325
+*INE:	+< ie . 454899_455325
 %eng:	yes
-*INE:	+< parti mawr . %snd:"patagonia38"_458013_459272
+*INE:	+< parti mawr . 458013_459272
 %eng:	a big party
-*ESF:	ie . %snd:"patagonia38"_460232_460637
+*ESF:	ie . 460232_460637
 %eng:	yes
-*ESF:	fuon ni fron (.) saithdeg plant . %snd:"patagonia38"_460381_463197
+*ESF:	fuon ni fron (.) saithdeg plant . 460381_463197
 %eng:	we were nearly 70 children
-*ESF:	[- spa] no no impresionante . %snd:"patagonia38"_463368_465117
+*ESF:	[- spa] no no impresionante . 463368_465117
 %eng:	no, no, amazing
-*INE:	+< ia . %snd:"patagonia38"_464413_464861
+*INE:	+< ia . 464413_464861
 %eng:	yes
-*ESF:	aparte@s:spa mae yn [//] yng Nghordoba@s:cym&spa yn [/] yn como@s:spa es@s:spa yn boeth iawn . %snd:"patagonia38"_465351_471559
+*ESF:	aparte@s:spa mae yn [//] yng Nghordoba@s:cym&spa yn [/] yn como@s:spa es@s:spa yn boeth iawn . 465351_471559
 %eng:	but, in Cordoba it's, how is it, very hot
-*INE:	rŵan ? %snd:"patagonia38"_472043_472811
+*INE:	rŵan ? 472043_472811
 %eng:	now?
-*ESF:	+< a +.. . %snd:"patagonia38"_472256_472640
+*ESF:	+< a +... 472256_472640
 %eng:	and...
-*INE:	xxx . %snd:"patagonia38"_472982_473878
-*ESF:	mae o yn boeth iawn . %snd:"patagonia38"_473451_474923
+*INE:	xxx . 472982_473878
+*ESF:	mae o yn boeth iawn . 473451_474923
 %eng:	it is very hot
-*ESF:	a [/] a arhoson ni <yn y> [/] yn y &mhod hotel gyda pwll nofio . %snd:"patagonia38"_475074_480642
+*ESF:	a [/] a arhoson ni <yn y> [/] yn y &mhod hotel gyda pwll nofio . 475074_480642
 %eng:	and we stayed in the hotel with a swimming pool
-*INE:	+< ie . %snd:"patagonia38"_479192_479896
+*INE:	+< ie . 479192_479896
 %eng:	yes
-*INE:	oh@s:cym&spa ! %snd:"patagonia38"_480642_481090
-*ESF:	buon ni trwy (y)r dydd yn y pwll nofio . %snd:"patagonia38"_481432_483458
+*INE:	oh@s:cym&spa ! 480642_481090
+*ESF:	buon ni trwy (y)r dydd yn y pwll nofio . 481432_483458
 %eng:	we were in the swimming pool all day
-*INE:	pwy ? %snd:"patagonia38"_483096_483565
+*INE:	pwy ? 483096_483565
 %eng:	who?
-*ESF:	a wedyn &=laugh buon ni (y)n coch iawn achos dan ni ddim yn er@s:cym&spa gael haul fel yn noviembre@s:spa fel arfer . %snd:"patagonia38"_483821_492866
+*ESF:	a wedyn &=laugh buon ni (y)n coch iawn achos dan ni ddim yn er@s:cym&spa gael haul fel yn noviembre@s:spa fel arfer . 483821_492866
 %eng:	and then we were really red because we don't get sun like in November usually
-*ESF:	a aethon ni noviembre@s:spa . %snd:"patagonia38"_493370_494842
+*ESF:	a aethon ni noviembre@s:spa . 493370_494842
 %eng:	and we went in November.
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_494864_495546
-*INE:	&je . %snd:"patagonia38"_495888_496464
-*ESF:	[- spa] no espectacular xxx +/ . %snd:"patagonia38"_496229_498192
+*INE:	ah@s:cym&spa . 494864_495546
+*INE:	&je . 495888_496464
+*ESF:	[- spa] no espectacular xxx +/. 496229_498192
 %eng:	no, spectacular...
-*INE:	mae [/] maen nhw hapus iawn . %snd:"patagonia38"_497722_499749
+*INE:	mae [/] maen nhw hapus iawn . 497722_499749
 %eng:	they're very happy
-*ESF:	mm . %snd:"patagonia38"_499856_500368
-*INE:	a mae Ester@s:cym&spa dim yn hoffi (.) deithio dim ffrind [/] dim ffrind i hi xxx . %snd:"patagonia38"_500154_507536
+*ESF:	mm . 499856_500368
+*INE:	a mae Ester@s:cym&spa dim yn hoffi (.) deithio dim ffrind [/] dim ffrind i hi xxx . 500154_507536
 %eng:	and Ester doesn't like travelling with no friend for her to...
-*ESF:	[- spa] +< pucha . %snd:"patagonia38"_503013_504080
+*ESF:	[- spa] +< pucha . 503013_504080
 %eng:	damn!
-*ESF:	+< a pam xxx ffrind hi ddim yn mynd ? %snd:"patagonia38"_504203_507339
+*ESF:	+< a pam xxx ffrind hi ddim yn mynd ? 504203_507339
 %eng:	and why [...] her friend not going?
-*ESF:	pam ? %snd:"patagonia38"_507595_508491
+*ESF:	pam ? 507595_508491
 %eng:	why?
-*INE:	+< ie . %snd:"patagonia38"_507915_508449
+*INE:	+< ie . 507915_508449
 %eng:	yes
-*INE:	achos mae [/] mae er@s:cym&spa mae hi (y)n repitió@s:spa . %snd:"patagonia38"_509665_513846
+*INE:	achos mae [/] mae er@s:cym&spa mae hi (y)n repitió@s:spa . 509665_513846
 %eng:	because she has repeated
 %com:	could "repitio" be taken as either Sp or Welsh verb?? ('repetio'=to repeat)
-*INE:	felly +/ . %snd:"patagonia38"_514358_515617
+*INE:	felly +/. 514358_515617
 %eng:	so...
-*ESF:	+< xxx . %snd:"patagonia38"_514358_515617
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_516099_517379
-*INE:	[- spa] sus amigas se van este año . %snd:"patagonia38"_517845_519920
+*ESF:	+< xxx . 514358_515617
+*ESF:	ah@s:cym&spa . 516099_517379
+*INE:	[- spa] sus amigas se van este año . 517845_519920
 %eng:	her friends are going this year
-*ESF:	[- spa] +< van este año . %snd:"patagonia38"_518656_519515
+*ESF:	[- spa] +< van este año . 518656_519515
 %eng:	they are going this year
-*ESF:	[- spa] y por qué no puede ir este año ? %snd:"patagonia38"_520410_521839
+*ESF:	[- spa] y por qué no puede ir este año ? 520410_521839
 %eng:	and why can't she go this year?
-*INE:	[- spa] y porque no es egresa [?] . %snd:"patagonia38"_521972_523183
+*INE:	[- spa] y porque no es egresa [?] . 521972_523183
 %eng:	and because she's not a graduate
-*ESF:	[- spa] y ? %snd:"patagonia38"_523375_523834
+*ESF:	[- spa] y ? 523375_523834
 %eng:	and ?
-*ESF:	oh@s:cym&spa pucha@s:spa . %snd:"patagonia38"_526587_528918
+*ESF:	oh@s:cym&spa pucha@s:spa . 526587_528918
 %eng:	oh damn
-*INE:	[- spa] +< así que bueno . %snd:"patagonia38"_528134_529110
+*INE:	[- spa] +< así que bueno . 528134_529110
 %eng:	so, ok
-*INE:	na ond dim problem . %snd:"patagonia38"_529478_530555
+*INE:	na ond dim problem . 529478_530555
 %eng:	no, but no problem
-*INE:	mae [/] mae Ester@s:cym&spa dweud +"/ . %snd:"patagonia38"_532956_534385
+*INE:	mae [/] mae Ester@s:cym&spa dweud +"/. 532956_534385
 %eng:	Ester says:
-*INE:	+" oh@s:cym&spa hapus iawn . %snd:"patagonia38"_534451_536019
+*INE:	+" oh@s:cym&spa hapus iawn . 534451_536019
 %eng:	"oh, very happy"
-*INE:	+" dim nhw yn y tŷ &=laugh ! %snd:"patagonia38"_536064_540283
+*INE:	+" dim nhw yn y tŷ &=laugh ! 536064_540283
 %eng:	them not being at home!
-*ESF:	+< &=laugh . %snd:"patagonia38"_537622_539590
-*ESF:	na maen nhw (y)n ffrind . %snd:"patagonia38"_540339_541715
+*ESF:	+< &=laugh . 537622_539590
+*ESF:	na maen nhw (y)n ffrind . 540339_541715
 %eng:	no, they're friend[s]
-*INE:	ie . %snd:"patagonia38"_541886_542702
+*INE:	ie . 541886_542702
 %eng:	yes
-*ESF:	+< iawn . %snd:"patagonia38"_542201_542691
+*ESF:	+< iawn . 542201_542691
 %eng:	ok
-*ESF:	nhw [/] nhw dw i (y)n gallu weld nhw yn [/] yn aml <yn y> [/] yn y canol y dre . %snd:"patagonia38"_543104_550293
+*ESF:	nhw [/] nhw dw i (y)n gallu weld nhw yn [/] yn aml <yn y> [/] yn y canol y dre . 543104_550293
 %eng:	I can often see them in the town centre
-*ESF:	[- spa] comprando caminando siempre xxx . %snd:"patagonia38"_551669_554144
+*ESF:	[- spa] comprando caminando siempre xxx . 551669_554144
 %eng:	buying, walking, always [...]
-*INE:	[- spa] sí sí (.) sí siempre juntas . %snd:"patagonia38"_552881_554673
+*INE:	[- spa] sí sí (.) sí siempre juntas . 552881_554673
 %eng:	yes yes (.) yes always together
-*ESF:	[- spa] sí sí sí sí sí . %snd:"patagonia38"_554892_556486
+*ESF:	[- spa] sí sí sí sí sí . 554892_556486
 %eng:	yes yes yes yes
-*INE:	[- spa] no no no por suerte +.. . %snd:"patagonia38"_556934_558764
+*INE:	[- spa] no no no por suerte +... 556934_558764
 %eng:	no no no, luckily...
-*INE:	[- spa] así que bueno . %snd:"patagonia38"_559926_562209
+*INE:	[- spa] así que bueno . 559926_562209
 %eng:	so, fine
-*INE:	[- spa] bueno lo bueno sabés qué ? %snd:"patagonia38"_562751_564447
+*INE:	[- spa] bueno lo bueno sabés qué ? 562751_564447
 %eng:	well, you know what the good thing is?
-*INE:	[- spa] que estoy viendo que ustedes están poblando bastante . %snd:"patagonia38"_564420_568244
+*INE:	[- spa] que estoy viendo que ustedes están poblando bastante . 564420_568244
 %eng:	that I am seeing that your population is increasing
-*INE:	[- spa] así que si dios quiere voy a tener unos cuantos alumnos para la escuela de galés dentro de unos años . %snd:"patagonia38"_568436_572761
+*INE:	[- spa] así que si dios quiere voy a tener unos cuantos alumnos para la escuela de galés dentro de unos años . 568436_572761
 %eng:	so, God willing, I will have some students for the Welsh School in a few years
-*ESF:	[- spa] +< mirá . %snd:"patagonia38"_571862_572796
+*ESF:	[- spa] +< mirá . 571862_572796
 %eng:	look
-*ESF:	Lois@s:cym&spa Eilir@s:cym&spa . %snd:"patagonia38"_572922_574127
-*INE:	+< Lois@s:cym&spa Eilir@s:cym&spa Elizabeth@s:cym&spa . %snd:"patagonia38"_573508_575631
-*ESF:	pwy yw Elizabeth@s:cym&spa ? %snd:"patagonia38"_576060_577116
+*ESF:	Lois@s:cym&spa Eilir@s:cym&spa . 572922_574127
+*INE:	+< Lois@s:cym&spa Eilir@s:cym&spa Elizabeth@s:cym&spa . 573508_575631
+*ESF:	pwy yw Elizabeth@s:cym&spa ? 576060_577116
 %eng:	who's Elizabeth?
-*INE:	Elizabeth@s:cym&spa (.) merch Michelle@s:cym&spa . %snd:"patagonia38"_576796_579612
+*INE:	Elizabeth@s:cym&spa (.) merch Michelle@s:cym&spa . 576796_579612
 %eng:	Elizabeth, Michelle's daughter
-*ESF:	ah@s:cym&spa Elizabeth@s:cym&spa cuántos@s:spa [/] cuánto@s:spa tiene@s:spa ? %snd:"patagonia38"_579835_582310
+*ESF:	ah@s:cym&spa Elizabeth@s:cym&spa cuántos@s:spa [/] cuánto@s:spa tiene@s:spa ? 579835_582310
 %eng:	ah Elizabeth, how old is she ?
-*INE:	[- spa] y dos años . %snd:"patagonia38"_582342_583366
+*INE:	[- spa] y dos años . 582342_583366
 %eng:	and, two years old
-*ESF:	[- spa] dos años . %snd:"patagonia38"_583793_584923
+*ESF:	[- spa] dos años . 583793_584923
 %eng:	two years
-*INE:	[- spa] +< un año cumplió ahora en junio . %snd:"patagonia38"_584283_586577
+*INE:	[- spa] +< un año cumplió ahora en junio . 584283_586577
 %eng:	she turned one just in June
-*ESF:	+< mm . %snd:"patagonia38"_586491_587665
-*ESF:	[- spa] mirá vos . %snd:"patagonia38"_589625_590596
+*ESF:	+< mm . 586491_587665
+*ESF:	[- spa] mirá vos . 589625_590596
 %eng:	look for yourself
-*ESF:	[- spa] y ya camina ? %snd:"patagonia38"_591652_592825
+*ESF:	[- spa] y ya camina ? 591652_592825
 %eng:	and she's already walking?
-*ESF:	[- spa] sí . %snd:"patagonia38"_593006_593646
+*ESF:	[- spa] sí . 593006_593646
 %eng:	yes
-*INE:	[- spa] +< sí . %snd:"patagonia38"_593166_593561
+*INE:	[- spa] +< sí . 593166_593561
 %eng:	yes
-*ESF:	aw@s:cym&spa . %snd:"patagonia38"_593847_594540
-*INE:	[- spa] está hermosa . %snd:"patagonia38"_594465_595948
+*ESF:	aw@s:cym&spa . 593847_594540
+*INE:	[- spa] está hermosa . 594465_595948
 %eng:	she's beautiful
-*INE:	[- spa] te hace +// . %snd:"patagonia38"_596224_596528
+*INE:	[- spa] te hace +//. 596224_596528
 %eng:	she's doing a [...] you...
-*INE:	[- spa] te ve . %snd:"patagonia38"_596528_596859
+*INE:	[- spa] te ve . 596528_596859
 %eng:	she's watching you
-*INE:	[- spa] y te hace che . %snd:"patagonia38"_596776_597643
+*INE:	[- spa] y te hace che . 596776_597643
 %eng:	and she makes you "che"
-*ESF:	y@s:spa la@s:spa hija@s:spa de@s:spa Alma@s:cym&spa . %snd:"patagonia38"_597868_599660
+*ESF:	y@s:spa la@s:spa hija@s:spa de@s:spa Alma@s:cym&spa . 597868_599660
 %eng:	and Alma's daughter
-*INE:	+< de@s:spa Antonio@s:cym&spa . %snd:"patagonia38"_598839_600108
+*INE:	+< de@s:spa Antonio@s:cym&spa . 598839_600108
 %eng:	Antonio's
-*ESF:	la@s:spa hija@s:spa de@s:spa Alma@s:cym&spa (.) o@s:spa hijo@s:spa . %snd:"patagonia38"_600211_601961
+*ESF:	la@s:spa hija@s:spa de@s:spa Alma@s:cym&spa (.) o@s:spa hijo@s:spa . 600211_601961
 %eng:	Alma's daughter or son
-*INE:	+< de@s:spa qué@s:spa Alma@s:cym&spa ? %snd:"patagonia38"_601145_601913
+*INE:	+< de@s:spa qué@s:spa Alma@s:cym&spa ? 601145_601913
 %eng:	which Alma?
-*ESF:	Alma_Jones@s:cym&spa . %snd:"patagonia38"_602073_603385
+*ESF:	Alma_Jones@s:cym&spa . 602073_603385
 %eng:	Alma_Jones
-*INE:	[- spa] no me digas que está embarazada ! %snd:"patagonia38"_603662_605924
+*INE:	[- spa] no me digas que está embarazada ! 603662_605924
 %eng:	don't tell me she's pregnant!
-*ESF:	[- spa] +< sí está embarazada . %snd:"patagonia38"_604494_606564
+*ESF:	[- spa] +< sí está embarazada . 604494_606564
 %eng:	yes, she's pregnant
-*INE:	ah@s:cym&spa qué@s:spa lindo@s:spa ! %snd:"patagonia38"_606372_608665
+*INE:	ah@s:cym&spa qué@s:spa lindo@s:spa ! 606372_608665
 %eng:	ah how nice!
-*ESF:	mae hi (y)n disgwyl babi . %snd:"patagonia38"_608724_609993
+*ESF:	mae hi (y)n disgwyl babi . 608724_609993
 %eng:	she's expecting a baby
-*INE:	mm (.) ojalá@s:spa que@s:spa sea@s:spa nena@s:spa . %snd:"patagonia38"_610288_612582
+*INE:	mm (.) ojalá@s:spa que@s:spa sea@s:spa nena@s:spa . 610288_612582
 %eng:	I hope it is a girl
-*ESF:	+< xxx . %snd:"patagonia38"_611622_611963
-*ESF:	[- spa] no (.) varón . %snd:"patagonia38"_612934_614704
+*ESF:	+< xxx . 611622_611963
+*ESF:	[- spa] no (.) varón . 612934_614704
 %eng:	no, boy
-*INE:	[- spa] +< no porque los varones no quieren ir a Galés . %snd:"patagonia38"_614361_616185
+*INE:	[- spa] +< no porque los varones no quieren ir a Galés . 614361_616185
 %eng:	no because boys don't want to go to Welsh classes
-*INE:	mm Estefania@s:cym&spa dim_ond [/] dim_ond Ronald@s:cym&spa +/ . %snd:"patagonia38"_616291_619705
+*INE:	mm Estefania@s:cym&spa dim_ond [/] dim_ond Ronald@s:cym&spa +/. 616291_619705
 %eng:	mm, Estefania, only Ronald...
-*ESF:	mm . %snd:"patagonia38"_620238_620675
-*INE:	+, eh@s:cym&spa bachgen arall ddim mynd i (y)r ysgol Gymraeg . %snd:"patagonia38"_621081_624708
+*ESF:	mm . 620238_620675
+*INE:	+, eh@s:cym&spa bachgen arall ddim mynd i (y)r ysgol Gymraeg . 621081_624708
 %eng:	eh, no other boy goes to the Welsh school
-*ESF:	+< mae Ronald@s:cym&spa xxx . %snd:"patagonia38"_621871_623236
+*ESF:	+< mae Ronald@s:cym&spa xxx . 621871_623236
 %eng:	Ronald...
-*ESF:	y@s:spa Eduardo@s:cym&spa ? %snd:"patagonia38"_624815_625785
+*ESF:	y@s:spa Eduardo@s:cym&spa ? 624815_625785
 %eng:	and Eduardo ?
-*INE:	+< wn i ddim . %snd:"patagonia38"_625060_625892
+*INE:	+< wn i ddim . 625060_625892
 %eng:	I don't know
-*INE:	Eduardo@s:cym&spa (.) mae (y)n dibynnu . %snd:"patagonia38"_626632_628765
+*INE:	Eduardo@s:cym&spa (.) mae (y)n dibynnu . 626632_628765
 %eng:	Eduardo, it depends
-*INE:	mae o dim yn hoffi dysgu Cymraeg . %snd:"patagonia38"_629640_631315
+*INE:	mae o dim yn hoffi dysgu Cymraeg . 629640_631315
 %eng:	he doesn't like learning Welsh
-*ESF:	mm y@s:spa [/] y@s:spa pam mae o (y)n mynd ? %snd:"patagonia38"_631916_633943
+*ESF:	mm y@s:spa [/] y@s:spa pam mae o (y)n mynd ? 631916_633943
 %eng:	mm and why does he go?
-*INE:	oh@s:cym&spa achos mae ei dad +.. . %snd:"patagonia38"_634103_636481
+*INE:	oh@s:cym&spa achos mae ei dad +... 634103_636481
 %eng:	oh, because his father...
-*ESF:	+< mae ei dad . %snd:"patagonia38"_635351_636396
+*ESF:	+< mae ei dad . 635351_636396
 %eng:	his father...
-*ESF:	oh@s:cym&spa claro@s:spa . %snd:"patagonia38"_636716_638828
+*ESF:	oh@s:cym&spa claro@s:spa . 636716_638828
 %eng:	oh of course
-*INE:	[- spa] pero si [/] si papa no los lleva él no va . %snd:"patagonia38"_639369_641876
+*INE:	[- spa] pero si [/] si papa no los lleva él no va . 639369_641876
 %eng:	but if daddy doesn't bring them, he doesn't go
-*INE:	[- spa] &e ha perdido (.) quatro veces el cuaderno en lo que va del año . %snd:"patagonia38"_642207_647241
+*INE:	[- spa] &e ha perdido (.) quatro veces el cuaderno en lo que va del año . 642207_647241
 %eng:	he has lost his exercise book four times during the year
-*ESF:	[- spa] &=sigh (.) no quiere ir . %snd:"patagonia38"_646740_648447
+*ESF:	[- spa] &=sigh (.) no quiere ir . 646740_648447
 %eng:	he doesn't want to go
-*INE:	[- spa] no quiere ir . %snd:"patagonia38"_648447_649513
+*INE:	[- spa] no quiere ir . 648447_649513
 %eng:	he doesn't want to go
-*ESF:	[- spa] no (.) bueno +/ . %snd:"patagonia38"_650271_651210
+*ESF:	[- spa] no (.) bueno +/. 650271_651210
 %eng:	no, fine
-*INE:	[- spa] y así no sirve porque después sabes qué le agarran odio . %snd:"patagonia38"_651188_653994
+*INE:	[- spa] y así no sirve porque después sabes qué le agarran odio . 651188_653994
 %eng:	and it doesn't work when it's like that because later on you know that they hate it
-*ESF:	[- spa] +< no pobrecito . %snd:"patagonia38"_652970_653876
+*ESF:	[- spa] +< no pobrecito . 652970_653876
 %eng:	no, poor thing
-*ESF:	[- spa] odio sí . %snd:"patagonia38"_654079_654986
+*ESF:	[- spa] odio sí . 654079_654986
 %eng:	hate, yes
-*INE:	viste? %snd:"patagonia38"_654965_655487
+*INE:	viste? 654965_655487
 %eng:	see?
-*INE:	[- spa] y tampoco tenés mucha continuidad porque él se aburre +.. . %snd:"patagonia38"_655564_660395
+*INE:	[- spa] y tampoco tenés mucha continuidad porque él se aburre +... 655564_660395
 %eng:	and you don't have too much continuity either because he gets bored...
-*ESF:	[- spa] peor . %snd:"patagonia38"_661567_662613
+*ESF:	[- spa] peor . 661567_662613
 %eng:	worse
-*INE:	[- spa] pero bueno . %snd:"patagonia38"_663285_664255
+*INE:	[- spa] pero bueno . 663285_664255
 %eng:	but, fine
-*INE:	[- spa] está bueno . %snd:"patagonia38"_664405_665695
+*INE:	[- spa] está bueno . 664405_665695
 %eng:	it's ok
-*ESF:	mm . %snd:"patagonia38"_664650_666005
-*INE:	Ioan@s:cym&spa . %snd:"patagonia38"_670619_671494
-*INE:	Ioan@s:cym&spa Ioan@s:cym&spa . %snd:"patagonia38"_672721_673819
-*OSE:	xxx . %snd:"patagonia38"_672986_675877
-*ESF:	+< Ioan@s:cym&spa (.) mami (y)n siarad . %snd:"patagonia38"_673253_675461
+*ESF:	mm . 664650_666005
+*INE:	Ioan@s:cym&spa . 670619_671494
+*INE:	Ioan@s:cym&spa Ioan@s:cym&spa . 672721_673819
+*OSE:	xxx . 672986_675877
+*ESF:	+< Ioan@s:cym&spa (.) mami (y)n siarad . 673253_675461
 %eng:	Ioan, Mum's talking
-*INE:	+< eh@s:cym&spa ? %snd:"patagonia38"_674469_675397
-*INE:	eh@s:cym&spa ? %snd:"patagonia38"_676229_676720
-*OSE:	xxx . %snd:"patagonia38"_677098_678528
-*INE:	[- spa] bueno . %snd:"patagonia38"_678629_679344
+*INE:	+< eh@s:cym&spa ? 674469_675397
+*INE:	eh@s:cym&spa ? 676229_676720
+*OSE:	xxx . 677098_678528
+*INE:	[- spa] bueno . 678629_679344
 %eng:	good
-*ESF:	Juan@s:cym&spa ? %snd:"patagonia38"_679886_681321
-*OSE:	xxx . %snd:"patagonia38"_681444_682276
-*INE:	[- spa] eso espero . %snd:"patagonia38"_682534_683345
+*ESF:	Juan@s:cym&spa ? 679886_681321
+*OSE:	xxx . 681444_682276
+*INE:	[- spa] eso espero . 682534_683345
 %eng:	I hope so
-*ESF:	(e)fallai mae Ioan@s:cym&spa yn isio mynd gyda ti . %snd:"patagonia38"_683473_685830
+*ESF:	(e)fallai mae Ioan@s:cym&spa yn isio mynd gyda ti . 683473_685830
 %eng:	Ioan might want to go with you
-*INE:	&=laugh . %snd:"patagonia38"_685969_686694
-*INE:	(o)s gwelwch yn dda . %snd:"patagonia38"_687691_688971
+*INE:	&=laugh . 685969_686694
+*INE:	(o)s gwelwch yn dda . 687691_688971
 %eng:	please
-*ESF:	mae Ioan@s:cym&spa isio mynd gyda ti . %snd:"patagonia38"_689291_691915
+*ESF:	mae Ioan@s:cym&spa isio mynd gyda ti . 689291_691915
 %eng:	Ioan wants to go with you
-*OSE:	xxx . %snd:"patagonia38"_693611_694342
-*INE:	[- spa] sí . %snd:"patagonia38"_694379_694720
+*OSE:	xxx . 693611_694342
+*INE:	[- spa] sí . 694379_694720
 %eng:	yes
-*ESF:	ah@s:cym&spa muy@s:spa bien@s:spa . %snd:"patagonia38"_694755_696323
+*ESF:	ah@s:cym&spa muy@s:spa bien@s:spa . 694755_696323
 %eng:	ah very good
-*INE:	&=laugh . %snd:"patagonia38"_696152_696952
-*ESF:	[- spa] tomá &=laugh . %snd:"patagonia38"_697016_697581
+*INE:	&=laugh . 696152_696952
+*ESF:	[- spa] tomá &=laugh . 697016_697581
 %eng:	take it
-*OSE:	xxx . %snd:"patagonia38"_700872_702029
-*ESF:	mae o (y)n +/ . %snd:"patagonia38"_702067_702984
+*OSE:	xxx . 700872_702029
+*ESF:	mae o (y)n +/. 702067_702984
 %eng:	it's...
-*INE:	+< wyt ti isio cael maté@s:spa Juan@s:cym&spa ? %snd:"patagonia38"_702387_705021
+*INE:	+< wyt ti isio cael maté@s:spa Juan@s:cym&spa ? 702387_705021
 %eng:	do you want to have some maté, Juan?
-*OSE:	xxx . %snd:"patagonia38"_705710_706456
-*INE:	[- spa] tenés ? %snd:"patagonia38"_706653_707187
+*OSE:	xxx . 705710_706456
+*INE:	[- spa] tenés ? 706653_707187
 %eng:	have you got it ?
-*INE:	beth ydy tengo@s:spa ["] ? %snd:"patagonia38"_707561_708851
+*INE:	beth ydy tengo@s:spa ["] ? 707561_708851
 %eng:	what's "I have" ?
-*OSE:	xxx . %snd:"patagonia38"_708779_709280
-*INE:	beth ydy tengo@s:spa ["] yn Cymraeg ? %snd:"patagonia38"_709555_710995
+*OSE:	xxx . 708779_709280
+*INE:	beth ydy tengo@s:spa ["] yn Cymraeg ? 709555_710995
 %eng:	what's "I have" in Welsh?
-*OSE:	xxx . %snd:"patagonia38"_710816_711494
-*INE:	oes . %snd:"patagonia38"_711390_711891
+*OSE:	xxx . 710816_711494
+*INE:	oes . 711390_711891
 %eng:	yes
-*INE:	oes mate@s:spa gyda fi . %snd:"patagonia38"_712435_713683
+*INE:	oes mate@s:spa gyda fi . 712435_713683
 %eng:	yes, I've got some maté
-*OSE:	xxx . %snd:"patagonia38"_713752_714819
-*INE:	&=laugh . %snd:"patagonia38"_714782_715934
-*INE:	mae Juan@s:spa [///] (.) mae o (y)n siarad (.) tipyn bach +/ . %snd:"patagonia38"_716017_719825
+*OSE:	xxx . 713752_714819
+*INE:	&=laugh . 714782_715934
+*INE:	mae Juan@s:spa [///] (.) mae o (y)n siarad (.) tipyn bach +/. 716017_719825
 %eng:	Juan, he speaks a little...
-*ESF:	<yn y> [/] yn y clas ? %snd:"patagonia38"_720475_721606
+*ESF:	<yn y> [/] yn y clas ? 720475_721606
 %eng:	in class?
-*INE:	+, cael um (.) frawddeg (.) ia ? %snd:"patagonia38"_721889_726774
+*INE:	+, cael um (.) frawddeg (.) ia ? 721889_726774
 %eng:	gets a sentence, right?
-*ESF:	[- spa] sí . %snd:"patagonia38"_727030_727361
+*ESF:	[- spa] sí . 727030_727361
 %eng:	yes
-*INE:	a munud arall ? %snd:"patagonia38"_728175_730863
+*INE:	a munud arall ? 728175_730863
 %eng:	and the next minute?
-*INE:	dim yn cofio &=laugh . %snd:"patagonia38"_731162_735535
+*INE:	dim yn cofio &=laugh . 731162_735535
 %eng:	can't remember
-*INE:	&=laugh . %snd:"patagonia38"_733300_735198
-*ESF:	+< xxx . %snd:"patagonia38"_733306_734714
-*ESF:	na na na mae o (y)n well i [/] i ddarllen a i ysgrifennu (.) dw i (y)n credu . %snd:"patagonia38"_735665_739964
+*INE:	&=laugh . 733300_735198
+*ESF:	+< xxx . 733306_734714
+*ESF:	na na na mae o (y)n well i [/] i ddarllen a i ysgrifennu (.) dw i (y)n credu . 735665_739964
 %eng:	no, it's better to read and write, I think
-*INE:	+< a xx (.) beth +// . %snd:"patagonia38"_737346_739324
+*INE:	+< a xx (.) beth +//. 737346_739324
 %eng:	and [...] what...
-*INE:	beth ydy um (.) divertirse@s:spa ["] ? %snd:"patagonia38"_739697_742567
+*INE:	beth ydy um (.) divertirse@s:spa ["] ? 739697_742567
 %eng:	what is "to have fun"?
-*INE:	mwynhau ia era@s:spa no@s:spa ? %snd:"patagonia38"_742609_743751
+*INE:	mwynhau ia era@s:spa no@s:spa ? 742609_743751
 %eng:	enjoy, yes, wasn't it?
-*ESF:	ia mwynhau . %snd:"patagonia38"_743516_743996
+*ESF:	ia mwynhau . 743516_743996
 %eng:	yes, enjoy
-*INE:	ia . %snd:"patagonia38"_744017_744444
+*INE:	ia . 744017_744444
 %eng:	yes
-*INE:	[- spa] con estos . %snd:"patagonia38"_746060_747346
+*INE:	[- spa] con estos . 746060_747346
 %eng:	with these
-*INE:	vos@s:spa sí@s:spa no@s:spa sí@s:spa sabés lo@s:spa que@s:spa es@s:spa ese@s:spa grupo@s:spa . %snd:"patagonia38"_747362_749570
+*INE:	vos@s:spa sí@s:spa no@s:spa sí@s:spa sabés lo@s:spa que@s:spa es@s:spa ese@s:spa grupo@s:spa . 747362_749570
 %eng:	you know what this group is
-*INE:	[- spa] sí sí (.) pero claro . %snd:"patagonia38"_749992_752670
+*INE:	[- spa] sí sí (.) pero claro . 749992_752670
 %eng:	yes yes but of course
-*INE:	mae Siwan@s:cym&spa ddim yn deall (.) ddim_byd . %snd:"patagonia38"_753089_756801
+*INE:	mae Siwan@s:cym&spa ddim yn deall (.) ddim_byd . 753089_756801
 %eng:	Siwan doesn't understand anything
-*ESF:	+< dim_byd . %snd:"patagonia38"_755308_756055
+*ESF:	+< dim_byd . 755308_756055
 %eng:	nothing
-*ESF:	dim gair . %snd:"patagonia38"_756268_756780
+*ESF:	dim gair . 756268_756780
 %eng:	not a word
-*INE:	dim_byd . %snd:"patagonia38"_756887_758103
+*INE:	dim_byd . 756887_758103
 %eng:	nothing
-*ESF:	+< ond dw i (y)n credu mae Siwan@s:cym&spa ddim yn deall . %snd:"patagonia38"_757239_759265
+*ESF:	+< ond dw i (y)n credu mae Siwan@s:cym&spa ddim yn deall . 757239_759265
 %eng:	but I think Siwan doesn't understand
-*INE:	+< a mae ah@s:cym&spa &d eh@s:cym&spa (.) no puedo@s:spa . %snd:"patagonia38"_758160_762117
-%eng:	and she.. . ah.. . eh, I can't
-*INE:	eh@s:cym&spa esto@s:spa no@s:spa me@s:spa sale@s:spa . %snd:"patagonia38"_762981_764560
+*INE:	+< a mae ah@s:cym&spa &d eh@s:cym&spa (.) no puedo@s:spa . 758160_762117
+%eng:	and she... ah... eh, I can't
+*INE:	eh@s:cym&spa esto@s:spa no@s:spa me@s:spa sale@s:spa . 762981_764560
 %eng:	eh I can't say this
-*INE:	ynde (.) dim problem . %snd:"patagonia38"_764752_766267
+*INE:	ynde (.) dim problem . 764752_766267
 %eng:	yes, no problem
-*INE:	[- spa] yo la salteo . %snd:"patagonia38"_766366_768052
+*INE:	[- spa] yo la salteo . 766366_768052
 %eng:	I'll skip it
-*ESF:	xxx . %snd:"patagonia38"_768692_769737
-*INE:	[- spa] porque si no esto se me aburre . %snd:"patagonia38"_769257_770654
+*ESF:	xxx . 768692_769737
+*INE:	[- spa] porque si no esto se me aburre . 769257_770654
 %eng:	because if not, this gets boring
-*ESF:	no@s:spa dw i (y)n credu mae Siwan@s:cym&spa ddim yn deall (.) um yr iaith a bethau arall . %snd:"patagonia38"_770629_777019
+*ESF:	no@s:spa dw i (y)n credu mae Siwan@s:cym&spa ddim yn deall (.) um yr iaith a bethau arall . 770629_777019
 %eng:	no, I think Siwan doesn't understand the language and other things
-*ESF:	dw i (y)n credu mae [/] mae <hi (y)n> [/] hi (y)n +.. . %snd:"patagonia38"_777053_779677
+*ESF:	dw i (y)n credu mae [/] mae <hi (y)n> [/] hi (y)n +... 777053_779677
 %eng:	I think she...
-*ESF:	ia . %snd:"patagonia38"_780360_781138
+*ESF:	ia . 780360_781138
 %eng:	yes
-*INE:	mae Alejandra@s:cym&spa (.) xxx [=! whisper] . %snd:"patagonia38"_781532_784306
+*INE:	mae Alejandra@s:cym&spa (.) xxx [=! whisper] . 781532_784306
 %eng:	Alejandra is [...]
-*ESF:	pwy Alejandra@s:cym&spa ? %snd:"patagonia38"_783570_784220
+*ESF:	pwy Alejandra@s:cym&spa ? 783570_784220
 %eng:	who, Alejandra?
-*INE:	ah@s:cym&spa Alejandra@s:cym&spa la@s:spa Almendocina@s:cym&spa ? %snd:"patagonia38"_784402_785991
+*INE:	ah@s:cym&spa Alejandra@s:cym&spa la@s:spa Almendocina@s:cym&spa ? 784402_785991
 %eng:	ah Alejandra, the Almendocina ?
-*ESF:	[- spa] ay divina . %snd:"patagonia38"_786044_787047
+*ESF:	[- spa] ay divina . 786044_787047
 %eng:	ah delicious
-*INE:	a (y)r xxx . %snd:"patagonia38"_787005_787880
+*INE:	a (y)r xxx . 787005_787880
 %eng:	and the [...]
-*INE:	mae Alejandra@s:cym&spa Miguela@s:cym&spa Elena@s:spa a Juan@s:cym&spa &=clicks_fingers . %snd:"patagonia38"_788168_793608
+*INE:	mae Alejandra@s:cym&spa Miguela@s:cym&spa Elena@s:spa a Juan@s:cym&spa &=clicks_fingers . 788168_793608
 %eng:	there's Alejandra, Miguela, Elena and Juan
-*ESF:	ia . %snd:"patagonia38"_794344_794856
+*ESF:	ia . 794344_794856
 %eng:	yes
-*INE:	felly er@s:cym&spa flwyddyn nesa (.) dw i (y)n (.) dweud (.) Siwan@s:cym&spa (.) cwrs Wlpan@s:cym&spa (.) eto . %snd:"patagonia38"_794828_806753
+*INE:	felly er@s:cym&spa flwyddyn nesa (.) dw i (y)n (.) dweud (.) Siwan@s:cym&spa (.) cwrs Wlpan@s:cym&spa (.) eto . 794828_806753
 %eng:	so next year I'm saying Siwan, Wlpan course again
-*ESF:	+< un eto . %snd:"patagonia38"_806177_807095
+*ESF:	+< un eto . 806177_807095
 %eng:	another one
-*ESF:	ia ah@s:cym&spa . %snd:"patagonia38"_807062_807958
+*ESF:	ia ah@s:cym&spa . 807062_807958
 %eng:	yes, ah
-*INE:	achos mae [/] mae hi ddim mynd i (y)r Wlpan@s:cym&spa dau . %snd:"patagonia38"_808790_812310
+*INE:	achos mae [/] mae hi ddim mynd i (y)r Wlpan@s:cym&spa dau . 808790_812310
 %eng:	because she isn't going to the Wlpan 2
-*ESF:	no@s:spa maen nhw (y)n gallu +.. . %snd:"patagonia38"_812737_814614
+*ESF:	no@s:spa maen nhw (y)n gallu +... 812737_814614
 %eng:	no, they can...
-*INE:	<dim yn> [/] dim yn deall eh@s:cym&spa lo@s:spa [/] lo@s:spa básico@s:spa . %snd:"patagonia38"_813846_817196
+*INE:	<dim yn> [/] dim yn deall eh@s:cym&spa lo@s:spa [/] lo@s:spa básico@s:spa . 813846_817196
 %eng:	doesn't understand the basics
-*ESF:	[- spa] claro no no . %snd:"patagonia38"_817686_818476
+*ESF:	[- spa] claro no no . 817686_818476
 %eng:	of course, no no
-*ESF:	[- spa] no no no . %snd:"patagonia38"_818604_819372
+*ESF:	[- spa] no no no . 818604_819372
 %eng:	no no no
-*INE:	viste por@s:spa ej(emplo)@s:spa +/ . %snd:"patagonia38"_819321_820068
+*INE:	viste por@s:spa ej(emplo)@s:spa +/. 819321_820068
 %eng:	you see, for example...
-*ESF:	[- spa] +< la construcción del xxx . %snd:"patagonia38"_819791_821305
+*ESF:	[- spa] +< la construcción del xxx . 819791_821305
 %eng:	the construction of [...]
-*INE:	+< por@s:spa ejemplo@s:spa eh@s:cym&spa yo@s:spa por@s:spa lo@s:spa general@s:spa les@s:spa hago@s:spa preguntitas@s:spa así@s:spa viste@s:spa todas@s:spa las@s:spa clases@s:spa así@s:spa unas@s:spa preguntitas@s:spa de@s:spa lo@s:spa que@s:spa hemos@s:spa estado@s:spa viendo@s:spa . %snd:"patagonia38"_820623_827748
+*INE:	+< por@s:spa ejemplo@s:spa eh@s:cym&spa yo@s:spa por@s:spa lo@s:spa general@s:spa les@s:spa hago@s:spa preguntitas@s:spa así@s:spa viste@s:spa todas@s:spa las@s:spa clases@s:spa así@s:spa unas@s:spa preguntitas@s:spa de@s:spa lo@s:spa que@s:spa hemos@s:spa estado@s:spa viendo@s:spa . 820623_827748
 %eng:	for example, eh, generally, I give them little questions, you see, in all the classes, like this, some little questions about what we have been studying
-*INE:	[- spa] pero ahí ya no se acuerda +"/ . %snd:"patagonia38"_828367_830308
+*INE:	[- spa] pero ahí ya no se acuerda +"/. 828367_830308
 %eng:	but then she doesn't even remember:
-*INE:	+" pwy wyt ti ? %snd:"patagonia38"_830415_831929
+*INE:	+" pwy wyt ti ? 830415_831929
 %eng:	"who are you"?
-*ESF:	[- spa] no claro . %snd:"patagonia38"_832583_833565
+*ESF:	[- spa] no claro . 832583_833565
 %eng:	no of course
-*ESF:	[- spa] no no no es como tipo otro los otros viste . %snd:"patagonia38"_833714_837191
+*ESF:	[- spa] no no no es como tipo otro los otros viste . 833714_837191
 %eng:	no no no it's like, another, the others, you see
-*INE:	+< xxx [=! whisper] . %snd:"patagonia38"_835847_837789
-*ESF:	[- spa] sí sí sí . %snd:"patagonia38"_837853_839090
+*INE:	+< xxx [=! whisper] . 835847_837789
+*ESF:	[- spa] sí sí sí . 837853_839090
 %eng:	yes yes yes
-*ESF:	[- spa] como xxx . %snd:"patagonia38"_839784_841987
+*ESF:	[- spa] como xxx . 839784_841987
 %eng:	like [...]
-*INE:	+< mm . %snd:"patagonia38"_841693_842152
-*ESF:	a (.) wyt ti (y)n mynd i (y)r cwrs bellach gyda Alex@s:cym&spa ? %snd:"patagonia38"_842868_846009
+*INE:	+< mm . 841693_842152
+*ESF:	a (.) wyt ti (y)n mynd i (y)r cwrs bellach gyda Alex@s:cym&spa ? 842868_846009
 %eng:	and are you going to the intermediate course with Alex?
-*INE:	ie . %snd:"patagonia38"_846079_846745
+*INE:	ie . 846079_846745
 %eng:	yes
-*ESF:	[- spa] +< no . %snd:"patagonia38"_846367_846991
+*ESF:	[- spa] +< no . 846367_846991
 %eng:	no
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_847362_848023
-*INE:	mae +/ . %snd:"patagonia38"_848969_849539
-*ESF:	beth [///] (.) (y)dy anti Delyth@s:cym&spa yn mynd ? %snd:"patagonia38"_849790_852558
+*ESF:	ah@s:cym&spa . 847362_848023
+*INE:	mae +/. 848969_849539
+*ESF:	beth [///] (.) (y)dy anti Delyth@s:cym&spa yn mynd ? 849790_852558
 %eng:	what, is Auntie Delyth going?
-*ESF:	na . %snd:"patagonia38"_852709_853056
+*ESF:	na . 852709_853056
 %eng:	no
-*INE:	&=laugh . %snd:"patagonia38"_853360_854000
-*ESF:	wel (.) pan <mae o> [//] mae hi (y)n gallu . %snd:"patagonia38"_853638_855678
+*INE:	&=laugh . 853360_854000
+*ESF:	wel (.) pan <mae o> [//] mae hi (y)n gallu . 853638_855678
 %eng:	well, when she can
-*INE:	&=laugh . %snd:"patagonia38"_855683_856382
-*ESF:	&=laugh . %snd:"patagonia38"_856334_857214
-*INE:	eh@s:cym&spa na na na mae hi (y)n mynd i (y)r +/ . %snd:"patagonia38"_857390_859976
+*INE:	&=laugh . 855683_856382
+*ESF:	&=laugh . 856334_857214
+*INE:	eh@s:cym&spa na na na mae hi (y)n mynd i (y)r +/. 857390_859976
 %eng:	er, no no she goes to the...
-*ESF:	pwy arall yn mynd ? %snd:"patagonia38"_860412_861638
+*ESF:	pwy arall yn mynd ? 860412_861638
 %eng:	who else is going?
-*ESF:	Michelle@s:cym&spa ? %snd:"patagonia38"_861969_862470
-*INE:	eh@s:cym&spa na . %snd:"patagonia38"_862518_863164
+*ESF:	Michelle@s:cym&spa ? 861969_862470
+*INE:	eh@s:cym&spa na . 862518_863164
 %eng:	er, no
-*INE:	eh@s:cym&spa bueno@s:spa (.) Michelle@s:cym&spa eh@s:cym&spa (.) sy (y)n dechrau (.) gyda ni . %snd:"patagonia38"_863683_868749
+*INE:	eh@s:cym&spa bueno@s:spa (.) Michelle@s:cym&spa eh@s:cym&spa (.) sy (y)n dechrau (.) gyda ni . 863683_868749
 %eng:	er well, Michelle is starting with us
-*ESF:	ia wedyn +/ . %snd:"patagonia38"_869005_869613
+*ESF:	ia wedyn +/. 869005_869613
 %eng:	yes, then...
-*INE:	+< ond dim eh@s:cym&spa +/ . %snd:"patagonia38"_869127_870615
+*INE:	+< ond dim eh@s:cym&spa +/. 869127_870615
 %eng:	but not, er...
-*ESF:	wel Michelle@s:cym&spa [//] dechreuodd Michelle@s:cym&spa gyda fi (.) a wedyn mae hi wedi newid i [/] i (y)r cwrs iddi hi . %snd:"patagonia38"_870149_875685
+*ESF:	wel Michelle@s:cym&spa [//] dechreuodd Michelle@s:cym&spa gyda fi (.) a wedyn mae hi wedi newid i [/] i (y)r cwrs iddi hi . 870149_875685
 %eng:	well, Michelle started with me and now she's changed to the course for her
-*INE:	+< mm . %snd:"patagonia38"_872473_872809
-*INE:	+< no@s:spa (.) um ar_ôl wyliau +.. . %snd:"patagonia38"_874911_878426
+*INE:	+< mm . 872473_872809
+*INE:	+< no@s:spa (.) um ar_ôl wyliau +... 874911_878426
 %eng:	no, um, after the holidays...
-*ESF:	[- spa] sí . %snd:"patagonia38"_878962_879346
+*ESF:	[- spa] sí . 878962_879346
 %eng:	yes
-*INE:	[- spa] de invierno que no me acuerdo cómo se dice . %snd:"patagonia38"_879399_881234
+*INE:	[- spa] de invierno que no me acuerdo cómo se dice . 879399_881234
 %eng:	from winter, I don't remember how to say it
-*ESF:	+< sí@s:spa gaeaf . %snd:"patagonia38"_880215_881090
+*ESF:	+< sí@s:spa gaeaf . 880215_881090
 %eng:	yes, winter
-*INE:	gaeaf ? %snd:"patagonia38"_881319_881975
+*INE:	gaeaf ? 881319_881975
 %eng:	winter?
-*INE:	dim mynd i (y)r cwrs pellach . %snd:"patagonia38"_882458_884164
+*INE:	dim mynd i (y)r cwrs pellach . 882458_884164
 %eng:	not going to the intermediate course
-*ESF:	ah@s:cym&spa bueno@s:spa . %snd:"patagonia38"_884831_885519
+*ESF:	ah@s:cym&spa bueno@s:spa . 884831_885519
 %eng:	ah right
-*INE:	+< achos (.) dim amser gyda babi gyda (.) eh@s:cym&spa weithio (.) gyda (.) eh@s:cym&spa dosbarth Cymraeg dim . %snd:"patagonia38"_885146_894106
+*INE:	+< achos (.) dim amser gyda babi gyda (.) eh@s:cym&spa weithio (.) gyda (.) eh@s:cym&spa dosbarth Cymraeg dim . 885146_894106
 %eng:	because no time what with the baby, with working, with, er Welsh class, none
-*ESF:	[- spa] +< sí . %snd:"patagonia38"_892433_892988
+*ESF:	[- spa] +< sí . 892433_892988
 %eng:	yes
-*INE:	mae [/] mae hi (y)n wedi blino trwy (y)r amser . %snd:"patagonia38"_894310_896380
+*INE:	mae [/] mae hi (y)n wedi blino trwy (y)r amser . 894310_896380
 %eng:	she's tired all the time
-*ESF:	ia ia . %snd:"patagonia38"_896572_897244
+*ESF:	ia ia . 896572_897244
 %eng:	yes, yes
-*ESF:	ia fel fi . %snd:"patagonia38"_897457_898108
+*ESF:	ia fel fi . 897457_898108
 %eng:	yes, like me
-*INE:	+< ie ? %snd:"patagonia38"_897617_898033
+*INE:	+< ie ? 897617_898033
 %eng:	yes?
-*ESF:	fel fi . %snd:"patagonia38"_898207_898698
+*ESF:	fel fi . 898207_898698
 %eng:	like me
-*INE:	ie . %snd:"patagonia38"_898847_899199
+*INE:	ie . 898847_899199
 %eng:	yes
-*ESF:	dechreuais i (y)r cwrs uwch a wedyn &=deep_breath dw i wedi fel (.) exhausta@s:spa viste@s:spa gyda embarazo@s:spa (.) disgwyl babi . %snd:"patagonia38"_899300_910777
+*ESF:	dechreuais i (y)r cwrs uwch a wedyn &=deep_breath dw i wedi fel (.) exhausta@s:spa viste@s:spa gyda embarazo@s:spa (.) disgwyl babi . 899300_910777
 %eng:	I started the advanced course and then I'm, like, exhausted, you see, with the pregnancy
-*INE:	+< &=sigh . %snd:"patagonia38"_900366_901561
-*INE:	+< eh@s:cym&spa oh@s:cym&spa . %snd:"patagonia38"_909312_909994
-*ESF:	a [/] a (y)r eh@s:cym&spa waith a mynd rhywle . %snd:"patagonia38"_911053_915576
+*INE:	+< &=sigh . 900366_901561
+*INE:	+< eh@s:cym&spa oh@s:cym&spa . 909312_909994
+*ESF:	a [/] a (y)r eh@s:cym&spa waith a mynd rhywle . 911053_915576
 %eng:	and, er, work, and going anywhere
-*INE:	+< na . %snd:"patagonia38"_914509_915117
+*INE:	+< na . 914509_915117
 %eng:	no
-*ESF:	a cawson [/] chawson ni ddim eh@s:cym&spa amser i aros dipyn bach yn y tŷ . %snd:"patagonia38"_915737_921326
+*ESF:	a cawson [/] chawson ni ddim eh@s:cym&spa amser i aros dipyn bach yn y tŷ . 915737_921326
 %eng:	and we had no time to stay for a little bit in the house
-*ESF:	a ddim y [/] y pnawn i [/] i fi i eistedd i ymlacio i [/] i tejer@s:spa i wneud dim_byd . %snd:"patagonia38"_921528_929144
+*ESF:	a ddim y [/] y pnawn i [/] i fi i eistedd i ymlacio i [/] i tejer@s:spa i wneud dim_byd . 921528_929144
 %eng:	and not the afternoon for me to sit, to relax, to knit, to do anything
-*INE:	ie . %snd:"patagonia38"_929368_929784
+*INE:	ie . 929368_929784
 %eng:	yes
-*ESF:	[- spa] no no no xxx antes del cambio de función . %snd:"patagonia38"_929903_932730
+*ESF:	[- spa] no no no xxx antes del cambio de función . 929903_932730
 %eng:	no no no before changing function
-*INE:	&=hiss . %snd:"patagonia38"_933093_933765
-*ESF:	a wedyn dw i wedi newid y [//] yr (.) gwaith (.) yn y gwaith . %snd:"patagonia38"_933237_936789
+*INE:	&=hiss . 933093_933765
+*ESF:	a wedyn dw i wedi newid y [//] yr (.) gwaith (.) yn y gwaith . 933237_936789
 %eng:	and then I've changed work
-*INE:	ie . %snd:"patagonia38"_937130_937770
+*INE:	ie . 937130_937770
 %eng:	yes.
-*ESF:	[- spa] no no no . %snd:"patagonia38"_938858_939498
+*ESF:	[- spa] no no no . 938858_939498
 %eng:	no no no
-*INE:	dw i wedi blino rŵan . %snd:"patagonia38"_939600_941338
+*INE:	dw i wedi blino rŵan . 939600_941338
 %eng:	I'm tired now
-*INE:	mae (.) cefn tost gyda fi (.) trwy (y)r amser . %snd:"patagonia38"_941669_946256
+*INE:	mae (.) cefn tost gyda fi (.) trwy (y)r amser . 941669_946256
 %eng:	I've got an aching back all the time
-*ESF:	+< y@s:spa sí@s:spa Inez@s:cym&spa . %snd:"patagonia38"_942042_943045
+*ESF:	+< y@s:spa sí@s:spa Inez@s:cym&spa . 942042_943045
 %eng:	and yes, Inez
-*INE:	mae pen tost . %snd:"patagonia38"_946320_947482
+*INE:	mae pen tost . 946320_947482
 %eng:	head's aching
-*ESF:	cefn tost pam ? %snd:"patagonia38"_948450_949639
+*ESF:	cefn tost pam ? 948450_949639
 %eng:	aching back, why?
-*INE:	xxx &=slaps_back . %snd:"patagonia38"_949679_950634
-*ESF:	wyt ti (y)n dal +// . %snd:"patagonia38"_950639_951140
+*INE:	xxx &=slaps_back . 949679_950634
+*ESF:	wyt ti (y)n dal +//. 950639_951140
 %eng:	are you still...
-*ESF:	ah@s:cym&spa ia . %snd:"patagonia38"_951183_951754
+*ESF:	ah@s:cym&spa ia . 951183_951754
 %eng:	ah yes
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_951700_952490
-*ESF:	wyt ti (y)n dal i mynd i (y)r (.) gym ? %snd:"patagonia38"_952239_953876
+*INE:	ah@s:cym&spa . 951700_952490
+*ESF:	wyt ti (y)n dal i mynd i (y)r (.) gym ? 952239_953876
 %eng:	do you still go to the gym?
-*INE:	ie . %snd:"patagonia38"_954038_954780
+*INE:	ie . 954038_954780
 %eng:	yes
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_955009_955542
-*INE:	ond (.) &=sigh ahí@s:spa sí@s:spa que@s:spa termino@s:spa mal@s:spa &=laugh . %snd:"patagonia38"_955748_959892
+*ESF:	ah@s:cym&spa . 955009_955542
+*INE:	ond (.) &=sigh ahí@s:spa sí@s:spa que@s:spa termino@s:spa mal@s:spa &=laugh . 955748_959892
 %eng:	but, I feel bad when I finish
-*INE:	ahora@s:spa [//] rŵan . %snd:"patagonia38"_959887_960831
+*INE:	ahora@s:spa [//] rŵan . 959887_960831
 %eng:	now, now
-*ESF:	+< <y spinning> [?] ? %snd:"patagonia38"_960409_961279
+*ESF:	+< <y spinning> [?] ? 960409_961279
 %eng:	the spinning?
-*INE:	ie . %snd:"patagonia38"_961215_961711
+*INE:	ie . 961215_961711
 %eng:	yes
-*ESF:	[- spa] +< no . %snd:"patagonia38"_961337_961609
+*ESF:	[- spa] +< no . 961337_961609
 %eng:	no
-*INE:	dw i (y)n mynd i (y)r spinning [?] . %snd:"patagonia38"_961844_962724
+*INE:	dw i (y)n mynd i (y)r spinning [?] . 961844_962724
 %eng:	I go to the spinning
-*INE:	ac rŵan (.) eh@s:cym&spa wythnos nesaf (.) dechrau (.) yn y gym@s:spa (.) eh@s:cym&spa dosbarth eh@s:cym&spa pilates@s:cym&spa . %snd:"patagonia38"_962798_971758
+*INE:	ac rŵan (.) eh@s:cym&spa wythnos nesaf (.) dechrau (.) yn y gym@s:spa (.) eh@s:cym&spa dosbarth eh@s:cym&spa pilates@s:cym&spa . 962798_971758
 %eng:	and now, er, next week starting at the gym, a pilates class
-*ESF:	ah@s:cym&spa pilates@s:cym&spa gyda (y)r peiriant ? %snd:"patagonia38"_962798_972065
+*ESF:	ah@s:cym&spa pilates@s:cym&spa gyda (y)r peiriant ? 962798_972065
 %eng:	ah pilates, with the machine?
-*INE:	ie ie gyda eh@s:cym&spa eh@s:cym&spa wely . %snd:"patagonia38"_975387_977755
+*INE:	ie ie gyda eh@s:cym&spa eh@s:cym&spa wely . 975387_977755
 %eng:	yes yes with, er, a bed
-*ESF:	+< neu +.. . %snd:"patagonia38"_975491_976611
-*ESF:	[- spa] colchoneta . %snd:"patagonia38"_977627_978117
+*ESF:	+< neu +... 975491_976611
+*ESF:	[- spa] colchoneta . 977627_978117
 %eng:	a mat
-*ESF:	ah@s:cym&spa sí@s:spa . %snd:"patagonia38"_978160_978757
+*ESF:	ah@s:cym&spa sí@s:spa . 978160_978757
 %eng:	ah yes
-*INE:	+< wely <yn y> [/] yn y wely pilates@s:cym&spa . %snd:"patagonia38"_978352_979995
+*INE:	+< wely <yn y> [/] yn y wely pilates@s:cym&spa . 978352_979995
 %eng:	a bed, in the pilates bed
-*ESF:	[- spa] buenísimo ! %snd:"patagonia38"_980571_981317
+*ESF:	[- spa] buenísimo ! 980571_981317
 %eng:	excellent!
-*INE:	um +.. . %snd:"patagonia38"_981381_982491
-*ESF:	mam yn mynd i pilates@s:cym&spa . %snd:"patagonia38"_982533_983899
+*INE:	um +... 981381_982491
+*ESF:	mam yn mynd i pilates@s:cym&spa . 982533_983899
 %eng:	Mum goes to pilates
-*INE:	+< ie ? %snd:"patagonia38"_983643_984112
+*INE:	+< ie ? 983643_984112
 %eng:	yes?
-*ESF:	oh@s:cym&spa mae hi (y)n &ho +/ . %snd:"patagonia38"_984211_985683
+*ESF:	oh@s:cym&spa mae hi (y)n &ho +/. 984211_985683
 %eng:	oh, she...
-*INE:	+< undeg pump pesos@s:spa (.) neu (.) <dauddeg pump> [//] dauddeg pesos@s:spa . %snd:"patagonia38"_984915_990739
-%eng:	15 pesos or 25 .. . 20 pesos
-*INE:	mae yn dibynnu um (.) cuánto@s:spa tiempo@s:spa . %snd:"patagonia38"_990867_994451
+*INE:	+< undeg pump pesos@s:spa (.) neu (.) <dauddeg pump> [//] dauddeg pesos@s:spa . 984915_990739
+%eng:	15 pesos or 25 ... 20 pesos
+*INE:	mae yn dibynnu um (.) cuánto@s:spa tiempo@s:spa . 990867_994451
 %eng:	it depends how long
-*INE:	faint amser yn yr wythnos (.) ie ? %snd:"patagonia38"_994643_997118
+*INE:	faint amser yn yr wythnos (.) ie ? 994643_997118
 %eng:	how much time in the week, yes?
-*ESF:	+< faint o amser . %snd:"patagonia38"_995880_996712
+*ESF:	+< faint o amser . 995880_996712
 %eng:	how much time
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_997651_998483
-*ESF:	espera@s:spa (.) undeg pump pesos@s:spa y dosbarth . %snd:"patagonia38"_998944_1001398
+*ESF:	ah@s:cym&spa . 997651_998483
+*ESF:	espera@s:spa (.) undeg pump pesos@s:spa y dosbarth . 998944_1001398
 %eng:	wait, 15 pesos a class
-*INE:	y dosbarth (.) ie . %snd:"patagonia38"_1001632_1003168
+*INE:	y dosbarth (.) ie . 1001632_1003168
 %eng:	per class, yes
-*ESF:	+< ah@s:cym&spa . %snd:"patagonia38"_1002571_1003232
-*INE:	a os wyt ti (y)n talu yr [/] yr mis ? %snd:"patagonia38"_1003723_1006070
+*ESF:	+< ah@s:cym&spa . 1002571_1003232
+*INE:	a os wyt ti (y)n talu yr [/] yr mis ? 1003723_1006070
 %eng:	and if you pay for the month?
-*INE:	um er@s:cym&spa hanner no@s:spa cant eh@s:cym&spa chwech (.) deg pesos@s:spa (.) ciento@s:spa sesenta@s:spa . %snd:"patagonia38"_1006340_1017177
-%eng:	um er half.. . no, a hundred, er, 60 pesos, 170
-*ESF:	ia . %snd:"patagonia38"_1017518_1017796
+*INE:	um er@s:cym&spa hanner no@s:spa cant eh@s:cym&spa chwech (.) deg pesos@s:spa (.) ciento@s:spa sesenta@s:spa . 1006340_1017177
+%eng:	um er half... no, a hundred, er, 60 pesos, 170
+*ESF:	ia . 1017518_1017796
 %eng:	yes
-*INE:	mae (y)n dibynnu . %snd:"patagonia38"_1017838_1018756
+*INE:	mae (y)n dibynnu . 1017838_1018756
 %eng:	it depends
-*ESF:	ia . %snd:"patagonia38"_1018948_1019694
+*ESF:	ia . 1018948_1019694
 %eng:	yes
-*ESF:	gofynnais i i (y)r ferch sy wedi byw yma (.) um la@s:spa esposa@s:spa de@s:spa Jorge_Gomez@s:cym&spa (.) Lola@s:cym&spa . %snd:"patagonia38"_1019876_1028303
+*ESF:	gofynnais i i (y)r ferch sy wedi byw yma (.) um la@s:spa esposa@s:spa de@s:spa Jorge_Gomez@s:cym&spa (.) Lola@s:cym&spa . 1019876_1028303
 %eng:	I asked the girl who's lived here, Jorge_Gomez' wife, Lola
-*INE:	+< pwy [/] (.) pwy y(dyn) nhw ? %snd:"patagonia38"_1028387_1029454
+*INE:	+< pwy [/] (.) pwy y(dyn) nhw ? 1028387_1029454
 %eng:	who are they?
-*ESF:	wel Lola@s:cym&spa . %snd:"patagonia38"_1029411_1030456
+*ESF:	wel Lola@s:cym&spa . 1029411_1030456
 %eng:	well, Lola
-*ESF:	dim [/] dim +// . %snd:"patagonia38"_1030606_1031139
+*ESF:	dim [/] dim +//. 1030606_1031139
 %eng:	not...
-*ESF:	na (.) paid â poeni . %snd:"patagonia38"_1031224_1032440
+*ESF:	na (.) paid â poeni . 1031224_1032440
 %eng:	no, don't worry
-*ESF:	mae hi (y)n dod o Río_Gallegos@s:cym&spa . %snd:"patagonia38"_1032504_1034360
+*ESF:	mae hi (y)n dod o Río_Gallegos@s:cym&spa . 1032504_1034360
 %eng:	she comes from Río Gallegos
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_1034488_1034979
-*ESF:	dw i nabod hi achos mae hi (y)n mam eh@s:cym&spa eh@s:cym&spa eh@s:cym&spa plentyn fi <yn y> [/] <yn y> [/] yn y côr . %snd:"patagonia38"_1035313_1042886
+*INE:	ah@s:cym&spa . 1034488_1034979
+*ESF:	dw i nabod hi achos mae hi (y)n mam eh@s:cym&spa eh@s:cym&spa eh@s:cym&spa plentyn fi <yn y> [/] <yn y> [/] yn y côr . 1035313_1042886
 %eng:	I know her because she's the mother of, er, a child of mine in the choir
-*INE:	+< yn yr ysgol . %snd:"patagonia38"_1042460_1043676
+*INE:	+< yn yr ysgol . 1042460_1043676
 %eng:	at school
-*ESF:	ia yn [/] yn y côr yn [/] yn +/ . %snd:"patagonia38"_1043206_1045084
+*ESF:	ia yn [/] yn y côr yn [/] yn +/. 1043206_1045084
 %eng:	yes, in the choir, in...
-*INE:	ah@s:cym&spa yn Trevelin@s:cym&spa ? %snd:"patagonia38"_1044465_1045404
+*INE:	ah@s:cym&spa yn Trevelin@s:cym&spa ? 1044465_1045404
 %eng:	ah, in Trevelin?
-*ESF:	no@s:spa yma yn (.) côr plant yn Esquel@s:cym&spa ia . %snd:"patagonia38"_1045485_1049474
+*ESF:	no@s:spa yma yn (.) côr plant yn Esquel@s:cym&spa ia . 1045485_1049474
 %eng:	no, here in the Esquel childrens' choir, yes
-*INE:	+< municip(al)@s:spa [//] en@s:spa (.) ie . %snd:"patagonia38"_1047671_1049255
-%eng:	public.. . in.. . yes
-*ESF:	ac um gofynnais iddi hi mis Mawrth (.) neu rywbeth . %snd:"patagonia38"_1050029_1055618
+*INE:	+< municip(al)@s:spa [//] en@s:spa (.) ie . 1047671_1049255
+%eng:	public... in... yes
+*ESF:	ac um gofynnais iddi hi mis Mawrth (.) neu rywbeth . 1050029_1055618
 %eng:	and I asked her in March or something
-*INE:	ie . %snd:"patagonia38"_1055787_1056107
+*INE:	ie . 1055787_1056107
 %eng:	yes
-*ESF:	a wedi bod yn cant a dauddeg dw i (y)n credu . %snd:"patagonia38"_1056129_1061291
+*ESF:	a wedi bod yn cant a dauddeg dw i (y)n credu . 1056129_1061291
 %eng:	and it has been 120 I think
-*ESF:	[- spa] ciento veinte . %snd:"patagonia38"_1061291_1062251
+*ESF:	[- spa] ciento veinte . 1061291_1062251
 %eng:	one hundred and twenty
-*ESF:	<y fis> [/] y fis . %snd:"patagonia38"_1062443_1064321
+*ESF:	<y fis> [/] y fis . 1062443_1064321
 %eng:	per month
-*ESF:	+< ah@s:cym&spa oh@s:cym&spa . %snd:"patagonia38"_1062529_1064491
-*ESF:	ond &d dw i ddim yn gwybod rŵan . %snd:"patagonia38"_1064406_1066155
+*ESF:	+< ah@s:cym&spa oh@s:cym&spa . 1062529_1064491
+*ESF:	ond &d dw i ddim yn gwybod rŵan . 1064406_1066155
 %eng:	but I don't know now
-*INE:	mae +/ . %snd:"patagonia38"_1066475_1067179
-*ESF:	mae [/] mae hi [//] mae [//] oedd [//] mae lle yn y tŷ . %snd:"patagonia38"_1066608_1069766
-%eng:	she.. . there's room in the house
-*ESF:	tŷ hi . %snd:"patagonia38"_1069766_1070704
+*INE:	mae +/. 1066475_1067179
+*ESF:	mae [/] mae hi [//] mae [//] oedd [//] mae lle yn y tŷ . 1066608_1069766
+%eng:	she... there's room in the house
+*ESF:	tŷ hi . 1069766_1070704
 %eng:	her house
-*INE:	ie . %snd:"patagonia38"_1070342_1070576
+*INE:	ie . 1070342_1070576
 %eng:	yes
-*ESF:	a wedyn &=laugh cawso(n) hi yma y [/] y lle i [/] i wneud pilates@s:cym&spa . %snd:"patagonia38"_1070811_1076982
+*ESF:	a wedyn &=laugh cawso(n) hi yma y [/] y lle i [/] i wneud pilates@s:cym&spa . 1070811_1076982
 %eng:	and then they had her here, the place to do pilates
-*INE:	+< ie . %snd:"patagonia38"_1074182_1074672
+*INE:	+< ie . 1074182_1074672
 %eng:	yes
-*INE:	+< ah@s:cym&spa . %snd:"patagonia38"_1076784_1077808
-*ESF:	achos mae [//] oedden nhw (y)n byw yma . %snd:"patagonia38"_1077296_1078960
+*INE:	+< ah@s:cym&spa . 1076784_1077808
+*ESF:	achos mae [//] oedden nhw (y)n byw yma . 1077296_1078960
 %eng:	because they were living here
-*INE:	ah@s:cym&spa (.) ardderchog . %snd:"patagonia38"_1079485_1081229
+*INE:	ah@s:cym&spa (.) ardderchog . 1079485_1081229
 %eng:	ah, excellent
-*ESF:	[- spa] sí pero bueno . %snd:"patagonia38"_1081074_1081965
+*ESF:	[- spa] sí pero bueno . 1081074_1081965
 %eng:	yes, but well
-*ESF:	ah@s:cym&spa bueno@s:spa . %snd:"patagonia38"_1082318_1082830
+*ESF:	ah@s:cym&spa bueno@s:spa . 1082318_1082830
 %eng:	ah right
-*INE:	[- spa] claro . %snd:"patagonia38"_1083104_1083504
+*INE:	[- spa] claro . 1083104_1083504
 %eng:	right
-*ESF:	[- spa] bueno en su casa ya +/ . %snd:"patagonia38"_1083513_1084307
+*ESF:	[- spa] bueno en su casa ya +/. 1083513_1084307
 %eng:	well, in her house...
-*INE:	mae +/ . %snd:"patagonia38"_1084403_1084942
-*ESF:	[- spa] lindo xxx . %snd:"patagonia38"_1084915_1086590
+*INE:	mae +/. 1084403_1084942
+*ESF:	[- spa] lindo xxx . 1084915_1086590
 %eng:	lovely
-*ESF:	+< mae +/ . %snd:"patagonia38"_1085982_1086691
-*ESF:	[- spa] pero en esas camas con cosas con +/ . %snd:"patagonia38"_1086843_1088833
+*ESF:	+< mae +/. 1085982_1086691
+*ESF:	[- spa] pero en esas camas con cosas con +/. 1086843_1088833
 %eng:	but in these beds with things, with...
-*INE:	[- spa] +< sí sí sí las camas de pilates con las [/] con las sí bueno +// . %snd:"patagonia38"_1087694_1091463
-%eng:	yes yes yes the pilates beds with the .. . yes, well...
-*ESF:	[- spa] +< ay son fantásticas . %snd:"patagonia38"_1089761_1090918
+*INE:	[- spa] +< sí sí sí las camas de pilates con las [/] con las sí bueno +//. 1087694_1091463
+%eng:	yes yes yes the pilates beds with the ... yes, well...
+*ESF:	[- spa] +< ay son fantásticas . 1089761_1090918
 %eng:	ah they are fantastic
-*INE:	[- spa] sí bueno . %snd:"patagonia38"_1090635_1091718
+*INE:	[- spa] sí bueno . 1090635_1091718
 %eng:	yes right
-*INE:	eh@s:cym&spa +/ . %snd:"patagonia38"_1091800_1092408
-*ESF:	tía@s:spa Delyth@s:spa (y)n mynd i pilates@s:cym&spa? %snd:"patagonia38"_1091810_1093341
+*INE:	eh@s:cym&spa +/. 1091800_1092408
+*ESF:	tía@s:spa Delyth@s:spa (y)n mynd i pilates@s:cym&spa? 1091810_1093341
 %eng:	does Aunt Delyth go to pilates?
-*INE:	+< <en@s:spa el@s:spa> [/] en@s:spa el@s:spa gym +.. . %snd:"patagonia38"_1092818_1093997
+*INE:	+< <en@s:spa el@s:spa> [/] en@s:spa el@s:spa gym +... 1092818_1093997
 %eng:	in the gym...
-*ESF:	a Rafael@s:cym&spa hefyd . %snd:"patagonia38"_1094733_1095714
+*ESF:	a Rafael@s:cym&spa hefyd . 1094733_1095714
 %eng:	and Rafael too
-*INE:	um te@s:spa hacen@s:spa un@s:spa combo@s:spa . %snd:"patagonia38"_1095124_1097225
+*INE:	um te@s:spa hacen@s:spa un@s:spa combo@s:spa . 1095124_1097225
 %eng:	um they made you a combo
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_1097853_1099058
-*INE:	que@s:spa eh@s:cym&spa pilates@s:spa y@s:spa &gy eh@s:cym&spa spinning en@s:spa mi@s:spa caso@s:spa ? %snd:"patagonia38"_1099230_1104617
+*ESF:	ah@s:cym&spa . 1097853_1099058
+*INE:	que@s:spa eh@s:cym&spa pilates@s:spa y@s:spa &gy eh@s:cym&spa spinning en@s:spa mi@s:spa caso@s:spa ? 1099230_1104617
 %eng:	er, pilates, and er, spinning in my case
-*ESF:	+< y@s:spa [/] y@s:spa spinning (.) claro@s:spa . %snd:"patagonia38"_1101487_1103076
+*ESF:	+< y@s:spa [/] y@s:spa spinning (.) claro@s:spa . 1101487_1103076
 %eng:	and spinning, right
-*ESF:	[- spa] hizo un sonido esto . %snd:"patagonia38"_1106026_1107903
+*ESF:	[- spa] hizo un sonido esto . 1106026_1107903
 %eng:	this made a noise
-*INE:	[- spa] no sé pero bueno . %snd:"patagonia38"_1107668_1108788
+*INE:	[- spa] no sé pero bueno . 1107668_1108788
 %eng:	I don't know, but ok
-*INE:	con@s:spa pilates@s:cym&spa y@s:spa con@s:spa [/] (.) con@s:spa spinning . %snd:"patagonia38"_1108906_1111498
+*INE:	con@s:spa pilates@s:cym&spa y@s:spa con@s:spa [/] (.) con@s:spa spinning . 1108906_1111498
 %eng:	with pilates and with spinning
-*ESF:	ah@s:cym&spa mirá@s:spa . %snd:"patagonia38"_1111711_1112404
+*ESF:	ah@s:cym&spa mirá@s:spa . 1111711_1112404
 %eng:	ah , look
-*INE:	[- spa] así que no sé ahí cuánto +.. . %snd:"patagonia38"_1112436_1114730
+*INE:	[- spa] así que no sé ahí cuánto +... 1112436_1114730
 %eng:	so I don't know how much there...
-*ESF:	[- spa] ++ cuánto será . %snd:"patagonia38"_1115238_1115942
+*ESF:	[- spa] ++ cuánto será . 1115238_1115942
 %eng:	...how much it will be
-*INE:	&d +/ . %snd:"patagonia38"_1116125_1117692
-*ESF:	[- spa] pero dicen que es buenísimo . %snd:"patagonia38"_1116125_1117692
+*INE:	&d +/. 1116125_1117692
+*ESF:	[- spa] pero dicen que es buenísimo . 1116125_1117692
 %eng:	but they say that it's excellent
-*INE:	[- spa] +< de todos modos las dos primeras clases son a prueba . %snd:"patagonia38"_1116828_1119036
+*INE:	[- spa] +< de todos modos las dos primeras clases son a prueba . 1116828_1119036
 %eng:	anyway, the first two lessons are a trial
-*INE:	[- spa] yo empiezo la otra semana . %snd:"patagonia38"_1119262_1120659
+*INE:	[- spa] yo empiezo la otra semana . 1119262_1120659
 %eng:	I start next week
-*INE:	[- spa] y yo quiero hacer algo Estefania porque tengo la espalda que parece tengo &to las vértebras así . %snd:"patagonia38"_1120680_1126011
-%eng:	and I want to do something, Estefania, because I have the back that it seems that I have .. . the vertebrates like this
-*ESF:	[- spa] +< y yo ? %snd:"patagonia38"_1122856_1123422
+*INE:	[- spa] y yo quiero hacer algo Estefania porque tengo la espalda que parece tengo &to las vértebras así . 1120680_1126011
+%eng:	and I want to do something, Estefania, because I have the back that it seems that I have ... the vertebrates like this
+*ESF:	[- spa] +< y yo ? 1122856_1123422
 %eng:	and me?
-*ESF:	[- spa] no yo tengo que hacer algo porque bueno . %snd:"patagonia38"_1126774_1128502
+*ESF:	[- spa] no yo tengo que hacer algo porque bueno . 1126774_1128502
 %eng:	no, I have to do something because, well
-*ESF:	después del embarazo . %snd:"patagonia38"_1128683_1129974
+*ESF:	después del embarazo . 1128683_1129974
 %eng:	after the pregnancy
-*INE:	[- spa] sí . %snd:"patagonia38"_1130145_1130518
+*INE:	[- spa] sí . 1130145_1130518
 %eng:	yes
-*INE:	[- spa] todo se fue hacia abajo . %snd:"patagonia38"_1130572_1131798
+*INE:	[- spa] todo se fue hacia abajo . 1130572_1131798
 %eng:	everything went down
-*ESF:	[- spa] +< todo te va a quedar así . %snd:"patagonia38"_1130636_1132012
+*ESF:	[- spa] +< todo te va a quedar así . 1130636_1132012
 %eng:	everything is getting like this
-*ESF:	[- spa] cuánto tiempo tengo que usar la faja ? %snd:"patagonia38"_1132607_1134708
+*ESF:	[- spa] cuánto tiempo tengo que usar la faja ? 1132607_1134708
 %eng:	for how long do I have to use the girdle?
-*INE:	[- spa] usála lo más que +// . %snd:"patagonia38"_1134782_1135689
+*INE:	[- spa] usála lo más que +//. 1134782_1135689
 %eng:	use it as much as...
-*INE:	si@s:spa lo@s:spa aguantás@s:spa los@s:spa cuarenta@s:spa días@s:spa Estefania@s:cym&spa . %snd:"patagonia38"_1135628_1137970
+*INE:	si@s:spa lo@s:spa aguantás@s:spa los@s:spa cuarenta@s:spa días@s:spa Estefania@s:cym&spa . 1135628_1137970
 %eng:	if you resist it for forty days, Estefania
-*ESF:	[- spa] +< ah ya lo usé cuarenta días . %snd:"patagonia38"_1137302_1138993
+*ESF:	[- spa] +< ah ya lo usé cuarenta días . 1137302_1138993
 %eng:	ah I already used it for forty days
-*INE:	[- spa] xxx si la podés seguir aguantando aguantala . %snd:"patagonia38"_1138848_1140374
+*INE:	[- spa] xxx si la podés seguir aguantando aguantala . 1138848_1140374
 %eng:	[...] yes if you can still bear it, then bear it
-*ESF:	[- spa] a veces me la saco . %snd:"patagonia38"_1140722_1142023
+*ESF:	[- spa] a veces me la saco . 1140722_1142023
 %eng:	sometimes I take it off
-*ESF:	[- spa] a veces me la vuelvo a poner . %snd:"patagonia38"_1141991_1143292
+*ESF:	[- spa] a veces me la vuelvo a poner . 1141991_1143292
 %eng:	sometimes I put it back on
-*INE:	[- spa] sí para xxx sacátela para dormir . %snd:"patagonia38"_1142701_1144482
+*INE:	[- spa] sí para xxx sacátela para dormir . 1142701_1144482
 %eng:	yes, to xxx take it off when you go to sleep
-*ESF:	+< xxx . %snd:"patagonia38"_1143312_1144355
-*ESF:	[- spa] sí para dormir es mucho mejor . %snd:"patagonia38"_1144909_1146680
+*ESF:	+< xxx . 1143312_1144355
+*ESF:	[- spa] sí para dormir es mucho mejor . 1144909_1146680
 %eng:	yes, for sleeping it's much better
-*INE:	[- spa] +< pero en el día tratá de andar con la faja porque si no te queda así todo después te cuesta mucho . %snd:"patagonia38"_1145500_1150343
+*INE:	[- spa] +< pero en el día tratá de andar con la faja porque si no te queda así todo después te cuesta mucho . 1145500_1150343
 %eng:	but during the day try to have the girdle because otherwise everything will stay like this, and later it's difficult
-*ESF:	Susan@s:cym&spa me@s:spa decía@s:spa que@s:spa ella@s:spa se@s:spa había@s:spa comprado@s:spa unas@s:spa bombachas@s:spa . %snd:"patagonia38"_1150572_1153495
+*ESF:	Susan@s:cym&spa me@s:spa decía@s:spa que@s:spa ella@s:spa se@s:spa había@s:spa comprado@s:spa unas@s:spa bombachas@s:spa . 1150572_1153495
 %eng:	Susana told me that she bought some knickers
-*INE:	[- spa] sí . %snd:"patagonia38"_1153505_1153953
+*INE:	[- spa] sí . 1153505_1153953
 %eng:	yes
-*ESF:	[- spa] tipo trusa . %snd:"patagonia38"_1153932_1154967
+*ESF:	[- spa] tipo trusa . 1153932_1154967
 %eng:	kind of underwear
-*INE:	[- spa] sí . %snd:"patagonia38"_1155052_1155532
+*INE:	[- spa] sí . 1155052_1155532
 %eng:	yes
-*ESF:	[- spa] altas hasta acá sí como . %snd:"patagonia38"_1155991_1159180
+*ESF:	[- spa] altas hasta acá sí como . 1155991_1159180
 %eng:	tall, up to here, yes, like
-*INE:	[- spa] +< sí . %snd:"patagonia38"_1156737_1157047
+*INE:	[- spa] +< sí . 1156737_1157047
 %eng:	yes
-*INE:	[- spa] +< sí . %snd:"patagonia38"_1158401_1159020
+*INE:	[- spa] +< sí . 1158401_1159020
 %eng:	yes
-*ESF:	[- spa] y esto lo van a tener que traducir [=! laugh] ! %snd:"patagonia38"_1159613_1165522
+*ESF:	[- spa] y esto lo van a tener que traducir [=! laugh] ! 1159613_1165522
 %eng:	and this will have to be translated!
-*INE:	+< &=laugh . %snd:"patagonia38"_1162472_1164381
-*INE:	xxx . %snd:"patagonia38"_1164882_1165544
-*ESF:	[- spa] bueno . %snd:"patagonia38"_1165618_1165938
+*INE:	+< &=laugh . 1162472_1164381
+*INE:	xxx . 1164882_1165544
+*ESF:	[- spa] bueno . 1165618_1165938
 %eng:	fine
-*ESF:	[- spa] y (.) [/] y que eso era más cómodo que la faja +/ . %snd:"patagonia38"_1166375_1169724
+*ESF:	[- spa] y (.) [/] y que eso era más cómodo que la faja +/. 1166375_1169724
 %eng:	and that this was more comfortable than the girdle...
-*INE:	[- spa] +< para después del embarazo . %snd:"patagonia38"_1169223_1170183
+*INE:	[- spa] +< para después del embarazo . 1169223_1170183
 %eng:	after the pregnancy
-*ESF:	[- spa] sí poquito &vis se [/] se estiró todo acá . %snd:"patagonia38"_1169863_1173212
+*ESF:	[- spa] sí poquito &vis se [/] se estiró todo acá . 1169863_1173212
 %eng:	yes, a little, it all stretched here
-*INE:	ah@s:cym&spa no@s:spa pero@s:spa vienen@s:spa unas@s:spa que@s:spa son@s:spa que@s:spa son@s:spa bombachas@s:spa . %snd:"patagonia38"_1172471_1176322
+*INE:	ah@s:cym&spa no@s:spa pero@s:spa vienen@s:spa unas@s:spa que@s:spa son@s:spa que@s:spa son@s:spa bombachas@s:spa . 1172471_1176322
 %eng:	ah no but there are some that are baggy
-*ESF:	[- spa] +< con +/ . %snd:"patagonia38"_1174860_1175404
+*ESF:	[- spa] +< con +/. 1174860_1175404
 %eng:	with ?
-*ESF:	[- spa] claro . %snd:"patagonia38"_1176738_1177164
+*ESF:	[- spa] claro . 1176738_1177164
 %eng:	of course
-*INE:	[- spa] trusas . %snd:"patagonia38"_1177164_1177858
+*INE:	[- spa] trusas . 1177164_1177858
 %eng:	underpants
-*ESF:	[- spa] sí eso . %snd:"patagonia38"_1178007_1178903
+*ESF:	[- spa] sí eso . 1178007_1178903
 %eng:	yes, that's it
-*INE:	[- spa] sin piernas porque con piernas son incómodas . %snd:"patagonia38"_1178489_1180633
+*INE:	[- spa] sin piernas porque con piernas son incómodas . 1178489_1180633
 %eng:	without legs, because with legs they're uncomfortable
-*ESF:	[- spa] +< por qué +// . %snd:"patagonia38"_1179388_1180012
+*ESF:	[- spa] +< por qué +//. 1179388_1180012
 %eng:	why...
-*INE:	[- spa] pero son altitas hasta acá . %snd:"patagonia38"_1180665_1182351
+*INE:	[- spa] pero son altitas hasta acá . 1180665_1182351
 %eng:	but they are quite tall, up to here
-*ESF:	[- spa] claro voy a ir a al xxx . %snd:"patagonia38"_1182467_1183821
+*ESF:	[- spa] claro voy a ir a al xxx . 1182467_1183821
 %eng:	of course, I am going to go to [...]
-*ESF:	[- spa] y me voy a comprar . %snd:"patagonia38"_1183805_1184611
+*ESF:	[- spa] y me voy a comprar . 1183805_1184611
 %eng:	and I am going to buy
-*ESF:	[- spa] porque ves esto ? %snd:"patagonia38"_1184855_1185853
+*ESF:	[- spa] porque ves esto ? 1184855_1185853
 %eng:	because do you see this?
-*ESF:	[- spa] se me sube . %snd:"patagonia38"_1185906_1187021
+*ESF:	[- spa] se me sube . 1185906_1187021
 %eng:	it goes up
-*INE:	[- spa] +< si no es super incómodo pero ahí ves . %snd:"patagonia38"_1186990_1189369
+*INE:	[- spa] +< si no es super incómodo pero ahí ves . 1186990_1189369
 %eng:	yes, no, it is very uncomfortable but you see
-*ESF:	[- spa] es como grueso . %snd:"patagonia38"_1186999_1188119
+*ESF:	[- spa] es como grueso . 1186999_1188119
 %eng:	it's like, thick
-*ESF:	[- spa] sí . %snd:"patagonia38"_1189155_1189721
+*ESF:	[- spa] sí . 1189155_1189721
 %eng:	yes
-*ESF:	[- spa] no pero igual . %snd:"patagonia38"_1190018_1191341
+*ESF:	[- spa] no pero igual . 1190018_1191341
 %eng:	no, but whatever
-*INE:	[- spa] no pero estás &re +// . %snd:"patagonia38"_1191356_1192364
+*INE:	[- spa] no pero estás &re +//. 1191356_1192364
 %eng:	no but you're...
-*ESF:	[- spa] +< no me xxx . %snd:"patagonia38"_1191663_1192468
+*ESF:	[- spa] +< no me xxx . 1191663_1192468
 %eng:	it didn't [...] me
-*INE:	[- spa] pero quedaste rebien . %snd:"patagonia38"_1192337_1193820
+*INE:	[- spa] pero quedaste rebien . 1192337_1193820
 %eng:	but you stayed very well
-*ESF:	[- spa] sí sí . %snd:"patagonia38"_1193122_1194072
+*ESF:	[- spa] sí sí . 1193122_1194072
 %eng:	yes yes
-*ESF:	[- spa] y el [///] este que es . %snd:"patagonia38"_1194178_1195693
-%eng:	and the.. . what it is
-*INE:	[- spa] es bueno pero eso (.) la fuerza de gravedad . %snd:"patagonia38"_1196407_1198999
+*ESF:	[- spa] y el [///] este que es . 1194178_1195693
+%eng:	and the... what it is
+*INE:	[- spa] es bueno pero eso (.) la fuerza de gravedad . 1196407_1198999
 %eng:	it's good but this (.) the force of gravity
-*ESF:	[- spa] +< no sabés . %snd:"patagonia38"_1196802_1197495
+*ESF:	[- spa] +< no sabés . 1196802_1197495
 %eng:	you don't know
-*ESF:	[- spa] +< &=gasp todo todo cayó . %snd:"patagonia38"_1199201_1200390
+*ESF:	[- spa] +< &=gasp todo todo cayó . 1199201_1200390
 %eng:	everything, everything fell
-*ESF:	[- spa] y esto cayó . %snd:"patagonia38"_1199201_1200390
+*ESF:	[- spa] y esto cayó . 1199201_1200390
 %eng:	and this fell
-*INE:	[- spa] +< bueno a mí a mí con spinning yo lo que noto es eso ves . %snd:"patagonia38"_1200126_1203145
+*INE:	[- spa] +< bueno a mí a mí con spinning yo lo que noto es eso ves . 1200126_1203145
 %eng:	well, to me, to me, with spinning I, what I notice is this, see
-*INE:	[- spa] que está medianamente (.) tomando todo en lo muscular todo . %snd:"patagonia38"_1203512_1210092
+*INE:	[- spa] que está medianamente (.) tomando todo en lo muscular todo . 1203512_1210092
 %eng:	that everything is kind of taking, in relation to the muscles
-*ESF:	[- spa] sí está buenísimo . %snd:"patagonia38"_1210466_1211113
+*ESF:	[- spa] sí está buenísimo . 1210466_1211113
 %eng:	yes, it's excellent
-*ESF:	[- spa] lo que pasa es que a mí me aburría un poco spinning . %snd:"patagonia38"_1211086_1213129
+*ESF:	[- spa] lo que pasa es que a mí me aburría un poco spinning . 1211086_1213129
 %eng:	what happens is I get bored of spinning
-*ESF:	xxx . %snd:"patagonia38"_1212972_1214124
-*INE:	[- spa] +< yo xxx . %snd:"patagonia38"_1213292_1214017
+*ESF:	xxx . 1212972_1214124
+*INE:	[- spa] +< yo xxx . 1213292_1214017
 %eng:	I [...] .
-*ESF:	mira@s:spa cuando@s:spa iba@s:spa con@s:spa Papuchi@s:cym&spa +// . %snd:"patagonia38"_1214145_1215537
+*ESF:	mira@s:spa cuando@s:spa iba@s:spa con@s:spa Papuchi@s:cym&spa +//. 1214145_1215537
 %eng:	look at when I went with Papuchi...
-*INE:	[- spa] sí . %snd:"patagonia38"_1215596_1215772
+*INE:	[- spa] sí . 1215596_1215772
 %eng:	yes
-*ESF:	[- spa] con quién vas vos ? %snd:"patagonia38"_1215809_1216519
+*ESF:	[- spa] con quién vas vos ? 1215809_1216519
 %eng:	who do you go with?
-*INE:	+< ah@s:cym&spa yo@s:spa voy@s:spa con@s:spa Carla@s:cym&spa . %snd:"patagonia38"_1216033_1217046
+*INE:	+< ah@s:cym&spa yo@s:spa voy@s:spa con@s:spa Carla@s:cym&spa . 1216033_1217046
 %eng:	I go with Carla
-*ESF:	[- spa] una chica hace ? %snd:"patagonia38"_1217743_1219785
+*ESF:	[- spa] una chica hace ? 1217743_1219785
 %eng:	does a girl do it?
-*INE:	+< mm . %snd:"patagonia38"_1218203_1218912
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_1218907_1219712
-*ESF:	[- spa] pero a xxx +// . %snd:"patagonia38"_1220175_1220895
+*INE:	+< mm . 1218203_1218912
+*ESF:	ah@s:cym&spa . 1218907_1219712
+*ESF:	[- spa] pero a xxx +//. 1220175_1220895
 %eng:	but...
-*ESF:	[- spa] y qué [//] a qué horario vas ? %snd:"patagonia38"_1220893_1222099
+*ESF:	[- spa] y qué [//] a qué horario vas ? 1220893_1222099
 %eng:	and at what time do you go?
-*INE:	[- spa] yo voy lunes miércoles y viernes (.) de tres y media a cuatro y media . %snd:"patagonia38"_1222291_1226965
+*INE:	[- spa] yo voy lunes miércoles y viernes (.) de tres y media a cuatro y media . 1222291_1226965
 %eng:	I go Mondays and Wednesdays and Fridays from half past three to half past four
-*INE:	y@s:spa ahora@s:spa voy@s:spa a@s:spa ir@s:spa miércoles@s:spa en@s:spa [///] lunes@s:spa y@s:spa miércoles@s:spa a@s:spa pilates@s:cym&spa . %snd:"patagonia38"_1228078_1231668
+*INE:	y@s:spa ahora@s:spa voy@s:spa a@s:spa ir@s:spa miércoles@s:spa en@s:spa [///] lunes@s:spa y@s:spa miércoles@s:spa a@s:spa pilates@s:cym&spa . 1228078_1231668
 %eng:	and now I am going on Wednesdays [///] Monday and Wednesday to pilates
-*ESF:	+< ah@s:cym&spa qué@s:spa rebueno@s:spa pero@s:spa +.. . %snd:"patagonia38"_1228761_1230206
+*ESF:	+< ah@s:cym&spa qué@s:spa rebueno@s:spa pero@s:spa +... 1228761_1230206
 %eng:	ah that is very good but...
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_1232469_1233775
-*INE:	[- spa] porque yo quería ir +// . %snd:"patagonia38"_1234037_1235082
+*ESF:	ah@s:cym&spa . 1232469_1233775
+*INE:	[- spa] porque yo quería ir +//. 1234037_1235082
 %eng:	because I wanted to go...
-*INE:	[- spa] yo quería complementar (.) martes y jueves . %snd:"patagonia38"_1235027_1238099
+*INE:	[- spa] yo quería complementar (.) martes y jueves . 1235027_1238099
 %eng:	I wanted to supplement going on Tuesday and Thursday
-*INE:	[- spa] pero martes y jueves a la mañana . %snd:"patagonia38"_1238087_1239662
+*INE:	[- spa] pero martes y jueves a la mañana . 1238087_1239662
 %eng:	but Tuesday and Thursday in the morning
-*INE:	[- spa] yo mientras estoy en la escuela me es imposible . %snd:"patagonia38"_1239721_1241998
+*INE:	[- spa] yo mientras estoy en la escuela me es imposible . 1239721_1241998
 %eng:	when I am at school it's impossible for me
-*ESF:	[- spa] +< no . %snd:"patagonia38"_1240755_1241363
+*ESF:	[- spa] +< no . 1240755_1241363
 %eng:	no
-*INE:	no@s:spa voy@s:spa a@s:spa pedirle@s:spa permiso@s:spa a@s:spa Berta@s:spa para@s:spa irme@s:spa a@s:spa pilates@s:cym&spa . %snd:"patagonia38"_1242002_1243815
+*INE:	no@s:spa voy@s:spa a@s:spa pedirle@s:spa permiso@s:spa a@s:spa Berta@s:spa para@s:spa irme@s:spa a@s:spa pilates@s:cym&spa . 1242002_1243815
 %eng:	I am not going to ask permission to Berta to go to pilates
-*ESF:	[- spa] no . %snd:"patagonia38"_1243810_1244791
+*ESF:	[- spa] no . 1243810_1244791
 %eng:	no.
-*INE:	[- spa] me va sabes qué ? %snd:"patagonia38"_1244780_1245639
+*INE:	[- spa] me va sabes qué ? 1244780_1245639
 %eng:	I'm going, you know?
-*ESF:	[- spa] +< y todos los días es mucho también . %snd:"patagonia38"_1245122_1247404
+*ESF:	[- spa] +< y todos los días es mucho también . 1245122_1247404
 %eng:	and it's like that all the time
-*ESF:	[- spa] no no . %snd:"patagonia38"_1247426_1247815
+*ESF:	[- spa] no no . 1247426_1247815
 %eng:	no
-*INE:	[- spa] no . %snd:"patagonia38"_1247606_1247830
+*INE:	[- spa] no . 1247606_1247830
 %eng:	no
-*INE:	[- spa] todos los días no . %snd:"patagonia38"_1247824_1248491
+*INE:	[- spa] todos los días no . 1247824_1248491
 %eng:	all the time, no
-*INE:	[- spa] a mí me dijeron que &bue está bueno dos o tres veces por semana . %snd:"patagonia38"_1248358_1251686
+*INE:	[- spa] a mí me dijeron que &bue está bueno dos o tres veces por semana . 1248358_1251686
 %eng:	they told me it's ok two or three times a week
-*ESF:	[- spa] claro . %snd:"patagonia38"_1251657_1252217
+*ESF:	[- spa] claro . 1251657_1252217
 %eng:	I see
-*ESF:	[- spa] no pero todos los días hacer algo demasiado . %snd:"patagonia38"_1252211_1254505
+*ESF:	[- spa] no pero todos los días hacer algo demasiado . 1252211_1254505
 %eng:	no because every day doing too much...
-*INE:	[- spa] y yo lo que pasa es que quiero acomodar un poco . %snd:"patagonia38"_1255355_1257189
-%eng:	and I.. . what happens is that I want to adapt a little
-*ESF:	&=laugh . %snd:"patagonia38"_1257658_1258432
-*ESF:	[- spa] hacer como una buena sacudida &=laugh . %snd:"patagonia38"_1258384_1260736
+*INE:	[- spa] y yo lo que pasa es que quiero acomodar un poco . 1255355_1257189
+%eng:	and I... what happens is that I want to adapt a little
+*ESF:	&=laugh . 1257658_1258432
+*ESF:	[- spa] hacer como una buena sacudida &=laugh . 1258384_1260736
 %eng:	do a good shake
-*INE:	[- spa] +< y sí porque . %snd:"patagonia38"_1260517_1261472
+*INE:	[- spa] +< y sí porque . 1260517_1261472
 %eng:	and yes because...
-*INE:	[- spa] tengo que desparramar . %snd:"patagonia38"_1261588_1262948
+*INE:	[- spa] tengo que desparramar . 1261588_1262948
 %eng:	I have to spread out
-*ESF:	&=laugh . %snd:"patagonia38"_1263006_1263801
-*INE:	[- spa] +, neuronas . %snd:"patagonia38"_1263833_1265076
+*ESF:	&=laugh . 1263006_1263801
+*INE:	[- spa] +, neuronas . 1263833_1265076
 %eng:	[...]
-*ESF:	[- spa] está bien . %snd:"patagonia38"_1265078_1265787
+*ESF:	[- spa] está bien . 1265078_1265787
 %eng:	it's good
-*ESF:	[- spa] claro claro . %snd:"patagonia38"_1265803_1267003
+*ESF:	[- spa] claro claro . 1265803_1267003
 %eng:	I see
-*ESF:	[- spa] para eso está bueno taebó . %snd:"patagonia38"_1267376_1269131
+*ESF:	[- spa] para eso está bueno taebó . 1267376_1269131
 %eng:	[...]
-*INE:	[- spa] +< sí sí . %snd:"patagonia38"_1267803_1268976
+*INE:	[- spa] +< sí sí . 1267803_1268976
 %eng:	yes
-*INE:	[- spa] claro . %snd:"patagonia38"_1269539_1270169
+*INE:	[- spa] claro . 1269539_1270169
 %eng:	I see
-*INE:	[- spa] pero vos sabés que sí está bueno . %snd:"patagonia38"_1270131_1272003
+*INE:	[- spa] pero vos sabés que sí está bueno . 1270131_1272003
 %eng:	but you know that it's good
-*INE:	[- spa] pero los horarios que (.) en el gimnasio no . %snd:"patagonia38"_1271961_1275838
+*INE:	[- spa] pero los horarios que (.) en el gimnasio no . 1271961_1275838
 %eng:	but the hours in the gym
-*INE:	[- spa] son muy tarde . %snd:"patagonia38"_1275782_1276849
+*INE:	[- spa] son muy tarde . 1275782_1276849
 %eng:	they're very late
-*INE:	[- spa] a mí +// . %snd:"patagonia38"_1277060_1277503
+*INE:	[- spa] a mí +//. 1277060_1277503
 %eng:	I...
-*ESF:	[- spa] es que claro . %snd:"patagonia38"_1277513_1278751
+*ESF:	[- spa] es que claro . 1277513_1278751
 %eng:	sure
-*INE:	[- spa] +< yo la verdad estoy tan cansada . %snd:"patagonia38"_1277759_1280031
+*INE:	[- spa] +< yo la verdad estoy tan cansada . 1277759_1280031
 %eng:	to be honest I'm so tired
-*ESF:	[- spa] +< no ocho de la noche ocho y media no . %snd:"patagonia38"_1279444_1281695
+*ESF:	[- spa] +< no ocho de la noche ocho y media no . 1279444_1281695
 %eng:	not at eight, eight thirty
-*INE:	que@s:spa después@s:spa de@s:spa las@s:spa seis@s:spa de@s:spa la@s:spa tarde@s:spa ya@s:spa quiero@s:spa estar@s:spa en@s:spa mi@s:spa casa@s:spa Estefania@s:cym&spa . %snd:"patagonia38"_1280710_1283542
+*INE:	que@s:spa después@s:spa de@s:spa las@s:spa seis@s:spa de@s:spa la@s:spa tarde@s:spa ya@s:spa quiero@s:spa estar@s:spa en@s:spa mi@s:spa casa@s:spa Estefania@s:cym&spa . 1280710_1283542
 %eng:	but after six in the evening, I already want to be at home Estefania
-*ESF:	[- spa] sí . %snd:"patagonia38"_1283534_1284233
+*ESF:	[- spa] sí . 1283534_1284233
 %eng:	yes
-*INE:	[- spa] &vi vos sabés lo que me está costando terminar las clases de galés . %snd:"patagonia38"_1284030_1286942
+*INE:	[- spa] &vi vos sabés lo que me está costando terminar las clases de galés . 1284030_1286942
 %eng:	you know what it's costing me to finish these Welsh classes
-*ESF:	[- spa] sí . %snd:"patagonia38"_1287196_1288097
+*ESF:	[- spa] sí . 1287196_1288097
 %eng:	yes
-*ESF:	[- spa] sí sí te entiendo te entiendo . %snd:"patagonia38"_1288305_1290129
+*ESF:	[- spa] sí sí te entiendo te entiendo . 1288305_1290129
 %eng:	yes, I understand
-*ESF:	[- spa] no no . %snd:"patagonia38"_1290311_1290717
+*ESF:	[- spa] no no . 1290311_1290717
 %eng:	no
-*INE:	[- spa] +< viste ? %snd:"patagonia38"_1290573_1290925
+*INE:	[- spa] +< viste ? 1290573_1290925
 %eng:	you see?
-*INE:	que@s:spa eh@s:cym&spa eh@s:cym&spa Nina@s:cym&spa me@s:spa preguntaba@s:spa hasta@s:spa cuándo@s:spa ? %snd:"patagonia38"_1290903_1293613
+*INE:	que@s:spa eh@s:cym&spa eh@s:cym&spa Nina@s:cym&spa me@s:spa preguntaba@s:spa hasta@s:spa cuándo@s:spa ? 1290903_1293613
 %eng:	Nina asked me until when?
-*ESF:	+< xxx . %snd:"patagonia38"_1291325_1292365
-*ESF:	&=gasps . %snd:"patagonia38"_1293917_1294775
-*INE:	[- spa] con &gla . %snd:"patagonia38"_1294530_1295271
+*ESF:	+< xxx . 1291325_1292365
+*ESF:	&=gasps . 1293917_1294775
+*INE:	[- spa] con &gla . 1294530_1295271
 %eng:	with...
-*ESF:	+< &um . %snd:"patagonia38"_1294786_1295271
-*INE:	[- spa] yo le dijo +"/ . %snd:"patagonia38"_1295285_1295856
+*ESF:	+< &um . 1294786_1295271
+*INE:	[- spa] yo le dijo +"/. 1295285_1295856
 %eng:	I told her:
-*INE:	+" pues@s:spa no@s:spa sé@s:spa Nina@s:cym&spa a@s:spa vos@s:spa qué@s:spa te@s:spa parece@s:spa ? %snd:"patagonia38"_1295813_1297296
+*INE:	+" pues@s:spa no@s:spa sé@s:spa Nina@s:cym&spa a@s:spa vos@s:spa qué@s:spa te@s:spa parece@s:spa ? 1295813_1297296
 %eng:	well I don't know Nina, what do you think?
-*INE:	[- spa] +" las clases terminan el quince de diciembre . %snd:"patagonia38"_1297290_1299136
+*INE:	[- spa] +" las clases terminan el quince de diciembre . 1297290_1299136
 %eng:	classes finish on the 15th December
-*INE:	[- spa] ya no pero hasta el quince de diciembre ? %snd:"patagonia38"_1299597_1302355
+*INE:	[- spa] ya no pero hasta el quince de diciembre ? 1299597_1302355
 %eng:	[...] no but until the 15th December?
-*ESF:	[- spa] +< no . %snd:"patagonia38"_1300184_1300627
+*ESF:	[- spa] +< no . 1300184_1300627
 %eng:	no
-*ESF:	[- spa] +< a parte me +/ . %snd:"patagonia38"_1302067_1303165
+*ESF:	[- spa] +< a parte me +/. 1302067_1303165
 %eng:	although I...
-*INE:	[- spa] +< no . %snd:"patagonia38"_1302406_1303040
+*INE:	[- spa] +< no . 1302406_1303040
 %eng:	no
-*ESF:	neb [/] neb yn [///] dan ni ddim byth yn gorffen yr ysgol Cymraeg yn [/] yn diciembre@s:spa . %snd:"patagonia38"_1303308_1311473
-%eng:	nobody.. . we never finish the Welsh school in December
-*INE:	mis Rhagfyr na . %snd:"patagonia38"_1311250_1312935
+*ESF:	neb [/] neb yn [///] dan ni ddim byth yn gorffen yr ysgol Cymraeg yn [/] yn diciembre@s:spa . 1303308_1311473
+%eng:	nobody... we never finish the Welsh school in December
+*INE:	mis Rhagfyr na . 1311250_1312935
 %eng:	December, no
-*ESF:	+< na na na na . %snd:"patagonia38"_1312103_1313522
+*ESF:	+< na na na na . 1312103_1313522
 %eng:	no, no, no
-*ESF:	mae o yn gorffen yn +/ . %snd:"patagonia38"_1313906_1315335
+*ESF:	mae o yn gorffen yn +/. 1313906_1315335
 %eng:	it finishes in...
-*INE:	dim [/] dim [///] (..) poca@s:spa gente@s:spa ? %snd:"patagonia38"_1315639_1319533
-%eng:	not.. . few people ?
-*ESF:	ie . %snd:"patagonia38"_1319885_1320514
+*INE:	dim [/] dim [///] (..) poca@s:spa gente@s:spa ? 1315639_1319533
+%eng:	not... few people ?
+*ESF:	ie . 1319885_1320514
 %eng:	yes
-*ESF:	ia a mae [/] mae pobl yn meddwl yn [/] yn Nadolig a [/] a [/] a eh@s:cym&spa cómo@s:spa se@s:spa dice@s:spa +/ . %snd:"patagonia38"_1320905_1326740
+*ESF:	ia a mae [/] mae pobl yn meddwl yn [/] yn Nadolig a [/] a [/] a eh@s:cym&spa cómo@s:spa se@s:spa dice@s:spa +/. 1320905_1326740
 %eng:	yes, and people think about Christmas and, er, how do you say...
-*INE:	++ gwyliau . %snd:"patagonia38"_1326281_1327444
+*INE:	++ gwyliau . 1326281_1327444
 %eng:	holidays
-*ESF:	+, gwyliau y@s:spa como@s:spa se@s:spa dice@s:spa ai@s:cym&spa (.) Nadolig llawen a (.) newydd dda . %snd:"patagonia38"_1327562_1332586
+*ESF:	+, gwyliau y@s:spa como@s:spa se@s:spa dice@s:spa ai@s:cym&spa (.) Nadolig llawen a (.) newydd dda . 1327562_1332586
 %eng:	holidays, and how do you say, merry Christmas and happy new...
-*INE:	newydd dda . %snd:"patagonia38"_1332628_1333215
+*INE:	newydd dda . 1332628_1333215
 %eng:	happy new...
-*ESF:	&=laugh Nadolig llawen a blwyddyn newydd dda . %snd:"patagonia38"_1333258_1335444
+*ESF:	&=laugh Nadolig llawen a blwyddyn newydd dda . 1333258_1335444
 %eng:	merry Christmas and happy new year
-*INE:	+< a newydd dda &=laugh ! %snd:"patagonia38"_1334602_1336180
+*INE:	+< a newydd dda &=laugh ! 1334602_1336180
 %eng:	and happy new!
-*ESF:	blwyddyn newydd . %snd:"patagonia38"_1335695_1336367
+*ESF:	blwyddyn newydd . 1335695_1336367
 %eng:	new year
-*ESF:	blwyddyn newydd um +.. . %snd:"patagonia38"_1336420_1338127
+*ESF:	blwyddyn newydd um +... 1336420_1338127
 %eng:	new year, um...
-*INE:	blwyddyn newydd dda . %snd:"patagonia38"_1338138_1339450
+*INE:	blwyddyn newydd dda . 1338138_1339450
 %eng:	happy new year
-*ESF:	claro@s:spa (.) blwyddyn newydd . %snd:"patagonia38"_1339390_1340862
+*ESF:	claro@s:spa (.) blwyddyn newydd . 1339390_1340862
 %eng:	of course, new year
-*ESF:	[- spa] sería no (.) fin de año &=laugh . %snd:"patagonia38"_1341086_1343998
+*ESF:	[- spa] sería no (.) fin de año &=laugh . 1341086_1343998
 %eng:	it'd be, no, new year
-*INE:	+< &=laugh . %snd:"patagonia38"_1341822_1342547
-*INE:	+< na newydd dda . %snd:"patagonia38"_1342824_1343944
+*INE:	+< &=laugh . 1341822_1342547
+*INE:	+< na newydd dda . 1342824_1343944
 %eng:	no, happy new
-*INE:	blwyddyn newydd dda &=laugh . %snd:"patagonia38"_1344147_1346238
+*INE:	blwyddyn newydd dda &=laugh . 1344147_1346238
 %eng:	happy new year
-*ESF:	[- spa] claro ese es el deseo . %snd:"patagonia38"_1345286_1346651
+*ESF:	[- spa] claro ese es el deseo . 1345286_1346651
 %eng:	of course, this is the greeting
-*INE:	&=laugh . %snd:"patagonia38"_1345286_1346651
-*ESF:	este +.. . %snd:"patagonia38"_1346902_1348619
+*INE:	&=laugh . 1345286_1346651
+*ESF:	este +... 1346902_1348619
 %eng:	this…
-*ESF:	mae pobl dim yn [/] yn meddwl yn bethau arall . %snd:"patagonia38"_1348810_1351759
+*ESF:	mae pobl dim yn [/] yn meddwl yn bethau arall . 1348810_1351759
 %eng:	people don't think about other things
-*ESF:	mae [/] mae pawb yn isio gorffen dw i (y)n credu . %snd:"patagonia38"_1351797_1354528
+*ESF:	mae [/] mae pawb yn isio gorffen dw i (y)n credu . 1351797_1354528
 %eng:	everyone wants to finish I think
-*ESF:	pawb yn isio gorffen yn +/ . %snd:"patagonia38"_1354789_1356133
+*ESF:	pawb yn isio gorffen yn +/. 1354789_1356133
 %eng:	everyone wants to finish in...
-*INE:	[- spa] +< no no . %snd:"patagonia38"_1355200_1355909
+*INE:	[- spa] +< no no . 1355200_1355909
 %eng:	no no
-*INE:	&m eh@s:cym&spa mis [/] mis Tachwedd (.) iawn . %snd:"patagonia38"_1356150_1358897
+*INE:	&m eh@s:cym&spa mis [/] mis Tachwedd (.) iawn . 1356150_1358897
 %eng:	er, November, right
-*INE:	a mis Rhagfyr na . %snd:"patagonia38"_1359138_1360807
+*INE:	a mis Rhagfyr na . 1359138_1360807
 %eng:	and not December
-*ESF:	na na na . %snd:"patagonia38"_1360826_1361482
+*ESF:	na na na . 1360826_1361482
 %eng:	no, no
-*INE:	dim [/] dim um (.) horarios@s:spa . %snd:"patagonia38"_1361183_1364671
+*INE:	dim [/] dim um (.) horarios@s:spa . 1361183_1364671
 %eng:	no schedules
-*ESF:	ia ia ia ia . %snd:"patagonia38"_1365619_1366601
+*ESF:	ia ia ia ia . 1365619_1366601
 %eng:	yes, yes
-*INE:	um &rela empezar@s:spa a@s:spa relajarte@s:spa . %snd:"patagonia38"_1366429_1370194
+*INE:	um &rela empezar@s:spa a@s:spa relajarte@s:spa . 1366429_1370194
 %eng:	um, start to relax
-*ESF:	yn yr ysgol yn veinticuatro@s:spa dach chi (y)n mynd i gorffen yn +/ . %snd:"patagonia38"_1369069_1372370
+*ESF:	yn yr ysgol yn veinticuatro@s:spa dach chi (y)n mynd i gorffen yn +/. 1369069_1372370
 %eng:	at school in Twenty-Four you're going to finish in...
-*INE:	dauddeg dau . %snd:"patagonia38"_1372608_1374182
+*INE:	dauddeg dau . 1372608_1374182
 %eng:	22
-*ESF:	+< tri a +.. . %snd:"patagonia38"_1372987_1373467
+*ESF:	+< tri a +... 1372987_1373467
 %eng:	three and...
-*ESF:	dauddeg dau . %snd:"patagonia38"_1374556_1375314
+*ESF:	dauddeg dau . 1374556_1375314
 %eng:	22
-*INE:	mis Rhagfyr . %snd:"patagonia38"_1375266_1376951
+*INE:	mis Rhagfyr . 1375266_1376951
 %eng:	December
-*ESF:	[- spa] no no no no no no . %snd:"patagonia38"_1376963_1378142
+*ESF:	[- spa] no no no no no no . 1376963_1378142
 %eng:	no no no no no no
-*INE:	ych_a_fi ! %snd:"patagonia38"_1377523_1378126
+*INE:	ych_a_fi ! 1377523_1378126
 %eng:	yuck!
-*INE:	a fi mynd i (y)r ysgol tan (.) eh@s:cym&spa chwech (.) Ionawr . %snd:"patagonia38"_1378356_1383188
+*INE:	a fi mynd i (y)r ysgol tan (.) eh@s:cym&spa chwech (.) Ionawr . 1378356_1383188
 %eng:	and me, going to school until the 6th January
-*ESF:	pam ? %snd:"patagonia38"_1383877_1384218
+*ESF:	pam ? 1383877_1384218
 %eng:	why?
-*INE:	+< &=laugh . %snd:"patagonia38"_1383973_1384560
-*ESF:	pam ? %snd:"patagonia38"_1384698_1385141
+*INE:	+< &=laugh . 1383973_1384560
+*ESF:	pam ? 1384698_1385141
 %eng:	why?
-*INE:	achos um (..) yo@s:spa pedí@s:spa adelanto@s:spa de@s:spa vacaciones@s:spa &=laugh . %snd:"patagonia38"_1385588_1391332
+*INE:	achos um (..) yo@s:spa pedí@s:spa adelanto@s:spa de@s:spa vacaciones@s:spa &=laugh . 1385588_1391332
 %eng:	because, um, I asked for holliday payment ahead
-*ESF:	+< pryd ? %snd:"patagonia38"_1391022_1391417
+*ESF:	+< pryd ? 1391022_1391417
 %eng:	when?
-*INE:	yn [/] yn y +/ . %snd:"patagonia38"_1392185_1393230
+*INE:	yn [/] yn y +/. 1392185_1393230
 %eng:	in the...
-*ESF:	[- spa] en las vacaciones de invierno . %snd:"patagonia38"_1393433_1394649
+*ESF:	[- spa] en las vacaciones de invierno . 1393433_1394649
 %eng:	in the winter holidays
-*INE:	no@s:spa no@s:spa después@s:spa [///] ar_ôl (g)wyliau (.) bueno@s:spa . %snd:"patagonia38"_1394477_1397794
-%eng:	no no after.. . after the holidays, right
-*ESF:	ah@s:cym&spa yo@s:spa ya@s:spa no@s:spa estaba@s:spa . %snd:"patagonia38"_1397874_1398946
+*INE:	no@s:spa no@s:spa después@s:spa [///] ar_ôl (g)wyliau (.) bueno@s:spa . 1394477_1397794
+%eng:	no no after... after the holidays, right
+*ESF:	ah@s:cym&spa yo@s:spa ya@s:spa no@s:spa estaba@s:spa . 1397874_1398946
 %eng:	ah no, I was not already
-*INE:	mmhm . %snd:"patagonia38"_1398989_1399575
-*INE:	[- spa] me fui pidiendo así un día xxx no daba más . %snd:"patagonia38"_1400293_1402800
+*INE:	mmhm . 1398989_1399575
+*INE:	[- spa] me fui pidiendo así un día xxx no daba más . 1400293_1402800
 %eng:	I left asking for one day, like this, … I couldn't work anymore
-*ESF:	[- spa] claro . %snd:"patagonia38"_1403115_1403509
+*ESF:	[- spa] claro . 1403115_1403509
 %eng:	of course
-*INE:	[- spa] entonces me pedía que xxx un viernes lunes . %snd:"patagonia38"_1403603_1406584
+*INE:	[- spa] entonces me pedía que xxx un viernes lunes . 1403603_1406584
 %eng:	then I asked for, like … one Friday, Monday
-*ESF:	[- spa] +< pero sola en diciembre sabés cómo te va a rendir ? %snd:"patagonia38"_1405375_1409359
+*ESF:	[- spa] +< pero sola en diciembre sabés cómo te va a rendir ? 1405375_1409359
 %eng:	but only in December you know how much you are going to produce?
-*INE:	[- spa] sí pero estamos con Berta . %snd:"patagonia38"_1409050_1410740
+*INE:	[- spa] sí pero estamos con Berta . 1409050_1410740
 %eng:	yes, but we're with Berta
-*ESF:	[- spa] +< si tenés cosas pendientes . %snd:"patagonia38"_1409380_1411119
+*ESF:	[- spa] +< si tenés cosas pendientes . 1409380_1411119
 %eng:	if you have things unresolved
-*INE:	[- spa] limpiamos xxx todo . %snd:"patagonia38"_1411874_1413714
+*INE:	[- spa] limpiamos xxx todo . 1411874_1413714
 %eng:	we cleaned … everything
-*ESF:	[- spa] se mudaron ? %snd:"patagonia38"_1413704_1414718
+*ESF:	[- spa] se mudaron ? 1413704_1414718
 %eng:	did you move?
-*INE:	[- spa] +< sí nos mudamos . %snd:"patagonia38"_1414254_1415283
+*INE:	[- spa] +< sí nos mudamos . 1414254_1415283
 %eng:	yes, we moved
-*ESF:	[- spa] ay . %snd:"patagonia38"_1415256_1415838
+*ESF:	[- spa] ay . 1415256_1415838
 %eng:	ah
-*ESF:	[- spa] quedó lindo ? %snd:"patagonia38"_1415988_1416692
+*ESF:	[- spa] quedó lindo ? 1415988_1416692
 %eng:	it looks good?
-*INE:	+< symud [/] symud swyddfa . %snd:"patagonia38"_1416256_1418278
+*INE:	+< symud [/] symud swyddfa . 1416256_1418278
 %eng:	moved office
-*ESF:	quedó lindo ? %snd:"patagonia38"_1419048_1419869
+*ESF:	quedó lindo ? 1419048_1419869
 %eng:	it looks good?
-*INE:	ie ardderchog . %snd:"patagonia38"_1419853_1421448
+*INE:	ie ardderchog . 1419853_1421448
 %eng:	yes, excellent
-*INE:	mae +/ . %snd:"patagonia38"_1421501_1421912
+*INE:	mae +/. 1421501_1421912
 %eng:	it...
-*ESF:	mae (y)n well i gael y lle allan [/] lle allan yr [/] yr um (.) tiwtoriaid . %snd:"patagonia38"_1421595_1428134
+*ESF:	mae (y)n well i gael y lle allan [/] lle allan yr [/] yr um (.) tiwtoriaid . 1421595_1428134
 %eng:	it's better to have the place outside, the tutors
-*INE:	+< llawer o lle . %snd:"patagonia38"_1423121_1425126
+*INE:	+< llawer o lle . 1423121_1425126
 %eng:	lots of space
-*INE:	na . %snd:"patagonia38"_1428731_1429115
+*INE:	na . 1428731_1429115
 %eng:	no
-*ESF:	[- spa] lejos <de las &prof> [/] de las profesoras viste . %snd:"patagonia38"_1429101_1431741
+*ESF:	[- spa] lejos <de las &prof> [/] de las profesoras viste . 1429101_1431741
 %eng:	away from the teachers, see
-*ESF:	[- spa] que no porque el [/] el lugar quedó para profesores ? %snd:"patagonia38"_1431784_1434125
+*ESF:	[- spa] que no porque el [/] el lugar quedó para profesores ? 1431784_1434125
 %eng:	no, because the place was left for teachers?
-*INE:	no@s:spa eh@s:cym&spa prifathrawon . %snd:"patagonia38"_1434243_1436941
+*INE:	no@s:spa eh@s:cym&spa prifathrawon . 1434243_1436941
 %eng:	no, er, headmasters
-*INE:	[- spa] eh sala de maestros . %snd:"patagonia38"_1438802_1440189
+*INE:	[- spa] eh sala de maestros . 1438802_1440189
 %eng:	er, staff room
-*ESF:	[- spa] +< claro . %snd:"patagonia38"_1439698_1440392
+*ESF:	[- spa] +< claro . 1439698_1440392
 %eng:	of course
-*INE:	[- spa] es <donde va a estar> [//] donde está la dirección . %snd:"patagonia38"_1440401_1442620
-%eng:	it's where the.. . where the headmaster's office is
-*INE:	[- spa] donde nosotros estábamos <es la dirección ahora> [//] va a ser la dirección . %snd:"patagonia38"_1442802_1446511
-%eng:	where we were, it's the headmaster's office now.. . it's going to be the headmaster's office
-*ESF:	[- spa] sí . %snd:"patagonia38"_1444269_1445063
+*INE:	[- spa] es <donde va a estar> [//] donde está la dirección . 1440401_1442620
+%eng:	it's where the... where the headmaster's office is
+*INE:	[- spa] donde nosotros estábamos <es la dirección ahora> [//] va a ser la dirección . 1442802_1446511
+%eng:	where we were, it's the headmaster's office now... it's going to be the headmaster's office
+*ESF:	[- spa] sí . 1444269_1445063
 %eng:	yes
-*ESF:	ah@s:cym&spa a maen nhw <ddim yn wedyn> [//] ddim yn symud nawr . %snd:"patagonia38"_1447627_1450133
+*ESF:	ah@s:cym&spa a maen nhw <ddim yn wedyn> [//] ddim yn symud nawr . 1447627_1450133
 %eng:	ah and they're not moving now
-*INE:	[- spa] no . %snd:"patagonia38"_1450267_1450640
+*INE:	[- spa] no . 1450267_1450640
 %eng:	no
-*ESF:	bydden nhw (y)n symud yn [/] yn vacaciones@s:spa [//] y gwyliau dw i (y)n credu (.) nawr ? %snd:"patagonia38"_1451589_1456485
+*ESF:	bydden nhw (y)n symud yn [/] yn vacaciones@s:spa [//] y gwyliau dw i (y)n credu (.) nawr ? 1451589_1456485
 %eng:	they'll be moving during holidays… now ?
-*INE:	[- spa] +< esto &no +.. . %snd:"patagonia38"_1451931_1452816
+*INE:	[- spa] +< esto &no +... 1451931_1452816
 %eng:	this …
-*INE:	na eh@s:cym&spa dw i (y)n credu blwyddyn nesaf . %snd:"patagonia38"_1454853_1456795
+*INE:	na eh@s:cym&spa dw i (y)n credu blwyddyn nesaf . 1454853_1456795
 %eng:	no, er, I think next year
-*ESF:	siŵr o fod . %snd:"patagonia38"_1457445_1458170
+*ESF:	siŵr o fod . 1457445_1458170
 %eng:	must be
-*INE:	so dim_byd <yn y swyddfa> [//] yn y hen swyddfa . %snd:"patagonia38"_1458821_1461242
+*INE:	so dim_byd <yn y swyddfa> [//] yn y hen swyddfa . 1458821_1461242
 %eng:	so nothing in the old office
-*ESF:	na . %snd:"patagonia38"_1461386_1461914
+*ESF:	na . 1461386_1461914
 %eng:	no
-*ESF:	eh@s:cym&spa están haciendo@s:spa el@s:spa piso@s:spa . %snd:"patagonia38"_1461978_1463983
+*ESF:	eh@s:cym&spa están haciendo@s:spa el@s:spa piso@s:spa . 1461978_1463983
 %eng:	they're doing the flat
-*INE:	oh@s:cym&spa xxx lo@s:spa mismo@s:spa . %snd:"patagonia38"_1463887_1466117
+*INE:	oh@s:cym&spa xxx lo@s:spa mismo@s:spa . 1463887_1466117
 %eng:	oh [...] the same.
-*ESF:	[- spa] sí . %snd:"patagonia38"_1466159_1466709
+*ESF:	[- spa] sí . 1466159_1466709
 %eng:	yes
-*ESF:	[- spa] pero bueno qué se yo xxx . %snd:"patagonia38"_1467338_1469562
+*ESF:	[- spa] pero bueno qué se yo xxx . 1467338_1469562
 %eng:	but ok [...]
-*ESF:	y@s:spa ese@s:spa lugar@s:spa está@s:spa bueno@s:spa achos (.) llawer o espacio@s:spa . %snd:"patagonia38"_1469580_1475767
+*ESF:	y@s:spa ese@s:spa lugar@s:spa está@s:spa bueno@s:spa achos (.) llawer o espacio@s:spa . 1469580_1475767
 %eng:	and this place is good because there's plenty of space
 %com:	the speaker seemed to say "espacio", space, however, used a strong pronunciation.
-*INE:	a dipyn bach yn [/] yn fwy (.) es@s:spa más@s:spa grande@s:spa . %snd:"patagonia38"_1476146_1479495
+*INE:	a dipyn bach yn [/] yn fwy (.) es@s:spa más@s:spa grande@s:spa . 1476146_1479495
 %eng:	and a little bit bigger, it's bigger
-*ESF:	[- spa] sí . %snd:"patagonia38"_1479452_1480732
+*ESF:	[- spa] sí . 1479452_1480732
 %eng:	yes
-*ESF:	dim [/] dim tŷ_fach ? %snd:"patagonia38"_1480866_1482498
+*ESF:	dim [/] dim tŷ_fach ? 1480866_1482498
 %eng:	no toilet?
-*INE:	[- spa] +< sí . %snd:"patagonia38"_1481175_1481516
+*INE:	[- spa] +< sí . 1481175_1481516
 %eng:	yes
-*INE:	[- spa] claro claro no sí . %snd:"patagonia38"_1483703_1486530
+*INE:	[- spa] claro claro no sí . 1483703_1486530
 %eng:	of course of course, no, yes
-*ESF:	y tŷ_fach a er@s:cym&spa y stafell arall . %snd:"patagonia38"_1486887_1489436
+*ESF:	y tŷ_fach a er@s:cym&spa y stafell arall . 1486887_1489436
 %eng:	the toilet and another room
-*ESF:	felly llawer o espacio@s:spa . %snd:"patagonia38"_1490023_1493788
+*ESF:	felly llawer o espacio@s:spa . 1490023_1493788
 %eng:	so lots of space
-*INE:	[- spa] +< claro . %snd:"patagonia38"_1492636_1493863
+*INE:	[- spa] +< claro . 1492636_1493863
 %eng:	of course
-*ESF:	mawr . %snd:"patagonia38"_1494568_1495485
+*ESF:	mawr . 1494568_1495485
 %eng:	big
-*INE:	a mae [/] mae [/] mae (.) cómo@s:spa se@s:spa llama@s:spa ? %snd:"patagonia38"_1495197_1498354
-%eng:	and there is.. . what's it called?
-*ESF:	+< swyddfa mawr . %snd:"patagonia38"_1496200_1497554
+*INE:	a mae [/] mae [/] mae (.) cómo@s:spa se@s:spa llama@s:spa ? 1495197_1498354
+%eng:	and there is... what's it called?
+*ESF:	+< swyddfa mawr . 1496200_1497554
 %eng:	big office
-*ESF:	eh@s:cym&spa . %snd:"patagonia38"_1498363_1499077
-*INE:	cwpwrdd . %snd:"patagonia38"_1498555_1499056
+*ESF:	eh@s:cym&spa . 1498363_1499077
+*INE:	cwpwrdd . 1498555_1499056
 %eng:	cupboard
-*ESF:	ie cwpwrdd mawr . %snd:"patagonia38"_1499109_1500549
+*ESF:	ie cwpwrdd mawr . 1499109_1500549
 %eng:	yes, a big cupboard
-*INE:	+< cwpwrdd mawr i [//] iddi hi i [/] i ordenar@s:spa y@s:spa todo@s:spa . %snd:"patagonia38"_1499824_1503003
-%eng:	a big cupboard for her.. . and to tidy up and everything
-*ESF:	+< ie . %snd:"patagonia38"_1500912_1501552
+*INE:	+< cwpwrdd mawr i [//] iddi hi i [/] i ordenar@s:spa y@s:spa todo@s:spa . 1499824_1503003
+%eng:	a big cupboard for her... and to tidy up and everything
+*ESF:	+< ie . 1500912_1501552
 %eng:	yes
-*INE:	[- spa] ah buenísimo ! %snd:"patagonia38"_1503355_1504475
+*INE:	[- spa] ah buenísimo ! 1503355_1504475
 %eng:	ah excellent!
-*ESF:	está@s:spa está@s:spa muy@s:spa bueno@s:spa (.) a +.. . %snd:"patagonia38"_1504373_1506891
+*ESF:	está@s:spa está@s:spa muy@s:spa bueno@s:spa (.) a +... 1504373_1506891
 %eng:	it is very good, and...
-*ESF:	ŵn i ddim . %snd:"patagonia38"_1508843_1509419
+*ESF:	ŵn i ddim . 1508843_1509419
 %eng:	I don't know
-*INE:	rhaid i Melinda@s:cym&spa reclamar@s:spa (.) instrumentos@s:spa . %snd:"patagonia38"_1509483_1512853
+*INE:	rhaid i Melinda@s:cym&spa reclamar@s:spa (.) instrumentos@s:spa . 1509483_1512853
 %eng:	Melinda must demand instruments
-*ESF:	ie . %snd:"patagonia38"_1512821_1513280
+*ESF:	ie . 1512821_1513280
 %eng:	yes
-*INE:	[- spa] cómo se llega a reclamar ? %snd:"patagonia38"_1513227_1514485
+*INE:	[- spa] cómo se llega a reclamar ? 1513227_1514485
 %eng:	how do you get to demand?
-*ESF:	mm no@s:spa sé@s:spa . %snd:"patagonia38"_1514713_1515833
+*ESF:	mm no@s:spa sé@s:spa . 1514713_1515833
 %eng:	mm I don't know
-*ESF:	i gofyn <i (y)r> [/] <i (y)r> [/] i ferch . %snd:"patagonia38"_1516014_1518713
+*ESF:	i gofyn <i (y)r> [/] <i (y)r> [/] i ferch . 1516014_1518713
 %eng:	to ask the girl
-*ESF:	wel mae hi (y)n dod (.) Agata_Guttierez@s:cym&spa . %snd:"patagonia38"_1518854_1521841
+*ESF:	wel mae hi (y)n dod (.) Agata_Guttierez@s:cym&spa . 1518854_1521841
 %eng:	well, she's coming, Agata Guttierez
-*INE:	pryd ? %snd:"patagonia38"_1521958_1522545
+*INE:	pryd ? 1521958_1522545
 %eng:	when?
-*ESF:	dw i ddim yn siŵr . %snd:"patagonia38"_1522811_1523995
+*ESF:	dw i ddim yn siŵr . 1522811_1523995
 %eng:	I'm not sure
-*ESF:	ond &rai &rwy dw i (y)n gallu gofyn i Sofía@s:cym&spa achos +/ . %snd:"patagonia38"_1524319_1528202
+*ESF:	ond &rai &rwy dw i (y)n gallu gofyn i Sofía@s:cym&spa achos +/. 1524319_1528202
 %eng:	but I could ask Sofia because...
-*INE:	[- spa] +< mama . %snd:"patagonia38"_1528319_1529205
+*INE:	[- spa] +< mama . 1528319_1529205
 %eng:	Mum
-*ESF:	eh@s:cym&spa +/ . %snd:"patagonia38"_1528727_1529309
-*INE:	sut mae Sofía@s:cym&spa ? %snd:"patagonia38"_1529314_1530354
+*ESF:	eh@s:cym&spa +/. 1528727_1529309
+*INE:	sut mae Sofía@s:cym&spa ? 1529314_1530354
 %eng:	how is Sofia?
-*ESF:	wel (..) mae hi (y)n dda . %snd:"patagonia38"_1531226_1533690
+*ESF:	wel (..) mae hi (y)n dda . 1531226_1533690
 %eng:	well, she's fine
-*ESF:	ond [/] um (.) ond er@s:cym&spa +/ . %snd:"patagonia38"_1534375_1536545
+*ESF:	ond [/] um (.) ond er@s:cym&spa +/. 1534375_1536545
 %eng:	but, er...
-*INE:	mae [/] mae hi +/ . %snd:"patagonia38"_1536561_1537377
+*INE:	mae [/] mae hi +/. 1536561_1537377
 %eng:	she's...
-*ESF:	er@s:cym&spa dyw wel +// . %snd:"patagonia38"_1537031_1538391
+*ESF:	er@s:cym&spa dyw wel +//. 1537031_1538391
 %eng:	er, she, well...
-*ESF:	tro olaf &dm aeth hi yma (.) daeth hi o (y)r cementerio@s:spa . %snd:"patagonia38"_1539277_1545720
+*ESF:	tro olaf &dm aeth hi yma (.) daeth hi o (y)r cementerio@s:spa . 1539277_1545720
 %eng:	last time she came here she came from the cementery
-*INE:	ie trwy (y)r amser . %snd:"patagonia38"_1545799_1546194
+*INE:	ie trwy (y)r amser . 1545799_1546194
 %eng:	yes all the time
-*ESF:	+< na fuodd hi yn [/] yn oh@s:cym&spa trist iawn . %snd:"patagonia38"_1546172_1549202
+*ESF:	+< na fuodd hi yn [/] yn oh@s:cym&spa trist iawn . 1546172_1549202
 %eng:	no she was very sad
-*INE:	+< trwy (y)r amser . %snd:"patagonia38"_1546354_1547559
+*INE:	+< trwy (y)r amser . 1546354_1547559
 %eng:	all the time
-*ESF:	[- spa] sí . %snd:"patagonia38"_1549287_1549575
+*ESF:	[- spa] sí . 1549287_1549575
 %eng:	yes
-*ESF:	a cyn y [//] (.) wel ei ferch wedi marw (.) eh@s:cym&spa oedd Sofía@s:cym&spa yn peintio (y)r &wy &we +// . %snd:"patagonia38"_1549593_1557892
+*ESF:	a cyn y [//] (.) wel ei ferch wedi marw (.) eh@s:cym&spa oedd Sofía@s:cym&spa yn peintio (y)r &wy &we +//. 1549593_1557892
 %eng:	and before her daughter died Sofia was painting the...
-*INE:	+< ie . %snd:"patagonia38"_1557209_1557881
+*INE:	+< ie . 1557209_1557881
 %eng:	yes
-*ESF:	[- spa] cómo se dice la cara ? %snd:"patagonia38"_1558026_1559039
+*ESF:	[- spa] cómo se dice la cara ? 1558026_1559039
 %eng:	how do you say "the face"?
-*INE:	[- spa] sí . %snd:"patagonia38"_1559284_1559764
+*INE:	[- spa] sí . 1559284_1559764
 %eng:	yes
-*ESF:	eh@s:cym&spa makeup . %snd:"patagonia38"_1560325_1561179
-*INE:	wel sí@s:spa se@s:spa pintaba@s:spa y@s:spa arreglaba@s:spa . %snd:"patagonia38"_1561477_1564229
+*ESF:	eh@s:cym&spa makeup . 1560325_1561179
+*INE:	wel sí@s:spa se@s:spa pintaba@s:spa y@s:spa arreglaba@s:spa . 1561477_1564229
 %eng:	well yes, she put on make-up and got ready
-*ESF:	+< sí . %snd:"patagonia38"_1563395_1563853
+*ESF:	+< sí . 1563395_1563853
 %eng:	yes
-*INE:	a rŵan (.) wel dipyn bach dipyn bach a +// . %snd:"patagonia38"_1564376_1572899
+*INE:	a rŵan (.) wel dipyn bach dipyn bach a +//. 1564376_1572899
 %eng:	and now little by little...
-*ESF:	+< dim dim dim +/ . %snd:"patagonia38"_1565816_1567320
+*ESF:	+< dim dim dim +/. 1565816_1567320
 %eng:	nothing, nothing
-*ESF:	+< ie . %snd:"patagonia38"_1567437_1567811
+*ESF:	+< ie . 1567437_1567811
 %eng:	yes
-*INE:	mae [/] mae hi (y)n edrych yn [/] yn dda yn well bob dydd um . %snd:"patagonia38"_1568067_1572707
+*INE:	mae [/] mae hi (y)n edrych yn [/] yn dda yn well bob dydd um . 1568067_1572707
 %eng:	she's looking well, better every day
-*ESF:	+< ie . %snd:"patagonia38"_1572316_1572807
+*ESF:	+< ie . 1572316_1572807
 %eng:	yes
-*INE:	ond dw i ddim yn siŵr sut mae hi (y)n &=tongue_click +.. . %snd:"patagonia38"_1573084_1576316
+*INE:	ond dw i ddim yn siŵr sut mae hi (y)n &=tongue_click +... 1573084_1576316
 %eng:	but I don't know how she's...
-*ESF:	ych_a_fi . %snd:"patagonia38"_1576204_1576961
+*ESF:	ych_a_fi . 1576204_1576961
 %eng:	yuck
-*INE:	ia . %snd:"patagonia38"_1576972_1577249
+*INE:	ia . 1576972_1577249
 %eng:	yes
-*INE:	na jyst terrible terrible ! %snd:"patagonia38"_1577356_1578988
+*INE:	na jyst terrible terrible ! 1577356_1578988
 %eng:	no, just terrible, terrible!
-*INE:	ah@s:cym&spa wel dywedodd Sofía@s:cym&spa (.) eh@s:cym&spa ministro@s:spa de@s:spa educación@s:spa +/ . %snd:"patagonia38"_1579233_1583532
+*INE:	ah@s:cym&spa wel dywedodd Sofía@s:cym&spa (.) eh@s:cym&spa ministro@s:spa de@s:spa educación@s:spa +/. 1579233_1583532
 %eng:	ah, well Sofia said, er, the education department...
-*ESF:	ie . %snd:"patagonia38"_1583575_1584055
+*ESF:	ie . 1583575_1584055
 %eng:	yes
-*INE:	+, wedi prynu piano@s:cym&spa ardderchog . %snd:"patagonia38"_1584232_1586557
+*INE:	+, wedi prynu piano@s:cym&spa ardderchog . 1584232_1586557
 %eng:	...have bought an excellent piano
-*INE:	eh@s:cym&spa piano@s:cym&spa electric piano@s:cym&spa eh@s:cym&spa ? %snd:"patagonia38"_1586621_1588008
+*INE:	eh@s:cym&spa piano@s:cym&spa electric piano@s:cym&spa eh@s:cym&spa ? 1586621_1588008
 %eng:	er, a piano, electric piano, eh ?
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_1588136_1588360
-*INE:	[- spa] piano eléctrico . %snd:"patagonia38"_1588434_1589042
+*ESF:	ah@s:cym&spa . 1588136_1588360
+*INE:	[- spa] piano eléctrico . 1588434_1589042
 %eng:	electric piano
-*ESF:	be er@s:cym&spa +/ . %snd:"patagonia38"_1589570_1590103
+*ESF:	be er@s:cym&spa +/. 1589570_1590103
 %eng:	what, er...
-*INE:	para@s:spa i [/] (..) er@s:cym&spa i helpu (.) um piano@s:spa a@s:spa las@s:spa escuelas@s:spa (.) yr er@s:cym&spa yn enw yr program . %snd:"patagonia38"_1590220_1600065
+*INE:	para@s:spa i [/] (..) er@s:cym&spa i helpu (.) um piano@s:spa a@s:spa las@s:spa escuelas@s:spa (.) yr er@s:cym&spa yn enw yr program . 1590220_1600065
 %eng:	for… to help, um, a piano to the schools in the name of the program
-*INE:	a bydd er@s:cym&spa José@s:cym&spa +/ . %snd:"patagonia38"_1600676_1602425
+*INE:	a bydd er@s:cym&spa José@s:cym&spa +/. 1600676_1602425
 %eng:	and José will be...
-*ESF:	ie . %snd:"patagonia38"_1602457_1602809
+*ESF:	ie . 1602457_1602809
 %eng:	yes
-*INE:	bueno@s:spa yn (.) comision@s:spa le@s:spa van@s:spa a@s:spa comisionar@s:spa las@s:spa horas@s:spa (.) i wneud er@s:cym&spa cyngerdd [/] cyngerdd er@s:cym&spa didactic didáctico@s:spa conciertos@s:spa didácticos@s:spa i (y)r ysgol er@s:cym&spa uwchradd en@s:spa las@s:spa escuelas@s:spa secundarias@s:spa . %snd:"patagonia38"_1603107_1620515
+*INE:	bueno@s:spa yn (.) comision@s:spa le@s:spa van@s:spa a@s:spa comisionar@s:spa las@s:spa horas@s:spa (.) i wneud er@s:cym&spa cyngerdd [/] cyngerdd er@s:cym&spa didactic didáctico@s:spa conciertos@s:spa didácticos@s:spa i (y)r ysgol er@s:cym&spa uwchradd en@s:spa las@s:spa escuelas@s:spa secundarias@s:spa . 1603107_1620515
 %eng:	...well, in commission, he's going to commission the times to do educational concerts, didactic concerts for the secondary school, in the secondary schools
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_1619357_1620168
-*INE:	rico@s:spa xxx un@s:spa piano@s:cym&spa bárbaro@s:spa xxx um eléctrico@s:spa para@s:spa xxx eso@s:spa . %snd:"patagonia38"_1621922_1627581
+*ESF:	ah@s:cym&spa . 1619357_1620168
+*INE:	rico@s:spa xxx un@s:spa piano@s:cym&spa bárbaro@s:spa xxx um eléctrico@s:spa para@s:spa xxx eso@s:spa . 1621922_1627581
 %eng:	[...]
-*ESF:	[- spa] +< fantástico . %snd:"patagonia38"_1622370_1623277
+*ESF:	[- spa] +< fantástico . 1622370_1623277
 %eng:	fantastic
-*ESF:	+< xxx . %snd:"patagonia38"_1627578_1627770
-*INE:	así@s:spa que@s:spa dw i (y)n siŵr mae Agata@s:cym&spa (y)n dod i (.) ddangos y piano@s:cym&spa i &espli (.) explicar@s:spa cómo@s:spa era@s:spa ? %snd:"patagonia38"_1627604_1636404
+*ESF:	+< xxx . 1627578_1627770
+*INE:	así@s:spa que@s:spa dw i (y)n siŵr mae Agata@s:cym&spa (y)n dod i (.) ddangos y piano@s:cym&spa i &espli (.) explicar@s:spa cómo@s:spa era@s:spa ? 1627604_1636404
 %eng:	so I'm sure Agata is coming to show the piano, to explain, how is it said ?
-*ESF:	[- spa] +< sí . %snd:"patagonia38"_1634868_1635156
+*ESF:	[- spa] +< sí . 1634868_1635156
 %eng:	yes
-*ESF:	esbonio . %snd:"patagonia38"_1636408_1637293
+*ESF:	esbonio . 1636408_1637293
 %eng:	to explain
-*INE:	+, esbonio yr er@s:cym&spa um (.) athrawes cerdd a oh@s:cym&spa i [/] i [/] i weld &b bethau . %snd:"patagonia38"_1637409_1643841
+*INE:	+, esbonio yr er@s:cym&spa um (.) athrawes cerdd a oh@s:cym&spa i [/] i [/] i weld &b bethau . 1637409_1643841
 %eng:	...explain [to] the music teacher (female) and, oh, to see things
-*ESF:	+< ardderchog . %snd:"patagonia38"_1642348_1643404
+*ESF:	+< ardderchog . 1642348_1643404
 %eng:	excellent
-*INE:	maen nhw (y)n gallu (.) gofyn i Rachel_Huws@s:cym&spa . %snd:"patagonia38"_1643935_1646751
+*INE:	maen nhw (y)n gallu (.) gofyn i Rachel_Huws@s:cym&spa . 1643935_1646751
 %eng:	they can ask Rachel Huws
-*ESF:	+< ysgol uwch ? %snd:"patagonia38"_1645460_1646516
+*ESF:	+< ysgol uwch ? 1645460_1646516
 %eng:	high school?
-*INE:	uwch (.) ia (.) escuela@s:spa secundaria@s:spa . %snd:"patagonia38"_1647053_1649581
+*INE:	uwch (.) ia (.) escuela@s:spa secundaria@s:spa . 1647053_1649581
 %eng:	higher, yes, secondary school
-*ESF:	+< y@s:spa beth sy (y)n bod mae piano@s:cym&spa gyda ni yn yr ysgol dauddeg pedwar ? %snd:"patagonia38"_1648300_1652119
+*ESF:	+< y@s:spa beth sy (y)n bod mae piano@s:cym&spa gyda ni yn yr ysgol dauddeg pedwar ? 1648300_1652119
 %eng:	and what's wrong we have a piano in the Twenty-Four school
-*INE:	pam ? %snd:"patagonia38"_1653800_1654344
+*INE:	pam ? 1653800_1654344
 %eng:	why?
-*ESF:	[- spa] lo arreglaron ? %snd:"patagonia38"_1654493_1655325
+*ESF:	[- spa] lo arreglaron ? 1654493_1655325
 %eng:	they fixed it?
-*INE:	[- spa] sí . %snd:"patagonia38"_1655368_1656040
+*INE:	[- spa] sí . 1655368_1656040
 %eng:	yes
-*ESF:	ah@s:cym&spa porque@s:spa como@s:spa nunca@s:spa +// . %snd:"patagonia38"_1656322_1657511
+*ESF:	ah@s:cym&spa porque@s:spa como@s:spa nunca@s:spa +//. 1656322_1657511
 %eng:	ah because never...
-*ESF:	y@s:spa dónde@s:spa está@s:spa [///] (.) ble mae piano@s:cym&spa ? %snd:"patagonia38"_1657493_1660885
+*ESF:	y@s:spa dónde@s:spa está@s:spa [///] (.) ble mae piano@s:cym&spa ? 1657493_1660885
 %eng:	and where is it… where's the piano?
-*INE:	está@s:spa en@s:spa eh@s:cym&spa en@s:spa la@s:spa oficina@s:spa de@s:spa Rubén@s:cym&spa <donde@s:spa da@s:spa &mo> [//] donde@s:spa da@s:spa Heledd@s:cym&spa +/ . %snd:"patagonia38"_1659043_1663907
+*INE:	está@s:spa en@s:spa eh@s:cym&spa en@s:spa la@s:spa oficina@s:spa de@s:spa Rubén@s:cym&spa <donde@s:spa da@s:spa &mo> [//] donde@s:spa da@s:spa Heledd@s:cym&spa +/. 1659043_1663907
 %eng:	it is in Ruben's office, where he gives Heledd...
-*ESF:	ah@s:cym&spa y@s:spa nunca@s:spa la@s:spa escuché@s:spa (.) chwarae piano@s:cym&spa (.) Heledd@s:cym&spa . %snd:"patagonia38"_1664488_1669693
+*ESF:	ah@s:cym&spa y@s:spa nunca@s:spa la@s:spa escuché@s:spa (.) chwarae piano@s:cym&spa (.) Heledd@s:cym&spa . 1664488_1669693
 %eng:	ah and I never hear Heledd's piano playing
-*INE:	+< achos mae Heledd@s:cym&spa yn +.. . %snd:"patagonia38"_1666835_1668776
+*INE:	+< achos mae Heledd@s:cym&spa yn +... 1666835_1668776
 %eng:	because Heledd is...
-*INE:	na ? %snd:"patagonia38"_1669887_1670287
+*INE:	na ? 1669887_1670287
 %eng:	no?
-*ESF:	dim [/] dim clywed eh@s:cym&spa chwarae piano@s:cym&spa (..) athrawes (.) cerddoriaeth . %snd:"patagonia38"_1670015_1672911
+*ESF:	dim [/] dim clywed eh@s:cym&spa chwarae piano@s:cym&spa (..) athrawes (.) cerddoriaeth . 1670015_1672911
 %eng:	don't hear the (female) music teacher's piano playing
-*INE:	+< wel <dw i> [//] no@s:spa . %snd:"patagonia38"_1674981_1676965
-%eng:	well, I.. . no
-*INE:	dw i ddim yn gallu na na . %snd:"patagonia38"_1676987_1678384
+*INE:	+< wel <dw i> [//] no@s:spa . 1674981_1676965
+%eng:	well, I... no
+*INE:	dw i ddim yn gallu na na . 1676987_1678384
 %eng:	I can't, no
-*ESF:	dim ond eh@s:cym&spa (.) dw i (y)n clywed eh@s:cym&spa canu plant . %snd:"patagonia38"_1678614_1684310
+*ESF:	dim ond eh@s:cym&spa (.) dw i (y)n clywed eh@s:cym&spa canu plant . 1678614_1684310
 %eng:	only, er, I hear the children's singing
-*ESF:	dw i (y)n clywed +/ . %snd:"patagonia38"_1684886_1685952
+*ESF:	dw i (y)n clywed +/. 1684886_1685952
 %eng:	I hear...
-*INE:	+< mae [//] fi (y)n credu gyda Heledd@s:cym&spa (.) eh@s:cym&spa mae [/] mae plant yn canu yn uchel . %snd:"patagonia38"_1685307_1691259
+*INE:	+< mae [//] fi (y)n credu gyda Heledd@s:cym&spa (.) eh@s:cym&spa mae [/] mae plant yn canu yn uchel . 1685307_1691259
 %eng:	I think with Heledd, er, the children sing loudly
-*ESF:	ie . %snd:"patagonia38"_1691397_1691781
+*ESF:	ie . 1691397_1691781
 %eng:	yes
-*INE:	ie ? %snd:"patagonia38"_1691856_1692272
+*INE:	ie ? 1691856_1692272
 %eng:	yes?
-*INE:	achos mae Heledd@s:cym&spa yn canu uchel . %snd:"patagonia38"_1692351_1694367
+*INE:	achos mae Heledd@s:cym&spa yn canu uchel . 1692351_1694367
 %eng:	because Heledd sings loudly
-*ESF:	[- spa] +< &=laugh sí . %snd:"patagonia38"_1694388_1697290
+*ESF:	[- spa] +< &=laugh sí . 1694388_1697290
 %eng:	yes.
-*INE:	+< ie [=! laugh] ie . %snd:"patagonia38"_1694420_1695935
+*INE:	+< ie [=! laugh] ie . 1694420_1695935
 %eng:	yes
-*INE:	mae plant yn canu xxx . %snd:"patagonia38"_1696043_1698901
+*INE:	mae plant yn canu xxx . 1696043_1698901
 %eng:	the children sing [...]
-*INE:	[- spa] sí está bueno eso . %snd:"patagonia38"_1698970_1700021
+*INE:	[- spa] sí está bueno eso . 1698970_1700021
 %eng:	yes, that's good, that
-*ESF:	[- spa] sí . %snd:"patagonia38"_1699968_1700427
+*ESF:	[- spa] sí . 1699968_1700427
 %eng:	yes
-*INE:	[- spa] ellos cantan un poco más bueno . %snd:"patagonia38"_1700683_1702571
+*INE:	[- spa] ellos cantan un poco más bueno . 1700683_1702571
 %eng:	they sing a bit better
-*ESF:	sí@s:spa (.) mae [/] mae plant canu yn y fore (.) gyda Gwilym@s:cym&spa . %snd:"patagonia38"_1703375_1710142
+*ESF:	sí@s:spa (.) mae [/] mae plant canu yn y fore (.) gyda Gwilym@s:cym&spa . 1703375_1710142
 %eng:	yes, the children sing in the morning with Gwilym
-*INE:	ie . %snd:"patagonia38"_1710821_1711343
+*INE:	ie . 1710821_1711343
 %eng:	yes
-*ESF:	+< wyt ti (y)n (.) nabod Gwilym_Sanchez@s:cym&spa ? %snd:"patagonia38"_1710985_1714153
+*ESF:	+< wyt ti (y)n (.) nabod Gwilym_Sanchez@s:cym&spa ? 1710985_1714153
 %eng:	do you know Gwilym Sanchez?
-*ESF:	athrawon (.) suplente@s:spa de@s:spa +.. . %snd:"patagonia38"_1714629_1717786
+*ESF:	athrawon (.) suplente@s:spa de@s:spa +... 1714629_1717786
 %eng:	substitute teacher of...
-*INE:	+< ie . %snd:"patagonia38"_1715482_1716261
+*INE:	+< ie . 1715482_1716261
 %eng:	yes
-*ESF:	+< sí@s:spa Gwilym@s:cym&spa . %snd:"patagonia38"_1716666_1717861
+*ESF:	+< sí@s:spa Gwilym@s:cym&spa . 1716666_1717861
 %eng:	yes Gwilym
-*ESF:	sí@s:spa bueno@s:spa mae [/] &m mae o (y)n chwarae (.) gitâr . %snd:"patagonia38"_1717882_1721616
+*ESF:	sí@s:spa bueno@s:spa mae [/] &m mae o (y)n chwarae (.) gitâr . 1717882_1721616
 %eng:	yes well he plays guitar
-*INE:	+< xxx . %snd:"patagonia38"_1718878_1719817
-*INE:	ah@s:cym&spa . %snd:"patagonia38"_1722452_1723849
-*ESF:	a mae plant canu eh@s:cym&spa saludo@s:spa a@s:spa la@s:spa bandera@s:spa . %snd:"patagonia38"_1723358_1727017
+*INE:	+< xxx . 1718878_1719817
+*INE:	ah@s:cym&spa . 1722452_1723849
+*ESF:	a mae plant canu eh@s:cym&spa saludo@s:spa a@s:spa la@s:spa bandera@s:spa . 1723358_1727017
 %eng:	and children sing, er, a flag salute
-*INE:	+< beth ? %snd:"patagonia38"_1725726_1726249
+*INE:	+< beth ? 1725726_1726249
 %eng:	what?
-*INE:	ah@s:cym&spa (.) yn y bore . %snd:"patagonia38"_1727247_1728985
+*INE:	ah@s:cym&spa (.) yn y bore . 1727247_1728985
 %eng:	ah, in the morning
-*ESF:	+< eh@s:cym&spa +.. . %snd:"patagonia38"_1727823_1728367
-*INE:	ia pero@s:spa dim el@s:spa mi@s:spa bandera@s:spa eh@s:cym&spa . %snd:"patagonia38"_1729092_1731897
+*ESF:	+< eh@s:cym&spa +... 1727823_1728367
+*INE:	ia pero@s:spa dim el@s:spa mi@s:spa bandera@s:spa eh@s:cym&spa . 1729092_1731897
 %eng:	yes but not the Mil Bandera, eh
-*ESF:	xxx +/ . %snd:"patagonia38"_1732047_1733369
-*INE:	[- spa] no no no una canción nueva . %snd:"patagonia38"_1732633_1734436
+*ESF:	xxx +/. 1732047_1733369
+*INE:	[- spa] no no no una canción nueva . 1732633_1734436
 %eng:	no no no, a new song
-*ESF:	canu newydd +// . %snd:"patagonia38"_1735807_1736639
+*ESF:	canu newydd +//. 1735807_1736639
 %eng:	new singing...
-*ESF:	eh@s:cym&spa no@s:spa pero@s:spa no@s:spa sé@s:spa si@s:spa la@s:spa hizo@s:spa él@s:spa . %snd:"patagonia38"_1736601_1738788
+*ESF:	eh@s:cym&spa no@s:spa pero@s:spa no@s:spa sé@s:spa si@s:spa la@s:spa hizo@s:spa él@s:spa . 1736601_1738788
 %eng:	eh, no, but I don't know if he did it
-*ESF:	[- spa] si la inventaron los muchachitos . %snd:"patagonia38"_1738809_1739972
+*ESF:	[- spa] si la inventaron los muchachitos . 1738809_1739972
 %eng:	whether the boys made it up
-*ESF:	[- spa] no sé . %snd:"patagonia38"_1739950_1740542
+*ESF:	[- spa] no sé . 1739950_1740542
 %eng:	I don't know
-*INE:	ah@s:cym&spa qué@s:spa lindo@s:spa ! %snd:"patagonia38"_1740894_1742852
+*INE:	ah@s:cym&spa qué@s:spa lindo@s:spa ! 1740894_1742852
 %eng:	ah how beautiful!
-*ESF:	[- spa] muy lindo vos sabés qué linda y cantan relindo . %snd:"patagonia38"_1742548_1745518
+*ESF:	[- spa] muy lindo vos sabés qué linda y cantan relindo . 1742548_1745518
 %eng:	very pretty, you know so lovely and they sing beautifully
-*INE:	[- spa] y qué bueno . %snd:"patagonia38"_1746309_1747776
+*INE:	[- spa] y qué bueno . 1746309_1747776
 %eng:	and so well
-*INE:	suplente@s:spa de@s:spa quién@s:spa es@s:spa del@s:spa eh@s:cym&spa +.. . %snd:"patagonia38"_1748012_1750364
+*INE:	suplente@s:spa de@s:spa quién@s:spa es@s:spa del@s:spa eh@s:cym&spa +..? 1748012_1750364
 %eng:	whose sybstitute is he ...?
-*ESF:	+< de@s:spa um Lois@s:cym&spa . %snd:"patagonia38"_1749683_1750827
+*ESF:	+< de@s:spa um Lois@s:cym&spa . 1749683_1750827
 %eng:	Lois'
-*INE:	+< Carolina@s:cym&spa . %snd:"patagonia38"_1750358_1750934
+*INE:	+< Carolina@s:cym&spa . 1750358_1750934
 %eng:	Carolina's
-*ESF:	no@s:spa de@s:spa Lois@s:cym&spa . %snd:"patagonia38"_1750989_1751773
+*ESF:	no@s:spa de@s:spa Lois@s:cym&spa . 1750989_1751773
 %eng:	no, Lois'
-*INE:	ah@s:cym&spa y@s:spa Lois@s:cym&spa tiene@s:spa xxx ya@s:spa . %snd:"patagonia38"_1752859_1756054
+*INE:	ah@s:cym&spa y@s:spa Lois@s:cym&spa tiene@s:spa xxx ya@s:spa . 1752859_1756054
 %eng:	ah and Lois already has [...]
-*ESF:	[- spa] +< y hasta fin de año . %snd:"patagonia38"_1755419_1756651
+*ESF:	[- spa] +< y hasta fin de año . 1755419_1756651
 %eng:	up to the end of the year
-*INE:	[- spa] por ahora . %snd:"patagonia38"_1756553_1757246
+*INE:	[- spa] por ahora . 1756553_1757246
 %eng:	so far
-*ESF:	[- spa] por ahora . %snd:"patagonia38"_1757246_1758014
+*ESF:	[- spa] por ahora . 1757246_1758014
 %eng:	fo far
-*INE:	[- spa] y el año que viene lo vas a tener que renovar . %snd:"patagonia38"_1758633_1760494
+*INE:	[- spa] y el año que viene lo vas a tener que renovar . 1758633_1760494
 %eng:	and next year you will have to renew it
-*ESF:	[- spa] sí . %snd:"patagonia38"_1760567_1761265
+*ESF:	[- spa] sí . 1760567_1761265
 %eng:	yes
-*ESF:	achos mae [/] (.) mae plan(t) (.) ddim yn da . %snd:"patagonia38"_1761467_1766214
+*ESF:	achos mae [/] (.) mae plan(t) (.) ddim yn da . 1761467_1766214
 %eng:	because the children aren't well
-*INE:	dw i ddim yn nabod plant Lois@s:cym&spa . %snd:"patagonia38"_1767242_1768981
+*INE:	dw i ddim yn nabod plant Lois@s:cym&spa . 1767242_1768981
 %eng:	I don't know Lois' children
-*INE:	pero@s:spa (.) wedi clywed amdan [//] amdanyn nhw . %snd:"patagonia38"_1769162_1772575
+*INE:	pero@s:spa (.) wedi clywed amdan [//] amdanyn nhw . 1769162_1772575
 %eng:	but have heard about them
-*ESF:	+< mae [/] mae [/] (.) maen nhw (y)n sâl . %snd:"patagonia38"_1770549_1773429
+*ESF:	+< mae [/] mae [/] (.) maen nhw (y)n sâl . 1770549_1773429
 %eng:	they're ill
-*INE:	sâl ? %snd:"patagonia38"_1774075_1774587
+*INE:	sâl ? 1774075_1774587
 %eng:	ill?
-*ESF:	ie . %snd:"patagonia38"_1774705_1775099
+*ESF:	ie . 1774705_1775099
 %eng:	yes
-*ESF:	discapacitado@s:spa (.) ie ? %snd:"patagonia38"_1775451_1777489
+*ESF:	discapacitado@s:spa (.) ie ? 1775451_1777489
 %eng:	handicapped, yes?
-*INE:	[- spa] sí sí sí sí es discapacitado . %snd:"patagonia38"_1776198_1778502
+*INE:	[- spa] sí sí sí sí es discapacitado . 1776198_1778502
 %eng:	yes yes yes yes handicapped
-*ESF:	+< ie ? %snd:"patagonia38"_1777030_1777478
+*ESF:	+< ie ? 1777030_1777478
 %eng:	yes?
-*INE:	[- spa] pucha (.) sí . %snd:"patagonia38"_1778784_1780138
+*INE:	[- spa] pucha (.) sí . 1778784_1780138
 %eng:	damn, yes
-*INE:	y@s:spa siempre@s:spa viste@s:spa Lois@s:cym&spa tiene@s:spa esa@s:spa buena@s:spa onda@s:spa . %snd:"patagonia38"_1780352_1783189
+*INE:	y@s:spa siempre@s:spa viste@s:spa Lois@s:cym&spa tiene@s:spa esa@s:spa buena@s:spa onda@s:spa . 1780352_1783189
 %eng:	and always, did you see, Lois has this good will
-*INE:	beth am Carys@s:cym&spa ? %snd:"patagonia38"_1783410_1784445
+*INE:	beth am Carys@s:cym&spa ? 1783410_1784445
 %eng:	what about Carys?
-*INE:	mae hi wedi mynd ? %snd:"patagonia38"_1784754_1785703
+*INE:	mae hi wedi mynd ? 1784754_1785703
 %eng:	has she gone?
-*ESF:	+< &=noise (.) ie mae hi (y)n hapus iawn (.) rŵan . %snd:"patagonia38"_1785082_1789732
+*ESF:	+< &=noise (.) ie mae hi (y)n hapus iawn (.) rŵan . 1785082_1789732
 %eng:	yes, she's very happy now
-*INE:	achos mae +/ . %snd:"patagonia38"_1789743_1790756
+*INE:	achos mae +/. 1789743_1790756
 %eng:	because she's...
-*ESF:	+< achos mae wedi gorffen dosbarth . %snd:"patagonia38"_1790127_1792228
+*ESF:	+< achos mae wedi gorffen dosbarth . 1790127_1792228
 %eng:	because she's finished class
-*ESF:	felly (.) ddim licencia@s:spa (.) hapus iawn eh@s:cym&spa Melinda@s:cym&spa . %snd:"patagonia38"_1793127_1799484
+*ESF:	felly (.) ddim licencia@s:spa (.) hapus iawn eh@s:cym&spa Melinda@s:cym&spa . 1793127_1799484
 %eng:	so no degree, very happy, er, Melinda
-*ESF:	a dw i (y)n gwneud eh@s:cym&spa escenografìa@s:spa para@s:spa fin@s:spa de@s:spa año@s:spa ah@s:cym&spa &=clap . %snd:"patagonia38"_1799527_1804679
+*ESF:	a dw i (y)n gwneud eh@s:cym&spa escenografìa@s:spa para@s:spa fin@s:spa de@s:spa año@s:spa ah@s:cym&spa &=clap . 1799527_1804679
 %eng:	and I'm doing, eh, set design by the end of the year
-*INE:	(e)fallai mae ddim gyda hi dw i (y)n credu . %snd:"patagonia38"_1805194_1808746
+*INE:	(e)fallai mae ddim gyda hi dw i (y)n credu . 1805194_1808746
 %eng:	I think she might not have it
-*INE:	[- spa] no por ahí tiene un nombrecito dando vuelta . %snd:"patagonia38"_1809020_1811932
+*INE:	[- spa] no por ahí tiene un nombrecito dando vuelta . 1809020_1811932
 %eng:	she has a name in her mind
-*ESF:	mae hyn eh@s:cym&spa (.) o ysgariad hi felly &=laugh . %snd:"patagonia38"_1812450_1818082
+*ESF:	mae hyn eh@s:cym&spa (.) o ysgariad hi felly &=laugh . 1812450_1818082
 %eng:	so this is from her divorce
-*ESF:	ie (.) dw i (y)n credu . %snd:"patagonia38"_1818306_1820140
+*ESF:	ie (.) dw i (y)n credu . 1818306_1820140
 %eng:	yes I think so
-*ESF:	ti (y)n credu ? %snd:"patagonia38"_1820290_1821324
+*ESF:	ti (y)n credu ? 1820290_1821324
 %eng:	you think?
-*INE:	[- spa] este +/ . %snd:"patagonia38"_1822106_1822884
+*INE:	[- spa] este +/. 1822106_1822884
 %eng:	that...
-*ESF:	+< achos mae hi (y)n (.) hapus iawn . %snd:"patagonia38"_1822255_1824420
+*ESF:	+< achos mae hi (y)n (.) hapus iawn . 1822255_1824420
 %eng:	because she's very happy
-*INE:	&=laugh . %snd:"patagonia38"_1824708_1826116
-*ESF:	aw@s:cym&spa &=tongue_click . %snd:"patagonia38"_1825103_1826116
-*INE:	este@s:spa claro@s:spa y@s:spa [/] &b y@s:spa beth am y um um athrawes arall (.) o (y)r er@s:cym&spa plástica@s:spa ? %snd:"patagonia38"_1829352_1837138
+*INE:	&=laugh . 1824708_1826116
+*ESF:	aw@s:cym&spa &=tongue_click . 1825103_1826116
+*INE:	este@s:spa claro@s:spa y@s:spa [/] &b y@s:spa beth am y um um athrawes arall (.) o (y)r er@s:cym&spa plástica@s:spa ? 1829352_1837138
 %eng:	eh of course and what about the other (female) teacher, from the, er, plastic?
-*ESF:	eh@s:cym&spa Dolores@s:cym&spa ? %snd:"patagonia38"_1836035_1837144
-*ESF:	Dolores@s:cym&spa ie . %snd:"patagonia38"_1837294_1838392
+*ESF:	eh@s:cym&spa Dolores@s:cym&spa ? 1836035_1837144
+*ESF:	Dolores@s:cym&spa ie . 1837294_1838392
 %eng:	Dolores, yes
-*INE:	+< Dolores@s:cym&spa ? %snd:"patagonia38"_1837432_1838008
-*INE:	+< ia . %snd:"patagonia38"_1838104_1838574
+*INE:	+< Dolores@s:cym&spa ? 1837432_1838008
+*INE:	+< ia . 1838104_1838574
 %eng:	yes
-*INE:	[- spa] sí qué tal ? %snd:"patagonia38"_1839075_1839907
+*INE:	[- spa] sí qué tal ? 1839075_1839907
 %eng:	yes, how is it going?
-*ESF:	mae hi (y)n (..) eh@s:cym&spa +/ . %snd:"patagonia38"_1839950_1842254
+*ESF:	mae hi (y)n (..) eh@s:cym&spa +/. 1839950_1842254
 %eng:	she's, er...
-*INE:	+< dim_byd ? %snd:"patagonia38"_1841823_1842228
+*INE:	+< dim_byd ? 1841823_1842228
 %eng:	nothing?
-*ESF:	eh@s:cym&spa na na na mae hi (y)n eh@s:cym&spa tranquila@s:spa ? %snd:"patagonia38"_1842333_1845213
+*ESF:	eh@s:cym&spa na na na mae hi (y)n eh@s:cym&spa tranquila@s:spa ? 1842333_1845213
 %eng:	er, no no, she's, er, calm
-*INE:	xxx . %snd:"patagonia38"_1845341_1846290
-*ESF:	sí@s:spa pero@s:spa mae hi (y)n er@s:cym&spa er@s:cym&spa weithio trwy (y)r amser . %snd:"patagonia38"_1846322_1851560
+*INE:	xxx . 1845341_1846290
+*ESF:	sí@s:spa pero@s:spa mae hi (y)n er@s:cym&spa er@s:cym&spa weithio trwy (y)r amser . 1846322_1851560
 %eng:	yes but she's working all the time
-*INE:	[- spa] sí ? %snd:"patagonia38"_1851851_1852139
+*INE:	[- spa] sí ? 1851851_1852139
 %eng:	yes?
-*ESF:	ie . %snd:"patagonia38"_1852310_1852587
+*ESF:	ie . 1852310_1852587
 %eng:	yes
-*INE:	ah@s:cym&spa buenísimo@s:spa . %snd:"patagonia38"_1852576_1853344
+*INE:	ah@s:cym&spa buenísimo@s:spa . 1852576_1853344
 %eng:	ah excellent
-*ESF:	mae hi eh@s:cym&spa +// . %snd:"patagonia38"_1853408_1854347
+*ESF:	mae hi eh@s:cym&spa +//. 1853408_1854347
 %eng:	she's, eh...
-*ESF:	viste@s:spa que@s:spa están@s:spa con@s:spa la@s:spa articulación@s:spa con@s:spa el@s:spa ysgol meithrin ? %snd:"patagonia38"_1854422_1857248
+*ESF:	viste@s:spa que@s:spa están@s:spa con@s:spa la@s:spa articulación@s:spa con@s:spa el@s:spa ysgol meithrin ? 1854422_1857248
 %eng:	did you see that they are in discussion with the nursery school?
-*INE:	ah@s:cym&spa sí@s:spa . %snd:"patagonia38"_1857388_1858839
+*INE:	ah@s:cym&spa sí@s:spa . 1857388_1858839
 %eng:	ah yes
-*ESF:	+< bueno@s:spa Tina@s:cym&spa sacó@s:spa licencia@s:spa . %snd:"patagonia38"_1858209_1867180
+*ESF:	+< bueno@s:spa Tina@s:cym&spa sacó@s:spa licencia@s:spa . 1858209_1867180
 %eng:	well, Tina got the license
-*ESF:	ella@s:spa &=click &=click <los@s:spa &ot> [//] eh@s:cym&spa los@s:spa otros@s:spa los@s:spa de@s:spa música@s:spa y@s:spa los@s:spa de@s:spa gimnasio@s:spa le@s:spa dejaron@s:spa sola@s:spa . %snd:"patagonia38"_1859919_1867191
-%eng:	she.. . the other, the music ones and the gym ones, they left her alone.
-*ESF:	[- spa] +< ella xxx toda la actividad . %snd:"patagonia38"_1868312_1870370
+*ESF:	ella@s:spa &=click &=click <los@s:spa &ot> [//] eh@s:cym&spa los@s:spa otros@s:spa los@s:spa de@s:spa música@s:spa y@s:spa los@s:spa de@s:spa gimnasio@s:spa le@s:spa dejaron@s:spa sola@s:spa . 1859919_1867191
+%eng:	she... the other, the music ones and the gym ones, they left her alone.
+*ESF:	[- spa] +< ella xxx toda la actividad . 1868312_1870370
 %eng:	she [...] all the activity
-*INE:	+< aw@s:cym&spa . %snd:"patagonia38"_1868429_1869325
-*ESF:	trabajó . %snd:"patagonia38"_1870424_1871714
+*INE:	+< aw@s:cym&spa . 1868429_1869325
+*ESF:	trabajó . 1870424_1871714
 %eng:	she worked
-*ESF:	dim problem . %snd:"patagonia38"_1871965_1872797
+*ESF:	dim problem . 1871965_1872797
 %eng:	no problem
-*INE:	[- spa] porque habían planificado los de gimnasia ir allá a la cascada . %snd:"patagonia38"_1872548_1877321
+*INE:	[- spa] porque habían planificado los de gimnasia ir allá a la cascada . 1872548_1877321
 %eng:	because they have planned, the gym people to go there to the waterfall
-*ESF:	[- spa] +< no con todo el +// . %snd:"patagonia38"_1876073_1877657
+*ESF:	[- spa] +< no con todo el +//. 1876073_1877657
 %eng:	no, with all the...
-*INE:	[- spa] eso era un delirio . %snd:"patagonia38"_1877209_1878574
+*INE:	[- spa] eso era un delirio . 1877209_1878574
 %eng:	that was a sham
-*ESF:	[- spa] no no no eso lo suspendieron . %snd:"patagonia38"_1877748_1880388
+*ESF:	[- spa] no no no eso lo suspendieron . 1877748_1880388
 %eng:	no no no, it was suspended
-*INE:	<la@s:spa cara@s:spa> [/] la@s:spa cara@s:spa de@s:spa Juana@s:cym&spa cuando@s:spa Juan@s:cym&spa empezó@s:spa &=laugh . %snd:"patagonia38"_1880782_1884894
+*INE:	<la@s:spa cara@s:spa> [/] la@s:spa cara@s:spa de@s:spa Juana@s:cym&spa cuando@s:spa Juan@s:cym&spa empezó@s:spa &=laugh . 1880782_1884894
 %eng:	the face, Juana's face when Juan started
-*ESF:	+< &=laugh . %snd:"patagonia38"_1883609_1884425
-*ESF:	wyneb Juana@s:cym&spa (.) ych_a_fi ! %snd:"patagonia38"_1885111_1887682
+*ESF:	+< &=laugh . 1883609_1884425
+*ESF:	wyneb Juana@s:cym&spa (.) ych_a_fi ! 1885111_1887682
 %eng:	Juana's face, yuck!
-*INE:	no sabés . %snd:"patagonia38"_1887666_1888306
+*INE:	no sabés . 1887666_1888306
 %eng:	you don't know
-*INE:	wel Melinda@s:cym&spa rhaid i ni siarad amdano hwn um +.. . %snd:"patagonia38"_1888455_1892284
+*INE:	wel Melinda@s:cym&spa rhaid i ni siarad amdano hwn um +... 1888455_1892284
 %eng:	well Melinda, we must talk about this, um...
-*INE:	[- spa] claro porque (.) ella iba a tener que estar viste +/ . %snd:"patagonia38"_1892461_1895821
+*INE:	[- spa] claro porque (.) ella iba a tener que estar viste +/. 1892461_1895821
 %eng:	of course, because she was going to be, did you see...
-*INE:	na . %snd:"patagonia38"_1896151_1896674
+*INE:	na . 1896151_1896674
 %eng:	no
-*INE:	[- spa] no no muy [///] más trabajo . %snd:"patagonia38"_1897783_1899895
-%eng:	no no, very.. . more work
-*ESF:	+< mae [/] mae Melinda@s:cym&spa eh@s:cym&spa wedi gorffen eh@s:cym&spa (..) experiencias@s:spa eh@s:spa de@s:spa salidas@s:spa (..) con@s:spa ysgol meithrin achos tywydd ddim yn dda . %snd:"patagonia38"_1898942_1914750
+*INE:	[- spa] no no muy [///] más trabajo . 1897783_1899895
+%eng:	no no, very... more work
+*ESF:	+< mae [/] mae Melinda@s:cym&spa eh@s:cym&spa wedi gorffen eh@s:cym&spa (..) experiencias@s:spa eh@s:spa de@s:spa salidas@s:spa (..) con@s:spa ysgol meithrin achos tywydd ddim yn dda . 1898942_1914750
 %eng:	no, Melinda has finished school trips with nursery school because of the weather not being good
-*INE:	[- spa] +< sí . %snd:"patagonia38"_1908533_1909019
+*INE:	[- spa] +< sí . 1908533_1909019
 %eng:	yes
-*INE:	na mae tywydd yn ofnadwy ia i mynd rhywle . %snd:"patagonia38"_1914814_1917544
+*INE:	na mae tywydd yn ofnadwy ia i mynd rhywle . 1914814_1917544
 %eng:	no, the weather's awful, yes, for going somewhere
-*ESF:	[- spa] &u &a (.) además programar una salida para ir a comer con los chicos . %snd:"patagonia38"_1917525_1924978
+*ESF:	[- spa] &u &a (.) además programar una salida para ir a comer con los chicos . 1917525_1924978
 %eng:	also to plan a school trip to go for food with the students
-*ESF:	a qué@s:spa hora@s:spa tenés@s:spa que@s:spa ir@s:spa ? %snd:"patagonia38"_1925414_1926700
+*ESF:	a qué@s:spa hora@s:spa tenés@s:spa que@s:spa ir@s:spa ? 1925414_1926700
 %eng:	what time you have to go?
-*INE:	[- spa] +< no y cocinar . %snd:"patagonia38"_1925707_1927205
+*INE:	[- spa] +< no y cocinar . 1925707_1927205
 %eng:	no, and to cook
-*INE:	[- spa] y comer . %snd:"patagonia38"_1927264_1928341
+*INE:	[- spa] y comer . 1927264_1928341
 %eng:	and to eat
-*ESF:	[- spa] +< por eso +// . %snd:"patagonia38"_1927323_1928213
+*ESF:	[- spa] +< por eso +//. 1927323_1928213
 %eng:	because of this...
-*ESF:	eh@s:cym&spa por@s:spa ejemplo@s:spa (.) eh@s:cym&spa Gwilym@s:cym&spa ddim yn dod achos mae o (y)n (.) eh@s:cym&spa plant yn yr ysgol . %snd:"patagonia38"_1928441_1935311
+*ESF:	eh@s:cym&spa por@s:spa ejemplo@s:spa (.) eh@s:cym&spa Gwilym@s:cym&spa ddim yn dod achos mae o (y)n (.) eh@s:cym&spa plant yn yr ysgol . 1928441_1935311
 %eng:	er, for example, Gwilym isn't coming because he's, er, children at school
-*INE:	+< mae o (y)n weithio yn yr ysgol arall (.) ie . %snd:"patagonia38"_1933796_1935865
+*INE:	+< mae o (y)n weithio yn yr ysgol arall (.) ie . 1933796_1935865
 %eng:	he's working in the other school, yes
-*ESF:	ddim yn dod tan eh@s:cym&spa hanner wedi un yn y pnawn . %snd:"patagonia38"_1936271_1942180
+*ESF:	ddim yn dod tan eh@s:cym&spa hanner wedi un yn y pnawn . 1936271_1942180
 %eng:	not coming until half past one in the afternoon
-*INE:	+< mae o (y)n gorffen +.. . %snd:"patagonia38"_1936356_1937295
+*INE:	+< mae o (y)n gorffen +... 1936356_1937295
 %eng:	he's finishing...
-*INE:	ia hanner awr wedi un ia . %snd:"patagonia38"_1942841_1944356
+*INE:	ia hanner awr wedi un ia . 1942841_1944356
 %eng:	yes, half past one, yes
-*ESF:	mae (.) um (.) Heledd@s:cym&spa hefyd . %snd:"patagonia38"_1944507_1949264
+*ESF:	mae (.) um (.) Heledd@s:cym&spa hefyd . 1944507_1949264
 %eng:	there's Heledd as well
-*INE:	na mae Heledd@s:cym&spa ddim yn hoffi wneud dim_byd . %snd:"patagonia38"_1949403_1951430
+*INE:	na mae Heledd@s:cym&spa ddim yn hoffi wneud dim_byd . 1949403_1951430
 %eng:	no, Heledd doesn't like doing anything
-*ESF:	ie . %snd:"patagonia38"_1951478_1952033
+*ESF:	ie . 1951478_1952033
 %eng:	yes
-*ESF:	[- spa] pero además tampoco puede . %snd:"patagonia38"_1953579_1955169
+*ESF:	[- spa] pero además tampoco puede . 1953579_1955169
 %eng:	but she can't [...] either
-*INE:	wel (.) ie . %snd:"patagonia38"_1955798_1956694
+*INE:	wel (.) ie . 1955798_1956694
 %eng:	well, yes
-*ESF:	+< mae Melchor@s:cym&spa ie . %snd:"patagonia38"_1956246_1957718
+*ESF:	+< mae Melchor@s:cym&spa ie . 1956246_1957718
 %eng:	Melchor is, yes
-*ESF:	Melchor@s:cym&spa a +.. . %snd:"patagonia38"_1957705_1959390
+*ESF:	Melchor@s:cym&spa a +... 1957705_1959390
 %eng:	Melchor and...
-*INE:	++ a athrawes o (y)r ysgol feithrin . %snd:"patagonia38"_1960258_1962296
+*INE:	++ a athrawes o (y)r ysgol feithrin . 1960258_1962296
 %eng:	and a (female) teacher from the nursery school
-*ESF:	&n &a (.) dim ond Melchor@s:cym&spa ? %snd:"patagonia38"_1962360_1964621
+*ESF:	&n &a (.) dim ond Melchor@s:cym&spa ? 1962360_1964621
 %eng:	just Melchor?
-*ESF:	no@s:spa achos mae Carys@s:cym&spa (.) cwrs <yn y> [/] yn yr ysgol uwch yn y bore . %snd:"patagonia38"_1964632_1969133
+*ESF:	no@s:spa achos mae Carys@s:cym&spa (.) cwrs <yn y> [/] yn yr ysgol uwch yn y bore . 1964632_1969133
 %eng:	because Carys [has] a course in the secondary school in the morning
-*INE:	[- spa] +< sí . %snd:"patagonia38"_1966218_1966666
+*INE:	[- spa] +< sí . 1966218_1966666
 %eng:	yes
-*INE:	ia . %snd:"patagonia38"_1969298_1969800
+*INE:	ia . 1969298_1969800
 %eng:	yes
-*ESF:	mae Dolores@s:cym&spa hefyd . %snd:"patagonia38"_1970461_1971720
+*ESF:	mae Dolores@s:cym&spa hefyd . 1970461_1971720
 %eng:	Dolores too
-*INE:	mmhm . %snd:"patagonia38"_1972552_1973042
-*ESF:	felly dim ond Melchor@s:cym&spa a athrawes eh@s:cym&spa gym ysgol meithrin . %snd:"patagonia38"_1972792_1978040
+*INE:	mmhm . 1972552_1973042
+*ESF:	felly dim ond Melchor@s:cym&spa a athrawes eh@s:cym&spa gym ysgol meithrin . 1972792_1978040
 %eng:	so only Melchor and the nursery school gym teacher
-*INE:	[- spa] no . %snd:"patagonia38"_1978275_1978979
+*INE:	[- spa] no . 1978275_1978979
 %eng:	no
-*ESF:	dau [/] dau (.) athrawon (.) i [/] i (.) pedwardeg plant . %snd:"patagonia38"_1978525_1985021
+*ESF:	dau [/] dau (.) athrawon (.) i [/] i (.) pedwardeg plant . 1978525_1985021
 %eng:	two teachers for forty children
-*INE:	+< na na na . %snd:"patagonia38"_1980008_1980978
+*INE:	+< na na na . 1980008_1980978
 %eng:	no, no
-*INE:	+< mm . %snd:"patagonia38"_1982363_1983014
-*INE:	na na na . %snd:"patagonia38"_1984998_1985947
+*INE:	+< mm . 1982363_1983014
+*INE:	na na na . 1984998_1985947
 %eng:	no no
-*ESF:	na . %snd:"patagonia38"_1985969_1986630
+*ESF:	na . 1985969_1986630
 %eng:	no
-*INE:	na na na . %snd:"patagonia38"_1986583_1987180
+*INE:	na na na . 1986583_1987180
 %eng:	no no
-*ESF:	a mae Juana@s:cym&spa eh@s:cym&spa (.) se@s:spa vuelve@s:spa loca@s:spa . %snd:"patagonia38"_1987159_1990796
-%eng:	and Juana eh.. . is going crazy.
-*INE:	xxx mae hi xxx . %snd:"patagonia38"_1991074_1993836
+*ESF:	a mae Juana@s:cym&spa eh@s:cym&spa (.) se@s:spa vuelve@s:spa loca@s:spa . 1987159_1990796
+%eng:	and Juana eh... is going crazy.
+*INE:	xxx mae hi xxx . 1991074_1993836
 %eng:	[...] she's [...]
-*INE:	achos mae [/] maen nhw (y)n dweud i wneud rywbeth a fydd Juana@s:cym&spa (y)n gweithio xxx . %snd:"patagonia38"_1994842_2000975
+*INE:	achos mae [/] maen nhw (y)n dweud i wneud rywbeth a fydd Juana@s:cym&spa (y)n gweithio xxx . 1994842_2000975
 %eng:	because they say to do something and Juana will work [...]
-*INE:	llawer o pethau i gwneud . %snd:"patagonia38"_2001494_2002859
+*INE:	llawer o pethau i gwneud . 2001494_2002859
 %eng:	lots of things to do
-*INE:	na na . %snd:"patagonia38"_2003062_2003531
+*INE:	na na . 2003062_2003531
 %eng:	no no
-*INE:	a aethon nhw i gweld um dosbarth yn yr ysgol feithrin Juana@s:cym&spa a Alma@s:cym&spa (.) ah@s:cym&spa eso@s:spa estuvo@s:spa bueno@s:spa bueno@s:spa . %snd:"patagonia38"_2003953_2012519
+*INE:	a aethon nhw i gweld um dosbarth yn yr ysgol feithrin Juana@s:cym&spa a Alma@s:cym&spa (.) ah@s:cym&spa eso@s:spa estuvo@s:spa bueno@s:spa bueno@s:spa . 2003953_2012519
 %eng:	and they went to see a class at nursery school, Juana and Alma, ah that was good, good
-*ESF:	+< ie . %snd:"patagonia38"_2009858_2010445
+*ESF:	+< ie . 2009858_2010445
 %eng:	yes
-*ESF:	a [/] a mae athrawon yr ysgol feithrin mynd i (y)r ysgol dauddeg pedwar . %snd:"patagonia38"_2011213_2016642
+*ESF:	a [/] a mae athrawon yr ysgol feithrin mynd i (y)r ysgol dauddeg pedwar . 2011213_2016642
 %eng:	and some teachers from the nursery school are going to the Twenty Four school
-*ESF:	+< o (y)r ysgol feithrin . %snd:"patagonia38"_2013559_2014562
+*ESF:	+< o (y)r ysgol feithrin . 2013559_2014562
 %eng:	from nursery school
-*INE:	[- spa] +< eso es relindo . %snd:"patagonia38"_2015938_2017495
+*INE:	[- spa] +< eso es relindo . 2015938_2017495
 %eng:	that's really lovely
-*INE:	[- spa] bueno . %snd:"patagonia38"_2017479_2018130
+*INE:	[- spa] bueno . 2017479_2018130
 %eng:	right
-*ESF:	+< ah@s:cym&spa . %snd:"patagonia38"_2017682_2018119
-*ESF:	<mae mae mae hi> [//] maen nhw hapus iawn (.) con@s:spa la@s:spa experiencia@s:spa . %snd:"patagonia38"_2018407_2023836
+*ESF:	+< ah@s:cym&spa . 2017682_2018119
+*ESF:	<mae mae mae hi> [//] maen nhw hapus iawn (.) con@s:spa la@s:spa experiencia@s:spa . 2018407_2023836
 %eng:	they're very happy with the experience
-*INE:	[- spa] sí . %snd:"patagonia38"_2023943_2024412
+*INE:	[- spa] sí . 2023943_2024412
 %eng:	yes
-*ESF:	ah@s:cym&spa &re fue@s:spa enriquecedora@s:spa . %snd:"patagonia38"_2025204_2033012
+*ESF:	ah@s:cym&spa &re fue@s:spa enriquecedora@s:spa . 2025204_2033012
 %eng:	ah it was enriching
-*ESF:	sacaron@s:spa muchas@s:spa cosas@s:spa eh@s:spa positivas@s:spa (.) eh@s:cym&spa . %snd:"patagonia38"_2028804_2034633
+*ESF:	sacaron@s:spa muchas@s:spa cosas@s:spa eh@s:spa positivas@s:spa (.) eh@s:cym&spa . 2028804_2034633
 %eng:	they got a lot of positive things out of it
-*INE:	[- spa] +< sí sí sí (.) sí sí sí . %snd:"patagonia38"_2031658_2032532
+*INE:	[- spa] +< sí sí sí (.) sí sí sí . 2031658_2032532
 %eng:	yes yes yes
-*INE:	[- spa] +< qué bueno . %snd:"patagonia38"_2035073_2035617
+*INE:	[- spa] +< qué bueno . 2035073_2035617
 %eng:	how good
-*ESF:	wn i dim rŵan . %snd:"patagonia38"_2035702_2037153
+*ESF:	wn i dim rŵan . 2035702_2037153
 %eng:	I don't know now
-*INE:	wel (.) está@s:spa bien@s:spa . %snd:"patagonia38"_2038621_2040786
+*INE:	wel (.) está@s:spa bien@s:spa . 2038621_2040786
 %eng:	well, it's good
-*ESF:	a ti pan wyt ti (y)n dod o yr ysgol <blwyddyn diwetha> [//] blwyddyn nesa ? %snd:"patagonia38"_2041085_2046845
+*ESF:	a ti pan wyt ti (y)n dod o yr ysgol <blwyddyn diwetha> [//] blwyddyn nesa ? 2041085_2046845
 %eng:	and you, when are you coming from school next year?
-*INE:	mis Mawrth dw i (y)n credu ia ? %snd:"patagonia38"_2046925_2049197
+*INE:	mis Mawrth dw i (y)n credu ia ? 2046925_2049197
 %eng:	March, I think, yes?
-*INE:	dau ar hugain . %snd:"patagonia38"_2049375_2050921
+*INE:	dau ar hugain . 2049375_2050921
 %eng:	twenty two
-*ESF:	ah@s:cym&spa . %snd:"patagonia38"_2051028_2051465
-*INE:	[- spa] veintidos o por ahí xxx veintidos . %snd:"patagonia38"_2051263_2053492
+*ESF:	ah@s:cym&spa . 2051028_2051465
+*INE:	[- spa] veintidos o por ahí xxx veintidos . 2051263_2053492
 %eng:	twenty two or around then, [...] twenty two
-*ESF:	&uf . %snd:"patagonia38"_2051832_2052467
-*ESF:	+< ardderchog . %snd:"patagonia38"_2053236_2054079
+*ESF:	&uf . 2051832_2052467
+*ESF:	+< ardderchog . 2053236_2054079
 %eng:	excellent
-*INE:	xxx ia . %snd:"patagonia38"_2054111_2054729
+*INE:	xxx ia . 2054111_2054729
 %eng:	[...] yes
-*ESF:	a mae Heledd@s:cym&spa eh@s:cym&spa renuncia@s:spa yn mis eh@s:cym&spa Chwefror (.) achos mae +/ . %snd:"patagonia38"_2054714_2062352
-%eng:	and Heledd, er.. . she's giving it up in February because...
-*INE:	+< sut wyt ti (y)n gwybod ? %snd:"patagonia38"_2061317_2062490
+*ESF:	a mae Heledd@s:cym&spa eh@s:cym&spa renuncia@s:spa yn mis eh@s:cym&spa Chwefror (.) achos mae +/. 2054714_2062352
+%eng:	and Heledd, er... she's giving it up in February because...
+*INE:	+< sut wyt ti (y)n gwybod ? 2061317_2062490
 %eng:	how do you know?
-*ESF:	eh@s:cym&spa ? %snd:"patagonia38"_2062772_2063306
-*INE:	sut wyt ti (y)n gwybod mae hi (y)n +.. . %snd:"patagonia38"_2063434_2065556
+*ESF:	eh@s:cym&spa ? 2062772_2063306
+*INE:	sut wyt ti (y)n gwybod mae hi (y)n +..? 2063434_2065556
 %eng:	how do you know she's...?
-*INE:	&dwe dywedais hi i ti ? %snd:"patagonia38"_2065716_2067114
+*INE:	&dwe dywedais hi i ti ? 2065716_2067114
 %eng:	she told you?
-*ESF:	+< ie . %snd:"patagonia38"_2066751_2067423
+*ESF:	+< ie . 2066751_2067423
 %eng:	yes
-*ESF:	achos mae +/ . %snd:"patagonia38"_2067631_2068847
+*ESF:	achos mae +/. 2067631_2068847
 %eng:	because...
-*INE:	mae hi (y)n mynd yn_ol i Drelew@s:cym&spa ? %snd:"patagonia38"_2068943_2070308
+*INE:	mae hi (y)n mynd yn_ol i Drelew@s:cym&spa ? 2068943_2070308
 %eng:	is she going back to Trelew?
-*ESF:	fy xxx +// . %snd:"patagonia38"_2070351_2070895
+*ESF:	fy xxx +//. 2070351_2070895
 %eng:	my [...]
-*ESF:	ie . %snd:"patagonia38"_2070927_2071524
+*ESF:	ie . 2070927_2071524
 %eng:	yes
-*ESF:	ei [/] &ha ei gariad (.) hi +/ . %snd:"patagonia38"_2071908_2073945
+*ESF:	ei [/] &ha ei gariad (.) hi +/. 2071908_2073945
 %eng:	her boyfriend...
-*INE:	er@s:cym&spa wedi symud xxx . %snd:"patagonia38"_2073679_2074660
+*INE:	er@s:cym&spa wedi symud xxx . 2073679_2074660
 %eng:	++ er, has moved [...]
-*ESF:	+, wedi symud . %snd:"patagonia38"_2074771_2075600
+*ESF:	+, wedi symud . 2074771_2075600
 %eng:	...has moved
-*INE:	oh@s:cym&spa mae hi (y)n hapus xxx . %snd:"patagonia38"_2075790_2077435
+*INE:	oh@s:cym&spa mae hi (y)n hapus xxx . 2075790_2077435
 %eng:	oh, she's happy [...]
-*INE:	[- spa] se va porque ya +/ . %snd:"patagonia38"_2077676_2078905
+*INE:	[- spa] se va porque ya +/. 2077676_2078905
 %eng:	she is leaving because already...
-*ESF:	+< ie ie achos mae merch yn (.) &n (.) aros yn Trelew@s:cym&spa . %snd:"patagonia38"_2077719_2082871
+*ESF:	+< ie ie achos mae merch yn (.) &n (.) aros yn Trelew@s:cym&spa . 2077719_2082871
 %eng:	yes because her daughter is staying in Trelew
-*INE:	[- spa] +< ay sí . %snd:"patagonia38"_2080305_2081217
+*INE:	[- spa] +< ay sí . 2080305_2081217
 %eng:	oh yes
-*INE:	[- spa] sí sí sí . %snd:"patagonia38"_2081356_2082305
+*INE:	[- spa] sí sí sí . 2081356_2082305
 %eng:	yes yes yes
-*INE:	no@s:spa no@s:spa ella@s:spa está@s:spa contenta@s:spa porque@s:spa ella@s:spa quería@s:spa volver@s:spa a@s:spa Trelew@s:cym&spa . %snd:"patagonia38"_2083001_2085924
+*INE:	no@s:spa no@s:spa ella@s:spa está@s:spa contenta@s:spa porque@s:spa ella@s:spa quería@s:spa volver@s:spa a@s:spa Trelew@s:cym&spa . 2083001_2085924
 %eng:	no no she's happy because she wants to return to Trelew
-*INE:	[- spa] sí sí . %snd:"patagonia38"_2086141_2086739
+*INE:	[- spa] sí sí . 2086141_2086739
 %eng:	yes yes
-*INE:	este@s:spa y@s:spa um +// . %snd:"patagonia38"_2088482_2090252
+*INE:	este@s:spa y@s:spa um +//. 2088482_2090252
 %eng:	this and um...
-*INE:	ah@s:cym&spa a mae hi wedi gorffen i gweithio yn yr ysgol ciento@s:spa doce@s:spa hefyd . %snd:"patagonia38"_2090714_2095770
+*INE:	ah@s:cym&spa a mae hi wedi gorffen i gweithio yn yr ysgol ciento@s:spa doce@s:spa hefyd . 2090714_2095770
 %eng:	ah, and she's finished working at the 112 school too
-*ESF:	ie . %snd:"patagonia38"_2095864_2096467
+*ESF:	ie . 2095864_2096467
 %eng:	yes
-*INE:	dywedais i Pedra@s:cym&spa . %snd:"patagonia38"_2096629_2098032
+*INE:	dywedais i Pedra@s:cym&spa . 2096629_2098032
 %eng:	I said to Pedra
-*INE:	fy [/] fy [/] &n fy ffrind . %snd:"patagonia38"_2098277_2099781
+*INE:	fy [/] fy [/] &n fy ffrind . 2098277_2099781
 %eng:	my friend
-*ESF:	+< ah@s:cym&spa ie . %snd:"patagonia38"_2098613_2100202
+*ESF:	+< ah@s:cym&spa ie . 2098613_2100202
 %eng:	ah yes
-*INE:	<(e)fallai mae hi> [//] achos mae hi yn gweithio yn Gualjaina@s:cym&spa . %snd:"patagonia38"_2100285_2103213
-%eng:	maybe she's.. . because she works in Gualjaina
-*ESF:	oh@s:cym&spa . %snd:"patagonia38"_2103367_2103954
-*INE:	Gualjaina@s:cym&spa están@s:spa asfaltando@s:spa . %snd:"patagonia38"_2104021_2105914
+*INE:	<(e)fallai mae hi> [//] achos mae hi yn gweithio yn Gualjaina@s:cym&spa . 2100285_2103213
+%eng:	maybe she's... because she works in Gualjaina
+*ESF:	oh@s:cym&spa . 2103367_2103954
+*INE:	Gualjaina@s:cym&spa están@s:spa asfaltando@s:spa . 2104021_2105914
 %eng:	Gualjaina, they are asphalting
-*ESF:	+< ych a fi . %snd:"patagonia38"_2104263_2105357
+*ESF:	+< ych a fi . 2104263_2105357
 %eng:	yuck
-*INE:	[- spa] el camino no sabes lo que es . %snd:"patagonia38"_2106223_2107930
+*INE:	[- spa] el camino no sabes lo que es . 2106223_2107930
 %eng:	the road, you don't know how it is
-*INE:	el@s:spa car +/ . %snd:"patagonia38"_2108134_2108822
+*INE:	el@s:spa car +/. 2108134_2108822
 %eng:	the car...
-*ESF:	ie . %snd:"patagonia38"_2109110_2109377
+*ESF:	ie . 2109110_2109377
 %eng:	yes
-*INE:	+, &m wedi [/] wedi +.. . %snd:"patagonia38"_2109361_2110497
+*INE:	+, &m wedi [/] wedi +... 2109361_2110497
 %eng:	...has...
-*ESF:	mae ffordd ofnadwy . %snd:"patagonia38"_2110910_2112499
+*ESF:	mae ffordd ofnadwy . 2110910_2112499
 %eng:	the road (is) awful
-*INE:	[- spa] sí . %snd:"patagonia38"_2112425_2112995
+*INE:	[- spa] sí . 2112425_2112995
 %eng:	yes
-*INE:	car Pedra@s:cym&spa wedi (.) romperse@s:spa xxx +/ . %snd:"patagonia38"_2113329_2115953
+*INE:	car Pedra@s:cym&spa wedi (.) romperse@s:spa xxx +/. 2113329_2115953
 %eng:	Pedra's car broke down [...]
-*ESF:	++ wedi torri trwy (y)r amser . %snd:"patagonia38"_2115761_2116956
+*ESF:	++ wedi torri trwy (y)r amser . 2115761_2116956
 %eng:	broken all the time
-*INE:	wedi <torri (.) wir> [=! laugh] ! %snd:"patagonia38"_2116972_2118401
+*INE:	wedi <torri (.) wir> [=! laugh] ! 2116972_2118401
 %eng:	broken, right!
-*ESF:	+< wedi romperse@s:spa . %snd:"patagonia38"_2117943_2119255
+*ESF:	+< wedi romperse@s:spa . 2117943_2119255
 %eng:	broken down
-*INE:	wedi romperse@s:spa &=laugh ! %snd:"patagonia38"_2118647_2120940
+*INE:	wedi romperse@s:spa &=laugh ! 2118647_2120940
 %eng:	broken down!
-*ESF:	+< &=laugh . %snd:"patagonia38"_2119801_2120956
+*ESF:	+< &=laugh . 2119801_2120956
 @End
