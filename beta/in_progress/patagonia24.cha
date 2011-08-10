@@ -37,7 +37,7 @@
 %eng:	I bought some churn...
 *ADL:	ie . 12526_12810
 %eng:	yes.
-*MOR:	oedd efo'r merched xxx . 12805_15063
+*MOR:	oedd efo (y)r merched xxx . 12805_15063
 %eng:	that the women xxx had.
 *ADL:	a modryb (.) i fi (.) aha@s:cym&spa . 15022_17170
 %eng:	and an aunt of mine, aha.
@@ -85,9 +85,9 @@
 %eng:	yes.
 *MOR:	a wedyn (.) <&g &k> [//] <corddi hi> [?] . 48546_50159
 %eng:	and then you churn it.
-*ADL:	+< <a wneud> [//] a corddi a corddi nes bod y llaeth enwyn yn dod allan o (y)r +... 49335_52917
-%eng:	and you churn and churn until the butter milk come out of the...
-*MOR:	llaeth enwyn yn dod allan xxx . 52902_54957
+*ADL:	+< <a wneud> [//] a corddi a corddi nes bod y llaeth_enwyn yn dod allan o (y)r +... 49335_52917
+%eng:	and you churn and churn until the buttermilk come out of the...
+*MOR:	llaeth_enwyn yn dod allan xxx . 52902_54957
 %eng:	buttermilk comes out xxx .
 *ADL:	+< <o (y)r ym> [//] o (y)r menyn . 54423_56625
 %eng:	from the butter.
@@ -95,7 +95,7 @@
 %eng:	from the butter.
 *ADL:	o(eddw)n i wrth fy modd yn cael llaeth (.) enwyn <i ginio> [/] i ginio ynde . 56590_60973
 %eng:	I very much liked buttermilk for lunch.
-*MOR:	llaeth enwyn ffres . 58442_59812
+*MOR:	llaeth_enwyn ffres . 58442_59812
 %eng:	fresh buttermilk.
 *MOR:	uh adeg hynny oedd ddim y diodydd sydd i gael nawr . 62014_66987
 %eng:	in those days there weren't any of the drinks that are available now.
@@ -109,7 +109,7 @@
 %eng:	the men were making hay and were thirsty.
 *ADL:	ie . 74957_75415
 %eng:	yes.
-*MOR:	(we)dyn o(edde)n nhw'n mynd â potel +... 75276_77168
+*MOR:	(we)dyn o(edde)n nhw (y)n mynd â potel +... 75276_77168
 %eng:	then they would take a bottle...
 *ADL:	ie . 77132_77964
 %eng:	yes.
@@ -141,30 +141,30 @@
 %eng:	sometimes you were taking the pre-prepared tea in the flask.
 *ADL:	ie . 101431_101907
 %eng:	yes.
-*MOR:	ond uh oedd y llaeth enwyn xxx (.) xxx cario (y)r botel yn (..) xxx . 101859_106977
+*MOR:	ond uh oedd y llaeth_enwyn xxx (.) xxx cario (y)r botel yn (..) xxx . 101859_106977
 %eng:	but the buttermilk xxx carried the bottle in xxx.
-*ADL:	cario hi drwy'r dydd efo nhw wedyn yn_doedden nhw . 106002_108284
+*ADL:	cario hi drwy (y)r dydd efo nhw wedyn yn_doedden nhw . 106002_108284
 %eng:	carried it with them all day, weren't they.
 *ADL:	cael yfed rywbeth ynde . 108284_110106
 %eng:	got to drink something.
 *ADL:	ie . 109981_111003
 %eng:	yes.
-*MOR:	dydy pobl ifanc nawr ddim yn nabod llaeth enwyn &=laugh . 111110_115091
+*MOR:	dydy pobl ifanc nawr ddim yn nabod llaeth_enwyn &=laugh . 111110_115091
 %eng:	young people nowadays don't know buttermilk.
 *ADL:	+< na . 114313_114987
 %eng:	no.
-*ADL:	maen nhw (y)n galw llaeth enwyn yn llaeth ["] yn rhywle yng Nghymru yn y gogledd dydyn nhw ? 115114_119275
+*ADL:	maen nhw (y)n galw llaeth_enwyn yn llaeth ["] yn rhywle yng Nghymru yn y gogledd dydyn nhw ? 115114_119275
 %eng:	they call buttermilk "llaeth" somewhere in Wales in the North, don't they?
-*ADL:	llefrith ["] ydy llaeth a llaeth ["] ydy llaeth enwyn . 119232_123597
+*ADL:	llefrith ["] ydy llaeth a llaeth ["] ydy llaeth_enwyn . 119232_123597
 %eng:	"llefrith" is milk and "llaeth" is buttermilk.
 *ADL:	yn y gogledd dw i meddwl . 123723_125104
 %eng:	in the North I think.
 *ADL:	dw i siŵr iawn . 125128_125998
 %eng:	I'm not sure.
-*ADL:	ond dim ond <llaeth enwyn> ["] dan ni (y)n ddeud yma ynde ? 126340_128482
-%eng:	but we only say "llaeth enwyn" here, don't we?
-*MOR:	+< ie <llaeth enwyn> ["] <fydden ni (y)n ei ddeud> [?] . 127948_130655
-%eng:	yes, "llaeth enwyn" is what I'd say.
+*ADL:	ond dim ond <llaeth_enwyn> ["] dan ni (y)n ddeud yma ynde ? 126340_128482
+%eng:	but we only say "llaeth_enwyn" here, don't we?
+*MOR:	+< ie <llaeth_enwyn> ["] <fydden ni (y)n ei ddeud> [?] . 127948_130655
+%eng:	yes, "llaeth_enwyn" is what I'd say.
 *ADL:	+< mhm . 129154_130536
 %eng:	yes.
 *MOR:	suero@s:spa ["] oedden nhw (y)n ddweud yn Spanish . 130495_133152
@@ -308,7 +308,7 @@
 %eng:	Mum put them into a...
 *MOR:	oh@s:cym&spa . 233383_233912
 %eng:	oh.
-*ADL:	uh mewn blawd lli ie mewn aserrín@s:spa . 233903_236885
+*ADL:	uh mewn blawd lli(f) ie mewn aserrín@s:spa . 233903_236885
 %eng:	in saw dust, yes, in sawdust.
 *MOR:	aserrín@s:spa dw i (ddi)m cofio [?] +... 236660_238169
 %eng:	sawdust I remember
@@ -340,7 +340,7 @@
 %eng:	ah!
 *MOR:	+, i eisteddfod Chubut@s:cym&spa . 260278_262066
 %eng:	...to the eisteddfod of Chubut.
-*ADL:	dwy_fil_a_deg (.) neu dwy_fil_a_naw ? 262090_264051
+*ADL:	dwy fil a deg (.) neu dwy fil a naw ? 262090_264051
 %eng:	2010 or 2009 .
 *MOR:	+< uh (.) naci xxx naw ! 263203_265096
 %eng:	no, xxx nine!
@@ -808,7 +808,7 @@
 %eng:	well, oh, no, I didn't know that story.
 *MOR:	xxx . 676437_677250
 %eng:	xxx.
-*ADL:	<dw i (y)n gwbod> [?] bod ei mam hi wedi marw . 677143_678521
+*ADL:	<dw i (y)n gw(y)bod> [?] bod ei mam hi wedi marw . 677143_678521
 %eng:	I know that her mother has died.
 *ADL:	achos [?] pan es i draw <yn (.)> [//] pedair mlynedd yn_ôl oedd ei mam yna . 678501_682478
 %eng:	because when I went over there four years ago her mother was there.
@@ -820,7 +820,7 @@
 %eng:	but she died later, Catrin Elen's mother.
 *OSE:	+< Imogen@s:cym&spa . 685938_686477
 %eng:	Imogen.
-*MOR:	<Anti Imogen@s:cym&spa> ["] oedden ni (y)n galw xx . 686540_688008
+*MOR:	<anti Imogen@s:cym&spa> ["] oedden ni (y)n galw xx . 686540_688008
 %eng:	we called her "Auntie Imogen" .
 *ADL:	Imogen@s:cym&spa . 687863_688682
 %eng:	Imogen.
@@ -844,7 +844,7 @@
 %eng:	related to my mother-in-law.
 *ADL:	ah@s:cym&spa ! 703324_704775
 %eng:	ah!
-*MOR:	oh@s:cym&spa Anti Imogen@s:cym&spa o(eddw)n i (y)n meddwl y byd o Anti Imogen@s:cym&spa . 704799_708049
+*MOR:	oh@s:cym&spa anti Imogen@s:cym&spa o(eddw)n i (y)n meddwl y byd o anti Imogen@s:cym&spa . 704799_708049
 %eng:	oh, Aunti Imogen, we were very fond of Auntie Imogen.
 *ADL:	+< hyfryd (..) neis . 706128_707701
 %eng:	lovely ... nice.
@@ -853,7 +853,7 @@
 *ADL:	oh@s:cym&spa ! 711801_712718
 %eng:	oh!
 *MOR:	Bedwyr_Rees@s:cym&spa dw i (y)n meddwl oedd ei enw fo . 712442_714622
-%eng:	I think his name was Bedwyr Rees.
+%eng:	I think his name was Bedwyr_Rees.
 *ADL:	+< oh@s:cym&spa dw i (y)n nabod +... 712448_713638
 %eng:	oh, I know...
 *ADL:	ie . 714626_715317
@@ -962,7 +962,7 @@
 %eng:	I have an excellent photo of the choir.
 *ADL:	ie . 799451_800420
 %eng:	yes.
-*MOR:	dw i (y)n meddwl bod o (y)n deud arno tri_deg_pedwar y flwyddyn tri_deg_pedwar . 800892_805374
+*MOR:	dw i (y)n meddwl bod o (y)n deud arno tri_deg pedwar y flwyddyn tri_deg pedwar . 800892_805374
 %eng:	I think it says on it 34, the year 34 .
 *ADL:	+< y flwyddyn ? 803632_804427
 %eng:	the year?
@@ -1173,7 +1173,7 @@
 %eng:	Camilla is a great-granddaughter.
 *ADL:	ah@s:cym&spa <mae (y)n ddrwg gen i> [/] mae (y)n ddrwg gen i . 965462_967092
 %eng:	ah, I'm sorry.
-*ADL:	dau &ugu [//] wyr +..? 967208_969281
+*ADL:	dau &ugu [//] ŵyr +..? 967208_969281
 %eng:	two grandsons...?
 *MOR:	a (.) un wyres . 969292_970599
 %eng:	and one granddaughter.
@@ -1375,7 +1375,7 @@
 %eng:	uh...
 *MOR:	a <hanes uh> [//] hanesyddol ynde uh +... 1113468_1116299
 %eng:	and historical...
-*MOR:	xxx addysg lawer mae llyfrau'n help . 1116340_1119259
+*MOR:	xxx addysg lawer mae llyfrau (y)n help . 1116340_1119259
 %eng:	xxx much education books help.
 *ADL:	ie . 1119065_1119687
 %eng:	yes.
@@ -1440,7 +1440,7 @@
 %eng:	and then we have a fortnight of exams.
 *MOR:	arholiadau . 1188677_1189461
 %eng:	exams.
-*ADL:	a wedyn fydd e rhy hwyr i anfon cardiau Nadolig i Gymru beth bynnag yndy yndydy . 1189426_1194187
+*ADL:	a wedyn fydd e rhy hwyr i anfon cardiau Nadolig i Gymru beth bynnag yndy yn_dydy . 1189426_1194187
 %eng:	and then it will be too late to send Christmas cards, to Wales anyway.
 *MOR:	+< ie ie . 1193386_1194181
 %eng:	yes.
@@ -1619,7 +1619,7 @@
 %eng:	Nalda.
 *ADL:	a wedyn oedd o eisiau (y)r hanes . 1358835_1360188
 %eng:	and so he wanted to find the history.
-*ADL:	xxx mynd i (y)r llyfrgell (by)sai fo (y)n cael y gweddill yn_bysai . 1360188_1363125
+*ADL:	xxx mynd i (y)r llyfrgell (by)sai fo (y)n cael y gweddill yn_basai . 1360188_1363125
 %eng:	xxx went to the library he'd get the rest, wouldn't he.
 %com:	pause
 *ADL:	mae (y)r (.) [/] yr ardd yn hyfryd efo (y)r cornchwiglod yna (y)n (.) bwyta (y)r pryfed bach i_gyd . 1366184_1371351
@@ -1664,7 +1664,7 @@
 %eng:	but those little two are big and escape...
 *ADL:	ah@s:cym&spa ! 1395651_1396568
 %eng:	ah!
-*MOR:	wel maen nhw fel (ty)sen nhw (y)n roid cwmni i rywun ynde . 1396585_1398947
+*MOR:	wel maen nhw fel (ta)sen nhw (y)n roid cwmni i rywun ynde . 1396585_1398947
 %eng:	well, the seem to be keeping someone company.
 *ADL:	ie . 1398912_1399284
 %eng:	yes.
@@ -1726,7 +1726,7 @@
 %eng:	a pigeon?
 *ADL:	+, colomen yna rŵan hefyd . 1442909_1444168
 %eng:	...a pigeon there as well now.
-*MOR:	mae (y)na lot o hen golomenod yn dod . 1444150_1446060
+*MOR:	mae (y)na lot o hen golomennod yn dod . 1444150_1446060
 %eng:	a lot of those pigeons come.
 *MOR:	ond mae (y)r cornchwiglen yn hel nhw ffwrdd . 1446060_1448010
 %eng:	but the lapwing chases them away.
@@ -1934,15 +1934,15 @@
 %eng:	I'm going...
 *ADL:	faint (y)dy (ei)ch oed chi rŵan hyn ? 1633509_1635211
 %eng:	how old are you now?
-*MOR:	wyth_deg_wyth . 1635188_1636436
+*MOR:	wyth_deg wyth . 1635188_1636436
 %eng:	eighty-eight.
-*ADL:	ooh dach chi (we)di cyrraedd i wyth_deg_wyth do ? 1636395_1638949
+*ADL:	ooh dach chi (we)di cyrraedd i wyth_deg wyth do ? 1636395_1638949
 %eng:	ooh, you have reached the eighty-eight, have you?
 *MOR:	+< xxx mis Chwefror . 1637945_1640145
 %eng:	xxx February.
-*ADL:	mis Chwefror chi (y)n barod am yr wyth_deg_naw &=laugh ? 1640133_1643285
+*ADL:	mis Chwefror chi (y)n barod am yr wyth_deg naw &=laugh ? 1640133_1643285
 %eng:	in February you are ready for the eighty-nine?
-*MOR:	+< xxx mae (y)n nes i (y)r wyth_deg_naw xxx . 1642022_1644704
+*MOR:	+< xxx mae (y)n nes i (y)r wyth_deg naw xxx . 1642022_1644704
 %eng:	xxx it's closer to eighty-nine xxx.
 *ADL:	oh@s:cym&spa ! 1644739_1646237
 %eng:	oh!
@@ -1962,7 +1962,7 @@
 %eng:	but xxx now.
 *ADL:	ah@s:cym&spa . 1657302_1657894
 %eng:	ah.
-*ADL:	welais i Isabel@s:cym&spa sy (y)n naw_deg_tri . 1658299_1660894
+*ADL:	welais i Isabel@s:cym&spa sy (y)n naw_deg tri . 1658299_1660894
 %eng:	I saw Isabel, who is ninety-three.
 *MOR:	+< wel ! 1660465_1661411
 %eng:	well!
@@ -1980,9 +1980,9 @@
 %eng:	and is she alright?
 *ADL:	a mae (y)n iawn . 1677625_1678275
 %eng:	and she is fine.
-*ADL:	mae (y)n naw_deg_tri . 1678252_1679644
+*ADL:	mae (y)n naw_deg tri . 1678252_1679644
 %eng:	she is ninety-three.
-*ADL:	mi fydd hi (y)n naw_deg_pedwar dro nesa (y)dy [?] dw i meddwl . 1679618_1682173
+*ADL:	mi fydd hi (y)n naw_deg pedwar dro nesa (y)dy [?] dw i meddwl . 1679618_1682173
 %eng:	she will be ninety-four next time I think.
 *ADL:	ie . 1682144_1682481
 %eng:	yes.
@@ -2118,7 +2118,7 @@
 %eng:	Jacqui that is.
 *ADL:	ah@s:cym&spa mae (y)n naw_deg felly ? 1772526_1773879
 %eng:	ah, so she is ninety?
-*MOR:	a uh wneud teisen (y)ma xxx xxx . 1773978_1778906
+*MOR:	a uh wneud teisen (y)ma xxx . 1773978_1778906
 %eng:	and made this cake xxx.
 *ADL:	teisen efo hi . 1780026_1780723
 %eng:	brought a cake.
@@ -2168,7 +2168,7 @@
 %eng:	but on the phone...
 *MOR:	mae (y)n iawn ? 1818274_1818872
 %eng:	she is fine?
-*ADL:	dim trwbwl mae (y)n clywed (.) (y)n iawn . 1818872_1820666
+*ADL:	dim trwbl mae (y)n clywed (.) (y)n iawn . 1818872_1820666
 %eng:	no problem, she hears fine.
 *ADL:	achos bod y ffôn ar y glust yn_dydy [?] . 1820652_1822597
 %eng:	because the phone is by her ear.
