@@ -648,7 +648,7 @@
 %eng:	yes
 *ZER:	ie y blwyddyn diwetha . 749679_751136
 %eng:	yes, last year
-*ZER:	oh@s:cym&spa (.) horrible ! 752915_754999
+*ZER:	oh@s:cym&spa (.) horibl ! 752915_754999
 *TOY:	&=laugh . 755274_755832
 *ZER:	pero@s:spa qué@s:spa fea@s:spa la@s:spa foto@s:cym&spa . 755756_757109
 %eng:	but what an ugly photo
@@ -701,7 +701,7 @@
 %eng:	do you want to see some photos?
 *TOY:	&=laugh . 807556_808066
 *ZER:	&=laugh . 808357_809552
-*TOY:	oh@s:cym&spa mae hwnne (y)n neis . 811042_812540
+*TOY:	oh@s:cym&spa mae hwnna (y)n neis . 811042_812540
 %eng:	oh, that's nice
 *TOY:	oh@s:cym&spa . 815102_816385
 *ZER:	xxx . 816670_821285
@@ -857,7 +857,7 @@
 %com:	correction of mutation
 *ZER:	<mae (y)n cael> [/] mae +//. 1044396_1045546
 %eng:	he gets...
-*ZER:	oh@s:cym&spa freak ! 1045861_1046976
+*ZER:	oh@s:cym&spa freak@s:eng ! 1045861_1046976
 %eng:	oh damn!
 %com:	"freak" used as a mild curse here and later.  Unsure of which language tag to use.
 *ZER:	fi ddim yn gallu siarad bore (y)ma . 1046982_1048704
@@ -1691,7 +1691,7 @@
 *TOY:	maen nhw (y)n +//. 1975645_1976627
 %eng:	they...
 *ZER:	xx +/. 1976638_1977073
-*TOY:	o(eddw)n i (y)n hoffi (y)r crackers . 1977039_1979047
+*TOY:	o(eddw)n i (y)n hoffi (y)r cracers . 1977039_1979047
 %eng:	I liked the crackers
 *TOY:	welest ti (y)r crackers ? 1979808_1980807
 %eng:	did you see the crackers?
