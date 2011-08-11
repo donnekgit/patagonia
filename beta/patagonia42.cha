@@ -180,9 +180,8 @@
 %eng:	and I'm putting the names of the children now
 %com:	check "plantod" (irregular plural?)
 *ANO:	mmm@s:cym&spa . 126285_126598
-*MSA:	fel bod o (y)n aros xx fel documento@s:spa . 126641_128945
-%eng:	so that it remains [...] as documemts
-%com:	check "documento" & trans
+*MSA:	fel bod o (y)n aros como@s:spa [//]  fel documento@s:spa . 126641_128945
+%eng:	so that it remains as... as a testimony document
 *ANO:	ie ie (.) ie ie (.) ie . 128935_130682
 %eng:	yes, yes
 *ANO:	fel (y)na xx be oedden nhw (y)n wneud yndy (he)fyd . 130912_132247
@@ -192,7 +191,7 @@
 *MSA:	[- spa] +< claro . 132621_133358
 %eng:	sure
 *MSA:	achos dyna beth oedd y documento@s:spa o_blaen cofia . 133998_136471
-%eng:	because that's what the document was before, remember
+%eng:	because that's what the testimony document was before, remember
 *ANO:	ie ie . 135909_137046
 %eng:	yes, yes
 *MSA:	achos mae (y)r Beibl@s:cym&spa (..) xx [?] Colemans@s:cym&spa +//. 137183_140996
@@ -206,7 +205,7 @@
 %eng:	but now it's with the Coleman daughters in Esquel I believe
 *ANO:	mmhm@s:cym&spa . 148368_148785
 *MSA:	a mae [///] fan (y)na mae (y)na bethau ofnadwy o documentos@s:spa mae (y)n debyg . 148756_151894
-%eng:	and there, there are some extremely document-like things, probably
+%eng:	and there, there are some extremely testimony document-like things, probably
 *ANO:	aha@s:cym&spa ? 152082_152773
 *MSA:	<dw i ddim credu bod> [/] dw i (ddi)m credu bod fi (we)di weld o erioed . 152390_154863
 %eng:	I don't think I've ever seen it
@@ -281,8 +280,8 @@
 *MSA:	xx +/. 203385_203693
 *ANO:	dach chi (y)n nabod [?] hwn ? 203647_204483
 %eng:	do you know this one?
-*MSA:	+" dynion xxx del@s:spa sur@s:spa . 206096_207292
-%eng:	the men of [...] the south
+*MSA:	+" dynion familia@s:spa del@s:spa sur@s:spa . 206096_207292
+%eng:	the men from the family of the south
 *MSA:	oh@s:cym&spa ie (.) mae hwnna efo [/] efo Anwen@s:cym&spa dw i (y)n credu . 207303_210146
 %eng:	oh yes, Anwen has that, I think
 *ANO:	yndy yndy ? 210195_211043
@@ -291,10 +290,10 @@
 %eng:	yes, Anwen has it
 *MSA:	mae un arall sy efo fi . 212123_213383
 %eng:	there's another one that I've got
-*MSA:	er@s:cym&spa hwnna mae +//. 213930_215613
-%eng:	er, it's that...
+*MSA:	er@s:cym&spa una@s:spa mae +//. 213930_215613
+%eng:	er, one, it's that...
 *MSA:	[- spa] +" cien [/] cien sombreros y un atuendo . 215671_218283
-%eng:	one hundred one hundred hats and a outfit.
+%eng:	one hundred... one hundred hats and an outfit.
 *ANO:	ah@s:cym&spa ie ie ie . 218272_219340
 %eng:	ah, yes, yes.
 *MSA:	hwnnw xx ddiddorol iawn (he)fyd . 219395_221340
@@ -331,11 +330,11 @@
 *MSA:	+< xx . 244898_245247
 *MSA:	a pwy sy (we)di wneud y llyfr (y)ma ? 245554_246930
 %eng:	and who's made this book?
-*ANO:	er@s:cym&spa xxx . 246936_247691
+*ANO:	er@s:cym&spa Romero@s:cym&spa . 246936_247691
 *MSA:	(dy)na ti waith yndy ? 247961_248977
 %eng:	that's some work, isn't it?
-*ANO:	xxx ie . 248988_250248
-%eng:	[name], yes
+*ANO:	Huw_Tudur@s:cym&spa a Romero@s:cym&spa ie . 248988_250248
+%eng:	Huw Tudur and Romero, yes
 *MSA:	(dy)na ti waith . 249868_250664
 %eng:	that's some work
 *ANO:	ie . 250641_251111
@@ -396,62 +395,63 @@
 %eng:	[...] was a daughter of Coleman, wasn't she?
 *ANO:	ie ie . 290378_291039
 %eng:	yes yes
-*MSA:	xx . 291025_291541
-*ANO:	ia xx ie ie . 291570_292534
-%eng:	yes, [...], yes yes
+*MSA:	Firas@s:cym&spa . 291025_291541
+*ANO:	ia Firas@s:cym&spa ie ie . 291570_292534
+%eng:	yes, Firas, yes yes
 *ANO:	mae (y)n deud fan hyn +"/. 292985_293954
 %eng:	it says here
-*ANO:	+" Ioan_Glyn_Owen@s:cym&spa (.) él@s:spa y@s:spa Isobel@s:cym&spa su@s:spa mujer@s:spa y@s:spa seis@s:spa hijos@s:spa llegaron@s:spa al@s:spa Chubut@s:cym&spa en@s:spa mil@s:spa ochocientos@s:spa setenta@s:spa y@s:spa cinco@s:spa . 294425_301091
-%eng:	"Ioan_Glyn_Owen he and Isobel his wife and six sons arrived in Chubut in 1875"
-*MSA:	[- spa] ochocientos setenta y cinco ? 301479_303830
+*ANO:	+" Ioan_Glyn_Owen@s:cym&spa (.) Isobel@s:cym&spa su@s:spa mujer@s:spa y@s:spa [/] y@s:spa seis@s:spa hijos@s:spa llegaron@s:spa al@s:spa Chubut@s:cym&spa en@s:spa mil@s:spa ochocientos@s:spa setenta@s:spa y@s:spa cinco@s:spa . 294425_301091
+%eng:	"Ioan_Glyn_Owen, Isobel his wife and six sons arrived in Chubut in 1875"
+*MSA:	[- spa] &set ochocientos setenta y cinco ? 301479_303830
 %eng:	eight hundred seventy five.
 *ANO:	[- spa] +< setenta y &ci sí sí . 303273_304492
 %eng:	seventy yes yes .
 *ANO:	Ioan_Glyn_Owen@s:cym&spa bisabuelo@s:spa . 304629_306446
 %eng:	Ioan_Glyn_Owen great-grandfather.
+*MSA:	+< ie ie . 305615_306190
+%eng:	yes yes
 *MSA:	ie . 306680_307000
 %eng:	yes
 *ANO:	[- spa] bisabuelo suyo . 306924_308102
 %eng:	his great-grandfather.
-*MSA:	[- spa] en los setenta . 307586_308259
-%eng:	in the seventies.
+*MSA:	+< &bis ia setenta@s:spa . 307586_308259
+%eng:	yes, seventies.
 *ANO:	+< ie ti (y)n deall ? 308126_309409
 %eng:	yes, you understand?
 *ANO:	er@s:cym&spa +"/. 309666_310560
-*ANO:	[- spa] tuvieron chacra en xxx . 311195_314370
-%eng:	the had a farm in xxx .
-%com:	it seems a Welsh name
+*ANO:	tuvieron@s:spa chacra@s:spa en@s:spa &tsir Tair_Helygen@s:cym&spa . 311195_314370
+%eng:	they had a farm in Tair Helygen .
 *MSA:	sí@s:spa yn y Dyffryn . 314471_315794
 %eng:	yes, in the Valley
-*ANO:	+" en@s:spa Tres_sauces@s:cym&spa cerca@s:spa de Rawson@s:cym&spa . 315848_317636
-%eng:	in Tres_sauces, near Rawson
+*ANO:	+" en@s:spa Tres_Sauces@s:cym&spa cerca@s:spa de Rawson@s:cym&spa . 315848_317636
+%eng:	in Tres_Sauces, near Rawson
 *ANO:	más@s:spa tarde@s:spa vivieron@s:spa en@s:spaTrelew@s:cym&spa donde@s:spa actualmente@s:spa (.) está@s:spa casa@s:spa Lloyd@s:cym&spa avenida@s:spa Fontana@s:cym&spa ? . 317555_322379
-%eng:	latter they lived in Trelew where currently it is the house of Lloyd, Fontana avenue.
+%eng:	later they lived in Trelew where is currently the Lloyd house, Fontana avenue
 *ANO:	[- spa] +" abrieron allí una pensión familiar . 322326_324323
-%eng:	they opened a family bed and breakfast.
+%eng:	there they opened a family bed and breakfast
 *ANO:	+" su@s:spa hija@s:spa (.) Laura_Mai@s:cym&spa casada@s:spa con@s:spa John_David_Prys@s:cym&spa (.) tuvo@s:spa la@s:spa primera@s:spa casa@s:spa de@s:spa té@s:spa en@s:spa Gaiman@s:cym&spa . 324594_330305
-%eng:	his daughter, Laura_Mai, married with , had the fist tea house in Gaiman
-*ANO:	[- spa] y también el primer hotel donde (.) ahora funciona la escuela de música . 330293_333672
-%eng:	and also the first hotel where now is the music school.
+%eng:	his daughter, Laura Mai, married with John David Prys, had the fist tea house in Gaiman
+*ANO:	[- spa] y también el primer hotel donde ahora funciona la escuela de música . 330293_333672
+%eng:	and also the first hotel where the music school is now
 *ANO:	+" cuando@s:spa el@s:spa presidente@s:spa Roca@s:cym&spa visitó@s:spa el@s:spa territorio@s:spa en@s:spa mil@s:spa ochocientos@s:spa noventa@s:spa y@s:spa nueve@s:spa fue@s:spa agasajado@s:spa en@s:spa este@s:spa hotel@s:spa con@s:spa un@s:spa almuerzo@s:spa . 333891_340791
-%eng:	when President Roca visited the place in eighteen ninety nice he was a guest of honor in this hotel , and there was a lunch for him.
-*ANO:	[- spa] +" había muchos invitados y . 340668_342119
-%eng:	there were many guesses.
-*ANO:	y@s:spa es@s:spa plwmpwdin de@s:spa postre@s:spa . 340756_344674
-%eng:	and it is plum pudding as dessert.
+%eng:	when President Roca visited the place in eighteen ninety nine he was a guest of honor in this hotel, and there was a lunch for him.
+*ANO:	[- spa] +" había muchos invitados . 340668_342119
+%eng:	there were many guests
+*ANO:	y@s:spa diez@s:spa plwmpwdins de@s:spa postre@s:spa . 340756_344674
+%eng:	and ten plum puddings for dessert
 *MSA:	&=gasp . 344421_345199
-*ANO:	+" entre@s:spa tantos@s:spa viajeros@s:spa que@s:spa ahí@s:spa se@s:spa alojaron@s:spa se@s:spa menciona@s:spa a@s:spa un@s:spa Lord Jane_Bennett@s:cym&spa con@s:spa opiniones@s:spa culinarias@s:spa y@s:spa dos@s:spa hombres@s:spa y@s:spa una@s:spa mujer@s:spa que@s:spa resultaron@s:spa ser@s:spa miembros@s:spa de@s:spa la@s:spa banda@s:spa Butch_Cassidy@s:cym&spa [?] . 345188_356970
-%eng:	among so many travellers that stayed at this hotel, it is mentioned a Lord with culinary opinions and two men and a woman that happened to be members of Butch_Cassidy's band.
-*ANO:	+" a@s:spa su@s:spa partida@s:spa dejaron@s:spa un@s:spa manso@s:spa poney@s:cym&spa de@s:spa regalo@s:spa . 357243_360523
-%eng:	when they left, they gave as a present a docile pony.
+*ANO:	+" entre@s:spa tantos@s:spa viajeros@s:spa que@s:spa allí@s:spa se@s:spa alojaron@s:spa se@s:spa menciona@s:spa a@s:spa un@s:spa Lord_Cavendish@s:cym&spa con@s:spa opiniones@s:spa culinarias@s:spa y@s:spa dos@s:spa hombres@s:spa y@s:spa una@s:spa mujer@s:spa que@s:spa resultaron@s:spa ser@s:spa miembros@s:spa de@s:spa la@s:spa banda@s:spa Butch_Cassidy@s:cym&spa . 345188_356970
+%eng:	among so many travellers that stayed at this hotel, it is mentioned a Lord with culinary opinions and two men and a woman that happened to be members of Butch_Cassidy's band
+*ANO:	+" a@s:spa su@s:spa partida@s:spa dejaron@s:spa un@s:spa manso@s:spa pony@s:spa de@s:spa regalo@s:spa . 357243_360523
+%eng:	when they left, they left a docile pony as a present
 *ANO:	Butch_Cassidy@s:cym&spa +/. 360822_361832
 *MSA:	ia xx +... 361791_363306
 %eng:	yes [...] ...
 *ANO:	[- spa] pistolero . 363463_364032
-%eng:	gunmans
+%eng:	gunman
 *MSA:	[- spa] +< pistolero . 363846_364427
-%eng:	gunmans
-*ANO:	ia (.) xxx [?] . 364432_366101
+%eng:	gunman
+*ANO:	ia (.) xxx . 364432_366101
 %eng:	yes, [...]
 *ANO:	ia wir andros o [/] o waith . 366992_368815
 %eng:	yes indeed, an awful lot of work
@@ -540,8 +540,8 @@
 %eng:	him and Katia
 *MSA:	[- spa] claro . 446986_447740
 %eng:	right
-*ANO:	a xxx (.) <mi o(edden)> [?] ni (y)n cael swper . 447755_451035
-%eng:	and [...] we had dinner
+*ANO:	a Linda@s:cym&spa a fi (.) <mi o(edden)> [?] ni (y)n cael swper . 447755_451035
+%eng:	and Linda and me, we had dinner
 *MSA:	+< xx . 450311_450897
 *ANO:	ac ar_ôl swper mi es i (y)n_ôl i (y)r er@s:cym&spa +... 451063_453809
 %eng:	and after dinner I went back to the, er...
@@ -571,8 +571,8 @@
 %eng:	but there it is
 *ANO:	mi welson ni (y)r (.) er@s:cym&spa +... 469237_471524
 %eng:	we saw the...
-*MSA:	a er@s:cym&spa faint oedd Gary@s:cym&spa (y)n xxx ? 472037_473785
-%eng:	and how much was Gary [...]?
+*MSA:	a er@s:cym&spa faint oedd Gary@s:cym&spa (y)n gael rwan (he)fyd ? 472037_473785
+%eng:	and how old was Gary having now too?
 *ANO:	chwedeg . 473753_474426
 %eng:	sixty
 *ANO:	dyna pam oedd yn [/] yn beth pwysig . 474713_476356
@@ -633,7 +633,7 @@
 *MSA:	o(edde)t ti ddeg oed . 515047_516028
 %eng:	you were ten years old
 *ANO:	yn ddeg oed a wedi cael varicela@s:spa . 516571_518359
-%eng:	ten years old, and had chickenpox
+%eng:	ten years old, and had had chickenpox
 *MSA:	ah@s:cym&spa . 518513_519402
 *ANO:	a (y)n y gwely o(eddw)n i . 519315_520394
 %eng:	and I was in bed
@@ -845,8 +845,8 @@
 %eng:	well, there you go, that's how it is
 *ANO:	achos oedd y [//] yr [//] um@s:cym&spa (..) &me Paloma@s:cym&spa (y)n +//. 662102_665964
 %eng:	because Paloma was in...
-*ANO:	yn xx oedd hi (y)n byw . 665970_667195
-%eng:	she lived in [...]
+*ANO:	yn Comodoro@s:cym&spa oedd hi (y)n byw . 665970_667195
+%eng:	she lived in Comodoro
 *MSA:	ia . 667261_667702
 %eng:	yes
 *ANO:	ond mae hi ers [?] flwyddyn yn_ôl yn Trelew@s:cym&spa . 667684_669710
@@ -859,7 +859,7 @@
 %eng:	yes
 *MSA:	(dy)na ti . 672250_672831
 %eng:	there you are
-*MSA:	a farmaceuta@s:spa (y)dy (y)r llall ie ? 672837_674329
+*MSA:	a farmacéutica@s:spa (y)dy (y)r llall ie ? 672837_674329
 %eng:	and the other one's a pharmacist, right?
 *ANO:	ie (.) ie . 674277_675490
 %eng:	yes, yes
@@ -946,7 +946,7 @@
 %eng:	and with the [...]
 *ANO:	oh@s:cym&spa ie ie ie . 770020_771054
 %eng:	oh, yes yes
-*MSA:	<fel tad> [?] i lladd y bajaritos@s:spa . 770821_773527
+*MSA:	<i lladd> [/] i lladd y bajaritos@s:spa . 770821_773527
 %eng:	like Dad, to kill the little birds
 %com:	soft mutation on Spanish "pajaritos" (note SM not expected on a plural noun like this). For the Spanish speaker, there is no mutation of "pajaritos" . The phonetic differences between in [p] between Spanish and English must be causing the confusion.
 *ANO:	ie (.) &=laugh ! 773506_774720
@@ -1036,8 +1036,8 @@
 *ANO:	oedd raid iddyn nhw fynd (.) tu blaen <i (y)r> [/] i (y)r [/] i (y)r er@s:cym&spa dosbarth fan (y)na (.) a siarad am y [/] y um@s:cym&spa er@s:cym&spa tema@s:spa (y)r [/] yr [/] yr [//] y dydd yndy ? 859733_869665
 %eng:	the had to go to the front of the class there and speak on the theme of the day, right?
 *MSA:	xx . 869522_870050
-*ANO:	[- spa] +< bueno . 869649_870172
-%eng:	well.
+*ANO:	+< ++ y dydd . 869649_870172
+%eng:	the day.
 *ANO:	a siarad . 870281_870908
 %eng:	and speak
 *ANO:	oedd neb yn helpu nhw [?] . 870762_871952
@@ -1462,8 +1462,8 @@
 *ANO:	y Cymraeg yma dan ni (y)n siarad rŵan (.) wel er@s:cym&spa hwn er@s:cym&spa [/] hynna (y)dy (y)r iaith gaeth ddod efo (y)r Mimosa@s:cym&spa o_blaen . 1245000_1251202
 %eng:	this Welsh that we're speaking now, well, that's the language that came with the Mimosa before
 *MSA:	+< xxx . 1250686_1251865
-*ANO:	mil wyth cant tri pump . 1251574_1252660
-%eng:	1835
+*ANO:	mil wyth cant chwe_deg pump . 1251574_1252660
+%eng:	1865
 *MSA:	yr er@s:cym&spa modryb [/] um@s:cym&spa modryb [//] y fodryb xxx +/. 1252669_1258329
 %eng:	er, Aunt... Aunt... the aunt [...] ...
 *ANO:	+< does dim bwys am yr en(w) [?] er@s:cym&spa +/. 1256226_1257533
@@ -1711,7 +1711,7 @@
 *ANO:	er@s:cym&spa bocs [///] ie memo bocs yn llawn . 1497417_1499548
 %eng:	er, box, yes, [...] box full
 *MSA:	&cas &callilla casillas@s:spa está@s:spa llena@s:spa ["] <oedden nhw> [/] <oedden nhw (y)n> [/] er@s:cym&spa (.) oedden nhw (y)n deud . 1499583_1505898
-%eng:	it was "xxx" they were saying
+%eng:	it was "mail box is full" is what they were saying
 *ANO:	+< ie ie . 1502677_1503113
 %eng:	yes, yes
 *ANO:	&=cough . 1506378_1507086
@@ -1749,9 +1749,9 @@
 %eng:	and he was doing the same thing with the languages
 *ANO:	ac er@s:cym&spa yr un o (y)r ieithiau <oedd o> [/] oedd o yn [/] yn defnyddio oedd xx Breton@s:spa o +/. 1560617_1566153
 %eng:	and one of the languages he was using was Breton, from...
-*MSA:	[- spa] Breton ? 1566175_1566749
+*MSA:	[- spa] bretón ? 1566175_1566749
 %eng:	Breton.
-*ANO:	[- spa] Breton . 1566802_1567400
+*ANO:	[- spa] bretón . 1566802_1567400
 %eng:	Breton.
 *MSA:	ie . 1567423_1567667
 %eng:	yes
@@ -1967,19 +1967,19 @@
 %eng:	Saturday because the wedding is here
 *ANO:	ie . 1766513_1766765
 %eng:	yes
-*MSA:	ond (di)m_ond ni (.) Nerys@s:cym&spa a fi yn matrimonio@s:spa . 1766754_1770086
-%eng:	but it was only us, Nerys and I, at the wedding
+*MSA:	ond (di)m_ond ni (.) Nerys@s:cym&spa a fi a (y)r matrimonio@s:spa . 1766754_1770086
+%eng:	but it was only us, Nerys and I, and the married couple
 *MSA:	a nhw y dau (dy)na i_gyd oedden ni . 1770065_1771714
 %eng:	and both of them, that's all we were
 *ANO:	aha@s:cym&spa . 1771853_1772255
 *MSA:	&=mumble no@s:spa &g (dy)na i_gyd oedden ni . 1772290_1774153
 %eng:	no, that's all we were
 *MSA:	um@s:cym&spa +... 1774891_1775605
-*MSA:	a justo@s:spa [?] mi ddylsen nhw xxx fi ddim adre . 1776569_1780118
-%eng:	and [...] they should have [...] I'm not at home
+*MSA:	a Gusto@s:cym&spa mi ddoson nhw Dydd Sul neu Dydd &sa a fi ddim adre . 1776569_1780118
+%eng:	and Gusto, they came on Sunday or Sat... and I wasn't at home
 *ANO:	wel fyddai neb adre . 1779593_1780551
 %eng:	well, no one would be home
-*MSA:	ac o(eddw)n i awydd cwrdd achos dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di xxx +/. 1780587_1783530
+*MSA:	ac o(eddw)n i awydd cwrdd â Horacio@s:cym&spa dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di xxx +/. 1780587_1783530
 %eng:	and I was keen to meet up because I haven't [...] ...
 *ANO:	+< xxx ? 1782904_1784227
 *MSA:	+< do dw i (we)di gweld nhw diwrnod priod(as) +//. 1783871_1785370
@@ -2040,15 +2040,15 @@
 %eng:	there it is
 *MSA:	xx bues i yn yr xx heddiw . 1839091_1840686
 %eng:	[..] I was at the [...] today
-*MSA:	wel (.) oedd y dynes o xx yn deu(d) (wr)tha fi (.) er@s:cym&spa +"/. 1840702_1843575
-%eng:	well, the woman from [..] was telling me:
-*MSA:	[- spa] +" xxx [?] yo digo . 1845307_1847565
-%eng:	xxx I say.
+*MSA:	wel (.) oedd y dynes yr hogar@s:spa yn deu(d) (wr)tha fi (.) er@s:cym&spa +"/. 1840702_1843575
+%eng:	well, the residence woman was telling me:
+*MSA:	[- spa] +" che xxx yo digo . 1845307_1847565
+%eng:	hey, [...],  I say.
 %com:	the first part seems Welsh
-*MSA:	[- spa] es que uno lo tiene que [/] que hacer xxx . 1847606_1851243
-%eng:	is that one has to do it xxx.
-*MSA:	volver@s:spa al@s:spa xxx bueno@s:spa él@s:spa no@s:spa está@s:spa pero@s:spa Nina@s:cym&spa . 1851978_1856163
-%eng:	to return to xxx well, he isn't but Nina.
+*MSA:	[- spa] es que uno lo tiene que [/] que hacer yo digo . 1847606_1851243
+%eng:	is that one has to do it, I say
+*MSA:	volver@s:spa al@s:spa ardd [?] bueno@s:spa él@s:spa no@s:spa está@s:spa pero@s:spa Nina@s:cym&spa . 1851978_1856163
+%eng:	to return to the garden well, he isn't but Nina.
 *ANO:	ah@s:cym&spa Nina@s:cym&spa ie wel (dy)na fo ! 1856259_1857746
 %eng:	ah Nina, right, well there you are
 *ANO:	mae er@s:cym&spa [///] er@s:cym&spa ers wythnos yn_ôl <oedd yr> [//] er@s:cym&spa oedd (y)na wyth mlynedd <o pan oedd y [/] yr [/] yr home@s:eng> [?] yn cael ei agor . 1857817_1865500
@@ -2204,7 +2204,7 @@
 %eng:	but we can't find that out
 *ANO:	ond (dy)na fo . 2001541_2002017
 %eng:	but that's it
-*ANO:	ond dan ni (we)di meddwl bod cynta Fawrth dydd Dewi_Sant yn [/] yn +/. 2002010_2004895
+*ANO:	ond dan ni (we)di meddwl bod cynta Fawrth día@s:spa Dewi_Sant yn [/] yn +/. 2002010_2004895
 %eng:	but we thought that 1st March, St. David's day...
 *MSA:	+< yndy yn ddiwrnod iawn i wneud o . 2004355_2006172
 %eng:	yes, is the right day to do it
