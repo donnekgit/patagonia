@@ -2,9 +2,9 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	ANG Angela Adult, ROB Roberto Adult
-@ID:	cy, es|Patagonia|ANG|9;|female|||Child||
-@ID:	cy, es|Patagonia|ROB|35;|male|||Adult||
+@Participants:	ANG Angela Child, ROB Roberto Adult
+@ID:	cym, spa|Patagonia|ANG|9;|female|||Child||
+@ID:	cym, spa|Patagonia|ROB|35;|male|||Adult||
 @Situation:	Conversation at a primary school in Trelew
 @Date:	03-NOV-2009
 @Transcriber:	Jonathan Stammers and Diana Carter, Bangor University
@@ -44,7 +44,7 @@
 *ROB:	a mae gynnoch chi dwy hogan . 36318_38596
 %eng:	and you have two girls
 *ROB:	xx +/. 39619_39923
-*ANG:	Maggie@s:cym&spa a Blodeuwedd@s:cym&spa . 39752_41181
+*ANG:	+< Maggie@s:cym&spa a Blodeuwedd@s:cym&spa . 39752_41181
 %eng:	Maggie and Blodeuwedd
 *ROB:	wyt ti (y)n ffrindiau mawr efo hi dwy ? 41506_43512
 %eng:	are you great friends with her, both
@@ -55,10 +55,10 @@
 *ANG:	efo Mabli@s:cym&spa . 52691_54259
 %eng:	with Mabli
 *ROB:	pwy (y)dy hwnna ? 54355_55129
-%eng:	who's he?
+%eng:	who's that?
 *ANG:	um (.) er@s:cym&spa Mabli ydy (.) merch sy (y)n um (.) edrych arna ni (.) um pan [/] (.) pan (.) dw i wedi bod yn bach (.) yn babi . 56771_77133
 %eng:	um, Mabli is the girl who looks at us, when I have been little, a baby
-*ANG:	a <fy chwaer> [?] hefyd . 78817_79969
+*ANG:	a fy chwaer hefyd . 78817_79969
 %eng:	and my sister too
 *ROB:	a be mae hi (y)n wneud ? 85671_86567
 %eng:	and what does she do?
@@ -72,11 +72,12 @@
 %eng:	sleep the siesta
 *ANG:	siarad Gymraeg . 97102_98932
 %eng:	talk Welsh
-*ANG:	a: mynd i gysgu yn y tŷ chi ! 99674_102693
-%eng:	and go to sleep in your house
+*ANG:	a: mynd i gysgu yn y tŷ hi ! 99674_102693
+%eng:	and go to sleep in her house
 *ROB:	ydy ? 102743_103207
 %eng:	yes?
 *ROB:	ah@s:cym&spa . 103388_104785
+*ANG:	+< mm . 103881_104659
 *ANG:	a +... 106417_108070
 %eng:	and...
 *ANG:	a dw i (y)n siarad Cymraeg efo Nain . 109152_112400
@@ -106,8 +107,8 @@
 *ROB:	pa llyfr wyt ti (we)di darllen ? 150146_151480
 %eng:	which book have you read?
 *ANG:	um +... 152439_153799
-*ROB:	dim yn cofio ? 158229_158709
-%eng:	don't remember?
+*ROB:	ti (ddi)m yn cofio ? 157959_158639
+%eng:	you don't remember?
 *ANG:	yr un sy (y)n dweud +... 158634_161706
 %eng:	the one which says...
 *ANG:	+" casen [* cacen] Sali_Mali@s:cym&spa . 167131_169296
@@ -120,8 +121,7 @@
 %eng:	no, explain what it says
 *ROB:	wyt ti (y)n cofio ? 177806_178484
 %eng:	do you remember?
-*ANG:	[- spa] no [?]. 179002_179476
-%eng:	no.
+*ANG:	oh@s:cym&spa . 179002_179476
 *ANG:	um +"/. 180412_182103
 *ANG:	+" mae (y)n diwrnod ben_blwydd um Sali_Mali@s:cym&spa . 182133_187184
 %eng:	"it's Sali Mali's birthday"
@@ -133,7 +133,7 @@
 *ANG:	&=cough . 199260_200706
 *ANG:	um +... 201649_202711
 *ANG:	+" +, ar y fferm (..) yn wneud parti Sali_Mali@s:cym&spa . 210722_215725
-%eng:	"on the farm making Sali Mali's party"
+%eng:	"on the farm doing Sali Mali's party"
 *ROB:	parti be ? 215862_216540
 %eng:	what party?
 *ROB:	parti pen_blwydd ? 216588_217308
@@ -146,8 +146,8 @@
 *ANG:	um +... 223761_225319
 *ROB:	ti (ddi)m yn cofio ? 229077_229824
 %eng:	don't you remember?
-*ANG:	ia Olwen@s:cym&spa sy (y)n dweud um +... 232699_236934
-%eng:	yes, Olwen says, um...
+*ANG:	ia yr un sy (y)n dweud um +... 232699_236934
+%eng:	yes, the one that says, um...
 *ROB:	rhywu(n) [/] rywun ar [/] ar cyfer um +... 242862_245262
 %eng:	someone for, um...
 *ANG:	Mali_a_(y)r_Injan_Dan@s:cym&spa . 245676_248401
@@ -164,6 +164,7 @@
 *ANG:	+, o (y)r enw &m +... 279004_280610
 %eng:	called...
 *ANG:	+, xx . 285485_288802
+*ROB:	ah@s:cym&spa . 288734_290329
 *ROB:	a <be mae> [/] be mae &me +..? 290673_292454
 %eng:	and what is...
 *ROB:	dan ni (y)n gallu cael siarad am mm (ei)steddfodau . 292433_296816
@@ -222,6 +223,8 @@
 %eng:	and in the Trevelin eisteddfod I've sung in Welsh and in Spanish.
 *ANG:	a dim mwy . 388623_389892
 %eng:	and no more
+*ROB:	côr [=! whispers] . 390062_391331
+%eng:	choir
 *ANG:	a wedyn dw i wedi ganu yn y côr . 391270_394187
 %eng:	and then I've sung in the choir
 *ANG:	yn yr ysgol a côr (.) um ysgol gynradd y Gaiman@s:cym&spa . 395318_400392
@@ -240,7 +243,8 @@
 %eng:	me?
 *ROB:	o'n i (y)n siarad . 423452_424663
 %eng:	I was speaking
-*ANG:	+< xx . 423729_424156
+*ANG:	+< [- spa] sí . 423729_424156
+%eng:	yes
 *ROB:	o'n i (y)n siarad a cyf(lwyno) [/] cyflwyno yr er@s:cym&spa eisteddfod ie ? 426678_430774
 %eng:	I was speaking and presenting the eisteddfod, yes?
 *ROB:	be dan ni mynd i wneud ? 432070_433291
@@ -258,18 +262,18 @@
 %eng:	um, she works in the hopital, no?
 *ROB:	ie . 470602_471098
 %eng:	yes
-*ROB:	a be mae wneud yn ysbyty ? 474247_476295
-%eng:	and what does she do in hospital?
+*ROB:	a be mae wneud yn yr ysbyty ? 474247_476295
+%eng:	and what does she do in the hospital?
 *ANG:	mae hi (y)n (.) yn instrumentadora@s:spa . 479232_484245
-%eng:	she's a nurse .
+%eng:	she's a theatre nurse .
 *ROB:	a be (y)dy hwnna ? 485354_487056
 %eng:	what's that?
 *ANG:	er@s:cym&spa dw i (ddi)m yn gwybod (.) yn Gymraeg . 489686_493675
 %eng:	er, I don't know in Welsh
 *ROB:	xx dim ots yn y Sbaeneg mae (y)n o_k@s:spa . 493742_495923
 %eng:	xx never mind, in Spanish it's ok
-*ANG:	[- spa] xx ella &e [?] +/. 496136_498232
-%eng:	xx she's...
+*ANG:	<mae &h> [//] ella@s:spa &e +/. 496136_498232
+%eng:	she's... she's...
 *ANG:	mae hi (y)n roid y bethau i [/] i [/] i doctores@s:spa . 498275_502741
 %eng:	she gives the things to doctors
 *ANG:	i meddyg . 503579_504592
@@ -278,31 +282,32 @@
 %eng:	to do...?
 *ANG:	i [/] i wneud er@s:cym&spa i +... 507107_510051
 %eng:	to do, er, to...
-*ANG:	i wneud cirugías@s:spa a tynnu (.) a tynnu &bo er@s:cym&spa babi (.) o (y)r bol (..) ac yn tynnu (.) arian o (y)r ceg . 512248_525606
+*ANG:	i wneud cirugías@s:spa a (.) tynnu &bo er@s:cym&spa babi (.) o (y)r bol (..) ac yn tynnu (.) arian o (y)r ceg . 512248_525606
 %eng:	to do surgeries and take the baby from the tummy, and taking money from the mouth
 *ANG:	&=laugh . 526321_527100
 *ANG:	a +... 527837_529624
 %eng:	and...
-*ANG:	xx . 531808_533301
+*ANG:	[- spa] coser . 531808_533301
+%eng:	sewing
 *ANG:	um gwnïo [?] . 534366_535982
 %eng:	um... stitching
 *ROB:	gwnïo [?] . 536195_537123
-%eng:	stitching?
+%eng:	stitching
 *ANG:	+, um person sy wedi brifo . 537145_539731
 %eng:	um, someone who's hurt
 *ROB:	fel pwy ? 541141_541930
 %eng:	like who?
 *ANG:	fel fi ! 542249_544526
 %eng:	like me!
-*ROB:	&=laugh . 543140_544350
+*ROB:	+< &=laugh . 543140_544350
 *ANG:	a +... 545612_547356
 %eng:	and...
 *ANG:	a dim mwy ! 548097_549233
 %eng:	and no more!
 *ANG:	ah@s:cym&spa &s ia mae hi (y)n (..) +... 549385_551443
 %eng:	ah, yes she...
-*ANG:	na mae hi (y)n gwerthu bethau (..) fel xx . 552867_558960
-%eng:	no, she sells things, like xx
+*ANG:	na mae hi (y)n gwerthu bethau (..) fel persawr [?] a +... 552867_558960
+%eng:	no, she sells things, like perfume and...
 *ANG:	bethau fel (yn)a . 560245_561546
 %eng:	things like that
 *ROB:	oh@s:cym&spa da iawn . 562329_563231
@@ -314,21 +319,25 @@
 *ROB:	xx pum munud arall . 571447_572663
 %eng:	xx five minutes more
 *ANG:	mm ! 574107_574854
-*ROB:	be ti isio wneud ? 574544_575472
-%eng:	what do you want to do?
+*ROB:	be ti isio deud ? 574544_575472
+%eng:	what do you want to say?
 *ANG:	&=laugh ! 578232_579005
 *ROB:	&=laugh ! 579085_580674
 *ANG:	[- spa] no sé ! 583289_585193
+%eng:	I don't know!
 *ROB:	beth arall (.) dan ni (y)n gallu siarad ? 585978_588512
 %eng:	what else can we talk?
 *ROB:	oh@s:cym&spa lle ti (y)n byw ? 590172_591382
 %eng:	oh, where do you live?
 *ANG:	um +/. 591686_592348
-*ROB:	be [//] lle dan ni (y)n byw ? 591846_592929
+*ROB:	+< be [//] lle dan ni (y)n byw ? 591846_592929
 %eng:	what... where do we live?
-*ANG:	dan ni (y)n byw yn Trelew@s:cym&spa . 593929_595764
+*ANG:	dan ni (y)n byw yn Nhrelew@s:cym&spa . 593929_595764
 %eng:	we live in Trelew
-*ANG:	xx Trelew@s:cym&spa . 596201_597721
+*ANG:	fan hyn (.) Trelew@s:cym&spa . 596201_597721
+%eng:	here... Trelew
+*ROB:	ia . 597857_598678
+%eng:	yes
 *ANG:	en@s:spa Xxx@s:cym&spa siete@s:spa casa@s:spa dos@s:spa ochenta@s:spa y@s:spa cuatro@s:spa . 598667_602017
 %eng:	in Xxx seven, house 284 .
 *ANG:	tŷ (.) ddau cant wyth deg (.) pedwar . 602081_607409
@@ -359,14 +368,14 @@
 *ANG:	a dw i isio bod yn Gaiman@s:cym&spa ! 640153_641598
 %eng:	and I want to be in Gaiman!
 *ANG:	&=laugh . 642590_642771
-*ROB:	&=laugh . 642643_643113
+*ROB:	+< &=laugh . 642643_643113
 *ANG:	achos dw i (y)n (.) conocer@s:spa (.) Gaiman@s:cym&spa . 643852_648103
 %eng:	because I know Gaiman
 *ROB:	ti nabod . 648102_648705
 %eng:	you know
 *ANG:	dw i nabod Gaiman@s:cym&spa a Trelew@s:cym&spa tipyn bach . 648734_652063
 %eng:	I know Gaiman, and Trelew a little bit
-*ANG:	xx yn Gaiman@s:cym&spa dw i (y)n gallu (.) mynd (.) gan [?] cerdded i rywle yn Trelew@s:cym&spa na . 652109_658676
+*ANG:	xx <dw i> [/] yn Gaiman@s:cym&spa dw i (y)n gallu (.) mynd (.) gan [?] cerdded i rywle yn Trelew@s:cym&spa na . 652109_658676
 %eng:	xx in Gaiman I can go anywhere walking, in Trelew, no
 *ROB:	hmm@s:cym&spa . 659175_659986
 *ROB:	<i lle> [/] i lle wyt ti (y)n mynd <yng Nghym(ru)> [//] yn y Gaiman@s:cym&spa ? 660172_662564
@@ -387,8 +396,8 @@
 %eng:	no more
 *ROB:	a wyt ti (y)n wneud rywbeth arall ? 688358_689984
 %eng:	and do you do anything else?
-*ROB:	o [///] be [/] be wyt ti (y)n wneud ar_ôl ysgol (.) a ysgol cerdd [?] ? 690258_695749
-%eng:	what do you do after school and music lessons?
+*ROB:	o [///] be [/] be wyt ti (y)n wneud ar_ôl ysgol (.) a ysgol cerdd ? 690258_695749
+%eng:	what do you do after school and music school?
 *ANG:	er@s:cym&spa dw i (y)n wneud acróbatos@s:spa . 699830_701974
 %eng:	er, I do acrobatics
 *ROB:	yn lle ? 702241_703259
@@ -433,7 +442,7 @@
 *ROB:	er@s:cym&spa +... 756603_758064
 *ROB:	[- spa] sí sí +... 759749_760982
 %eng:	yes, yes
-*ROB:	be ti wneud efo dy chwaer (.) xx [?] ? 762688_765674
+*ROB:	be ti wneud efo dy chwaer (.) xx ? 762688_765674
 %eng:	what do you do with your sister, xx?
 *ANG:	dw i (y)n ffraeo . 765872_767034
 %eng:	I argue
@@ -444,7 +453,7 @@
 *ANG:	&=laugh . 774993_775996
 *ANG:	a dw i (y)n chwarae . 778011_779851
 %eng:	and I play
-*ROB:	+< xx +/. 779157_779867
+*ROB:	+< dydy +/. 779157_779867
 *ANG:	dw i (y)n (.) edrych teledu . 779979_782453
 %eng:	I watch TV
 *ANG:	a dw i (y)n mynd i (y)r ysgol . 783633_784903
@@ -452,12 +461,13 @@
 *ANG:	a dw i (y)n (.) darlunio . 784919_788448
 %eng:	and I draw
 *ANG:	dw i (y)n coginio efo hi . 788629_790890
-%eng:	I ccok with her
+%eng:	I cook with her
 *ROB:	wyt ti (y)n coginio efo hi ? 790937_792324
 %eng:	you cook with her?
 *ANG:	ia . 792489_792793
 %eng:	yes
-*ROB:	i bwy ? 792622_793044
+*ROB:	+< i bwy ? 792622_793044
+%eng:	for whom?
 *ROB:	i fi ? 793065_793545
 %eng:	for me?
 *ANG:	ie . 793860_794366
@@ -477,7 +487,7 @@
 *ANG:	achos (..) mae bethau dan ni (y)n siarad (..) xx dim yn (.) gwybod <yn Gymraeg> [=! mumbles] . 806514_816444
 %eng:	because the things we talk [...] don't know in Welsh
 *ANG:	&lateral_click . 816750_819667
-*ANG:	xxx [=! singing] +/. 826093_828920
+*ANG:	xxx Jac_y_Do@s:cym&spa xxx [=! singing] +/. 826093_828920
 *ROB:	be dan ni mynd i wneud heddiw ? 828338_830114
 %eng:	what are we going to do today?
 *ANG:	dim yn gwybod . 831127_832428
@@ -537,16 +547,18 @@
 %eng:	where have we been last year on holiday?
 *ANG:	en@s:spa Monte_Hermoso@s:cym&spa . 904350_905508
 %eng:	to Monte Hermoso.
-*ANG:	dw i wedi dweud . 905518_906644
-%eng:	I've said
+*ANG:	dw i wedi dweud o . 905518_906644
+%eng:	I've said it
+*ROB:	+< naci . 905580_905874
+%eng:	no
 *ROB:	naci . 906670_907337
 %eng:	no
 *ANG:	ah@s:cym&spa na yn yr Andes@s:cym&spa ! 907316_909519
 %eng:	oh, no, to the Andes!
 *ROB:	yn yr Andes@s:cym&spa ia . 909417_910927
-%eng:	to the Andes
+%eng:	in the Andes yes
 *ROB:	efo bwy ? 910921_911940
-%eng:	with who?
+%eng:	with whom?
 *ROB:	yn lle dan ni wedi <cwrdd â> [?] +/? 912994_914332
 %eng:	where did we meet with...?
 *ANG:	+< ah@s:cym&spa ah@s:cym&spa hefo [//] efo (.) Taid . 913879_916970
@@ -556,14 +568,15 @@
 *ROB:	ah@s:cym&spa dan ni wedi cwrdd â Taid (.) wrth_gwrs . 919897_922681
 %eng:	ah, we met Grandpa of course
 *ROB:	a dan ni wedi croesi i (y)r Chile@s:cym&spa . 923310_925138
-%eng:	and we crossed into Chile.
+%eng:	and we crossed into Chile
 *ANG:	ie . 925602_926701
 %eng:	yes
 *ROB:	a wedyn dod yn_ôl . 926558_928025
 %eng:	and then came back
 *ANG:	a (.) wedi mynd i Lago@s:cym&spa Rivadavia@s:cym&spa . 929365_934026
-%eng:	and went to Lago Rivadavia
-*ROB:	+< xx +/. 929413_929973
+%eng:	and went to Rivadavia lake
+*ROB:	+< a wedi +/. 929413_929973
+%eng:	and...
 *ANG:	wedi cwrdd efo Jamie@s:cym&spa Dilys@s:cym&spa a (y)r teulu . 934959_939492
 %eng:	met up with Jamie, Dilys and the family
 *ANG:	a wedyn +/. 941327_943594
@@ -588,7 +601,7 @@
 %eng:	yes indeed
 *ANG:	efo (.) xx [?] (.) antis [?] (..) a (..) ffrindiau . 964475_974542
 %eng:	with [...] aunties and friends
-*ROB:	wyt ti (y)n happy@s:eng [?] ar y gwyliau [?] ? 976436_977934
+*ROB:	wyt ti (y)n hapu(s) ar y gwyliau ? 976436_977934
 %eng:	are you happy on holiday?
 *ROB:	wel dan ni yn hapus ar y wyliau . 978068_979913
 %eng:	well, we're happy on holiday
@@ -597,10 +610,10 @@
 %eng:	why are you moving all the time?
 *ANG:	+< dim yn gwybod xx +... 983335_985751
 %eng:	don't know
-*ROB:	stopio ! 985730_986280
-%eng:	stop!
-*ROB:	<paid â> [/] paid â symud <yn fyn ôl fi> [?] ! 986290_988621
-%eng:	don't move behind me!
+*ROB:	stopia fo ! 985730_986280
+%eng:	stop it!
+*ROB:	<paid â> [/] paid â symud dy ben_ôl di ! 986290_988621
+%eng:	don't move your bum!
 *ANG:	&=laugh ! 989095_990684
 *ROB:	ti (we)di blino ? 993371_994214
 %eng:	are you tired?
@@ -630,7 +643,7 @@
 %eng:	what [...] have you eaten?
 *ANG:	mm +... 1023371_1025393
 *ANG:	wedi bwyta mm (.) pastel@s:spa de@s:spa papa@s:spa . 1026364_1030702
-%eng:	eaten potato pies.
+%eng:	eaten potato pies
 *ROB:	ah@s:cym&spa . 1031733_1032901
 *ROB:	pwy er@s:cym&spa +/. 1033930_1034485
 %eng:	who, er...
@@ -647,16 +660,17 @@
 *ANG:	ie sudd oren . 1043773_1044669
 %eng:	yes, orange juice
 *ANG:	ah@s:cym&spa na ! 1044680_1045322
+%eng:	ah, no!
 *ANG:	ah@s:cym&spa ia dw i wedi dod (.) botel o sudd oren . 1045449_1049017
 %eng:	ah yes, I've brought a bottle of orange juice
-*ANG:	xx plato@s:spa xx wedi (.) yfed dŵr . 1049453_1051954
-%eng:	[...] dish [...] drank water
+*ANG:	er plant o xx wedi (.) yfed dŵr . 1049453_1051954
+%eng:	but the children from [...] drank water
 *ROB:	a ti gael pwdin ? 1054825_1055587
 %eng:	and you have pudding?
 *ANG:	mm na . 1056856_1058365
 %eng:	mm, no
 *ROB:	achos dw i wedi anrhegio i [/] i Nancy@s:cym&spa . 1058759_1061991
-%eng:	because I gave it to Nancy
+%eng:	because I gave it to Nancy as a present
 *ROB:	ah@s:cym&spa ti (y)n hogan &dr [/] hogan da heddiw . 1062317_1064903
 %eng:	ah, you're a good girl today
 *ROB:	xx (.) xx wedi bwyta popeth ? 1065608_1067597
@@ -671,6 +685,8 @@
 %eng:	are you still feeling ill?
 *ANG:	ia . 1075038_1075625
 %eng:	yes
+*ROB:	ydw . 1075513_1076270
+%eng:	yes (I do)
 *ANG:	dw . 1076841_1077534
 %eng:	I am
 *ANG:	dw i mynd ! 1084127_1085327
@@ -694,7 +710,7 @@
 *ROB:	wyt ti (y)n cofio ? 1099968_1100774
 %eng:	do you remember?
 *ANG:	+< xx +/. 1100170_1100751
-*ANG:	ia &b dydw i (ddi)m isio wneud . 1100975_1102597
+*ANG:	ia &b dydw i (ddi)m isio wneud o . 1100975_1102597
 %eng:	I don't want to do it
 *ROB:	pam ? 1104350_1105065
 %eng:	why?
@@ -770,12 +786,12 @@
 *ANG:	um +... 1393654_1395083
 *ROB:	be ti mynd i gwneud +/? 1396086_1397515
 %eng:	what are you going to do?
-*ANG:	dan ni (y)n gallu chwarae jig_so . 1396336_1399142
+*ANG:	+< dan ni (y)n gallu chwarae jig_so . 1396336_1399142
 %eng:	we can play a jigsaw
 *ROB:	be (y)dy jig_so ? 1400929_1402044
 %eng:	what's a jigsaw?
 *ANG:	[- spa] xxx cabezas ! 1402808_1403950
-%eng:	[...] heads.
+%eng:	[...] heads (jigsaw)
 *ROB:	ah@s:cym&spa o'n i (ddi)m gwybod . 1404131_1405299
 %eng:	ah, I didn't know
 *ANG:	dan ni (y)n gallu chwarae ? 1405795_1407139
@@ -784,9 +800,9 @@
 %eng:	I don't know
 *ROB:	dan ni mynd i gwneud ryw gêm wedyn . 1408413_1410509
 %eng:	we're going to do some game afterwards
-*ROB:	dw (ddi)m yn gwybod pa xx +/. 1410637_1411735
-%eng:	I don't know which [...]
-*ANG:	bueno@s:spa pero@s:spa dan ni mynd i chwarae jig_so ? 1410973_1413405
+*ROB:	dw (ddi)m yn gwybod pa gêm . 1410637_1411735
+%eng:	I don't know which game
+*ANG:	+< bueno@s:spa pero@s:spa dan ni mynd i chwarae jig_so ? 1410973_1413405
 %eng:	well, but are we going to play jigsaw?.
 *ROB:	[- spa] o_k . 1413203_1414040
 %eng:	ok
@@ -807,8 +823,8 @@
 %eng:	Word Lotto
 *ANG:	iawn te . 1453402_1454784
 %eng:	ok then
-*ROB:	mae isio xx esbonio fel xxx gwybod xx chwarae ? 1457103_1459316
-%eng:	have to [...] explain so that [...] know [...] play
+*ROB:	mae isio xx esbonio fel xxx gwybod sut mae chwarae ? 1457103_1459316
+%eng:	have to [...] explain so that [...] know how to play
 *ANG:	ie . 1459412_1459897
 %eng:	yes
 *ANG:	dan ni efo &m (..) bethau o +... 1461982_1467794
@@ -821,15 +837,15 @@
 %eng:	...of animals, of adjectives
 *ROB:	ah@s:cym&spa . 1477745_1478279
 *ANG:	na er@s:cym&spa o enwau . 1478652_1480865
-%eng:	no, er, of names
+%eng:	no, er, of nouns
 *ROB:	enwau . 1481184_1481643
-%eng:	names
+%eng:	nouns
 *ANG:	mm ? 1481861_1482213
 *ROB:	iawn . 1482384_1482917
 %eng:	ok
 *ANG:	ia ti dau a (.) fi dau . 1483552_1486576
 %eng:	yes, you two and me two
-*ROB:	raid i ti daflu [?] ie ? 1487454_1488510
+*ROB:	raid i ti daflu ie ? 1487454_1488510
 %eng:	you have to throw, yes?
 *ANG:	ie er@s:cym&spa wyt ti isio ? 1488668_1490134
 %eng:	yes, er, do you want to?
@@ -841,8 +857,8 @@
 %eng:	ok then
 *ANG:	lluniau lluniau lluniau lluniau lluniau iawn . 1498543_1501657
 %eng:	pictures pictures pictures pictures pictures, ok
-*ANG:	iawn a@s:spa ver@s:spa [?] . 1502201_1503246
-%eng:	ok, to see.
+*ANG:	iawn a@s:spa ver@s:spa . 1502201_1503246
+%eng:	ok, so...
 *ANG:	xxx . 1504211_1505305
 *ANG:	mae jig_so &=cough . 1509325_1512216
 %eng:	it's a jigsaw
