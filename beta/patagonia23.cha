@@ -14,10 +14,10 @@
 @Comment:	Filename: Patagonia23.cha; Soundfile: Patagonia23.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	occasional noise from passing traffic in distance and other close-range banging and slamming noises occasionally
-*LCD:	ond dudodd [/] um (..) &=laugh dudodd er@s:cym&spa Julieta_Garcia@s:cym&spa wrtha i bod [/] um (..) er@s:cym&spa (.) bod nhw yn Trelew@s:cym&spa +//. 448_13097
+*LCD:	ond deudodd [/] um (..) &=laugh deudodd er@s:cym&spa Julieta_Garcia@s:cym&spa wrtha i bod [/] um (..) er@s:cym&spa (.) bod nhw yn Trelew@s:cym&spa +//. 448_13097
 %eng:	but Julieta Garcia told me they were in Trelew...
 *SUS:	+< xx . 5762_6141
-*LCD:	dw i (y)n credu mai fory ddudodd hi . 13777_15863
+*LCD:	dw i (y)n credu mai fory ddeudodd hi . 13777_15863
 %eng:	I think she said tomorrow
 *LCD:	ond er@s:cym&spa +//. 17198_18195
 %eng:	but, er...
@@ -61,13 +61,13 @@
 %eng:	so we're only going to Gaiman
 *SUS:	mae (.) y dynes xxx yn mentro dod . 71207_74962
 %eng:	the [...] lady is daring to come
-*LCD:	ie achos Ricky@s:cym&spa dydy [?] dw i (y)n credu bod wedi clywed swn . 75331_78903
+*LCD:	ie achos Ricky@s:cym&spa dydy [?] dw i (y)n credu bod wedi clywed sŵn . 75331_78903
 %eng:	yes, because Ricky, isn't it, I think heard a sound
 *SUS:	dw i (y)n xx +/. 80186_80661
 %eng:	I...
 *LCD:	+< mae [?] Josephine codi [//] cododd e . 80298_82186
 %eng:	Josephine got him/it up
-*LCD:	achos mae xx wedi clywed swn <yn yr> [/] er@s:cym&spa (..) yn yr ystafell wely . 82179_87621
+*LCD:	achos mae xx wedi clywed sŵn <yn yr> [/] er@s:cym&spa (..) yn yr ystafell wely . 82179_87621
 %eng:	because she [...] heard a sound in the bedroom
 *LCD:	ac oedd hi (y)n meddwl bod xx (we)di codi efallai ! 87607_90386
 %eng:	and she thought that [...] might have got up!
@@ -75,7 +75,7 @@
 %eng:	ah, and she's listening to everything we...
 *LCD:	na na na na na &wa ! 93889_97623
 %eng:	no, no, no
-*LCD:	meddwl o(eddw)n i bod hi (we)di clywed swn xx +/. 95265_97671
+*LCD:	meddwl o(eddw)n i bod hi (we)di clywed sŵn xx +/. 95265_97671
 %eng:	I thought that she'd heard a sound
 *SUS:	+< xx . 97132_97783
 *LCD:	ie . 97863_98225
@@ -94,7 +94,7 @@
 %eng:	yes
 *LCD:	achos (.) oedd hi (y)n mynd . 116730_118387
 %eng:	because she was going
-*LCD:	a mae (we)di bod yn helpu efo (y)r (..) er@s:cym&spa (.) ffestifal@s:cym&spa xxx . 118724_125541
+*LCD:	a mae (we)di bod yn helpu efo (y)r (..) er@s:cym&spa (.) festival@s:cym&spa xxx . 118724_125541
 %eng:	and she's been helping with the festival [...]
 *LCD:	oedd gyda (y)r beirniad (..) Sbaeneg (.) yn Buenos_Aires@s:cym&spa (.) trwy (y)r wythnos (.) diwetha . 125899_134257
 %eng:	she was with the Spanish judge in Buenos Aires all last week
@@ -229,7 +229,7 @@
 %eng:	but of course...
 *SUS:	ofn mae rywbeth digwydd iddi hi hunan . 286150_289110
 %eng:	afraid of something happening to herself
-*SUS:	(dy)dy neb xxx yn ei yml . 289423_292858
+*SUS:	(dy)dy neb xxx yn ei ymyl . 289423_292858
 %eng:	no one is [...] next to her
 *LCD:	+< neb +//. 291205_291551
 %eng:	no one...
@@ -301,7 +301,7 @@
 *LCD:	neu dach chi (y)n dod â cwshin . 397567_399215
 %eng:	or you bring a cushion
 *SUS:	&=laugh . 399285_399930
-*LCD:	mae rei yn dod â cwshin <i ffiesta@s:cym&spa> [?] . 400680_402419
+*LCD:	mae rei yn dod â cwshin <i fiesta@s:cym&spa> [?] . 400680_402419
 %eng:	some do bring a cushion to festivals
 *SUS:	+< ie . 401564_401932
 %eng:	yes
@@ -493,7 +493,7 @@
 %eng:	well...
 *SUS:	mae rywun xxx [=! laughs] wedi gorffen hwn ! 688422_693441
 %eng:	someone [...] has finished this!
-*LCD:	+< laugh . 690672_692629
+*LCD:	+< &=laugh . 690672_692629
 *SUS:	wyt ti (we)di xxx i_fewn ? 694666_696912
 %eng:	have you [...] in ?
 *SUS:	ti (we)di gweld nhw (y)n pasio neu +..? 696912_698384
@@ -539,7 +539,7 @@
 *SUS:	xx . 739011_739699
 *LCD:	do weles i . 740068_740734
 %eng:	yes, I saw
-*LCD:	a mi aeth yr bachgen ar ei_ôl hi er@s:cym&spa +... 740740_744550
+*LCD:	a mi aeth yr bachgen ar ei ôl hi er@s:cym&spa +... 740740_744550
 %eng:	and the boy after her went...
 *LCD:	<a (e)i dalu> [?] . 747959_749212
 %eng:	and payed her
@@ -682,9 +682,9 @@
 *LCD:	wel [?] ! 897073_897718
 %eng:	well!
 *LCD:	xxx um +... 897916_900391
-*LCD:	mel ? 900394_901056
+*LCD:	mêl ? 900394_901056
 %eng:	honey?
-*LCD:	o(edde)t ti (y)n gwerthu mel ? 901061_902154
+*LCD:	o(edde)t ti (y)n gwerthu mêl ? 901061_902154
 %eng:	were you selling honey?
 *SUS:	na na dim y Feria@s:spa el@s:spa teatro@s:spa . 903134_905412
 %eng:	no, not the fair, the theatre
@@ -780,7 +780,7 @@
 %eng:	er, too much, and not in the shape of the...
 *LCD:	ie . 993066_993727
 %eng:	yes
-*SUS:	anyway oedd y lleill yn neis iawn . 994443_996496
+*SUS:	anyway@s:eng oedd y lleill yn neis iawn . 994443_996496
 %eng:	anyway, the other one was very nice
 *LCD:	ie oedd(en) nhw (y)n um +... 996809_999214
 %eng:	yes, they were...
@@ -860,7 +860,7 @@
 %eng:	he wasn't so bad
 *LCD:	ie wel +... 1086480_1088150
 %eng:	yes, well...
-*LCD:	<ond yna arosodd> [?] xx hwnna ti (y)n gwybod . 1088448_1091515
+*LCD:	<ond yna ar(h)osodd> [?] xx hwnna ti (y)n gwybod . 1088448_1091515
 %eng:	but then his [...] stayed you know
 *LCD:	ond oedd o (y)n actio (y)n dda achos +... 1093022_1095716
 %eng:	but he acted well, because...
@@ -914,7 +914,7 @@
 %eng:	yes, the air is dry apart from that
 *SUS:	a ddoe wnaethon [/] mi wnaethon ni weld rywbeth rhyfedd yn y fferm (.) yn ryw um +//. 1175992_1181053
 %eng:	and yesterday we did something strange on the farm, in some, um...
-*SUS:	cómo@s:spa se@s:spa dice@s:spa patch [?] ? 1181785_1182975
+*SUS:	cómo@s:spa se@s:spa dice@s:spa patsh [?] ? 1181785_1182975
 %eng:	how do you say "patch" ?
 *LCD:	ie (.) cae . 1183239_1184513
 %eng:	yes, field
@@ -994,7 +994,7 @@
 %eng:	no, of course, it's not...
 *LCD:	er@s:cym&spa mae isio tywydd poeth iddo dyfu . 1269945_1272579
 %eng:	er, it needs hot weather to grow
-*SUS:	xx bydd (y)na dim (.) anifeiliad be ? 1276177_1278742
+*SUS:	xx bydd (y)na dim (.) anifeiliaid be ? 1276177_1278742
 %eng:	[...] there'll be no animals, what?
 *SUS:	ddim cig efo ni ? 1278732_1279724
 %eng:	no meat for us?
@@ -1235,7 +1235,7 @@
 *SUS:	xxx +/. 1637909_1638677
 *LCD:	mae gen ti +/. 1638565_1639877
 %eng:	you've got...
-*SUS:	y swn efo (y)r drysau (y)ma ! 1639914_1641762
+*SUS:	y sŵn efo (y)r drysau (y)ma ! 1639914_1641762
 %eng:	the noise from these doors!
 *LCD:	mae gen ti +... 1642066_1643479
 %eng:	you've got...
