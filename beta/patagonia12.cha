@@ -232,15 +232,15 @@
 %eng:	no
 *MAN:	faint ? 195130_195554
 %eng:	how many?
-*MAN:	chwedeg (.) blynedd yn_ôl . 195630_197882
+*MAN:	chwe_deg (.) blynedd yn_ôl . 195630_197882
 %eng:	60 years ago
-*MAN:	ia chwedeg ? 200622_201615
+*MAN:	ia chwe_deg ? 200622_201615
 %eng:	really, 60?
-*PEN:	+< ia ia chwedeg . 200761_202032
+*PEN:	+< ia ia chwe_deg . 200761_202032
 %eng:	yes, 60
 *MAN:	ia . 202339_202641
 %eng:	yes
-*PEN:	chwedeg o blynyddoedd yn_ôl . 202705_204545
+*PEN:	chwe_deg o blynyddoedd yn_ôl . 202705_204545
 %eng:	60 years ago
 *MAN:	ia . 204690_205253
 %eng:	yes
@@ -254,7 +254,7 @@
 %eng:	I had a nice time on the farm at...
 *PEN:	oedden ni gyd +//. 212050_212782
 %eng:	we were all...
-*PEN:	oedden ni lot o frodyr a chiorydd yn chwarae i_gyd efo (ei)n gilydd . 212805_216510
+*PEN:	oedden ni lot o frodyr a chwiorydd yn chwarae i_gyd efo (ei)n gilydd . 212805_216510
 %eng:	we were lots of brother and sisters all playing together
 *PEN:	jyst [?] teulu mawr . 217029_218661
 %eng:	just a large family
@@ -382,7 +382,7 @@
 %com:	initial [h] on ADJ "anodd", here and later
 *MAN:	+< a pethau . 329746_330577
 %eng:	...and things
-*PEN:	wel um (.) y car i gael symyd . 331644_335005
+*PEN:	wel um (.) y car i gael symud . 331644_335005
 %eng:	well, um... the car to be able to move
 *PEN:	achos oedd bobl ifainc ddim cael dreifio &mi yn y car <ar ben eu> [?] hunain ar hyd lle . 334989_339929
 %eng:	because young people couldn't drive a car on their own all over the place
@@ -675,7 +675,7 @@
 %eng:	well, for a little while
 *PEN:	ac er@s:cym&spa ti (y)n gallu dod (y)n_ôl (..) te ? 624488_627147
 %eng:	and you can come back, eh?
-*MAN:	ie ond mae gynnof fi dim llawer o awydd mynd yn_ôl . 629096_631703
+*MAN:	ie ond mae gynnaf fi dim llawer o awydd mynd yn_ôl . 629096_631703
 %eng:	yes, but I don't much want to go back
 *PEN:	wyt ti ddim llawer aw(ydd) +..? 631768_632726
 %eng:	you don't much want to...?
@@ -917,7 +917,7 @@
 %eng:	er, someone had called [...]
 *PEN:	a ofynnais os oedd o (y)n dod (y)n_ôl erbyn cinio . 830529_833530
 %eng:	and I asked if he was coming back before lunch
-*PEN:	a mi ddudodd +"/. 834018_835063
+*PEN:	a mi ddeudodd +"/. 834018_835063
 %eng:	and he said:
 *PEN:	+" xx siwr fe fydda i (y)n_ôl . 835011_836515
 %eng:	"[...] sure I'll be back
@@ -1143,7 +1143,7 @@
 %eng:	nice
 *PEN:	ie . 1044276_1044641
 %eng:	yes
-*MAN:	ers faint wyt ti (y)n byw (..) yn yml hi ? 1045158_1049573
+*MAN:	ers faint wyt ti (y)n byw (..) yn ymyl hi ? 1045158_1049573
 %eng:	how long have you lived next to her?
 *PEN:	+< xx +/. 1048710_1049111
 *MAN:	ers (.) faint dach chi (y)n cymdogion ? 1049561_1051784
@@ -1164,7 +1164,7 @@
 %eng:	yes
 *MAN:	felly wnest ti briodi ? 1066961_1068186
 %eng:	so you got married?
-*MAN:	wnest ti symyd fan hyn a (..) jyst yn syth mae hi wedi (.) symyd ? 1068161_1073635
+*MAN:	wnest ti symud fan hyn a (..) jyst yn syth mae hi wedi (.) symud ? 1068161_1073635
 %eng:	you moved here and she'd just moved straight away?
 *PEN:	+< yn syth +/. 1071721_1072429
 %eng:	straight away
@@ -1187,7 +1187,7 @@
 %eng:	was she married?
 *PEN:	oedd . 1087415_1087728
 %eng:	yes
-*MAN:	a wnest ti symyd fan xx +..? 1087687_1089220
+*MAN:	a wnest ti symud fan xx +..? 1087687_1089220
 %eng:	and you moved to [...]
 *PEN:	+< oedd . 1088114_1088473
 %eng:	yes
@@ -1205,9 +1205,9 @@
 *PEN:	a mae gŵr hi wedi marw tair blynedd (.) cyn Taid@s:cym&spa . 1102204_1105798
 %eng:	and her husband died three years before Grandpa
 *MAN:	mm@s:cym&spa . 1107470_1108439
-*MAN:	felly ers (..) dauddeg dau blynedd yn_ôl . 1110385_1114724
+*MAN:	felly ers (..) dau_ddeg dau blynedd yn_ôl . 1110385_1114724
 %eng:	so, 22 years ago
-*PEN:	dauddeg un dw i (y)n credu xx +/. 1114769_1116632
+*PEN:	dau_ddeg un dw i (y)n credu xx +/. 1114769_1116632
 %eng:	21 I think [...]
 *MAN:	+< ie rywbeth fel (y)na . 1115953_1117004
 %eng:	yes, something like that
@@ -1241,7 +1241,7 @@
 %eng:	there's a noise
 *PEN:	ia . 1140245_1140838
 %eng:	yes
-*PEN:	be ddudodd dy fam ? 1147483_1148377
+*PEN:	be ddeudodd dy fam ? 1147483_1148377
 %eng:	what did your mother say?
 *PEN:	bod hi (y)n dod (y)n_ôl (.) yma ? 1148435_1150200
 %eng:	that she's coming back here?
@@ -1410,7 +1410,7 @@
 %eng:	yes, a terrible smell
 *PEN:	oeddwn i (we)di roid cyw iâr ar y ffwrn . 1320435_1322595
 %eng:	I'd put chicken in the oven
-*PEN:	bydd o wedi llosgi gyd cyw_iâr . 1322609_1324338
+*PEN:	bydd o wedi llosgi gyd cyw iâr . 1322609_1324338
 %eng:	it will have all burned, the chicken
 *MAN:	oh@s:cym&spa a be ? 1324505_1325724
 %eng:	oh, and what?
@@ -1604,7 +1604,7 @@
 %eng:	and Samuel
 *PEN:	mae dy fam yn dod nôl di ? 1540725_1542119
 %eng:	is your mother coming to fetch you?
-*MAN:	oh@s:cym&spa dw i mynd i ffonio hi rŵan neu anfon neges text i weld beth mae wneud . 1542550_1547356
+*MAN:	oh@s:cym&spa dw i mynd i ffonio hi rŵan neu anfon neges tecst i weld beth mae wneud . 1542550_1547356
 %eng:	oh I'm going to phone her now, or send a text, to see what she's doing
 *PEN:	+< ah@s:cym&spa . 1546023_1546673
 *MAN:	ond mae (y)n gorfod mynd efo Samuel@s:cym&spa rŵan i (y)r ysgol . 1547521_1550023
