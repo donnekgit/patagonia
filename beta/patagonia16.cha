@@ -126,13 +126,13 @@
 %eng:	ah!
 *RAM:	faint oed ydy o ? 90300_91921
 %eng:	how old is he?
-*MOL:	un_deg_wyth . 91850_93194
+*MOL:	un_deg wyth . 91850_93194
 %eng:	eighteen.
 *RAM:	mmhm . 93197_93986
 %eng:	mmhm.
 *ELS:	ah@s:cym&spa . 93965_95010
 %eng:	ah.
-*MOL:	a dw i (y)n mynd uh dau_ddeg_tri dw i (y)n mynd i (.) y@s:spa [?] anotarlo@s:spa i (y)r universidad@s:spa . 94733_101837
+*MOL:	a dw i (y)n mynd uh dau_ddeg tri dw i (y)n mynd i (.) y@s:spa [?] anotarlo@s:spa i (y)r universidad@s:spa . 94733_101837
 %eng:	and on the 23rd I'm going to write it down to the university.
 *ELS:	ah@s:cym&spa xxx ! 101687_103799
 %eng:	ah, xxx!
@@ -166,7 +166,7 @@
 %eng:	interesting for you, love.
 *ELS:	xxx &=laugh . 125354_127082
 %eng:	xxx.
-*MOL:	xxx este . 126272_128320
+*MOL:	[- spa] xxx este . 126272_128320
 %eng:	xxx eh .
 *MOL:	y@s:spa mae o eisiau cenar@s:spa +/. 128173_132867
 %eng:	and he wants to have dinner .
@@ -185,15 +185,15 @@
 %eng:	yes.
 *RAM:	beth ydy cenar@s:spa ? 143591_146002
 %eng:	what is to have dinner?
-*MOL:	+< xxx física . 144219_145771
+*MOL:	[-spa] +< xxx física . 144219_145771
 %eng:	xxx physics.
 *MOL:	uh +... 146002_147559
 %eng:	uh....
-*RAM:	[- spa] Centro ["] +... 147650_149250
+*RAM:	[- spa] centro ["] +... 147650_149250
 %eng:	Centre...
 *ELS:	+< ah@s:cym&spa . 148457_149257
 %eng:	ah.
-*MOL:	++ <Nacional@s:spa de@s:spa Educación@s:spa Física@s:spa> ["] ie ? 149250_152962
+*MOL:	[- spa] ++ <nacional de educación física> ["] ie ? 149250_152962
 %eng:	National Centre of Physical Education, is it?
 *ELS:	[- spa] no . 152856_153581
 %eng:	no.
@@ -209,7 +209,7 @@
 %eng:	I'm going the drink the two teas I have xxx...
 *ELS:	+< ah@s:cym&spa (.) dim [?] swper &=laugh . 164767_169055
 %eng:	ah, no dinner.
-*MOL:	&=laugh así que &=laugh +... 168941_171092
+*MOL:	[- spa] &=laugh así que &=laugh +... 168941_171092
 %eng:	so that.
 *ELS:	ah@s:cym&spa +... 170968_172077
 %eng:	ah.
@@ -315,7 +315,7 @@
 %eng:	because it is...
 *ELS:	mae Elin@s:cym&spa uh +... 269776_271126
 %eng:	Elin is uh...
-*RAM:	+< mae Elin@s:cym&spa (y)n <ddwy_deg &d dau> [//] ddau_ddeg_dau ar y uh [check]dieciocho@s:spa . 270566_277610
+*RAM:	+< mae Elin@s:cym&spa (y)n <ddwy_deg &d dau> [//] ddau_ddeg dau ar y uh [check]dieciocho@s:spa . 270566_277610
 %eng:	Elin is twenty-two on the eighteenth.
 *MOL:	+< ah@s:cym&spa (..) dieciocho@s:spa . 274463_277642
 %eng:	ah, eighteen .
@@ -371,7 +371,7 @@
 %eng:	fifteen years old.
 *ELS:	oed [?] . 312327_312780
 %eng:	old.
-*MOL:	<a (y)r mae> [//] (y)r un_deg_naw <mae (y)n> [//] mae Lagos_Alexander@s:cym&spa yn dod <i i> [/] i gweld ni . 312748_322361
+*MOL:	<a (y)r mae> [//] (y)r un_deg naw <mae (y)n> [//] mae Lagos_Alexander@s:cym&spa yn dod <i i> [/] i gweld ni . 312748_322361
 %eng:	and on the nineteenth Lagos Alexander comes to visit us.
 *ELS:	ie . 323023_323823
 %eng:	yes.
@@ -400,7 +400,7 @@
 %eng:	my goodness, fair play.
 *ELS:	[- spa] pero xxx . 337545_338622
 %eng:	but xxx.
-*MOL:	[- spa] +< xxx fusion de Alemanes un atracción de Alemanes con Argentinos . 338078_342604
+*MOL:	[- spa] +< xxx fusión de Alemanes un atracción de Alemanes con Argentinos . 338078_342604
 %eng:	fusion of Germans, an attraction between Germans and Argentinians.
 *ELS:	ah@s:cym&spa sí@s:spa ? 342609_343409
 %eng:	really?
@@ -449,10 +449,10 @@
 %eng:	Herminia has three, lets see.
 *MOL:	yndy . 369213_369976
 %eng:	yes.
-*MOL:	tri_deg_un . 369965_372019
+*MOL:	tri_deg un . 369965_372019
 %eng:	thirty-one.
 %com:	she actually says "tair" rather than "tri" .
-*MOL:	a o (.) dau_ddeg_un . 371977_374787
+*MOL:	a o (.) dau_ddeg un . 371977_374787
 %eng:	and he twenty-one.
 *RAM:	mmhm . 374819_375737
 %eng:	yes.
@@ -535,7 +535,7 @@
 %eng:	yes?
 *RAM:	+" uh mae [//] esto@s:spa es@s:spa una@s:spa hipoc(risía) [/] hipocrisía@s:spa . 476335_479495
 %eng:	"this is hypocrisy."
-*RAM:	+" [-cym] es como si los Alemanes hicieran un mon(umento) [/] monumento a los judíos . 479475_483182
+*RAM:	[- spa] +" es como si los Alemanes hicieran un mon(umento) [/] monumento a los judíos . 479475_483182
 %eng:	"it is as if the Germans made monuments to the Jews."
 *RAM:	+" dwedodd . 483909_484682
 %eng:	he said.
@@ -563,7 +563,7 @@
 *RAM:	wn i ddim . 505637_506741
 %eng:	I don't know.
 *ELS:	[- spa] no saben . 506517_507535
-*ELS:	no [/] no [/] saben de qué se trata . 506490_509039
+*ELS:	[- spa] no [/] no [/] saben de qué se trata . 506490_509039
 %eng:	xxx.
 *RAM:	ces i fy [/] fy syndod achos wel mae comentario@s:spa idiota@s:spa hmm . 509045_514530
 %eng:	I was taken by surprise because it was a stupid remark.
@@ -615,7 +615,7 @@
 %eng:	before.
 *RAM:	cynt . 542799_543604
 %eng:	earlier.
-*ELS:	contar . 543956_544687
+*ELS:	[- spa] contar . 543956_544687
 *MOL:	+< cynta [?] . 544383_545044
 %eng:	first.
 *ELS:	a xxx (.) uh de@s:spa la@s:spa visita@s:spa . 545023_547839
@@ -727,7 +727,7 @@
 %eng:	uhm...
 *RAM:	y dwy . 650768_651413
 %eng:	the two of them.
-*RAM:	xxx &las xxx wyrdd . 651883_654582
+*RAM:	xxx las xxx wyrdd . 651883_654582
 %eng:	the blue xxx and the green xxx.
 %com:	although "las" seems to be an Spanish article it does not make sense.
 *ELS:	+< ie . 653110_653563
@@ -736,7 +736,7 @@
 %eng:	yes.
 *RAM:	ie oce@s:cym&spa . 654902_655787
 %eng:	yes, okay.
-*ELS:	[-cym] cómo es ? 655828_657039
+*ELS:	[- spa] cómo es ? 655828_657039
 %eng:	what is it?
 *MOL:	xxx . 657028_660009
 %eng:	xxx.
@@ -766,7 +766,7 @@
 %eng:	are you going by coach or are you going by...?
 *ELS:	[- spa] +< no xxx +... 672555_674416
 %eng:	no, xxx.
-*MOL:	+< [-cym] avión . 673396_674378
+*MOL:	[- spa] +< avión . 673396_674378
 %eng:	plane.
 *RAM:	awyren ie ? 674362_675615
 %eng:	plane, is it?
@@ -794,7 +794,7 @@
 %eng:	not?
 *ELS:	[- spa] no ? 689290_689653
 %eng:	not?
-*MOL:	[-cym] así que este bueno . 689653_690922
+*MOL:	[- spa] así que este bueno . 689653_690922
 %eng:	so, well.
 *ELS:	uh yn y bws@s:cym&spa . 690842_691919
 %eng:	by bus.
@@ -816,7 +816,7 @@
 *ELS:	+< xxx ? 698001_698796
 *RAM:	pryd wyt ti mynd ? 698689_699783
 %eng:	when are you going?
-*MOL:	no@s:spa dau [/] dau_ddeg_tri . 699500_700940
+*MOL:	no@s:spa dau [/] dau_ddeg tri . 699500_700940
 %eng:	no, twenty-three.
 *ELS:	xxx uh wedi mynd gyda ti . 701115_703926
 %eng:	xxx gone with you.
@@ -828,7 +828,7 @@
 %eng:	...with Benito.
 *ELS:	oh@s:cym&spa emocionante@s:spa . 707623_709521
 %eng:	oh, exciting.
-*MOL:	+< [-cym] sí sí . 708636_709959
+*MOL:	[- spa] +< sí sí . 708636_709959
 %eng:	yes.
 *ELS:	mmm@s:cym&spa ! 709703_711266
 %eng:	mmm!
@@ -837,7 +837,7 @@
 *ELS:	mae raid i ni paratoi teisen a te a (.) gormod o fwyd uh el@s:spa año@s:spa que@s:spa viene@s:spa no@s:spa xxx ? 711988_721373
 %eng:	we have to prepare a cake and tea and too much food in the coming year, haven't we, xxx?
 *MOL:	&=laugh . 721144_721656
-*RAM:	[-cym] el año que viene ? 721640_722562
+*RAM:	[- spa] el año que viene ? 721640_722562
 %eng:	the coming year?
 *ELS:	ie . 722568_723165
 %eng:	yes.
@@ -849,13 +849,13 @@
 %eng:	yes.
 *RAM:	pam ? 724981_725551
 %eng:	why?
-*ELS:	[-cym] para olvidar que extrañamos &=laugh . 725625_727855
+*ELS:	[- spa] para olvidar que extrañamos &=laugh . 725625_727855
 %eng:	to forget that we miss.
 *MOL:	ah@s:cym&spa ! 727855_728681
 %eng:	ah!
-*ELS:	&=laugh para llenar el xxx vacío . 729381_733264
+*ELS:	[- spa] &=laugh para llenar el xxx vacío . 729381_733264
 %eng:	to fill the empty xxx.
-*MOL:	[-cym] +< vamos a ver xxx sí sí . 729643_732805
+*MOL:	[- spa] +< vamos a ver xxx sí sí . 729643_732805
 %eng:	xxx.
 *RAM:	+< mmhm . 729957_730485
 %eng:	yes.
@@ -901,14 +901,14 @@
 %eng:	in Buenos Aires?
 *MOL:	+< xxx . 773336_773830
 %eng:	xxx.
-*MOL:	[-cym] sí sí sí sí . 774691_775421
+*MOL:	[- spa] sí sí sí sí . 774691_775421
 %eng:	yes.
 *RAM:	mm . 775272_775448
 %eng:	yes.
 *MOL:	a <mae o uhm (...)> [/] mae o (y)n cariad . 775880_781975
 %eng:	and he is in love.
 *ELS:	&=gasp . 781970_782951
-*MOL:	[-cym] escosesa descendiente de escosesa . 783332_786010
+*MOL:	[- spa] escosesa descendiente de escosesa . 783332_786010
 %eng:	a girl from Scottish descent.
 *ELS:	[- spa] o_là_là ! 786042_788143
 *MOL:	a mae [/] mae o (.) uh (.) <un &metr un> [//] un@s:spa metro@s:spa y@s:spa medio@s:spa no@s:spa . 788149_795132
@@ -1013,7 +1013,7 @@
 %eng:	okay.
 *MOL:	a (y)r gŵr xxx ni (y)n deud rabino@s:spa . 883256_886099
 %eng:	and her husband xxx, we call him a rabbi.
-*MOL:	porque xxx oh@s:cym&spa &=laugh ! 886126_887971
+*MOL:	porque@:spa xxx oh@s:cym&spa &=laugh ! 886126_887971
 %eng:	because xxx, oh!
 *RAM:	+< ie ie xxx achos [?] <mae (y)n uh ie> [//] mae (y)n farf ofnadwy ie . 886451_892071
 %eng:	yes, xxx because he has an awful beard.
@@ -1042,7 +1042,7 @@
 %eng:	a good little boy, yes.
 *MOL:	ac meddai [?] Antonio@s:cym&spa <xxx dw i wedi mynd> ["] . 908346_912074
 %eng:	and Antonio said "xxx I have gone" .
-*MOL:	porque@s:spa mae o (y)n (.) uh uh Antonio@s:cym&spa (y)n (.) mayor@s:spa que@s:spa xxx no pero . 912034_919882
+*MOL:	porque@s:spa mae o (y)n (.) uh uh Antonio@s:cym&spa (y)n (.) mayor@s:spa que@s:spa xxx no@s:spa pero@s:spa . 912034_919882
 %eng:	because he is further advanced than xxx , not but.
 *ELS:	[- spa] +< claro . 916475_919123
 %eng:	of course.
@@ -1064,7 +1064,7 @@
 %eng:	xxx very good.
 *ELS:	[- spa] Celestino ? 929087_929759
 %eng:	Celestino?
-*MOL:	entonces es xxx &=laugh . 929620_932308
+*MOL:	[- spa] entonces es xxx &=laugh . 929620_932308
 %eng:	xxx.
 *ELS:	+< ie (..) ah@s:cym&spa . 929928_932248
 %eng:	yes, ah.
@@ -1074,7 +1074,7 @@
 %eng:	electronic engineering .
 *ELS:	ah@s:cym&spa . 935744_936805
 %eng:	ah.
-*MOL:	[-cym] así es . 938268_939399
+*MOL:	[- spa] así es . 938268_939399
 %eng:	that's it.
 *ELS:	gormod o +... 939095_940487
 %eng:	too much...
@@ -1172,7 +1172,7 @@
 %eng:	responsible.
 *ELS:	Elin@s:cym&spa ? 1005588_1006484
 %eng:	Elin?
-*MOL:	ah@s:cym&spa bueno Benito@s:cym&spa dw i ddim wedi gweld o astudio lot byth . 1006431_1011892
+*MOL:	ah@s:cym&spa bueno@s:spa Benito@s:cym&spa dw i ddim wedi gweld o astudio lot byth . 1006431_1011892
 %eng:	well Benito, I never see him studying much.
 *ELS:	[- spa] +< no (.) no . 1011119_1012191
 %eng:	no.
@@ -1209,7 +1209,7 @@
 %eng:	well, Benito doesn't like the technical college.
 *ELS:	ah@s:cym&spa no@s:spa ? 1043836_1044662
 %eng:	didn't he?
-*MOL:	+< xxx roid o (y)n ysgol técnica . 1044225_1047000
+*MOL:	+< xxx roid o (y)n ysgol técnica@s:spa . 1044225_1047000
 %eng:	xxx put him into technical college.
 *ELS:	ah@s:cym&spa . 1046952_1047784
 %eng:	ah.
@@ -1321,7 +1321,7 @@
 %eng:	xxx.
 *RAM:	uh ble wyt ti (y)n byw Marisol@s:cym&spa ? 1115807_1117204
 %eng:	where do you live, Marisol?
-*MOL:	[-cym] [check] a veinticinco de mayo +... 1117696_1119627
+*MOL:	[- spa] [check] a veinticinco de mayo +... 1117696_1119627
 %eng:	in 20th of May...
 *ELS:	[check] al@s:spa lado@s:spa de@s:spa (...) &don eh@s:cym&spa (..) xxx . 1119492_1125700
 %eng:	next to xxx.
@@ -1329,7 +1329,7 @@
 %eng:	I don't know where.
 *ELS:	xxx +/. 1127104_1127893
 %eng:	xxx.
-*MOL:	+< <veinticinco@s:spa Mai uh dau> [//] dau_ddeg_pump o Mai . 1127114_1133788
+*MOL:	+< <veinticinco@s:spa Mai uh dau> [//] dau_ddeg pump o Mai . 1127114_1133788
 %eng:	25th of May Street.
 *RAM:	uhuh . 1133777_1134492
 %eng:	yes.
@@ -1468,11 +1468,11 @@
 %eng:	the lady of xxx has died.
 *ELS:	ah@s:cym&spa ie . 1236898_1238530
 %eng:	ah, yes.
-*MOL:	+< pero@s:spa nine [/] nine_deg_tri@s:eng+cym . 1237885_1242189
+*MOL:	+< pero@s:spa nine@s:eng [/] nine_deg@s:eng+cym tri . 1237885_1242189
 %eng:	but ninety-three.
 *ELS:	ie . 1242653_1243293
 %eng:	yes.
-*MOL:	a dynes (y)ma gynni hi wyth_deg_rywbeth . 1243293_1247581
+*MOL:	a dynes (y)ma gynni hi wyth_deg rywbeth . 1243293_1247581
 %eng:	and this woman was eighty-something.
 *ELS:	ah@s:cym&spa [?] (.) ie xxx . 1247506_1249469
 %eng:	ah, yes, xxx.
@@ -1570,7 +1570,7 @@
 %eng:	no, do you think?
 *MOL:	cómo@s:spa es@s:spa xxx mil@s:cym&spa [//] un mil@s:cym&spa nine ddeg pump . 1318993_1324020
 %eng:	how do you say xxx, 1950s.
-*RAM:	+< de@s:spa los@s:spa cincuenta@s:spa (..) sí (.) pump . 1319258_1323867
+*RAM:	+< de@s:spa los@s:spa cincuenta@s:spa (..) sí@s:spa (.) pump . 1319258_1323867
 %eng:	from the fifty , yes,  five.
 *RAM:	pum [//] uh pumdegau ie ? 1323934_1325161
 %eng:	fifties, yes?
@@ -1602,7 +1602,7 @@
 %eng:	xxx.
 *ELS:	ah@s:cym&spa hefyd [?] ? 1335308_1336369
 %eng:	ah, also?
-*MOL:	[-cym] mas o menos sí . 1336358_1337201
+*MOL:	[- spa] mas o menos sí . 1336358_1337201
 %eng:	more or less, yes.
 *ELS:	mmhm . 1337185_1338001
 %eng:	yes.
@@ -1702,7 +1702,7 @@
 %eng:	since when have you been living there?
 *MOL:	uh (.) dau can a@s:spa ver@s:spa . 1421603_1425733
 %eng:	uh, two hundred , lets see.
-*RAM:	dwy_fil . 1425717_1426480
+*RAM:	dwy fil . 1425717_1426480
 %eng:	2000 .
 *ELS:	dau_ddeg . 1426464_1427264
 %eng:	twenty.
@@ -1732,7 +1732,7 @@
 %eng:	of course.
 *RAM:	duw duw chwarae teg . 1440999_1442903
 %eng:	goodness, fair play.
-*ELS:	uhm gormod o uhm (.) difficult uh +... 1443766_1447883
+*ELS:	uhm gormod o uhm (.) difficult@s:eng uh +... 1443766_1447883
 %eng:	too much, uhm, difficult, uh...
 *MOL:	ie . 1447820_1448204
 %eng:	yes.
@@ -1742,11 +1742,11 @@
 %eng:	to ...
 *ELS:	trafferth . 1449422_1450163
 %eng:	trouble.
-*MOL:	[-cym] en realidad +... 1450088_1451182
+*MOL:	[- spa] en realidad +... 1450088_1451182
 %eng:	in reality...
 *ELS:	[- spa] chicos jóvenes . 1451089_1451889
 %eng:	young kids.
-*MOL:	claro@s:spa eh@s:cym&spa sí +//. 1451878_1456426
+*MOL:	claro@s:spa eh@s:cym&spa sí@s:spa +//. 1451878_1456426
 %eng:	of course, eh yes.
 *MOL:	mae [/] mae (y)r bechgyn yn gallu mynd i (y)r ysgol eu hunan a popeth . 1456426_1461034
 %eng:	the boys can go to school on their own and everything.
@@ -1806,7 +1806,7 @@
 %eng:	we live...
 *MOL:	ie <mae (y)n> [/] mae (y)n <neis neis> [/] neis yma . 1498032_1500565
 %eng:	yes, it is nice there.
-*ELS:	+< [-cym] demasiado lejos . 1498629_1500272
+*ELS:	[- spa] +< demasiado lejos . 1498629_1500272
 %eng:	too far.
 *RAM:	rhy bell . 1500485_1501440
 %eng:	too far.
@@ -1818,7 +1818,7 @@
 %eng:	too far.
 *ELS:	<mae uhm (..) uh> [//] es@s:spa [/] es@s:spa complicado@s:spa para@s:spa +... 1502698_1508451
 %eng:	it is complicated for ...
-*MOL:	trasladarse . 1508441_1509369
+*MOL:	[- spa] trasladarse . 1508441_1509369
 %eng:	to go.
 *ELS:	[- spa] trasladarse es media hora . 1509126_1511467
 %eng:	going is half an hour.
@@ -1941,9 +1941,9 @@
 %eng:	okay.
 *RAM:	ie [?] . 1578755_1579278
 %eng:	yes.
-*MOL:	mae [/] mae (y)r tad fi oedd uh pa(n) [/] pan yn [?] gwyllt yn deud uh bitch ["] . 1578755_1583883
+*MOL:	mae [/] mae (y)r tad fi oedd uh pa(n) [/] pan yn [?] gwyllt yn deud uh bitch@s:eng ["] . 1578755_1583883
 %eng:	when my dad was angry he would say "bitch" .
-*MOL:	bitch ["] yn y Saesneg . 1585056_1586341
+*MOL:	bitch@s:eng ["] yn y Saesneg . 1585056_1586341
 %eng:	"bitch" in English.
 *ELS:	+< ah@s:cym&spa . 1585216_1585915
 %eng:	ah.
@@ -1970,10 +1970,10 @@
 *RAM:	+< mmhm . 1601518_1602590
 %eng:	yes.
 *MOL:	ah@s:spa entonces@s:spa dw i wedi bod yn bici@s:spa xxx i (y)r +... 1602542_1606753
-%eng:	xxx I have been  en bycicle to the...
+%eng:	I have been on a bike to the... xxx
 *ELS:	ah@s:cym&spa . 1606705_1607463
 %eng:	ah.
-*MOL:	+, i (y)r supermarket (.) a +... 1607436_1610862
+*MOL:	+, i (y)r supermarket@s:eng (.) a +... 1607436_1610862
 %eng:	...to the supermarket and...
 *ELS:	+< ah@s:cym&spa ie [?] xxx &=laugh . 1608857_1612105
 %eng:	ah yes, xxx.
@@ -2044,7 +2044,7 @@
 %eng:	ah, he is...
 *RAM:	crio . 1677424_1677984
 %eng:	crying.
-*ELS:	[-cym] no no no resfrío . 1678024_1679742
+*ELS:	[- spa] no no no resfrío . 1678024_1679742
 %eng:	no, a cold.
 *MOL:	+< no@s:spa no@s:spa no@s:spa mae (y)n +... 1678222_1679646
 %eng:	no, it is...
@@ -2060,7 +2060,7 @@
 %eng:	yes.
 *ELS:	mae (y)n (.) xxx . 1684374_1686539
 %eng:	she is xxx.
-*MOL:	+< [-cym] preocupada . 1685675_1686865
+*MOL:	[- spa] +< preocupada . 1685675_1686865
 %eng:	worried.
 *ELS:	uh ie . 1686827_1688043
 %eng:	yes.
@@ -2071,7 +2071,7 @@
 *ELS:	[- spa] bien . 1692236_1693932
 %eng:	ok.
 *ELS:	[- spa] como está siempre 0_0
-*MOL:	+< [-cym] sí sí sí sí sí sí . 1693121_1694492
+*MOL:	 [- spa] +<sí sí sí sí sí sí . 1693121_1694492
 %eng:	yes.
 *RAM:	+< mae Anita@s:cym&spa (y)n cryf iawn . 1693788_1695324
 %eng:	Anita is very strong.
@@ -2083,19 +2083,19 @@
 %eng:	she is strong.
 *RAM:	+< ie . 1698072_1698717
 %eng:	yes.
-*MOL:	[-cym] sí sí . 1698702_1700142
+*MOL:	[- spa] sí sí . 1698702_1700142
 %eng:	yes.
-*ELS:	+< [-cym] fuerte . 1699368_1700062
+*ELS:	+[- spa] < fuerte . 1699368_1700062
 %eng:	strong.
-*MOL:	[-cym] es que +/. 1700594_1701298
+*MOL:	[- spa] es que +/. 1700594_1701298
 %eng:	it is that...
-*ELS:	[-cym] pero &m +... 1701202_1702173
+*ELS:	[- spa] pero &m +... 1701202_1702173
 %eng:	but...
 *MOL:	xxx . 1702157_1703618
 %eng:	xxx.
-*ELS:	+< [-cym] sí . 1702855_1703581
+*ELS:	[- spa] +< sí . 1702855_1703581
 %eng:	yes.
-*ELS:	[-cym] es (.) duro &=laugh . 1703602_1705363
+*ELS:	[- spa] es (.) duro &=laugh . 1703602_1705363
 %eng:	it is hard.
 *MOL:	ah@s:cym&spa ie xxx +/. 1705315_1706633
 %eng:	ah, yes, xxx.
@@ -2109,7 +2109,7 @@
 %eng:	he is sad.
 *ELS:	trist [check] xxx . 1710716_1712353
 %eng:	sad xxx.
-*MOL:	+< oedd o (y)n nervous . 1710887_1712321
+*MOL:	+< oedd o (y)n nervous@s:eng . 1710887_1712321
 %eng:	he was nervous.
 *ELS:	ie . 1712311_1712855
 %eng:	yes.
@@ -2123,7 +2123,7 @@
 %eng:	yes, uh...
 *RAM:	ie . 1723332_1723609
 %eng:	yes.
-*MOL:	[-cym] estrés ? 1723566_1724361
+*MOL:	[- spa] estrés ? 1723566_1724361
 %eng:	stress?
 *ELS:	ie . 1724409_1724836
 %eng:	yes.
@@ -2135,14 +2135,14 @@
 %eng:	yes.
 *MOL:	+, a wedi roid uh píldora@s:spa cómo@s:spa es ? 1729154_1733016
 %eng:	...and has given pill, how is it ? .
-*ELS:	[-cym] sí . 1732989_1733842
+*ELS:	[- spa] sí . 1732989_1733842
 %eng:	yes.
 *MOL:	dw i (y)n credu que@s:spa <mae o (y)n> [/] mae o (y)n roid lawr (..) gormod . 1734271_1739241
 %eng:	I think that he puts down too much.
 %com:	Could this be a literal translation from a Spanish phrase meaning"he puts up with too much" or something?
 *ELS:	ah@s:cym&spa ie . 1739139_1740526
 %eng:	ah, yes.
-*MOL:	+< [-cym] me parece . 1739683_1740617
+*MOL:	[- spa] +< me parece . 1739683_1740617
 %eng:	so it seems to me.
 *RAM:	mm . 1740586_1741285
 %eng:	yes.
@@ -2156,7 +2156,7 @@
 %eng:	and doesn't eat well.
 *MOL:	ah@s:cym&spa no@s:spa ? 1748404_1749401
 %eng:	doesn't he?
-*ELS:	[-cym] no . 1749390_1749769
+*ELS:	[- spa] no . 1749390_1749769
 %eng:	no.
 *MOL:	mae o (y)n (.) delgado@s:spa . 1749601_1751558
 %eng:	he is thin.
@@ -2238,7 +2238,7 @@
 %eng:	yes.
 *MOL:	[- spa] porque es . 1821715_1823006
 %eng:	because it is ...
-*ELS:	[-cym] sí . 1823146_1823621
+*ELS:	[- spa] sí . 1823146_1823621
 %eng:	yes.
 *MOL:	no xxx . 1823626_1825175
 %eng:	no xxx .
