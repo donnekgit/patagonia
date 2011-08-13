@@ -42,7 +42,7 @@
 *LIN:	[- spa] +< sí sí sí . 48827_49574
 *ISA:	[- spa] +, que no sabíamos . 49532_50209
 *ISA:	xxx no@s:spa se@s:spa acordaba@s:spa Carla@s:cym&spa y@s:spa Alba@s:cym&spa cómo@s:spa se@s:spa llama@s:spa . 49574_52285
-*LIN:	sí López . 52278_52902
+*LIN:	sí@s:spa López@s:cym&spa . 52278_52902
 *ISA:	[- spa] sí sí sí . 52783_53732
 *LIN:	[- spa] es [/] es un hombre canoso de bigotes . 52831_55413
 *ISA:	[- spa] +< pero joven no . 55416_56609
@@ -107,7 +107,7 @@
 *LIN:	[- spa] sí ella &e ella es mayor &e +//. 141958_144188
 *ISA:	[- spa] +< xxx no es cierto ? 142034_142838
 *LIN:	[- spa] ella es menor que papá . 144183_145236
-*ISA:	y tío tío xxx [?] . 145223_148079
+*ISA:	[- spa] y tío tío xxx [?] . 145223_148079
 %com:	possibly Welsh.
 *LIN:	+< xxx [?] . 147704_148834
 %com:	possibly Welsh.
@@ -266,14 +266,14 @@
 *ISA:	+< dydd Sul yn xxx +... 406391_407713
 *ISA:	(dy)na fo . 407799_408439
 *LIN:	er@s:cym&spa llawn y tŷ o pobl . 408590_411044
-*LIN:	dauddeg_pump . 411118_411833
+*LIN:	dau_ddeg pump . 411118_411833
 *ISA:	plant &=laugh (.) yn rhedeg &=laugh . 412078_414969
 *LIN:	plant . 412804_413668
 *LIN:	<tad a yr &m> [//] tadau a (y)r mamau a (y)r plant a nain a (y)r (.) &=laugh <a (y)r> [/] a (y)r hen nain . 413745_421339
-*ISA:	+< laugh . 416006_417467
+*ISA:	+< &=laugh . 416006_417467
 *LIN:	a gaethon ni fwyta asado@s:spa . 422286_424761
 *ISA:	wel da iawn . 424836_426137
-*LIN:	oedden ni (y)n [/] yn (.) wneud um@s:cym&spa (..) rhyw fath o feast . 426292_432372
+*LIN:	oedden ni (y)n [/] yn (.) wneud um@s:cym&spa (..) rhyw fath o feast@s:eng . 426292_432372
 *ISA:	+< pwy wnaeth yr asado@s:spa ? 431337_432414
 *LIN:	&a Roberto@s:cym&spa fel arfer . 432681_434196
 *ISA:	ah@s:cym&spa bob amser yn wneud asado@s:spa fo [?] . 433466_435408
@@ -282,7 +282,7 @@
 *LIN:	fo ia . 435696_436464
 *LIN:	mae rhai yn wneud +... 437242_438288
 *ISA:	+< fo sy (y)n (.) cwcio ? 437498_439258
-*LIN:	Andrés@s:cym&spa a xx@s:cym&spa sydd yn cwcio hefyd . 438576_440549
+*LIN:	Andrés@s:cym&spa a xx sydd yn cwcio hefyd . 438576_440549
 *ISA:	ah@s:cym&spa . 440848_441178
 *LIN:	ond eh@s:cym&spa Roberto@s:cym&spa sy (y)n cwcio pryd mae o adre . 441347_443789
 *LIN:	eh@s:cym&spa xx i wneud um@s:cym&spa (..) fel <i i i> [/] i roid (.) beth &s +//. 444359_452039
@@ -344,13 +344,13 @@
 *ISA:	(dy)na fo &=laugh gormod &=laugh . 768542_771208
 *ISA:	&=clears_throat . 771326_771838
 *ISA:	na yn licio sí@s:spa . 772722_774557
-*LIN:	a plyms@s:spa mae yna plums@s:spa i gael oes . 774685_778034
+*LIN:	a plyms mae yna plyms i gael oes . 774685_778034
 *LIN:	<mae (y)na> [//] mae nhw (we)di [//] wedi (.) llosgi <efo (y)r> [/] er@s:cym&spa efo rew [?] . 778555_783077
 *LIN:	ah@s:cym&spa efo ti [?] (y)na ? 782555_783451
 *LIN:	na fu raid rai eraill oedd yndyn . 783892_786932
 *ISA:	wel dach chi (y)n lwcus . 786516_787252
-*LIN:	a grapes . 787252_788222
-*LIN:	dan ni (y)n cael grapes i wneud jam . 788649_790516
+*LIN:	a grêps . 787252_788222
+*LIN:	dan ni (y)n cael grêps i wneud jam . 788649_790516
 *ISA:	ah@s:cym&spa mae o (y)n trafferth yndy . 789060_792879
 *LIN:	trafferthus ond mae o (y)n neis i bwyta dw i (y)n +... 791204_793977
 *ISA:	a wyt ti (y)n tynnu y (.) er@s:cym&spa um@s:cym&spa +... 793401_796207
@@ -418,7 +418,7 @@
 *ISA:	+< tynnu bob peth yn yr xxx . 900471_902839
 *LIN:	a oedd hi xxx mynd <i rŵm> [//] er@s:cym&spa i (y)r bedrŵm a orwedd yn y gwely . 903167_908265
 *LIN:	<a mae mae> [/] a mae xx ddim yn er@s:cym&spa gwylltio . 908767_912073
-*ISA:	a mae nhw (y)n cael y caniatau efo hi ? 910281_912489
+*ISA:	a mae nhw (y)n cael y caniatáu efo hi ? 910281_912489
 *LIN:	mm@s:cym&spa ? 912642_913122
 *ISA:	oes (y)na caniatau <i i> [/] i +..? 913357_914882
 *LIN:	+< &n oes . 914663_915527
@@ -482,7 +482,7 @@
 *ISA:	[- spa] y (.) y no es para un rato como vos cuando (.) hacés otra actividad . 1019886_1025134
 *ISA:	[- spa] y que no solamente son &e satisfacciones . 1025790_1031224
 *ISA:	[- spa] hay problemas también . 1031201_1032594
-*ISA:	[- spa] y (.) cuando vos tenés claro que va a haber alegrías y precupaciones y tristezas y trabajo es cuando tomás la cosa un poquito más +... 1032237_1040965
+*ISA:	[- spa] y (.) cuando vos tenés claro que va a haber alegrías y preocupaciones y tristezas y trabajo es cuando tomás la cosa un poquito más +... 1032237_1040965
 *LIN:	+< um . 1040961_1041403
 *ISA:	[- spa] +, que no te sorprenda . 1041588_1043505
 *ISA:	[- spa] +< que la paternidad +//. 1043870_1045454
@@ -491,7 +491,7 @@
 *LIN:	[- spa] a vos <no te> [//] no ves en &e &e en [/] en tus chicos . 1048773_1051567
 *LIN:	[- spa] no tenés la experiencia de que sus hijos no saben comer ? 1051493_1055489
 *LIN:	[- spa] o comen bien ? 1056231_1057795
-*ISA:	sí sí . 1057795_1058840
+*ISA:	[- spa] sí sí . 1057795_1058840
 *ISA:	[- spa] +< demás . 1058658_1059938
 *LIN:	[- spa] pero comen bien . 1058823_1059890
 *LIN:	[- spa] se sientan a la mesa . 1059885_1061591
@@ -535,8 +535,8 @@
 *ISA:	[- spa] +< en ese sentido sí . 1127074_1128018
 *ISA:	+< la@s:spa mayor@s:spa no@s:spa eh@s:cym&spa . 1128077_1129373
 *ISA:	[- spa] la mayor no . 1129330_1130184
-*ISA:	[- spa] la mayor es una lady . 1130163_1131624
-*ISA:	[- spa] ella se sient(ta) +/. 1131480_1132787
+*ISA:	la@s:spa mayor@s:spa es@s:spa una@s:spa lady@s:eng . 1130163_1131624
+*ISA:	[- spa] ella se sient(a) +/. 1131480_1132787
 *LIN:	[- spa] entonces ya van aprendiendo . 1131598_1133187
 *ISA:	[- spa] sí sí sí sí sí sí . 1133251_1134627
 *LIN:	[- spa] tal vez . 1133294_1133896
@@ -813,7 +813,7 @@
 *LIN:	pryd llosgodd ryw lle oedd eh@s:cym&spa . 1548936_1551602
 *ISA:	ond allan yn y +//. 1551752_1552744
 *ISA:	dim yn y tŷ . 1552766_1553608
-*LIN:	oedda ni wedi menthyg i [/] (..) i xx@s:cym&spa am gyfnodau pryd y llosgodd yr er@s:cym&spa storm nhw . 1554269_1561501
+*LIN:	oedda ni wedi menthyg i [/] (..) i xx am gyfnodau pryd y llosgodd yr er@s:cym&spa storm nhw . 1554269_1561501
 *ISA:	+< wel . 1556254_1556904
 *ISA:	+< oeddech chi (y)n [/] yn [/] yn tynnu um@s:cym&spa (.) y bwrdd allan yn y Haf ? 1560841_1565609
 *LIN:	nag oedden . 1565747_1566398
