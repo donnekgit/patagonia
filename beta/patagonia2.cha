@@ -338,7 +338,7 @@
 %eng:	and so...
 *CHT:	ond [?] oedden nhw (y)n dod <at yr> [//] at y lan ? 318175_320665
 %eng:	but did they come up to the coast?
-*AVR:	at y <pier oedd> [?] . 320716_321772
+*AVR:	at y <pier@s:eng oedd> [?] . 320716_321772
 %eng:	to the pier, yes.
 *CHT:	oedden nhw ? 321883_322359
 %eng:	were they?
@@ -422,9 +422,9 @@
 %eng:	and then there have been seven since then.
 *CHT:	&upa ! 395280_395908
 %com:	not sure what this exclamation is!
-*CHT:	un_deg_pedwar ie . 396158_397099
+*CHT:	un_deg pedwar ie . 396158_397099
 %eng:	fourteen, yes.
-*AVR:	un_deg_pedwar . 396849_397482
+*AVR:	un_deg pedwar . 396849_397482
 %eng:	fourteen.
 *CHT:	ia dw i (y)n cofio fu hi (y)n gweld y llun hynny (.) yn [/] yn agos i Harlech@s:cym&spa . 397671_402152
 %eng:	yes, I remember she saw that picture near Harlech.
@@ -621,7 +621,7 @@
 %eng:	four and a half.
 *AVR:	+< na pedwar [/] pedwar oedd o . 598772_600293
 %eng:	no, it was four.
-*AVR:	dw i meddwl bod o (we)di codi peso . 600671_602499
+*AVR:	dw i meddwl bod o (we)di codi peso@s:cym&spa . 600671_602499
 %eng:	I think it's gone up by a peso.
 *CHT:	ah@s:cym&spa ! 602767_603324
 *AVR:	a felly (dy)na fo mae o mynd yn (.) ry [/] ry ddrud . 603315_606740
@@ -630,9 +630,9 @@
 %eng:	I've paid four and a half.
 *AVR:	a bob tro +/. 606730_607316
 %eng:	and each time.
-*CHT:	a mae (y)r &kai cerdyn &tabm [///] pa mor syml fydd o mae o ryw bum peso . 607180_612208
+*CHT:	a mae (y)r &kai cerdyn &tabm [///] pa mor syml fydd o mae o ryw bum peso@s:cym&spa . 607180_612208
 %eng:	and the card is, no matter how simple it is, it's about five pesos.
-*CHT:	pedwar pum peso . 612479_613624
+*CHT:	pedwar pum peso@s:cym&spa . 612479_613624
 %eng:	four, five pesos.
 *AVR:	yndy yndy . 613509_613892
 %eng:	yes, yes.
@@ -770,7 +770,7 @@
 *AVR:	ond mae Nita@s:cym&spa [///] mi oedd hi (y)n smocio pan oedd hi yn Gymru . 736756_740494
 %eng:	but Nita, she used to smoke when she was in Wales.
 *CHT:	oh@s:cym&spa . 741099_741458
-*AVR:	yn er@s:cym&spa saith_deg_dau oedd hi (y)n smocio . 741435_743788
+*AVR:	yn er@s:cym&spa saith_deg dau oedd hi (y)n smocio . 741435_743788
 %eng:	in seventy-two she used to smoke.
 *AVR:	mi ddoth yn_ôl . 743788_744655
 %eng:	she came back.
@@ -900,7 +900,7 @@
 *AVR:	ah@s:cym&spa Sally@s:cym&spa Sally_Richards@s:cym&spa . 860326_862439
 *CHT:	ie ie ie ie . 862427_863605
 %eng:	yes, yes, yes.
-*AVR:	oh@s:cym&spa ia mae Robert@s:cym&spa hi a Robert@s:cym&spa yn lot o gwmni i w_gilydd . 863735_867648
+*AVR:	oh@s:cym&spa ia mae Robert@s:cym&spa hi a Robert@s:cym&spa yn lot o gwmni i'w_gilydd . 863735_867648
 %eng:	oh yes, her Robert and Robert are good company to each other.
 *CHT:	(yn)dyn (yn)dyn . 868182_868902
 %eng:	yes, yes.
@@ -917,7 +917,7 @@
 %eng:	um, a cold valley, something like that.
 *CHT:	a wel (..) mae hi (y)n aros ei hunan amser hynny ond +... 889289_893853
 %eng:	and, well, she stays by herself then, but...
-*AVR:	ie ond er@s:cym&spa dyna bentre [?] ei gartef o neu [?] mae o (y)n byw rŵan +/. 894052_897262
+*AVR:	ie ond er@s:cym&spa dyna bentre [?] ei gartref o neu [?] mae o (y)n byw rŵan +/. 894052_897262
 %eng:	yes, but that's his home town, or he's living now...
 *CHT:	na mae o (y)n byw yn Trevelin@s:cym&spa (.) efo Sally@s:cym&spa . 897064_899154
 %eng:	no, he lives in Trevelin with Sally.
@@ -944,7 +944,7 @@
 %eng:	and Ines...
 *CHT:	Jago@s:cym&spa i ddechrau dw i meddwl . 924323_925943
 %eng:	Jago to begin with, I think.
-*AVR:	ond oedd Ines@s:cym&spa yn fyw yn naw_deg_tri . 925940_927850
+*AVR:	ond oedd Ines@s:cym&spa yn fyw yn naw_deg tri . 925940_927850
 %eng:	but Ines was alive in ninety-three.
 *AVR:	pan o(eddw)n i yn Gymru oedd Ines@s:cym&spa yn byw . 927835_929809
 %eng:	when I was in Wales Ines was alive.
@@ -1651,6 +1651,6 @@
 %eng:	no.
 *CHT:	mae [/] mae (y)r arian yn mynd i bethau eraill (.) yn anffodus iawn . 1693967_1697348
 %eng:	the money goes on other things, most unfortunately.
-*AVR:	i poced rywyn arall . 1697407_1699206
+*AVR:	i poced rywun arall . 1697407_1699206
 %eng:	into someone else's pocket.
 @End

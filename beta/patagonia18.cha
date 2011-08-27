@@ -186,7 +186,7 @@
 %eng:	it's in Treorci
 *CAR:	Treorci@s:cym&spa . 128546_128978
 %eng:	Treorci
-*FRO:	sí@s:spa pero@s:spa &b ble (ddi)m yn gwbo(d) . 129050_131210
+*FRO:	sí@s:spa pero@s:spa &b ble (ddi)m yn gw(y)bo(d) . 129050_131210
 %eng:	yes, but where, I don't know
 *CAR:	+< ble claro@s:spa claro@s:spa sí@s:spa sí@s:spa . 130447_132404
 %eng:	where, right, of course, yes
@@ -247,9 +247,9 @@
 *CAR:	mm@s:cym&spa ? 210646_211584
 *FRO:	er@s:cym&spa a er@s:cym&spa +/. 211840_212864
 %eng:	and, er...
-*CAR:	ac wedyn wyt ti (y)n mynd yn syth <at yr asfalto@s:spa newydd> [//] (.) at yr hewl newydd . 212864_217440
+*CAR:	ac wedyn wyt ti (y)n mynd yn syth <at yr asfalto@s:spa newydd> [//] (.) at yr heol newydd . 212864_217440
 %eng:	and then you go straight to the new tarmac... to the new road
-%com:	'hewl' is southern Welsh dialect word meaning 'road'.
+%com:	'heol' is a southern Welsh word meaning 'road'.
 *FRO:	felly &a hasta@s:spa (.) eh@s:cym&spa eh@s:cym&spa y xxx . 217800_222344
 %eng:	so up to eh eh the [...]
 *CAR:	gornel el@s:spa (.) matadero@s:spa . 222526_224179
@@ -303,7 +303,7 @@
 %eng:	where is Nerys and Edward's farm?
 *FRO:	lle oedd y wagen (.) ddoe ? 260884_263199
 %eng:	where was the wagon yesterday?
-*CAR:	ody ah@s:cym&spa (.) ar lle maen nhw wneud yr hewl newydd . 263220_266964
+*CAR:	ody ah@s:cym&spa (.) ar lle maen nhw wneud yr heol newydd . 263220_266964
 %eng:	yes, by where they're doing the new road
 *FRO:	ah@s:cym&spa en@s:spa [/] en@s:spa grandura@s:spa ? 267167_268671
 %eng:	
@@ -344,7 +344,7 @@
 *CAR:	Pant_Y_March@s:cym&spa &=laugh . 303062_304235
 *CAR:	a rŵan fan (y)na dan ni (y)n mynd i lle Nerys@s:cym&spa . 305124_306852
 %eng:	and now there we go to Nerys's place
-*CAR:	dan ni (y)n croesi (y)r hewl newydd . 306862_308686
+*CAR:	dan ni (y)n croesi (y)r heol newydd . 306862_308686
 %eng:	we cross the new road
 *CAR:	groesi ddi . 309166_310073
 %eng:	cross it
@@ -356,9 +356,9 @@
 %eng:	and then that's it
 *CAR:	o fan (h)yn aeson ni oh@s:cym&spa (.) dwy mil metr i_lawr . 316138_320042
 %eng:	from here we went, oh, 2000 metres down
-*CAR:	a wedyn troi (.) a dan ni (y)n mynd i (y)r er@s:cym&spa (.) hewl newydd (.) entonces@s:spa . 320593_326492
+*CAR:	a wedyn troi (.) a dan ni (y)n mynd i (y)r er@s:cym&spa (.) heol newydd (.) entonces@s:spa . 320593_326492
 %eng:	and then turn and we go to the new road then
-*CAR:	pan gawson ni (y)r hewl newydd wel oedden ni (y)n mynd fel &=laugh +... 327272_332509
+*CAR:	pan gawson ni (y)r heol newydd wel oedden ni (y)n mynd fel &=laugh +... 327272_332509
 %eng:	when we got the new road, well, we used to go like...
 *FRO:	+< dyna pam oeddech chi (y)n cyrraedd mor gyflym . 330678_332492
 %eng:	that's why you arrived so quickly
@@ -473,7 +473,7 @@
 %eng:	"hail", Mum
 *RAQ:	beth ? 452154_452506
 %eng:	what?
-*CAR:	granizó@s:spa (.) yn [/] yn cymraeg be ydy o ? 452495_454943
+*CAR:	granizó@s:spa (.) yn [/] yn Cdásymraeg be ydy o ? 452495_454943
 %eng:	"hail", what is it in Welsh?
 *RAQ:	+< ia ? 453450_453882
 %eng:	yes?
@@ -545,7 +545,7 @@
 %eng:	were they ok, then?
 *CAR:	[- eng] sí sí . 514426_515205
 %eng:	yes yes
-*CAR:	y como@s:spa xxx llovía y hacía frío . 516512_518896
+*CAR:	[- spa] y como xxx llovía y hacía frío . 516512_518896
 %eng:	and how [...] it rained and it was cold
 *CAR:	[- spa] claro . 519110_519633
 %eng:	of course
@@ -617,7 +617,7 @@
 %eng:	there's a piece of...
 *FRO:	<mae (y)na> [/] mae (y)na masîn fan (y)na ? 600477_602195
 %eng:	there's a machine there?
-*CAR:	masîn y vialidad@s:spa o(edde)n nhw yn pasio ar yr hewlydd ers blynyddoedd yn_ôl . 602772_606612
+*CAR:	masîn y vialidad@s:spa o(edde)n nhw yn pasio ar yr heolydd ers blynyddoedd yn_ôl . 602772_606612
 %eng:	a road machine they used to pass along the roads years ago
 *FRO:	[- spa] una aplanadora . 607287_608397
 %eng:	a steamroller
@@ -670,7 +670,7 @@
 *FRO:	eh@s:cym&spa tu_ôl yr er@s:cym&spa el@s:spa taller@s:spa de@s:spa xxx . 680176_683664
 %eng:	eh, behind the
 *CAR:	oh@s:cym&spa . 684262_684988
-*FRO:	a wnaeson ni (.) gyrru nhw i [/] (.) i fewn_i [/] (..) i gael wel wel (.) garaje@s:spa xx +... 685017_694766
+*FRO:	a wnaeson ni (.) gyrru nhw i [/] (.) i_fewn i [/] (..) i gael wel wel (.) garaje@s:spa xx +... 685017_694766
 %eng:	and we drove them into, to get, well... garage [...]...
 %com:	garaje@s:es~garej - should these be "@s:cy&es" ??
 *FRO:	eh@s:cym&spa (.) la@s:spa señora@s:spa (.) bueno@s:spa la@s:spa mujer@s:spa que@s:spa era@s:spa peluquera@s:spa en@s:spa puerta@s:spa (.) efo Tudur@s:cym&spa . 694792_705565
@@ -822,7 +822,7 @@
 %com:	cribinio is an archaic verb found in the GPC, meaning 'to rake'
 *CAR:	oedden nhw (y)n torri (y)r gwair ac wedyn oedden nhw (y)n cribinio fo (.) efo (y)r cribin (y)ma . 862275_865721
 %eng:	they were cutting the hay and then they were raking with this rake
-*FRO:	felly mae (y)na reaper [?] ? 867267_868729
+*FRO:	felly mae (y)na reaper@s:eng [?] ? 867267_868729
 %eng:	so there's a reaper?
 *CAR:	ia . 868867_869475
 %eng:	yes
@@ -844,13 +844,13 @@
 %eng:	that's it, yes
 *CAR:	[- spa] claro . 886604_887399
 %eng:	of course
-*CAR:	o(edde)n nhw (y)n hel yr gwair i (y)r dás gynta . 889520_892282
+*CAR:	o(edde)n nhw (y)n hel yr gwair i (y)r das gynta . 889520_892282
 %eng:	they used to gather the hay for the first stack
-*CAR:	wneud tás o wair . 892464_893488
+*CAR:	wneud tas o wair . 892464_893488
 %eng:	making a haystack
 *CAR:	a wedyn o(edde)n nhw (y)n presio hi . 893657_895236
 %eng:	and then they used to press it
-*FRO:	claro@s:spa <maen nhw> [//] o(edde)n nhw (y)n wneud tás . 897199_898671
+*FRO:	claro@s:spa <maen nhw> [//] o(edde)n nhw (y)n wneud tas . 897199_898671
 %eng:	of course, they were making a stack
 *CAR:	ia claro@s:spa . 898958_899769
 %eng:	yes, of course
@@ -969,7 +969,7 @@
 %eng:	and you've got the press?
 *CAR:	près xxx oes oes oes . 1002727_1004695
 %eng:	a press [...], yes yes
-*FRO:	mae gennych chi (y)r holl er@s:cym&spa (..) xxx mashîns . 1004725_1008389
+*FRO:	mae gennych chi (y)r holl er@s:cym&spa (..) xxx masîns . 1004725_1008389
 %eng:	you've got all the [...] machines?
 *RAQ:	+< xxx . 1006962_1008456
 *CAR:	[- spa] claro . 1008591_1009125
@@ -1470,7 +1470,7 @@
 %eng:	it's high...
 *FRO:	acho(s) +/. 1545595_1546203
 %eng:	because...
-*CAR:	que@s:spa grosor@s:spa tendrá@s:spa la pared@s:spa (..) el@s:spa túnel@s:spa ? 1546593_1553015
+*CAR:	[- spa] que grosor tendrá la pared (..) el túnel ? 1546593_1553015
 %eng:	what thickness would the wall have, the tunnel ?
 *CAR:	[- spa] sí . 1552406_1553675
 %eng:	yes
@@ -1710,7 +1710,7 @@
 %eng:	many
 *CAR:	[- spa] muchos salvavidas sí . 1805301_1806447
 %eng:	many lifeguards, yes
-*FRO:	bob xxx can meter mae (y)na un (.) grŵp . 1805995_1810022
+*FRO:	bob xxx can metr mae (y)na un (.) grŵp . 1805995_1810022
 %eng:	every [...] hundred metres there's a group
 *CAR:	[- spa] +< un tipo de eso . 1809393_1810150
 %eng:	one of those types
@@ -1720,7 +1720,7 @@
 %eng:	and they're working, right, for [...]
 *CAR:	+< gweithio sí@s:spa sí@s:spa . 1810550_1813478
 %eng:	working, yes
-*RAQ:	dw i (y)n rhoi nhw fana (.) i ni gael neud +... 1814909_1817421
+*RAQ:	dw i (y)n rhoi nhw fan (yn)a (.) i ni gael neud +... 1814909_1817421
 %eng:	I'm putting them there so we can make...
 *CAR:	+< ah@s:cym&spa . 1816350_1816718
 *CAR:	[- spa] claro . 1818786_1819362
