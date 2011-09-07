@@ -13,7 +13,7 @@
 @Media:	Patagonia15, audio
 @Comment:	Filename: Patagonia15.cha; Soundfile: Patagonia15.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-*NIN:	dw i (e)isiau er@s:cym@s:cym&esspa (.) dysgu er@s:cym@s:cym&esspa ein hen iaith (y)da ni we(di) +//. 27_3653
+*NIN:	dw i (e)isiau er@s:cym&spa (.) dysgu er@s:cym&spa ein hen iaith (y)da ni we(di) +//. 27_3653
 %eng:	I want to learn our old language that we've...
 *SAV:	[- spa] +< claro . 0_0
 %eng:	sure.
@@ -21,13 +21,13 @@
 %eng:	still learning.
 *NIN:	ein hen iaith (y)da ni wedi +//. 4784_5803
 %eng:	our old language that we've...
-*NIN:	i dweud er@s:cym@s:cym&esspa +... 6074_7370
+*NIN:	i dweud er@s:cym&spa +... 6074_7370
 %eng:	to say er...
 *SAV:	mewn cyfarfod . 7328_8394
 %eng:	in a meeting.
 *NIN:	na . 8554_8965
 %eng:	no.
-*NIN:	e@s:cym@s:cym&esspa &w er@s:cym@s:cym&esspa <yn yr> [//] yn y capel . 8948_11092
+*NIN:	e@s:cym&spa &w er@s:cym&spa <yn yr> [//] yn y capel . 8948_11092
 %eng:	er, in chapel.
 *SAV:	debyg iawn . 11140_11812
 %eng:	of course.
@@ -35,7 +35,7 @@
 %eng:	maybe.
 *SAV:	mewn cyfarfod yn y capel . 11812_13353
 %eng:	in a meeting in the chapel.
-*NIN:	mm@s:cym@s:cym&esspa . 13273_13673
+*NIN:	mm@s:cym&spa . 13273_13673
 *SAV:	wel (dy)na fo . 14840_15544
 %eng:	well, there we go.
 *SAV:	(w)nawn ni (.) analizar@s:spa hi (y)n iawn . 16403_18483
@@ -44,9 +44,9 @@
 %eng:	because it's good.
 *SAV:	a mae (y)r (.) &g gorffen &a yn hyfryd . 20269_23352
 %eng:	and the finish is lovely.
-*NIN:	a [/] a dysgu um@s:cym@s:cym&esspa [//] er@s:cym@s:cym&esspa holl +... 23422_27086
+*NIN:	a [/] a dysgu um@s:cym&spa [//] er@s:cym&spa holl +... 23422_27086
 %eng:	and learn um, all the...
-*NIN:	[- spa] &n no er@s:cym@s:cym&esspa . 29341_30792
+*NIN:	[- spa] &n no er@s:cym&spa . 29341_30792
 %eng:	no, er...
 *NIN:	[- spa] &t tiene que elegir cuatro . 31517_33037
 %eng:	you have to choose four...
@@ -68,7 +68,7 @@
 %eng:	you couldn't give...
 *NIN:	[- spa] no no no . 50389_51317
 %eng:	no no no.
-*SAV:	[- spa] e@s:cym@s:cym&esspa y [/] y lo que vos quieres si no lo sabía dien . 51306_54135
+*SAV:	[- spa] e@s:cym&spa y [/] y lo que vos quieres si no lo sabía dien . 51306_54135
 %eng:	and what you want if you don't know.
 *NIN:	[- spa] +< pero siempre digo la mismo y nunca +/. 53501_55490
 %eng:	but I always say the same and nothing.
@@ -76,23 +76,23 @@
 %eng:	and yes, but it's good to start.
 *SAV:	[- spa] primero esta noche mirarélas una vez . 56798_59444
 %eng:	starting tonight, look at them once.
-*NIN:	[- spa] e@s:cym@s:cym&esspa lo +/. 59832_60243
+*NIN:	[- spa] e@s:cym&spa lo +/. 59832_60243
 %eng:	it...
 *SAV:	[- spa] y léelas de vez en cuando para que +/. 60137_62163
 %eng:	and read them every now and again so that...
 *NIN:	[- spa] +< y lo [/] lo voy haciendo eso . 61713_63260
 %eng:	and I'm going to do that.
-*NIN:	xxx compré@s:spa un@s:spa rhaglen a@s:spa Mari@s:cym@s:cym&esspa . 64508_67073
+*NIN:	xxx compré@s:spa un@s:spa rhaglen a@s:spa Mari@s:cym&spa . 64508_67073
 %eng:	[...] I bought a programme for Mari.
 *NIN:	[- spa] para que se lo lleve también . 67974_69393
 %eng:	so that she can take it too.
 *SAV:	[- spa] claro . 69457_70513
 %eng:	sure.
-*SAV:	[- spa] claro porque um@s:cym@s:cym&esspa +... 71497_73087
+*SAV:	[- spa] claro porque um@s:cym&spa +... 71497_73087
 %eng:	sure because um...
 *NIN:	[- spa] +< y a &m +/. 71593_72543
 %eng:	and...
-*NIN:	[- spa] y a Mari@s:cym@s:cym&esspa le dice que +/. 72665_73822
+*NIN:	[- spa] y a Mari@s:cym&spa le dice que +/. 72665_73822
 %eng:	and I said to Mari that...
 *SAV:	[- spa] no se puede darle el sentido que vos quieres (.) cuando la xx . 73711_78356
 %eng:	she can't know how it feels for you when the...
@@ -106,7 +106,7 @@
 %eng:	I'm going to forget.
 *NIN:	[- spa] +< en la letra . 82050_82952
 %eng:	[?]
-*NIN:	mm@s:cym@s:cym&esspa . 83026_83474
+*NIN:	mm@s:cym&spa . 83026_83474
 *SAV:	[- spa] y no puede darle . 84076_84977
 %eng:	and you could never explain to her.
 *SAV:	[- spa] lo que vos sentís . 84972_85927
@@ -174,7 +174,7 @@
 %eng:	and so.
 *SAV:	[- spa] no pero bueno . 142855_144471
 %eng:	no but, so.
-*NIN:	+< um@s:cym@s:cym&esspa . 143591_144418
+*NIN:	+< um@s:cym&spa . 143591_144418
 *NIN:	[- spa] pero +... 145074_145911
 %eng:	but...
 *SAV:	[- spa] por qué ? 145922_146919
@@ -202,13 +202,13 @@
 %eng:	we were five and three got through.
 *SAV:	[- spa] y quién eran los otros xx ? 171693_173229
 %eng:	who were the others?
-*NIN:	[- spa] y el otro era &r (..) Diego@s:cym@s:cym&esspa . 173597_177018
+*NIN:	[- spa] y el otro era &r (..) Diego@s:cym&spa . 173597_177018
 %eng:	and the other was Diego.
-*SAV:	ah@s:cym@s:cym&esspa Diego@s:cym@s:cym&esspa . 179497_180585
+*SAV:	ah@s:cym&spa Diego@s:cym&spa . 179497_180585
 %eng:	ah, Diego.
-*NIN:	[- spa] y Claudia@s:cym@s:cym&esspa . 180723_182030
+*NIN:	[- spa] y Claudia@s:cym&spa . 180723_182030
 %eng:	and Claudia.
-*SAV:	oh@s:cym@s:cym&esspa o(eddw)n i (y)n falch bod Diego@s:cym@s:cym&esspa wedi cael y wobr eh@s:cym@s:cym&esspa . 182158_184830
+*SAV:	oh@s:cym&spa o(eddw)n i (y)n falch bod Diego@s:cym&spa wedi cael y wobr eh@s:cym&spa . 182158_184830
 %eng:	oh I was glad that Diego got the prize eh.
 *SAV:	yn y diwyn &s &i dinas diniweidrwydd . 186869_189231
 %eng:	in... innocence city.
@@ -217,15 +217,15 @@
 %eng:	it's nice.
 *SAV:	o(eddw)n i (y)n falch (.) bod o (we)di cael . 191100_192551
 %eng:	I was glad he got it.
-*NIN:	+< mmhm@s:cym@s:cym&esspa . 191879_192460
+*NIN:	+< mmhm@s:cym&spa . 191879_192460
 %eng:	mmhm.
-*SAV:	oedd Alwen@s:cym@s:cym&esspa ddim cystal ag arfer . 194726_196742
+*SAV:	oedd Alwen@s:cym&spa ddim cystal ag arfer . 194726_196742
 %eng:	Alwen wasn't as good as she usually is.
 *NIN:	+< neis . 194854_195233
 %eng:	nice.
 *SAV:	(dy)na fo os oedd hi (we)di blino neu beth . 198437_200368
 %eng:	there we go... if she was tired or what.
-*NIN:	+< mm@s:cym@s:cym&esspa . 198442_198928
+*NIN:	+< mm@s:cym&spa . 198442_198928
 %eng:	mm.
 *SAV:	[- spa] me faltaba +... 201274_202352
 %eng:	I didn't have...
@@ -233,16 +233,16 @@
 %eng:	[...]
 *NIN:	xxx . 202368_202682
 %eng:	[...]
-*SAV:	[- spa] me faltaba e@s:cym@s:cym&esspa +/. 202986_204202
+*SAV:	[- spa] me faltaba e@s:cym&spa +/. 202986_204202
 %eng:	I didn't have...
 *NIN:	[- spa] en (.) xxx . 203930_206259
 %eng:	in [...]
 %com:	fan (y)no es i ?? I'm not sure what she's saying. . same in lines 118, 119, 133 .
-*SAV:	mm@s:cym@s:cym&esspa ? 206520_207182
+*SAV:	mm@s:cym&spa ? 206520_207182
 %eng:	mm?
 *NIN:	xxx . 207630_208611
 %eng:	[...]
-*NIN:	e@s:cym@s:cym&esspa en@s:spa er@s:cym@s:cym&esspa yn adrodd yn xxx . 209113_212439
+*NIN:	e@s:cym&spa en@s:spa er@s:cym&spa yn adrodd yn xxx . 209113_212439
 %eng:	reciting in [...]
 *NIN:	roedd hi &n wedi (..) &c cymysgu ? 212790_217007
 %eng:	she got mixed up.
@@ -254,52 +254,52 @@
 %eng:	mixed up?
 *NIN:	cymysgu yr geiriau . 218825_220550
 %eng:	mixed up the words.
-*SAV:	ah@s:cym@s:cym&esspa wel oedd &g [//] o(eddw)n i ddim wedi mynd ar +/. 221694_223673
+*SAV:	ah@s:cym&spa wel oedd &g [//] o(eddw)n i ddim wedi mynd ar +/. 221694_223673
 %eng:	ah, well I hadn't been on...
 *NIN:	dw i ddim yn gwybod yn rheina sy(dd) (y)n Diwineidrwydd . 223652_227901
 %eng:	I don't know those in Innocence.
 %com:	I think this is what she's saying but I don't know what she's referring to.
-*NIN:	achos er@s:cym@s:cym&esspa dywedodd Sylvia@s:cym@s:cym&esspa +"/. 227720_229613
+*NIN:	achos er@s:cym&spa dywedodd Sylvia@s:cym&spa +"/. 227720_229613
 %eng:	because Sylvia said:
 *NIN:	+" mae wedi (.) cymysgu pop(eth) +/. 229757_231384
 %eng:	she's mixed everything up.
-*SAV:	ah@s:cym@s:cym&esspa ah@s:cym@s:cym&esspa ah@s:cym@s:cym&esspa ah@s:cym@s:cym&esspa . 231619_232750
+*SAV:	ah@s:cym&spa ah@s:cym&spa ah@s:cym&spa ah@s:cym&spa . 231619_232750
 %eng:	ah.
 *SAV:	nes i (ddi)m sylwi ar hynny . 232723_233918
 %eng:	I didn't notice that.
 *SAV:	achos o(eddw)n i (ddi)m wedi mynd i (y)r +/. 233854_234867
 %eng:	because I hadn't gone to...
-*NIN:	&w wedi ennill er@s:cym@s:cym&esspa +... 234851_236977
+*NIN:	&w wedi ennill er@s:cym&spa +... 234851_236977
 %eng:	won er...
 *SAV:	pwy enillodd xxx ? 236940_238380
 %eng:	who won [...]?
-*NIN:	um@s:cym@s:cym&esspa (..) Sylvia@s:cym@s:cym&esspa . 239165_241459
+*NIN:	um@s:cym&spa (..) Sylvia@s:cym&spa . 239165_241459
 %eng:	um, Sylvia.
-*SAV:	Sylvia@s:cym@s:cym&esspa ? 242311_242887
+*SAV:	Sylvia@s:cym&spa ? 242311_242887
 %eng:	Sylvia.
-*NIN:	Sylvia@s:cym@s:cym&esspa ie . 243831_245036
+*NIN:	Sylvia@s:cym&spa ie . 243831_245036
 %eng:	Sylvia, yes.
-*SAV:	aha@s:cym@s:cym&esspa . 244997_245637
+*SAV:	aha@s:cym&spa . 244997_245637
 %eng:	aha.
-*SAV:	oedd Rhiannon@s:cym@s:cym&esspa ddim yn adrodd leni ? 246136_247693
+*SAV:	oedd Rhiannon@s:cym&spa ddim yn adrodd leni ? 246136_247693
 %eng:	Rhiannon wasn't reciting this year?
 *NIN:	na . 247688_248093
 %eng:	no.
-*SAV:	er@s:cym@s:cym&esspa gormod o bethau hir gyda (y)r côr a +/. 249738_252127
+*SAV:	er@s:cym&spa gormod o bethau hir gyda (y)r côr a +/. 249738_252127
 %eng:	er, too many long things with the choir and...
 *NIN:	achos &m mae hi (y)n arweinydd côr eleni . 252090_254792
 %eng:	because she's leading a choir this year.
 *NIN:	a lot o bethau i wneud . 255672_257528
 %eng:	and a lot to do.
-*SAV:	+< mm@s:cym@s:cym&esspa . 257043_257613
+*SAV:	+< mm@s:cym&spa . 257043_257613
 %eng:	mm.
-*SAV:	sut mae gŵr er@s:cym@s:cym&esspa +... 259048_260568
+*SAV:	sut mae gŵr er@s:cym&spa +... 259048_260568
 %eng:	how is, er... [...] s husband?
-*SAV:	um@s:cym@s:cym&esspa +... 264475_265825
+*SAV:	um@s:cym&spa +... 264475_265825
 %eng:	um...
-*SAV:	oh@s:cym@s:cym&esspa Elen@s:cym@s:cym&esspa . 267091_268179
+*SAV:	oh@s:cym&spa Elen@s:cym&spa . 267091_268179
 %eng:	oh, Elen's.
-*NIN:	+< Elen@s:cym@s:cym&esspa . 267400_267800
+*NIN:	+< Elen@s:cym&spa . 267400_267800
 %eng:	Elen.
 *NIN:	nhw . 268291_268739
 %eng:	them.
@@ -309,31 +309,31 @@
 %eng:	I don't know.
 *NIN:	na dw i ddim yn gwybod . 270136_271315
 %eng:	I don't know.
-*NIN:	na na (.) na um@s:cym@s:cym&esspa . 271420_273294
+*NIN:	na na (.) na um@s:cym&spa . 271420_273294
 %eng:	no, no um.
-*SAV:	+< ah@s:cym@s:cym&esspa ti (ddi)m +/. 271420_272481
+*SAV:	+< ah@s:cym&spa ti (ddi)m +/. 271420_272481
 %eng:	ah.
-*NIN:	&m mae o (y)n aros dim ond i [/] i wneud um@s:cym@s:cym&esspa (...) er@s:cym@s:cym&esspa triniaeth . 273095_280411
+*NIN:	&m mae o (y)n aros dim ond i [/] i wneud um@s:cym&spa (...) er@s:cym&spa triniaeth . 273095_280411
 %eng:	he's only waiting to be treated now.
 *SAV:	+< welaist di ddim ohono fo? 273591_274765
 %eng:	you didn't see him?
 *NIN:	[- spa] tratamiento ? 281304_282173
 %eng:	treatment?
-*SAV:	mm@s:cym@s:cym&esspa ? 282280_282632
+*SAV:	mm@s:cym&spa ? 282280_282632
 %eng:	mm?
 *NIN:	[- spa] tratamiento . 283041_284097
 %eng:	treatment.
-*SAV:	ah@s:cym@s:cym&esspa trin(iaeth) [/] trin(iaeth) . 284837_286133
+*SAV:	ah@s:cym&spa trin(iaeth) [/] trin(iaeth) . 284837_286133
 %eng:	ah, treatment.
 *NIN:	+< trin(iaeth) triniaeth . 285535_286549
 %eng:	treatment.
 *SAV:	triniaeth ie . 286581_287354
 %eng:	treatment, yes.
-*SAV:	be mae o yn Buenos_Aires@s:cym@s:cym&esspa ? 288769_290956
+*SAV:	be mae o yn Buenos_Aires@s:cym&spa ? 288769_290956
 %eng:	what, he's in Buenos Aires?
-*NIN:	[- spa] +< er@s:cym@s:cym&esspa rayos . 288828_290855
+*NIN:	[- spa] +< er@s:cym&spa rayos . 288828_290855
 %eng:	er, rays.
-*SAV:	aha@s:cym@s:cym&esspa . 292721_293382
+*SAV:	aha@s:cym&spa . 292721_293382
 %eng:	aha.
 *NIN:	[- spa] &p pero (.) dos segundos por día . 294231_297036
 %eng:	but two seconds each day.
@@ -341,28 +341,28 @@
 %eng:	it's two...
 *NIN:	[- spa] o una cosa así . 297532_298540
 %eng:	or something like that.
-*SAV:	aha@s:cym@s:cym&esspa . 297916_298540
+*SAV:	aha@s:cym&spa . 297916_298540
 %eng:	aha.
 *NIN:	[- spa] no . 299002_299232
 %eng:	no.
 *NIN:	[- spa] dos minutos por día . 299200_300346
 %eng:	two minutes each day.
-*SAV:	oh@s:cym@s:cym&esspa . 300378_301056
+*SAV:	oh@s:cym&spa . 300378_301056
 %eng:	oh.
 *NIN:	wel . 303410_304472
 %eng:	well.
-*NIN:	roedd (.) iddo fo &n eistedd yn Buenos_Aires@s:cym@s:cym&esspa . 305289_309065
+*NIN:	roedd (.) iddo fo &n eistedd yn Buenos_Aires@s:cym&spa . 305289_309065
 %eng:	he was sitting in Buenos Aires.
 *NIN:	yn eistedd yn car +//. 309145_310297
 %eng:	sitting in the car.
-*NIN:	yn [/] yn aros yn Buenos_Aires@s:cym@s:cym&esspa . 310307_312238
+*NIN:	yn [/] yn aros yn Buenos_Aires@s:cym&spa . 310307_312238
 %eng:	staying in Buenos Aires.
-*SAV:	mm@s:cym@s:cym&esspa . 312243_313017
+*SAV:	mm@s:cym&spa . 312243_313017
 %eng:	mm.
 *SAV:	oes gyda fo ferch yn byw o gwbl ? 313515_315595
 %eng:	does he have a daughter at all?
 *NIN:	+< &=noise . 313957_314432
-*NIN:	ti (y)n gwybod rywbeth am Marco_Grug@s:cym@s:cym&esspa ? 314389_317051
+*NIN:	ti (y)n gwybod rywbeth am Marco_Grug@s:cym&spa ? 314389_317051
 %eng:	do you know anything about Marco Grug?
 *SAV:	na . 318272_318918
 %eng:	no.
@@ -372,17 +372,17 @@
 %eng:	it's good news.
 *SAV:	(y)di o (we)di cael oparesion ? 323456_324698
 %eng:	has he had an operation?
-*NIN:	achos um@s:cym@s:cym&esspa &w er@s:cym@s:cym&esspa wedi wneud er@s:cym@s:cym&esspa ddoe . 324981_329201
+*NIN:	achos um@s:cym&spa &w er@s:cym&spa wedi wneud er@s:cym&spa ddoe . 324981_329201
 %eng:	because um, er... done yesterday.
 *NIN:	dw i (y)n credu . 329292_329916
 %eng:	I think.
-*NIN:	um@s:cym@s:cym&esspa . 330428_332353
+*NIN:	um@s:cym&spa . 330428_332353
 %eng:	um.
-*NIN:	er@s:cym@s:cym&esspa . 332872_334632
+*NIN:	er@s:cym&spa . 332872_334632
 %eng:	er.
 *SAV:	+< mi(cro)@s:spa &c &m micro@s:spa . 333512_334733
 %eng:	micro.
-*NIN:	er@s:cym@s:cym&esspa . 335073_335958
+*NIN:	er@s:cym&spa . 335073_335958
 %eng:	er.
 *SAV:	[- spa] +< cirurgia ? 335073_335958
 %eng:	surgery?
@@ -390,7 +390,7 @@
 %eng:	study?
 *SAV:	[- spa] estudios . 337230_337881
 %eng:	studies?
-*NIN:	un@s:spa estudio@s:spa (.) para@s:spa la@s:spa (.) [/] la@s:spa mm@s:cym@s:cym&esspa por@s:spa y (.) llawdriniaeth . 338190_344684
+*NIN:	un@s:spa estudio@s:spa (.) para@s:spa la@s:spa (.) [/] la@s:spa mm@s:cym&spa por@s:spa y (.) llawdriniaeth . 338190_344684
 %eng:	a study for the surgery.
 *NIN:	[- spa] para la operación . 345891_346889
 %eng:	for the operation.
@@ -418,29 +418,29 @@
 %eng:	they didn't have to open me up.
 *NIN:	[- spa] a las cuatro (.) &da me dan la fecha de la intervención . 365458_369581
 %eng:	at 4 they gave me the date of the operation.
-*SAV:	+< ooh@s:cym@s:cym&esspa . 365511_366978
+*SAV:	+< ooh@s:cym&spa . 365511_366978
 %eng:	ooh.
 *NIN:	[- spa] es un milagro . 372208_373024
 %eng:	it's a miracle.
-*SAV:	[- spa] eh@s:cym@s:cym&esspa no . 373226_374064
+*SAV:	[- spa] eh@s:cym&spa no . 373226_374064
 %eng:	eh, no.
 *NIN:	[- spa] y eso le mandé de vuelta . 373882_375338
 %eng:	and they sent it back.
-*NIN:	um@s:cym@s:cym&esspa . 375664_376923
+*NIN:	um@s:cym&spa . 375664_376923
 %eng:	um.
-*NIN:	er@s:cym@s:cym&esspa . 377525_378677
+*NIN:	er@s:cym&spa . 377525_378677
 %eng:	er.
 *NIN:	[- spa] es un milagro . 378996_380228
 %eng:	it's a miracle.
-*NIN:	[- spa] es er@s:cym@s:cym&esspa es +//. 380265_381359
+*NIN:	[- spa] es er@s:cym&spa es +//. 380265_381359
 %eng:	it's er... it's...
 *NIN:	[- spa] esto es una respuesta a las oraciones . 381375_383658
 %eng:	this is an answer to my prayers.
 *NIN:	[- spa] lo xxx señor . 383663_384970
 %eng:	it [...] man.
-*SAV:	+< mm@s:cym@s:cym&esspa . 383679_384378
+*SAV:	+< mm@s:cym&spa . 383679_384378
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 385071_385492
+*SAV:	mm@s:cym&spa . 385071_385492
 %eng:	mm.
 *NIN:	[- spa] raramente . 386225_387009
 %eng:	rarely.
@@ -454,17 +454,17 @@
 %eng:	look how in the...
 *NIN:	[- spa] en los mensajes decía . 391876_393401
 %eng:	in the messages he said.
-*NIN:	[- spa] er@s:cym@s:cym&esspa que el . 393975_395420
+*NIN:	[- spa] er@s:cym&spa que el . 393975_395420
 %eng:	er, that he...
 *NIN:	[- spa] ese lo (.) le podrían reparar . 395699_397656
 %eng:	they could repair this.
 *NIN:	[- spa] esta valvuloplastía (.) es una reparar la válvula . 397635_402491
 %eng:	this valvuloplasty is a... to repair the valve.
-*SAV:	+< mm@s:cym@s:cym&esspa . 399233_399814
+*SAV:	+< mm@s:cym&spa . 399233_399814
 %eng:	mm.
 *SAV:	[- spa] y cómo hacen eso sin abrir ? 402646_404716
 %eng:	and how did they do this without opening?
-*NIN:	[- spa] e@s:cym@s:cym&esspa no sé . 405397_406133
+*NIN:	[- spa] e@s:cym&spa no sé . 405397_406133
 %eng:	I don't know.
 *NIN:	[- spa] xxx con una microcirurgia o una cosa así . 406080_409844
 %eng:	[...] with microsurgery or something like that.
@@ -478,7 +478,7 @@
 %eng:	so that they wouldn't have to...
 *NIN:	[- spa] se imagina que la recuperación es mucho mejor también . 421995_424528
 %eng:	you can imagine that recovery is better as well.
-*SAV:	+< mm@s:cym@s:cym&esspa . 422075_422603
+*SAV:	+< mm@s:cym&spa . 422075_422603
 %eng:	mm.
 *SAV:	[- spa] +< y claro . 423968_425048
 %eng:	and, sure.
@@ -492,27 +492,27 @@
 %eng:	[...]
 *NIN:	[- spa] me sigue xxx que el había hablado con ella también . 430569_433564
 %eng:	[...] that he'd spoken to her too.
-*SAV:	aha@s:cym@s:cym&esspa . 433554_434231
+*SAV:	aha@s:cym&spa . 433554_434231
 %eng:	aha.
 *NIN:	[- spa] chocho . 434220_434738
 %eng:	[...]
-*SAV:	[- spa] le prestaron el &l auto a (..) Gwilym@s:cym@s:cym&esspa e@s:cym@s:cym&esspa ? 435305_439467
+*SAV:	[- spa] le prestaron el &l auto a (..) Gwilym@s:cym&spa e@s:cym&spa ? 435305_439467
 %eng:	did they lend Gwilym the car?
 *NIN:	[- spa] me parece que sí no . 439438_440937
 %eng:	I think so.
-*SAV:	ah@s:cym@s:cym&esspa . 440942_441305
+*SAV:	ah@s:cym&spa . 440942_441305
 %eng:	ah.
 *SAV:	[- spa] <no sé> [/] no sé . 441267_442073
 %eng:	I don't know.
 *SAV:	[- spa] claro . 443954_444242
 %eng:	sure.
-*SAV:	xxx Gwilym@s:cym@s:cym&esspa . 444221_446413
+*SAV:	xxx Gwilym@s:cym&spa . 444221_446413
 %eng:	[...] Gwilym.
-*NIN:	[- spa] pero le van a comprar un auto a Jorge@s:cym@s:cym&esspa también . 446803_449517
+*NIN:	[- spa] pero le van a comprar un auto a Jorge@s:cym&spa también . 446803_449517
 %eng:	but they're going to buy Jorge a car too.
-*NIN:	[- spa] y darle ese auto a Gwilym@s:cym@s:cym&esspa . 449766_451617
+*NIN:	[- spa] y darle ese auto a Gwilym@s:cym&spa . 449766_451617
 %eng:	and give the other car to Gwilym.
-*NIN:	[- spa] porque Eleanora@s:cym@s:cym&esspa obtenía dinero para eso . 453052_455068
+*NIN:	[- spa] porque Eleanora@s:cym&spa obtenía dinero para eso . 453052_455068
 %eng:	because Eleanora gets money for this.
 *SAV:	[- spa] sí ? 455532_456135
 %eng:	yes.
@@ -520,19 +520,19 @@
 %eng:	yes.
 *NIN:	[- spa] creo obtenían unos veinte mil pesos . 458047_460138
 %eng:	I think they're getting around 20, 000 pesos.
-*NIN:	[- spa] y le iban a comprar un auto más nuevo a Jorge@s:cym@s:cym&esspa . 460655_463722
+*NIN:	[- spa] y le iban a comprar un auto más nuevo a Jorge@s:cym&spa . 460655_463722
 %eng:	and they were going to buy a newer car for Jorge.
 *SAV:	[- spa] sí . 463733_464229
 %eng:	yes.
-*NIN:	[- spa] y por un momento que éste irá a Gwilym@s:cym@s:cym&esspa . 464772_466950
+*NIN:	[- spa] y por un momento que éste irá a Gwilym@s:cym&spa . 464772_466950
 %eng:	and the other one will go to Gwilym for a bit.
 *NIN:	[- spa] le iban a &d dar y +/. 466961_468001
 %eng:	they're going to give and...
 *SAV:	[- spa] y despues vender . 467910_468829
 %eng:	and then sell afterwards.
-*NIN:	[- spa] y despues (.) que se vaya a Gwilym@s:cym@s:cym&esspa le iban a vender . 468834_471112
+*NIN:	[- spa] y despues (.) que se vaya a Gwilym@s:cym&spa le iban a vender . 468834_471112
 %eng:	and after Gwilym leaves they're going to sell it.
-*SAV:	[- spa] ah@s:cym@s:cym&esspa mira que bien . 471118_472248
+*SAV:	[- spa] ah@s:cym&spa mira que bien . 471118_472248
 %eng:	ah that's good.
 *SAV:	[- spa] no [/] no sabía . 472222_473128
 %eng:	he didn't know.
@@ -543,75 +543,75 @@
 %eng:	he was...
 *NIN:	roedd . 477301_477877
 %eng:	he was...
-*NIN:	roedd [/] roedd Gwilym@s:cym@s:cym&esspa yn &n &n yn tŷ Barbara@s:cym@s:cym&esspa . 478242_481314
+*NIN:	roedd [/] roedd Gwilym@s:cym&spa yn &n &n yn tŷ Barbara@s:cym&spa . 478242_481314
 %eng:	Gwilym was in Barbara's house.
-*NIN:	a roedd o (y)n er@s:cym@s:cym&esspa (.) dawnsio . 481925_485055
+*NIN:	a roedd o (y)n er@s:cym&spa (.) dawnsio . 481925_485055
 %eng:	and he was, er, dancing.
 *SAV:	pwy oedd ? 485455_485823
 %eng:	who was?
-*SAV:	Gwilym@s:cym@s:cym&esspa ? 485850_486244
+*SAV:	Gwilym@s:cym&spa ? 485850_486244
 %eng:	Gwilym?
-*NIN:	Gwilym@s:cym@s:cym&esspa xxx dawnsio . 486383_487556
+*NIN:	Gwilym@s:cym&spa xxx dawnsio . 486383_487556
 %eng:	Gwilym [...] dancing.
-*NIN:	er@s:cym@s:cym&esspa . 487636_488191
+*NIN:	er@s:cym&spa . 487636_488191
 %eng:	er.
 *SAV:	&=laugh . 488311_488887
 *NIN:	samba@s:cym&spa neu &m +... 488973_490490
 %eng:	samba or...
-*NIN:	dw i (ddi)m yn gwybod um@s:cym@s:cym&esspa . 490474_491477
+*NIN:	dw i (ddi)m yn gwybod um@s:cym&spa . 490474_491477
 %eng:	I don't know, um.
 *NIN:	rhywbeth o &=laugh . 491560_492712
 %eng:	something from...
-*NIN:	er@s:cym@s:cym&esspa &=laugh . 492576_493957
+*NIN:	er@s:cym&spa &=laugh . 492576_493957
 %eng:	er.
 *SAV:	[- spa] +< Argentina ? 492635_493408
 %eng:	Argentina?
 *NIN:	o Argentina@s:spa . 493926_494875
 %eng:	from Argentina.
-*NIN:	um@s:cym@s:cym&esspa [/] um@s:cym@s:cym&esspa . 495094_496310
+*NIN:	um@s:cym&spa [/] um@s:cym&spa . 495094_496310
 %eng:	um.
 *NIN:	gyda (.) panuelo@s:spa . 496553_498510
 %eng:	with a handkerchief.
 *SAV:	&=laugh . 498668_500167
 *NIN:	&=laugh . 498668_500167
-*NIN:	ag na &m er@s:cym@s:cym&esspa Belén@s:cym@s:cym&esspa . 500265_503662
+*NIN:	ag na &m er@s:cym&spa Belén@s:cym&spa . 500265_503662
 %eng:	and no er... Belén.
-*NIN:	Belén@s:cym@s:cym&esspa [/] Belén@s:cym@s:cym&esspa . 503849_505203
+*NIN:	Belén@s:cym&spa [/] Belén@s:cym&spa . 503849_505203
 %eng:	Belén.
 *SAV:	+< pwy ? 503918_504238
 %eng:	who?
-*SAV:	Torres@s:cym@s:cym&esspa ? 505166_505475
+*SAV:	Torres@s:cym&spa ? 505166_505475
 %eng:	Torres?
-*NIN:	Belén_Torres@s:cym@s:cym&esspa . 505550_506462
+*NIN:	Belén_Torres@s:cym&spa . 505550_506462
 %eng:	Belén Torres.
-*SAV:	ah@s:cym@s:cym&esspa . 506620_507442
+*SAV:	ah@s:cym&spa . 506620_507442
 %eng:	ah.
-*NIN:	achos er@s:cym@s:cym&esspa roedd Carlos_Alberto@s:cym@s:cym&esspa yn chwarae gitâr . 507586_510368
+*NIN:	achos er@s:cym&spa roedd Carlos_Alberto@s:cym&spa yn chwarae gitâr . 507586_510368
 %eng:	because er, Carlos Alberto was playing the guitar.
 *SAV:	&=laugh . 510341_511508
-*NIN:	ac yn canu Luna_Tucumana@s:cym@s:cym&esspa . 511466_513300
+*NIN:	ac yn canu Luna_Tucumana@s:cym&spa . 511466_513300
 %eng:	and singing Luna Tucumana.
 *SAV:	&=laugh . 513345_517222
 *NIN:	&=laugh . 514828_517201
-*NIN:	a &m er@s:cym@s:cym&esspa (.) aeth um@s:cym@s:cym&esspa (.) Belén@s:cym@s:cym&esspa i (y)r (.) tŷ bach . 517414_522564
+*NIN:	a &m er@s:cym&spa (.) aeth um@s:cym&spa (.) Belén@s:cym&spa i (y)r (.) tŷ bach . 517414_522564
 %eng:	and Belén went to the bathroom.
 *NIN:	na ? 522660_523097
 %eng:	no?
-*NIN:	a &p er@s:cym@s:cym&esspa (.) pan oe(dd) [//] oedd hi (y)n dod (y)n_ôl +/. 523220_526586
+*NIN:	a &p er@s:cym&spa (.) pan oe(dd) [//] oedd hi (y)n dod (y)n_ôl +/. 523220_526586
 %eng:	and er, when she came back...
 *SAV:	ie . 526784_527168
 %eng:	yes.
-*NIN:	um@s:cym@s:cym&esspa [//] er@s:cym@s:cym&esspa roedden nhw yn +//. 527280_530005
+*NIN:	um@s:cym&spa [//] er@s:cym&spa roedden nhw yn +//. 527280_530005
 %eng:	um, er, they were...
 *NIN:	roedden ni yn siarad . 530118_531307
 %eng:	we were talking.
-*NIN:	er@s:cym@s:cym&esspa yn canu (.) er@s:cym@s:cym&esspa Luna_Tucumana@s:cym@s:cym&esspa . 531254_534371
+*NIN:	er@s:cym&spa yn canu (.) er@s:cym&spa Luna_Tucumana@s:cym&spa . 531254_534371
 %eng:	er, singing Luna Tucumana.
 *SAV:	ie . 534366_534680
 %eng:	yes.
 *NIN:	a [/] a roedd hi (y)n (.) dawnsio . 535048_537165
 %eng:	and she was dancing.
-*NIN:	wel (.) gyda um@s:cym@s:cym&esspa (.) servilleta@s:spa . 537336_540535
+*NIN:	wel (.) gyda um@s:cym&spa (.) servilleta@s:spa . 537336_540535
 %eng:	well, with a serviet.
 *SAV:	&=laugh . 540562_542007
 *NIN:	+< na ? 540839_541292
@@ -623,52 +623,52 @@
 *NIN:	&=laugh . 543666_544087
 *SAV:	pwy roedd ? 544252_544823
 %eng:	who was?
-*SAV:	er@s:cym@s:cym&esspa [/] er@s:cym@s:cym&esspa Gwilym@s:cym@s:cym&esspa ? 544802_545618
+*SAV:	er@s:cym&spa [/] er@s:cym&spa Gwilym@s:cym&spa ? 544802_545618
 %eng:	er, Gwilym?
-*NIN:	na na &d dim ond Belén@s:cym@s:cym&esspa . 545623_547468
+*NIN:	na na &d dim ond Belén@s:cym&spa . 545623_547468
 %eng:	no, only Belén.
-*SAV:	ah@s:cym@s:cym&esspa Belén@s:cym@s:cym&esspa . 547839_548543
+*SAV:	ah@s:cym&spa Belén@s:cym&spa . 547839_548543
 %eng:	ah, Belén.
 *NIN:	&=laugh . 548863_550281
-*NIN:	[- spa] ay um@s:cym@s:cym&esspa er@s:cym@s:cym&esspa um@s:cym@s:cym&esspa . 550473_552848
+*NIN:	[- spa] ay um@s:cym&spa er@s:cym&spa um@s:cym&spa . 550473_552848
 %eng:	ay, um, er.
 *NIN:	roedd hi (y)n dweud +"/. 552971_553776
 %eng:	she was saying:
-*NIN:	um@s:cym@s:cym&esspa [//] er@s:cym@s:cym&esspa . 553840_555789
+*NIN:	um@s:cym&spa [//] er@s:cym&spa . 553840_555789
 %eng:	un, er.
-*NIN:	+" oh@s:cym@s:cym&esspa <dim yn> [//] dim er@s:cym@s:cym&esspa &n pareja@s:spa gyda fi . 555800_558806
+*NIN:	+" oh@s:cym&spa <dim yn> [//] dim er@s:cym&spa &n pareja@s:spa gyda fi . 555800_558806
 %eng:	oh, I haven't got a partner.
 *NIN:	+" dim pareja@s:spa gyda fi . 558806_559745
 %eng:	I haven't got a partner.
-*NIN:	a (.) [/] a roedd Gwilym@s:cym@s:cym&esspa yn [/] yn sefyll . 559980_562742
+*NIN:	a (.) [/] a roedd Gwilym@s:cym&spa yn [/] yn sefyll . 559980_562742
 %eng:	and Gwilym stood up.
 *NIN:	a &=laugh . 562776_564840
 %eng:	and...
 *SAV:	+< &=laugh . 562776_564840
 *NIN:	a dawnsio . 564794_565642
 %eng:	and danced.
-*NIN:	gyda &p (.) er@s:cym@s:cym&esspa panuelo@s:spa . 565738_567807
+*NIN:	gyda &p (.) er@s:cym&spa panuelo@s:spa . 565738_567807
 %eng:	with a handkerchief.
 *SAV:	ie . 567822_568276
 %eng:	yes.
-*NIN:	er@s:cym@s:cym&esspa [/] er@s:cym@s:cym&esspa (.) Dewi@s:cym@s:cym&esspa ie ? 568388_570827
+*NIN:	er@s:cym&spa [/] er@s:cym&spa (.) Dewi@s:cym&spa ie ? 568388_570827
 %eng:	er, Dewi yes?
 *SAV:	ie [=! laughs] . 570805_572251
 %eng:	yes.
 *NIN:	+< &=laugh . 571157_572357
 *NIN:	a [/] a &dd oedd o (y)n sefyll fan (y)no fan (h)yn [/] fan (h)yn . 572386_575245
 %eng:	and he was standing there, here.
-*SAV:	oh@s:cym@s:cym&esspa . 575213_575853
+*SAV:	oh@s:cym&spa . 575213_575853
 %eng:	oh.
-*NIN:	a [/] a mm@s:cym@s:cym&esspa . 575367_576503
+*NIN:	a [/] a mm@s:cym&spa . 575367_576503
 %eng:	and, mm.
 *SAV:	[- spa] para filmarlos . 576461_577503
 %eng:	to film them.
-*NIN:	ah@s:cym@s:cym&esspa . 577503_577978
+*NIN:	ah@s:cym&spa . 577503_577978
 %eng:	ah.
-*NIN:	er@s:cym@s:cym&esspa wel . 579375_580911
+*NIN:	er@s:cym&spa wel . 579375_580911
 %eng:	er, well.
-*NIN:	e@s:cym@s:cym&esspa roedd um@s:cym@s:cym&esspa Dewi@s:cym@s:cym&esspa yn [/] yn tynnu llun . 581013_586189
+*NIN:	e@s:cym&spa roedd um@s:cym&spa Dewi@s:cym&spa yn [/] yn tynnu llun . 581013_586189
 %eng:	Dewi was taking a picture.
 *SAV:	+< &=laugh . 581149_582935
 *NIN:	oedd (.) dim yr un peth ia . 586294_588374
@@ -679,9 +679,9 @@
 *NIN:	a mm . 589889_590747
 %eng:	and mm.
 *NIN:	&=laugh . 590625_592443
-*NIN:	dwedodd John_Parry@s:cym@s:cym&esspa +"/. 592383_594356
+*NIN:	dwedodd John_Parry@s:cym&spa +"/. 592383_594356
 %eng:	John Parry said:
-*NIN:	+" os mae Gwilym@s:cym@s:cym&esspa yn (.) zapatear@s:spa +/. 594816_597835
+*NIN:	+" os mae Gwilym@s:cym&spa yn (.) zapatear@s:spa +/. 594816_597835
 %eng:	if Gwilym stamps his feet...
 *SAV:	ie . 597984_598379
 %eng:	yes.
@@ -691,39 +691,39 @@
 %eng:	here.
 *NIN:	&=laugh . 599959_604812
 *SAV:	+< &=laugh . 599959_604812
-*NIN:	es i i &m er@s:cym@s:cym&esspa Gwilym@s:cym@s:cym&esspa . 604811_607248
+*NIN:	es i i &m er@s:cym&spa Gwilym@s:cym&spa . 604811_607248
 %eng:	I went, er, Gwilym.
-*NIN:	a &m [/] a um@s:cym@s:cym&esspa dysgais i Gwilym@s:cym@s:cym&esspa i zapatero@s:spa . 607334_612782
+*NIN:	a &m [/] a um@s:cym&spa dysgais i Gwilym@s:cym&spa i zapatero@s:spa . 607334_612782
 %eng:	and I taught gwilym to stamp his feet.
 %com:	zapatear-o?
 *SAV:	ie . 612787_613203
 %eng:	yes.
 *NIN:	a &=laugh . 613187_614099
 %eng:	and.
-*NIN:	roedd [/] roedd Gwilym@s:cym@s:cym&esspa yn zapatear@s:spa . 614158_615987
+*NIN:	roedd [/] roedd Gwilym@s:cym&spa yn zapatear@s:spa . 614158_615987
 %eng:	Gwilym stamped his feet.
 *SAV:	ie . 615937_616471
 %eng:	yes.
-*SAV:	ac oedd o (y)n er@s:cym@s:cym&esspa gallu . 616487_617713
+*SAV:	ac oedd o (y)n er@s:cym&spa gallu . 616487_617713
 %eng:	and he could do it.
 *NIN:	+< oe(dd) [/] oe(dd) +/. 616732_617553
 %eng:	he could.
 *NIN:	&=laugh . 617580_618881
-*NIN:	a [=! laughs] roedd um@s:cym@s:cym&esspa +... 618870_620710
+*NIN:	a [=! laughs] roedd um@s:cym&spa +... 618870_620710
 %eng:	and um...
-*NIN:	+, er@s:cym@s:cym&esspa John_Parry@s:cym@s:cym&esspa yn [/] yn edrych ar [/] ar Gwilym@s:cym@s:cym&esspa . 620733_624152
+*NIN:	+, er@s:cym&spa John_Parry@s:cym&spa yn [/] yn edrych ar [/] ar Gwilym@s:cym&spa . 620733_624152
 %eng:	er, John Parry was looking at Gwilym.
 *SAV:	+< &s . 623773_624146
 *NIN:	[- spa] ay no . 624082_624973
 %eng:	ay, no.
 *SAV:	wnaeth o ddim marw chwaith . 625711_626932
 %eng:	he didn't die though.
-*NIN:	+< oh:@s:cym@s:cym&esspa . 626164_626788
+*NIN:	+< oh:@s:cym&spa . 626164_626788
 %eng:	oh.
 *NIN:	na na &=laugh . 627048_631352
 %eng:	no.
 *SAV:	+< &=laugh . 627048_631352
-*NIN:	a [=! laughs] roedd Gwen@s:cym@s:cym&esspa yn [/] yn wneud (.) um@s:cym@s:cym&esspa &m &m (.) taparse@s:spa los@s:spa &l los@s:spa ojos@s:spa xxx . 631368_636433
+*NIN:	a [=! laughs] roedd Gwen@s:cym&spa yn [/] yn wneud (.) um@s:cym&spa &m &m (.) taparse@s:spa los@s:spa &l los@s:spa ojos@s:spa xxx . 631368_636433
 %eng:	and Gwen was rolling her eyes.
 *NIN:	mae [/] mae +//. 636422_636881
 %eng:	[...]
@@ -741,9 +741,9 @@
 %eng:	yes, she is.
 *SAV:	yndy ? 640905_641502
 %eng:	is she?
-*NIN:	oh@s:cym@s:cym&esspa yndy [=! laughs] . 641489_643201
+*NIN:	oh@s:cym&spa yndy [=! laughs] . 641489_643201
 %eng:	oh, yes.
-*SAV:	+< aw@s:cym@s:cym&esspa . 642257_643148
+*SAV:	+< aw@s:cym&spa . 642257_643148
 %eng:	aw.
 *NIN:	ond . 643809_644449
 %eng:	but.
@@ -757,7 +757,7 @@
 %eng:	they're fantastic.
 *NIN:	a &m . 650265_651092
 %eng:	and...
-*NIN:	ro(eddw)n i (y)n um@s:cym@s:cym&esspa cyrraedd yn hwyr i (y)r capel . 651139_655354
+*NIN:	ro(eddw)n i (y)n um@s:cym&spa cyrraedd yn hwyr i (y)r capel . 651139_655354
 %eng:	I arrived late at the chapel.
 *NIN:	na ? 655381_655792
 %eng:	no?
@@ -765,16 +765,16 @@
 %eng:	and...
 *SAV:	pwy nawr yn cyrraedd yn hwyr ? 657375_658778
 %eng:	who arrived late?
-*NIN:	+< er@s:cym@s:cym&esspa . 658015_658751
+*NIN:	+< er@s:cym&spa . 658015_658751
 %eng:	er...
-*NIN:	Pilar@s:cym@s:cym&esspa (.) a fy mhlant a fi . 658782_661742
+*NIN:	Pilar@s:cym&spa (.) a fy mhlant a fi . 658782_661742
 %eng:	Pilar, my children and me.
-*SAV:	ah@s:cym@s:cym&esspa . 661769_662137
+*SAV:	ah@s:cym&spa . 661769_662137
 %eng:	ah.
 *NIN:	&=laugh . 662361_663422
-*NIN:	a dwedodd um@s:cym@s:cym&esspa [/] dwedodd Gwilym@s:cym@s:cym&esspa +"/. 663464_666275
+*NIN:	a dwedodd um@s:cym&spa [/] dwedodd Gwilym@s:cym&spa +"/. 663464_666275
 %eng:	and he said um, Gwilym said:
-*NIN:	+" oh@s:cym@s:cym&esspa <dw i (y)n> [/] dw i (y)n gallu er@s:cym@s:cym&esspa dechrau &r eto . 666334_669768
+*NIN:	+" oh@s:cym&spa <dw i (y)n> [/] dw i (y)n gallu er@s:cym&spa dechrau &r eto . 666334_669768
 %eng:	oh I can start again.
 *SAV:	&=laugh . 669713_671361
 *NIN:	&=laugh . 670513_671255
@@ -784,9 +784,9 @@
 %eng:	yes.
 *SAV:	yndy . 674670_675017
 %eng:	yes.
-*NIN:	+< oh@s:cym@s:cym&esspa wel . 674718_675454
+*NIN:	+< oh@s:cym&spa wel . 674718_675454
 %eng:	oh, well.
-*SAV:	mae o i w weld yn er@s:cym@s:cym&esspa homely@s:eng iawn na ? 675006_677803
+*SAV:	mae o i w weld yn er@s:cym&spa homely@s:eng iawn na ? 675006_677803
 %eng:	he seems very at home, doesn't here?
 *NIN:	na mae [/] mae &m +... 677910_679046
 %eng:	no, he...
@@ -794,9 +794,9 @@
 %eng:	he's...
 *SAV:	ie . 680487_681047
 %eng:	yes.
-*NIN:	&d dw i (y)n teimlo (y)n &c mm@s:cym@s:cym&esspa cyfforddus gyda +... 681180_684347
+*NIN:	&d dw i (y)n teimlo (y)n &c mm@s:cym&spa cyfforddus gyda +... 681180_684347
 %eng:	I feel comfortable with...
-*SAV:	eh@s:cym@s:cym&esspa ? 684827_685408
+*SAV:	eh@s:cym&spa ? 684827_685408
 %eng:	eh?
 *NIN:	dw i (y)n teimlo (y)n cyfforddus . 685456_686736
 %eng:	I feel comfortable.
@@ -812,11 +812,11 @@
 %eng:	me too.
 *SAV:	fuon nhw yma (y)n cael cinio . 690295_691516
 %eng:	they were here having lunch.
-*NIN:	a &m (.) mae [/] mae [/] mae o (y)n dweud er@s:cym@s:cym&esspa bob amser +"/. 691495_694476
+*NIN:	a &m (.) mae [/] mae [/] mae o (y)n dweud er@s:cym&spa bob amser +"/. 691495_694476
 %eng:	and he says every time:
-*NIN:	+" oh@s:cym@s:cym&esspa um@s:cym@s:cym&esspa mae fy &n chwaer yn byw yn agos er@s:cym@s:cym&esspa [/] er@s:cym@s:cym&esspa rhywun yn perthyn Sofía@s:cym@s:cym&esspa . 694606_702111
+*NIN:	+" oh@s:cym&spa um@s:cym&spa mae fy &n chwaer yn byw yn agos er@s:cym&spa [/] er@s:cym&spa rhywun yn perthyn Sofía@s:cym&spa . 694606_702111
 %eng:	oh my sister lives close, er, somebody Sofia is related to.
-*NIN:	achos &m (.) mae chwaer er@s:cym@s:cym&esspa Gwilym@s:cym@s:cym&esspa (.) yn byw yn Tremadog@s:cym@s:cym&esspa . 703335_708142
+*NIN:	achos &m (.) mae chwaer er@s:cym&spa Gwilym@s:cym&spa (.) yn byw yn Tremadog@s:cym&spa . 703335_708142
 %eng:	because Gwilym's sister lives in Tremadog.
 *SAV:	xxx . 708002_708461
 %eng:	[...]
@@ -826,11 +826,11 @@
 %eng:	living in Tremadog.
 *SAV:	lle mae dy perthynas di (y)n byw . 710165_712213
 %eng:	where your relative lives.
-*NIN:	+< um@s:cym@s:cym&esspa . 710255_711418
+*NIN:	+< um@s:cym&spa . 710255_711418
 %eng:	um.
-*NIN:	&fe &m er@s:cym@s:cym&esspa (.) Sian_Thomas@s:cym@s:cym&esspa . 712456_714190
+*NIN:	&fe &m er@s:cym&spa (.) Sian_Thomas@s:cym&spa . 712456_714190
 %eng:	er, Sian Thomas.
-*NIN:	er@s:cym@s:cym&esspa . 714247_715026
+*NIN:	er@s:cym&spa . 714247_715026
 %eng:	er.
 *SAV:	+< ia . 714247_715026
 %eng:	yes.
@@ -838,67 +838,67 @@
 %eng:	mum's cousin.
 *SAV:	+< cyfnither . 715687_716663
 %eng:	cousin.
-*SAV:	ah@s:cym@s:cym&esspa . 717417_718020
+*SAV:	ah@s:cym&spa . 717417_718020
 %eng:	ah.
 *SAV:	oedd ei (.) mham hi yn chwaer i dy dad ? 718708_721172
 %eng:	her mum was your father's sister?
-*NIN:	er@s:cym@s:cym&esspa na . 723877_724885
+*NIN:	er@s:cym&spa na . 723877_724885
 %eng:	er, no.
 *SAV:	+< neu xxx ? 723877_724885
 %eng:	or [...] ?
-*NIN:	er@s:cym@s:cym&esspa dad dad yn (..) brawd fy &n taid i . 724921_731524
+*NIN:	er@s:cym&spa dad dad yn (..) brawd fy &n taid i . 724921_731524
 %eng:	er, my father's father was... my grandfather's brother.
-*NIN:	dad (.) Sian@s:cym@s:cym&esspa . 734353_736820
+*NIN:	dad (.) Sian@s:cym&spa . 734353_736820
 %eng:	Sian's father.
-*SAV:	tad Sian@s:cym@s:cym&esspa . 737355_738464
+*SAV:	tad Sian@s:cym&spa . 737355_738464
 %eng:	Sian's father.
 *NIN:	yn (..) brawd (..) fyn (.) taid . 739046_744122
 %eng:	was my grandfather's brother.
 *NIN:	fyn taid i . 744719_745620
 %eng:	my grandfather.
-*SAV:	ah@s:cym@s:cym&esspa wrth gwrs . 748840_749709
+*SAV:	ah@s:cym&spa wrth gwrs . 748840_749709
 %eng:	ah, of course.
 *SAV:	&p a mae hi priodi . 749693_751106
 %eng:	and she's married.
 *SAV:	dyna pam mae hi (y)n newid ei henw . 751090_752680
 %eng:	that's why she's changing her name.
-*NIN:	ond (...) dydy hi yn (.) Sian_Barrat@s:cym@s:cym&esspa . 753416_760163
+*NIN:	ond (...) dydy hi yn (.) Sian_Barrat@s:cym&spa . 753416_760163
 %eng:	but is she... Sian Barrat?
 *SAV:	ie . 760460_761058
 %eng:	yes.
-*NIN:	y hen Sian_Morris@s:cym@s:cym&esspa . 760978_762761
+*NIN:	y hen Sian_Morris@s:cym&spa . 760978_762761
 %eng:	the old Sian Morris.
 *NIN:	dw i ddim yn gwybod pam . 763154_764807
 %eng:	I don't know why.
-*SAV:	oh@s:cym@s:cym&esspa . 765175_765602
+*SAV:	oh@s:cym&spa . 765175_765602
 %eng:	oh.
-*NIN:	achos mae er@s:cym@s:cym&esspa [//] roedd er@s:cym@s:cym&esspa (.) taid yn (.) Benjamin_Barrat@s:cym@s:cym&esspa . 765848_771474
+*NIN:	achos mae er@s:cym&spa [//] roedd er@s:cym&spa (.) taid yn (.) Benjamin_Barrat@s:cym&spa . 765848_771474
 %eng:	because grandad was Benjamin Barrat.
 *SAV:	ie . 771698_772199
 %eng:	yes.
-*NIN:	Benjamin_Barrat_Morris@s:cym@s:cym&esspa . 773263_775098
+*NIN:	Benjamin_Barrat_Morris@s:cym&spa . 773263_775098
 %eng:	Benjamin Barrat Morris.
-*NIN:	achos &m &m Morris@s:cym@s:cym&esspa &m . 775796_777369
+*NIN:	achos &m &m Morris@s:cym&spa &m . 775796_777369
 %eng:	because Morris...
-*SAV:	+< ah@s:cym@s:cym&esspa . 775796_776094
+*SAV:	+< ah@s:cym&spa . 775796_776094
 %eng:	ah.
-*NIN:	e@s:cym@s:cym&esspa roedd Morris@s:cym@s:cym&esspa yn mam er@s:cym@s:cym&esspa +... 777428_780134
+*NIN:	e@s:cym&spa roedd Morris@s:cym&spa yn mam er@s:cym&spa +... 777428_780134
 %eng:	Morris was my mother er...
-*SAV:	Morris@s:cym@s:cym&esspa ? 780081_780931
+*SAV:	Morris@s:cym&spa ? 780081_780931
 %eng:	Morris?
-*NIN:	Morris@s:cym@s:cym&esspa . 780952_781720
+*NIN:	Morris@s:cym&spa . 780952_781720
 %eng:	Morris.
-*SAV:	Morris@s:cym@s:cym&esspa ? 782123_782645
+*SAV:	Morris@s:cym&spa ? 782123_782645
 %eng:	Morris?
-*NIN:	bob er@s:cym@s:cym&esspa (.) &s bob Sais &=laugh . 782629_786038
+*NIN:	bob er@s:cym&spa (.) &s bob Sais &=laugh . 782629_786038
 %eng:	every, er, every English person.
-*NIN:	achos er@s:cym@s:cym&esspa (.) Barrat@s:cym@s:cym&esspa ? 786080_787950
+*NIN:	achos er@s:cym&spa (.) Barrat@s:cym&spa ? 786080_787950
 %eng:	because, er, Barrat?
-*NIN:	dydy Barrat@s:cym@s:cym&esspa ddim yn Cymraeg . 788451_790067
+*NIN:	dydy Barrat@s:cym&spa ddim yn Cymraeg . 788451_790067
 %eng:	Barrat isn't Welsh.
-*SAV:	mmhm@s:cym@s:cym&esspa . 790595_791080
+*SAV:	mmhm@s:cym&spa . 790595_791080
 %eng:	mmhm.
-*NIN:	a Morris@s:cym@s:cym&esspa ? 791212_792593
+*NIN:	a Morris@s:cym&spa ? 791212_792593
 %eng:	Morris?
 *SAV:	chwaith . 792614_792988
 %eng:	not Welsh either.
@@ -908,23 +908,23 @@
 %eng:	no.
 *SAV:	ond y Cymry +/. 795460_796409
 %eng:	but the Welsh.
-*NIN:	+< um@s:cym@s:cym&esspa . 795796_796644
+*NIN:	+< um@s:cym&spa . 795796_796644
 %eng:	um.
 *SAV:	ond oedd o (y)n Gymro iawn . 796559_797935
 %eng:	but he was a true Welshman.
 *NIN:	&=laugh . 797956_799268
-*NIN:	o Blaenau_Ffestiniog@s:cym@s:cym&esspa . 799244_800727
+*NIN:	o Blaenau_Ffestiniog@s:cym&spa . 799244_800727
 %eng:	from Blaenau Ffestiniog.
 *SAV:	cyrraedd +... 800734_801390
 %eng:	arriving...
-*NIN:	ond (.) dw i ddim yn gwybod (..) pam a (.) dydy er@s:cym@s:cym&esspa Sian@s:cym@s:cym&esspa yn gwybod pam chwaith . 802785_810418
+*NIN:	ond (.) dw i ddim yn gwybod (..) pam a (.) dydy er@s:cym&spa Sian@s:cym&spa yn gwybod pam chwaith . 802785_810418
 %eng:	but I don't know why and Sian doesn't either.
-*NIN:	mae hi (y)n um@s:cym@s:cym&esspa +... 811093_814019
+*NIN:	mae hi (y)n um@s:cym&spa +... 811093_814019
 %eng:	she's um...
 %com:	the phone is ringing in the background.
 *SAV:	damia . 815378_815836
 %eng:	damn.
-*NIN:	Margaret@s:cym@s:cym&esspa ? 816955_817701
+*NIN:	Margaret@s:cym&spa ? 816955_817701
 %eng:	Margaret?
 *OSE:	www . 820657_826284
 *SAV:	+< neu all +//. 821042_821501
@@ -936,7 +936,7 @@
 *OSE:	www . 827004_827404
 *NIN:	&=laugh i siarad &=laugh . 827702_829885
 %eng:	to talk...
-*SAV:	[- spa] +< hola Valmai@s:cym@s:cym&esspa . 828189_829160
+*SAV:	[- spa] +< hola Valmai@s:cym&spa . 828189_829160
 %eng:	hi Valmai.
 %com:	SAV is now speaking on the phone.
 *SAV:	[- spa] no no estoy acostada no no no . 833032_835165
@@ -945,7 +945,7 @@
 %eng:	I have people here but it doesn't matter.
 *SAV:	[- spa] que [/] que +//. 836477_837246
 %eng:	that, that...
-*SAV:	[- spa] er@s:cym@s:cym&esspa estoy mejor . 837930_839541
+*SAV:	[- spa] er@s:cym&spa estoy mejor . 837930_839541
 %eng:	er, I'm better.
 *SAV:	[- spa] sí . 839967_840303
 %eng:	yes.
@@ -975,13 +975,13 @@
 *SAV:	[- spa] es la primera vez que tengo ochenta y uno . 869163_871361
 %eng:	it's the first time I've been 81 .
 *NIN:	+< &=laugh . 869958_871345
-*SAV:	[- spa] en un Eisteddfod@s:cym@s:cym&esspa . 871515_872539
+*SAV:	[- spa] en un Eisteddfod@s:cym&spa . 871515_872539
 %eng:	in an Eisteddfod.
 *SAV:	&=laugh . 872539_874470
 *NIN:	+< &=laugh . 872624_873920
 *SAV:	[- spa] bueno . 875715_876368
 %eng:	good.
-*SAV:	[- spa] &co como están er@s:cym@s:cym&esspa ustedes ? 876458_878645
+*SAV:	[- spa] &co como están er@s:cym&spa ustedes ? 876458_878645
 %eng:	how are you all?
 *SAV:	[- spa] sí . 880873_881385
 %eng:	yes.
@@ -993,21 +993,21 @@
 %eng:	what happened to him?
 *SAV:	[- spa] sí . 903443_904067
 %eng:	yes.
-*SAV:	mmhm@s:cym@s:cym&esspa . 911953_912806
+*SAV:	mmhm@s:cym&spa . 911953_912806
 %eng:	mmhm.
-*SAV:	mm@s:cym@s:cym&esspa . 919304_919693
+*SAV:	mm@s:cym&spa . 919304_919693
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 928273_928683
+*SAV:	mm@s:cym&spa . 928273_928683
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 928984_929496
+*SAV:	mm@s:cym&spa . 928984_929496
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 940779_941243
+*SAV:	mm@s:cym&spa . 940779_941243
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 945118_945342
+*SAV:	mm@s:cym&spa . 945118_945342
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 949738_950096
+*SAV:	mm@s:cym&spa . 949738_950096
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 950202_950613
+*SAV:	mm@s:cym&spa . 950202_950613
 %eng:	mm.
 *SAV:	[- spa] y bueno . 961766_962224
 %eng:	and ok.
@@ -1015,11 +1015,11 @@
 %eng:	where he was surely.
 *SAV:	[- spa] y como es posible eso ? 969859_971405
 %eng:	and how is this possible?
-*SAV:	oh@s:cym@s:cym&esspa . 983613_984290
+*SAV:	oh@s:cym&spa . 983613_984290
 %eng:	oh.
 *SAV:	[- spa] que ha dicho que estaba xxx y +... 992950_994838
 %eng:	that he said he was [...] and...
-*SAV:	[- spa] +< que estaba bien y e@s:cym@s:cym&esspa [//] y no estaba bien . 994911_997065
+*SAV:	[- spa] +< que estaba bien y e@s:cym&spa [//] y no estaba bien . 994911_997065
 %eng:	that he was ok and that he wasn't.
 *SAV:	[- spa] o no lo tenía mejor dicho . 997193_998846
 %eng:	or more like that he didn't have it.
@@ -1033,9 +1033,9 @@
 %eng:	yes.
 *SAV:	[- spa] pero claro [=! whispers] . 1024804_1025774
 %eng:	but of course.
-*SAV:	mm@s:cym@s:cym&esspa . 1029779_1030157
+*SAV:	mm@s:cym&spa . 1029779_1030157
 %eng:	mm.
-*SAV:	mm@s:cym@s:cym&esspa . 1030200_1030664
+*SAV:	mm@s:cym&spa . 1030200_1030664
 %eng:	mm.
 *SAV:	[- spa] xxx poder morir: . 1032369_1033564
 %eng:	[...] coudl die.
@@ -1051,7 +1051,7 @@
 %eng:	it turns out that a...
 *NIN:	[- spa] +< creo que tiene xxx . 1042596_1043529
 %eng:	I think he has [...]
-*SAV:	[- spa] norma viste &s er@s:cym@s:cym&esspa . 1043358_1044526
+*SAV:	[- spa] norma viste &s er@s:cym&spa . 1043358_1044526
 %eng:	[...]
 *SAV:	[- spa] está (.) delicada . 1045592_1047567
 %eng:	it's delicate.
@@ -1061,7 +1061,7 @@
 %eng:	she's managing [...]
 *SAV:	[- spa] y yo no entiendo demasiado del asunto . 1051549_1053533
 %eng:	and I don't understand the matter that much.
-*SAV:	[- spa] pero ahora había ido a una doctora que quería ver en los estudios que le había hecho doctor &bu Burgos@s:cym@s:cym&esspa . 1054332_1059898
+*SAV:	[- spa] pero ahora había ido a una doctora que quería ver en los estudios que le había hecho doctor &bu Burgos@s:cym&spa . 1054332_1059898
 %eng:	but now that she's been to a doctor [...] look at the tests that Dr. Burgos did.
 *SAV:	[- spa] o no sé quien . 1059924_1060602
 %eng:	or I don't know who.
@@ -1073,7 +1073,7 @@
 %eng:	yes.
 *NIN:	[- spa] allá . 1067344_1067963
 %eng:	away.
-*NIN:	[- spa] cuando estuvo a Buenos_Aires@s:cym@s:cym&esspa . 1068037_1069445
+*NIN:	[- spa] cuando estuvo a Buenos_Aires@s:cym&spa . 1068037_1069445
 %eng:	when she was in Buenos Aires.
 *SAV:	[- spa] sí . 1069807_1070261
 %eng:	yes.
@@ -1091,7 +1091,7 @@
 %eng:	half the stomach.
 *SAV:	[- spa] el estómago todo . 1078816_1080059
 %eng:	the whole stomach.
-*NIN:	[- spa] ah@s:cym@s:cym&esspa sí . 1080165_1080901
+*NIN:	[- spa] ah@s:cym&spa sí . 1080165_1080901
 %eng:	ah, yes.
 *SAV:	[- spa] no esta esto no cierto . 1081086_1082313
 %eng:	no I don't think it is that.
@@ -1101,7 +1101,7 @@
 %eng:	ay, yes?
 *NIN:	[- spa] sí . 1083785_1084046
 %eng:	yes.
-*SAV:	[- spa] &s e@s:cym@s:cym&esspa ah@s:cym@s:cym&esspa bueno . 1086733_1087362
+*SAV:	[- spa] &s e@s:cym&spa ah@s:cym&spa bueno . 1086733_1087362
 %eng:	ah, ok.
 *NIN:	[- spa] no importa . 1087352_1088018
 %eng:	it doesn't matter.
@@ -1124,7 +1124,7 @@
 %eng:	how can she live?
 *NIN:	[- spa] sin vaso puede vivir . 1116637_1117859
 %eng:	she can live without the vessel.
-*SAV:	[- spa] pero sin estómago eh@s:cym@s:cym&esspa ? 1118391_1119708
+*SAV:	[- spa] pero sin estómago eh@s:cym&spa ? 1118391_1119708
 %eng:	but without a stomach?
 *SAV:	[- spa] no tiene estómago . 1121387_1122523
 %eng:	she doesn't have a stomach.
@@ -1140,7 +1140,7 @@
 %eng:	and it's about having a life that's more or less normal.
 *SAV:	[- spa] no ? 1138982_1139313
 %eng:	isn't it?
-*NIN:	mm@s:cym@s:cym&esspa . 1139329_1139660
+*NIN:	mm@s:cym&spa . 1139329_1139660
 %eng:	mm.
 *NIN:	[- spa] por cierto . 1140293_1140869
 %eng:	of course.
@@ -1148,7 +1148,7 @@
 %eng:	but it's costing her a lot.
 *SAV:	[- spa] y tiene tantas ganas de vivir . 1142646_1144641
 %eng:	and she has a lust for life.
-*NIN:	oh@s:cym@s:cym&esspa . 1145030_1145356
+*NIN:	oh@s:cym&spa . 1145030_1145356
 %eng:	oh.
 *SAV:	[- spa] sí . 1145745_1146124
 %eng:	yes.
@@ -1162,25 +1162,25 @@
 %eng:	fifty five.
 *SAV:	[- spa] cincuenta y seis . 1153498_1154794
 %eng:	fifty six.
-*NIN:	+< mm@s:cym@s:cym&esspa . 1153717_1153962
+*NIN:	+< mm@s:cym&spa . 1153717_1153962
 %eng:	mm.
 *NIN:	[- spa] y mi hermana cumple cincuenta y ocho . 1156368_1158059
 %eng:	and my sister's approaching  fifty eight.
-*SAV:	+< oce Catrin@s:cym@s:cym&esspa tiene@s:spa +... 1157515_1158672
+*SAV:	+< oce Catrin@s:cym&spa tiene@s:spa +... 1157515_1158672
 %eng:	okay, Catrin is...
-*SAV:	[- spa] Catrin@s:cym@s:cym&esspa tiene cincuenta y ocho y (.) cincuenta y nueve . 1159323_1162342
+*SAV:	[- spa] Catrin@s:cym&spa tiene cincuenta y ocho y (.) cincuenta y nueve . 1159323_1162342
 %eng:	Catrin is fifty eight and... fifty nine.
 *SAV:	[- spa] va a cumplir cincuenta y nueve ahora en diciembre . 1162518_1165201
 %eng:	she's going to be fifty nine in December.
-*NIN:	[- spa] na@s:cym@s:cym&esspa y Eduardo@s:cym@s:cym&esspa cumple cincuenta y ocho años en noviembre . 1166430_1169011
+*NIN:	[- spa] na@s:cym&spa y Eduardo@s:cym&spa cumple cincuenta y ocho años en noviembre . 1166430_1169011
 %eng:	no and Eduardo will be fifty eight in November.
-*SAV:	mm@s:cym@s:cym&esspa ? 1169256_1169806
+*SAV:	mm@s:cym&spa ? 1169256_1169806
 %eng:	mm?
-*NIN:	Eduardo@s:cym@s:cym&esspa . 1169955_1170504
+*NIN:	Eduardo@s:cym&spa . 1169955_1170504
 %eng:	Eduardo.
 *SAV:	[- spa] claro . 1170894_1171288
 %eng:	ok.
-*SAV:	[- spa] Freddie@s:cym@s:cym&esspa cumplió el mes . 1171342_1172680
+*SAV:	[- spa] Freddie@s:cym&spa cumplió el mes . 1171342_1172680
 %eng:	Freddie had his birthday in...
 *SAV:	[- spa] es(te) (.) [//] este mes ahora el veintisiete cumple . 1173336_1176062
 %eng:	this month on the twenty seventh.
@@ -1188,35 +1188,35 @@
 %eng:	fifty nine.
 *SAV:	xxx . 1178686_1179433
 %eng:	[...]
-*NIN:	+< ah@s:cym@s:cym&esspa . 1178686_1179433
+*NIN:	+< ah@s:cym&spa . 1178686_1179433
 %eng:	ah.
 *NIN:	[- spa] ahora el veintisiete noviembre ? 1179539_1181209
 %eng:	the twenty seventh of November?
-*SAV:	[- spa] +< ah@s:cym@s:cym&esspa no no . 1180323_1180937
+*SAV:	[- spa] +< ah@s:cym&spa no no . 1180323_1180937
 %eng:	ah no.
 *SAV:	[- spa] el mes pasado . 1180915_1181790
 %eng:	last month.
-*SAV:	[- spa] oh@s:cym@s:cym&esspa el pasó un cumpleaños de xxx . 1181758_1184278
+*SAV:	[- spa] oh@s:cym&spa el pasó un cumpleaños de xxx . 1181758_1184278
 %eng:	oh he had a [...] birthday.
 *NIN:	[- spa] xxx llamaste . 1183910_1184785
 %eng:	[...] call you.
-*NIN:	pryd mae (Ei)steddfod@s:cym@s:cym&esspa . 1185012_1185881
+*NIN:	pryd mae (Ei)steddfod@s:cym&spa . 1185012_1185881
 %eng:	when is the Eisteddfod?
-*SAV:	ah@s:cym@s:cym&esspa . 1187309_1188002
+*SAV:	ah@s:cym&spa . 1187309_1188002
 %eng:	ah.
 *SAV:	xxx fydd hi . 1187965_1188706
 %eng:	it'll be [...]
-*NIN:	mm@s:cym@s:cym&esspa . 1188637_1189106
+*NIN:	mm@s:cym&spa . 1188637_1189106
 %eng:	mm.
-*SAV:	el@s:spa día@s:spa del@s:spa Eisteddfod@s:cym@s:cym&esspa d(y)wed ? 1190074_1191557
+*SAV:	el@s:spa día@s:spa del@s:spa Eisteddfod@s:cym&spa d(y)wed ? 1190074_1191557
 %eng:	the day of the Eisteddfod maybe?
 *NIN:	[- spa] +< y &s +//. 1191050_1191525
 %eng:	and...
 *NIN:	[- spa] no . 1191493_1191967
 %eng:	no.
-*NIN:	un@s:spa na la@s:spa semana@s:spa del@s:spa Eisteddfod@s:cym@s:cym&esspa . 1191967_1193418
+*NIN:	un@s:spa na la@s:spa semana@s:spa del@s:spa Eisteddfod@s:cym&spa . 1191967_1193418
 %eng:	a... no, the week of the Eisteddfod.
-*SAV:	[- spa] veintisiete mm@s:cym@s:cym&esspa . 1193582_1194649
+*SAV:	[- spa] veintisiete mm@s:cym&spa . 1193582_1194649
 %eng:	twenty seventh, mm.
 *NIN:	[- spa] lo llamas [//] llamas a &ve (.) seguido a (.) Italia ? 1194270_1197399
 %eng:	do you phone Italy often?
@@ -1244,7 +1244,7 @@
 %eng:	[...] with Wales you have these...
 *NIN:	[- spa] esos minutos . 1211638_1212657
 %eng:	these minutes.
-*SAV:	[- spa] mm@s:cym@s:cym&esspa yo no sé si lo tengo con Gales ahora tampoco . 1214128_1216730
+*SAV:	[- spa] mm@s:cym&spa yo no sé si lo tengo con Gales ahora tampoco . 1214128_1216730
 %eng:	mm, I don't know if I have them for Wales any more either.
 *SAV:	[- spa] xxx mucho que no . 1216714_1217861
 %eng:	[...] not.
@@ -1297,19 +1297,19 @@
 %eng:	yes.
 *SAV:	[- spa] claro . 1249454_1250040
 %eng:	sure.
-*SAV:	mm@s:cym@s:cym&esspa . 1250515_1250899
+*SAV:	mm@s:cym&spa . 1250515_1250899
 %eng:	mm.
-*NIN:	+< mm@s:cym@s:cym&esspa . 1250515_1250899
+*NIN:	+< mm@s:cym&spa . 1250515_1250899
 %eng:	mm.
 *SAV:	[- spa] pero yo no llamo muy a menudo no . 1252241_1254582
 %eng:	but I don't phone often.
-*NIN:	+< mm@s:cym@s:cym&esspa . 1252364_1252726
+*NIN:	+< mm@s:cym&spa . 1252364_1252726
 %eng:	mm.
 *SAV:	[- spa] qué estábamos hablando antes ? 1254919_1256759
 %eng:	what were we talking about before?
-*NIN:	oh@s:cym@s:cym&esspa . 1256844_1257895
+*NIN:	oh@s:cym&spa . 1256844_1257895
 %eng:	oh.
-*NIN:	[- spa] la poesía del Eisteddfod@s:cym@s:cym&esspa e@s:cym@s:cym&esspa ? 1263509_1265141
+*NIN:	[- spa] la poesía del Eisteddfod@s:cym&spa e@s:cym&spa ? 1263509_1265141
 %eng:	the poetry in the Eisteddfod.
 *SAV:	[- spa] bueno . 1266501_1267162
 %eng:	ok.
@@ -1327,7 +1327,7 @@
 %eng:	and I said hi to you.
 *SAV:	&=laugh . 1276058_1277248
 *NIN:	+< &=laugh . 1276058_1277248
-*SAV:	[- spa] oh@s:cym@s:cym&esspa me saludaste no . 1277237_1278448
+*SAV:	[- spa] oh@s:cym&spa me saludaste no . 1277237_1278448
 %eng:	oh, you said hi to me.
 *SAV:	[- spa] no me acuerdo . 1278880_1279744
 %eng:	I don't remember.
@@ -1348,16 +1348,16 @@
 *NIN:	[- spa] +" no . 1289813_1290144
 %eng:	no.
 %com:	door bell rings .
-*NIN:	oh@s:cym@s:cym&esspa . 1291312_1291781
+*NIN:	oh@s:cym&spa . 1291312_1291781
 %eng:	oh.
-*SAV:	oh@s:cym@s:cym&esspa . 1291770_1292469
+*SAV:	oh@s:cym&spa . 1291770_1292469
 %eng:	oh.
 *NIN:	[- spa] bueno . 1293264_1293701
 %eng:	ok.
 *SAV:	[- spa] ahora sí que no sé . 1293872_1295226
 %eng:	now I don't know.
 *NIN:	&=laugh . 1295514_1296256
-*SAV:	wnewch chi er@s:cym@s:cym&esspa +... 1298680_1299795
+*SAV:	wnewch chi er@s:cym&spa +... 1298680_1299795
 %eng:	will you er...
 *SAV:	&=stammer . 1302575_1303444
 *NIN:	[- spa] quiere que vas allá ? 1303402_1304388
@@ -1370,22 +1370,22 @@
 *NIN:	[- spa] sí creo que xxx . 1318759_1320295
 %eng:	yes, I think [...]
 *OSE:	www . 1320289_1321335
-*NIN:	[- spa] ah@s:cym@s:cym&esspa okey . 1321371_1322395
+*NIN:	[- spa] ah@s:cym&spa okey . 1321371_1322395
 %eng:	ah, ok.
 *OSE:	www . 1322278_1322667
 *NIN:	[- spa] bueno . 1322672_1323478
 %eng:	ok.
-*SAV:	[- spa] quién Nina@s:cym@s:cym&esspa ? 1325964_1326807
+*SAV:	[- spa] quién Nina@s:cym&spa ? 1325964_1326807
 %eng:	who is it Nina?
 *NIN:	[- spa] del cementerio . 1326834_1328130
 %eng:	from the cemetary.
-*SAV:	[- spa] ah@s:cym@s:cym&esspa sí . 1329052_1329719
+*SAV:	[- spa] ah@s:cym&spa sí . 1329052_1329719
 %eng:	ah, yes.
 *SAV:	[- spa] me había dicho . 1329687_1330807
 %eng:	she'd told me...
 *SAV:	[- spa] mira . 1331212_1331932
 %eng:	look.
-*SAV:	[- spa] e@s:cym@s:cym&esspa e@s:cym@s:cym&esspa en ese +//. 1334699_1335627
+*SAV:	[- spa] e@s:cym&spa e@s:cym&spa en ese +//. 1334699_1335627
 %eng:	in this...
 *SAV:	[- spa] en [/] en una &bol [/] &bol +//. 1335632_1337459
 %eng:	in a...
@@ -1415,13 +1415,13 @@
 %eng:	no.
 *NIN:	[- spa] tiene veinticinco . 1355883_1357008
 %eng:	take twenty five.
-*SAV:	[- spa] ah@s:cym@s:cym&esspa bueno . 1357284_1357876
+*SAV:	[- spa] ah@s:cym&spa bueno . 1357284_1357876
 %eng:	ah ok.
 *SAV:	[- spa] <en el> [/] en el otro entonces . 1357817_1359230
 %eng:	in the other one then.
 *SAV:	[- spa] en &v la +//. 1359252_1359732
 %eng:	in the...
-*SAV:	[- spa] en um@s:cym@s:cym&esspa +... 1359969_1361340
+*SAV:	[- spa] en um@s:cym&spa +... 1359969_1361340
 %eng:	in um...
 *NIN:	[- spa] en ése ? 1361483_1362395
 %eng:	in that one?
@@ -1464,7 +1464,7 @@
 %eng:	[...] forty?
 *NIN:	[- spa] bueno . 1402483_1403001
 %eng:	ok.
-*NIN:	[- spa] muchas gracias e@s:cym@s:cym&esspa . 1408158_1409272
+*NIN:	[- spa] muchas gracias e@s:cym&spa . 1408158_1409272
 %eng:	thanks very much.
 *OSE:	www . 1409182_1409598
 *NIN:	[- spa] chao . 1409544_1410174
@@ -1483,7 +1483,7 @@
 %eng:	the conversation [...]
 *NIN:	[- spa] sí . 1432944_1433440
 %eng:	yes.
-*NIN:	um@s:cym@s:cym&esspa . 1441687_1442636
+*NIN:	um@s:cym&spa . 1441687_1442636
 %eng:	um.
 *NIN:	me@s:spa gustó@s:spa (.) y gymanfa . 1445175_1446551
 %eng:	I liked the singing assembly.
@@ -1515,9 +1515,9 @@
 *SAV:	&de +//. 1467318_1467761
 *SAV:	geiriau (y)r (.) yr emynau . 1467905_1469767
 %eng:	the words of the hymns.
-*NIN:	ah@s:cym@s:cym&esspa achos +... 1471101_1472018
+*NIN:	ah@s:cym&spa achos +... 1471101_1472018
 %eng:	ah because...
-*NIN:	um@s:cym@s:cym&esspa . 1473117_1474002
+*NIN:	um@s:cym&spa . 1473117_1474002
 *SAV:	ond fel (yn)a mae (h)i . 1474685_1475501
 %eng:	but that's how it is.
 *NIN:	+< ti +/. 1474722_1475250
@@ -1529,33 +1529,33 @@
 %eng:	like. like...
 *NIN:	[- spa] el . 1476680_1477336
 %eng:	the...
-*NIN:	+, fel arfer mae (y)r [//] mae er@s:cym@s:cym&esspa (.) Paula@s:cym@s:cym&esspa a wel Alejandra@s:cym@s:cym&esspa yn dweud er@s:cym@s:cym&esspa (.) geirfa . 1477307_1485923
+*NIN:	+, fel arfer mae (y)r [//] mae er@s:cym&spa (.) Paula@s:cym&spa a wel Alejandra@s:cym&spa yn dweud er@s:cym&spa (.) geirfa . 1477307_1485923
 %eng:	Paula and Alejandra usually say the vocabulary.
 *SAV:	+< ie . 1485005_1485629
 %eng:	yes.
 *NIN:	geir(iau) [/] geiriau . 1486151_1487388
 %eng:	words, words.
-*NIN:	geiriau (.) er@s:cym@s:cym&esspa ysbrydol ie . 1487796_1489817
+*NIN:	geiriau (.) er@s:cym&spa ysbrydol ie . 1487796_1489817
 %eng:	spiritual words, yes.
 *SAV:	+< ie . 1487801_1488462
 %eng:	yes.
-*NIN:	um@s:cym@s:cym&esspa . 1491300_1492057
+*NIN:	um@s:cym&spa . 1491300_1492057
 %eng:	um.
 *SAV:	a well gen ti fel arall fel hyn ? 1492351_1493892
 %eng:	and you prefer the other way or like this?
 *NIN:	wel mae &=stutter pobl (.) wel +... 1493881_1496633
 %eng:	well, people, well...
-*NIN:	mae Andrea@s:cym@s:cym&esspa wedi (..) eistedd (...) er@s:cym@s:cym&esspa er@s:cym@s:cym&esspa &dd agos . 1497824_1505427
+*NIN:	mae Andrea@s:cym&spa wedi (..) eistedd (...) er@s:cym&spa er@s:cym&spa &dd agos . 1497824_1505427
 %eng:	Andrea sat close...
 *SAV:	ia . 1505843_1506142
 %eng:	yes.
-*NIN:	y@s:spa er@s:cym@s:cym&esspa dywedodd Andrea@s:cym@s:cym&esspa bod er@s:cym@s:cym&esspa (.) oh@s:cym@s:cym&esspa &t ddim um@s:cym@s:cym&esspa er@s:cym@s:cym&esspa rhywbeth yn (.) y Sbaeneg . 1506780_1516716
+*NIN:	y@s:spa er@s:cym&spa dywedodd Andrea@s:cym&spa bod er@s:cym&spa (.) oh@s:cym&spa &t ddim um@s:cym&spa er@s:cym&spa rhywbeth yn (.) y Sbaeneg . 1506780_1516716
 %eng:	and Andrea said there wasn't anythingin Spanish.
 *SAV:	dim_byd yn Sbaeneg ? 1517365_1518256
 %eng:	nothing in Spanish?
 *NIN:	dim . 1518378_1518624
 %eng:	nothing.
-*NIN:	&ach [//] achos mae mm@s:cym@s:cym&esspa er@s:cym@s:cym&esspa jurado@s:spa de@s:spa música@s:spa yn castellano@s:spa . 1518618_1525470
+*NIN:	&ach [//] achos mae mm@s:cym&spa er@s:cym&spa jurado@s:spa de@s:spa música@s:spa yn castellano@s:spa . 1518618_1525470
 %eng:	because the music judge is Spanish.
 *SAV:	oedd o +//. 1526353_1526796
 %eng:	was he?
@@ -1572,17 +1572,17 @@
 %eng:	yes.
 *SAV:	o(eddw)n i (y)n meddwl am hynny . 1534045_1535047
 %eng:	I was thinking about that.
-*NIN:	mmhm@s:cym@s:cym&esspa . 1535069_1535703
+*NIN:	mmhm@s:cym&spa . 1535069_1535703
 %eng:	mmhm.
 *SAV:	ie . 1538107_1538571
 %eng:	yes.
-*NIN:	um@s:cym@s:cym&esspa . 1540486_1541126
+*NIN:	um@s:cym&spa . 1540486_1541126
 %eng:	um.
-*NIN:	ro(eddw)n i (y)n cofio (.) um@s:cym@s:cym&esspa Rafael_Gimenez@s:cym@s:cym&esspa . 1541666_1545986
+*NIN:	ro(eddw)n i (y)n cofio (.) um@s:cym&spa Rafael_Gimenez@s:cym&spa . 1541666_1545986
 %eng:	I was remembering Rafael Gimenez.
-*NIN:	ti cofio Rafael_Gimenez@s:cym@s:cym&esspa ? 1546662_1548235
+*NIN:	ti cofio Rafael_Gimenez@s:cym&spa ? 1546662_1548235
 %eng:	do you remember Rafael Gimenez?
-*NIN:	xxx um@s:cym@s:cym&esspa . 1549346_1551239
+*NIN:	xxx um@s:cym&spa . 1549346_1551239
 %eng:	[...] um.
 *NIN:	[- spa] fue [/] fue jurado una vez . 1552466_1554226
 %eng:	he was a judge once.
@@ -1594,17 +1594,17 @@
 %eng:	[...] eighty six.
 *NIN:	[- spa] más o menos . 1557974_1558705
 %eng:	more or less.
-*SAV:	[- spa] mm@s:cym@s:cym&esspa no me acuerdo . 1558733_1559869
+*SAV:	[- spa] mm@s:cym&spa no me acuerdo . 1558733_1559869
 %eng:	mm I don't remember.
-*NIN:	ah@s:cym@s:cym&esspa pero@s:spa (.) dirigió@s:spa gymanfa . 1560349_1562717
+*NIN:	ah@s:cym&spa pero@s:spa (.) dirigió@s:spa gymanfa . 1560349_1562717
 %eng:	ah but he led the singing assembly.
 *SAV:	[- spa] lindísimo . 1563385_1564164
 %eng:	so sweet.
-*NIN:	Rafael_Gi(menez)@s:cym@s:cym&esspa . 1564031_1564985
+*NIN:	Rafael_Gi(menez)@s:cym&spa . 1564031_1564985
 %eng:	Rafael Gimenez.
 *SAV:	[- spa] claro . 1565096_1565731
 %eng:	sure.
-*NIN:	+< mm@s:cym@s:cym&esspa . 1565096_1565731
+*NIN:	+< mm@s:cym&spa . 1565096_1565731
 %eng:	mm.
 *SAV:	[- spa] sí . 1565727_1566015
 *SAV:	[- spa] a mi por eso no me terminó (..) de convencer por eso no me xxx . 1567334_1572563
@@ -1615,7 +1615,7 @@
 %eng:	yes.
 *SAV:	[- spa] claro . 1574630_1574945
 %eng:	of course.
-*NIN:	[- spa] quizás muy (.) um@s:cym@s:cym&esspa (.) técnico . 1575453_1578871
+*NIN:	[- spa] quizás muy (.) um@s:cym&spa (.) técnico . 1575453_1578871
 %eng:	maybe more, um, technical.
 *SAV:	[- spa] &s sí . 1578850_1579298
 %eng:	yes.
@@ -1629,15 +1629,15 @@
 %eng:	yes.
 *NIN:	[- spa] pero fue mejor que cómodo cuando eligió la mujer no el año pasado sino el anterior ? 1586359_1591393
 %eng:	but it was more comfortable when he chose the woman not last year but the year before.
-*SAV:	+< +, er@s:cym@s:cym&esspa . 1586380_1587079
+*SAV:	+< +, er@s:cym&spa . 1586380_1587079
 %eng:	er...
-*SAV:	[- spa] ah@s:cym@s:cym&esspa no me acuerdo . 1591853_1592813
+*SAV:	[- spa] ah@s:cym&spa no me acuerdo . 1591853_1592813
 %eng:	ah, I don't remember.
 *SAV:	[- spa] cuál era la xxx ? 1593954_1595053
 %eng:	which one was the [...]?
-*SAV:	ah@s:cym@s:cym&esspa . 1595812_1596884
+*SAV:	ah@s:cym&spa . 1595812_1596884
 %eng:	ah.
-*SAV:	[- spa] ah@s:cym@s:cym&esspa cierto cierto . 1597225_1599449
+*SAV:	[- spa] ah@s:cym&spa cierto cierto . 1597225_1599449
 %eng:	ah of course, of course.
 *NIN:	[- spa] que saltaba . 1599358_1600009
 %eng:	[...]
@@ -1647,7 +1647,7 @@
 %eng:	I saw her name and said:
 *SAV:	[- spa] +" porque no lo había leído en todo este tiempo tras un año que tengo la programa . 1607280_1611616
 %eng:	because after having the programme for a year I hadn't read it all this time.
-*NIN:	+< um@s:cym@s:cym&esspa . 1607360_1607850
+*NIN:	+< um@s:cym&spa . 1607360_1607850
 %eng:	um.
 *NIN:	[- spa] +< pero no vino . 1610885_1611552
 %eng:	but she didn't go.
@@ -1657,7 +1657,7 @@
 %eng:	[...]
 *SAV:	[- spa] pero ya para este año no . 1616867_1618366
 %eng:	[...] for this year.
-*NIN:	[- spa] no um@s:cym@s:cym&esspa . 1618846_1620099
+*NIN:	[- spa] no um@s:cym&spa . 1618846_1620099
 %eng:	no, um.
 *NIN:	xxx ? 1620147_1620755
 %eng:	[...]
@@ -1665,9 +1665,9 @@
 %eng:	no.
 *SAV:	[- spa] sí . 1622722_1622957
 %eng:	yes.
-*SAV:	[- spa] seguramente que la hija de Vittoria@s:cym@s:cym&esspa . 1622940_1624657
+*SAV:	[- spa] seguramente que la hija de Vittoria@s:cym&spa . 1622940_1624657
 %eng:	Vittoria's daughter surely.
-*NIN:	[- spa] la hija de Vittoria@s:cym@s:cym&esspa . 1624652_1625532
+*NIN:	[- spa] la hija de Vittoria@s:cym&spa . 1624652_1625532
 %eng:	Vittoria's daughter.
 *SAV:	[- spa] claro . 1625857_1626385
 %eng:	sure.
@@ -1681,13 +1681,13 @@
 %eng:	because of that I don't know.
 *NIN:	[- spa] no [/] no hay muchos escritos . 1631507_1633555
 %eng:	there isn't much written entries.
-*NIN:	[- spa] muchos escritos sí en (..) en [/] en competencias um@s:cym@s:cym&esspa +... 1633539_1639962
+*NIN:	[- spa] muchos escritos sí en (..) en [/] en competencias um@s:cym&spa +... 1633539_1639962
 %eng:	much in um [...] skills.
-*NIN:	um@s:cym@s:cym&esspa (...) hunan_ddewisant . 1640742_1645304
+*NIN:	um@s:cym&spa (...) hunan_ddewisant . 1640742_1645304
 %eng:	um, own choice.
 *NIN:	cywir ? 1645379_1645678
 %eng:	true?
-*SAV:	mm@s:cym@s:cym&esspa ? 1646169_1646612
+*SAV:	mm@s:cym&spa ? 1646169_1646612
 %eng:	mm?
 *NIN:	[- spa] cómo se dice ? 1646841_1647583
 %eng:	how do you say it?
@@ -1695,13 +1695,13 @@
 %eng:	choice?
 *NIN:	hun ? 1648537_1649017
 %eng:	own?
-*SAV:	ah@s:cym@s:cym&esspa hunan_ddewisiad . 1651672_1652946
+*SAV:	ah@s:cym&spa hunan_ddewisiad . 1651672_1652946
 %eng:	ah, own choice.
 *NIN:	+< hun . 1651784_1652434
 %eng:	own.
 *NIN:	hunan_ddewisiad . 1653016_1653805
 %eng:	own choice.
-*SAV:	[- spa] claro eh@s:cym@s:cym&esspa . 1654440_1655309
+*SAV:	[- spa] claro eh@s:cym&spa . 1654440_1655309
 %eng:	sure.
 *SAV:	[- spa] a mi me gusta cuando era misma . 1655862_1657648
 %eng:	I like it when it's the same.
@@ -1717,7 +1717,7 @@
 %eng:	yes.
 *SAV:	fel mae pob un yn [/] yn gweld y ddawn . 1662615_1665201
 %eng:	how each person sees the talent.
-*NIN:	mmhm@s:cym@s:cym&esspa . 1665372_1665772
+*NIN:	mmhm@s:cym&spa . 1665372_1665772
 %eng:	mmhm.
 *SAV:	mae o mor ddiddorol . 1665688_1667416
 %eng:	it's so interesting.
@@ -1725,15 +1725,15 @@
 %eng:	you see one person putting the stress on this word and another person on another word.
 *NIN:	+< ond roedd +... 1672035_1672792
 %eng:	but...
-*NIN:	bob peth yn [/] yn anodd i [/] i wneud er@s:cym@s:cym&esspa (.) fel hynny . 1673464_1678177
+*NIN:	bob peth yn [/] yn anodd i [/] i wneud er@s:cym&spa (.) fel hynny . 1673464_1678177
 %eng:	everything was difficult to do like that.
 *SAV:	wel mae (y)n anodd iawn i (y)r beirniad (.) i feirniadu (.) hunan_ddewisiad . 1678762_1682869
 %eng:	well, it's difficult for the judges to judge the own choice.
-*NIN:	wel@s:cym@s:cym&esspa . 1683039_1683684
+*NIN:	wel@s:cym&spa . 1683039_1683684
 %eng:	well.
 *SAV:	(y)r un peth â (fy)sa nhw (y)n rhoi (y)r hunan_ddewisiad yn adrodd . 1685948_1689014
 %eng:	the same as if they applied the own choice to reciting.
-*NIN:	&=laugh <roedd Pilar@s:cym@s:cym&esspa> [//] roedd Pilar@s:cym@s:cym&esspa yn [/] yn grac . 1691844_1695519
+*NIN:	&=laugh <roedd Pilar@s:cym&spa> [//] roedd Pilar@s:cym&spa yn [/] yn grac . 1691844_1695519
 %eng:	Pilar was angry.
 *SAV:	[- spa] +< cómo puede +... 1692346_1693364
 %eng:	how can...
@@ -1753,7 +1753,7 @@
 *SAV:	(y)r un peth . 1699307_1700007
 %eng:	same thing.
 %com:	does "racs" mean angry in LAm Welsh as opposed to "totally"?
-*NIN:	+< ah@s:cym@s:cym&esspa . 1699469_1699885
+*NIN:	+< ah@s:cym&spa . 1699469_1699885
 %eng:	ah.
 *NIN:	&r racs ? 1699858_1700615
 %eng:	"racs"?
@@ -1773,11 +1773,11 @@
 %eng:	was...
 *NIN:	wel dw i (y)n dweud grac &=laugh . 1705818_1708122
 %eng:	well, that's what I say.
-*NIN:	achos um@s:cym@s:cym&esspa (.) pan um@s:cym@s:cym&esspa yr Eisteddfod yn gorffen +... 1708479_1714457
+*NIN:	achos um@s:cym&spa (.) pan um@s:cym&spa yr Eisteddfod yn gorffen +... 1708479_1714457
 %eng:	because when the Eisteddfod was finishing...
 *SAV:	ie . 1714489_1714857
 %eng:	yes.
-*NIN:	um@s:cym@s:cym&esspa mae (y)r pwyllgor Eisteddfod yn um@s:cym@s:cym&esspa +... 1715257_1720419
+*NIN:	um@s:cym&spa mae (y)r pwyllgor Eisteddfod yn um@s:cym&spa +... 1715257_1720419
 %eng:	the Eisteddfod committee um...
 *NIN:	+, yn galw ? 1722233_1722809
 %eng:	called?
@@ -1793,13 +1793,13 @@
 %eng:	to call?
 *NIN:	na . 1726765_1727059
 %eng:	no.
-*NIN:	&g er@s:cym@s:cym&esspa galw (y)r um@s:cym@s:cym&esspa (.) um@s:cym@s:cym&esspa bobl sy(dd) (y)n arweinydd côr . 1727028_1733122
+*NIN:	&g er@s:cym&spa galw (y)r um@s:cym&spa (.) um@s:cym&spa bobl sy(dd) (y)n arweinydd côr . 1727028_1733122
 %eng:	er, they called the choir leaders.
-*SAV:	oh@s:cym@s:cym&esspa i fynd fyny i gael anrheg . 1733664_1735365
+*SAV:	oh@s:cym&spa i fynd fyny i gael anrheg . 1733664_1735365
 %eng:	oh to go up to receive a gift.
 *NIN:	+< i +... 1734570_1734949
 %eng:	to...
-*NIN:	pob &eb oh@s:cym@s:cym&esspa i i [/] i i pob côr . 1735370_1739977
+*NIN:	pob &eb oh@s:cym&spa i i [/] i i pob côr . 1735370_1739977
 %eng:	each, oh, for each choir.
 *NIN:	ia ? 1740089_1740371
 %eng:	yes?
@@ -1813,15 +1813,15 @@
 %eng:	leader of each choir.
 *NIN:	arwe(inydd) [//] arweinydd pob côr . 1742522_1743834
 %eng:	the leader of each choir.
-*NIN:	[- spa] y mm@s:cym@s:cym&esspa . 1744159_1745455
+*NIN:	[- spa] y mm@s:cym&spa . 1744159_1745455
 %eng:	and mm.
-*NIN:	er@s:cym@s:cym&esspa . 1745935_1746863
+*NIN:	er@s:cym&spa . 1745935_1746863
 %eng:	er.
 *NIN:	&m mae hi (y)n dweud +"/. 1747028_1748543
 %eng:	she says:
-*NIN:	+" dw i (y)n dweud (.) bob (.) er@s:cym@s:cym&esspa blwyddyn . 1748650_1752530
+*NIN:	+" dw i (y)n dweud (.) bob (.) er@s:cym&spa blwyddyn . 1748650_1752530
 %eng:	I say every year.
-*NIN:	+" er@s:cym@s:cym&esspa pam er@s:cym@s:cym&esspa &dy dydi [//] dydyn nhw ddim yn er@s:cym@s:cym&esspa galw ar bobl sy(dd) (y)n (.) arwain [/] arwain (.) um@s:cym@s:cym&esspa +... 1753223_1766490
+*NIN:	+" er@s:cym&spa pam er@s:cym&spa &dy dydi [//] dydyn nhw ddim yn er@s:cym&spa galw ar bobl sy(dd) (y)n (.) arwain [/] arwain (.) um@s:cym&spa +... 1753223_1766490
 %eng:	er, why they don't call on the people leading um...
 *SAV:	&=cough . 1766389_1767125
 *NIN:	+, grŵp o dawns . 1767626_1768837
@@ -1830,18 +1830,18 @@
 %eng:	because we're... they're...
 *SAV:	+< dyn nhw ddim [/] dyn nhw +/. 1771180_1772162
 %eng:	they're not...
-*NIN:	oh@s:cym@s:cym&esspa be . 1772284_1772748
+*NIN:	oh@s:cym&spa be . 1772284_1772748
 %eng:	oh.
 *NIN:	mae [/] maen nhw (y)n dweud (.) bob amser +"/. 1772738_1774471
 %eng:	they say every time.
-*NIN:	+" oh@s:cym@s:cym&esspa achos mae er@s:cym@s:cym&esspa bobl yn gweithio trwy (y)r &f er@s:cym@s:cym&esspa +... 1774575_1780641
+*NIN:	+" oh@s:cym&spa achos mae er@s:cym&spa bobl yn gweithio trwy (y)r &f er@s:cym&spa +... 1774575_1780641
 %eng:	oh because people work throughout the, er...
 *SAV:	+< &=cough . 1774879_1775749
 *SAV:	flwyddyn . 1780558_1781139
 %eng:	year.
 *NIN:	+, blwyddyn . 1781139_1781928
 %eng:	year.
-*NIN:	i er@s:cym@s:cym&esspa i [/] i paratoi ar gyfer Eisteddfod . 1782017_1785697
+*NIN:	i er@s:cym&spa i [/] i paratoi ar gyfer Eisteddfod . 1782017_1785697
 %eng:	to prepare for the Eisteddfod.
 *SAV:	+< xxx (..) ie . 1783211_1785099
 %eng:	[...] ... yes.
