@@ -54,7 +54,7 @@
 *VAL:	ie . 67567_68635
 *VAL:	dw i ddim yn gwybod sut mae (y)r nefoedd . 68937_70389
 *VAL:	ond oedd dad yn dweud bob amser oedd o (y)n dweud +"/. 70365_73163
-*VAL:	+" yn y nefoedd mae nhw (y)n siarad Cymraeg +". 73326_74836
+*VAL:	+" yn y nefoedd maen nhw (y)n siarad Cymraeg +". 73326_74836
 *VAL:	&=laugh +/. 74824_76124
 *EST:	+< &=laugh . 74943_76650
 *VAL:	achos oedd o (y)n hoff iawn o [/] o ganu yn Gymraeg a siarad yn Gymraeg . 76348_80202
@@ -96,14 +96,14 @@
 *VAL:	mae xx (we)di . 147069_147904
 *EST:	ah@s:cym&spa . 147701_147974
 *VAL:	a mae xx ar Williams@s:cym&spa yndy ? 147997_149315
-*EST:	mae nhw xxx . 149716_150772
+*EST:	maen nhw xxx . 149716_150772
 *VAL:	sy ochr draw i (y)r ffordd . 149977_151376
 *VAL:	ond um +... 152469_153392
 *EST:	a mi fydd y newid lot mwy ar_ôl y creisis . 153850_157101
 *VAL:	+< bydd fydd . 156457_157223
 *EST:	dw i meddwl fod um +... 156971_158620
 *VAL:	fydd lot o bobl yn symud o Fuenos_Aires@s:cym&spa . 158806_160431
-*VAL:	dw i ddim yn &g gwybod sut mae nhw yn gallu byw draw welaist ti ? 160449_163572
+*VAL:	dw i ddim yn &g gwybod sut maen nhw yn gallu byw draw welaist ti ? 160449_163572
 *EST:	na . 163926_164385
 *EST:	<a mae> [//] (..) <a ar_ôl y> [/] ar_ôl y [/] y pethau wella gobeithio fod [//] (.) fydd o (y)n fuan um (.) bydd lot mawr o bobl yn symud er@s:cym&spa yn dal i [/] i ddod trwy (y)r +... 164501_177446
 *VAL:	+< xxx . 164719_165856
@@ -281,7 +281,7 @@
 *EST:	+< ie . 544910_545282
 *EST:	ond oedd gen i ffôn perthynau o Cymru . 547314_550994
 %com:	perthynau isn't really a word. He's trying to say 'perthnasau'.
-*EST:	a mae nhw wedi ffonio . 551452_552509
+*EST:	a maen nhw wedi ffonio . 551452_552509
 *EST:	oh@s:cym&spa dw i (ddi)m yn gwybod dyma pam hwyrach er@s:cym&spa dw i wedi cael er@s:cym&spa mynd i_fewn . 552555_556840
 *VAL:	ie . 557101_558099
 *EST:	ie ie . 558030_560444
@@ -448,7 +448,7 @@
 *EST:	a ysgol Sul a +... 889438_891621
 *VAL:	ah@s:cym&spa (dy)na neis . 890181_891667
 *EST:	ia . 891655_892270
-*VAL:	ble mae nhw (y)n mynd (.) i (y)r ysgol ? 891771_893582
+*VAL:	ble maen nhw (y)n mynd (.) i (y)r ysgol ? 891771_893582
 *EST:	er@s:cym&spa i [/] i xxx . 894209_897227
 *VAL:	capel Methodistiaid ? 895904_896995
 *VAL:	oh@s:cym&spa xxx . 897158_898667
@@ -716,7 +716,7 @@
 *VAL:	oedd hwnna (y)n [/] yn rywbeth newydd yn yr Eisteddfod . 1396785_1398875
 *EST:	<mae er@s:cym&spa> [/] (.) mae (y)n tebyg bod mae [/] mae lot o bobl yn [/] (.) yn [/] yn mynd i ddefnyddio hwn . 1400725_1406646
 *VAL:	ie siŵr . 1406809_1407644
-*VAL:	o(eddw)n i (y)n dweud (.) basai yn neis cael mwy o [/] (..) mwy o hwyl yn yr Eisteddfod fel [/] fel mae nhw (y)n cael draw welaist ti . 1408088_1416435
+*VAL:	o(eddw)n i (y)n dweud (.) basai yn neis cael mwy o [/] (..) mwy o hwyl yn yr Eisteddfod fel [/] fel maen nhw (y)n cael draw welaist ti . 1408088_1416435
 *EST:	ie . 1416639_1417173
 *VAL:	<mae o> [/] mae o +... 1417509_1418717
 *EST:	ie <mae o> [//] mae (y)r Eisteddfodau yma yn wahanol iawn i (y)r Eisteddfodau yr Cymry [?] . 1418839_1423599
@@ -725,7 +725,7 @@
 *VAL:	xxx . 1426037_1426734
 *EST:	+< wel (.) ia . 1426293_1427268
 *VAL:	ie ? 1426908_1427280
-*VAL:	ond draw mae nhw (y)n wneud mwy (.) i (y)r twristiaid dw i (y)n credu . 1427686_1430948
+*VAL:	ond draw maen nhw (y)n wneud mwy (.) i (y)r twristiaid dw i (y)n credu . 1427686_1430948
 *EST:	wel mae gen ti ffair mawr tu allan a +... 1431891_1434642
 *VAL:	+< um . 1432088_1432657
 *VAL:	ie . 1435327_1435733
@@ -741,7 +741,7 @@
 *VAL:	a un fan (h)yn (.) fasa (y)n neis . 1455992_1458674
 *VAL:	a fasa hwnna (y)n dod a lot o twristiaid a pobl (.) sy ddim yn nabod y +/. 1459074_1463823
 *EST:	&=cough wyt ti yn gwybod bod mae (.) bobl sy [/] sy (.) erioed wedi [/] wedi fod mewn Eisteddfod . 1463873_1470967
-*EST:	mae nhw (y)n mynd tro cyntaf mae (y)r (.) rhan fwyaf yn wirioni . 1471664_1474648
+*EST:	maen nhw (y)n mynd tro cyntaf mae (y)r (.) rhan fwyaf yn wirioni . 1471664_1474648
 *VAL:	ie . 1474812_1475172
 *EST:	um ti (y)n gwybod am (.) um (..) ah@s:cym&spa Maria@s:cym&spa xxx la@s:spa la@s:spa y wraig um xx_Jones@s:cym&spa . 1477352_1488707
 *VAL:	beth ydy enw hi . 1489262_1490841
@@ -800,9 +800,9 @@
 *VAL:	<dyna (y)r> [/] dyna (y)r gwahaniaeth . 1617163_1618359
 *EST:	dyna (y)r gwahaniaeth . 1618719_1619949
 *VAL:	mae (y)na lot o bobl yn sgwennu &g cerdd . 1619206_1621377
-*EST:	ond <mae nhw (y)n> [/] mae nhw (y)n wneud o (.) Sbaeneg . 1621470_1623932
-*VAL:	a wedyn mae nhw (y)n (.) cyfieithu . 1624106_1625905
-*EST:	+< mae nhw (y)n troi . 1624686_1625557
+*EST:	ond <maen nhw (y)n> [/] maen nhw (y)n wneud o (.) Sbaeneg . 1621470_1623932
+*VAL:	a wedyn maen nhw (y)n (.) cyfieithu . 1624106_1625905
+*EST:	+< maen nhw (y)n troi . 1624686_1625557
 *EST:	ie . 1625987_1626672
 *VAL:	a (dy)dy hwnna ddim yr un peth . 1626808_1628224
 *EST:	na . 1628317_1628782
