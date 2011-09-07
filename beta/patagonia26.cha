@@ -29,7 +29,7 @@
 *VAL:	ond mae yn dros y byd i_gyd welest ti . 22400_23979
 *VAL:	mae pawb yn yr un peth . 23875_25001
 *VAL:	so dan ni ddim yn poeni llawer chwaith . 24943_26707
-*EST:	+< mm . 24966_25419
+*EST:	+< mm +... 24966_25419
 *VAL:	dan ni ddim yn poeni llawer chwaith . 25477_26684
 *EST:	na . 26870_27520
 *VAL:	dyna [//] dan ni (y)n byw mewn lle mor neis . 28897_31069
@@ -49,7 +49,7 @@
 *VAL:	[- spa] +< Paraíso . 61125_61891
 *VAL:	wel fel y nefoedd ynde . 62309_63900
 *VAL:	&=laugh . 63922_65443
-*EST:	+< mm . 64200_64909
+*EST:	+< mm +... 64200_64909
 *VAL:	rhywle debyg i (y)r nefoedd . 65965_67393
 *VAL:	ie . 67567_68635
 *VAL:	dw i ddim yn gwybod sut mae (y)r nefoedd . 68937_70389
@@ -173,7 +173,7 @@
 *EST:	a dw i wedi bod yn +//. 300868_302865
 *EST:	dim yn byw . 303074_303643
 *EST:	ond dw i wedi (.) fod yn Buenos_Aires@s:cym&spa a wedyn yn Llundain hefyd . 303682_307211
-*VAL:	mm . 307513_308210
+*VAL:	mm +... 307513_308210
 *EST:	a dw i (y)n meddwl dan ni (y)n er@s:cym&spa +... 307882_310982
 *VAL:	++ cyfoethog . 311841_312689
 *EST:	<ia cyfoethog> [=! laugh] . 312828_314291
@@ -206,7 +206,7 @@
 *EST:	ond dan ni yn wedi cael ryw gwahaniaeth cyn fynd . 389821_392003
 *EST:	felly oedd hi ddim yn mynd . 392735_394116
 *EST:	ac oedd fi yn mynd . 394186_395173
-*VAL:	+< mm . 394291_395301
+*VAL:	+< mm +... 394291_395301
 *EST:	ac er@s:cym&spa oedd y cysylltiad (.) efo hi yno . 395905_400758
 *VAL:	+< efo hi . 399771_400967
 *EST:	+< ah@s:cym&spa . 401048_402662
@@ -235,7 +235,7 @@
 *EST:	oedd . 462175_462511
 *VAL:	oedd o wedi dechrau (.) wneud y papurau i gael yr (.) visa@s:cym&spa gwaith . 462609_466028
 *VAL:	oedd o wedi talu pedwar cant o bunnoedd am [/] am y papurau . 466392_469509
-*EST:	+< mm . 466514_466897
+*EST:	+< mm +... 466514_466897
 *VAL:	a chafodd o ddim y gwaith (.) dim yr er@s:cym&spa trwydded (.) ddim yr arian yn_ôl . 470153_474158
 %com:	not sure if she's retracing or just listing for effect
 *VAL:	a dod (y)n_ôl efo ryw teimlad (.) ych_a_fi welaist ti . 474839_479141
@@ -246,7 +246,7 @@
 *EST:	a mae chwaer er@s:cym&spa Erika@s:cym&spa . 482517_483858
 *VAL:	chwaer i Erika@s:cym&spa . 483963_484793
 *VAL:	mae lot o blant a lot o bobl ifanc . 484822_487034
-*EST:	+< mm . 485501_485896
+*EST:	+< mm +... 485501_485896
 *VAL:	dyna (y)r piti . 486989_487872
 *EST:	+< wel (.) &ke er@s:cym&spa ces i profiad um (.) drwg iawn (.) pan [/] pan oedd fi yn mewn yn [/] yn Heathrow@s:cym&spa . 487066_496110
 *VAL:	ah@s:cym&spa . 496577_497796
@@ -307,7 +307,7 @@
 *VAL:	pryd oeddet ti (y)n dod allan . 615920_617023
 *EST:	ia . 616652_617221
 *EST:	dyma pam dw i (y)n meddwl mae o wedi um xxx . 617891_621607
-*VAL:	mm . 620817_622048
+*VAL:	mm +... 620817_622048
 *EST:	yr ail dro oedd fi efo (y)r +/. 623749_626001
 *VAL:	ond peth cas ydy o pam wyt ti (y)n bell o gartref . 624004_626686
 *EST:	xxx . 626686_627441
@@ -351,7 +351,7 @@
 *VAL:	&=laugh . 692324_695470
 *EST:	ac oedd fi yn gwybod yn iawn xxx . 693334_696550
 *VAL:	&=cough . 695424_696585
-*EST:	mm . 696736_697467
+*EST:	mm +... 696736_697467
 *VAL:	ia . 697525_698512
 *EST:	a wedyn es i i Aberystwyth@s:cym&spa efo +... 698708_701715
 *VAL:	++ Cerys@s:cym&spa . 701866_702272
@@ -413,7 +413,7 @@
 *EST:	+< ia &=laugh . 823078_824262
 *EST:	na dw i isio mynd yn_ôl xxx . 829359_830508
 *EST:	oedd [/] oedd ni er@s:cym&spa (.) er@s:cym&spa Erika@s:cym&spa a fi <yn yn> [/] yn gorfod fynd er@s:cym&spa (..) er@s:cym&spa i yr eisteddfod ddiwethaf er@s:cym&spa dwy fil a naw . 830620_841011
-*VAL:	mm . 841083_842104
+*VAL:	mm +... 841083_842104
 *EST:	ia . 842046_842371
 *EST:	ond xxx o(eddw)n i methu . 842650_844368
 *VAL:	a chi +/. 843881_844693
@@ -422,7 +422,7 @@
 *EST:	ie . 848229_848635
 *VAL:	ie . 848763_849250
 *VAL:	car siŵr bod o (y)n drud iawn . 849459_851352
-*EST:	mm . 851526_852211
+*EST:	mm +... 851526_852211
 *VAL:	a beth am dy blant ? 852664_853848
 *EST:	a un +/. 852907_853441
 *VAL:	ydy nhw (y)n siarad Cymraeg . 853859_854904
@@ -435,7 +435,7 @@
 *VAL:	ti (y)n gwybod be dw i yn credu ydy o ? 863765_865831
 *VAL:	mae (y)na lot o ddewis yn y dre rŵan . 865854_867468
 *VAL:	oedd (y)na dim o (y)r blaen . 867940_869263
-*EST:	+< mm . 868323_868671
+*EST:	+< mm +... 868323_868671
 *VAL:	pan <oedd y> [//] dechreuodd yr ysgol Cymraeg oedd yna ddim llawer o ddewis . 869379_872990
 *VAL:	oedd y plant ddim yn cael yr pwll nofio na lle fynd i dawnsio na paentio na ddim_byd . 873562_879332
 *EST:	(dy)na fo ia . 875837_877010
@@ -465,7 +465,7 @@
 *VAL:	ydy hi (y)n mynd i (y)r xxx ? 921685_923786
 *EST:	ydy . 923775_924262
 *VAL:	ah@s:cym&spa o(eddw)n i (y)n fan (y)na hefyd heddiw . 924216_926247
-*EST:	mm . 926491_927014
+*EST:	mm +... 926491_927014
 *VAL:	+< achos ar ddydd Mawrth am bedwar o (y)r gloch dan ni (y)n cwrdd a ein_gilydd i siarad Cymraeg (.) yn (y)r el@s:spa rincon@s:spa del@s:spa arte@s:spa . 926573_933164
 %eng:	[...] the art place
 *VAL:	a dim_ond (.) mynd i gweu neu neu unrhyw (..) artesanía@s:spa . 932839_938679
@@ -493,11 +493,11 @@
 *VAL:	faset ti (y)n gallu gwrando ar cerddoriaeth xxx . 973802_976287
 *EST:	+< ia . 974046_974580
 *EST:	<Radio [/] Radio_Nacional dw i (y)n> [///] yn y picop@s:cym&spa mae gen i Radio_Nacional@s:cym&spa felly <dw i (y)n> [/] dw i (y)n gwrando ar er@s:cym&spa Joyce_Powell@s:cym&spa . 975288_982974
-*VAL:	+< mm . 979584_980060
+*VAL:	+< mm +... 979584_980060
 *VAL:	+< xxx . 980567_981530
 *VAL:	ar ddydd Sadwrn . 983225_984015
 *EST:	ar ddydd Sadwrn ia . 984177_985489
-*VAL:	+< mm . 984909_985733
+*VAL:	+< mm +... 984909_985733
 *EST:	ti (y)n gwybod bod dan ni (y)n cael asado@s:spa (.) dydd Sadwrn . 987439_990690
 *EST:	<neu Sadwrn> [?] . 990771_991561
 *VAL:	ie yn lle Vernon@s:cym&spa . 991688_993000
@@ -533,7 +533,7 @@
 *VAL:	a (fa)sai ni (y)n gallu gofyn i Maria@s:cym&spa ganu rhywbeth . 1059145_1063685
 *EST:	mm (.) ie . 1061676_1062930
 *VAL:	achos mae hi +... 1062909_1063768
-*EST:	mm . 1063768_1064372
+*EST:	mm +... 1063768_1064372
 *VAL:	ti (y)n gwybod bod Maria@s:cym&spa wedi symud i (y)r dre i byw (.) ar ben ei hunan ? 1064674_1067878
 *EST:	naddo . 1067936_1068587
 *VAL:	ie (.) mae (y)n byw yn lle oedd um +... 1068656_1071419
@@ -567,7 +567,7 @@
 *VAL:	na mae (y)n (.) anodd iawn byw +/. 0_0
 *EST:	yndy siŵr . 1115951_1116682
 *VAL:	+, byw ar y fferm a (.) gweithio yn y dre ynde (.) os gen ti ddim car &=laugh . 1116694_1121350
-*EST:	+< mm . 1121071_1121628
+*EST:	+< mm +... 1121071_1121628
 *VAL:	na mae (y)n hapus iawn . 1122577_1123634
 *VAL:	<a mae yn gweithio (y)n> [//] wel mae (y)n gweithio yn ysgol bilingüe@s:spa . 1123855_1126908
 %eng:	well she works in a bilingual school
@@ -580,7 +580,7 @@
 *EST:	eh@s:cym&spa xx . 1139707_1140833
 *VAL:	mae hi (y)n talentog iawn . 1140461_1141553
 *EST:	talentog iawn . 1141216_1142238
-*VAL:	mm . 1142214_1143027
+*VAL:	mm +... 1142214_1143027
 *EST:	yndy . 1143016_1143991
 *VAL:	hogan talentog iawn . 1143979_1145163
 *EST:	ydy . 1145523_1146127
@@ -633,7 +633,7 @@
 *EST:	ie . 1247457_1248259
 *VAL:	ond oedd llawer o bobl ddim yn cerdded i_fyny . 1249701_1251733
 *VAL:	fel Robert_Owen_Jones@s:cym&spa oedd o ddim [/] ddim yn mynd . 1252233_1254985
-*EST:	mm . 1254788_1255113
+*EST:	mm +... 1254788_1255113
 *VAL:	o(eddw)n i (y)n amau hwyrach Robert@s:cym&spa ydy o . 1255310_1257040
 *VAL:	<o(eddw)n i> [//] oedd Hywel_Morfudd@s:cym&spa ddim yn cerdded chwaith . 1257435_1260198
 *VAL:	o(eddw)n i (y)n meddwl oh@s:cym&spa hwyrach Morfudd@s:cym&spa ydy hi . 1260500_1263112
@@ -661,7 +661,7 @@
 *EST:	ia . 1303473_1304060
 *EST:	neis iawn . 1304425_1305354
 *VAL:	neis bod rhywun o fan (h)yn wedi cael [/] (..) cael y gadair draw (.) &=laugh . 1306070_1310975
-*VAL:	hmm . 1309011_1309527
+*VAL:	hmm +... 1309011_1309527
 *EST:	ie . 1311356_1311762
 *VAL:	oes rywun yn dy deulu di yn sgwennu ? 1314103_1316158
 *VAL:	achos mae (y)na llawer yn canu . 1316687_1317894
@@ -734,7 +734,7 @@
 *EST:	newid y lle wyt ti (y)n meddwl ? 1446136_1447065
 *VAL:	newid lle ? 1446937_1447935
 *VAL:	ac un waith yn Trevelin@s:cym&spa (.) er enghraifft . 1448075_1450083
-*EST:	+< hmm . 1448319_1448748
+*EST:	+< hmm +... 1448319_1448748
 *EST:	+< ie . 1449561_1450083
 *VAL:	un [/] (..) un yn y Dwyrain un yn y &=laugh +... 1451278_1455632
 *EST:	+< bosib &=laugh . 1454773_1455969
@@ -755,13 +755,13 @@
 *EST:	beth oedd fi (y)n meddwl am ddod yma . 1505860_1508948
 *EST:	oedd hi &y yn gwirioni . 1516347_1517810
 *EST:	oedd hi methu credu y plant (.) er@s:cym&spa <a a> [/] a cymaint o bobl yn [/] yn canu a wneud pethau gwahanol . 1517833_1526448
-*VAL:	+< mm . 1525821_1527237
+*VAL:	+< mm +... 1525821_1527237
 *VAL:	a mae hwnna (y)n siarad <am ein> [/] am ein +//. 0_0
 *VAL:	beth ydy cultura@s:spa ? 1530983_1534466
 *EST:	ah@s:cym&spa ia . 1534768_1536068
 *EST:	dw i (ddi)m yn cofio y gair . 1536138_1537763
 *VAL:	ia wel (.) ti (ddi)m yn cofio . 1536138_1538576
-*EST:	mm . 1538623_1539551
+*EST:	mm +... 1538623_1539551
 *VAL:	um ie . 1540132_1541270
 *VAL:	mae hwn yn siarad am beth ydan ni yn [//] (.) fel Cymru yndy . 1544390_1550078
 *EST:	&ba +/. 1544552_1545365
@@ -857,7 +857,7 @@
 *VAL:	ie gwaith [//] mae hwnna (y)n gwaith caletach o +... 1716491_1718743
 *VAL:	ond um hwyrach fydd hi (y)n cael hwyl . 1719219_1722076
 *VAL:	ond (.) o leiaf <mae (y)r> [/] mae (y)r gwaith i_gyd efo (e)i gilydd . 1722358_1725562
-*EST:	mm . 1725713_1726050
+*EST:	mm +... 1725713_1726050
 *VAL:	mae [/] mae (y)na copi (.) efo ni . 1726085_1728372
 *EST:	da iawn . 1728952_1729707
 *VAL:	bob un ohonan ni ynde . 1729254_1730671
@@ -895,7 +895,7 @@
 *EST:	cymeriad o(eddw)n i (y)n meddwl . 1776817_1778082
 *VAL:	achos (.) ar_ôl [/] ar_ôl bod yn yr [/] (.) yn yr rhyfel cyntaf oedd . 1778767_1783458
 *VAL:	ac oedd o wedi ymladd (..) yn [/] yn galed iawn (.) yn Gogledd Africa a llefydd felly (.) wsti ? 1784260_1792538
-*EST:	mm . 1791388_1792120
+*EST:	mm +... 1791388_1792120
 *VAL:	ac <oedd o wedyn> [///] oedd o yn mynd +... 1793003_1794895
 *VAL:	oedd o wedi drysu (y)na (.) dw i (y)n credu . 1794965_1797124
 *VAL:	ac oedd o (y)n yfed a pethau felly . 1797716_1800178
@@ -908,7 +908,7 @@
 *EST:	yn y be (y)dy o (.) yn y rhyfel cyntaf . 1819380_1821958
 *VAL:	wedi mynd <yn yr> [//] yn y [//] <yr &k> [/] yr +... 1819599_1821492
 *EST:	oedd o (y)n paffio i (.) Awstralia . 1823003_1825186
-*VAL:	mm . 1825592_1826445
+*VAL:	mm +... 1825592_1826445
 *EST:	a mae o wedi (.) mynd . 1826474_1828616
 *EST:	oedden nhw yn byw yma . 1828976_1830218
 *EST:	oedd y teulu wedi symud i Awstralia . 1830334_1832546
@@ -926,7 +926,7 @@
 *EST:	+" mae gen i gariad yno +". 1865733_1866580
 *VAL:	&=laugh . 1866650_1868113
 *EST:	a wedi gadael y teulu gyd yno (.) yn Awstralia . 1867505_1870977
-*VAL:	mm . 1869494_1870388
+*VAL:	mm +... 1869494_1870388
 *EST:	ac oedd o (y)n dod i Santiago@s:cym&spa +/. 1871731_1874181
 *VAL:	Santiago@s:cym&spa de@s:spa Chile@s:cym&spa . 1874622_1875504
 *EST:	+, de@s:spa de@s:spa Chile@s:cym&spa (.) yn y cwch . 1874773_1876828
@@ -965,20 +965,20 @@
 *EST:	mi oedd yn arferiad er@s:cym&spa tan <ddim ddim> [/] ddim (er)s_talwm iawn (fa)swn i (y)n deud . 1972483_1977522
 *VAL:	ie . 1977174_1977522
 *VAL:	oedd dad yn dweud bob tro <oedd y> [//] basai (y)r Ariannin yn mynd (.) i rhyfel rhwng (.) Chile@s:cym&spa neu rhywbeth fasai fo yn ymladd hefyd . 1977661_1985602
-*EST:	+< mm . 1984604_1985022
+*EST:	+< mm +... 1984604_1985022
 *VAL:	ond o(eddw)n i (y)n deud wrth lwc oedd o wedi marw <cyn i (y)r> [/] cyn i (y)r rhyfel <y Malvinas@s:cym&spa neu fasai fo isio mynd ynde> [=! laugh] . 1986044_1992313
 *EST:	+< &=laugh ie . 1989312_1992586
 *VAL:	na (.) <oedd y> [/] oedd y Malvinas@s:cym&spa yn teimlad rhyfedd i fi hefyd . 1993552_1998381
 *EST:	ie . 2000029_2000447
 *VAL:	a mwy rhyfedd i bobl oedd yn dod i ymladd o [/] (.) o Gymru . 2000087_2004511
 *VAL:	welest ti oedd yna criw o Gymru yn dod ac oedd yna teimlad (.) rhyfedd rhyfedd fan (y)na . 2004789_2009364
-*EST:	mm . 2007773_2008226
+*EST:	mm +... 2007773_2008226
 *EST:	ie . 2011139_2011777
 *EST:	wel does [/] does dim (..) xxx &=laugh . 2012996_2018383
 *VAL:	(fa)swn i ddim yn mynd i ymladd . 2016932_2019591
 *VAL:	yr adeg oedden ni mewn trwbl efo Chile@s:cym&spa (.) o(eddw)n i (y)n symud o (y)r dre fan (h)yn i (y)r fferm . 2019876_2025171
 *EST:	+< ia . 2020283_2020724
-*EST:	+< mm . 2023000_2023510
+*EST:	+< mm +... 2023000_2023510
 *VAL:	o(eddw)n i (y)n mynd i byw yn yr hen dŷ (.) efo (y)r plant . 2025229_2028375
 *EST:	ie . 2027214_2027574
 *VAL:	meddwl efo Charlie@s:cym&spa <basen nhw (y)n> [/] basen nhw (y)n well ar y fferm . 2028905_2033177
@@ -1052,7 +1052,7 @@
 *EST:	a xxx +... 2172611_2174863
 *VAL:	[- eng] United_Nations &=laugh . 2173226_2174747
 *EST:	mi oedd (yn)a cyfarfod mawr blwyddyn yn_ôl yn [/] yn (.) Gogledd America . 2174943_2181178
-*VAL:	+< mm . 2180388_2181248
+*VAL:	+< mm +... 2180388_2181248
 *EST:	<mae hi> [/] mae hi wedi deud +"/. 2181236_2182652
 *EST:	+" dan ni (y)n meddwl fod (..) mae hwn yn biau ni . 2183338_2186972
 *VAL:	+< xxx . 2184905_2185463
@@ -1077,7 +1077,7 @@
 *VAL:	&=clears_throat wnes i ddarllen hwnna (.) pam o(eddw)n i draw yn [//] (.) yng Nghymru (..) yn yr ysgol . 2216018_2223390
 *VAL:	ac oedd o yn dweud yr hanes . 2223889_2225729
 *VAL:	oedd o yn mynd <i (y)r> [//] i ryw capel bach (.) ac yn canu [/] (.) canu oedd o yn canu carolau (.) yn Gymraeg . 2226060_2234489
-*EST:	mm . 2234765_2235160
+*EST:	mm +... 2234765_2235160
 *VAL:	ac yn sydyn oedd yna nyrs (.) yn sefyll <wrth &o> [//] wrth ochr o (.) yn dweud +"/. 2234974_2240338
 *VAL:	+" dw i (y)n dod o Gymru +"/. 2241406_2242602
 *EST:	ac oedd hi +/. 2243908_2245092

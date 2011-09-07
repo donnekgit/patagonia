@@ -426,7 +426,7 @@
 *LIN:	oes . 915900_916535
 *ISA:	&=gasp . 915959_916631
 *LIN:	<i i> [/] i xxx oes . 916863_918773
-*ISA:	i (y)r hogan fach mm . 917711_918751
+*ISA:	i (y)r hogan fach mm +... 917711_918751
 *LIN:	oes oes . 919130_920101
 *LIN:	mae (y)n hogan bach +... 921184_922698
 *ISA:	++ dlws . 923813_924533
@@ -725,7 +725,7 @@
 *LIN:	oedda fi (y)n gwneud [//] er@s:cym&spa codi (y)r er@s:cym&spa y sgert yn y ysgol wedyn a yn gweld yr er@s:cym&spa &=taps_leg +/. 1408413_1413570
 *ISA:	++ clais . 1413250_1413725
 *LIN:	y clais yn yr er@s:cym&spa +... 1413771_1415163
-*ISA:	+< mm . 1414489_1414910
+*ISA:	+< mm +... 1414489_1414910
 *LIN:	y [//] yr unig waith i dada . 1416000_1417771
 *LIN:	er@s:cym&spa oedd mam yn roid dipyn i fi . 1417782_1420038
 *LIN:	ond oedda fi (y)n hogan ddrwg siŵr . 1420417_1422993
@@ -737,7 +737,7 @@
 *LIN:	+< oedden . 1434124_1434978
 *ISA:	bathio yn yr afon . 1438412_1440290
 %com:	The verb 'bathio' would be considered archaic in modern Welsh.
-*LIN:	mm . 1440066_1441015
+*LIN:	mm +... 1440066_1441015
 *LIN:	oedd y +/. 1441442_1442157
 *ISA:	oeddech chi (y)n wneud rywbeth yn yr afon ? 1441709_1443021
 *LIN:	oedden xxx . 1443063_1444269
@@ -808,7 +808,7 @@
 *ISA:	y be llosgodd ? 1544733_1546045
 *LIN:	y bwrdd . 1546152_1546824
 *ISA:	y bwrdd ? 1546909_1547624
-*LIN:	mm . 1547005_1548136
+*LIN:	mm +... 1547005_1548136
 *ISA:	a pam ? 1548168_1548744
 *LIN:	pryd llosgodd ryw lle oedd eh@s:cym&spa . 1548936_1551602
 *ISA:	ond allan yn y +//. 1551752_1552744
