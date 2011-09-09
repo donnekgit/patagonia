@@ -13,8 +13,8 @@
 @Media:	Patagonia19, audio
 @Comment:	Filename: Patagonia19.cha; Soundfile: Patagonia19.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-*EDU:	agor hwn xxx . 3280_4301
-%eng:	open this [...]
+*EDU:	agor hwn yn fan (a)cw . 3280_4301
+%eng:	open this there
 *EDU:	tyrd yma Mariela@s:cym&spa . 7781_8507
 %eng:	come here Mariela
 *EDU:	ti (y)n gallu dod yma i siarad ? 8472_9888
@@ -61,7 +61,7 @@
 *MLA:	i gysgu . 68551_69706
 %eng:	to sleep
 *EDU:	pam est ti i gysgu ? 70379_71744
-%eng:	why did you go there to sleep?
+%eng:	why did you go to sleep?
 *MLA:	achos (.) oedd y pen_blwydd (..) fy cyfnither . 72523_77399
 %eng:	because it was my female cousin's birthday
 *EDU:	yeah@s:cym&spa faint oedd hi (y)n cael ? 78080_79746
@@ -91,7 +91,7 @@
 %eng:	another cousin
 *EDU:	cyfnither arall . 97122_98452
 %eng:	another cousin
-*EDU:	be wnaethoch chi yn y party@s:cym&spa yna ? 98764_100854
+*EDU:	be wnaethoch chi yn y parti yna ? 98764_100854
 %eng:	what did you do in this party?
 *MLA:	dawnsio . 101415_102611
 %eng:	we danced
@@ -123,7 +123,7 @@
 %eng:	did you recognize them?
 *MLA:	na . 123957_124410
 %eng:	no
-*EDU:	Jinci_Janci hwnnw ? 125756_127039
+*EDU:	Jinci_Janci@s:cym&spa hwnnw ? 125756_127039
 %eng:	Jinci Janci, that one?
 *MLA:	na ? 127098_127910
 %eng:	no?
@@ -149,15 +149,16 @@
 *MLA:	dadi Siancin@s:cym&spa . 147273_148522
 *EDU:	well@s:cym&spa beth bynnag ydy o . 148574_150228
 %eng:	well whatever it is
-*EDU:	dadi@s:cym&spa Siancin@s:cym&spa . 150268_151731
+*EDU:	dadi Siancin@s:cym&spa . 150268_151731
+%eng:	daddy Siancin
 *MLA:	&=laugh . 150291_150906
 *EDU:	er@s:cym&spa +... 152601_153715
 *EDU:	er@s:cym&spa +... 155418_155998
-%com:	Eduardo adresses his wife in spanish for a brief period
+%com:	Eduardo adresses his wife in spanish for a brief period [check] Transcribe this?
 *EDU:	er@s:cym&spa Maleira@s:cym&spa stop gyda (y)r fwyd achos mae hwn [//] peiriant yma (y)n recordio ti (y)n deall ? 167809_172882
 %eng:	er, Maleira, stop with the food because this machine is recording, understand?
-*EDU:	a os wyt ti yn bwyta (..) wel [?] (dy)dyn nhw ddim yn (..) clywed y peth yn iawn . 173210_177697
-%eng:	and if you eat, well, they can't hear the thing properly
+*EDU:	a os wyt ti yn bwyta (..) (dy)dyn nhw ddim yn (..) clywed y peth yn iawn . 173210_177697
+%eng:	and if you eat, they can't hear it properly
 *EDU:	wnawn ni xx +/. 178056_179002
 %eng:	we'll...
 *MLA:	o_k@s:cym&spa . 178271_178840
@@ -183,12 +184,12 @@
 %eng:	why did you sleep?
 *EDU:	achos oedd yna be yna ? 196324_197497
 %eng:	because of what?
-*MLA:	oedd yna pyjama@s:cym&spa party@s:cym&spa . 198241_199913
+*MLA:	oedd yna pyjama parti . 198241_199913
 %eng:	there was a pyjama party
-*EDU:	pyjama@s:cym&spa party@s:cym&spa <o o> [//] pam ? 199821_202462
+*EDU:	pyjama parti <o [/] o> [//] pam ? 199821_202462
 %eng:	why a pyjama party?
 *MLA:	pa(m) be ? 204228_205041
-*EDU:	pam oedd [/] oedd (y)na pyjama@s:cym&spa party@s:cym&spa ? 205140_206916
+*EDU:	pam oedd [/] oedd (y)na pyjama parti ? 205140_206916
 %eng:	why was there a pyjama party?
 *MLA:	achos oedd e pen_blwydd cyfnither fi . 207235_209569
 %eng:	because it was my cousin's birthday
@@ -220,10 +221,10 @@
 *MLA:	Silvia@s:cym&spa . 227762_228429
 *EDU:	Silvia@s:cym&spa (.) ia . 228739_229732
 %eng:	Silvia, yes
-*EDU:	Silvia@s:cym&spa ydy dy hoff gyfnither di ynde ? 231849_234810
+*EDU:	Silvia@s:cym&spa ydy dy hoff cyfnither di ynde ? 231849_234810
 %eng:	Silvia is your favourite female cousin isn't she?
 *MLA:	mhm@s:cym&spa . 235192_235906
-*EDU:	<neu neu> [/] neu pwy ? 236005_237329
+*EDU:	neu [/] neu [/] neu pwy ? 236005_237329
 %eng:	or who?
 *MLA:	Silvia@s:cym&spa . 237660_238240
 *EDU:	Silvia@s:cym&spa . 238379_239099
@@ -239,23 +240,24 @@
 %eng:	what bad things do you do?
 *MLA:	ddim yn gwybod . 250672_251856
 %eng:	I don't know
-*EDU:	dim pethau ry drwg gobeithio . 251885_253981
+*EDU:	dim bethau ry drwg gobeithio . 251885_253981
 %eng:	not things that are too bad I hope
 *MLA:	na . 254115_254841
 %eng:	no
 *EDU:	ond fel beth ? 255665_257029
 %eng:	but like what?
-*EDU:	pethau fel beth ? 257407_258637
+*EDU:	bethau fel beth ? 257407_258637
 %eng:	what kind of things
 *MLA:	chwarae triciau . 258815_260173
 %eng:	playing tricks
 *EDU:	chwarae triciau ? 260249_261410
 %eng:	playing tricks?
 *EDU:	wel +... 261858_262793
+%eng:	well...
 *MLA:	+< &=laugh . 262125_262706
 *EDU:	da iawn . 264343_265016
 %eng:	very good
-*EDU:	gwranda (.) sut oedd y party@s:cym&spa neithiwr ? 265647_268891
+*EDU:	gwranda (.) sut oedd y parti neithiwr ? 265647_268891
 %eng:	listen, how was the party last night?
 *EDU:	beth arall wnaethoch chi ? 268950_270134
 %eng:	what else did you do?
@@ -270,19 +272,20 @@
 %eng:	sausages.
 *EDU:	beth arall oedd ar gael ? 276668_278352
 %eng:	what else was available?
-*MLA:	xx ah@s:cym&spa palitos@s:spa . 278990_281985
-%eng:	xx ah little sticks.
+*MLA:	Chizitos@s:cym&spa a Palitos@s:cym&spa . 278990_281985
+%eng:	Chizitos [corn puffs] and Palitos [corn sticks]
 *EDU:	+< mhm@s:cym&spa . 280337_280801
-*EDU:	xx ah palitos@s:spa . 282827_284395
-%eng:	xx ah little sticks.
+*EDU:	Chizitos@s:cym&spa a Palitos@s:cym&spa . 282827_284395
+%eng:	Chizitos and Palitos
 *MLA:	mhm@s:cym&spa . 284714_285237
 *MLA:	jiw . 284911_285358
+%eng:	gosh
 *EDU:	o(edde)ch chi gyd yn hoffi nhw ? 285694_287046
 %eng:	did you all like them?
 *MLA:	ydw . 288585_289513
 %eng:	yes.
-*MLA:	y xx na . 290889_292137
-%eng:	that [...] no
+*MLA:	y Chizitos@s:cym&spa na . 290889_292137
+%eng:	not the Chizitos
 *EDU:	na ? 292328_292845
 %eng:	no?
 *MLA:	na . 292915_293234
@@ -292,20 +295,22 @@
 *MLA:	ddim yn hoffi . 294166_295403
 %eng:	I didn't like them
 *MLA:	mm +... 295623_295977
-*EDU:	pam wyt ti (ddi)m yn hoffi nhw ? 297123_298650
-%eng:	why didn't you like them?
+*EDU:	pam ? 297134_297534
+%eng:	why?
+*EDU:	pam wyt ti (ddi)m yn hoffi nhw ? 297557_298650
+%eng:	why don't you like them?
 *MLA:	achos does dim blas gyda nhw . 298859_300832
 %eng:	because they have no taste
 *EDU:	ah@s:cym&spa does dim blas gyda nhw . 300995_302644
 %eng:	ah, because they have no taste
-*MLA:	dw i yn hoffi xx eh@s:cym&spa caws . 302795_305564
-%eng:	I like [...] eh, cheese
+*MLA:	dw i yn hoffi Chizitos@s:cym&spa eh@s:cym&spa caws . 302795_305564
+%eng:	I like cheese Chizitos
 *EDU:	ah@s:cym&spa rhei (y)na caws . 306400_308194
 %eng:	ah, the cheese ones
 *EDU:	ie . 310230_310700
 *EDU:	da iawn . 311954_312761
 %eng:	very good
-*MLA:	bore [?] fi (y)n mynd i (y)r pen_blwydd (.) cyfnither . 313817_316174
+*MLA:	bore [?] fi (y)n mynd i (y)r pen_blwydd (.) cyfnither . 313817_317060
 %eng:	I'm going to my cousin's birthday
 *MLA:	pen_blwydd . 317208_317946
 %eng:	birthday
@@ -319,7 +324,7 @@
 %eng:	wasn't the party last night?
 *EDU:	pam dach chi (y)n mynd eto fory ? 326521_328170
 %eng:	why are you going again tomorrow?
-*MLA:	achos (d)doe oedd hi (y)n wneud pyjama@s:cym&spa party@s:cym&spa . 328664_332705
+*MLA:	achos (d)doe oedd hi (y)n wneud pyjama parti . 328664_332705
 %eng:	because yesterday she was doing a pyjama party
 *EDU:	ia . 332786_333343
 %eng:	yes
@@ -336,7 +341,7 @@
 *MLA:	+< a wedyn +... 337166_338211
 %eng:	and then...
 *EDU:	fory ydy (y)r pen_blwydd go iawn ? 339389_340986
-%eng:	tomorrow is the real birthday?
+%eng:	tomorrow is the actual birthday?
 *MLA:	ia ? 341113_341618
 %eng:	yes?
 *EDU:	mm +... 342446_343102
@@ -350,11 +355,12 @@
 %eng:	Lord
 *EDU:	ti (we)di prynu xx anrheg yn barod ? 352003_353524
 %eng:	have you already bought [...] a gift
-*MLA:	na fi wedi rhoi yr anrheg yn y pyjama@s:cym&spa party@s:cym&spa . 354430_357367
+*MLA:	na fi (we)di rhoid yr anrheg yn y pyjama parti . 354430_357367
 %eng:	no, I've already given the gift at the pyjama party
 *MLA:	neu [?] mae o mynd i roid yn y pen_blwydd . 357570_359800
 %eng:	or he's going to give at the birthday
-*EDU:	mm (.) be brynaist ti iddi hi ? 359844_361992
+*EDU:	mm be brynaist ti iddi hi ? 359844_361992
+%eng:	mm, what did you buy her?
 *MLA:	un +... 366564_368294
 %eng:	one
 *EDU:	un beth oedd o ? 371278_372207
@@ -362,12 +368,14 @@
 *MLA:	xx fi ddim yn cofio . 374137_375356
 %eng:	[...] I don't remember
 *EDU:	doli ? 375414_376255
+%eng:	a doll?
 *MLA:	na . 377685_378219
 %eng:	no
 *EDU:	be ? 378747_378991
 %eng:	what?
 *EDU:	gêm ? 379020_379728
-*MLA:	na fi (ddi)m yn cofio . 380686_382021
+%eng:	a game?
+*MLA:	na fi (dd)im yn cofio . 380686_382021
 %eng:	no, I don't remember
 *EDU:	dim gêm oedd o ? 382741_383699
 %eng:	wasn't it a game?
@@ -711,7 +719,7 @@
 %eng:	because sometimes they have to...
 *MLA:	sut dw i (y)n er@s:cym&spa [/] <sut dw i (y)n xxx> [=! whisper] . 744140_748162
 %eng:	how do I er [...]
-*EDU:	fotocopias@s:spa dyn nhw . 748232_749289
+*EDU:	fotocopias@s:spa (y)dyn nhw . 748232_749289
 %eng:	they're photocopies
 *MLA:	dw i (y)n mynd i dynnu fotocopias@s:spa . 749742_752081
 %eng:	I'm going to take photocopies
@@ -1326,7 +1334,7 @@
 %eng:	who?
 *EDU:	pwy pobl ? 1438255_1438951
 %eng:	which people?
-*EDU:	pwy dyn nhw ta ? 1439114_1439857
+*EDU:	pwy (y)dyn nhw ta ? 1439114_1439857
 %eng:	who are they then?
 *MLA:	um@s:cym&spa (.) llawer . 1440008_1441912
 %eng:	um, a lot
@@ -1587,7 +1595,7 @@
 %eng:	your friends
 *MLA:	ia . 1697336_1697591
 %eng:	yes
-*EDU:	+< pwy dyn nhw ta ? 1697440_1698189
+*EDU:	+< pwy (y)dyn nhw ta ? 1697440_1698189
 %eng:	who are they then?
 *MLA:	Catrin@s:cym&spa ac Aled@s:cym&spa . 1698208_1700153
 %eng:	Catrin and Aled
