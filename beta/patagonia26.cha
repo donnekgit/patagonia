@@ -14,7 +14,7 @@
 @Media:	Patagonia26, audio
 @Comment:	Filename: Patagonia26.cha; Soundfile: Patagonia26.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-*EST:	ond oedden ni (y)n [/] yn mynd (..) xx er@s:cym&spa tri neu pedwar &gwa er@s:cym&spa gwaith y flwyddyn . 12_6838
+*EST:	ond oedden ni (y)n [/] yn mynd (..) xx uh tri neu pedwar &gwa uh gwaith y flwyddyn . 12_6838
 %eng:	but we went there three or four times a year.
 *VAL:	++ y flwyddyn . 6385_7372
 %eng:	a year.
@@ -53,7 +53,7 @@
 %eng:	we live in such a nice place.
 *VAL:	dyna (y)r +... 31103_31695
 %eng:	that's the...
-*EST:	ia (.) wel er@s:cym&spa mae [/] mae gwaith um (.) cadw hwn <yn y> [/] yn y meddwl am fod um (.) bob un yn mynd um meddwl <am y> [/] am y pres xxx gwaith xxx . 32590_45361
+*EST:	ia (.) wel uh mae [/] mae gwaith um (.) cadw hwn <yn y> [/] yn y meddwl am fod um (.) bob un yn mynd um meddwl <am y> [/] am y pres xxx gwaith xxx . 32590_45361
 %eng:	yes, well, it's difficult to keep that in mind because everybody is going to think about the money and about the work.
 *EST:	a dan ni yn anghofio lle dan ni yn byw yn aml iawn . 45537_48730
 %eng:	and we often forget where we live.
@@ -125,7 +125,7 @@
 %eng:	but since twenty-six years we have been living here.
 *EST:	dau_ddeg chwech . 104632_105421
 %eng:	twenty-six.
-*VAL:	dau_ddeg chwech achos er@s:cym&spa oedd Bob@s:cym&spa newydd gael ei geni yr un i(eu)engaf . 105502_109752
+*VAL:	dau_ddeg chwech achos uh oedd Bob@s:cym&spa newydd gael ei geni yr un i(eu)engaf . 105502_109752
 %eng:	twenty-six because Bob had just been born, the youngest one.
 *VAL:	ac oedd Harry@s:cym&spa yn saith a James@s:cym&spa yn chwech oed . 110202_113661
 %eng:	and Harry was seven and James six years old.
@@ -133,7 +133,7 @@
 %eng:	we moved here.
 *VAL:	ac oedd hi (y)n neis iawn (.) byw fan hyn . 116362_118806
 %eng:	and it was very nice to live here.
-*EST:	xxx pethau er@s:cym&spa golygfa wedi newid trwy (y)r +... 119848_124440
+*EST:	xxx pethau uh golygfa wedi newid trwy (y)r +... 119848_124440
 %eng:	the view has changed over the...
 *VAL:	+< ie ie . 123041_124068
 %eng:	yes.
@@ -193,7 +193,7 @@
 %eng:	I don't know how they can live there you know?
 *EST:	na . 163926_164385
 %eng:	no.
-*EST:	<a mae> [//] (..) <a ar_ôl y> [/] ar_ôl y [/] y pethau wella gobeithio fod [//] (.) fydd o (y)n fuan um (.) bydd lot mawr o bobl yn symud er@s:cym&spa yn dal i [/] i ddod trwy (y)r +... 164501_177446
+*EST:	<a mae> [//] (..) <a ar_ôl y> [/] ar_ôl y [/] y pethau wella gobeithio fod [//] (.) fydd o (y)n fuan um (.) bydd lot mawr o bobl yn symud uh yn dal i [/] i ddod trwy (y)r +... 164501_177446
 %eng:	when things will have improved, hopefully soon, a great many people will move, still coming through...
 *VAL:	+< xxx . 164719_165856
 *VAL:	+< fydd o yn . 170396_171638
@@ -237,7 +237,7 @@
 %eng:	of course, I work with Dad.
 *VAL:	+" be wnawn ni rŵan +". 220223_221024
 %eng:	"what dod we do now?"
-*EST:	a [/] a mae gen dad er@s:cym&spa (..) bron â pump cant hectars@s:cym&spa <o o> [/] o tir . 225380_232392
+*EST:	a [/] a mae gen dad uh (..) bron â pump cant hectars@s:cym&spa <o o> [/] o tir . 225380_232392
 %eng:	and Dad has almost 500 hectars of land.
 *VAL:	+< ie . 231545_232346
 %eng:	yes.
@@ -249,7 +249,7 @@
 %eng:	no, I need to go to work for others with the machines.
 *VAL:	+< allan ia . 238057_239091
 %eng:	for others, yes.
-*EST:	a dw i (y)n er@s:cym&spa heu a torri gwair . 240024_242903
+*EST:	a dw i (y)n uh heu a torri gwair . 240024_242903
 %eng:	and I sow and cut hay.
 *VAL:	um +... 243295_243922
 %eng:	um...
@@ -279,9 +279,9 @@
 %eng:	[..] was...
 *VAL:	xx ti ddim yn gallu mynd ar wyliau er enghraifft . 255955_258765
 %eng:	you can't go on holiday, for example.
-*EST:	wel (.) er@s:cym&spa na . 258869_260587
+*EST:	wel (.) uh na . 258869_260587
 %eng:	certainly not.
-*EST:	ac um (.) wyt ti (y)n gwybod sut mae er@s:cym&spa gwaith ffermio . 260612_264478
+*EST:	ac um (.) wyt ti (y)n gwybod sut mae uh gwaith ffermio . 260612_264478
 %eng:	and you know what agricultural work is like.
 *EST:	wyt ti ddim yn cael lot mawr o amser (.) chwaith . 264513_267357
 %eng:	you don't get very much time either.
@@ -329,7 +329,7 @@
 %eng:	but I have been in Buenos Aires and then in London as well.
 *VAL:	mm +... 307513_308210
 %eng:	mm.
-*EST:	a dw i (y)n meddwl dan ni (y)n er@s:cym&spa +... 307882_310982
+*EST:	a dw i (y)n meddwl dan ni (y)n uh +... 307882_310982
 %eng:	and I think we are...
 *VAL:	++ cyfoethog . 311841_312689
 %eng:	...rich.
@@ -344,7 +344,7 @@
 %eng:	yes.
 *VAL:	a sut aeth hwnna ? 317894_318893
 %eng:	and how did that go?
-*EST:	wel (.) um (..) oedd y profiad (.) er@s:cym&spa (.) unig . 319940_325467
+*EST:	wel (.) um (..) oedd y profiad (.) uh (.) unig . 319940_325467
 %eng:	well, it was a unique experience.
 *EST:	oedd y profiad neis iawn wedi [/] (.) wedi newid i fi . 325662_331014
 %eng:	the experience was very nice, it changed me.
@@ -360,15 +360,15 @@
 %eng:	or your way of seeing things or...
 *EST:	wel ia oedd fi yn ifanc . 336693_339015
 %eng:	well, yes, I was young.
-*EST:	oedd fi er@s:cym&spa hugain oed pam es i yno . 338981_341384
+*EST:	oedd fi uh hugain oed pam es i yno . 338981_341384
 %eng:	I was twenty years old when I went.
-*EST:	er@s:cym&spa (..) na tri ar hugain . 341726_344222
+*EST:	uh (..) na tri ar hugain . 341726_344222
 %eng:	no, twenty-three.
 *EST:	um (..) oedd fi ddim yn (.) disgwyl dim_byd <am am> [/] (.) am Cymru am fod es i i Ascot@s:cym&spa i [/] i Llundain (.) i [/] i weithio ar ceffylau gorau [?] . 349404_363069
 %eng:	I didn'thave any expectations about Wales because I went to Ascot, to London to work with the best horses.
 *VAL:	ah@s:cym&spa ie ie ie dw i (y)n gwybod . 362371_364775
 %eng:	ah, yes, I know.
-*EST:	ond er@s:cym&spa ges i ddim lwc mawr yno . 364403_367190
+*EST:	ond uh ges i ddim lwc mawr yno . 364403_367190
 %eng:	but I didn't get much luck there.
 *EST:	a [/] a es i (y)r Gogledd Cymru xxx +/. 367502_370950
 %eng:	and I went to North Wales [...].
@@ -394,7 +394,7 @@
 %eng:	and I went.
 *VAL:	+< mm +... 394291_395301
 %eng:	mm.
-*EST:	ac er@s:cym&spa oedd y cysylltiad (.) efo hi yno . 395905_400758
+*EST:	ac uh oedd y cysylltiad (.) efo hi yno . 395905_400758
 %eng:	and she had the contact there.
 *VAL:	+< efo hi . 399771_400967
 %eng:	she.
@@ -405,15 +405,15 @@
 *EST:	ie <ges i ddim lwc> [=! laugh] . 403313_404695
 %eng:	yes, I didn't get any luck.
 *VAL:	&=laugh . 404962_405589
-*EST:	ond er@s:cym&spa +... 405101_405890
+*EST:	ond uh +... 405101_405890
 %eng:	but...
 *VAL:	oedd o wedi mynd yn traed moch <oedd o> [?] &=laugh . 405983_410650
 %eng:	it had become a mess, had it?
 *EST:	+< wel ia (.) yn [?] traed moch . 408259_410024
 %eng:	yes, a mess.
-*EST:	ond a ar (.) er@s:cym&spa (.) beth bynnag oedd fi er@s:cym&spa wythnos a hanner yn trio cael gwaith (.) yn Ascot@s:cym&spa . 410320_417495
+*EST:	ond a ar (.) uh (.) beth bynnag oedd fi uh wythnos a hanner yn trio cael gwaith (.) yn Ascot@s:cym&spa . 410320_417495
 %eng:	but anyway I spent a week and a half trying to find work in Ascot.
-*EST:	ond er@s:cym&spa (.) dw i (y)n cofio pan oedd y pobl yn [//] <o (y)r> [/] o (y)r llefydd polo@s:cym&spa (.) yn [/] yn weld fi cyrraedd (..) yn cerdded oedden nhw yn sbïo yn rhyfedd iawn am fod neb yn cerdded yno a gofyn am waith . 418174_435729
+*EST:	ond uh (.) dw i (y)n cofio pan oedd y pobl yn [//] <o (y)r> [/] o (y)r llefydd polo@s:cym&spa (.) yn [/] yn weld fi cyrraedd (..) yn cerdded oedden nhw yn sbïo yn rhyfedd iawn am fod neb yn cerdded yno a gofyn am waith . 418174_435729
 %eng:	but I remember when the people at the polo places saw me walking there they looked all puzzled because no-one just walks there and asks for work.
 *EST:	a oedd fi yn +"/. 436327_438324
 %eng:	and I was...
@@ -427,7 +427,7 @@
 %eng:	they asked.
 *EST:	+" na +". 442695_443084
 %eng:	"no".
-*EST:	er@s:cym&spa . 443322_443827
+*EST:	uh . 443322_443827
 %eng:	er.
 *VAL:	+< na . 443426_443815
 %eng:	no.
@@ -451,7 +451,7 @@
 %eng:	he had paid £400 for the papers.
 *EST:	+< mm +... 466514_466897
 %eng:	mm.
-*VAL:	a chafodd o ddim y gwaith (.) dim yr er@s:cym&spa trwydded (.) ddim yr arian yn_ôl . 470153_474158
+*VAL:	a chafodd o ddim y gwaith (.) dim yr uh trwydded (.) ddim yr arian yn_ôl . 470153_474158
 %eng:	and he didn't get the work,  no licence, no money back.
 %com:	not sure if she's retracing or just listing for effect
 *VAL:	a dod (y)n_ôl efo ryw teimlad (.) ych_a_fi welaist ti . 474839_479141
@@ -464,7 +464,7 @@
 %eng:	and remember...
 *EST:	+< oh na na . 481708_482509
 %eng:	oh no.
-*EST:	a mae chwaer er@s:cym&spa Olivia@s:cym&spa +... 482517_483858
+*EST:	a mae chwaer uh Olivia@s:cym&spa +... 482517_483858
 %eng:	and Olivia's sister...
 *VAL:	chwaer i Olivia@s:cym&spa . 483963_484793
 %eng:	a sister of Olivia's.
@@ -474,11 +474,11 @@
 %eng:	mm.
 *VAL:	dyna (y)r piti . 486989_487872
 %eng:	that's what's a shame.
-*EST:	+< wel (.) &ke er@s:cym&spa ces i profiad um (.) drwg iawn (.) pan [/] pan oedd fi yn mewn yn [/] yn Heathrow@s:cym&spa . 487066_496110
+*EST:	+< wel (.) &ke uh ces i profiad um (.) drwg iawn (.) pan [/] pan oedd fi yn mewn yn [/] yn Heathrow@s:cym&spa . 487066_496110
 %eng:	well, I had a very bad experience when I was inside in Heathrow.
 *VAL:	ah@s:cym&spa . 496577_497796
 %eng:	ah.
-*EST:	er@s:cym&spa (.) oedd fi ar mewn carchar am [/] am (.) er@s:cym&spa diwrnod . 497076_502324
+*EST:	uh (.) oedd fi ar mewn carchar am [/] am (.) uh diwrnod . 497076_502324
 %eng:	I was in prison for a day.
 *VAL:	ar dy ffordd di o wisgo [?] +/. 497993_499990
 %eng:	by your way of dressing...
@@ -505,30 +505,30 @@
 %eng:	because they had seen you wearing some clothes or what?
 *EST:	+< ooh ie . 514232_515735
 %eng:	ooh, yes.
-*EST:	wel oedd fi yn gwisgo (.) fel er@s:cym&spa (.) ti (y)n gwybod +... 516108_518911
+*EST:	wel oedd fi yn gwisgo (.) fel uh (.) ti (y)n gwybod +... 516108_518911
 %eng:	well, I was dressed like, you know...
 *VAL:	fel dach chi (y)n gwisgo fan (h)yn ? 518099_519417
 %eng:	as one dresses here?
 *EST:	ie . 519521_520009
 %eng:	yes.
-*VAL:	er@s:cym&spa dillad y gaucho@s:spa neu [?] +... 520201_522256
+*VAL:	uh dillad y gaucho@s:spa neu [?] +... 520201_522256
 %eng:	gaucho clothes or...
 *EST:	ie . 522610_522987
 %eng:	yes.
-*EST:	ac er@s:cym&spa (.) oedd [/] oedd gen i ddim lot o bres . 523133_526146
+*EST:	ac uh (.) oedd [/] oedd gen i ddim lot o bres . 523133_526146
 %eng:	and I didn't have much money.
-*EST:	oedd gen i er@s:cym&spa mil a [/] a pump cant o dolars@s:cym&spa [?] . 526378_529838
+*EST:	oedd gen i uh mil a [/] a pump cant o dolars@s:cym&spa [?] . 526378_529838
 %eng:	I had $1,500.
 %com:	'dolar' is present in the GPC, but I'm not sure whether or not 'dolars' should be considered as Welsh.
-*EST:	ac er@s:cym&spa (..) dim mwy . 530332_531935
+*EST:	ac uh (..) dim mwy . 530332_531935
 %eng:	and nothing more.
 *VAL:	oedden nhw (y)n meddwl +/. 531540_532242
 %eng:	they thought...
 *EST:	ac un [/] un &k credit card . 531889_533863
 %eng:	and one credit card.
-*EST:	er@s:cym&spa (..) hwyrach ddim +... 534139_536351
+*EST:	uh (..) hwyrach ddim +... 534139_536351
 %eng:	maybe not...
-*EST:	ac oedd ddim er@s:cym&spa be ti yn galw er@s:cym&spa (..) papurau gwaith neu papurau er@s:cym&spa (..) teithio . 536875_544538
+*EST:	ac oedd ddim uh be ti yn galw uh (..) papurau gwaith neu papurau uh (..) teithio . 536875_544538
 %eng:	and I had no, what do you call them, work papers or travel papers.
 *VAL:	ia oedd ddim yn glir yn iawn i beth oeddet ti yn mynd . 543854_546489
 %eng:	yes, it wasn't very clear where you were going.
@@ -539,7 +539,7 @@
 %com:	perthynau isn't really a word. He's trying to say 'perthnasau'.
 *EST:	a maen nhw wedi ffonio . 551452_552509
 %eng:	and they phoned.
-*EST:	oh dw i (ddi)m yn gwybod dyma pam hwyrach er@s:cym&spa dw i wedi cael er@s:cym&spa mynd i_fewn . 552555_556840
+*EST:	oh dw i (ddi)m yn gwybod dyma pam hwyrach uh dw i wedi cael uh mynd i_fewn . 552555_556840
 %eng:	oh, I don't know, maybe that's why I was allowed in.
 *VAL:	ie . 557101_558099
 %eng:	yes.
@@ -566,17 +566,17 @@
 *VAL:	mae rhai pobl yn mynd <yn mewn> [//] i_mewn [=! laugh] yn [/] yn hawdd . 581736_585614
 %eng:	some people get in easily.
 *EST:	+< xx . 581842_582132
-*EST:	siŵr yr um yr ail dro (.) er@s:cym&spa oedd fi efo [/] efo (y)r um (.) er@s:cym&spa tocyn yr awyren . 584578_592891
+*EST:	siŵr yr um yr ail dro (.) uh oedd fi efo [/] efo (y)r um (.) uh tocyn yr awyren . 584578_592891
 %eng:	of course, the second time round I had an airline ticket.
 *VAL:	+< a rhai yn cael problemau . 585751_587817
 %eng:	and some have problems.
 *VAL:	ie . 593059_593419
 %eng:	yes.
-*EST:	oedd fi yn (..) y tocyn er@s:cym&spa dim agored fel y tro cyntaf . 593523_600083
+*EST:	oedd fi yn (..) y tocyn uh dim agored fel y tro cyntaf . 593523_600083
 %eng:	I had a ticket that wasn't open as the first time round.
 *EST:	ti yn gwybod oedd [//] y tro cyntaf oedd fi (.) yn cyrraedd um (.) yr ugeinfed Mawrth . 600402_608158
 %eng:	you know, the first time I arrived on the 20th of March.
-*EST:	ac oedd fi (.) er@s:cym&spa i cael am chwe mis . 608444_612484
+*EST:	ac oedd fi (.) uh i cael am chwe mis . 608444_612484
 %eng:	and I had six months.
 *VAL:	+< i fod i xxx . 609906_611752
 %eng:	meant to [...].
@@ -624,7 +624,7 @@
 %eng:	[..] to say, isn't it.
 *EST:	ie . 649099_649482
 %eng:	yes.
-*EST:	ar diwedd dw i wedi gofyn am un [//] er@s:cym&spa unrhyw <sy (y)n> [/] sy (y)n cyfieithu . 649661_653898
+*EST:	ar diwedd dw i wedi gofyn am un [//] uh unrhyw <sy (y)n> [/] sy (y)n cyfieithu . 649661_653898
 %eng:	in the end I asked for anybody who translates.
 *VAL:	ie . 654038_654328
 %eng:	yes.
@@ -659,7 +659,7 @@
 *VAL:	+< sgwennu ? 679605_680673
 %eng:	write?
 *VAL:	+< &=noise . 680592_681799
-*EST:	ac ar ddiwedd oedd hi (y)n deud er@s:cym&spa yn gofyn peth i fi er@s:cym&spa eto i gwybod os oeddwn fi yn [/] yn dweud gwir . 682770_689434
+*EST:	ac ar ddiwedd oedd hi (y)n deud uh yn gofyn peth i fi uh eto i gwybod os oeddwn fi yn [/] yn dweud gwir . 682770_689434
 %eng:	and in the end she asked me things again to check if I had told the truth.
 *VAL:	+< ie . 689028_689585
 %eng:	yes.
@@ -689,7 +689,7 @@
 %eng:	yes.
 *EST:	dw i (we)di bod yn gweithio ar y fferm (.) yn Pant_Glas@s:cym&spa (.) fferm Aled@s:cym@spa am wythnos . 709771_715658
 %eng:	I worked on Pant Glas farm, Aled's farm, for a week.
-*EST:	a wedyn (.) er@s:cym&spa es i i ffensio y [/] y xx i um chwe mis . 715907_722002
+*EST:	a wedyn (.) uh es i i ffensio y [/] y xx i um chwe mis . 715907_722002
 %eng:	and then I went fencing the [..] for six months.
 *EST:	wel dwy fis xx . 722153_723372
 %eng:	well, two months [..].
@@ -703,7 +703,7 @@
 %eng:	it was great.
 *VAL:	oh . 729957_730491
 %eng:	oh.
-*VAL:	<o(eddw)n i yn> [//] o(eddw)n i er@s:cym&spa draw yn yr un adeg a ti . 730700_734125
+*VAL:	<o(eddw)n i yn> [//] o(eddw)n i uh draw yn yr un adeg a ti . 730700_734125
 %eng:	I was over there at the same time as you.
 *VAL:	ac o(eddw)n i (y)n gwylio ar y teledu . 734497_736296
 %eng:	and I watched on TV.
@@ -752,11 +752,11 @@
 %eng:	do you know?
 *EST:	wel ac oedd fi yn sgwrsio efo Aeron@s:cym&spa neithiwr . 775369_778109
 %eng:	well, and I was talking to Aeron last night.
-*EST:	ac oedd [/] <oedd fi (y)n gofyn (.) wrtho fo> [//] (.) er@s:cym&spa oedd fi yn deud wrtho fo +"/. 778237_784204
+*EST:	ac oedd [/] <oedd fi (y)n gofyn (.) wrtho fo> [//] (.) uh oedd fi yn deud wrtho fo +"/. 778237_784204
 %eng:	and I said to him:
 *EST:	+" oedd fi (.) mewn [//] yn canu mewn tafarn (..) um (..) <yn y dre> [//] yn ryw dre yn ymyl y môr . 783675_792046
 %eng:	"I was singing in a pub in some town by the sea."
-*EST:	er@s:cym&spa ochr y môr . 792473_793425
+*EST:	uh ochr y môr . 792473_793425
 %eng:	by the sea.
 *EST:	ac oedd ynys hyfryd iawn bach (.) o blaen . 793506_797082
 %eng:	and an lovely little island was in front of there.
@@ -766,7 +766,7 @@
 %eng:	back and forth.
 *EST:	be (y)dy enw (y)r ynys be (y)dy enw (y)r dre dw i ddim yn cofio . 800887_804184
 %eng:	what the name of the island is, what the name of the town is I don't remember.
-*EST:	ac oedd o yn deud er@s:cym&spa enw yr tafarn enw (y)r ynys ac enw (y)r lle oedd Aberdaron@s:cym&spa Ynys_Enlli@s:cym&spa ac oedd y tafarn y Ship@s:cym&spa Y_Cwch . 804255_816318
+*EST:	ac oedd o yn deud uh enw yr tafarn enw (y)r ynys ac enw (y)r lle oedd Aberdaron@s:cym&spa Ynys_Enlli@s:cym&spa ac oedd y tafarn y Ship@s:cym&spa Y_Cwch . 804255_816318
 %eng:	and he said the name of the pub, the name of the island, and the name of the place was Aberdaron, Bardsey Island, and the pub was the Ship.
 *VAL:	+< ah@s:cym&spa (dy)na neis . 807622_809584
 %eng:	ah, that's nice.
@@ -790,7 +790,7 @@
 %eng:	yes.
 *EST:	na dw i isio mynd yn_ôl xxx . 829359_830508
 %eng:	no, I want to go back [...].
-*EST:	oedd [/] oedd ni er@s:cym&spa (.) er@s:cym&spa Olivia@s:cym&spa a fi <yn yn> [/] yn gorfod fynd er@s:cym&spa (..) er@s:cym&spa i yr Eisteddfod ddiwethaf er@s:cym&spa dwy fil a naw . 830620_841011
+*EST:	oedd [/] oedd ni uh (.) uh Olivia@s:cym&spa a fi <yn yn> [/] yn gorfod fynd uh (..) uh i yr Eisteddfod ddiwethaf uh dwy fil a naw . 830620_841011
 %eng:	Olivia and I had to go to the last Eisteddfod, 2009.
 *VAL:	mm +... 841083_842104
 %eng:	mm.
@@ -820,7 +820,7 @@
 %eng:	do they speak Welsh?
 *EST:	wel mae Adelina@s:cym&spa xx <yn yn> [/] yn yr ysgol . 855287_858340
 %eng:	well, Adelina is at school.
-*EST:	ond er@s:cym&spa ti (y)n gwybod sut mae +... 858503_860499
+*EST:	ond uh ti (y)n gwybod sut mae +... 858503_860499
 %eng:	but you know what it's like...
 *VAL:	mae (y)n hen . 860943_861489
 %eng:	she's old.
@@ -863,7 +863,7 @@
 %eng:	yes.
 *VAL:	ble maen nhw (y)n mynd (.) i (y)r ysgol ? 891771_893582
 %eng:	where do they go to school?
-*EST:	er@s:cym&spa i [/] i xxx . 894209_897227
+*EST:	uh i [/] i xxx . 894209_897227
 %eng:	to [...].
 *VAL:	capel Methodistiaid ? 895904_896995
 %eng:	the Methodist chapel?
@@ -873,17 +873,17 @@
 %eng:	and has gone to [...].
 *VAL:	ah@s:cym&spa (dy)na neis . 901373_903323
 %eng:	ah, that's nice.
-*EST:	wel <mae hi> [/] mae hi er@s:cym&spa wedi gwirioni ia . 902104_904751
+*EST:	wel <mae hi> [/] mae hi uh wedi gwirioni ia . 902104_904751
 %eng:	well, she loves it, yes.
 *VAL:	wrth ei bodd . 903335_904159
 %eng:	happy.
 *VAL:	(dy)na neis . 905061_906478
 %eng:	that's nice.
-*EST:	a be dan ni yn wneud ydy um (.) os mae hi isio (..) rywbeth oedd hi yn er@s:cym&spa +... 906917_914069
+*EST:	a be dan ni yn wneud ydy um (.) os mae hi isio (..) rywbeth oedd hi yn uh +... 906917_914069
 %eng:	and what what we do, if she wants something, she was...
 *VAL:	+< ie . 913024_914254
 %eng:	yes.
-*EST:	a mae hi wedi er@s:cym&spa dechrau i mwynhau peintio hefyd . 914366_918581
+*EST:	a mae hi wedi uh dechrau i mwynhau peintio hefyd . 914366_918581
 %eng:	and she has begun to enjoy painting as well.
 *VAL:	ie . 918766_919231
 %eng:	yes.
@@ -945,7 +945,7 @@
 %eng:	you could listen to Welsh music.
 *EST:	+< ia . 974046_974580
 %eng:	yes.
-*EST:	<radio [/] Radio_Nacional@s:cym&spa dw i (y)n> [///] yn y picup@s:cym&spa mae gen i Radio_Nacional@s:cym&spa felly <dw i (y)n> [/] dw i (y)n gwrando ar er@s:cym&spa Joyce_Powell@s:cym&spa . 975288_982974
+*EST:	<radio [/] Radio_Nacional@s:cym&spa dw i (y)n> [///] yn y picup@s:cym&spa mae gen i Radio_Nacional@s:cym&spa felly <dw i (y)n> [/] dw i (y)n gwrando ar uh Joyce_Powell@s:cym&spa . 975288_982974
 %eng:	I have Radio Nacional on the pick-up, I listen to Joyce Powell.
 *VAL:	+< mm +... 979584_980060
 %eng:	mm.
@@ -968,7 +968,7 @@
 %eng:	but no more practising I think.
 *EST:	na . 998509_998730
 %eng:	no.
-*EST:	ond oedd xx wedi gofyn wrth Alison@s:cym&spa (.) am canu cyngerdd er@s:cym&spa yma . 998881_1003908
+*EST:	ond oedd xx wedi gofyn wrth Alison@s:cym&spa (.) am canu cyngerdd uh yma . 998881_1003908
 %eng:	but [..] has asked Alison to give a concert here.
 *VAL:	ar hyn o bryd . 998997_999972
 %eng:	at the moment.
@@ -976,15 +976,15 @@
 %eng:	25th.
 *EST:	dau_ddeg pump . 1005080_1005684
 %eng:	25th.
-*EST:	am fod er@s:cym&spa oedd &a oedd y pobl o cultura@s:spa yna (..) er@s:cym&spa (.) wedi penderfynu peidio wneud dim_byd am fod yna er@s:cym&spa Anwen@s:cym&spa wedi cael babi . 1005766_1016795
+*EST:	am fod uh oedd &a oedd y pobl o cultura@s:spa yna (..) uh (.) wedi penderfynu peidio wneud dim_byd am fod yna uh Anwen@s:cym&spa wedi cael babi . 1005766_1016795
 %eng:	because the culture people have decided not to do anything because Anwen has had a baby.
 *EST:	felly oedd fi (y)n deud +"/. 1017190_1018096
 %eng:	so I said:
-*EST:	+" na dan ni er@s:cym&spa ddynion +//. 1018142_1020232
+*EST:	+" na dan ni uh ddynion +//. 1018142_1020232
 %eng:	"no, we men..."
 *EST:	ti (y)n gwybod mae (y)na criw bach dynion sy (y)n canu . 1020371_1022531
 %eng:	you know, there's a little group of men who sing.
-*EST:	dan ni wedi bod yn ymarfer (.) trwy (y)r blwydd (.) am er@s:cym&spa gŵyl adloniant ac doedd dim cyngerdd yn gŵyl adloniant . 1023150_1030766
+*EST:	dan ni wedi bod yn ymarfer (.) trwy (y)r blwydd (.) am uh gŵyl adloniant ac doedd dim cyngerdd yn gŵyl adloniant . 1023150_1030766
 %eng:	we have been practising all year for the entertainment festival, and there wasn't a concert at the entertainment festival.
 *VAL:	+< ie . 1028897_1030081
 %eng:	yes.
@@ -1002,7 +1002,7 @@
 %eng:	no, we want to.
 *VAL:	ac <yr un côr> [//] yr unig côr sy (y)n canu yn Gymraeg ydy côr Seion@s:cym&spa . 1037790_1042353
 %eng:	and the only choir who sings in Welsh is the Seion choir.
-*EST:	a mae o (y)n er@s:cym&spa +... 1039369_1040983
+*EST:	a mae o (y)n uh +... 1039369_1040983
 %eng:	and it is...
 *EST:	dw i (ddi)m yn gwybod am [/] am Anwen@s:cym&spa rŵan . 1043801_1045729
 %eng:	I don't know about Anwen now.
@@ -1034,7 +1034,7 @@
 %eng:	no.
 *VAL:	ie (.) mae (y)n byw yn lle oedd um +... 1068656_1071419
 %eng:	yes, she lives where there was...
-*VAL:	ti (y)n cofio lle oedd er@s:cym&spa +..? 1071914_1073435
+*VAL:	ti (y)n cofio lle oedd uh +..? 1071914_1073435
 %eng:	do you remember where there was...?
 *VAL:	beth ydy enw (y)r dynes (.) &aw ? 1075883_1079145
 %eng:	what is the woman's name?
@@ -1081,7 +1081,7 @@
 %eng:	yes.
 *EST:	oh . 1109228_1109541
 %eng:	oh.
-*EST:	ond dw i (we)di &k er@s:cym&spa +/. 1109623_1111190
+*EST:	ond dw i (we)di &k uh +/. 1109623_1111190
 %eng:	but I have...
 *VAL:	++ gweld hi (y)n cerdded . 1111132_1112525
 %eng:	...seen her walking.
@@ -1109,7 +1109,7 @@
 %eng:	what's the word?
 *VAL:	ie . 1136641_1137488
 %eng:	yes.
-*EST:	er@s:cym&spa . 1137500_1138475
+*EST:	uh . 1137500_1138475
 %eng:	er.
 *EST:	eh@s:cym&spa xx . 1139707_1140833
 %eng:	eh, [..].
@@ -1151,7 +1151,7 @@
 %eng:	yes.
 *VAL:	ie fasai hi (y)n gallu canu rywbeth . 1177390_1179329
 %eng:	yes, she could sing anything.
-*EST:	ie be [/] be sy isio wneud ydy [/] ydy er@s:cym&spa canu dau neu tri caneuon bob un (.) a gwneud rywbeth neis . 1179728_1188633
+*EST:	ie be [/] be sy isio wneud ydy [/] ydy uh canu dau neu tri caneuon bob un (.) a gwneud rywbeth neis . 1179728_1188633
 %eng:	yes, what we need to do is sing two or three songs each and do something nice.
 *VAL:	+< &=clears_throat . 1182078_1183134
 *EST:	ond dim_byd rhy +/. 1188719_1190333
@@ -1168,11 +1168,11 @@
 %eng:	yes.
 *EST:	+< um . 1191775_1192333
 %eng:	um.
-*VAL:	llongyfarch er@s:cym&spa Anne@s:cym&spa am ei wobr hefyd . 1192391_1195236
+*VAL:	llongyfarch uh Anne@s:cym&spa am ei wobr hefyd . 1192391_1195236
 %eng:	and also congratulate Anne on her prize.
 *EST:	oh mae wedi fod &d +... 1194911_1196780
 %eng:	oh, she has been...
-*EST:	oedd fi yn deud wrth er@s:cym&spa Aeron@s:cym&spa (.) um mor [/] mor neis . 1196919_1201992
+*EST:	oedd fi yn deud wrth uh Aeron@s:cym&spa (.) um mor [/] mor neis . 1196919_1201992
 %eng:	I said to Aeron how nice.
 *VAL:	emosiynol ynde . 1201679_1202968
 %eng:	emotional.
@@ -1180,13 +1180,13 @@
 %eng:	so clear as well.
 *VAL:	ie . 1203768_1204557
 %eng:	yes.
-*EST:	er@s:cym&spa fel arfer er@s:cym&spa (.) um ti (y)n clywed cerdd fel hyn (.) er@s:cym&spa a mae (y)na lot o geiriau anodd a +/. 1204789_1214402
+*EST:	uh fel arfer uh (.) um ti (y)n clywed cerdd fel hyn (.) uh a mae (y)na lot o geiriau anodd a +/. 1204789_1214402
 %eng:	normally you hear a poem like this and there are loads of difficult words and...
 *VAL:	+< wyt ti ddim yn deall . 1213068_1214380
 %eng:	you don't understand.
 *EST:	&o oedd [/] oedd fi yn deallt bob ddim bob gair . 1214682_1217921
 %eng:	I understood everything, every word.
-*EST:	am &o oedd [/] oedd hi yn [/] yn (.) basio trwyodd y [/] y teimlad (.) er@s:cym&spa +/. 1218211_1224248
+*EST:	am &o oedd [/] oedd hi yn [/] yn (.) basio trwyodd y [/] y teimlad (.) uh +/. 1218211_1224248
 %eng:	she passed the feeling on...
 *VAL:	ia bobl . 1223667_1224619
 %eng:	yes, people.
@@ -1337,7 +1337,7 @@
 %eng:	he's a hard worker.
 *VAL:	&=laugh . 1362936_1363371
 *EST:	xxx . 1363348_1363864
-*VAL:	fel [/] fel er@s:cym&spa Astrid@s:cym&spa a Enid a (..) rhei (y)na . 1363741_1368618
+*VAL:	fel [/] fel uh Astrid@s:cym&spa a Enid a (..) rhei (y)na . 1363741_1368618
 %eng:	like Astrid and Enid and those.
 *VAL:	wyt ti yn gwybod bod (.) Eluned@s:cym&spa (..) a Fflur@s:cym&spa (.) yn <gwylio yr &te> [//] gwylio (y)r eisteddfod <ar y xx> [//] ar y we ? 1368759_1376909
 %eng:	do you know that Eluned and Fflur watched the eisteddfod on the web?
@@ -1372,7 +1372,7 @@
 %eng:	yes.
 *VAL:	oedd hwnna (y)n [/] yn rywbeth newydd yn yr eisteddfod . 1396785_1398875
 %eng:	that was something new at the eisteddfod.
-*EST:	<mae er@s:cym&spa> [/] (.) mae (y)n tebyg bod mae [/] mae lot o bobl yn [/] (.) yn [/] yn mynd i ddefnyddio hwn . 1400725_1406646
+*EST:	<mae uh> [/] (.) mae (y)n tebyg bod mae [/] mae lot o bobl yn [/] (.) yn [/] yn mynd i ddefnyddio hwn . 1400725_1406646
 %eng:	I guess a lot of people are going to use this.
 *VAL:	ie siŵr . 1406809_1407644
 %eng:	yes, definitely.
@@ -1439,7 +1439,7 @@
 %eng:	Balderas.
 *VAL:	ie . 1492164_1492605
 %eng:	yes.
-*EST:	er@s:cym&spa oedd hi y tro cyntaf yn yr eisteddfod er@s:cym&spa Trefelin@s:cym&spa er@s:cym&spa diwethaf . 1492443_1497760
+*EST:	uh oedd hi y tro cyntaf yn yr eisteddfod uh Trefelin@s:cym&spa uh diwethaf . 1492443_1497760
 %eng:	she came for the first time to the latest Trelew eisteddfod.
 *VAL:	<oedd o> [//] oedd hi yno am fod oedd y brawd (.) hi yn beirniadu . 1498503_1503008
 %eng:	she was there because her brother was adjudicating.
@@ -1451,7 +1451,7 @@
 %eng:	what she thought about coming here.
 *EST:	oedd hi &y yn gwirioni . 1516347_1517810
 %eng:	she loved it.
-*EST:	oedd hi methu credu y plant (.) er@s:cym&spa <a a> [/] a cymaint o bobl yn [/] yn canu a wneud pethau gwahanol . 1517833_1526448
+*EST:	oedd hi methu credu y plant (.) uh <a a> [/] a cymaint o bobl yn [/] yn canu a wneud pethau gwahanol . 1517833_1526448
 %eng:	she couldn't believe all the children and so many people singing and doing different things.
 *VAL:	+< mm +... 1525821_1527237
 %eng:	mm.
@@ -1473,9 +1473,9 @@
 %eng:	that says something about what we are as Welsh people.
 *EST:	&ba +/. 1544552_1545365
 *VAL:	&=laugh . 1550171_1551007
-*EST:	dw i wedi er@s:cym&spa (..) cystadlu <i i> [/] i y (..) &k cystadleuaeth &bar er@s:cym&spa barddoniaeth um (.) pan oedd fi yn ifanc am [?] plant . 1550355_1562047
+*EST:	dw i wedi uh (..) cystadlu <i i> [/] i y (..) &k cystadleuaeth &bar uh barddoniaeth um (.) pan oedd fi yn ifanc am [?] plant . 1550355_1562047
 %eng:	I competed in the poetry competition when I was young, a child.
-*EST:	a wedyn er@s:cym&spa <dw i> [/] dw i (y)n &sg +//. 1563029_1565409
+*EST:	a wedyn uh <dw i> [/] dw i (y)n &sg +//. 1563029_1565409
 %eng:	and then I have...
 *EST:	oedd [//] wyt ti (y)n gofyn pwy sy (y)n sgwennu a dw i (y)n (.) sgwennu . 1565409_1569228
 %eng:	you ask who writes, and I write.
@@ -1489,7 +1489,7 @@
 %eng:	but you sing the things you write.
 *EST:	ydw a dw i (y)n sgwennu pethau heb dim cerddoriaeth hefyd . 1573070_1576054
 %eng:	yes, and I write things without music as well.
-*EST:	er@s:cym&spa ti (y)n gwybod er@s:cym&spa poesía@s:spa . 1576158_1577969
+*EST:	uh ti (y)n gwybod uh poesía@s:spa . 1576158_1577969
 %eng:	you know, poetry.
 *VAL:	+< ia . 1576414_1576878
 %eng:	yes.
@@ -1497,15 +1497,15 @@
 %eng:	and [...] poetry.
 *VAL:	xxx cerdd . 1579815_1581139
 %eng:	[...] poetry.
-*EST:	a (.) er@s:cym&spa <dw i (y)n> [//] dw i wedi wneud er@s:cym&spa (.) er@s:cym&spa chydig bach bethau yn Cymraeg . 1581981_1589017
+*EST:	a (.) uh <dw i (y)n> [//] dw i wedi wneud uh (.) uh chydig bach bethau yn Cymraeg . 1581981_1589017
 %eng:	and I some a little bit of Welsh things.
-*EST:	ond beth sy (y)n digwydd dydy (y)r Cymraeg fi ddim yn swnio (.) fel [/] fel Cymraeg er@s:cym&spa cerdd wyt ti (y)n gwybod . 1589312_1596847
+*EST:	ond beth sy (y)n digwydd dydy (y)r Cymraeg fi ddim yn swnio (.) fel [/] fel Cymraeg uh cerdd wyt ti (y)n gwybod . 1589312_1596847
 %eng:	but what happens is that my Welsh doesn't sound like the Welsh of o poem.
 *VAL:	+< ah@s:cym&spa . 1589486_1590508
 %eng:	ah.
 *VAL:	+< ia . 1593771_1594676
 %eng:	yes.
-*EST:	er@s:cym&spa ydy jyst Cymraeg i [/] i bob dydd . 1596928_1600202
+*EST:	uh ydy jyst Cymraeg i [/] i bob dydd . 1596928_1600202
 %eng:	it's just everyday Welsh.
 *VAL:	+< xx . 1597277_1598020
 *VAL:	ie . 1599250_1600168
@@ -1522,7 +1522,7 @@
 %eng:	yes, of course.
 *VAL:	mae hi wedi stydio draw . 1606966_1608406
 %eng:	she has studied over there.
-*VAL:	oedd y [/] (.) er@s:cym&spa oedd y Gymraeg yn iaith gyntaf Anne@s:cym&spa . 1608616_1612389
+*VAL:	oedd y [/] (.) uh oedd y Gymraeg yn iaith gyntaf Anne@s:cym&spa . 1608616_1612389
 %eng:	Welsh was Anne's first language.
 *EST:	mae hwn yn bwysig iawn . 1612389_1613701
 %eng:	this is very important.
@@ -1609,7 +1609,7 @@
 %eng:	a thema.
 *EST:	<a a> [/] a (..) pethau drwm xx &=laugh . 1681646_1686951
 %eng:	and [..] heavy things.
-*VAL:	+< er@s:cym&spa pethau ddim +/. 1683817_1685036
+*VAL:	+< uh pethau ddim +/. 1683817_1685036
 %eng:	things that are not...
 *VAL:	ie pethau drwm i ddeall ynde . 1685175_1687381
 %eng:	yes, things that are hard to understand.
@@ -1625,7 +1625,7 @@
 %eng:	ah, all sorts of things.
 *VAL:	um (..) dw i ddim yn gwybod yn iawn . 1695384_1698124
 %eng:	I don't quite know.
-*VAL:	ond mae [/] mae (y)na um er@s:cym&spa +//. 1696764_1698297
+*VAL:	ond mae [/] mae (y)na um uh +//. 1696764_1698297
 %eng:	but there is...
 *VAL:	ti (y)n nabod Barbara@s:cym&spa (.) merch Gethin@s:cym&spa ? 1698366_1700944
 %eng:	do you know Barbara, Gethin's daughter?
@@ -1755,7 +1755,7 @@
 %eng:	ah.
 *EST:	wel wel wel merch Dorotea@s:cym&spa yn dod . 1840661_1842722
 %eng:	look at that, Dorotea's daughter is coming.
-*EST:	ac wedyn (.) ar_ôl er@s:cym&spa oedd y rhyfel yn gorffen (.) er@s:cym&spa oedd y [/] y armi yn yn gofyn +"/. 1843212_1853150
+*EST:	ac wedyn (.) ar_ôl uh oedd y rhyfel yn gorffen (.) uh oedd y [/] y armi yn yn gofyn +"/. 1843212_1853150
 %eng:	and then, when the war was over, the army asked:
 *EST:	+" lle wyt ti isio mynd dan ni yn talu (y)r tocyn i ti (.) mewn cwch . 1853295_1856563
 %eng:	"where do you want to go, we'll pay you the ticket for a boat."
@@ -1786,16 +1786,16 @@
 %eng:	and then I don't know how I got here.
 *EST:	wedi priodi . 1880540_1881527
 %eng:	got married.
-*EST:	wedi cael er@s:cym&spa tri o [/] o plant . 1882746_1885707
+*EST:	wedi cael uh tri o [/] o plant . 1882746_1885707
 %eng:	had three children.
 *VAL:	xxx . 1884713_1885827
-*EST:	a [/] a pump blynedd er@s:cym&spa wedyn mae (y)r wraig wedi marw . 1886802_1892143
+*EST:	a [/] a pump blynedd uh wedyn mae (y)r wraig wedi marw . 1886802_1892143
 %eng:	and five years later the wife died.
 *VAL:	+< wedyn . 1889833_1890483
 %eng:	later.
 *VAL:	oh no@s:spa . 1892329_1893130
 %eng:	oh no.
-*EST:	ie felly mae o wedi gadael y plant efo er@s:cym&spa chwaer yng nghyfraith (.) a (.) chwiorydd yng nghyfraith a wedi mynd i Corcobado@s:cym&spa a [//] i [/] i edrych ar_ôl y [/] y fferm y (.) dad yng nghyfraith a wedi mynd yn [/] yn rhyfedd ac yn wyllt ac yn +... 1893137_1912921
+*EST:	ie felly mae o wedi gadael y plant efo uh chwaer yng nghyfraith (.) a (.) chwiorydd yng nghyfraith a wedi mynd i Corcobado@s:cym&spa a [//] i [/] i edrych ar_ôl y [/] y fferm y (.) dad yng nghyfraith a wedi mynd yn [/] yn rhyfedd ac yn wyllt ac yn +... 1893137_1912921
 %eng:	yes, so he left the children with his sisters-in-law and went to Corcobado to look after his father-in-law's farm and turned strange and wild and...
 *VAL:	ia yn wyllt a (y)r +... 1911811_1912873
 %eng:	yes, wild and the...
@@ -1844,7 +1844,7 @@
 %eng:	it was custom that the men ahd to go to war.
 *VAL:	+< gorfod mynd ie . 1970030_1971655
 %eng:	had to go, yes.
-*EST:	mi oedd yn arferiad er@s:cym&spa tan <ddim ddim> [/] ddim (er)s_talwm iawn (fa)swn i (y)n deud . 1972483_1977522
+*EST:	mi oedd yn arferiad uh tan <ddim ddim> [/] ddim (er)s_talwm iawn (fa)swn i (y)n deud . 1972483_1977522
 %eng:	it was custom until not very long ago I would say.
 *VAL:	ie . 1977174_1977522
 %eng:	yes.
@@ -1888,7 +1888,7 @@
 %eng:	[..] supposed to darken the houses and things like that.
 *EST:	ie . 2035719_2036323
 %eng:	yes.
-*EST:	ie <oedd (y)na> [//] oedd [/] oedd (y)na bobl yn gorfod er@s:cym&spa +... 2038178_2041232
+*EST:	ie <oedd (y)na> [//] oedd [/] oedd (y)na bobl yn gorfod uh +... 2038178_2041232
 %eng:	yes, there were people who had to...
 *VAL:	+< yn gorfod wneud pethau felly . 2040442_2041905
 %eng:	...had to do things like that.
@@ -1904,7 +1904,7 @@
 %eng:	"hofrennydd" is helicopter, is it?
 *EST:	+< ia xx . 2053167_2053979
 %eng:	yes, [..].
-*VAL:	+, yn disgyn reit o flaen yr er@s:cym&spa tŷ fan (y)na yn y fferm . 2054037_2057242
+*VAL:	+, yn disgyn reit o flaen yr uh tŷ fan (y)na yn y fferm . 2054037_2057242
 %eng:	...landed right in front of the house here on the farm.
 *EST:	&=gasp . 2057288_2058113
 *VAL:	&=gasp beth ydy hwnna . 2058147_2059784
@@ -1974,7 +1974,7 @@
 %eng:	well...
 *VAL:	ti (y)n gwybod rhywbeth ? 2132474_2133379
 %eng:	do you know something?
-*EST:	na <dw i (y)n> [/] dw i (y)n gwybod bod er@s:cym&spa um (.) oedden ni yn gorfod (.) um (..) gofyn am [/] <am y> [/] am y derecho@s:spa +//. 2133397_2145146
+*EST:	na <dw i (y)n> [/] dw i (y)n gwybod bod uh um (.) oedden ni yn gorfod (.) um (..) gofyn am [/] <am y> [/] am y derecho@s:spa +//. 2133397_2145146
 %eng:	no, I know that they had to ask for the right...
 *EST:	be (y)dy +..? 2145216_2146145
 %eng:	how do you say...?
@@ -1982,13 +1982,13 @@
 %eng:	yes.
 *VAL:	dw i (ddi)m yn gwybod beth ydy (y)r gair am derechos@s:spa . 2146587_2148631
 %eng:	I don't know what the word is for "rights".
-*EST:	ac er@s:cym&spa +//. 2149211_2150837
+*EST:	ac uh +//. 2149211_2150837
 %eng:	and...
 *EST:	hawl . 2151858_2152648
 %eng:	right.
 *VAL:	hawl . 2152787_2153368
 %eng:	right.
-*EST:	oedden ni (y)n yn [/] yn gorfod gofyn <am am> [/] am hawl i [/] i gael <y y> [/] y Malvinas@s:cym&spa (.) er@s:cym&spa cyn dw i ddim yn gwybod faint o amser yn [/] yn mynd . 2153769_2164427
+*EST:	oedden ni (y)n yn [/] yn gorfod gofyn <am am> [/] am hawl i [/] i gael <y y> [/] y Malvinas@s:cym&spa (.) uh cyn dw i ddim yn gwybod faint o amser yn [/] yn mynd . 2153769_2164427
 %eng:	they had to ask for the right to have the Falklands before I don't know how much time passed.
 *EST:	a oedd presidenta@s:spa wedi wneud . 2164559_2166835
 %eng:	and the president had changed.
@@ -2024,7 +2024,7 @@
 %eng:	but [...] "Malvinas".
 *EST:	&=laugh ia . 2187843_2189631
 %eng:	yes.
-*EST:	beth bynnag er@s:cym&spa +/. 2190095_2191651
+*EST:	beth bynnag uh +/. 2190095_2191651
 %eng:	whatever...
 *VAL:	wyt ti wedi darllen Ein_Rhyfel_Ni@s:cym&spa ? 2190826_2193137
 %eng:	have you read "Ein Rhyfel Ni"?
@@ -2070,7 +2070,7 @@
 %eng:	and she was...
 *VAL:	ac oedd o +/. 2244395_2245103
 %eng:	and he was...
-*VAL:	ia oedd oedd hi siŵr (.) yn nyrs <i (y)r> [/] (.) <i (y)r er@s:cym&spa> [/] i (y)r milwyr sy [?] o Brydain siŵr . 2245359_2252859
+*VAL:	ia oedd oedd hi siŵr (.) yn nyrs <i (y)r> [/] (.) <i (y)r uh> [/] i (y)r milwyr sy [?] o Brydain siŵr . 2245359_2252859
 %eng:	yes, I'm sure she was a nurse with the soldiers from Britain.
 *EST:	siŵr . 2253168_2254120
 %eng:	yes.
