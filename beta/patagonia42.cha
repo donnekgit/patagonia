@@ -1,7 +1,7 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
-@Languages:	cym, esp, eng
+@Languages:	cym, spa, eng
 @Participants:	ANO Antonio Adult, MSA Melosa Adult
 @ID:	cym, spa|Patagonia|ANO|70;|male|||Adult||
 @ID:	cym, spa|Patagonia|MSA|87;|female|||Adult||
@@ -17,51 +17,51 @@
 %eng:	I wonder if Dada's had it?
 *MSA:	wel (dy)na be dw i (y)n feddwl . 2113_3518
 %eng:	well, that's what I'm thinking
-*MSA:	o(eddw)n i meddw(l) +//. 3612_4686
-%eng:	I was thinking...
-*MSA:	ac o(edde)n ni (y)n gobeithio . 4708_6565
+*MSA:	o(eddw)n i meddwl a +//. 3612_4686
+%eng:	I was thinking and...
+*MSA:	+, ac o(edde)n ni (y)n (.) gobeithio . 4708_6565
 %eng:	and we were hoping
 *MSA:	oedd [?] Anwen@s:cym&spa a fi (y)n gobeithio taw efo ti oedd o . 6707_9267
 %eng:	Anwen and me were hoping that you had it
 *ANO:	oh achos mae (y)na un efo fi . 9334_10977
 %eng:	oh, because I have one
-*ANO:	ond o(eddw)n i (y)n deall taw [?] Taid Joseph@s:cym&spa oedd biau fo . 11016_13326
-%eng:	but I was under the impression that Grandpa Joseph had it
+*ANO:	ond o(eddw)n i (y)n deall taw taid Joseph@s:cym&spa oedd biau fo . 11016_13326
+%eng:	but I was under the impression that it belonged to Joseph's grandpa
 *MSA:	wel edrycha lle mae (y)r xx +/. 13464_15182
 %eng:	well, look at where the...
-*ANO:	xxx <pan o(eddw)n> [?] i (y)n cofio be [/] be oedd o . 14857_16483
-%eng:	[...] when I remembered what it was
-*ANO:	er@s:cym&spa mae [/] er@s:cym&spa mae ces gynta ar_ôl . 16475_18907
-%eng:	the old case is left over
+*ANO:	ond oe(dd) hwnna pan o(eddw)n i (y)n cofio be [/] be oedd o . 14857_16483
+%eng:	but that was when I remembered what it was
+*ANO:	ond <mae uh> [/] mae (y)r ces gynta ar_ôl . 16475_18907
+%eng:	the first case is left over
 *MSA:	+< wel mae un o +/. 17230_17979
 %eng:	well, one of...
-*MSA:	fel hwnnw (y)dy o . 19688_20832
-%eng:	it's like that
+*MSA:	wel hwnnw (y)dy o . 19688_20832
+%eng:	well it's that one
 *ANO:	ie ? 21050_21700
 %eng:	yes?
 *MSA:	wel wyt ti (dd)im wedi edrych ar yr enwau ? 21716_23173
 %eng:	well, haven't you looked at the names?
-*ANO:	wel dw i (ddi)m yn cofio . 23152_23895
+*ANO:	wel dw i ddim yn cofio . 23152_23895
 %eng:	well I don't remember
 *ANO:	dw i (we)di &es +//. 23860_24319
 %eng:	I've...
-*ANO:	blynyddoedd yn_ôl ers ryw (.) ddeg mlynedd ges i o Mam@s:cym&spa . 24319_27140
+*ANO:	blynyddoedd yn_ôl ers ryw (.) ddeg mlynedd ges i o o Mam@s:cym&spa . 24319_27140
 %eng:	years back, about 10 years ago I got it from Mam
-*MSA:	wel cofia +/. 27301_27858
+*MSA:	wel &e cofia +/. 27301_27858
 %eng:	well remember...
-*ANO:	ond oedd Dada@s:cym&spa ddim (we)di marw amser hynny . 27626_29228
+*ANO:	ond oedd Dada@s:cym&spa ddim wedi marw amser hynny . 27626_29228
 %eng:	but Dada hadn't died then
 *ANO:	peth ryfedd bod hi (y)n roid o i fi . 29251_30842
 %eng:	strange that she was giving it to me
-*ANO:	Mam [?] ddaru hi [?] marw ers ugain mlynedd yn_ôl ! 32212_34377
-%eng:	Mother, she died 20 years ago!
-*MSA:	wel er@s:cym&spa mae [/] mae &d [/] (.) <mae wedi> [//] mae Mam@s:cym&spa wedi marw ers dros ugain mlynedd . 34821_38582
-%eng:	well Mother died over 20 years ago
+*ANO:	Mam@s:cym&spa <ddaru hi> [?] marw ers ugain mlynedd yn_ôl ! 32212_34377
+%eng:	Mam, she died 20 years ago!
+*MSA:	wel uh mae [/] mae &d [/] (.) <mae wedi> [//] mae Mam@s:cym&spa wedi marw ers dros ugain mlynedd . 34821_38582
+%eng:	well Mam died over 20 years ago
 *ANO:	yndy yndy dw i (y)n gwybod hynny . 38700_39851
 %eng:	yes, yes I know that
 *MSA:	+< ac oedd dy dad di wedi marw yn gynt . 38638_40420
 %eng:	and your father died before that
-*ANO:	yndy xx ond fysai [?] fo efo Dada@s:cym&spa . 39916_42070
+*ANO:	+< yndy xx ond fysai fo efo Dada@s:cym&spa . 39916_42070
 %eng:	yes, [...] but he would be with Dada
 *MSA:	ia . 42175_42691
 %eng:	yes
@@ -71,16 +71,18 @@
 %eng:	I shall pay it attention
 *MSA:	&g edrych ar dyddiad [?] . 46017_47271
 %eng:	looking at the date
-*ANO:	ie ie (.) ie ie ie . 46800_48385
-%eng:	yes yes yes yes yes
+*ANO:	+< ie ie (.) ie ie ie . 46800_48385
+%eng:	yes yes
 *ANO:	(e)fallai taw hwnna (y)dy o . 49981_50799
 %eng:	maybe that's it
-*ANO:	o(eddw)n i (y)n meddwl taw Taid Joseph@s:cym&spa oedd biau fo . 50793_52755
-%eng:	I thought Taid Joseph had it
+*ANO:	o(eddw)n i (y)n meddwl taw taid Joseph@s:cym&spa oedd biau fo . 50793_52755
+%eng:	I thought it belonged to Joseph's grandpa
 *ANO:	a mae (y)na un (y)ma fel oedd yr arfer amser hynny yndy . 54080_56379
 %eng:	and there is one here, as was the custom then, wasn't it
-*ANO:	oedd popeth yn cael ei roid fan (y)na lawr ar yr er@s:cym&spa +... 56378_58717
+*ANO:	oedd popeth yn cael ei roid fan (y)na lawr ar yr uh +... 56378_58717
 %eng:	everything used to be put there, down on the er...
+*MSA:	+< wel ie . 56393_56880
+%eng:	well, yes
 *ANO:	ie ie . 58821_59262
 %eng:	yes yes
 *MSA:	[- spa] claro . 59262_59923
@@ -89,10 +91,12 @@
 %eng:	yes yes
 *MSA:	(a)chos mae efo fi un . 60274_61662
 %eng:	because I've got one
-*MSA:	er@s:cym&spa ond er@s:cym&spa Mam rhodd hwnnw i fi a Alwyn@s:cym&spa . 61824_64483
-%eng:	er, but Mother gave that to me and Alwyn
+*MSA:	uh ond uh Mam rhodd hwnnw i fi a Alwyn@s:cym&spa . 61824_64483
+%eng:	er, but Mam gave that one to me and Alwyn
 *MSA:	a wedyn mae um +/. 64771_65735
 %eng:	and then, um...
+*ANO:	+< aha@s:cym&spa . 64925_65686
+%eng:	aha
 *ANO:	un bach ? 65746_66333
 %eng:	a little one?
 *MSA:	un ie fel xx honno ond bod o (y)n dywyll yndy ? 66567_69702
@@ -100,15 +104,19 @@
 *ANO:	+< &=cough . 67858_68148
 *MSA:	oedd yn Cymraeg . 70123_71162
 %eng:	it was in Welsh
-*MSA:	achos pwy sy (y)n mynd i ddarllen <o hwnna fan hyn> [?] ? 71203_73235
-%eng:	because who's going to read from that here?
-*ANO:	+< ah@s:cym&spa ah@s:cym&spa ie ie dw i (y)n deall . 72517_74206
-%eng:	ah, yes I understand
+*ANO:	+< mmhm . 70237_71091
+%eng:	mmhm
+*MSA:	achos pwy sy (y)n mynd i ddarllen hwnna o fan hyn ? 71203_73235
+%eng:	because who's going to read that from here?
+*ANO:	+< ie . 71272_71847
+%eng:	yes
+*ANO:	+< na (.) na ie ie dw i (y)n deall . 72517_74206
+%eng:	no, yes I understand
 *ANO:	ie ie . 74340_75123
 %eng:	yes yes
 *ANO:	ie ie . 75516_75893
 %eng:	yes yes
-*MSA:	ac i [/] i ni rŵan (.) maen nhw (y)n hanodd eu deallt . 75888_78959
+*MSA:	ac i &n [/] i ni rŵan (.) maen nhw (y)n hanodd eu deallt . 75888_78959
 %eng:	and even to us now, they're hard to understand
 *ANO:	yndy . 79320_79959
 %eng:	yes
@@ -116,7 +124,7 @@
 %eng:	they are
 *ANO:	+< yndyn . 80205_80605
 %eng:	they are
-*ANO:	mae gen i (.) geiriadur Gymraeg Saesneg fan (y)na (..) er@s:cym&spa o (y)r flwyddyn mil wyth cant chwe_deg . 80816_86868
+*ANO:	mae gen i (.) geiriadur Gymraeg Saesneg fan (y)na (..) uh o (y)r flwyddyn mil wyth cant chwe_deg . 80816_86868
 %eng:	I have a Welsh-English dictionary there from the year 1860
 *ANO:	rhywbeth fel (yn)a (y)dy o . 86862_87588
 %eng:	it's something like that
@@ -124,20 +132,25 @@
 %eng:	it's hard to understand
 *MSA:	yndy . 89054_89698
 %eng:	it is
-*ANO:	yr [/] yr iaith xx er@s:cym&spa mor hen . 89663_91454
-%eng:	such old language
+*ANO:	yr [/] yr iaith yndy (.) ie mor hen . 89663_91454
+%eng:	the language, yes, so old
 *MSA:	+< yndy . 90078_90421
 %eng:	it is
 *MSA:	yndy . 91495_91901
 %eng:	it is
-*ANO:	<mae (y)na> [//] mae (y)r geiriau (y)ma [///] mae [/] mae (y)r ieithiau [?] yn newydd [* newid] . 91944_94388
-%eng:	these words... the languages change
+*ANO:	<mae (y)na> [//] mae (y)r geiriau (y)ma [///] mae [/] mae (y)r ieithoedd yn newydd [* newid] . 91944_94388
+%eng:	these words.. . the languages change
 %com:	actually says "languages are new"
-*ANO:	xx mae (y)na eiriau newydd yn cael eu xxx . 94421_96458
+*ANO:	xx mae (y)na eiriau newydd yn cael xxx . 94421_96458
 %eng:	[..] new words get [...]
+*MSA:	+< xx . 95192_96155
+%eng:	[..]
 *MSA:	xx +/. 96489_97005
+%eng:	[..]
 *ANO:	a wedyn dw i ddim yn deall o_gwbl . 96872_98259
 %eng:	and then I don't understand at all
+*MSA:	+< mmhm . 97469_98374
+%eng:	mmhm
 *ANO:	a mae (y)r Beibl +//. 98408_99024
 %eng:	and the Bible...
 *ANO:	wel (dy)na fo . 99012_99459
@@ -145,43 +158,49 @@
 *ANO:	mae (y)r Beibl +//. 99471_100483
 %eng:	the Bible...
 *ANO:	unrhyw Beibl yn hanodd i ddeall . 100524_101923
-%eng:	any Bible [is] hard to understand
-*MSA:	ond er@s:cym&spa (.) tria gael allan +/. 101919_104171
+%eng:	any Bible is hard to understand
+*MSA:	ond uh (.) tria gael allan +/. 101919_104171
 %eng:	but, er, try to get out...
 *ANO:	ie ie mi [/] mi sylwa i . 104177_105548
 %eng:	yes yes I shall pay it attention
-*MSA:	+< achos dw i wedi edrych amdano fe xxx . 105142_106983
-%eng:	because I've looked for it
+*MSA:	+< tria di edrych am xxx . 105142_106983
+%eng:	you try looking for...
 *ANO:	+< ie peidiwch â poeni na . 106054_107570
 %eng:	yes, don't worry, no
-*MSA:	mae o (y)n beth werthfawr [?] xxx . 107131_109052
-%eng:	it's a valuable thing [...]
+*MSA:	+< mae o (y)n beth werthfawr cofia xxx . 107131_109052
+%eng:	it's a valuable thing, you know [...]
 *ANO:	+< wel yndy mae o &m +//. 108496_109640
 %eng:	well, yes it is
 *ANO:	un peth fel (yn)a (y)dy o . 109628_110290
 %eng:	it's a thing like that
 *MSA:	+< ie (dy)na fo . 110506_111243
 %eng:	yes, that's it
+*ANO:	+< fel (y)na . 110631_111275
+%eng:	like that
 *ANO:	fel (yn)a . 111545_111916
 %eng:	like that
 *MSA:	a mae (.) John_Richards@s:cym&spa a Sian_Richa(rds)@s:cym&spa (.) a (y)r enwau <ni i_gy(d)> [//] ni ! 111753_116380
-%eng:	and there's John Richards and Sian Richards and all our names... us!
+%eng:	and there's John Richards and Sian Richards and all our names.. . us!
 *MSA:	a wedyn &dx (dy)dy hi ddim . 116461_118278
 %eng:	and then, she is not
-*MSA:	ond un [?] ni yndy . 118313_119340
-%eng:	but our one, it is
-*ANO:	mmhm@s:cym&spa . 119323_119839
-*ANO:	mmhm@s:cym&spa . 120034_120504
+*MSA:	ein rai ni yndyn . 118313_119340
+%eng:	ours, yes
+*ANO:	mmhm . 119323_119839
+%eng:	mmhm
+*ANO:	mmhm . 120034_120504
+%eng:	mmhm
 *MSA:	a wedyn (.) dw i rŵan yn wneud un fi . 120499_123200
-%eng:	and then, I now am doing mine
+%eng:	and then, I'm doing mine now
 *MSA:	dw i roid enwau . 123753_124612
 %eng:	I'm putting the names
 *MSA:	a dw i roid enwau (y)r plantod wan . 124624_126272
 %eng:	and I'm putting the names of the children now
 %com:	check "plantod" (irregular plural?)
 *ANO:	mm +... 126285_126598
-*MSA:	fel bod o (y)n aros como@s:spa [//]  fel documento@s:spa . 126641_128945
+*MSA:	fel bod o (y)n aros como@s:spa [//] fel documento@s:spa . 126641_128945
 %eng:	so that it remains as... as a testimony document
+*ANO:	+< ie . 127899_128776
+%eng:	yes
 *ANO:	ie ie (.) ie ie (.) ie . 128935_130682
 %eng:	yes, yes
 *ANO:	fel (y)na xx be oedden nhw (y)n wneud yndy (he)fyd . 130912_132247
@@ -192,50 +211,54 @@
 %eng:	sure
 *MSA:	achos dyna beth oedd y documento@s:spa o_blaen cofia . 133998_136471
 %eng:	because that's what the testimony document was before, remember
-*ANO:	ie ie . 135909_137046
+*ANO:	+< ie ie . 135909_137046
 %eng:	yes, yes
-*MSA:	achos mae (y)r Beibl@s:cym&spa (..) xx [?] Colemans@s:cym&spa +//. 137183_140996
+*MSA:	achos mae (y)r Beibl@s:cym&spa (..) xx Colemans@s:cym&spa +//. 137183_140996
 %eng:	because the [...] Colemans' Bible...
 *ANO:	mm +... 141076_141645
 *MSA:	mae o (y)n beth &o +... 141860_143207
 %eng:	it's something...
 *MSA:	mae o efo [///] efo Jamie@s:cym&spa oedd o . 143168_145339
-%eng:	Jamie has it
+%eng:	it's with... Jamie had it
 *MSA:	ond rŵan mae o efo merched Coleman@s:cym&spa yn Esquel@s:cym&spa dw i (y)n credu . 145456_148306
-%eng:	but now it's with the Coleman daughters in Esquel I believe
-*ANO:	mmhm@s:cym&spa . 148368_148785
+%eng:	but now I think it's with the Coleman daughters in Esquel
+*ANO:	mmhm . 148368_148785
+%eng:	mmhm
 *MSA:	a mae [///] fan (y)na mae (y)na bethau ofnadwy o documentos@s:spa mae (y)n debyg . 148756_151894
 %eng:	and there, there are some extremely testimony document-like things, probably
 *ANO:	aha@s:cym&spa ? 152082_152773
-*MSA:	<dw i ddim credu bod> [/] dw i (ddi)m credu bod fi (we)di weld o erioed . 152390_154863
+%eng:	aha?
+*MSA:	+< <dw i ddim credu bod> [/] dw i (ddi)m credu bod fi (we)di weld o erioed . 152390_154863
 %eng:	I don't think I've ever seen it
 *ANO:	aha@s:cym&spa . 155415_156082
+%eng:	aha
 *ANO:	efo pwy mae o ? 156649_157421
 %eng:	who has it?
 *MSA:	efo merched Colemans@s:cym&spa . 157421_158594
 %eng:	with the Coleman daughters
 *ANO:	aha@s:cym&spa . 158594_159000
-*MSA:	wnaethon nhw ofyn am er@s:cym&spa gael ei fenthyg o . 159439_161756
+%eng:	aha
+*MSA:	wnaethon nhw ofyn am uh gael ei fenthyg o . 159439_161756
 %eng:	they asked to borrow it
 *MSA:	efo Jamie@s:cym&spa oedd o . 161744_163044
 %eng:	Jamie had it
-*ANO:	a (dy)dy o (ddi)m (we)di xx (y)n_ôl [?] &=laugh ? 163885_165069
-%eng:	and he hasn't had it back?
-*MSA:	a (dy)dy o ddim (we)di xx (y)n_ôl [?] . 165090_166199
-%eng:	and he hasn't had it back
+*ANO:	a (dy)dy o (ddi)m (we)di cael dod (y)n_ôl &=laugh ? 163885_165069
+%eng:	and it hasn't come back?
+*MSA:	a (dy)dy o ddim (we)di cael dod (y)n_ôl . 165090_166199
+%eng:	and it hasn't come back
 *ANO:	&=laugh . 166356_166779
 *MSA:	wel (dy)na fo ! 166512_167395
-%eng:	well, there it is
+%eng:	well, there we go
 *ANO:	(dy)dy o ddim (we)di gofyn amdano fo chwaith ? 167384_168481
 %eng:	he hasn't asked for it either?
-*MSA:	+< xxx teulu mae o . 167639_169886
-%eng:	[...] he's family
+*MSA:	+< xxx fel teulu mae o . 167639_169886
+%eng:	[...] he's like family
 *ANO:	ie ie ie ie . 169853_170765
 %eng:	yes, yes
-*MSA:	(dy)dy (dd)im bod fel +//. 170317_171466
-%eng:	it's not as though...
-*MSA:	xxx teulu oedd yn mynd â xxx . 171888_174564
-%eng:	[...] family that took [...]
+*MSA:	+< ti (y)n gwybod fel +//. 170317_171466
+%eng:	you know, like...
+*MSA:	wel i (y)r teulu oedd yn mynd â xxx ni a (y)r afon . 171888_174564
+%eng:	well for the family, he took us [...] us and the river
 *ANO:	+< eu teulu i_gyd ? 172822_173559
 %eng:	their whole family?
 *MSA:	wel gobeithio taw efo ti mae o a ddim (e)fo [?] xx +... 174726_177489
@@ -250,7 +273,7 @@
 %eng:	oh, I'd ask for it
 *ANO:	(dy)dy o ddim fel +//. 183839_184414
 %eng:	it's not as though...
-*ANO:	dw i (y)n siarad <efo hi> [?] bob amser &=noise . 184408_186167
+*ANO:	dw [/] dw i (y)n siarad <efo hi> [?] bob amser &=noise . 184408_186167
 %eng:	I speak with her all the time
 *MSA:	ie ie . 186642_187211
 %eng:	yes
@@ -266,18 +289,20 @@
 %eng:	I've asked for some things
 *ANO:	ond (dy)dyn nhw ddim ar gael . 193902_195057
 %eng:	but they're not available
-*MSA:	ond er@s:cym&spa +... 195229_196488
+*MSA:	ond uh +... 195229_196488
 %eng:	but, er...
 *ANO:	aha@s:cym&spa . 196530_197180
+%eng:	aha
 *MSA:	ti (y)n deall ? 197233_197941
 %eng:	you understand?
 *MSA:	(dy)na be sy (y)n bod . 198272_199113
 %eng:	that's what's wrong
 *ANO:	aha@s:cym&spa mae (y)n biti yn_de ? 199674_201044
-%eng:	aha, pity, eh?
+%eng:	aha, it's a pity, eh?
 *ANO:	ie ie . 202079_203043
 %eng:	yes, yes
 *MSA:	xx +/. 203385_203693
+%eng:	[...]
 *ANO:	dach chi (y)n nabod [?] hwn ? 203647_204483
 %eng:	do you know this one?
 *MSA:	+" dynion familia@s:spa del@s:spa sur@s:spa . 206096_207292
@@ -286,34 +311,41 @@
 %eng:	oh yes, Anwen has that, I think
 *ANO:	yndy yndy ? 210195_211043
 %eng:	yes, really?
+*MSA:	+< yndy . 210319_210748
+%eng:	yes
 *MSA:	yndy mae o efo Anwen@s:cym&spa . 211031_212117
 %eng:	yes, Anwen has it
 *MSA:	mae un arall sy efo fi . 212123_213383
 %eng:	there's another one that I've got
-*MSA:	er@s:cym&spa una@s:spa mae +//. 213930_215613
+*MSA:	uh una@s:spa mae +//. 213930_215613
 %eng:	er, one, it's that...
 *MSA:	[- spa] +" cien [/] cien sombreros y un atuendo . 215671_218283
 %eng:	one hundred... one hundred hats and an outfit.
 *ANO:	ah@s:cym&spa ie ie ie . 218272_219340
 %eng:	ah, yes, yes.
+*MSA:	+< ie . 218781_219181
+%eng:	yes
 *MSA:	hwnnw xx ddiddorol iawn (he)fyd . 219395_221340
 %eng:	that one [...] very interesting as well
 *ANO:	&=noise . 223422_224014
 *ANO:	Ioan_Glyn_Owen@s:cym&spa ? 225840_226943
+%eng:	Ioan Glyn Owen?
 *MSA:	ia . 226920_227367
 %eng:	yes
 *ANO:	Isobel@s:cym&spa (.) Owen@s:cym&spa . 227617_229637
-*ANO:	er@s:cym&spa priodas yndy ? 230065_231580
-%eng:	er, a wedding, isn't it
+%eng:	Isobel Owen
+*ANO:	uh priodas yndy ? 230065_231580
+%eng:	er, a wedding, isn't it?
 *ANO:	a wedyn (.) dyma fo Jacob@s:cym&spa fan hyn . 231745_234224
-%eng:	and then, here it is, Jacob here
+%eng:	and then, here's Jacob here
 *MSA:	pwy ? 234485_234781
 %eng:	who?
 *MSA:	Jacob@s:cym&spa . 234787_235332
-*ANO:	hwnna ? 235381_235886
-%eng:	him?
-*ANO:	y llun ? 235909_236345
-%eng:	the picture?
+%eng:	Jacob
+*ANO:	hwnna . 235381_235886
+%eng:	him
+*ANO:	y llun . 235909_236345
+%eng:	the picture.
 *MSA:	ia ia . 236304_236786
 %eng:	yes, yes
 *ANO:	dyn y llun ? 236751_237372
@@ -321,81 +353,96 @@
 *MSA:	+< (dy)na ti ia . 236879_237773
 %eng:	there you are, yes
 *ANO:	Jacob@s:cym&spa . 237872_238691
+%eng:	Jacob
 *ANO:	briodas efo Elin_Mai_Jones@s:cym&spa . 239422_242110
 %eng:	wedding to Elin Mai Jones
+*MSA:	+< ooh . 240162_241799
+%eng:	ooh
 *ANO:	a mi aeth i Australia@s:spa . 242147_243407
 %eng:	and he went to Australia
-*ANO:	a dyma enwau (y)r er@s:cym&spa plant i_gyd . 243453_245473
+*ANO:	a dyma enwau (y)r uh plant i_gyd . 243453_245473
 %eng:	and here are the names of all the children
 *MSA:	+< xx . 244898_245247
+%eng:	[...]
 *MSA:	a pwy sy (we)di wneud y llyfr (y)ma ? 245554_246930
 %eng:	and who's made this book?
-*ANO:	er@s:cym&spa Romero@s:cym&spa . 246936_247691
-*MSA:	(dy)na ti waith yndy ? 247961_248977
-%eng:	that's some work, isn't it?
-*ANO:	Huw_Tudur@s:cym&spa a Romero@s:cym&spa ie . 248988_250248
-%eng:	Huw Tudur and Romero, yes
-*MSA:	(dy)na ti waith . 249868_250664
+*ANO:	uh Romero@s:cym&spa . 246936_247691
+%eng:	er, Romero
+*MSA:	oh (dy)na ti waith yndy ? 247645_249044
+%eng:	oh, that's some work, isn't it?
+*ANO:	ie Huw_Tudur@s:cym&spa a Romero@s:cym&spa ie . 248902_250522
+%eng:	yes, Huw Tudur and Romero, yes
+*MSA:	+< (dy)na ti waith . 249868_250664
 %eng:	that's some work
 *ANO:	ie . 250641_251111
-*ANO:	ond (dy)dy er@s:cym&spa er@s:cym&spa teulu Nain Richards@s:cym&spa ddim (y)ma . 251184_253367
+%eng:	yes
+*ANO:	ond (dy)dy uh uh teulu Nain Richards@s:cym&spa ddim (y)ma . 251184_253367
 %eng:	but Grandma Richards' family isn't here
-*ANO:	xx Richards@s:cym&spa +/. 253386_253879
-*MSA:	(dy)dy teulu Nain Richards@s:cym&spa ddim yn y llall chwaith . 253583_255783
+*ANO:	John_Richards@s:cym&spa +/. 253386_253879
+%eng:	John Richards
+*MSA:	+< (dy)dy teulu Nain Richards@s:cym&spa ddim yn y llall chwaith . 253583_255783
 %eng:	Grandma Richards' family isn't in the other one either
 *ANO:	(dy)na fo . 255800_256191
-%eng:	there you are
+%eng:	there we go
 *MSA:	+< neb ! 256040_256528
 %eng:	nobody!
 *MSA:	dim un ! 256988_257690
 %eng:	not one!
+*ANO:	+< na . 256990_257565
+%eng:	no
 *ANO:	(dy)na beth ryfedd yn_de ? 257615_258538
 %eng:	that's strange, isn't it?
-*MSA:	na (ddi)m Dada@s:cym&spa na Mam na neb . 258455_260377
-%eng:	there's no Dada or Mother or anyone
+*MSA:	na (ddi)m Dada@s:cym&spa na Mam@s:cym&spa na neb . 258455_260377
+%eng:	there's no Dada or Mam or anyone
 *ANO:	+< aha@s:cym&spa . 260128_260354
+%eng:	aha
 *MSA:	dan ni (ddi)m xx +/. 260377_260981
 %eng:	we're not...
 *ANO:	+< fan hyn . 260830_261463
 %eng:	here
-*ANO:	dim_ond fan hyn (.) yma (.) er@s:cym&spa Edward@s:cym&spa (.) Glyn_Owen@s:cym&spa Alexandra_Jones@s:cym&spa (.) yn_de ? 261488_267392
+*ANO:	dim_ond fan hyn (.) yma (.) uh Edward@s:cym&spa (.) Glyn_Owen@s:cym&spa Alexandra_Jones@s:cym&spa (.) yn_de ? 261488_267392
 %eng:	only here, er, Edward Glyn Owen, Alexandra Jones, right?
 *MSA:	ia . 267352_267891
 %eng:	yes
-*ANO:	dach chi (y)n wybod hynna . 268025_268838
-%eng:	you know that
+*ANO:	dach chi (y)n gwybod pwy (y)dy hynna ? 268025_268838
+%eng:	do you know who that is?
 *MSA:	xx +/. 268820_269412
+%eng:	[...]
 *ANO:	+< xxx . 268896_269633
+%eng:	[...]
 *ANO:	wel a mae [/] (.) mae Sian yn fan hyn . 269731_271705
 %eng:	well, and Sian is here
 *MSA:	ie . 271654_272025
 %eng:	yes
 *ANO:	a John_Richards@s:cym&spa . 272840_273275
 %eng:	and John Richards
-*MSA:	xx ah@s:cym&spa (dy)na ti . 272858_274158
-%eng:	[...] ah, there you are
+*MSA:	a &hu ah@s:cym&spa (dy)na ti . 272858_274158
+%eng:	and [...] ah, there you are
 *ANO:	yndy . 274249_274545
 %eng:	yes
-*MSA:	wel dw i_fewn yn y llall (.) wrth bod fi (y)n wraig Alwyn@s:cym&spa . 274452_277622
+*MSA:	wel dw i fewn yn y llall (.) wrth bod fi (y)n wraig Alwyn@s:cym&spa . 274452_277622
 %eng:	well I'm included in the other one, since I'm Alwyn's wife
 *ANO:	aha@s:cym&spa (.) ie efo Ellis@s:cym&spa a Coleman@s:cym&spa . 278106_280526
 %eng:	aha, yes, with Ellis@s:cy&es and Coleman
 *MSA:	+< xxx . 279988_280476
+%eng:	[...]
 *ANO:	Ellis@s:cym&spa . 280928_281393
+%eng:	Ellis
 *ANO:	ie ie . 281759_282310
 %eng:	yes yes
-*MSA:	er@s:cym&spa na Coleman@s:cym&spa xxx Rhys_Coleman@s:cym&spa . 282403_284917
+*MSA:	uh na Coleman@s:cym&spa xxx Rhys_Coleman@s:cym&spa . 282403_284917
 %eng:	er, no, Coleman [...] Rhys Coleman
 *ANO:	&=cough . 285008_285583
 *MSA:	dod fel Coleman@s:cym&spa xx +//. 285626_286782
 %eng:	becoming a Coleman...
-*MSA:	<dim (wy)bod> [?] mae (y)n enw cyffredin [?] . 286823_287897
-%eng:	don't know, it's a common name
-*MSA:	merch i [///] xx yn merch i Coleman@s:cym&spa yn_doedd ? 287881_290389
-%eng:	[...] was a daughter of Coleman, wasn't she?
+*MSA:	dim (wy)bod ond xx dw i (y)n credu +... 286823_287897
+%eng:	don't know, but [...]  I think
+*MSA:	+, merch i [///] Alwyn@s:cym&spa yn merch i Coleman@s:cym&spa yn_doedd ? 287881_290389
+%eng:	Alwyn's daughter was a daughter of Coleman, wasn't she?
 *ANO:	ie ie . 290378_291039
 %eng:	yes yes
 *MSA:	Firas@s:cym&spa . 291025_291541
+%eng:	Firas
 *ANO:	ia Firas@s:cym&spa ie ie . 291570_292534
 %eng:	yes, Firas, yes yes
 *ANO:	mae (y)n deud fan hyn +"/. 292985_293954
@@ -418,19 +465,20 @@
 %eng:	yes, seventies.
 *ANO:	+< ie ti (y)n deall ? 308126_309409
 %eng:	yes, you understand?
-*ANO:	er@s:cym&spa +"/. 309666_310560
+*ANO:	uh +"/. 309666_310560
+%eng:	er...
 *ANO:	tuvieron@s:spa chacra@s:spa en@s:spa &tsir Tair_Helygen@s:cym&spa . 311195_314370
 %eng:	they had a farm in Tair Helygen .
 *MSA:	sí@s:spa yn y Dyffryn . 314471_315794
 %eng:	yes, in the Valley
-*ANO:	+" en@s:spa Tres_Sauces@s:cym&spa cerca@s:spa de Rawson@s:cym&spa . 315848_317636
-%eng:	in Tres_Sauces, near Rawson
-*ANO:	más@s:spa tarde@s:spa vivieron@s:spa en@s:spa Trelew@s:cym&spa donde@s:spa actualmente@s:spa (.) está@s:spa casa@s:spa Lloyd@s:cym&spa avenida@s:spa Fontana@s:cym&spa ? . 317555_322379
-%eng:	later they lived in Trelew where is currently the Lloyd house, Fontana avenue
+*ANO:	+" en@s:spa Tres_sauces@s:cym&spa cerca@s:spa de@s:spa Rawson@s:cym&spa . 315848_317636
+%eng:	in Tres Sauces, near Rawson
+*ANO:	más@s:spa tarde@s:spa vivieron@s:spa en@s:spaTrelew@s:cym&spa donde@s:spa actualmente@s:spa (.) está@s:spa casa@s:spa Lloyd@s:cym&spa avenida@s:spa Fontana@s:cym&spa ? . 317555_322379
+%eng:	later they lived in Trelew where the Lloyd house currently is, on Fontana Avenue
 *ANO:	[- spa] +" abrieron allí una pensión familiar . 322326_324323
-%eng:	there they opened a family bed and breakfast
+%eng:	they opened a family bed and breakfast there
 *ANO:	+" su@s:spa hija@s:spa (.) Laura_Mai@s:cym&spa casada@s:spa con@s:spa John_David_Prys@s:cym&spa (.) tuvo@s:spa la@s:spa primera@s:spa casa@s:spa de@s:spa té@s:spa en@s:spa Gaiman@s:cym&spa . 324594_330305
-%eng:	his daughter, Laura Mai, married with John David Prys, had the fist tea house in Gaiman
+%eng:	his daughter, Laura Mai, married to John David Prys, had the fist tea house in Gaiman
 *ANO:	[- spa] y también el primer hotel donde ahora funciona la escuela de música . 330293_333672
 %eng:	and also the first hotel where the music school is now
 *ANO:	+" cuando@s:spa el@s:spa presidente@s:spa Roca@s:cym&spa visitó@s:spa el@s:spa territorio@s:spa en@s:spa mil@s:spa ochocientos@s:spa noventa@s:spa y@s:spa nueve@s:spa fue@s:spa agasajado@s:spa en@s:spa este@s:spa hotel@s:spa con@s:spa un@s:spa almuerzo@s:spa . 333891_340791
@@ -441,12 +489,13 @@
 %eng:	and ten plum puddings for dessert
 *MSA:	&=gasp . 344421_345199
 *ANO:	+" entre@s:spa tantos@s:spa viajeros@s:spa que@s:spa allí@s:spa se@s:spa alojaron@s:spa se@s:spa menciona@s:spa a@s:spa un@s:spa Lord_Cavendish@s:cym&spa con@s:spa opiniones@s:spa culinarias@s:spa y@s:spa dos@s:spa hombres@s:spa y@s:spa una@s:spa mujer@s:spa que@s:spa resultaron@s:spa ser@s:spa miembros@s:spa de@s:spa la@s:spa banda@s:spa Butch_Cassidy@s:cym&spa . 345188_356970
-%eng:	among so many travellers that stayed at this hotel, it is mentioned a Lord with culinary opinions and two men and a woman that happened to be members of Butch_Cassidy's band
-*ANO:	+" a@s:spa su@s:spa partida@s:spa dejaron@s:spa un@s:spa manso@s:spa pony@s:cym&spa de@s:spa regalo@s:spa . 357243_360523
+%eng:	among so many travellers that stayed at this hotel, a Lord Cavendish is mentioned, who has culinary opinions, and two men and a woman that happened to be members of Butch_Cassidy's band
+*ANO:	+" a@s:spa su@s:spa partida@s:spa dejaron@s:spa un@s:spa manso@s:spa pony@s:spa de@s:spa regalo@s:spa . 357243_360523
 %eng:	when they left, they left a docile pony as a present
 *ANO:	Butch_Cassidy@s:cym&spa +/. 360822_361832
+%eng:	Butch Cassidy
 *MSA:	ia xx +... 361791_363306
-%eng:	yes [...] ...
+%eng:	yes [...]
 *ANO:	[- spa] pistolero . 363463_364032
 %eng:	gunman
 *MSA:	[- spa] +< pistolero . 363846_364427
@@ -461,33 +510,40 @@
 %eng:	that's been written better than the other one
 *ANO:	yndy ? 372952_373382
 %eng:	has it?
-*MSA:	mae (y)r &ɬe llall yn [/] er@s:cym&spa yn sgwennu (y)n &bambambam . 373139_376150
-%eng:	the other's written "bam! bam! bam!"
-*MSA:	ond er@s:cym&spa os wyt ti isio cael gwybod pwy (y)dy rywun i [?] pwy wyt ti (y)n dod (.) <ah@s:cym&spa wel xx> [?] mae yna . 376151_381971
-%eng:	but if you want to find out who someone is who you come from, then, well [..], it's there.
+*MSA:	+< mae (y)r &ɬe llall yn [/] uh yn sgwennu (y)n &bambambam . 373139_376150
+%eng:	the other writes "bam! bam! bam!"
+*MSA:	ond uh os wyt ti isio cael gwybod pwy (y)dy rywun i pwy wyt ti (y)n dod (.) ah@s:cym&spa wel xx mae o yna . 376151_381971
+%eng:	but if you want to find out who someone is, who you come from, then, well [...], it's there.
 *ANO:	+< o le . 381056_381468
 %eng:	from where
 *ANO:	mae yna . 382019_382524
 %eng:	it's there
-*MSA:	mae yna i ti <(y)n gall> . 382457_383403
-%eng:	it's there for you, straight
+*MSA:	mae yna ti (y)n gallu +//. 382457_383403
+%eng:	it's there, you can...
+*ANO:	+< aha@s:cym&spa . 382458_383608
+%eng:	aha
 *ANO:	yndy yndy wel (dy)na fo ! 383391_384483
 %eng:	yes, yes, well there you are
+*MSA:	+< ti +/. 383585_383922
+%eng:	you...
 *ANO:	&=cough . 385477_386092
 *MSA:	ond os +//. 386321_386896
 %eng:	but if...
-*MSA:	(dy)dy [/] (dy)dy teulu ni ddim yndy ? 386890_389050
+*MSA:	(dy)dy [/] (dy)dy [/] (dy)dy teulu ni ddim yndy ? 386890_389050
 %eng:	our family isn't, is it?
 *MSA:	xx [/] xx +... 389075_390840
-*ANO:	oh Richards@s:cym&spa [/] Richards@s:cym&spa John_Richards@s:cym&spa . 391407_393265
-%eng:	oh, Richards, John Richards
+%eng:	[...]
+*ANO:	na Richards@s:cym&spa [/] Richards@s:cym&spa John_Richards@s:cym&spa . 391407_393265
+%eng:	no, Richards, John Richards
+*MSA:	+< teulu xx . 391626_392735
+%eng:	family [...]
 *ANO:	no@s:spa no@s:spa ddim . 393341_394507
 %eng:	no, [he's] not
 *ANO:	ia wir . 396131_397100
 %eng:	yes indeed
 *ANO:	wel (dy)na fo . 397481_398468
-%eng:	well, there it is
-*MSA:	buest ti yn eisteddfod ? 399494_401050
+%eng:	well, there we go
+*MSA:	buest ti yn y eisteddfod ? 399494_401050
 %eng:	were you at the eisteddfod?
 *ANO:	do . 401369_401950
 %eng:	yes
@@ -495,11 +551,11 @@
 %eng:	yes?
 *MSA:	gest ti hwyl ? 402963_403956
 %eng:	did you have fun?
-*ANO:	wel oedd o (y)n er@s:cym&spa +//. 404118_405680
-%eng:	well, it was, er...
-*ANO:	mi es i eisteddfod . 405703_406692
+*ANO:	wel oeddwn i (y)n uh +//. 404118_405680
+%eng:	well, I was, er...
+*ANO:	mi es i (y)r eisteddfod . 405703_406692
 %eng:	I went to the eisteddfod
-*ANO:	ond [/] ond dw i ddim yn sefyll [?] trwy (y)r amser yn eisteddfod . 406693_410235
+*ANO:	ond [/] ond dw i ddim yn sefyll trwy (y)r amser yn eisteddfod . 406693_410235
 %eng:	but I don't stand all the time at an eisteddfod
 *MSA:	+< trwy (y)r amser . 409416_410026
 %eng:	all the time
@@ -513,25 +569,24 @@
 %eng:	yes
 *MSA:	+, braidd . 417185_417603
 %eng:	...somewhat
-*ANO:	gorffen am er@s:cym&spa hanner wedi un o gloch y bore dydd Sul . 417565_420450
+*ANO:	gorffen am uh hanner wedi un o gloch y bore dydd Sul . 417565_420450
 %eng:	finishing at half past one in the morning on Sunday
-*ANO:	pan [///] (.) de(g) [/] deg awr deuddeg awr . 421032_423354
-%eng:	when... ten hours, eleven hours
-*ANO:	<mae (y)na> [//] mae (y)n ormod . 423348_424173
-%eng:	it's too much
-*MSA:	na . 424115_424596
+*ANO:	pan [///] (.) de(g) [/] deg awr deuddeg awr fan (y)na mae o (y)n ormod . 420883_424157
+%eng:	when... ten, twelve hours there, it's too much
+*MSA:	na na . 424225_425107
 %eng:	no
-*ANO:	a dw i ddim credu bod o (we)di bod mor er@s:cym&spa um hyfryd â [/] (.) â mae o (y)n arfer bod blwyddyn (y)ma . 425072_431388
+*ANO:	a dw i ddim credu bod o (we)di bod mor uh um hyfryd â [/] (.) â mae o (y)n arfer bod blwyddyn (y)ma . 425072_431388
 %eng:	and I don't think it's been so lovely as it usually is this year
 *ANO:	ond (dy)na fo . 431796_432341
 %eng:	but there you are
 *ANO:	maen nhw (y)n mynd a maen nhw (y)n +... 432385_434080
 %eng:	they go and they...
 *ANO:	&=cough a peth arall yr un &n nos Sadwrn hynny oedd pen_blwydd Gary@s:cym&spa . 434074_437791
-%eng:	and another thing, the same Saturday night as that was Gary's birthday
-*MSA:	ah@s:cym&spa [?] +/. 439669_440476
-*ANO:	oedd o yn Trelew@s:cym&spa . 440447_441550
-%eng:	he was in Trelew
+%eng:	and another thing, that same Saturday night was Gary's birthday
+*MSA:	ah@s:cym&spa ia ? 439669_440476
+%eng:	ah yes?
+*ANO:	+< a oedd o yn Trelew@s:cym&spa . 440447_441550
+%eng:	and he was in Trelew
 *MSA:	ah@s:cym&spa (dy)na ti . 441552_442591
 %eng:	ah, there you are
 *ANO:	a wedyn mi [//] fuon ni (y)n cael swper . 442548_444824
@@ -540,16 +595,18 @@
 %eng:	him and Katia
 *MSA:	[- spa] claro . 446986_447740
 %eng:	right
-*ANO:	a Linda@s:cym&spa a fi (.) <mi o(edden)> [?] ni (y)n cael swper . 447755_451035
+*ANO:	a Linda@s:cym&spa a fi (.) fuon ni (y)n cael swper . 447755_451035
 %eng:	and Linda and me, we had dinner
 *MSA:	+< xx . 450311_450897
-*ANO:	ac ar_ôl swper mi es i (y)n_ôl i (y)r er@s:cym&spa +... 451063_453809
+%eng:	[...]
+*ANO:	ac ar_ôl y swper mi es i (y)n_ôl i (y)r uh +... 451063_453809
 %eng:	and after dinner I went back to the, er...
 *MSA:	welaist ti (y)r xx ? 453977_455132
 %eng:	did you see the [...] ?
-*ANO:	+< er@s:cym&spa eh@s:cym&spa ? 454499_455602
-*MSA:	welaist ti (y)r er@s:cym&spa xxx +..? 455683_457849
-%eng:	did you see the [...]?
+*ANO:	+< i (y)r eh@s:cym&spa ? 454499_455602
+%eng:	to the... eh?
+*MSA:	welaist ti (y)r uh xxx +... 455683_457849
+%eng:	did you see the [...]
 *ANO:	+< na . 457669_458110
 %eng:	no.
 *MSA:	na welaist ti (dd)im [?] +/? 458249_459192
@@ -561,18 +618,19 @@
 *ANO:	[- spa] no no . 459989_460668
 %eng:	no
 *MSA:	aha@s:cym&spa . 460779_461353
+%eng:	aha
 *ANO:	[- spa] no no . 461249_461771
 %eng:	no
-*ANO:	er@s:cym&spa <welais i (ddi)m hynny> [?] achos um (.) gyrraeson ni rhy hwyr . 462366_465745
-%eng:	I didn't see that because... we arrived too late
+*ANO:	uh <welais i (ddi)m hynny> [?] achos um (.) gyrraeson ni rhy hwyr . 462366_465745
+%eng:	I didn't see that because.. . we arrived too late
 *ANO:	oedd ry hwyr pan aethon ni fewn . 466446_467943
 %eng:	it was too late when we went in
 *ANO:	ac [/] ond (dy)na fo . 468639_469220
 %eng:	but there it is
-*ANO:	mi welson ni (y)r (.) er@s:cym&spa +... 469237_471524
-%eng:	we saw the...
-*MSA:	a er@s:cym&spa faint oedd Gary@s:cym&spa (y)n gael rŵan (he)fyd ? 472037_473785
-%eng:	and how old was Gary having now too?
+*ANO:	mi welson ni (y)r (.) uh +... 469237_471524
+%eng:	we saw the, er...
+*MSA:	a uh faint oedd Gary@s:cym&spa (y)n gael rŵan (he)fyd ? 472037_473785
+%eng:	and which birthday was Gary having now?
 *ANO:	chwe_deg . 473753_474426
 %eng:	sixty
 *ANO:	dyna pam oedd yn [/] yn beth pwysig . 474713_476356
@@ -581,27 +639,28 @@
 %eng:	ah, [...] sixty now
 *ANO:	+< chwe_deg . 476916_477485
 %eng:	sixty
-*ANO:	xx pedwar_deg naw yndy yndy . 478317_479960
-%eng:	[...] '49, yes
+*ANO:	o (y)r pedwar_deg naw yndy yndy . 478317_479960
+%eng:	from '49, yes
 *MSA:	+< oh (dy)na ti . 478677_479426
-%eng:	oh, there we are
+%eng:	oh, there you are
 *ANO:	ie ie . 480440_481177
 %eng:	yes
 *MSA:	chwe_deg . 481778_482515
 %eng:	sixty
-*ANO:	mmhm@s:cym&spa . 482829_483287
-*MSA:	xx <dw i (y)n> [?] cofio fel <(fa)sen ni> [?] xx ddoe yli [?] . 483243_485327
-%eng:	[...] I remember it like we were [...[ yesterday, you see
+*ANO:	mmhm . 482829_483287
+%eng:	mmhm
+*MSA:	xx <dw i (y)n> [?] cofio fel <(fa)sen ni> [?] fel ddoe yli . 483243_485327
+%eng:	[...] I remember it like we were [...] yesterday, you see
 *MSA:	fi a Elen@s:cym&spa mynd ar gefn ceffylau . 485494_487677
 %eng:	me and Elen going on horseback
-*MSA:	xxx lle Mam@s:cym&spa . 488347_489781
-%eng:	[...] Mother's place
+*MSA:	ac i lle Mam@s:cym&spa . 488347_489781
+%eng:	and to Mam's place
 *MSA:	achos fan hyn fe [?] ganwyd ti . 489788_491576
 %eng:	because you were born here
-*MSA:	er@s:cym&spa xx ganwyd ti xx . 491551_493577
-%eng:	er, [..] you were born [...]
+*MSA:	uh na ganwyd ti xx . 491551_493577
+%eng:	er, no you were born [...]
 *ANO:	+< ganwyd Gary@s:cym&spa . 491943_492947
-%eng:	...Gary was born
+%eng:	Gary was born
 *ANO:	a Gary (he)fyd ? 493777_494509
 %eng:	and Gary too?
 *MSA:	do do . 494481_495166
@@ -611,16 +670,18 @@
 *MSA:	ganwyd Gary@s:cym&spa . 496800_497520
 %eng:	Gary was born
 *MSA:	ganwyd Gary@s:cym&spa dw isio deud [?] . 497526_499070
-%eng:	I mean [when] Gary was born
+%eng:	I mean to say Gary was born
 *ANO:	+< &=cough ah@s:cym&spa . 498226_499004
+%eng:	ah
 *MSA:	Gary@s:cym&spa . 499385_499919
+%eng:	Gary
 *MSA:	yn mis (.) octubre@s:spa . 500644_502270
 %eng:	in October
 *ANO:	Hydref . 502254_502806
 %eng:	October
 *MSA:	fi a Elen@s:cym&spa mynd ar cefn ceffylau i lle Mam@s:cym&spa . 502740_505294
-%eng:	me and Elen going on horseback to Mother's place
-*MSA:	a fan (hy)nny oedd [/] oedd [/] er@s:cym&spa oedd Bill@s:cym&spa yn y gwely eto a [/] a Gary@s:cym&spa . 505286_508786
+%eng:	me and Elen going on horseback to Mam's place
+*MSA:	a fan (hy)nny oedd [/] oedd [/] uh oedd Bill@s:cym&spa yn y gwely eto a [/] a Gary@s:cym&spa . 505286_508786
 %eng:	and there, Bill was in bed again, and Gary
 *ANO:	<o(eddw)n ni (y)na> [/] o(eddw)n ni (y)na (y)n y gwely (he)fyd . 508849_510434
 %eng:	I was there in bed as well
@@ -635,9 +696,10 @@
 *ANO:	yn ddeg oed a wedi cael varicela@s:spa . 516571_518359
 %eng:	ten years old, and had had chickenpox
 *MSA:	ah@s:cym&spa . 518513_519402
+%eng:	ah
 *ANO:	a (y)n y gwely o(eddw)n i . 519315_520394
 %eng:	and I was in bed
-*ANO:	ie fi (y)n cofio (y)n iawn . 520675_521929
+*ANO:	ie dw i (y)n cofio (y)n iawn . 520675_521929
 %eng:	yes I remember alright
 *ANO:	dach chi (ddi)m yn cofio (hyn)ny ? 523282_524251
 %eng:	you don't remember that?
@@ -658,29 +720,34 @@
 %eng:	well, there you are
 *ANO:	oedd cael ei chwe_deg . 533921_534706
 %eng:	he was having his sixtieth
-*ANO:	a mae (.) er@s:cym&spa Paloma@s:cym&spa yn abogada@s:spa . 534722_537903
+*ANO:	a mae (.) uh Paloma@s:cym&spa yn abogada@s:spa . 534722_537903
 %eng:	and Paloma is a lawyer
 *MSA:	yn abogada@s:spa ! 538491_539524
 %eng:	a lawyer!
 *ANO:	yndy yndy yndy yndy . 539539_540561
 %eng:	yes, yes she is
+*MSA:	yndy . 540362_540826
+%eng:	yes
 *MSA:	Paloma@s:cym&spa (y)dy (y)r ail . 540917_542420
 %eng:	Paloma is the second one
-*ANO:	+< xx . 541451_542217
-*MSA:	yr ail ferch [?] ? 542660_543426
+*ANO:	+< cyfreithiwr . 541451_542217
+%eng:	lawyer
+*MSA:	yr ail ferch ? 542660_543426
 %eng:	the second daughter?
 *ANO:	+< ie yr ail ie . 543095_544128
 %eng:	yes, the second, yes
 *MSA:	yn abogada@s:spa ! 543902_545384
 %eng:	a lawyer!
+*ANO:	xx . 544878_545830
+%eng:	[...]
 *ANO:	yndy . 546112_546687
 %eng:	yes
 *ANO:	cyfreithiwr . 547067_547757
 %eng:	a lawyer
 *MSA:	honna (y)dy (y)r [/] y brifenw hi . 548808_550619
-%eng:	she's the good name she has
-*ANO:	iawn &=laugh ! 550619_552175
-%eng:	right!
+%eng:	that's her surname
+*ANO:	ia wir &=laugh ! 550619_552175
+%eng:	yes, indeed!
 *MSA:	+< xxx honna [/] honna (y)dy (y)r +/. 551677_553709
 %eng:	[...] she, she's the...
 *ANO:	+< oh mae o xx ! 551750_552888
@@ -692,12 +759,15 @@
 *ANO:	+< wel maen nhw (y)n cael hwyl efo ei_gilydd . 555815_557602
 %eng:	well, they have fun together
 *MSA:	+< xx . 556598_556976
+%eng:	[...]
 *MSA:	ie ie . 557690_558183
 %eng:	yes
-*ANO:	<maen nhw> [/] <maen nhw> [/] maen nhw (y)n debyg un i (y)r llall . 557688_559302
+*ANO:	+< <maen nhw> [/] <maen nhw> [/] maen nhw (y)n debyg un i (y)r llall . 557688_559302
 %eng:	they're similar to one another
 *ANO:	(dy)na be sy (y)n bod . 559216_559895
 %eng:	that's what's wrong
+*MSA:	+< ie . 559360_559697
+%eng:	yes
 *MSA:	na . 559929_560457
 %eng:	no
 *ANO:	yndy yndy achos mae +/. 560485_561344
@@ -709,16 +779,18 @@
 *ANO:	na(g) (y)dy na(g) (y)dy . 563248_563870
 %eng:	no she isn't
 *ANO:	a mae (y)n gweithio (y)n tribunales@s:spa . 563900_565479
-%eng:	and she works in court.
-*MSA:	er@s:cym&spa be ? 565797_566622
-%eng:	what?
+%eng:	and she works in the courts
+*MSA:	uh be ? 565797_566622
+%eng:	er, what?
 *ANO:	mae (y)n gweithio yn [/] yn [/] yn [/] yn [/] yn [/] <yn y &ɬ> [//] yn (.) tribunales@s:spa . 566662_570743
-%eng:	she works in court.
+%eng:	she works in court
 *ANO:	yndy yndy yndy . 571868_572616
 %eng:	yes she does
-*MSA:	oh (dy)na ti xxx . 572657_574770
-%eng:	oh, that's [...]
-*ANO:	wel (dy)na fo . 574413_574941
+*MSA:	+< oh (dy)na ti iawn (yn)dy ia . 572657_574770
+%eng:	oh, that's good, isn't it, yes
+*ANO:	+< xxx . 572607_573472
+%eng:	[...]
+*ANO:	+< wel (dy)na fo . 574413_574941
 %eng:	well, that's it
 *MSA:	wel (dy)na fo . 574976_575696
 %eng:	well, that's it
@@ -726,11 +798,11 @@
 %eng:	she's alright?
 *ANO:	yndy yndy xx +/. 576619_577536
 %eng:	yes, yes [...]
-*MSA:	mae (y)n iawn ? 577490_577960
+*MSA:	+< mae (y)n iawn ? 577490_577960
 %eng:	she's alright?
 *ANO:	yndy wir . 578036_578616
 %eng:	yes indeed
-*MSA:	mae (y)n iawn . 578274_578750
+*MSA:	+< mae (y)n iawn . 578274_578750
 %eng:	she's alright
 *ANO:	yndy . 579300_579515
 %eng:	yes
@@ -742,24 +814,29 @@
 %eng:	there it is
 *MSA:	[- spa] bueno . 582551_583167
 %eng:	good
-*MSA:	(dy)na tipyn xxx cant chwe_deg xx . 583219_586034
-%eng:	that's a bit [...] 160 [...]
+*MSA:	(dy)na ti penblwydd o yn cant chwedeg oed . 583219_586034
+%eng:	there you go, his 160th birthday
 *ANO:	+< ond o(eddw)n i (y)n falch . 583750_584678
 %eng:	but I was glad
 *MSA:	yn [/] yn [/] (.) yn Trelew@s:cym&spa mae xxx ie ? 586099_589193
 %eng:	[...] is in Trelew, right?
+*ANO:	&=cough pwy ? 587852_588926
+%eng:	who?
 *ANO:	ie . 589235_589728
 %eng:	yes
 *ANO:	yn Trelew@s:cym&spa . 590174_590795
 %eng:	in Trelew
-*ANO:	<yn fan (yn)a mae> [?] hi a (y)r dwy ferch yndy ? 590999_593101
-%eng:	there, there's her and the two girls, isn't there?
+*ANO:	yn fan (yn)a mae hi a (y)r dwy ferch yndy ? 590999_593101
+%eng:	that's where she and the two girls are, isn't it?
 *MSA:	xx . 593293_593647
+%eng:	[...]
 *ANO:	ond (dy)na fo . 593682_594228
 %eng:	but there we are
+*MSA:	ie . 594404_595095
+%eng:	yes
 *ANO:	a Gary@s:cym&spa xx +/. 595035_596196
 %eng:	and Gary...
-*MSA:	+< wel mae [/] mae o (y)n daid (he)fyd yndy ? 595652_597962
+*MSA:	+< a wel mae [/] mae o (y)n daid (he)fyd yndy ? 595652_597962
 %eng:	well, he's a grandfather too, isn't he?
 *ANO:	yndy . 598272_598836
 %eng:	yes
@@ -769,12 +846,14 @@
 %eng:	yes, yes, since ...
 *MSA:	ers +... 601056_601532
 %eng:	since...
-*ANO:	+, er@s:cym&spa misoedd . 601584_602769
-%eng:	...months
+*ANO:	+, uh misoedd . 601584_602769
+%eng:	er, months
 *MSA:	yndy . 602906_603707
 %eng:	yes
 *ANO:	misoedd yndy . 603812_604839
 %eng:	months, yes
+*MSA:	+< xx . 603916_604433
+%eng:	[...]
 *ANO:	a (dy)na fo &n +... 607955_609401
 %eng:	and there it is...
 *ANO:	dw i ddim gwybod be mae o meddwl (.) wneud . 610403_612847
@@ -783,11 +862,11 @@
 %eng:	whether he's going to come to live in Trelew or not
 *ANO:	gawn ni weld . 615517_616144
 %eng:	we'll see
-*ANO:	achos er@s:cym&spa dw i ddim credu fydd o (y)n sefyll [?] llawer o (.) amser . 616281_618998
-%eng:	because I don't think he'll stand for much time
-*MSA:	yn fan (a)cw (.) ie ? 618390_619603
+*ANO:	achos uh dw i ddim credu fydd o (y)n sefyll llawer (.) o amser . 616281_618998
+%eng:	because I don't think he'll stay for long
+*MSA:	+< yn fan (a)cw (.) ie ? 618390_619603
 %eng:	over there, yes?
-*ANO:	na na (di)m_ond +/. 619400_620503
+*ANO:	+< na na (di)m_ond +/. 619400_620503
 %eng:	no, no only...
 *MSA:	acho(s) <(y)dy o> (y)dy o (y)n gweithio rŵan ? 620509_622300
 %eng:	because is he working now?
@@ -795,23 +874,23 @@
 %eng:	yes
 *MSA:	yndy mae o (y)n wei(thio) +/. 622936_623917
 %eng:	yes, he's working...
-*ANO:	mae o (y)n ymddeol . 623647_625353
+*ANO:	+< mae o (y)n ymddeol . 623647_625353
 %eng:	he is retired
-*ANO:	ond er@s:cym&spa mae fo cael gyflog . 625578_628306
+*ANO:	ond uh mae fo cael gyflog . 625578_628306
 %eng:	but he does get a wage
-*ANO:	er@s:cym&spa wel ychydig iawn o gyflog mae (y)n cael xx +/. 628675_631136
-%eng:	well, it's very little pay that he gets...
-*MSA:	+< oh ie <mae o (y)n> [//] er@s:cym&spa mae (y)n xx +/. 630407_633292
-%eng:	oh, yes he's a [...]
-*ANO:	+< ond mae [/] mae (y)na waith arall yw o . 632305_633872
-%eng:	but there's other work, it is
+*ANO:	uh wel ychydig iawn o gyflog mae (y)n cael xx +/. 628675_631136
+%eng:	well, he gets very little pay [...]
+*MSA:	+< oh ie <mae o (y)n> [//] uh mae (y)n xx +/. 630407_633292
+%eng:	oh, yes he's [...] he's [...]
+*ANO:	+< ond mae [/] mae (y)na waith arall efo fo . 632305_633872
+%eng:	but he has other work
 *MSA:	mae [/] mae jubilación@s:spa mae o (we)di cael hi ? 633845_636063
-%eng:	the retirement, he's had it?
+%eng:	has he retired?
 *ANO:	yndy yndy yndy yndy yndy ers ryw (.) wyth mlynedd yn_ôl . 636069_639250
-%eng:	yes, yes, since about eight years ago
+%eng:	yes, yes, for about eight years
 *MSA:	<wel ia> [?] debyg iawn . 639216_640255
 %eng:	well yes, probably
-*ANO:	yndy yndy . 640025_640623
+*ANO:	+< yndy yndy . 640025_640623
 %eng:	yes, yes
 *ANO:	ond (dy)dy hwnna ddim yn digon i [/] i fyw xxx +/. 641198_643700
 %eng:	but that's not enough to live [...] ...
@@ -819,10 +898,10 @@
 %eng:	well no, probably not
 *ANO:	[- spa] no ! 644244_645045
 %eng:	no!
-*ANO:	a wedyn mae o (y)n er@s:cym&spa (.) mae o (y)n wneud gwaith arall . 645131_648068
+*ANO:	a wedyn mae o (y)n uh (.) mae o (y)n wneud gwaith arall . 645131_648068
 %eng:	and then he's doing other work
-*ANO:	a efo [//] rhwng y ddau peth wel [?] mae o . 648401_650451
-%eng:	and between the two things, well, he does
+*ANO:	a efo [//] rhwng y ddau peth wel mae o . 648401_650451
+%eng:	and he's between the two
 *MSA:	wel fydd o xx +/. 650722_651604
 %eng:	well, he'll be...
 *ANO:	+< a mynd ymlaen bob ychydig . 651175_652434
@@ -832,7 +911,7 @@
 *ANO:	gawn ni weld be wneith o yndy ? 654986_656275
 %eng:	we'll see what he does, won't we?
 *ANO:	dan ni ddim xx +/. 656350_657500
-%eng:	we don't [...] ...
+%eng:	we don't [...]
 *MSA:	wel ie mae (y)r &n dwy ferch yn byw yn fan hyn ? 656906_659721
 %eng:	well yes, both girls are living here?
 *ANO:	+< yn Trelew@s:cym&spa . 659106_659739
@@ -841,20 +920,20 @@
 %eng:	in Trelew?
 *ANO:	yn Trelew@s:cym&spa yndyn . 660540_661330
 %eng:	in Trelew, yes
-*MSA:	wel (dy)na fo <fel (y)na (y)dy> [?] . 660935_662078
+*MSA:	+< wel (dy)na fo <fel (y)na (y)dy> [?] . 660935_662078
 %eng:	well, there you go, that's how it is
 *ANO:	achos oedd y [//] yr [//] um (..) &me Paloma@s:cym&spa (y)n +//. 662102_665964
-%eng:	because Paloma was in...
+%eng:	because Paloma was...
 *ANO:	yn Comodoro@s:cym&spa oedd hi (y)n byw . 665970_667195
 %eng:	she lived in Comodoro
 *MSA:	ia . 667261_667702
 %eng:	yes
-*ANO:	ond mae hi ers [?] flwyddyn yn_ôl yn Trelew@s:cym&spa . 667684_669710
-%eng:	but she's been back in Trelew for a year
+*ANO:	ond mae hi ers ryw  flwyddyn yn_ôl yn Trelew@s:cym&spa . 667684_669710
+%eng:	but she's been back in Trelew for about a year
 *ANO:	a fan (y)na mae (we)di gorffen astudio . 669629_671016
 %eng:	and she's finished studying there
-*MSA:	+< ah@s:cym&spa (dy)na ti <iawn yndy> [?] ? 670488_671887
-%eng:	ah, there you are, ok isn't it?
+*MSA:	+< ah@s:cym&spa (dy)na ti iawn yndy ? 670488_671887
+%eng:	ah, there you are, that's ok isn't it?
 *ANO:	yndy . 671812_672254
 %eng:	yes
 *MSA:	(dy)na ti . 672250_672831
@@ -868,7 +947,8 @@
 *MSA:	+< iawn . 676966_677303
 %eng:	right
 *MSA:	xx . 678588_679708
-*ANO:	yndy . 679459_679714
+%eng:	[...]
+*ANO:	+< yndy . 679459_679714
 %eng:	yes
 *MSA:	ardderchog . 680653_681425
 %eng:	excellent
@@ -876,9 +956,9 @@
 %eng:	yes indeed
 *ANO:	felly mae . 684869_685490
 %eng:	that's how it is
-*ANO:	o(eddw)n i (y)n um (..) meddwl er@s:cym&spa (..) am er@s:cym&spa be (ba)sen ni (y)n [/] yn siarad er@s:cym&spa (.) heddiw . 685698_694418
+*ANO:	o(eddw)n i (y)n um (..) meddwl uh (..) am uh be (ba)sen ni (y)n [/] yn siarad uh (.) heddiw . 685698_694418
 %eng:	I was thinking about what we would talk about today
-*ANO:	a o(eddw)n i (y)n cofio pan o(eddw)n i (y)n mynd i (y)r ysgol (.) y plant bach <yn y> [/] (.) <yn y> [/] (.) yn yr er@s:cym&spa ffarm (.) mynd ar gefn ceffyl (..) i (y)r ysgol . 695682_705254
+*ANO:	a o(eddw)n i (y)n cofio pan o(eddw)n i (y)n mynd i (y)r ysgol (.) yn plant bach <yn y> [/] (.) <yn y> [/] (.) yn yr uh ffarm (.) mynd ar gefn ceffyl (..) i (y)r ysgol . 695682_705254
 %eng:	and I was remembering when I used to go to school, the little children on the farm going on horseback to school
 *ANO:	fi a Florence@s:cym&spa . 705757_706836
 %eng:	me and Florence
@@ -886,17 +966,17 @@
 %eng:	and Florence
 *ANO:	a Florence@s:cym&spa ie . 708132_708939
 %eng:	and Florence, yes
-*ANO:	<oedd (y)na> [?] (.) dau geffyl efo ni . 709034_711217
+*ANO:	a [/] a (.) dau geffyl efo ni . 709034_711217
 %eng:	we had two horses
-*ANO:	ac er@s:cym&spa cychwyn yn bore (y)n gynnar . 712264_715062
+*ANO:	ac uh cychwyn yn bore (y)n gynnar . 712264_715062
 %eng:	and starting off early in the morning
-*ANO:	a er@s:cym&spa er@s:cym&spa mynd â (y)r [/] yr [/] er@s:cym&spa yr [//] (.) y dillad ysgol yn [//] mewn bag . 716801_722036
+*ANO:	a (y)r uh mynd â (y)r [/] yr [/] uh yr [//] (.) y dillad ysgol yn [//] mewn bag . 716801_722036
 %eng:	and taking the school clothes in a bag
 *MSA:	ie [=! laughs] ! 722066_722867
 %eng:	yes!
-*ANO:	&=laugh a &v wisgo (y)r [/] yr xx +//. 725841_726746
+*ANO:	+< &=laugh a &v wisgo (y)r [/] yr xx +//. 722828_726613
 %eng:	and wearing the...
-*ANO:	oedd Mam wedi (.) er@s:cym&spa golchi nhw a smwddio nhw a startsio nhw . 729068_730049
+*ANO:	oedd Mam wedi (.) uh golchi nhw a smwddio nhw a startsio nhw . 726650_730554
 %eng:	Mam had washed them and ironed them and starched them
 *MSA:	+< mae (y)n siŵr [/] siŵr bod wedi . 729702_731507
 %eng:	I'm sure she had
@@ -915,7 +995,7 @@
 *MSA:	o(edde)t ti (y)n dod +/. 749159_750070
 %eng:	you used to come
 *ANO:	+< yn [//] o(eddw)n yn y gaea . 749612_751080
-%eng:	yes, in the winter
+%eng:	yes, we were in winter
 *MSA:	yn y gaea ? 751121_751789
 %eng:	in the winter?
 *ANO:	ie ie . 751767_752272
@@ -926,21 +1006,23 @@
 %eng:	yes, yes
 *MSA:	ie dw i (y)n cofio (hy)nny . 753359_754454
 %eng:	yes, I remember that
-*ANO:	mis Gorffennaf oedd xxx . 754454_756381
-%eng:	it was July [...]
+*ANO:	mis Gorffennaf oedd xx rywbeth fel (yn)a oedd hynny . 754454_756381
+%eng:	it was July [...] something like that
 *MSA:	+< ia . 755336_755586
 %eng:	yes
-*MSA:	(dy)na ti ryfedd xxx +/. 756658_758794
-%eng:	that's strange [...] ...
+*ANO:	ia . 756101_756711
+%eng:	yes
+*MSA:	(dy)na ti ryfedd oedd hi xxx +/. 756658_758794
+%eng:	how strange it was [...]
 *ANO:	+< wel o(eddw)n i mynd i le Nain (he)fyd . 758256_759481
 %eng:	well, I used to go to Grandma's house too
-*MSA:	+< (dy)dy [/] (.) (dy)dy [/] (dy)dy (y)r er@s:cym&spa plant ddim yn wneud <hwnna nawr> na(g) (y)dyn ? 758695_762689
+*MSA:	+< (dy)dy [/] (.) (dy)dy [/] (dy)dy (y)r uh plant ddim yn wneud hwnna rŵan na(g) (y)dyn ? 758695_762689
 %eng:	children don't do that now, do they?
-*ANO:	na na na . 762063_763137
+*ANO:	+< na na na . 761741_763116
 %eng:	no, no.
 *MSA:	dim fel (yn)a . 763172_763748
 %eng:	not like that
-*ANO:	na wel amser hynny oedd <mynd i> [/] mynd i le Anti Annie@s:cym&spa <tŷ Alwyn@s:cym&spa> [?] a mynd i [//] am ryw deg ddiwrnod i le Nain +/. 763179_768767
+*ANO:	+< na wel amser hynny oedd <mynd i> [/] mynd i le Anti Annie@s:cym&spa tŷ Alwyn@s:cym&spa a mynd i [//] am ryw deg ddiwrnod i le Nain +/. 763179_768767
 %eng:	no, well back then going to Auntie Annie's place, Alwyn's house, and going for about ten days to Grandma's place...
 *MSA:	+< ac efo (y)r xx . 768437_769900
 %eng:	and with the [...]
@@ -951,12 +1033,14 @@
 %com:	soft mutation on Spanish "pajaritos" (note SM not expected on a plural noun like this). For the Spanish speaker, there is no mutation of "pajaritos" . The phonetic differences between in [p] between Spanish and English must be causing the confusion.
 *ANO:	ie (.) &=laugh ! 773506_774720
 %eng:	yes!
-*ANO:	gymaint o hynny <adeg hyn> [?] . 774798_776203
-%eng:	so many of those back then
+*ANO:	gymaint o hynny adeg hynny . 774798_776203
+%eng:	so much of that back then
 *MSA:	+< ie . 775759_776264
 %eng:	yes
 *MSA:	meddwl (.) na um gymaint mae (y)r (.) byd wedi altro ar_ôl hynny yndy ? 776802_782381
 %eng:	thinking, no, how much the world has changed after that, hasn't it?
+*ANO:	+< xx . 776789_777108
+%eng:	[...]
 *ANO:	+< yndy . 781610_782138
 %eng:	yes
 *ANO:	yndy yndy . 782372_783045
@@ -977,10 +1061,10 @@
 %eng:	and I've seen in that time what the difference is
 *MSA:	+< wyt ti (y)n gweld y gwahaniaeth . 795336_796439
 %eng:	you see the difference
-*MSA:	gwahaniaeth y plant yndy . 797223_798433
+*MSA:	+< y gwahaniaeth y plant yndy . 797072_798437
 %eng:	the difference of the children, isn't it
-*ANO:	a <mae raid i fi feddwl> [/] mae raid i fi feddwl bod [/] er@s:cym&spa (.) bod bob blwyddyn sy (y)n mynd heibio wel mae (y)na blwyddyn arall (.) rhwng fi a nhw . 798163_806454
-%eng:	and I have to think that each year that goes by, well, there's another year between me and them
+*ANO:	a <mae raid i fi feddwl> [/] mae raid i fi feddwl bod [/] uh (.) bod bob blwyddyn sy (y)n mynd heibio wel mae (y)na blwyddyn arall (.) rhwng fi a nhw . 798163_806454
+%eng:	and I have to think each year that goes by, well, there's another year between me and them
 *MSA:	ie . 806700_806979
 %eng:	yes
 *ANO:	achos maen nhw i_gyd yr un oed bob blwyddyn . 806783_808681
@@ -988,44 +1072,46 @@
 *MSA:	yndyn . 808626_809276
 %eng:	yes
 *ANO:	bob blwyddyn dw i (y)n +/. 809409_810406
-%eng:	every year I...
+%eng:	every year I'm...
 *MSA:	ie . 810244_810714
 %eng:	yes
-*ANO:	&m &m maen nhw &r &r ryw undeg wyth undeg naw ugain . 810589_814391
+*ANO:	+< &m &m maen nhw &r &r ryw undeg wyth undeg naw ugain . 810589_814391
 %eng:	they're about 18, 19, 20
-*ANO:	ond dw i un hunaf bob tro . 814558_816485
+*ANO:	ond dw i un henach bob tro . 814558_816485
 %eng:	but I'm one [year] older each time
 *MSA:	ie . 816468_816880
 %eng:	yes
 *ANO:	a wedyn mae raid i fi feddwl bod (y)na rei pethau galla i ddim deall yn iawn be maen nhw (.) wneud . 816975_821264
 %eng:	and then I have to think that there are some things [where] I can't understand properly what they do
-*ANO:	pam bod nhw wneud beth hynna [?] . 821317_822466
+*MSA:	+< na . 820479_821350
+%eng:	no
+*ANO:	pam bod nhw wneud beth hynna . 821317_822466
 %eng:	why they do this thing
-*ANO:	pam bod wneud beth acw [?] . 822472_823703
+*ANO:	pam bod wneud beth acw . 822472_823703
 %eng:	why [they] do that thing
-*ANO:	pan o(eddw)n i (y)n mynd i (y)r ysgol dw i (y)n cofio (.) er@s:cym&spa er@s:cym&spa oedd yr [/] yr athro (y)n dod fewn (.) o(eddw)n i (y)n codi xx . 824035_830116
-%eng:	when I went to school I remember the teacher would come in, I'd get up [...] .
-*MSA:	wel debyg iawn pawb yn xx iawn [?] . 830112_832016
-%eng:	well, probably, everyone very [...]
+*ANO:	pan o(eddw)n i (y)n mynd i (y)r ysgol dw i (y)n cofio (.) uh uh oedd yr [/] yr athro (y)n dod fewn (.) o(edde)n ni (y)n codi xx . 824035_830116
+%eng:	when I went to school I remember, er, the teacher would come in, we'd get up [...]
+*MSA:	wel debyg iawn pawb yn codi xx iawn . 830112_832016
+%eng:	well, probably, everyone get up [...]
 *MSA:	a <buenos@s:spa días@s:spa señor@s:spa> ["] . 832014_833088
 %eng:	and "good morning sir"
 *ANO:	ie ie oedden . 833101_833873
 %eng:	yes, yes, they were
-*MSA:	dim fel (yn)a heddiw . 833664_834360
+*MSA:	+< dim fel (yn)a heddiw . 833664_834360
 %eng:	not like that today
-*ANO:	na na (.) no@s:spa (dy)dy neb yn codi o_gwbl wan [?] . 834216_836678
+*ANO:	na na (.) no@s:spa (dy)dy neb yn codi o_gwbl wan . 834216_836678
 %eng:	no, no nobody gets up at all now
 *ANO:	pan oedden ni mynd i (y)r ysgol (.) oedden ni +/. 836747_838848
 %eng:	when we went to school, we used to...
 *MSA:	a galli di ddim [/] (.) ddim wneud iddyn nhw wneud o ? 838608_841602
-%eng:	and can't you make them do it?
+%eng:	and you can't you make them do it?
 *ANO:	na ! 841690_842114
 %eng:	no!
-*ANO:	na na <(dy)dy o ddim> [/] (dy)dy o ddim yn &di be sy (y)n mynd rŵan xxx na . 842197_846813
+*ANO:	na na na <(dy)dy o ddim> [/] (dy)dy o ddim yn &di be sy (y)n mynd rŵan xxx na . 842197_846813
 %eng:	no, no it's not the done thing now, [...], no
 *ANO:	gallwch chi ddim +//. 847536_848720
 %eng:	you can't...
-*ANO:	(doe)s dim <ystyr yn> [?] y peth rŵan . 848766_850229
+*ANO:	(doe)s dim ystyr yn y peth rŵan . 848766_850229
 %eng:	there's no sense to it now
 *ANO:	maen nhw meddwl [///] &m &m <mae (y)r> [/] <mae (y)r> [/] mae [///] meddwl wahanol maen nhw rŵan . 850642_853928
 %eng:	they think... they think differently now
@@ -1033,18 +1119,17 @@
 %eng:	but no, I remember I was studying
 *ANO:	a wedyn oedd yr athro (y)n dod fewn . 857462_859719
 %eng:	and then the teacher came in
-*ANO:	oedd raid iddyn nhw fynd (.) tu blaen <i (y)r> [/] i (y)r [/] i (y)r er@s:cym&spa dosbarth fan (y)na (.) a siarad am y [/] y um er@s:cym&spa tema@s:spa (y)r [/] yr [/] yr [//] y dydd yndy ? 859733_869665
-%eng:	the had to go to the front of the class there and speak on the theme of the day, right?
-*MSA:	xx . 869522_870050
+*ANO:	oedd raid iddyn nhw fynd (.) tu blaen <i (y)r> [/] i (y)r [/] <i (y)r uh> [/] i (y)r uh dosbarth fan (y)na (.) a siarad am y [/] y um uh tema@s:spa (y)r [/] yr [/] yr [//] y dydd yndy ? 859733_869665
+%eng:	the had to go to the front of the class there and speak about the theme of the day, right?
 *ANO:	+< ++ y dydd . 869649_870172
-%eng:	the day.
+%eng:	the day
 *ANO:	a siarad . 870281_870908
 %eng:	and speak
-*ANO:	oedd neb yn helpu nhw [?] . 870762_871952
-%eng:	no one was helping them
-*ANO:	a siarad [/] siarad (.) ddim [/] ddim holi rywun . 872232_875169
-%eng:	and speak, not question someone
-*MSA:	+< debyg iawn . 873155_873707
+*ANO:	oedd neb yn helpu rywun . 870762_871952
+%eng:	no one was helping anyone
+*ANO:	a siarad a siarad (.) ddim [/] ddim holi rywun . 872232_875169
+%eng:	and speak and speak, not question someone
+*MSA:	+< &d &d debyg iawn . 872412_873916
 %eng:	probably
 *ANO:	na na oedd raid iddyn nhw siarad . 875195_876507
 %eng:	no, they had to speak
@@ -1052,85 +1137,93 @@
 %eng:	you had to speak, probably
 *ANO:	felly oedden ni wneud . 877225_878061
 %eng:	that's what we'd do
-*MSA:	+< ie ie ie . 877678_878456
+*MSA:	+< ie ie ie ie . 877678_878456
 %eng:	yes, yes
-*ANO:	a rŵan dydyn nhw ddim yn gallu darllen . 878450_880256
+*ANO:	a rŵan (dy)dyn nhw ddim yn gallu darllen . 878450_880256
 %eng:	and now they can't read
 *ANO:	(dy)dyn nhw ddim yn gallu darllen (.) rhan fwya ohonyn nhw . 880502_883344
 %eng:	they can't read, most of them
-*ANO:	ychydig iawn sy (y)n gallu darllen . 883417_884903
+*ANO:	ychydig iawn sydd yn gallu darllen . 883417_884903
 %eng:	very few of them can read
 *MSA:	+< dw i (y)n gwybod . 884071_884715
 %eng:	I know
 *MSA:	+< dw i (y)n gwybod yn iawn . 884704_885487
-%eng:	I know it well
-*ANO:	+< a siarad (.) rhai [?] +/. 885066_886314
+%eng:	I know full well
+*ANO:	+< a siarad (.) rhai +/. 885066_886314
 %eng:	and speaking, some...
-*MSA:	dw i (y)n gwybod yn_ôl yn yr +... 885842_887734
+*MSA:	+< dw i (y)n gwybod yn_ôl yn yr +... 885842_887734
 %eng:	I know, back in the...
 *ANO:	ie . 887734_888111
 %eng:	yes
-*MSA:	yndy er@s:cym&spa mae [/] <mae hi> [//] mae raid iddi [?] achos bod hi (y)n xx yndy ? 888059_892002
-%eng:	yes, she has to because she's [...], isn't she?
+*MSA:	neu uh mae [/] <mae hi> [//] mae raid ddim [?] achos bod hi (y)n xx yndy ? 888059_892002
+%eng:	or, er, she... it can't be because she's [...], isn't she?
+*ANO:	mm +... 892059_892512
+%eng:	mm
 *MSA:	ond mae yn darllen yn ardderchog . 892068_894407
-%eng:	but she does read excellently
+%eng:	but she reads excellently
 *ANO:	yndy . 894385_894908
 %eng:	yes
-*MSA:	a mae hi [?] (y)n gallu (.) helpio lot o blant eraill . 894894_897866
+*MSA:	a mae hi (y)n gallu (.) helpio lot o blant eraill . 894894_897866
 %eng:	and she's able to help a lot of other children
 *MSA:	(dy)na ti . 897803_898267
 %eng:	there you are
+*ANO:	+< mm +... 897887_898195
+%eng:	mm
 *MSA:	(dy)na ti . 898285_898755
 %eng:	there you are
-*ANO:	yndy yndy . 899034_899498
+*ANO:	yndy yndy xx . 899034_899498
 %eng:	yes
-*MSA:	gallu helpu plant bach eraill . 899481_901123
+*MSA:	+< gallu helpu plant bach eraill . 899481_901123
 %eng:	able to help the other little children
 *ANO:	ie ie . 901160_901682
 %eng:	yes, yes
-*ANO:	na mae (y)r [/] er@s:cym&spa yr [//] er@s:cym&spa um (.) y teledu rŵan sy (y)n beth drwg ofnadwy . 901641_905989
+*ANO:	na mae (y)r [/] uh yr [//] uh um (.) y teledu rŵan sy (y)n beth drwg ofnadwy . 901641_905989
 %eng:	no, it's television now that's very bad
 *MSA:	oh ! 906224_906880
-*ANO:	<(dy)dy (y)r> [/] (dy)dy (y)r teledu (.) <yn ei hun> [?] er@s:cym&spa yn [//] er@s:cym&spa ddim yn beth ddrwg er@s:cym&spa <ei hunan> [?] . 906284_910567
+%eng:	oh!
+*ANO:	+< <(dy)dy (y)r> [/] (dy)dy (y)r teledu (.) <yn ei hun> [?] yn uh [//] yn ddim yn beth ddrwg &o &o xxx . 906284_910567
 %eng:	the television itself isn't bad
-*MSA:	+< yndy <ond yw> edrych yn iawn ? 910197_911793
-%com: yndy is pronunced ondy
-%eng:	yes, but is watching all right?
-*ANO:	+< y stwff sy (y)n dod o (y)r teledu yr [/] (.) yr [/] er@s:cym&spa yr [/] er@s:cym&spa yr er@s:cym&spa +//. 911578_915241
+*MSA:	+< <ond yw> [/] ond yw edrych yn iawn ? 910197_911793
+%eng:	but is watching all right?
+*ANO:	+< ond y [/] y stwff sy (y)n dod o (y)r teledu yr [/] (.) yr [/] uh yr [/] uh yr uh +//. 910630_915207
 %eng:	the stuff that comes from the television, the...
 *ANO:	be dach chi (y)n galw nhw ? 915247_916029
 %eng:	what do you call them?
-*ANO:	&r &r er@s:cym&spa programs@s:cym&spa ["] dan ni (y)n deud . 916053_918875
-%eng:	"pragrams", we say
+*ANO:	&r &r uh programs@s:cym&spa ["] dan ni (y)n deud . 916053_918875
+%eng:	we say "programs"
+*MSA:	+< ia . 918021_918438
+%eng:	yes
 *ANO:	dyna [/] (dy)na be sy (y)n drwg . 918420_919668
 %eng:	that's what's bad
 *MSA:	+< ia ie . 918559_919714
 %eng:	yes
-*ANO:	a wedyn <maen nhw> [/] maen nhw (y)n eistedd flaen yr er@s:cym&spa teledu fan (y)na . 919759_922899
+*ANO:	a wedyn <maen nhw> [/] maen nhw (y)n eistedd o flaen yr uh teledu fan (y)na . 919759_922899
 %eng:	and then they sit there in front of the TV
-*ANO:	maen nhw [///] gallen nhw fod am ddwy awr (.) a ddim deud gair . 922897_926726
+*ANO:	a maen nhw [///] gallen nhw fod am ddwy awr (.) a ddim deud gair . 922710_926738
 %eng:	they... they can be [there] for two hours, and not say a word
 *MSA:	+< &=noise . 924644_925051
 *MSA:	na . 926779_927301
 %eng:	no
 *ANO:	mae [//] maen nhw fel (ta)sen nhw allan o (y)r byd . 927272_928775
-%eng:	they're as though they were out of this world
+%eng:	they're as though they're out of this world
 *MSA:	yndyn yndy . 928688_929855
-%eng:	they are, yes
-*ANO:	a mae (y)r amser (y)na (we)di mynd heibio xxx ddim_byd . 929939_932470
-%eng:	and that time has gone past [...] nothing
-*MSA:	+< ydy ydy [?] a (dy)dy o ddim yn iawn . 931169_933550
+%eng:	yes they are
+*ANO:	a mae (y)r amser (y)na (we)di mynd heibio heb ei ddefnyddio i ddim_byd . 929939_932470
+%eng:	and that time has gone past without being used for anything
+*MSA:	+< ydy <(dy)dy o> [/] a (dy)dy o ddim yn iawn . 931169_933550
 %eng:	yes, and it's not right
 *ANO:	na(g) (y)dy . 933623_934093
 %eng:	no
 *MSA:	(dy)dy o ddim yn iawn . 934212_935008
 %eng:	it's not right
+*ANO:	+< na(g) (y)dy xx . 934092_934975
+%eng:	no [...]
 *ANO:	na na na . 934979_935693
 %eng:	no, no
-*ANO:	&r a [/] a (y)r u(n) fath ar y [//] yr er@s:cym&spa teliffon@s:cym&spa . 935966_938582
+*ANO:	&r a [/] a (y)r u(n) fath ar y [//] yr uh teliffon@s:cym&spa . 935966_938582
 %eng:	and the same with the telephone
-*MSA:	a wedyn wyt ti wneud [//] (.) por@s:spa ejemplo@s:spa wneud (.) <i (y)r> [//] iddyn nhw wneud ffor(dd) arall . 937878_944295
-%eng:	and then you, for example, make them do it another way
+*MSA:	+< a wedyn wyt ti wneud [//] (.) por@s:spa ejemplo@s:spa wneud (.) <i (y)r> [//] iddyn nhw wneud ffor(dd) arall . 937878_944295
+%eng:	and then, for example, you make them do it another way
 *MSA:	ond (..) maen [/] maen nhw (y)n cwrdd â plant eraill . 945100_948716
 %eng:	but they meet other children
 *ANO:	mm +... 948841_949282
@@ -1146,27 +1239,27 @@
 %eng:	that's how it is today
 *ANO:	&=cough ie ie <mae (y)n> [//] mae hanodd iawn . 954902_956606
 %eng:	yes, it's very hard
-*ANO:	achos er@s:cym&spa <maen nhw (y)n> [/] er@s:cym&spa maen nhw (y)n tueddu [?] deud +"/. 956588_959252
+*ANO:	achos uh <maen nhw (y)n> [/] uh maen nhw (y)n tueddu [?] deud +"/. 956588_959252
 %eng:	because they tend to say:
 *ANO:	+" wel <be mae wneud yn y> [//] be mae (y)r ysgol yn wneud efo (y)r plant yma ? 959315_961910
 %eng:	"well, what is the school doing with these children?"
 *MSA:	ia . 961877_962324
 %eng:	yes
-*ANO:	faint o amser maen nhw <yn y dydd> [//] er@s:cym&spa pob dydd yn yr ysgol ? 962322_965189
+*ANO:	faint o amser maen nhw <yn y dydd> [//] uh pob dydd yn yr ysgol ? 962322_965189
 %eng:	how much time are they in school each day?
 *ANO:	ryw bedair awr . 965168_966294
 %eng:	about four hours
 *MSA:	(dy)na gyd . 965946_966666
 %eng:	that's all
-*ANO:	a maen nhw wedyn (.) adre o@s:spa [?] (y)n y strydoedd neu [?] ryw lle (y)na wneud unrhyw beth . 966765_970863
+*ANO:	a maen nhw wedyn (.) adre o@s:spa (y)n y strydoedd neu ryw lle (y)na wneud unrhyw beth . 966765_970863
 %eng:	and then they're at home or in the streets or somewhere doing anything
 *MSA:	unrhyw +/. 970892_971374
 %eng:	any...
-*ANO:	a wedyn er@s:cym&spa &m &m er@s:cym&spa (dy)dy [/] <(dy)dy (y)r> [/] er@s:cym&spa (dy)dy (y)r er@s:cym&spa er@s:cym&spa yr athro ddim gallu ysgwyddo bopeth fel (yn)a i (y)r +... 971323_977601
-%eng:	and then the teacher can't shoulder everything like that to...
+*ANO:	a wedyn uh &m &m uh (dy)dy [/] <(dy)dy (y)r> [/] uh (dy)dy (y)r uh uh yr athro ddim gallu ysgwyddo bopeth fel (yn)a i (y)r +... 971323_977601
+%eng:	and then the teacher can't shoulder everything like that to the...
 *MSA:	+< na(g) (y)dy na(g) (y)dy . 977045_978125
 %eng:	no, no
-*ANO:	[- spa] no . 977743_978248
+*ANO:	+< [- spa] no . 977743_978248
 %eng:	no
 *MSA:	na . 978330_978858
 %eng:	no
@@ -1174,54 +1267,64 @@
 %eng:	no, no
 *ANO:	gallen nhw ddim o_gwbl . 980180_981329
 %eng:	they can't, at all
-*ANO:	<mae o (y)n beth> [//] er@s:cym&spa mae <hwnna (y)n beth yn ym> [?] boeni . 981460_985018
+*ANO:	<mae o (y)n beth> [//] uh uh mae [/] mae <hwnna (y)n beth yn &m> [?] boeni . 981460_985018
 %eng:	it's something that worries me
 *ANO:	achos dw i ddim gweld bod y peth yn gwella o_gwbl . 985013_987114
 %eng:	because I don't see it improving at all
-*MSA:	+< <dw i> [/] <dw i> [/] er@s:cym&spa dw i (y)n boeni . 986305_988262
+*MSA:	+< ydy . 985421_986251
+%eng:	yes
+*MSA:	+< <dw i> [/] <dw i> [/] uh dw i (y)n boeni . 986305_988262
 %eng:	I worry
 *ANO:	na na na . 988268_988982
 %eng:	no, no
-*MSA:	mae o (y)n boeni fi . 988355_989406
+*MSA:	+< mae o (y)n boeni fi . 988355_989406
 %eng:	it worries me
 *ANO:	a wedyn dw i (y)n deud +"/. 989532_990238
 %eng:	and then I say
 *ANO:	+" wel dw i mynd yn hen ! 990244_991509
 %eng:	well, I'm getting old
-*MSA:	+< <dw i> [//] xx mae o yn poeni fi . 990245_992120
-%eng:	I... [...] it does worry me
-*MSA:	be (y)dy dyfodol y plant bach ? 992145_993515
+*MSA:	+< <dw i yn> [//] mae o yn poeni fi . 990245_992120
+%eng:	I do... it does worry me
+*MSA:	+, be (y)dy dyfodol y plant bach . 992145_993515
 %eng:	what is the little children's future?
 *ANO:	ie ie ie ie . 993340_994652
 %eng:	yes, yes
-*ANO:	a mae (y)n beth er@s:cym&spa er@s:cym&spa seriws . 994661_997395
+*ANO:	a mae (y)n beth uh uh seriws . 994661_997395
 %eng:	and it's a serious matter
-*MSA:	ac o(eddw)n i (y)n siarad efo [/] (.) efo dynes o (y)r hen wlad diwrnod blaen . 996593_1001045
+*MSA:	+< ac o(eddw)n i (y)n siarad efo [/] (.) efo dynes o (y)r hen wlad diwrnod blaen . 996593_1001045
 %eng:	and I was talking to a lady from the Old Country the other day
 *ANO:	aha@s:cym&spa ? 1001083_1001524
+%eng:	aha?
 *MSA:	maen nhw (y)r un peth yn union â ni . 1001503_1003262
 %eng:	they [have] exactly the same thing as we do
 *ANO:	yndy yndy yndy . 1003288_1004472
 %eng:	yes, yes
+*MSA:	+< ie . 1003986_1004543
+%eng:	yes
 *MSA:	maen nhw (y)r un peth yn union â ni . 1004545_1006229
-%eng:	they [have] exactly the same thing as us
-*ANO:	ie (dy)na fo . 1006596_1007455
+%eng:	they are exactly the same as us
+*ANO:	ie ie (dy)na fo . 1006596_1007455
 %eng:	yes, that's it
-*MSA:	oedd yn deud fel oedden nhw pan oedden nhw (y)n blant (.) <dim mor> [//] ddim tebyg i beth (y)dy o heddiw . 1007023_1013290
+*MSA:	+< oedd yn deud fel oedden nhw pan oedden nhw (y)n blant (.) <dim mor> [//] ddim tebyg i beth (y)dy o heddiw . 1007023_1013290
 %eng:	she was saying how things were when they were children, nothing like how they are today
 *ANO:	na na na na . 1013264_1014472
 %eng:	no, no
-*MSA:	wedyn oedd [//] <oedd hi> [?] (y)n siarad yr un beth oedden ni (y)n siarad efo hi diwrnod o_blaen . 1014512_1018169
+*MSA:	wedyn oedd [//] oedd hi (y)n siarad yr un beth oedden ni (y)n siarad efo hi diwrnod o_blaen . 1014512_1018169
 %eng:	then she was talking about the same thing as we were talking to her about the other day
-*ANO:	aha@s:cym&spa . 1018218_1018607
+*ANO:	aha@s:cym&spa . 1018212_1018606
+%eng:	aha
+*MSA:	+< fel hyn . 1018212_1018606
+%eng:	like this
 *MSA:	trwy (y)r byd i_gyd mae o xx +/. 1018706_1020414
-%eng:	it's worldwide, [...] ...
-*ANO:	yndy yndy yndy yndy yndy yndy mae o (y)n +//. 1020093_1022376
+%eng:	it's worldwide, [...]
+*ANO:	+< yndy yndy yndy yndy yndy yndy mae o (y)n +//. 1020093_1022376
 %eng:	yes, yes, yes it's...
 *ANO:	fel (yn)a mae (y)r byd yn mynd . 1022507_1023564
 %eng:	that's how the world's going
-*MSA:	ond er@s:cym&spa <mae o> [/] mae o (y)n peth sy (y)n er@s:cym&spa boeni rhywun yndy ? 1022885_1025979
+*MSA:	ond uh <mae o> [/] mae o (y)n peth sy (y)n uh boeni rhywun yndy ? 1022885_1025979
 %eng:	but it's a worrying thing, isn't it?
+*ANO:	+< mae popeth yn newydd . 1023782_1024949
+%eng:	everything's new
 *ANO:	yndy . 1026103_1026608
 %eng:	yes
 *ANO:	yndy yndy . 1027043_1027728
@@ -1231,32 +1334,34 @@
 *ANO:	be (y)dy dyfodol ? 1029564_1030521
 %eng:	what is the future?
 *ANO:	ie ie ie ie ie be fydd yn dod yndy ? 1030510_1032704
-%eng:	yes, yes, what will come, isn't it?
+%eng:	yes, yes, what will come, won't it?
 *ANO:	ie ond (dy)na fo . 1033017_1033870
-%eng:	yes, but there it is
+%eng:	yes, but there we go
 *ANO:	galla i ddim wneud dim_byd mwy na dw i wneud bob dydd yn y [/] y dosbarth . 1033856_1037496
 %eng:	I can't do any more than I do each day in the classroom
-*MSA:	biti (ba)sai [?] (y)r byd yn gallu mynd +//. 1037615_1039763
+*MSA:	+< dw i (y)n deud +"/. 1036405_1037212
+%eng:	I say:
+*MSA:	+" biti (ba)sai (y)r byd yn gallu mynd +//. 1037615_1039763
 %eng:	it's a shame the world can go...
-*MSA:	tri_deg o flynyddoedd . 1039823_1040897
+*MSA:	+, +" tri_deg o flynyddoedd . 1039823_1040897
 %eng:	thirty years
-*MSA:	(ba)sai [?] (di)m_ond tri_deg o flynyddoedd yn_ôl . 1040886_1042639
-%eng:	it would only be thirty years back
+*MSA:	(ba)sai (di)m_ond tri_deg o flynyddoedd yn_ôl . 1040886_1042639
+%eng:	if it would only be thirty years back
 *ANO:	ie wel dw i (y)n cofio pan o(eddw)n i (y)n athro fan hyn . 1042601_1044720
 %eng:	yes, well I remember when I was a teacher here
 *MSA:	ia . 1044793_1045228
 %eng:	yes
 *ANO:	athro yn [/] yn [/] yn [/] yn yr ysgol . 1045275_1047411
 %eng:	a school teacher
-*ANO:	er@s:cym&spa wel oedd athro yn ddyn er@s:cym&spa er@s:cym&spa pwysig . 1047545_1051713
-%eng:	well, a teacher was an important man
-*MSA:	wel yndy . 1051722_1052384
+*ANO:	uh wel oedd athro yn ddyn uh uh pwysig . 1047545_1051713
+%eng:	well, the teacher was an important man
+*MSA:	wel ie . 1051722_1052384
 %eng:	well, yes
-*ANO:	oedd pobl yn xx +/. 1054724_1055641
-%eng:	people were [...] ...
+*ANO:	oedd pobl yn xx +/. 1052263_1053307
+%eng:	people [...]
 *MSA:	+< wel (.) i [/] i ni oedd xx +/. 1052686_1055437
 %eng:	well, to us it was [...] ...
-*ANO:	+< oedd er@s:cym&spa er@s:cym&spa cyngor yr athro xxx wneud rŵan . 1054668_1058064
+*ANO:	+< oedd uh uh cyngor yr athro xxx wneud rŵan . 1054668_1058064
 %eng:	the teacher's advice [...] do now
 *ANO:	a undeg naw oed o(eddw)n i . 1058126_1059550
 %eng:	and I was 19 years old
@@ -1264,36 +1369,48 @@
 %eng:	yes
 *ANO:	dw i (y)n co(fio) undeg naw oed o(eddw)n i amser hynny . 1060216_1062050
 %eng:	I remember, I was 19 then
+*MSA:	+< ie . 1061530_1061895
+%eng:	yes
 *ANO:	dw i (y)n cofio (y)n iawn . 1062082_1062680
-%eng:	I remember alright
+%eng:	I remember well
 *MSA:	ie . 1062642_1062967
 %eng:	yes
 *ANO:	ond (dy)na fo rŵan xxx athro ! 1063512_1065456
 %eng:	but there you are, now [...] a teacher!
 *MSA:	ah@s:cym&spa . 1065492_1065846
+%eng:	ah
 *ANO:	<peidiwch â> [//] gallwch chi ddim dweud drefn i [/] i blentyn . 1066384_1069693
 %eng:	don't... you can't lay down the law to a child
 *MSA:	+< na i neb . 1068575_1069532
-%eng:	no, to anybody
+%eng:	nor to anybody
 *ANO:	achos mi fydd y dad a (y)r mam yn [/] yn [/] yn ie ie rhuthro ar draws i chi . 1069686_1075596
 %eng:	because the father and mother will rush over to you
+*MSA:	+< na xx . 1069958_1071456
+%eng:	no, [...]
+*MSA:	+< yn union dweud xx . 1071437_1073051
+%eng:	exactly, saying [...]
+*MSA:	+< ie ie . 1073080_1074392
+%eng:	yes yes
 *MSA:	ie . 1075454_1075982
 %eng:	yes
 *ANO:	+" be wyt ti (y)n wneud i (y)r (.) bachgen bach (y)ma ? 1075959_1078343
 %eng:	"what are you doing to this little boy?"
-*ANO:	ie felly [?] mae . 1078441_1079358
+*MSA:	+< ie ie . 1077260_1078247
+%eng:	yes
+*ANO:	ie felly mae . 1078441_1079358
 %eng:	yes, that's how it is
 %com:	may be saying "fella mae" (based on "fel (yn)a mae" but with "ll" fricative in place of "l")
-*MSA:	yn union felly mae . 1079080_1080159
-%eng:	that's exactly how it is
+*MSA:	+< ie yn union felly mae . 1078766_1080055
+%eng:	yes, that's exactly how it is
 *ANO:	ie . 1080287_1080560
 %eng:	yes
 *MSA:	yn union . 1080566_1081222
 %eng:	exactly
-*MSA:	ond er@s:cym&spa mae biti na (fa)sai (y)na rhywbeth yn dod i allu (.) stopio hyn . 1081536_1085884
+*MSA:	ond uh mae biti na (fa)sai (y)na rhywbeth yn dod i allu (.) stopio hyn . 1081536_1085884
 %eng:	but it's a shame that nothing would come along to be able to stop this
 *ANO:	hmm +... 1086016_1086266
-*ANO:	ond wchi [?] o(eddw)n i (y)n gweld <ychydig o wahaniaeth> [//] ryw ychydig o wahaniaeth (.) y blwyddyn diwetha yn [/] yn Awstralia@s:cym&spa . 1087446_1092740
+%eng:	hmm
+*ANO:	ond wchi o(eddw)n i (y)n gweld <ryw ychydig o wahaniaeth> [/] ryw ychydig o wahaniaeth (.) y blwyddyn diwedda yn [/] yn Awstralia@s:cym&spa . 1087446_1092740
 %eng:	but you know I saw a fair bit of difference last year in Australia
 *ANO:	fuon i am fis yn Awstralia@s:cym&spa . 1092727_1094143
 %eng:	I was in Australia for a month
@@ -1301,50 +1418,55 @@
 %eng:	and where we were staying, the wife was a school teacher
 *MSA:	+< ie . 1099381_1099660
 %eng:	yes
-*ANO:	a wedyn oeddwn i (y)n cael ychydig o sgwrs efo hi . 1100442_1102688
+*ANO:	a wedyn oeddwn i (y)n cael ryw ychydig o sgwrs efo hi . 1100442_1102688
 %eng:	and then I was having a little chat with her
 *ANO:	wel (dy)dy o (ddi)m gymaint â fan hyn . 1102797_1104109
 %eng:	well, it's not as much as here
 *ANO:	(dy)dy o (ddi)m &g mor [//] peth +/. 1104329_1105850
-%eng:	it's not so... something...
+%eng:	it's not so.. . something...
 *MSA:	+< na ? 1105345_1105659
 %eng:	no?
 *ANO:	na (dy)dy ddim . 1105852_1106508
 %eng:	no it's not
 *MSA:	ah@s:cym&spa . 1106189_1106485
+%eng:	ah
 *ANO:	ond (dy)na fo . 1106624_1107155
-%eng:	but there you are
+%eng:	but there we go
 *ANO:	maen nhw (he)fyd yn poeni . 1107157_1108109
 %eng:	they also worry
-*ANO:	achos bod nhw (y)n gweld bod y peth yn dod . 1108121_1109601
-%eng:	because they see that it's coming
+*ANO:	achos bod nhw (y)n gweld bod y peth yn dod yndy . 1108136_1109544
+%eng:	because they see that the thing's coming
 *MSA:	ah@s:cym&spa . 1109578_1110229
+%eng:	ah
 *ANO:	bod o (y)n [/] yn newid yndy . 1110200_1111459
 %eng:	that it's changing
 *ANO:	ie ie . 1112310_1113024
 %eng:	yes
-*ANO:	a fan (yn)o yn [/] yng Nghymru dw i (ddi)m gwybod sut mae yng Nghymru . 1116964_1120569
+*ANO:	a fan (yn)o yn [/] yng Nghymru dw i (ddi)m gwybod sut mae yng Nghymru xx . 1114425_1117467
 %eng:	and there in Wales, I don't know how it is in Wales
-*MSA:	mae (y)n iawn [///] er@s:cym&spa eto yn go_lew at blant bach at deg oed . 1116941_1120569
-%eng:	it's okay... still all right for children up to ten years old
-*MSA:	ond o fan (hy)nny mae (y)n (.) &dir xx . 1120565_1123218
-%eng:	but from then on it's [..]
+*MSA:	+< mae (y)n iawn [///] uh eto yn go_lew at blant bach at deg oed . 1116941_1120569
+%eng:	it's okay.. . still all right for children up to ten years old
+*MSA:	ond o fan (hy)nny (y)mlaen (.) <(y)dy (y)r> [/] (y)dy (y)r busnes . 1120565_1123218
+%eng:	but from then on is the issue
+*ANO:	+< ie . 1122043_1122432
+%eng:	yes
 *ANO:	ie ie . 1123342_1123888
 %eng:	yes
-*ANO:	wel dw i (y)n cofio yn [/] um yn naw_deg chwech o(eddw)n i yn [/] yn [/] (..) yn Caerdydd (.) un noson . 1124220_1130042
-%eng:	well, I rememberin '96 I was in Cardiff one night
+*ANO:	wel dw i (y)n cofio yn [/] um yn y naw_deg chwech o(eddw)n i yn [/] yn [/] (..) yn Caerdydd (.) un noson . 1124220_1130042
+%eng:	well, I remember in '96 I was in Cardiff one night
 *MSA:	+< ia . 1129060_1129455
 %eng:	yes
-*MSA:	xx . 1130095_1130565
-*ANO:	ac er@s:cym&spa dw i (ddi)m yn cofio le oedden ni (we)di mynd . 1131475_1133698
+*MSA:	ydw . 1130095_1130565
+%eng:	I do
+*ANO:	ac uh dw i (ddi)m yn cofio le oedden ni (we)di mynd . 1131475_1133698
 %eng:	and er, I can't remember where we'd gone
 *ANO:	ac oedd hi tua (.) un_ar_ddeg y nos dod yn_ôl i (y)r hotel@s:cym&spa . 1133721_1139108
 %eng:	and it was about eleven at night, coming back to the hotel
-*ANO:	a criw o bechgyn a merched ifanc yn [/] yn [/] er@s:cym&spa yn [/] yn [/] (.) ffraeo . 1139852_1146926
-%eng:	and a group of boys and young women [were]... fighting
-*ANO:	xxx boteli yn &h hedfan yn yr awyr ac er@s:cym&spa er@s:cym&spa sgrechian ac yn +... 1146820_1152393
+*ANO:	a criw o bechgyn a merched ifanc yn [/] yn [/] uh yn [/] yn [/] (.) ffraeo . 1139852_1146926
+%eng:	and a group of boys and young women [were].. . fighting
+*ANO:	xxx boteli yn &h hedfan yn yr awyr ac uh uh sgrechian ac yn +... 1146820_1152393
 %eng:	[...] bottles flying through the air, and screaming and...
-*ANO:	&am wel na mi ddoth yr er@s:cym&spa (.) plismon +... 1152966_1156809
+*ANO:	&am wel na mi ddoth yr uh (.) y plismon +... 1152966_1156809
 %eng:	well no, the policeman came...
 *ANO:	ond (dy)na fo . 1156935_1157580
 %eng:	but there you go
@@ -1357,27 +1479,30 @@
 *MSA:	ie . 1162151_1162366
 %eng:	yes
 *ANO:	amser hynny dw i (y)n cofio (y)n iawn . 1162745_1164190
-%eng:	at that time, I remember well
+%eng:	I remember that time well
 *ANO:	o(eddw)n i (y)n synnu . 1164190_1165055
 %eng:	I was amazed
 *MSA:	oh wel +... 1165016_1165417
 %eng:	oh well
-*ANO:	wel er@s:cym&spa o(eddw)n i ddim meddwl bod bethau fel (yn)a (y)n +/. 1165449_1167614
+*ANO:	wel uh o(eddw)n i ddim meddwl bod bethau fel (yn)a (y)n +/. 1165449_1167614
 %eng:	well, I didn't think things like that...
 *MSA:	+< xxx . 1167471_1168040
+%eng:	[...]
 *ANO:	ond (dy)na fo . 1167854_1168232
-%eng:	but there it is
+%eng:	but there we go
 *ANO:	mae Caerdydd yn [/] yn dre fawr . 1168232_1169961
 %eng:	Cardiff is a big town
 *MSA:	oh ydy . 1169916_1171007
 %eng:	oh, it is
-*ANO:	dyna be sy (y)n bod . 1170398_1171020
+*ANO:	+< dyna be sy (y)n bod . 1170398_1171020
 %eng:	that's what's wrong
 *MSA:	yndy yndy yndy yndy . 1171033_1172554
 %eng:	yes it is yes
+*ANO:	+< mm yndy . 1171564_1172621
+%eng:	mm, yes
 *ANO:	prif(ddinas) [/] prifddinas ydy +/. 1172826_1174260
 %eng:	the capital city is...
-*MSA:	prifddinas . 1173920_1174674
+*MSA:	+< prifddinas . 1173920_1174674
 %eng:	capital city
 *ANO:	ie . 1174790_1175185
 %eng:	yes
@@ -1385,39 +1510,39 @@
 %eng:	yes
 *MSA:	yndy . 1176452_1176875
 %eng:	yes
-*MSA:	er@s:cym&spa (dy)na fo . 1176870_1178187
+*MSA:	ond uh (dy)na fo . 1176870_1178187
 %eng:	er, there it is
 *MSA:	fel wyt ti (y)n deud (..) (ba)swn i erioed yn meddwl bod (hwn)na (y)n digwydd xx (.) yn yr hen wlad yndy ? 1178216_1184236
 %eng:	as you say, I'd never think that that happens [...] in the old country, right?
 *ANO:	+< ie dyna fo . 1182971_1183917
 %eng:	yes, that's it
-*ANO:	xx pam [/] bod hwnna (y)n digwydd ? 1184227_1185850
-%eng:	[..] why that happens?
-*ANO:	achos (.) <mae (y)na> [/] er@s:cym&spa er@s:cym&spa mae (y)na (.) rheswm . 1185853_1189382
+*ANO:	xx pam [/] pam bod hwnna (y)n digwydd ? 1184227_1185850
+%eng:	[...] why does that happen?
+*ANO:	achos (.) <mae (y)na> [/] uh uh mae (y)na (.) rheswm . 1185853_1189382
 %eng:	because there is a reason
-*ANO:	be [//] sut [//] be dan ni (we)di clywed ddeud am Gymru ers pan [?] o(edde)n ni (y)n blant ? 1190362_1195001
+*ANO:	be [//] sut [//] be dan ni (we)di clywed ddeud am Gymru ers pan o(edde)n ni (y)n blant ? 1190362_1195001
 %eng:	what have we heard said about Wales since we were children?
 *MSA:	ie . 1195223_1195421
 %eng:	yes
-*ANO:	dad a mam yn siarad am Gymru . 1195330_1196967
+*ANO:	Dad@s:cym&spa a Mam@s:cym&spa yn siarad am Gymru . 1195330_1196967
 %eng:	Dad and Mam talking about Wales
-*ANO:	a nhw wedi clywed er@s:cym&spa taid a nain yn siarad am Gymru fel oedd o ers can mlynedd yn_ôl . 1197419_1202029
+*ANO:	a nhw wedi clywed uh Taid@s:cym&spa a Nain@s:cym&spa yn siarad am Gymru fel oedd o ers can mlynedd yn_ôl . 1197419_1202029
 %eng:	and they'd heard Grandpa and Grandma talking about Wales as it was a hundred years ago
 *MSA:	+< ie . 1199879_1200227
 %eng:	yes
 *MSA:	+< fel oedd ers can mlynedd yn_ôl . 1200907_1203165
 %eng:	as it was a hundred years ago
 *ANO:	ie a felly dan ni (y)n meddwl +/. 1203037_1204562
-%eng:	yes, and so we think...
+%eng:	yes, and that's how we think...
 *MSA:	+< dan ni [///] &d yn union felly dan ni (y)n meddwl (.) bod o yndy? 1203997_1208031
 %eng:	that's exactly what we think it's like, isn't it?
 *ANO:	+< ie (.) ie (.) ie ie . 1206141_1209038
 %eng:	yes, yes
-*MSA:	ond dim fel (yn)a mae . 1208032_1209112
+*MSA:	+< ond dim fel (yn)a mae . 1208032_1209112
 %eng:	but it isn't like that
 *ANO:	wel (dy)na fo . 1209176_1209629
-%eng:	well, that's it
-*ANO:	a ychydig [?] yr iaith dan ni (y)n defnyddio ar y funud yma rŵan . 1209621_1212482
+%eng:	well, there we go
+*ANO:	a [/] a ychydig o (y)r iaith dan ni (y)n defnyddio ar y funud yma rŵan . 1209621_1212482
 %eng:	and a little of the language we're using at the moment now.
 *MSA:	ia . 1212478_1212832
 %eng:	yes
@@ -1426,9 +1551,12 @@
 *MSA:	ie . 1215792_1216314
 %eng:	yes
 *ANO:	eh@s:cym&spa ? 1216299_1216746
+%eng:	eh?
 *ANO:	ac ar_ôl hynny wel dan ni (y)n gymysgu o efo (y)r Sbaeneg fan hyn yn_dydy ? 1217024_1220438
 %eng:	and after that, well, we mix it with Spanish here, don't we?
-*ANO:	ac maen nhw yn gymysgu efo (y)r er@s:cym&spa Saesneg fan [?] draw siŵr . 1220547_1223729
+*MSA:	+< yndyn . 1220267_1220586
+%eng:	yes
+*ANO:	ac maen nhw yn gymysgu o efo (y)r uh Saesneg draw siŵr . 1220547_1223729
 %eng:	and they mix it with English over there, no doubt
 *MSA:	+< xxx ran fwya (y)n siarad Saesneg . 1222505_1224809
 %eng:	[...] most of them speak English
@@ -1440,15 +1568,15 @@
 %eng:	there's a tendancy to mix English into the Welsh
 *MSA:	ie . 1232044_1232247
 %eng:	yes
-*ANO:	fel (y)na dan ni (y)n cymryd [?] o (y)r Sbaeneg . 1232032_1233628
-%eng:	that's the way we take from Spanish
+*ANO:	+< fel ydyn ni (y)n cymryd o (y)r Sbaeneg . 1232032_1233628
+%eng:	like the way we take from Spanish
 *ANO:	ac efo (ei)n gilydd dan ni (y)n deall (.) ein gilydd xx yn iawn . 1233594_1236339
 %eng:	and with each other we understand each other [...] fine
-*MSA:	+< ia . 1233750_1233994
-%eng:	yes
+*MSA:	+< ia xxx . 1233736_1234914
+%eng:	yes [...]
 *MSA:	ie . 1236366_1236714
 %eng:	yes
-*ANO:	ond pan fydden ni yn &ga +//. 1237289_1239065
+*ANO:	ond pan fydden ni (y)n [//] yn &ga +//. 1237289_1239065
 %eng:	but when we...
 *ANO:	pan dan ni fod i siarad efo rhywun sy (y)n dod o Gymru gallwn ni (ddi)m roi Sbaeneg mewn (i)ddo fo . 1239083_1242610
 %eng:	when we're supposed to speak Welsh with someone who comes from Wales we can't put Spanish into it
@@ -1457,82 +1585,95 @@
 *ANO:	&=laugh . 1243204_1243715
 *MSA:	na na debyg iawn (he)fyd . 1243727_1245138
 %eng:	no, that's right as well
-*ANO:	(dy)na fo . 1244628_1245000
-%eng:	that's it
-*ANO:	y Cymraeg yma dan ni (y)n siarad rŵan (.) wel er@s:cym&spa hwn er@s:cym&spa [/] hynna (y)dy (y)r iaith gaeth ddod efo (y)r Mimosa@s:cym&spa o_blaen . 1245000_1251202
+*ANO:	+< ond (dy)na fo . 1244628_1245000
+%eng:	but there we go
+*ANO:	y Cymraeg yma dan ni (y)n siarad rŵan (.) wel uh hwn uh [/] hynna (y)dy (y)r iaith gaeth ddod efo (y)r Mimosa@s:cym&spa o_blaen . 1245000_1251202
 %eng:	this Welsh that we're speaking now, well, that's the language that came with the Mimosa before
-*MSA:	+< xxx . 1250686_1251865
-*ANO:	mil wyth cant chwe_deg pump . 1251574_1252660
+*MSA:	+< wel na yr uh +... 1250374_1251930
+%eng:	well, no, the er...
+*ANO:	+< mil wyth cant chwe_deg pump . 1251574_1252660
 %eng:	1865
-*MSA:	yr er@s:cym&spa modryb [/] um modryb [//] y fodryb xxx +/. 1252669_1258329
-%eng:	er, Aunt... Aunt... the aunt [...] ...
-*ANO:	+< does dim bwys am yr en(w) [?] er@s:cym&spa +/. 1256226_1257533
+*MSA:	yr uh modryb [/] um modryb [//] y fodryb xxx +/. 1252669_1258329
+%eng:	er, Aunt.. . Aunt.. . the aunt [...]
+*ANO:	+< does dim bwys am yr en(w) uh +/. 1256226_1257533
 %eng:	the name isn't important, er...
-*MSA:	wnaeth hi gwrdd dydd Sul . 1258523_1260001
-%eng:	she met on Sunday
+*MSA:	wnes i gwrdd dydd Sul . 1258523_1260001
+%eng:	I met on Sunday
 *ANO:	ie . 1259957_1260293
 %eng:	yes
 *MSA:	oedden nhw (y)n siarad fel dan ni (y)n siarad . 1260251_1262057
 %eng:	they were speaking as we speak
 *ANO:	aha@s:cym&spa ? 1262281_1262786
+%eng:	aha
 *MSA:	ie . 1262763_1263094
 %eng:	yes
 *ANO:	aha@s:cym&spa be oedd oed nhw ? 1263082_1264278
-%eng:	how old were they?
-*MSA:	um@s:cym&spa +/. 1264353_1265084
-*ANO:	o(edde)n nhw (y)n chwe_deg saith_deg ? 1265136_1266663
+%eng:	aha, how old were they?
+*MSA:	um +/. 1264353_1265084
+%eng:	um
+*ANO:	o(edde)n nhw (y)n chwedeg saith_deg ? 1265136_1266663
 %eng:	were they 60, 70?
 *MSA:	ia mwy neu lai (.) ie . 1266648_1267960
 %eng:	yes, more or less, yes
-*ANO:	ah@s:cym&spa a lle oedden nhw ? 0_0
+*ANO:	ah@s:cym&spa a lle oedden nhw ? 1267752_1268820
 %eng:	ah, and where were they?
-*ANO:	lle welsoch chi nhw ? 1268829_1269427
+*ANO:	lle welsoch chi nhw ? 1268820_1269557
 %eng:	where did you see them?
-*MSA:	yn [/] yn lle Chris@s:cym&spa . 1269340_1270833
+*MSA:	yn [/] yn lle Chris@s:cym&spa . 1269244_1270805
 %eng:	at Chris's place
-*ANO:	aha@s:cym&spa ! 1270833_1272250
-*MSA:	<yn lle &r> [/] yn [/] yn lle Rita@s:cym&spa maen nhw (y)n aros . 1271978_1274288
-%eng:	at Rita's place, they're staying
+*ANO:	ah@s:cym&spa aha@s:cym&spa ! 1270833_1272250
+%eng:	ah, aha
+*MSA:	+< <yn lle &r> [/] yn [/] yn lle Rita@s:cym&spa maen nhw (y)n aros . 1271978_1274288
+%eng:	they're staying at Rita's place
 *ANO:	aha@s:cym&spa . 1274304_1274780
+%eng:	aha
 *MSA:	wedi dod efo Louise@s:cym&spa maen nhw . 1274687_1276243
-%eng:	they've come with Louise
+%eng:	they came with Louise
 *MSA:	mae Louise@s:cym&spa yma hefyd . 1276593_1277655
 %eng:	Louise is here too
 *ANO:	+< aha@s:cym&spa yndy yndy welais i Louise@s:cym&spa diwrnod o_blaen . 1277005_1279658
 %eng:	aha, yes I saw Louise the other day
 *MSA:	+< xx . 1278556_1278916
-*ANO:	yn lle welais i hi dw i (ddi)m yn cofio . 1279991_1281337
-%eng:	where I saw her I can't remember
-*MSA:	na dw i ddim (we)di [?] xx . 1281348_1282526
-%eng:	no I haven't [...]...
+%eng:	[...]
+*ANO:	yn le welais i hi dw i (ddi)m yn cofio . 1279991_1281337
+%eng:	I can't remember where I saw her
+*MSA:	na dw i ddim (we)di xx . 1281348_1282526
+%eng:	no I haven't [...]
 *ANO:	&=noise . 1282718_1283165
-*MSA:	hi a ei gŵr a rhyw ddyn arall . 1282899_1285122
+*MSA:	+< hi a ei gŵr a rhyw ddyn arall . 1282899_1285122
 %eng:	her and her husband and some other man
-*ANO:	mmhm@s:cym&spa . 1285380_1285803
+*ANO:	mmhm . 1285380_1285803
+%eng:	mmhm
 *MSA:	mm +... 1285768_1286006
+%eng:	mm
 *ANO:	yn lle welais i Louise@s:cym&spa ? 1286941_1288237
 %eng:	where did I see Louise?
 *ANO:	welais i hi diwrnod o_blaen . 1288231_1289375
 %eng:	I saw her the other day
-*ANO:	ah@s:cym&spa yn Gaiman@s:cym&spa <yn yr> [/] er@s:cym&spa <yn y> [/] &km yn y cymanfa ar_ôl eisteddfod . 1289600_1293611
-%eng:	oh, in Gaiman, at the "cymanfa" [assembly] after the Eisteddfod
+*ANO:	ah@s:cym&spa yn Gaiman@s:cym&spa <yn yr> [/] uh <yn y> [/] &km yn y cymanfa ar_ôl eisteddfod . 1289600_1293611
+%eng:	ah, in Gaiman, at the "cymanfa" [assembly] after the Eisteddfod
+*MSA:	+< xx . 1291998_1292921
+%eng:	[...]
 *MSA:	oh (dy)na ti . 1293334_1294112
 %eng:	oh, there you go
-*ANO:	ie ac yn yr er@s:cym&spa asado@s:spa (.) fan (yn)a oeddet ti . 1294106_1297386
-%eng:	yes, and at the barbecue, where you were
-*ANO:	ie di hi ddim yn arfer dod yn amser hwnna o_gwbl hi . 1297796_1300611
+*ANO:	ie ac yn yr uh asado@s:spa (.) fan (yn)a welais i hi . 1294106_1297386
+%eng:	yes, and at the barbecue, that's where I saw her
+*ANO:	ie di hi ddim yn arfer dod yn [/] yn amser hwnna o_gwbl hi . 1297796_1300611
 %eng:	yes, she doesn't normally come at that time at all, her
 *MSA:	na(g) (y)dy na(g) (y)dy . 1300639_1301562
-%eng:	no, she doesn't
-*ANO:	ond (dy)na fo blwyddyn (y)ma wedi dod . 1301336_1302497
-%eng:	but there it is, this year she's come
+%eng:	no no
+*ANO:	ond (dy)na fo blwyddyn (y)ma mae wedi dod . 1301336_1302497
+%eng:	but there we go, this year she's come
+*MSA:	+< ie . 1301560_1302094
+%eng:	yes
 *MSA:	ie . 1302503_1302880
 %eng:	yes
 *ANO:	ond (dy)na fo . 1304406_1305294
-%eng:	but that's it
+%eng:	but there we go
 *ANO:	dach chi feddwl fod yr amser (we)di mynd heibio ? 1305687_1307626
 %eng:	do you think the time has passed?
 *MSA:	xx +/. 1309038_1309752
+%eng:	[...]
 *ANO:	mae (y)na dros i hanner awr wedi pasio . 1309752_1311226
 %eng:	over half an hour has passed
 *MSA:	yndy mae dros hanner awr wedi basio . 1310883_1312671
@@ -1542,7 +1683,7 @@
 *MSA:	&=noise . 1313084_1313450
 *ANO:	dan ni wedi +//. 1313730_1314653
 %eng:	we've...
-*ANO:	y &km [/] yr er@s:cym&spa pwyllgor cymdeithas Cymraeg (..) wedi er@s:cym&spa paratoi um (..) nodyn (.) i (.) fel &w er@s:cym&spa (.) llongyfarchio er@s:cym&spa (..) Anna@s:cym&spa (.) am wobr &s +/. 1314834_1329083
+*ANO:	y &km [/] yr uh pwyllgor cymdeithas Cymraeg (..) wedi uh paratoi um (..) nodyn (.) i (.) fel &w uh (.) llongyfarchio uh (..) Anna@s:cym&spa (.) am wobr &s +/. 1314834_1329083
 %eng:	the committee of the Welsh Society has prepared a note to congratulate Anna for the prize...
 *MSA:	+< ie . 1317029_1317400
 %eng:	yes
@@ -1560,32 +1701,34 @@
 %eng:	"This is the main prize of the event"
 *ANO:	+" a rydyn yn sicr eich bod yn llawn [?] deilwng ohoni (..) nid yn unig am y gerdd hyfryd ond hefyd am eich gwaith (.) a gofal cyson dros warchod iaith a thraddodiadau Gymraeg (.) yn y wlad yma . 1348427_1362283
 %eng:	"And we are certain that you are fully worthy of it, not only for the beautiful music, but also for your work and constant care in protecting the Welsh language and traditions in this country"
-*ANO:	+" Gyda hyn (.) rydych yn hanrhyde(ddu) [/] hanrhydeddu eich teulu ac yn rhoi teimlad o balchder [?] i bawb ohonon sydd yn disgyny(ddion) [/] disgynyddion (.) i (y)r Cymry daeth yma i arloesi . 1362898_1375678
-%eng:	"With this, you honour your family, and impart a sense of pride to all of us who are descendents to the Welsh who came here to prepare the way"
+*ANO:	+" gyda hyn (.) rydych yn hanrhyde(ddu) [/] hanrhydeddu eich teulu ac yn rhoi teimlad o balchder [?] i bawb ohonon sydd yn disgyny(ddion) [/] disgynyddion (.) i (y)r Cymry daeth yma i arloesi . 1362898_1375678
+%eng:	"With this, you honour your family, and impart a sense of pride to all of us who are descendants to the Welsh who came here to prepare the way"
 %com:	h added to anrhydeddu (to honour) to become hanrhydeddu, as with other words like "hanodd" commonly in this corpus
 *ANO:	+" diolch Anna@s:cym&spa am eich esiampl . 1376466_1378753
 %eng:	"Thank you, Anna, for your example"
 *MSA:	neis iawn wir ie . 1378461_1380225
 %eng:	very nice indeed, yes
 *ANO:	+< mm ? 1379244_1379488
+%eng:	mm?
 *MSA:	o(edde)n nhw wedi [/] wedi (.) synnu bod +... 1380300_1384501
 %eng:	they were surprised that...
 *ANO:	mm +... 1384639_1385208
+%eng:	mm
 *MSA:	yn_doedden ? 1385382_1385951
 %eng:	weren't they ?
-*ANO:	xx darllenais i yr [/] er@s:cym&spa yr [/] er@s:cym&spa (.) yr um +... 1385922_1390718
+*ANO:	xx darllenais i yr [/] uh yr [/] uh (.) yr um +... 1385922_1390718
 %eng:	[...] I read the, um...
 *ANO:	&b be dach chi (y)n galw ? 1391895_1392777
 %eng:	what do you call it?
-*ANO:	yr [/] er@s:cym&spa yr er@s:cym&spa veredicto@s:spa ["] dach chi (y)n deud xx yn Sbaeneg . 1392777_1395612
-%eng:	you say verdict in Spanish
+*ANO:	yr [/] uh yr uh veredicto@s:spa ["] dach chi (y)n deud <yn &g> [//] yn Sbaeneg . 1392777_1395612
+%eng:	you say "veredicto" in Spanish
 *ANO:	be dach chi (y)n deud (.) yn [/] yn Gymraeg am veredicto@s:spa ? 1395869_1398771
-%eng:	what do you say in Welsh for verdict?
-*ANO:	pan yr [/] er@s:cym&spa yr [/] er@s:cym&spa yr er@s:cym&spa +... 1399815_1401835
+%eng:	what do you say in Welsh for "veredicto"?
+*ANO:	pan yr [/] uh yr [/] uh yr uh +... 1399815_1401835
 %eng:	when the, er...
 *MSA:	cystadleuaeth ["] ? 1401461_1402157
 %eng:	competition?
-*ANO:	naci naci er@s:cym&spa y beirniad . 1402198_1404270
+*ANO:	naci naci uh y beirniad . 1402198_1404270
 %eng:	no, no, er, the adjudication
 %com:	"beirniad" strictly means "adjudicator" rather than adjudication
 *MSA:	beirniad ? 1404451_1405031
@@ -1597,40 +1740,44 @@
 *ANO:	darllenais i (y)r beirniad . 1406370_1407798
 %eng:	I read the adjudication
 *MSA:	xx . 1407886_1408071
-*ANO:	ond ges i ddim er@s:cym&spa darllen <y pennill> [//] yr [/] yr +... 1407932_1411028
+%eng:	[...]
+*ANO:	+< ond ges i ddim uh darllen <y pennill> [//] yr [/] yr +... 1407932_1411028
 %eng:	but I didn't get to read the verse... the...
 *MSA:	++ y [/] y penillion ? 1411123_1412150
 %eng:	the poem?
 %com:	"pennillion" is a specific form of Welsh poetry
-*ANO:	+, y pennillion na na . 1411982_1413288
+*ANO:	+, y penillion na na . 1411982_1413288
 %eng:	...the poem, no
 *ANO:	dw i (ddi)m gwybod . 1413352_1413967
 %eng:	I don't know
 *ANO:	dw i ddim (we)di cael (.) hyd iddi . 1413969_1415397
 %eng:	I haven't found it
-*MSA:	+< er@s:cym&spa <am ei> [/] am ei lle hi fan (yn)a . 1415114_1417222
+*MSA:	+< uh <am ei> [/] am ei lle hi fan (yn)a . 1415114_1417222
 %eng:	er, about her place there
 *MSA:	am ei bywyd hi (y)dy o ie ? 1417206_1418756
 %eng:	it's about her life, right?
-*ANO:	+< ie ie ie ie . 1418211_1419494
+*ANO:	+< ie ie ie ie ie . 1418211_1419494
 %eng:	yes, yes
 *MSA:	a [/] &x a [/] a Dwynwen@s:cym&spa wnaeth darllen fo . 1419474_1421558
 %eng:	and Dwynwen read it
+*ANO:	+< xx . 1420191_1420725
+%eng:	[...]
 *ANO:	ie ond gallodd hi (ddi)m gorffen . 1421610_1423084
 %eng:	yes, but she wasn't able to finish
 *MSA:	a gallodd hi ddim gorffen naddo . 1423101_1424570
 %eng:	and she wasn't able to finish, no
-*ANO:	ie aha@s:cym&spa 1424241_1425211
+*ANO:	ie (.) ie aha@s:cym&spa 1424218_1425194
 %eng:	yes, aha
 *MSA:	glywes i hynna . 1425275_1426058
 %eng:	I heard that
-*ANO:	mmhm@s:cym&spa . 1426115_1426597
+*ANO:	mmhm . 1426115_1426597
+%eng:	mmhm
 *MSA:	ie . 1426991_1427328
 %eng:	yes
 *ANO:	+< ie ie . 1427148_1427740
 %eng:	yes
 *MSA:	ie &kl clywes i yn y +//. 1429042_1430290
-%eng:	yes, I heard in...
+%eng:	yes, I heard in the...
 *MSA:	Nerys@s:cym&spa oedd yn deud (hwn)na (wr)tha fi . 1430290_1431910
 %eng:	it was Nerys that told me that
 *MSA:	oedd Nerys@s:cym&spa (we)di bod yn [/] &d yn y +//. 1431904_1433854
@@ -1639,16 +1786,22 @@
 %eng:	Nerys was at the eisteddfod
 *ANO:	oedd oedd welais i hi . 1435583_1436599
 %eng:	yes, I saw her
-*ANO:	mm +... 1436657_1437359
+*MSA:	mm +... 1436657_1437359
+%eng:	mm
+*ANO:	oe(dd) xx . 1436886_1437327
+%eng:	she was, [...]
 *ANO:	[- spa] sí . 1438114_1438555
 %eng:	yes
-*ANO:	a wythnos diwetha xx dydd Sadwrn fuon i (.) yn (...) y dyffryn . 1442601_1449878
+*ANO:	a wythnos diwedda xx dydd Sadwrn fuon i (y)n (.) yn (...) y dyffryn . 1442601_1449878
 %eng:	and last week, [...] on Saturday I was in the valley
 *ANO:	achos oedd pen_blwydd Martino@s:cym&spa . 1450446_1451871
-%eng:	because it was martino's birthday
+%eng:	because it was Martino's birthday
 *MSA:	oedd deudaist ti wrtha fi y diwrnod blaen xx bod ti (y)n mynd i pen_blwydd Martino@s:cym&spa . 1451621_1455187
 %eng:	yes, you were saying to me the other day that
-*ANO:	+< Martino@s:cym&spa . 1454951_1455468
+*ANO:	+< xx . 1453852_1454543
+%eng:	[...]
+*ANO:	+< Martino@s:cym&spa do . 1454951_1455468
+%eng:	Martino, yes
 *MSA:	ie . 1455485_1456008
 %eng:	yes
 *MSA:	wnes i siarad efo ti . 1456476_1458037
@@ -1656,6 +1809,7 @@
 *MSA:	dwywaith tries i siarad efo ti diwrnod y ben_blwydd cofia . 1458043_1461143
 %eng:	twice I tried to talk to you on the day of the birthday, remember
 *ANO:	aha@s:cym&spa . 1461736_1462381
+%eng:	aha
 *MSA:	ac oedd +/. 1462557_1462958
 %eng:	and...
 *ANO:	+< wel na wel dw i (ddi)m (we)di bod xx +//. 1462779_1464405
@@ -1670,18 +1824,19 @@
 *ANO:	ah@s:cym&spa iawn o(eddw)n i ddim +//. 1466983_1468011
 %eng:	ah, ok, I wasn't...
 *ANO:	lle o(eddw)n i ? 1467971_1468592
-%eng:	where was I
+%eng:	where was I?
 *MSA:	ddim atebiad . 1468621_1469399
 %eng:	no answer
 *ANO:	ie (e)fallai wir achos achos (y)chydig iawn fuon i (y)n y tŷ . 1469429_1471832
 %eng:	yes, quite possibly, because I was hardly in the house
-*ANO:	dydd er@s:cym&spa +/. 1471886_1472577
+*ANO:	dydd uh +/. 1471886_1472577
 %eng:	day...
-*MSA:	ie achos [?] be oedd o (y)n +/. 1472579_1473960
+*MSA:	ie ac oedd [//] be oedd o (y)n +/. 1472579_1473960
 %eng:	yes, because what it was...
 *ANO:	dydd Sadwrn oedd hi ? 1473792_1474680
 %eng:	was it Saturday?
-*MSA:	er@s:cym&spa +/. 1474665_1475170
+*MSA:	uh +/. 1474665_1475170
+%eng:	er
 *ANO:	oedd hi (y)n dydd Sadwrn ? 1475175_1475924
 %eng:	was it Saturday?
 *MSA:	dw i (ddi)m cofio be [/] pwy diwrnod oedd hi . 1475849_1477608
@@ -1692,26 +1847,26 @@
 %eng:	no it was Tuesday
 *MSA:	dwy [/] dwy [//] dwywaith dries i . 1479191_1481159
 %eng:	twice I tried
-*MSA:	ac er@s:cym&spa wnes i drio (y)n y bore achos o(eddw)n i meddwl (ba)sech chi mynd yn pnawn i rywle . 1481670_1486244
+*MSA:	ac uh wnes i drio (y)n y bore achos o(eddw)n i meddwl (ba)sech chi mynd yn pnawn i rywle . 1481670_1486244
 %eng:	and I tried in the morning because I thought you would go somewhere in the afternoon
 *MSA:	a mi dries i wedyn ryw adeg . 1486419_1488294
 %eng:	and I tried sometime afterwards
 *MSA:	ac um (.) dw i (ddi)m cofio be oedden nhw (y)n ateb i fi . 1488304_1491386
 %eng:	and I don't remember what they said to me in reply
 *MSA:	o(edde)n nhw (y)n ateb rywbeth i fi xx <bod y lleill> [/] bod y +/. 1491384_1494288
-%eng:	they answered me something [...] that the others...
+%eng:	they answered me something [...], that the others...
 *ANO:	ah@s:cym&spa casilla@s:spa ! 1494299_1495152
 %eng:	ah mail box.
 *MSA:	[- spa] casilla +/. 1495196_1495823
 %eng:	mail box.
 *ANO:	[- spa] +< casilla está llena . 1495372_1496353
-%eng:	the mail box is full.
+%eng:	the mail box is full
 *MSA:	[- spa] xxx casilla está llena . 1496365_1497746
-%eng:	[...] the mail box is full.
-*ANO:	er@s:cym&spa bocs [///] ie memo bocs yn llawn . 1497417_1499548
-%eng:	er, box, yes, [...] box full
-*MSA:	&cas &callilla casillas@s:spa está@s:spa llena@s:spa ["] <oedden nhw> [/] <oedden nhw (y)n> [/] er@s:cym&spa (.) oedden nhw (y)n deud . 1499583_1505898
-%eng:	it was "mail box is full" is what they were saying
+%eng:	[...] the mail box is full
+*ANO:	+< ie uh bocs [///] ie memo bocs yn llawn . 1496910_1499537
+%eng:	yes, er, box, yes, [...] memo box full
+*MSA:	&cas &callilla casillas@s:spa está@s:spa llena@s:spa ["] <oedden nhw> [/] <oedden nhw (y)n> [/] uh (.) oedden nhw (y)n deud . 1499583_1505898
+%eng:	"mail box is full" is what they were saying
 *ANO:	+< ie ie . 1502677_1503113
 %eng:	yes, yes
 *ANO:	&=cough . 1506378_1507086
@@ -1728,26 +1883,29 @@
 *ANO:	ie . 1515294_1515498
 %eng:	yes
 *MSA:	ah@s:cym&spa (dy)na ti . 1515364_1516078
-%eng:	there you go
+%eng:	ah, there you go
 *ANO:	xx . 1518380_1518990
+%eng:	[...]
 *ANO:	&=cough . 1521642_1522362
-*ANO:	a pwy arall sy [///] <dach chi> [/] dach chi (y)n nabod amryw [?] [?] o bobl eraill sy (we)di cael wneud yr un peth ? 1524911_1529393
+*ANO:	a pwy arall sy [///] <dach chi> [/] dach chi (y)n nabod amryw o bobl eraill sy (we)di cael wneud yr un peth ? 1524911_1529393
 %eng:	and who else... do you know several other people who have been able to do the same thing?
-*MSA:	er@s:cym&spa wel (.) <wnest ti> [?] ddeud efallai bod [//] oedd Isolde@s:cym&spa [?] yn ei wneud efo Robert@s:cym&spa ie ? 1530786_1537183
-%eng:	er, well, you said that maybe Isolde was doing so with Robert, right?
+*MSA:	uh wel (.) wnes i ddeud efallai bod [//] oedd uh Isolde@s:cym&spa mynd i wneud efo Robert@s:cym&spa ie ? 1530786_1537183
+%eng:	er, well, I said that maybe Isolde was doing so with Robert, right?
 *ANO:	ah@s:cym&spa efo Robert@s:cym&spa aha@s:cym&spa . 1537272_1538654
-%eng:	oh, with Robert, aha
+%eng:	ah, with Robert, aha
 *MSA:	oedd hi (we)di meddwl am Robert@s:cym&spa ta_beth . 1538773_1540636
-%eng:	she had thought of Robert, in any case.
-*ANO:	mmhm@s:cym&spa . 1540505_1540900
+%eng:	she had thought of Robert, in any case
+*ANO:	mmhm . 1540505_1540900
+%eng:	mmhm
 *MSA:	a wedyn dw i (ddi)m gwybod am neb arall . 1540941_1542438
 %eng:	and then I don't know about anyone else
 *ANO:	aha@s:cym&spa . 1542560_1543181
-*ANO:	er@s:cym&spa yr un fath â mae (y)r bachgen yma wneud rŵan (.) ers ryw bymtheg mlynedd yn_ôl fe oedd (y)na (..) um bachgen oedd yn [/] yn siarad Ffrangeg (.) francés@s:spa (.) yma . 1544612_1556159
-%eng:	er, the same as this boy is doing now, about 15 years ago there was a boy who spoke french here
-*ANO:	ac oedd wneud yr un peth (.) efo (y)r er@s:cym&spa um ieithiau . 1556607_1559846
+%eng:	aha
+*ANO:	uh yr un fath â mae (y)r bachgen yma wneud rŵan (.) ers ryw bymtheg mlynedd yn_ôl fe oedd (y)na (..) um bachgen oedd yn [/] yn siarad Ffrangeg (.) francés@s:spa (.) yma . 1544612_1556159
+%eng:	er, the same as this boy is doing now, about 15 years ago there was a boy who spoke French here
+*ANO:	ac oedd o (y)n wneud yr un peth (.) efo (y)r uh um ieithiau . 1556607_1559846
 %eng:	and he was doing the same thing with the languages
-*ANO:	ac er@s:cym&spa yr un o (y)r ieithiau <oedd o> [/] oedd o yn [/] yn defnyddio oedd xx Breton@s:spa o +/. 1560617_1566153
+*ANO:	ac uh yr un o (y)r ieithiau <oedd o> [/] oedd o yn [/] yn defnyddio oedd xx bretón@s:spa o +/. 1560617_1566153
 %eng:	and one of the languages he was using was Breton, from...
 *MSA:	[- spa] bretón ? 1566175_1566749
 %eng:	Breton.
@@ -1755,7 +1913,7 @@
 %eng:	Breton.
 *MSA:	ie . 1567423_1567667
 %eng:	yes
-*ANO:	a mi rodd o lyth(yr) [//] um lyfr i fi wedi cael ei (y)sgrifennu yn Breton@s:spa . 1567781_1572013
+*ANO:	a mi rodd o lyth(yr) [//] um lyfr i fi wedi cael ei (y)sgrifennu yn bretón@s:spa . 1567781_1572013
 %eng:	and he gave me a book written in Breton
 *ANO:	a mae o (y)n debyg i Gymraeg . 1572368_1573935
 %eng:	and it's similar to Welsh
@@ -1763,21 +1921,24 @@
 *ANO:	yndy wir ! 1574622_1575400
 %eng:	yes indeed
 *ANO:	yndy mae (y)na rei pethau yn &d xx +//. 1575369_1577494
-%eng:	yes, there are some things [..]...
+%eng:	yes, some things are [...]
 *ANO:	mae o (.) yn debyg i w siarad (he)fyd . 1577427_1579557
-%eng:	it's similar to speak as well
+%eng:	it's similar spoken as well
 *MSA:	aha@s:cym&spa . 1579582_1580093
-*ANO:	[- spa] Breton . 1580111_1580674
+%eng:	aha
+*ANO:	[- spa] bretón . 1580111_1580674
 %eng:	Breton .
-*ANO:	ac er@s:cym&spa oedd enw fi fewn yn y llyfr ryw [?] ambell i +/. 1581335_1585567
+*ANO:	ac uh oedd enw fi fewn yn y llyfr ryw ambell i +/. 1581335_1585567
 %eng:	and my name was in the book a few...
+*MSA:	+< (dy)na ti . 1584282_1584961
+%eng:	there you go
 *MSA:	wyt ti (y)n (y)sgrifennu Cymraeg ? 1585042_1586464
 %eng:	do you write in Welsh?
 *ANO:	(y)chydig . 1586568_1587190
 %eng:	a little
 *MSA:	(y)chydig ? 1587265_1587637
 %eng:	a little?
-*ANO:	(y)chydig yndy dw i xxx +/. 1587486_1590382
+*ANO:	+< (y)chydig yndy dw i xxx +/. 1587486_1590382
 %eng:	a little, yes I [...]...
 *MSA:	+< ie wel yli dw [/] dw i (we)di bod meddwl lot heddiw . 1588366_1591205
 %eng:	yes, well look, I've been thinking a lot today
@@ -1788,6 +1949,7 @@
 *MSA:	mi <galla i> [?] sgrifennu (.) Cymraeg yn dda . 1593145_1595670
 %eng:	I can write Welsh well
 *ANO:	aha@s:cym&spa . 1595696_1596254
+%eng:	aha
 *MSA:	ond hwyrach (.) bod wedi darllen xx . 1596336_1598757
 %eng:	but perhaps having read [...]
 *MSA:	dw i (we)di darllen lot o Gymraeg . 1598820_1600173
@@ -1802,45 +1964,56 @@
 %eng:	yes
 *MSA:	hwnna [/] hwnna sy (we)di wneud i fi (.) (y)sgrifennu . 1603141_1606386
 %eng:	that's what's made me write
+*ANO:	+< ie wir mm +... 1602952_1604600
+%eng:	yes, indeed, mm
 *ANO:	+< mm +... 1605569_1605813
-*MSA:	ac wrth_gwrs yn sgwennu o_hyd efo Elen@s:cym&spa a Dwynwen@s:cym&spa o_blaen bob amser timod a efo modryb Betty@s:cym&spa . 1606447_1612480
-%eng:	and of course always writing with Elen and Dwynwen before, all the time you know, and with Auntie Betty
+%eng:	mm
+*MSA:	ac wrth_gwrs yn sgwennu o_hyd efo Geraint@s:cym&spa a Dwynwen@s:cym&spa o_blaen bob amser timod a efo modryb Betty@s:cym&spa . 1606447_1612480
+%eng:	and of course always writing with Geraint and Dwynwen before, all the time you know, and with Auntie Betty
 *ANO:	+< ie . 1606630_1606868
 %eng:	yes
-*ANO:	+< ah@s:cym&spa ie xxx +/. 1609809_1613311
-%eng:	ah yes [...]...
+*ANO:	+< ah@s:cym&spa ie xxx efo (y)r hogyn bach +/. 1609809_1613311
+%eng:	ah yes [...] with the little boy
 *MSA:	+< dw i erioed erioed wedi [/] wedi wneud . 1612915_1614987
-%eng:	I always have done
+%eng:	I've always done
+*ANO:	+< na na ie . 1613657_1614780
+%eng:	no no yes
 *ANO:	na ges i ddim y tsiawns (y)na o_gwbl . 1614930_1616422
 %eng:	no, I didn't get that chance at all
 *MSA:	+< a wrth_gwrs (.) hwyrach bod ti efallai &eka +//. 1615781_1618613
 %eng:	and of course, maybe you, perhaps...
 *MSA:	yn yr ysgol Sul yn y capel gaethon ni (.) dysgu [/] dysgu . 1618630_1623082
 %eng:	it was in the chapel Sunday school that we got to learn
-*ANO:	+< mmhm@s:cym&spa na ces i ddim fawr o ysgol Sul . 1621146_1623485
+*ANO:	+< mmhm na ces i ddim fawr o ysgol Sul . 1621146_1623485
 %eng:	mmhm, no I didn't get very much Sunday school
 *MSA:	+< (dy)na fo xxx +/. 1623115_1624828
-%eng:	that's it [...]...
+%eng:	there we go, [...]
 *ANO:	+< a peth arall . 1623561_1624228
 %eng:	and another thing
-*ANO:	o(eddw)n i (y)n naw oed mi es i adre (.) i dal ymlaen efo astudio . 1624356_1628222
+*ANO:	o(eddw)n i (y)n naw oed mi es i &w adre (.) i dal ymlaen efo astudio . 1624356_1628222
 %eng:	[when] I was nine I went home to carry on with studying
 *MSA:	+< xxx . 1627046_1628480
-*ANO:	a ddes i ddim (y)n_ôl tan <o(eddw)n i> [?] (y)n +//. 1628218_1629997
+%eng:	[...]
+*ANO:	a ddes i ddim (y)n_ôl tan <o(eddw)n i> (y)n +//. 1628218_1629997
 %eng:	and I didn't come back until I was...
-*ANO:	oedd hi xx pedwar_deg . 1630236_1631820
-%eng:	it was [...] forty
-*MSA:	ie fan hyn wnaethon ni (.) er@s:cym&spa dysgu yr abiéc ar y xxx +/. 1631904_1637265
-%eng:	yes, this is where we learned the ABC on the [...]...
-*ANO:	+< ie ie dw i (y)n cofio (y)r er@s:cym&spa abiéc yndw . 1636653_1639462
+*ANO:	oeddwn i xx jyst yn pedwar_deg . 1630236_1631820
+%eng:	I was [...] just forty
+*MSA:	+< xx . 1630970_1631678
+%eng:	[...]
+*MSA:	ie fan hyn wnaethon ni (.) uh dysgu yr abiéc a ryw bethau fel (yn)a xxx +/. 1631904_1637265
+%eng:	yes, this is where we learned the ABC  and some things like that [...]
+*ANO:	+< ie ie dw i (y)n cofio (y)r uh yr abiéc yndw . 1636653_1639462
 %eng:	yes, I remember the ABC, yes
+*MSA:	+< ti (y)n cofio ? 1637294_1638148
+%eng:	do you remember?
 *MSA:	ie . 1639676_1640053
 %eng:	yes
-*ANO:	ddaru [?] mam dysgu (y)r abiéc inni pan o(edde)n ni (y)n plant bach (.) yn y tŷ . 1640044_1643272
+*ANO:	ond ddaru Mam@s:cym&spa dysgu (y)r abiéc inni pan o(edde)n ni (y)n plant bach (.) yn y tŷ . 1639928_1643364
 %eng:	Mam taught us the ABC when we were little children, at home
 *MSA:	+< ie ie ie ie . 1640670_1642481
 %eng:	yes, yes
-*MSA:	um@s:cym&spa +/. 1643137_1643938
+*MSA:	um +/. 1643137_1643938
+%eng:	um
 *ANO:	oedden ni (y)n derbyn y Cymru_Plant@s:cym&spa . 1643979_1645831
 %eng:	we received the "Cymru Plant" [Childrens' Wales]
 *ANO:	dach chi (y)n cofio Cymru_Plant@s:cym&spa ? 1645843_1646922
@@ -1849,51 +2022,64 @@
 %eng:	the "Cymru Plant", yes
 *ANO:	+< y cylchgrawn . 1647372_1648068
 %eng:	the magazine
-*MSA:	a wedyn dw i (we)di cael lawer o xx lyfr xx um +//. 1648072_1651520
-%eng:	and then, I've had lots of [...] book [..], um...
+*MSA:	a wedyn dw i (we)di cael lawer o xx lyfr na &m um +//. 1648072_1651520
+%eng:	and then, I've had lots of [...] books, no, um...
 *MSA:	dim gwybod os wyt ti +//. 1651523_1652696
 %eng:	I don't know if you...
 *MSA:	wyt ti [/] ti [/] ti [/] &dn (.) ti (y)n darllen Cymraeg ? 1652692_1656052
 %eng:	do you... do you read Welsh?
-*ANO:	yndw dw ychydig yndw mmhm@s:cym&spa . 1656048_1657360
-%eng:	yes I do a little, yes
-*MSA:	er@s:cym&spa llyfr Ein_Rhyfel_Ni@s:cym&spa (.) um am y rhyfel diwetha . 1657110_1661701
+*ANO:	yndw ryw ychydig yndw mmhm . 1656048_1657360
+%eng:	yes I do a little, yes, mmhm
+*MSA:	+< uh llyfr Ein_Rhyfel_Ni@s:cym&spa (.) um am y rhyfel diwedda . 1657110_1661701
 %eng:	the book "Ein Rhyfel Ni" [Our War], about the last war
 *ANO:	aha@s:cym&spa . 1661985_1662757
-*MSA:	buon ni (y)n da xxx ond methu <oeddet ti> [?] . 1662826_1665258
-%eng:	we were good at [...], but you couldn't
+%eng:	aha
+*MSA:	+< xx buon ni (y)n da xxx ond methu <oeddet ti> [?] . 1662350_1664951
+%eng:	[...] we were good at [...], but you couldn't
 *ANO:	aha@s:cym&spa . 1664891_1665454
+%eng:	aha
 *MSA:	achos mae o (y)n &so +/. 1665442_1666530
 %eng:	because it's...
+*ANO:	+< aha@s:cym&spa . 1665514_1666135
+%eng:	aha
 *ANO:	(y)dy o (y)n hawdd i ddeall ? 1666217_1667250
 %eng:	is it easy to understand?
 *MSA:	yndy mae (y)n hawdd [?] ddeall . 1667306_1669098
 %eng:	yes, it's easy to understand
+*ANO:	+< aha@s:cym&spa . 1667961_1668878
+%eng:	aha
 *MSA:	a wedyn mae o (y)n sôn am fechgyn oedd yma timod . 1669072_1671423
 %eng:	and then it talks about some boys who were here, you know
+*ANO:	+< ah@s:cym&spa . 1669128_1670051
+%eng:	ah
 *MSA:	am yr xx a gaeth ei ladd . 1671412_1672918
-%eng:	about the [..] who was killed
+%eng:	about the [...] who was killed
 *MSA:	a mae ei fam o (y)n siarad a +/. 1672867_1675068
 %eng:	and his mother speaks and...
-*ANO:	aha@s:cym&spa &aw a lle wedi gael ei sgwennu ? 1675286_1677196
+*ANO:	aha@s:cym&spa &aw a lle mae o wedi gael ei sgwennu ? 1675286_1677196
 %eng:	aha, and where was it written?
 *MSA:	+< xx . 1675804_1676298
+%eng:	[...]
 *MSA:	eh@s:cym&spa ? 1677528_1677929
+%eng:	eh?
 *ANO:	lle mae (we)di gael ei sgwennu ? 1678035_1679051
 %eng:	where was it written?
-*MSA:	oh wel er@s:cym&spa +/. 1679228_1680076
+*MSA:	oh wel uh +/. 1679228_1680076
 %eng:	oh well, er...
 *ANO:	yn y Gymru neu yma yn y +/? 1679838_1681086
 %eng:	in Wales, or here in...?
 *MSA:	+< yn Gymru yn Gymru ! 1680575_1681695
 %eng:	in Wales, in Wales!
 *ANO:	aha@s:cym&spa . 1681701_1682115
-*MSA:	wedi cael o er@s:cym&spa Louise@s:cym&spa xx +//. 1681926_1683818
+%eng:	[...]
+*MSA:	wedi cael o uh Louise@s:cym&spa uh &he +//. 1681926_1683818
 %eng:	got it from Louise...
-*ANO:	+< ah@s:cym&spa Lou(ise)@s:cym&spa +/. 1683762_1684273
-*MSA:	ac um Efa@s:cym&spa doth â fo i fi . 1683826_1685945
-%eng:	and Efa brought it to me
-*ANO:	mmhm@s:cym&spa . 1686063_1686620
+*ANO:	ah@s:cym&spa Lou(ise)@s:cym&spa +/. 1683762_1684273
+%eng:	ah, Louise
+*MSA:	+< nage um Efa@s:cym&spa doth â fo i fi . 1683826_1685945
+%eng:	no Efa brought it to me
+*ANO:	mmhm . 1686063_1686620
+%eng:	mmhm, yes
 *MSA:	ie . 1686510_1686986
 %eng:	yes
 *MSA:	Efa@s:cym&spa ddoth â fo yn bresant i fi . 1687747_1689117
@@ -1901,69 +2087,78 @@
 *MSA:	Ein_Rhyfel_Ni@s:cym&spa ["] mae (y)n deud . 1689117_1690690
 %eng:	"Ein Rhyfel Ni" [Our War], it says
 *ANO:	Ein_Rhyfel_Ni@s:cym&spa . 1690527_1691259
+%eng:	"Ein Rhyfel Ni"
 *MSA:	Ein_Rhyfel_Ni@s:cym&spa . 1691313_1692260
-*MSA:	a wedyn mae (.) experiencia@s:spa (.) y rhai sy (we)di bod yn y rhyfel <y byd> [?] (y)dy o timod . 1692569_1697492
+%eng:	"Ein Rhyfel Ni"
+*MSA:	a wedyn mae (.) experiencia@s:spa (.) y rhai sy (we)di bod yn y rhyfel byd (y)dy o timod . 1692569_1697492
 %eng:	and so it's the experience of those who were in the war, you know
 *ANO:	+< ie ie ie ie . 1696443_1697725
 %eng:	yes, yes
+*ANO:	mm +... 1697686_1698237
+%eng:	mm
+*MSA:	+< mmhm . 1697686_1698237
+%eng:	mmhm
 *ANO:	ie wir . 1699958_1700614
 %eng:	yes indeed
-*ANO:	na (y)chydig er@s:cym&spa +/. 1703357_1704386
+*ANO:	na (y)chydig uh +/. 1703357_1704386
 %eng:	no, a few...
-*MSA:	+< wedyn doth (yn)a [?] Gymry [///] doth (yn)a Gymro (.) yna [?] oedd yn perthyn inni (.) hefyd . 1704111_1708608
-%eng:	then some Welsh... a Welshman came over who was related to us too
-*MSA:	er@s:cym&spa berthyn i ochr &li Alwyn@s:cym&spa . 1708803_1711131
+*MSA:	+< wedyn doth (y)na Gymry [///] doth (yn)a Gymro (.) a na ac oedd yn perthyn inni (.) hefyd . 1704111_1708608
+%eng:	then some Welsh.. . a Welshman came over and he was related to us too
+*MSA:	uh berthyn i ochr &li Alwyn@s:cym&spa . 1708803_1711131
 %eng:	er, related to Alwyn's side
 *MSA:	wnaeth o ddod â llyfrau arall hefyd . 1711108_1713337
 %eng:	he brought other books too
-*MSA:	ond (dy)dy hwnna ddim mor &d er@s:cym&spa diddorol . 1713760_1716036
+*MSA:	ond (dy)dy hwnna ddim mor &d uh diddorol . 1713760_1716036
 %eng:	but that one wasn't so interesting
-*ANO:	mmhm@s:cym&spa . 1716482_1716952
+*ANO:	mmhm . 1716482_1716952
+%eng:	mmhm
 *MSA:	ond (dy)na fo . 1716958_1717823
-%eng:	but that's it
-*MSA:	er@s:cym&spa mae o [///] mae (y)r ddarllen Cymraeg yn wneud er@s:cym&spa (.) xx +//. 1717784_1722036
-%eng:	reading Welsh makes, er, [..] ...
+%eng:	but there we go
+*MSA:	uh mae o [///] mae (y)r ddarllen Cymraeg yn wneud uh (.) neud +//. 1717784_1722036
+%eng:	reading Welsh makes, er, [...] ...
 *MSA:	mae efo Anwen@s:cym&spa . 1722121_1723085
 %eng:	it does with Anwen
 *MSA:	(dy)dy o (ddi)m (we)di (.) xx +//. 1723069_1724265
-%eng:	it hasn't...
+%eng:	it hasn't [...]
 *MSA:	dw i (ddi)m (we)di cael &ʃ siarad lawer efo Anwen@s:cym&spa . 1724422_1726842
 %eng:	I've not been able to talk much with Anwen
-*MSA:	a dw i (we)di dod (.) er@s:cym&spa dwy drafod efo fi . 1726803_1729200
-%eng:	and I've brought, er, two transactions [?] with me
-*MSA:	mae Camwy (we)di gyrru dwy drafod i fi do wan ? 1729200_1731539
-%eng:	Chubut have sent me two transactions now, haven't they?
+*MSA:	a dw i (we)di dod (.) uh dwy Drafod@s:cym&spa efo fi . 1726803_1729200
+%eng:	and I've brought, er, two Drafod (local magazine) with me
+*MSA:	mae Camwy (we)di gyrru dwy Drafod@s:cym&spa i fi do wan ? 1729200_1731539
+%eng:	Chubut have sent me two Drafod (local magazine) now, haven't they?
 *ANO:	a mae (y)na un efo fi fan hyn (he)fyd . 1731565_1732912
 %eng:	and I've got one here too
-*ANO:	oedd (y)na er@s:cym&spa (.) sôn am [/] am briodas um er@s:cym&spa +... 1732912_1737442
-%eng:	it said about the wedding of...
+*ANO:	oedd (y)na uh (.) sôn am [/] am briodas um uh +... 1732912_1737442
+%eng:	it said about the wedding of, er...
 *ANO:	be (y)dy enw ? 1738205_1738658
 %eng:	what's the name?
-*ANO:	er@s:cym&spa (.) Reynardo@s:cym&spa . 1738653_1740836
+*ANO:	uh (.) Reynardo@s:cym&spa . 1738653_1740836
+%eng:	er, Reynardo
 *MSA:	&=laugh ie ? 1740895_1741813
-%eng:	really?
+%eng:	yes?
 *ANO:	mae llun o nhw . 1741663_1742638
 %eng:	there's a picture of them
 *ANO:	oh (dy)na fo (y)na . 1742650_1743271
 %eng:	oh there it is there
 *MSA:	ah@s:cym&spa (dy)na ti ! 1743318_1743979
-%eng:	oh that's it!
-*ANO:	yndy a (.) llun o Felix@s:cym&spa a ei wraig a (y)r [/] er@s:cym&spa yr Chilena@s:spa (y)na oedd yn +... 1744000_1749209
+%eng:	ah there you go!
+*ANO:	yndy a (.) llun o Felix@s:cym&spa a ei wraig a (y)r [/] uh yr Chilena@s:spa (y)na oedd yn +... 1744000_1749209
 %eng:	yes, and a picture of Felix and his wife, and that Chilean woman who was...
 *MSA:	++ gaeth gwrdd â Ricardo@s:cym&spa ? 1749876_1750875
-%eng:	...who had a meeting with Ricardo?
-*ANO:	ie (.) ie er@s:cym&spa +/. 1750871_1752603
+%eng:	...who met with Ricardo?
+*ANO:	ie (.) ie uh +/. 1750871_1752603
 %eng:	yes, yes, er...
-*MSA:	Ricardo (.) dydd Sadwrn ddoth o a [/] &vi a [/] um a Pedra@s:cym&spa i [/] er@s:cym&spa i edrych amdanaf fi . 1752612_1757964
+*MSA:	Ricardo (.) dydd Sadwrn ddoth o a [/] &vi a [/] um a Pedra@s:cym&spa i [/] uh i edrych amdanaf fi . 1752612_1757964
 %eng:	Ricardo, on Saturday he and Pedra came to look for me
 *ANO:	aha@s:cym&spa . 1757967_1758286
+%eng:	aha
 *MSA:	a wrth_gwrs oedden ni yn lle Chris@s:cym&spa . 1758194_1759861
 %eng:	and of course, we were at Chris's place
 *MSA:	o(edde)n ni (we)di cael invitación@s:spa <i lle> [/] i lle Chris@s:cym&spa dydd Sul . 1759860_1762902
 %eng:	we'd had an invitation to Chris's place on Sunday
 *ANO:	+< ie . 1761041_1761314
 %eng:	yes
-*MSA:	dydd Sadwrn achos bod yr [/] er@s:cym&spa yr matrimonio@s:spa yma . 1762919_1766379
+*MSA:	dydd Sadwrn achos bod yr [/] uh yr matrimonio@s:spa yma . 1762919_1766379
 %eng:	Saturday because the wedding is here
 *ANO:	ie . 1766513_1766765
 %eng:	yes
@@ -1971,32 +2166,40 @@
 %eng:	but it was only us, Nerys and I, and the married couple
 *MSA:	a nhw y dau (dy)na i_gyd oedden ni . 1770065_1771714
 %eng:	and both of them, that's all we were
+*ANO:	+< mm +... 1770174_1770650
+%eng:	mm
 *ANO:	aha@s:cym&spa . 1771853_1772255
+%eng:	mm
 *MSA:	&=mumble no@s:spa &g (dy)na i_gyd oedden ni . 1772290_1774153
 %eng:	no, that's all we were
-*MSA:	um@s:cym&spa +... 1774891_1775605
-*MSA:	a Gusto@s:cym&spa mi ddoson nhw Dydd Sul neu Dydd &sa a fi ddim adre . 1776569_1780118
-%eng:	and Gusto, they came on Sunday or Sat... and I wasn't at home
-*ANO:	wel fyddai neb adre . 1779593_1780551
+*MSA:	um +... 1774891_1775605
+%eng:	um
+*MSA:	a justo@s:spa mi ddoson nhw Dydd Sul neu Dydd &sa a fi ddim adre . 1776569_1780118
+%eng:	and they just came on Sunday or Sat... and I wasn't at home
+*ANO:	+< wel fyddai neb adre . 1779593_1780551
 %eng:	well, no one would be home
-*MSA:	ac o(eddw)n i awydd cwrdd â Horacio@s:cym&spa dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di xxx +/. 1780587_1783530
-%eng:	and I was keen to meet up because I haven't [...] ...
-*ANO:	+< xxx ? 1782904_1784227
+*MSA:	<a wel> [//] ac o(eddw)n i awydd cwrdd achos dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di xxx +/. 1780587_1783530
+%eng:	and I was keen to meet up because I haven't [...]
+*ANO:	+< (dy)dych chi (ddi)m (we)di gweld nhw ar_ôl iddyn nhw ddod (y)n_ôl ? 1782904_1784227
+%eng:	haven't you seen them since they got back?
 *MSA:	+< do dw i (we)di gweld nhw diwrnod priod(as) +//. 1783871_1785370
 %eng:	yes, I saw them on the day of the wedding...
-*MSA:	xx oedden ni (y)n yr un bwrdd er@s:cym&spa yn priodas er@s:cym&spa Reynardo@s:cym&spa . 1785381_1789329
-%eng:	[..] we were at the same table at Reynardo's wedding
+*MSA:	na oedd [//] oedden ni (y)n yr un bwrdd uh yn priodas uh Reynardo@s:cym&spa . 1785381_1789329
+%eng:	no we were at the same table at Reynardo's wedding
 *ANO:	+< ah@s:cym&spa ah@s:cym&spa &=noise . 1786492_1787827
-*ANO:	mmhm@s:cym&spa . 1789343_1789819
+%eng:	ah
+*ANO:	mmhm . 1789343_1789819
+%eng:	mmhm
 *MSA:	hmm +... 1789848_1790173
+%eng:	hmm
 *MSA:	yr un bwrdd . 1791225_1792067
 %eng:	the same table
 *ANO:	wel mae (y)r hanner awr wedi mynd heibio . 1794900_1797019
 %eng:	well, the half hour has gone past
 *MSA:	mae hanner awr wedi pasio . 1797142_1798745
 %eng:	half an hour has passed
-*ANO:	+< xxx bachgen yma . 1797584_1798745
-%eng:	[...] boy here
+*ANO:	+< ydy (y)r bachgen yma ? 1797584_1798745
+%eng:	is the boy here?
 *MSA:	wna i +//. 1798752_1799241
 %eng:	I'll...
 *MSA:	lle mae o ? 1799380_1800106
@@ -2014,8 +2217,8 @@
 %com:	pause in conversation
 *MSA:	(ba)swn i byth yn deud taw Cymro oedd o . 1818589_1820540
 %eng:	I'd never have thought he was a Welshman
-*ANO:	na wel (dy)na fo er@s:cym&spa mae +/. 1822526_1824679
-%eng:	no, well that's it, er, the...
+*ANO:	na wel (dy)na fo uh mae +/. 1822526_1824679
+%eng:	no, well there we go, er, the...
 *MSA:	dywyll dywy(ll) . 1824627_1825422
 %eng:	very dark
 *ANO:	yndy . 1825428_1825951
@@ -2024,7 +2227,7 @@
 %eng:	and blue eyes, did you see?
 *ANO:	+< dan ni yn llygaid glas xxx +/. 1826545_1828445
 %eng:	we're blue eyes [...]...
-*MSA:	+< xxx oedd Geraint@s:cym&spa (.) tra [?] oedd o (y)n ifanc dw i meddwl . 1827888_1830750
+*MSA:	+< xxx oedd Geraint@s:cym&spa (.) pan oedd o (y)n ifanc dw i meddwl . 1827888_1830750
 %eng:	[...] Geraint was, when he was young I think
 *ANO:	aha@s:cym&spa (y)dy hwn (y)r u(n) fath ? 1830956_1832257
 %eng:	aha, is this one the same?
@@ -2035,62 +2238,70 @@
 *MSA:	+< a oedd ei wallt o (y)n dywyll dywyll . 1834030_1835929
 %eng:	and his hair was very dark
 *ANO:	aha@s:cym&spa . 1835953_1836847
-*MSA:	mmhm@s:cym&spa . 1837879_1838500
+%eng:	aha
+*MSA:	mmhm . 1837879_1838500
+%eng:	mmhm
 *ANO:	(dy)na fo . 1838732_1839121
-%eng:	there it is
-*MSA:	xx bues i yn yr xx heddiw . 1839091_1840686
-%eng:	[..] I was at the [...] today
-*MSA:	wel (.) oedd y dynes yr hogar@s:spa yn deu(d) (wr)tha fi (.) er@s:cym&spa +"/. 1840702_1843575
+%eng:	there we go
+*MSA:	ie bues i yn yr hogar@s:spa heddiw . 1839091_1840686
+%eng:	yes, I was at the residence today
+*MSA:	wel (.) oedd y dynes yr hogar@s:spa yn deu(d) (wr)tha fi (.) uh +"/. 1840702_1843575
 %eng:	well, the residence woman was telling me:
 *MSA:	[- spa] +" che xxx yo digo . 1845307_1847565
 %eng:	hey, [...],  I say.
 %com:	the first part seems Welsh
 *MSA:	[- spa] es que uno lo tiene que [/] que hacer yo digo . 1847606_1851243
 %eng:	is that one has to do it, I say
-*MSA:	volver@s:spa al@s:spa ardd [?] bueno@s:spa él@s:spa no@s:spa está@s:spa pero@s:spa Nina@s:cym&spa . 1851978_1856163
-%eng:	to return to the garden well, he isn't but Nina.
+*MSA:	volver@s:spa al@s:spa [/] al@s:spa hogar@s:spa bueno@s:spa él@s:spa no@s:spa está@s:spa pero@s:spa Nina@s:cym&spa . 1851978_1856163
+%eng:	to return to the residence well, he isn't, but Nina
 *ANO:	ah@s:cym&spa Nina@s:cym&spa ie wel (dy)na fo ! 1856259_1857746
 %eng:	ah Nina, right, well there you are
-*ANO:	mae er@s:cym&spa [///] er@s:cym&spa ers wythnos yn_ôl <oedd yr> [//] er@s:cym&spa oedd (y)na wyth mlynedd <o pan oedd y [/] yr [/] yr home@s:eng> [?] yn cael ei agor . 1857817_1865500
+*ANO:	mae uh [///] uh ers wythnos yn_ôl <oedd yr> [//] uh oedd (y)na wyth mlynedd <o pan oedd y [/] yr [/] yr home@s:eng yn cael ei agor . 1857817_1865500
 %eng:	since a week ago it's been eight years from when the home was opened
 *ANO:	wyth mlynedd . 1866564_1867144
 %eng:	eight years
 *MSA:	ah@s:cym&spa wel mae o wedi pasio ? 1866895_1868537
-%eng:	oh, it's passed?
+%eng:	ah well, it's passed?
 *ANO:	yndy yndy yndy . 1868510_1869363
 %eng:	yes it has
-*MSA:	oh (dy)na ti achos o(eddw)n i (ddi)m cofio xxx . 1869154_1871958
-%eng:	oh, there you are, because I couldn't remember [...]
-*MSA:	dos [?] i â presant iddyn nhw y llynedd yli . 1872038_1874012
+*MSA:	oh (dy)na ti achos o(eddw)n i (ddi)m cofio nos Sul os xx . 1869154_1871958
+%eng:	oh, there you are, because I couldn't remember Sunday evening if [...]
+*MSA:	dos i â presant iddyn nhw y llynedd yli . 1872038_1874012
 %eng:	I took them a present last year you know
 *ANO:	aha@s:cym&spa ? 1874176_1874646
-*MSA:	ond er@s:cym&spa wnaeth [//] o(eddw)n i (ddi)m yn cofio +/. 1874630_1876023
+%eng:	aha?
+*MSA:	ond uh wnaeth [//] o(eddw)n i (ddi)m yn cofio +/. 1874630_1876023
 %eng:	but, er, I didn't remember...
-*ANO:	wyth mlynedd ac er@s:cym&spa Nina@s:cym&spa oedd yr un cynta xxx . 1875721_1878205
-%eng:	eight years, and Nina was the first one, [...]
+*ANO:	+< wyth mlynedd ac uh Nina@s:cym&spa oedd yr un cynta yndy (y)dych chi (y)n cofio ? 1875721_1878205
+%eng:	eight years, and Nina was the first one, do you remember?
 *MSA:	eh@s:cym&spa ? 1878204_1878605
+%eng:	eh?
 *ANO:	Nina@s:cym&spa oedd yr un cynta (y)na . 1878593_1879766
 %eng:	Nina was the first one there
-*MSA:	Nina@s:cym&spa oedd (y)r un cynta ie ie . 1879488_1881305
+*MSA:	Nina@s:cym&spa oedd (y)r un cynta ie . 1879488_1881305
 %eng:	Nina was the first, yes
+*ANO:	ie . 1880994_1881337
+%eng:	yes
 *ANO:	maen nhw (y)n ddau_ddeg saith rŵan . 1881797_1883034
-%eng:	there's 27 of them now
-*MSA:	hm@s:cym&spa ? 1883387_1883689
+%eng:	there are 27 of them now
+*MSA:	hmm ? 1883387_1883689
+%eng:	hmm?
 *ANO:	maen nhw (y)n ddau_ddeg saith rŵan . 1884113_1885744
 %eng:	there are 27 of them now
 *MSA:	dau_ddeg s(aith) +//. 1886070_1886476
-%eng:	27 ...
+%eng:	27
 *MSA:	oh &=noise ! 1886476_1886958
-*ANO:	&=grunt . 1887290_1887563
+%eng:	oh
+*ANO:	+< &=grunt . 1887290_1887563
 *MSA:	oh ie xx +/. 1888667_1889318
 %eng:	oh yes...
 *ANO:	+< yn gormod . 1889039_1889527
 %eng:	too many
-*MSA:	er@s:cym&spa naci <mae o> [/] mae o wneud fi (y)n (.) er@s:cym&spa (.) gweld [?] +... 1890080_1894068
-%eng:	er, no, it makes me... see...
+*MSA:	uh naci <mae o> [/] mae o wneud fi (y)n (.) uh (.) gweld [?] +... 1890080_1894068
+%eng:	er, no, it makes me.. . see...
 *ANO:	ie ie ie na na dw i (y)n gweld [?] +//. 1894824_1896664
 %eng:	yes, no I see...
-*ANO:	um@s:cym&spa um edrych ar Nina@s:cym&spa . 1896818_1898194
+*ANO:	um um edrych ar Nina@s:cym&spa . 1896818_1898194
 %eng:	um, look at Nina
 *ANO:	&=mumble <does dim> [//] (dy)dy ddim yr un fath pob dydd o_gwbl . 1898200_1901489
 %eng:	it's not the same every day at all
@@ -2103,7 +2314,7 @@
 %eng:	no
 *ANO:	diwrnod o_blaen oedd hi xx &ba +//. 1906586_1907736
 %eng:	the other day she...
-*ANO:	tro diwetha o(eddw)n i (y)na oedd hi yn gofyn sut oedd er@s:cym&spa anti Hilda@s:cym&spa a anti Carys@s:cym&spa . 1907783_1912153
+*ANO:	tro diwedda o(eddw)n i (y)na oedd hi yn gofyn sut oedd uh anti Hilda@s:cym&spa a anti Carys@s:cym&spa . 1907783_1912153
 %eng:	last time I was there she was asking how Auntie Hilda and Auntie Carys were
 *MSA:	na . 1914139_1914551
 %eng:	no
@@ -2112,51 +2323,57 @@
 *MSA:	na . 1915340_1915670
 %eng:	no
 *ANO:	wel mae [/] mae (y)n sylweddoli wedyn be hi (we)di deud . 1915717_1917638
-%eng:	wel she realises then what she's said
+%eng:	well then she realises what she's said
 *MSA:	ie . 1917662_1918080
 %eng:	yes
-*MSA:	na (.) na oh (dy)na fo . 1918265_1920518
-%eng:	no, oh there we are
+*MSA:	na (.) na ond (dy)na fo . 1918265_1920518
+%eng:	no, but there we are
 *ANO:	felly mae . 1921150_1921684
 %eng:	that's how it is
-*MSA:	xx . 1921735_1922310
-*MSA:	dw i +... 1923424_1923889
+*MSA:	be wnei di ? 1921735_1922310
+%eng:	what can you do?
+*MSA:	dw i (y)n +... 1923424_1923889
 %eng:	I...
-*ANO:	dan ni (y)n er@s:cym&spa +... 1927112_1928239
+*ANO:	dan ni (y)n uh +... 1927112_1928239
 %eng:	we're...
-*ANO:	mae (y)r er@s:cym&spa pwyllgor y cymdeithas yn cael (.) sgwrs fan hyn heddiw (.) rŵan am +/. 1928853_1934159
-%eng:	the Society's committee are having a talk here today, now about...
+*ANO:	mae (y)r uh pwyllgor y cymdeithas yn cael (.) sgwrs fan hyn heddiw (.) rŵan am +/. 1928853_1934159
+%eng:	the Society's committee is having a talk here today, now about...
 *MSA:	pwy ? 1934264_1934798
 %eng:	who
 *ANO:	pwyllgor y cymdeithas Cymraeg . 1934929_1936218
 %eng:	the committee of the Welsh society
-*MSA:	xx pwy [/] pwy (y)dy (y)r rhain rŵan ? 1935828_1937851
+*MSA:	+< xx pwy [/] pwy (y)dy (y)r rhain rŵan ? 1935828_1937851
 %eng:	[..] who are they now?
-*MSA:	<wyt ti> [/] wyt ti (y)n <yr brif un> [?] ? 1937863_1939477
-%eng:	are you the main one?
+*MSA:	<wyt ti> [/] wyt ti (y)n yr brif ddyn ? 1937863_1939477
+%eng:	are you the main guy?
 *ANO:	mm +... 1939508_1940013
+%eng:	mm
 *MSA:	wyt ti +//? 1939955_1940605
 %eng:	are you...?
-*MSA:	ti (y)dy o +!? 1940587_1941301
-%eng:	it's you!?
+*MSA:	ti (y)dy o +! ? 1940587_1941301
+%eng:	it's you?!
 *ANO:	yndw [=! laughs] ! 1941191_1941888
 %eng:	yes
-*MSA:	ie +!? 1941847_1942428
-%eng:	really!?
+*MSA:	ie +! ? 1941847_1942428
+%eng:	yes?!
 *ANO:	ie ie ie . 1942420_1943395
 %eng:	yes, yes
-*MSA:	xxx pwy xx +/. 1943496_1944640
-*ANO:	a wedyn mae Chris@s:cym&spa um ac um Oscar@s:cym&spa . 1943842_1947180
+*MSA:	ah@s:cym&spa o(eddw)n i (ddi)m yn gwybod hynna . 1943496_1944640
+%eng:	ah, I didn't know that
+*ANO:	+< a wedyn mae Chris@s:cym&spa um ac um Oscar@s:cym&spa . 1943842_1947180
 %eng:	and then there's Chris and Oscar
-*ANO:	um@s:cym&spa Iona@s:cym&spa er@s:cym&spa Hughes@s:cym&spa . 1947756_1951344
+*ANO:	um Iona@s:cym&spa uh Hughes@s:cym&spa . 1947756_1951344
+%eng:	um, Iona Hughes
 *MSA:	pwy ? 1951383_1951795
 %eng:	who?
 *ANO:	Iona@s:cym&spa (.) gwraig Tudur@s:cym&spa . 1951946_1953298
 %eng:	Iona, Tudur's wife
 *MSA:	ah@s:cym&spa (.) ah@s:cym&spa Iona@s:cym&spa . 1953480_1954908
+%eng:	ah, Iona
 *ANO:	yndy . 1954885_1955159
 %eng:	yes
 *MSA:	Iona@s:cym&spa ah@s:cym&spa . 1955159_1956250
+%eng:	Iona, ah
 *ANO:	a wedyn dan ni isio +//. 1956965_1958056
 %eng:	and then we want...
 *ANO:	wrth bod y capel um (.) Bethel@s:cym&spa +//. 1958051_1961737
@@ -2170,27 +2387,34 @@
 *ANO:	mil naw cant a deg dwy fil a deg . 1968055_1970324
 %eng:	1910, 2010
 *MSA:	oh ! 1970299_1971071
-*ANO:	a wedyn dan ni ddim yn gwybod yn iawn (..) er@s:cym&spa pwy dydd ydy o i (y)r dim . 1971341_1976627
+%eng:	oh!
+*ANO:	a wedyn dan ni ddim yn gwybod yn iawn (..) uh pwy dydd ydy o i (y)r dim . 1971341_1976627
 %eng:	and then we don't really know which day it is at all
-*MSA:	gwranda ! 1976732_1977412
-%eng:	listen!
+*MSA:	+< uh gwranda ! 1976208_1977375
+%eng:	er, listen!
 *ANO:	mm +... 1977424_1977911
+%eng:	mm
 *MSA:	dach chi wedi (.) xxx o Esquel@s:cym&spa do ? 1978652_1982257
-%eng:	you've [...] from Esquel, have you?
+%eng:	you've [...] from Esquel, haven't you?
 *ANO:	eh@s:cym&spa ? 1982248_1982660
+%eng:	eh?
 *MSA:	Esquel@s:cym&spa +/. 1982719_1983346
-*ANO:	wel dan [//] er@s:cym&spa dyna [/] dyna ni (we)di dechrau wneud . 1983341_1985320
+%eng:	Esquel
+*ANO:	wel dan [//] uh dyna [/] dyna ni (we)di dechrau wneud . 1983341_1985320
 %eng:	well that's what we've started to do
 *MSA:	+< xxx . 1984217_1985129
+%eng:	[...]
 *ANO:	xx <(dy)dy o (ddi)m yn wneud> [//] (dy)dy (y)r peth dim (we)di orffen eto . 1985622_1987644
 %eng:	it's not finished yet
+*MSA:	+< ie . 1987526_1987985
+%eng:	yes
 *MSA:	ie . 1987592_1987853
 %eng:	yes
 *ANO:	ond dyna be dan i (y)n wneud . 1987638_1988491
 %eng:	but that's what we're doing
 *MSA:	ia . 1988558_1988889
 %eng:	yes
-*ANO:	a wedyn er@s:cym&spa dan ni (y)n meddwl +"/. 1989016_1991743
+*ANO:	a wedyn uh dan ni (y)n [//] yn meddwl +"/. 1989016_1991743
 %eng:	and then we're thinking:
 *ANO:	+" be wnawn ni i (y)r canmlwyddiant (y)na ? 1992526_1994988
 %eng:	what will we do for that centenary?
@@ -2203,13 +2427,13 @@
 *ANO:	ond gallwn ni (ddi)m gael gwybod hynny . 2000170_2001553
 %eng:	but we can't find that out
 *ANO:	ond (dy)na fo . 2001541_2002017
-%eng:	but that's it
+%eng:	but there we go
 *ANO:	ond dan ni (we)di meddwl bod cynta Fawrth día@s:spa Dewi_Sant yn [/] yn +/. 2002010_2004895
-%eng:	but we thought that 1st March, St. David's day...
+%eng:	but we thought that 1st March, St. David's day is...
 *MSA:	+< yndy yn ddiwrnod iawn i wneud o . 2004355_2006172
 %eng:	yes, is the right day to do it
 *ANO:	+< xx yn ddiwrnod iawn i wneud o . 2005527_2006984
-%eng:	[..] is the right day to do it
-*ANO:	a wedyn xx dan ni (we)di penderfynu y fydden ni (y)n [/] (.) yn [//] wel yn galw bobl i dod â syniadau i_fewn (.) i gael weld be gallwn ni wneud . 2006971_2014438
-%eng:	and then [..] we've decided that we'll... well, call on people to bring ideas in, to see what we can do
+%eng:	[...] is the right day to do it
+*ANO:	a wedyn fel hyn dan ni (we)di penderfynu a fydden ni (y)n [/] (.) yn [//] wel yn galw bobl i dod â syniadau i_fewn (.) i gael weld be gallwn ni wneud . 2006971_2014438
+%eng:	and then that's how we've decided and we'll... well, call on people to bring ideas in, to see what we can do
 @End
