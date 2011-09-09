@@ -15,47 +15,46 @@
 @Media:	Patagonia41, audio
 @Comment:	Filename: Patagonia41.cha; Soundfile: Patagonia41.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Comment:	Spanish or potentially Spanish passages are marked with $ and need to be checked/transcribed.
-@Comment:	Welsh has been transcribed generally. Whereever something was unclear I left it as xxx rather than guessing in case I made a Welsh guess for something that was really Spanish. So I marked all the xxxs with a $ so they could be checked to see which of them are Spanish and filled in accordingly. Afterwards it may be possible to guess the Welsh for some of the remaining xxxs.
 *MAD:	a mae (y)r (.) &kad &k cadair +... 5_2544
 %eng:	and the chair is...
 *DOM:	ie ? 2475_3147
 %eng:	yes?
-*MAD:	+< neu mwy na un cadair <wn i ddim> [?] <sut uh> [/] sut dych chi (y)n dweud &=laugh . 2731_7558
-%eng:	or more than one chair, I don't know how you say that.
-*MAD:	uh +... 7457_8668
-%eng:	uh...
+*MAD:	+< neu mwy na un cadair wn i ddim <sut uh> [/] sut dych chi (y)n dweud &=laugh . 2731_7558
+%eng:	or more than one chair, I don't know how you say.
+*MAD:	um +... 7457_8668
+%eng:	um...
 *MAD:	ie i eistedd i bobl [//] uh pobl eistedd . 9250_11442
 %eng:	yes, for people to sit.
 *MAD:	ti (y)n gofio ? 11416_12114
 %eng:	do you remember?
-*MAD:	<uh oedd um> [//] roedd raid i ni prynu cadair . 12109_15311
+*MAD:	<uh oedd uh> [//] roedd raid i ni (.) prynu cadair . 12109_15311
 %eng:	we had to buy a chair.
-*DOM:	xxx na . 15364_16634
-%eng:	xxx no.
+*DOM:	oedd oedd na . 15364_16634
+%eng:	we did, no.
 *MAD:	+< ti (y)n cofio ? 15514_16346
 %eng:	do you remember?
-*DOM:	na maen nhw mwy cyfforddus <nawr (he)fyd> [?] . 16634_18383
+*DOM:	na maen nhw mwy cyfforddus nawr (he)fyd . 16634_18383
 %eng:	no, they are more comfortable now as well.
-*DOM:	<mae (y)n roi> [?] mwy o le hefyd . 18756_20154
-%eng:	it gives more spaces as well.
-*DOM:	mae hawsach i ni drefnu yndy ? 20132_21796
-%eng:	it's easier for us to organise, isn't it?
+*MAD:	&=sniff . 18388_18676
+*DOM:	mae roi mwy o le hefyd . 18756_20154
+%eng:	it gives more space as well.
+*DOM:	mae o (y)n hawsach i ni drefnu yndy ? 20132_21796
+%eng:	it's easier for us to arrange, isn't it?
 *MAD:	yndy yndy mae +/. 21793_23947
 %eng:	yes, it is...
-*DOM:	+< ond dyna fo ymlaen â ni (yn)te . 22998_25121
+*DOM:	+< ond dyna fo (.) ymlaen â ni (yn)te . 22998_25121
 %eng:	but there we are, on we go.
 *MAD:	mmhm . 25174_26241
-%eng:	yes.
+%eng:	mmhm.
 *DOM:	ie wir . 26292_27775
 %eng:	yes indeed.
-*DOM:	uh (.) meddwl y peth arall um (.) uh am anrhegion . 27817_35794
-%eng:	thinking of something else, of presents.
+*DOM:	uh (.) meddwl y peth arall uh (.) uh am anrhegion . 27817_35794
+%eng:	thinking about something else, about presents.
 *DOM:	pwy sy (y)n trefnu (ei)n anrhegion mae raid i ni gael . 35962_39333
 %eng:	who is organising the presents we need to have.
 *MAD:	+< ie . 38096_38682
 %eng:	yes.
-*MAD:	<beth uh (.)> [/] beth uh diddorol iawn achos <mae (y)r (.)> [/] mae (y)r plant eisiau anrhegion +... 39269_48068
+*MAD:	<beth uh (.)> [/] beth uh diddorol iawn achos <mae (y)r um (.)> [/] mae (y)r plant eisiau anrhegion +... 39269_48068
 %eng:	a very interesting thing, because the children want presents...
 *DOM:	yndyn . 48025_48516
 %eng:	yes.
@@ -63,34 +62,36 @@
 %eng:	...for competing, and the little bags as well.
 *DOM:	ie ie . 53015_54423
 %eng:	yes.
-*MAD:	+< mm +... 53633_54508
-%eng:	yes.
+*MAD:	+< mm . 53633_54508
+%eng:	mm.
 *MAD:	mae [/] mae (y)n ddiddorol iawn iddyn nhw . 54508_56215
-%eng:	it is very interesting for them.
-*DOM:	+< mae rywun yn gweld nhw mor hapus ar_ôl gael yr anrheg ynde ie . 55715_60326
+%eng:	it's very interesting for them.
+*DOM:	+< mae rywun yn gweld nhw mor hapus ar_ôl (.) cael yr anrheg ynde ie . 55715_60326
 %eng:	they look so happy when they've had the present, yes.
-*MAD:	+< yndy yndy . 59409_60892
+*MAD:	+< &i yndy yndy . 59409_60892
 %eng:	yes.
+*DOM:	+< mm . 59906_60514
+%eng:	mm.
 *MAD:	felly mae uh Melissa@s:cym&spa dy [/] dy gwraig di (.) yn gallu wneud y +... 60998_65933
 %eng:	so Melissa, your, wife can do the...
 *DOM:	yndy mae (y)n +... 65912_66872
-%eng:	yes, she does...
-*MAD:	mae hi (y)n uh (.) uh +... 66872_69679
-%eng:	she does...
-*DOM:	++ yn helpu (y)chydig pob blwyddyn (yn)de . 69615_71407
-%eng:	...help a bit every year.
+%eng:	yes, she...
+*MAD:	&m mae hi (y)n um (.) um +... 66612_68634
+%eng:	she, um...
+*DOM:	++ yn helpu (y)chydig pob blwyddyn ynde . 69615_71407
+%eng:	...helps a bit every year.
 *MAD:	ie a mae hi <wedi &m (.)> [//] wedi cael uh (.) practis uh dim +//. 71407_79471
 %eng:	yes, and she has had practice, not...
-*MAD:	mae hi (y)n ymarfer [?] i w wneud o ie ? 79456_82528
+*MAD:	mae hi (y)n arfer (.) i w wneud o ie ? 79456_82528
 %eng:	she is used to doing it, yes?
 *DOM:	+< yndy yndy yndy mae wedi arfer yndy . 80874_83694
 %eng:	yes, she is used to it.
 *MAD:	ie . 83726_84430
 %eng:	yes.
-*MAD:	a mae (y)r uh [//] mae &ɬedig (y)chydig o [/] o (.) merched uh ifanc (.) yn (.) neis iawn rŵan <yn y> [/] yn y um +... 84406_96884
-%eng:	and there are a few young women, very nice, in the...
-*DOM:	+< uh uhuh . 94666_95636
-%eng:	yes.
+*MAD:	a mae (y)r uh [//] mae &ɬedig (y)chydig o [/] o (.) merched uh ifanc (.) yn (.) neis iawn rŵan <yn y> [/] yn y uh +... 84406_96884
+%eng:	and there are a few very nice young women now, in the...
+*DOM:	+< uh uh . 94666_95636
+%eng:	er...
 *MAD:	+, yn y pwyllgor no@s:spa ? 97343_99540
 %eng:	...in the committee, aren't there?
 *DOM:	oes mae (y)na <criw bach uh> [/] criw bach neis o merched ifanc . 99581_104776
@@ -98,25 +99,27 @@
 *MAD:	+< yndy . 103976_104776
 %eng:	yes.
 *DOM:	xxx . 104691_105651
-%eng:	xxx.
+%eng:	[...]
+*MAD:	+< yndy . 104967_105367
+%eng:	yes.
 *MAD:	yndy . 105533_106173
 %eng:	yes.
-*DOM:	a mae (y)na ddim (.) yn perthyn [?] i Gymry . 106171_111007
-%eng:	and there are ones who are not related to Welsh people.
-*DOM:	xxx [//] maen nhw ddim yn um +... 110977_115096
-%eng:	they are not...
+*DOM:	a mae (y)na ddim (..) yn perthyn i Gymry . 106171_111007
+%eng:	and none of them are related to the Welsh.
+*DOM:	i &cym uh (.) maen nhw ddim yn um +... 110977_115096
+%eng:	to Wal... they aren't...
 *MAD:	+< ychydig ohonyn nhw no@s:spa ? 113563_114992
-%eng:	few of them, are there?
+%eng:	a few of them, no?
 *DOM:	na . 115035_115600
 %eng:	no.
 *MAD:	dim o gwbl . 115622_116806
-%eng:	not at all.
+%eng:	none at all.
 *MAD:	ond &m <felly dan ni (y)n gallu i um (.)> [//] felly <dan ni (y)n> [/] dan ni (y)n gallu dweud o@s:spa meddwl bod yr eisteddfod <wedi &b> [//] wedi dod <i (y)r um (.)> [/] i (y)r uh (.) ah@s:cym&spa &traðo &traðodial no@s:spa (.) a@s:eng custom@s:eng uh una@s:spa costumbre@s:spa +... 116781_140049
-%eng:	but thus we can say or think that the eisteddfod has become a custom...
+%eng:	but we can say then or think that the eisteddfod has become a custom...
 *MAD:	sut dach chi (y)n dweud costumbre@s:spa ["] ? 139986_141788
 %eng:	how do you say "custom"?
 *DOM:	mm arferiad ["] . 141795_143225
-%eng:	"custom" .
+%eng:	"custom".
 *MAD:	+< traddodiad . 142233_143246
 %eng:	tradition.
 *MAD:	eh@s:cym&spa ? 143193_143683
@@ -128,19 +131,19 @@
 *DOM:	ie . 147555_148163
 %eng:	yes.
 *MAD:	mae pawb yn gwybod be(th) [/] beth ydy (y)r eisteddfod a pawb yn cystadlu pawb yn helpu a [/] a pawb yn uh rhannu <(y)r um> [/] yr pwyllgor no@s:spa ? 148100_160285
-%eng:	everybody knows what the eisteddfod is and everybody competes, everybody helps and everybody shares in the committee, don't they?
-*DOM:	ie rannu (y)r gwaith . 160333_161765
-%eng:	yes, share the work.
+%eng:	everybody knows what the eisteddfod is and everybody competes, everybody helps and everybody shares the committee, don't they?
+*DOM:	mm rannu (y)r gwaith . 160333_161765
+%eng:	mm, share the work.
 *MAD:	ie . 161627_162235
 %eng:	yes.
 *DOM:	ie . 162395_162811
 %eng:	yes.
 *MAD:	ie ie . 162712_163341
 %eng:	yes.
-*DOM:	+< ie xxx . 163000_164749
-%eng:	yes, xxx.
+*DOM:	+< ie xxx sylweddoli am hynny . 163000_164749
+%eng:	yes, [...] realise that.
 *DOM:	merched ifanc a dim [/] dim Cymry dyn nhw yndy ond maen nhw (y)n gweithio mor neis yndy . 165033_170334
-%eng:	young women, and the aren't Welsh, but they work so nicely.
+%eng:	young women, and they aren't Welsh, but they work so nicely.
 *MAD:	yndy yndy . 170267_171771
 %eng:	yes.
 *DOM:	dyna fo . 171803_172805
@@ -159,64 +162,75 @@
 %eng:	yes, killed a heifer for everybody.
 *MAD:	+< a roedd +... 190739_191678
 %eng:	and...
-*MAD:	ie &=laugh a roedd (f)yn nhad <yn uh> [/] yn rhoid y um cow@s:eng +... 193353_198917
+*MAD:	ie <a roedd (f)yn nhad> [=! laughs] <yn uh> [/] yn rhoid y &t uh mm cow@s:eng +... 193353_198917
 %eng:	and my dad gave a cow...
 *MAD:	ie ? 199013_199664
 %eng:	yes?
 *MAD:	no@s:spa buwch ["] . 199621_200592
 %eng:	no, "cow" .
+*DOM:	+< ie . 199647_200057
+%eng:	yes.
 *DOM:	ie . 200592_201157
 %eng:	yes.
 *MAD:	buwch ["] ie . 201110_202220
-%eng:	"cow" .
+%eng:	"cow", yes.
+*DOM:	+< ie . 201587_202115
+%eng:	yes.
 *MAD:	uh ie . 203030_203980
 %eng:	yes.
-%com:	does this mean anything in Spanish? If not, leave it as "uh" .
+*DOM:	+< ie . 203233_203446
+%eng:	yes.
 *MAD:	no@s:spa <mae rŵan yn uh um> [//] mae ryw grŵp arall yn [/] yn paratoi y swper no@s:spa ? 203926_210790
 %eng:	no, some other group is preparing the dinner now, aren't they?
 *DOM:	+< ie . 208676_209369
 %eng:	yes.
-*DOM:	ysgolion a <pethau felly> [?] ynde ? 210707_213181
-%eng:	schools and things like that, is it?
+*DOM:	ysgolion a pethau <fel (y)na> [?] ynde ? 210707_213181
+%eng:	schools and things like that, isn't it?
 *MAD:	+< yndy . 212339_212915
 %eng:	yes.
 *MAD:	a <mae um (.)> [//] hefyd mae um (.) siop o@s:spa siopau uh arbennig i [/] i paratoi bwyd sy (y)n helpu (.) i (y)r grŵp no@s:spa ? 215021_228509
-%eng:	and also there are specialist shops who prepare food, which helps the group, doesn't it?
+%eng:	and also there are specialist shops who prepare food helping the group, aren't there?
 *DOM:	+< ie (.) (dy)na fo (dy)na fo . 228339_229726
 %eng:	yes, that's it.
 *MAD:	ie . 230138_231151
 %eng:	yes.
 *DOM:	ie . 231119_232037
 %eng:	yes.
-*DOM:	<wel dwn i (ddi)m> [?] (.) ie . 233470_237804
-%eng:	well, I don't know.
-*MAD:	[- spa] +< aja . 233695_234548
+*MAD:	mm &=sigh . 231540_233503
+%eng:	mm.
+*DOM:	wel xxx . 233470_237804
+%eng:	well, [...]
+*MAD:	[- spa] +< ajá . 233695_234548
 %eng:	aha.
-*MAD:	dan ni (y)n uh (.) erbyn <yr uh> [/] y pen_blwydd <o (y)r &d> [/] o (y)r dyffryn rŵan . 234548_242110
+*MAD:	dan ni (y)n um (.) erbyn <yr uh> [/] y penblwydd <o (y)r &d> [/] o (y)r dyffryn rŵan . 234548_242110
 %eng:	we are approaching the anniversary of the valley now.
-*DOM:	+< rŵan (dy)na ti pwnc arall yndy . 241363_244183
-%eng:	now that's another subject, yes.
+*DOM:	+< ie . 236890_237508
+%eng:	yes.
+*DOM:	+< wel (dy)na ti (.) pwnc arall yndy . 241363_244183
+%eng:	well, that's another subject, yes.
 *DOM:	daw (dy)na veinticinco@s:spa de@s:spa noviembre@s:spa yn [/] yn dod ymlaen yn fuan iawn . 245542_249681
 %eng:	the 25th of November is coming up very soon now.
 *MAD:	yndy ! 249629_250696
 %eng:	yes!
-*DOM:	a felly <fe wnawn ni> [?] trefnu helpu beth bynnag (.) efo (y)r uh pwyllgor <fydd yn gweithio> [?] yndy ? 250717_258879
-%eng:	and so we will organise with the committee that will be working, won't we?
+*DOM:	a felly fydd raid ni trefnu helpu beth bynnag (.) efo (y)r uh (.) pwyllgor fydd yn gweithio yndy ? 250717_258879
+%eng:	and so we will have to arrange to help with the committee that will be working, won't we?
+*MAD:	+< ie . 250751_251050
+%eng:	yes.
 *MAD:	yndy . 258887_259709
 %eng:	yes.
 *DOM:	fel [/] (.) fel cymdeithas . 259843_262770
 %eng:	as a community.
 *MAD:	+< &a (.) pa ran ? 259845_261444
 %eng:	xxx, which part?
-*DOM:	uh (..) pa ran bueno@s:spa . 263053_265906
-%eng:	uh, which part well.
-*DOM:	bydd raid i ni chwilio pwy fydd yn mynd â'r fflag a pwy fydd yn siarad a pwy +/. 266458_271005
+*DOM:	um (..) pa ran bueno@s:spa . 263053_265906
+%eng:	um, which part well.
+*DOM:	bydd raid i ni chwilio pwy fy(dd) yn mynd â'r fflàg a pwy fydd yn siarad a pwy +/. 266458_271005
 %eng:	we will have to work out who will carry the flag and who will speak and who...
 *MAD:	+< ah@s:cym&spa ti (y)n iawn . 270633_272020
 %eng:	ah, you're right.
-*MAD:	<yn yr yn yr uh (.) yn y (..)> [/] yn y cyfarfod arbennig (.) [/] arbennig yma yn yr +/. 272020_278944
+*MAD:	<yn yr> [/] yn yr uh (.) <yn y (..)> [/] yn y cyfarfod arbennig (.) [/] arbennig yma yn yr +/. 272020_278944
 %eng:	in the special meeting here in the...
-*DOM:	+< xxx (...) yn y cyfarfod uh y ddiwrnod hynny ynde . 272317_278963
+*DOM:	+< xxx (...) yn y cyfarfod uh y [/] y ddiwrnod hynny ynde . 272317_278963
 %eng:	xxx, in the meeting on that day.
 *MAD:	ah@s:cym&spa yndy yndy . 278957_280008
 %eng:	ah, yes.
@@ -225,8 +239,8 @@
 *MAD:	ie . 281346_281853
 %eng:	yes.
 *MAD:	wyt ti wedi &v uh +... 281874_283773
-%eng:	you have...
-*MAD:	fyddan ni (y)n helpu um (.) efo um help efo (y)r (.) te . 283920_289461
+%eng:	have you...
+*MAD:	fyddan ni (y)n helpu mm (.) efo mm help efo (y)r (.) te . 283920_289461
 %eng:	we will help with the tea.
 *DOM:	ie . 289685_290101
 %eng:	yes.
@@ -235,37 +249,37 @@
 *DOM:	+< ie (.) ie . 295621_296837
 %eng:	yes.
 *MAD:	yn uh Ajupete@s:cym&spa [?] . 296736_298272
-%eng:	in the xxx .
-*DOM:	uhuh . 299221_299824
-%eng:	yes.
+%eng:	in the [...]
+*DOM:	ah@s:cym&spa . 299221_299824
+%eng:	ah.
 *MAD:	+< fydd raid i fi baratoi uh teisen . 299225_302293
-%eng:	we will have to prepare a cake.
-*DOM:	+< uhuh . 301072_301867
-%eng:	yes.
+%eng:	I will have to prepare a cake.
+*DOM:	+< ah@s:cym&spa . 301072_301867
+%eng:	ah.
 *MAD:	a +/. 303233_303852
 %eng:	and...
-*DOM:	+< el@s:spa que@s:spa preparó@s:spa hoy@s:spa el@s:spa(.) [//] preparó@s:spa hoy@s:spa el@s:spa te@s:cym&spa . 303240_305889
-%eng:	the one who made today tea.
+*DOM:	+< el@s:spa que@s:spa preparó@s:spa hoy@s:spa el@s:spa (.) [//] preparó@s:spa hoy@s:spa el@s:spa te@s:cym&spa . 303240_305889
+%eng:	the one who made tea today.
 *MAD:	ie . 305830_306422
 %eng:	yes.
-*MAD:	fydda i xxx +/. 306677_307685
+*MAD:	fydda i (y)n &para &pa +/. 306677_307685
 %eng:	I will...
 *DOM:	+< uh dw i (ddi)m siŵr fydd [/] fydd (y)na gonsert siŵr ynde ? 307249_310087
-%eng:	I'm not sure if there will be a concert?
+%eng:	I'm not sure, there'll be a concert surely, won't there?
 *MAD:	yndy [//] oes . 310095_311156
 %eng:	yes, there will be.
 *DOM:	eh ? 311299_311891
 %eng:	eh?
 *MAD:	+< bydd fydd fydd fydd (.) fydd . 311416_313363
-%eng:	yes, yes.
+%eng:	yes, yes there will be.
 *MAD:	cyngerdd [/] cyngerdd am hanner awr wedi saith . 313850_316985
 %eng:	a concert at half past seven.
-*DOM:	+< xxx (...) uhuh . 313875_317673
-%eng:	xxx, yes.
-*DOM:	xxx +/. 318370_319247
-%eng:	xxx.
-*MAD:	+< uh mae Tulio@s:cym&spa (y)n (.) trefnu y +... 318372_321274
+*DOM:	+< xxx (...) ah@s:cym&spa . 313875_317673
+%eng:	[...], ah.
+*MAD:	uh mae Tulio@s:cym&spa (y)n (.) trefnu y +... 318372_321274
 %eng:	Tulio is organising the...
+*DOM:	+< xxx . 318535_319394
+%eng:	[...]
 *DOM:	+< oh <mae o (y)n> [/] mae o (y)n uh +... 320430_322110
 %eng:	oh, he is...
 *MAD:	++ trefnu (y)r uh +... 322003_323080
@@ -274,20 +288,20 @@
 %eng:	that's it.
 *DOM:	mae popeth yn iawn . 322897_323830
 %eng:	everything is fine.
-*MAD:	cyngerdd [?] . 323645_324477
+*MAD:	cyngerdd . 323645_324477
 %eng:	concert.
 *DOM:	+< popeth yn iawn . 324150_325009
 %eng:	everything is okay.
 *MAD:	bydd y côr um (.) um (.) &he Seion@s:cym&spa +... 325052_329676
-%eng:	the choir of Seion will...
+%eng:	the Seion choir will...
 *DOM:	ie . 329591_330188
 %eng:	yes.
 *MAD:	+, a côr Carys@s:cym&spa +... 330215_331420
 %eng:	...and Carys' choir...
 *DOM:	(dy)na fo . 331414_332002
 %eng:	that's it.
-*MAD:	+< +, côr Trefelin@s:cym&spa +... 331415_332338
-%eng:	...the Trefelin choir...
+*MAD:	+< +, côr Trevelin@s:cym&spa +... 331415_332338
+%eng:	...the Trevelin choir...
 *DOM:	(dy)na fo . 332306_332764
 %eng:	that's it.
 *MAD:	+, a (y)r teulu Diaz@s:cym&spa +... 332789_334405
@@ -295,24 +309,24 @@
 *DOM:	oh ! 334950_335633
 %eng:	oh!
 *MAD:	+, a (y)r grŵp uh +... 335547_337051
-%eng:	...and the group...
+%eng:	...and the group, er...
 *DOM:	y bechgyn (y)ma . 336966_337963
 %eng:	these boys.
-*MAD:	bechgyn sut uh (..) sut mae o (y)n galw (y)r &ge grŵp yna ? 337946_342803
-%eng:	boys, who does he call that group?
-*DOM:	rŵan [?] dw i ddim yn siŵr <be(th) (y)dy> [/] be(th) (y)dy enw fo . 342817_344998
-%eng:	well. I'm not sure what it is called.
-*MAD:	+< ie . 342838_343441
-%eng:	yes.
-*MAD:	xxx +/. 345477_345989
-%eng:	xxx.
+*MAD:	bechgyn <sut uh (..)> [/] sut mae o (y)n galw (y)r &ge grŵp yna ? 337946_342803
+%eng:	boys, what does he call that group?
+*DOM:	wel dw i ddim yn siŵr <be(th) (y)dy> [/] be(th) (y)dy enw fo . 342817_344998
+%eng:	well, I'm not sure what it's called.
+*MAD:	+< uh . 342838_343441
+%eng:	er...
+*MAD:	bueno@s:spa +/. 345477_345989
+%eng:	right.
 *DOM:	ond maen nhw (y)n reit dda wir . 346083_347459
 %eng:	but they are quite good.
 *MAD:	+< +, plant [/] plant ni &=laugh . 346846_350454
 %eng:	our children.
 *DOM:	+< &=laugh . 348662_350454
 *MAD:	ie mae [/] mae Agustín@s:cym&spa &al Bob@s:cym&spa Tulio@s:cym&spa a (.) uh +... 350461_355253
-%eng:	yes, there are Agustín, Bob, Tulio and...
+%eng:	yes, there's Agustín, Bob, Tulio and er...
 *DOM:	+< Anselmo@s:cym&spa . 355507_356691
 %eng:	Anselmo.
 *MAD:	nage Anselmo@s:cym&spa ddim yn canu yna . 356643_358472
@@ -333,23 +347,27 @@
 %eng:	...singing there.
 *MAD:	nhw (y)n canu (y)n neis yndy ? 364528_365696
 %eng:	they sing nicely, don't they?
-*DOM:	xxx neis wir da iawn . 365434_367598
-%eng:	xxx very nice, very good.
-*MAD:	maen nhw (y)n plant (.) o (..) o um (.) plant sy wedi &b uh (..) tynnu <fa(n) (y)ma> [?] yn Trefelin@s:cym&spa no@s:spa ? 367897_378272
-%eng:	they are children who have been brought up here in Trefelin, aren't they?
+*DOM:	neis [/] neis wir da iawn . 365434_367598
+%eng:	nice, very nice, very good.
+*MAD:	+< xxx . 366395_367110
+%eng:	[...]
+*MAD:	maen nhw (y)n plant (.) o (..) o um (.) plant sy wedi &b uh (..) tynnu o (y)ma yn Trevelin@s:cym&spa no@s:spa ? 367897_378272
+%eng:	they are children who have been brought up here in Trevelin, aren't they?
 *DOM:	ie ! 378192_378598
 %eng:	yes!
 *MAD:	ie ? 378568_379005
 %eng:	aren't they?
-*DOM:	plant efo gwreiddiau cantorion i_gyd wir yndy &t &=laugh . 378994_381976
+*DOM:	plant efo gwreiddiau cantorion i_gyd wir (.) yndy &t &=laugh . 378994_381976
 %eng:	children with singers' roots all of them, yes.
+*MAD:	+< oh . 379501_380392
+%eng:	oh.
 *MAD:	+< yndy yndy yndy . 380797_382413
-%eng:	yes.
+%eng:	yes they are.
 *MAD:	(y)dy . 382749_383224
 %eng:	yes.
 *DOM:	ie . 383123_383640
 %eng:	yes.
-*MAD:	<a wedyn mae um (.) fydd y> [//] y diwrnod wedyn fydd uh ryw ffilm o (y)r B_B_C@s:spa B_B_C . 383914_392978
+*MAD:	<a wedyn mae um (.) fydd y> [//] y diwrnod wedyn fydd um ryw ffilm o (y)r B_B_C@s:spa B_B_C . 383914_392978
 %eng:	and the day after there will be some film from the BBC.
 *DOM:	ah@s:cym&spa ! 392989_394360
 %eng:	ah!
@@ -367,7 +385,7 @@
 %eng:	no.
 *MAD:	nage nage . 403267_404030
 %eng:	no, no.
-*MAR:	[- spa] no no no . 403523_404590
+*MAR:	+< no@s:spa (.) na na . 403523_404590
 %eng:	no, no, no.
 *MAD:	saith_deg +//. 405100_406210
 %eng:	seventy.
@@ -375,26 +393,26 @@
 %eng:	no.
 *MAR:	na . 407886_408227
 %eng:	no.
-*MAD:	chwe_deg dau . 408190_410702
+*MAD:	chwe_deg (.) dau . 408190_410702
 %eng:	sixty-two.
 *MAD:	mil naw chwe_deg dau . 411305_412659
 %eng:	1962 .
 *DOM:	+< ah@s:cym&spa ! 411827_413518
 %eng:	ah!
 *MAR:	+< xxx . 412451_412995
-%eng:	xxx.
-*DOM:	xxx dyna fo do (y)n_do dw i (we)di weld ran o(ho)no fo . 413518_416602
-%eng:	xxx, that's it, yes, I've seen part of it.
+%eng:	[...]
+*DOM:	xxx dyna fo do [/] do [//] (y)n_do dw i (we)di weld ran o(ho)no fo . 413518_416602
+%eng:	[...], that's it, yes, I've seen part of it.
 *MAD:	+< ie ? 415103_415402
 %eng:	have you?
 *MAD:	ah@s:cym&spa . 416628_417268
 %eng:	ah.
 *MAD:	oeddet ti ddim yna ? 417354_418591
-%eng:	you weren't in it?
+%eng:	you weren't there?
 *DOM:	na (.) na (.) na . 418559_421682
 %eng:	no.
-*DOM:	xxx Eben_Morris@s:cym&spa . 422449_426635
-%eng:	xxx Eben Morris.
+*DOM:	xxx wedi gweld uh rhan o fo yn lle Eben_Morris@s:cym&spa . 422449_426635
+%eng:	[...] I saw a part of it at Eben Morris' place.
 *MAD:	ah@s:cym&spa ! 426640_427648
 %eng:	ah!
 *DOM:	ie . 427760_428651
@@ -403,27 +421,27 @@
 %eng:	yes, Eben Morris is there and Vincent sings.
 *MAD:	ie ? 431915_432368
 %eng:	yes?
-*MAR:	ie . 432155_432416
+*MAR:	+< ie . 432155_432416
 %eng:	yes.
 *DOM:	ah@s:cym&spa ! 432373_432864
 %eng:	ah!
 *MAD:	ah@s:cym&spa +/. 432812_433772
 %eng:	ah .
-*DOM:	Mansel@s:cym&spa [/] Mansel_Davies@s:cym&spa . 433159_434866
+*DOM:	+< Mansel@s:cym&spa [/] Mansel_Davies@s:cym&spa . 433159_434866
 %eng:	Mansel Davies.
 *MAR:	mmhm . 434978_435687
-%eng:	yes.
+%eng:	mmhm.
 *MAD:	yn (.) pobl ifanc iawn . 435613_437341
 %eng:	as very young people.
 *MAR:	+< xxx . 436461_436887
-%eng:	xxx.
-*DOM:	xxx . 437282_438802
-%eng:	xxx.
+%eng:	[...]
+*DOM:	ay@s:spa eh@s:cym&spa . 437221_438357
+%eng:	ay, eh.
 *MAD:	pobl ifanc iawn no@s:spa ? 438802_439986
 %eng:	very young people, weren't they?
 *DOM:	ie . 439981_440450
 %eng:	yes.
-*MAD:	um (...) a wedyn dyn ni (y)n paratoi efo (y)r plant yr ysgol (...) uh <rhyw canu> [//] rhyw cân (.) yn yr um (.) graig (.) uh +/. 441025_455035
+*MAD:	um (..) a wedyn dyn ni (y)n paratoi efo (y)r plant yr ysgol (...) uh <rhyw canu> [//] &uw rhyw cân (.) yn yr um (.) graig (.) uh +/. 441025_455035
 %eng:	and then we are preparing with the school children to sing a song on the rock...
 *DOM:	+< graig goch . 454093_455042
 %eng:	red rock.
@@ -432,7 +450,7 @@
 *MAD:	a mae Agustín@s:cym&spa wedi gofyn <i ni (.)> [//] i (y)r plant i ganu . 455900_459132
 %eng:	and Agustín has asked the children to sing.
 *MAD:	a &ma mae Isabel_Diaz@s:cym&spa (.) yn dysgu yn yr ysgol a fydd hi (y)n paratoi y +... 459142_464961
-%eng:	and Isabel Diaz teaches in the school, and she will prepare...
+%eng:	and Isabel Diaz teaches in the school, and she will prepare the...
 *DOM:	dyna fo . 465129_465716
 %eng:	that's it.
 *MAD:	+, y plant . 465705_466729
@@ -440,48 +458,50 @@
 *DOM:	+< dyna fo . 465913_466601
 %eng:	that's it.
 *DOM:	&or +/. 466882_467565
-%eng:	xxx...
 *MAD:	bydd raid iddyn nhw &k uh cerdded i fyny . 467517_470088
 %eng:	they will have to walk up.
+*MAR:	mm . 470057_470750
+%eng:	mm.
 *DOM:	oh . 470768_471419
 %eng:	oh.
 *MAD:	a canu wedyn . 471408_472406
 %eng:	and then sing.
-*DOM:	dw i (y)n gweld bod e (.) yn hawddach o_hyd . 472395_475664
-%eng:	I can see that it is ever easier.
+*DOM:	dw i (y)n gweld bod e <(y)n (.)> [/] yn hawddach o_hyd . 472395_475664
+%eng:	I can see that it's getting easier and easier.
 *DOM:	mae (..) fwy o fobl i drefnu (y)n (y)r achos ynde . 475616_479839
 %eng:	there are more people involved in organising.
-*MAD:	+< xxx . 478906_480356
-%eng:	xxx.
+*MAD:	+< <o_hyd> [?] mae +/. 478906_480356
+%eng:	there's always...
 *DOM:	achos um (...) (er)s talwm oedd o (y)n anodd iawn . 480254_485114
-%eng:	because in the old days it was very difficult.
+%eng:	because it used to be very difficult.
+%com:	pronunciation: 'hanodd'
 *DOM:	o(edde)n ni (y)n (.) gorfod wneud [/] wneud y cwbl ynde . 485093_487959
 %eng:	we had to do the lot.
 *MAD:	ie . 487969_488364
 %eng:	yes.
-*MAD:	roedd raid i ni (.) uh paratoi (.) cystadlu (.) um (.) ymarfer i cystadlu +... 488396_496766
+*MAD:	roedd raid i ni (.) uh paratoi (.) cystadlu (.) um (.) ymarfer i cystadlu . 488396_496766
 %eng:	we had to prepare, compete, practice to compete...
 *MAD:	ti (y)n cofio ? 496755_497443
 %eng:	do you remember?
-*DOM:	ie dw i (y)n cofio (y)n iawn xxx . 497433_498878
-%eng:	yes, I remember well xxx.
+*DOM:	ie dw i (y)n cofio (y)n iawn pwtyn [?] . 497433_498878
+%eng:	yes, I remember well dear.
 *MAD:	+< <arwain y &g> [//] arwain ryw grŵp . 498094_500489
 %eng:	lead some group.
 *DOM:	ie . 500457_501156
 %eng:	yes.
-*MAD:	a mm ah@s:cym&spa clapio wedyn &=laugh . 500478_504788
+*MAD:	+< a mm [/] a clapio wedyn &=laugh . 500478_504788
 %eng:	and then give applause.
 *DOM:	+< &=laugh . 503231_504778
 *MAD:	a <&ve a prynu (y)r uh> [//] prynu (y)r anrheg a roi (y)r &an anrheg ac +/. 504742_509990
 %eng:	and buy the present and give the present and...
-*DOM:	a mynd â (y)r arian [?] (y)n_ôl xxx wedyn [?]. 509952_511675
+*DOM:	a mynd â (y)r arian (y)n_ôl xxx wedyn . 509952_511675
 %eng:	and take the money back afterwards...
 *MAD:	+< xxx &=laugh ie ie mynd xxx &=laugh . 510699_514375
-%eng:	xxx yes, go xxx.
+%eng:	[...] yes, take [...]
 *DOM:	+< &=laugh . 511975_512908
-*MAD:	uh (.) ti (y)n cofio &g uh yr eisteddfod gyntaf ? 514393_518541
+*MAD:	um (.) ti (y)n cofio &g uh &g yr eisteddfod gyntaf ? 514393_518541
 %eng:	do you remember the first eisteddfod?
-*MAD:	uh roedden ni wedi bod yn paratoi yr anrhegiau (..) ar y lawr (.) <yn y> [/] yn y tŷ ni (..) uh (.) wrth y drws . 519550_530848
+*MAD:	uh roedden ni wedi bod yn paratoi yr &an anrhegiau (..) ar y lawr (.) <yn y> [/] yn y tŷ ni (..) uh (.) wrth y drws . 519550_530848
 %eng:	we had prepared the presents in our house by the door.
 *MAD:	ti (y)n cofio ? 530876_531638
 %eng:	do you remember?
@@ -489,107 +509,109 @@
 %eng:	yes.
 *MAD:	a roedden ni wedi blino . 532336_534219
 %eng:	and we were tired.
-*MAD:	uh felly (.) &de um (.) arhosan [?] ni <(y)r uh> [/] (.) yr anrhegiau <ar y> [/] ar y lawr . 534230_542091
+*MAD:	&b uh felly (.) &de um (.) arhosan [?] ni <(y)r uh> [/] (.) yr anrhegiau <ar y> [/] ar y lawr . 534230_542091
 %eng:	so we left the presents on the floor.
 *DOM:	ie . 541862_542662
 %eng:	yes.
 *MAD:	a wedyn mynd i cysgu . 542753_544081
 %eng:	and then went to sleep.
-*MAD:	yn [//] ar y bore uh (..) nesa (...) roedd y côr Gaiman@s:cym&spa yn [/] yn (c)nocio ar y drws yna eisiau dod i_fewn &=laugh am pump o (y)r gloch . 544707_556788
-%eng:	in the morning the Gaiman choir knocked on that door, wanted to come in at five o'clock.
+*MAD:	yn [//] ar y bore uh (..) nesa (...) roedd y côr Gaiman@s:cym&spa yn [/] yn (c)nocio ar y drws yna eisiau dod i fewn &=laugh am pump o (y)r gloch . 544707_556788
+%eng:	in the morning the Gaiman choir knocked on that door, wanting to come in at five o'clock.
 *MAD:	ti (y)n cofio ? 556754_557442
 %eng:	do you remember?
 *DOM:	yndw da iawn . 557449_558269
 %eng:	yes, very well.
 *MAD:	+< &=laugh roedd raid i ni (.) dynnu (y)r anrhegiau (y)n [/] yn sydyn o yma a oh ! 557450_565320
 %eng:	we had to pull the presents away quickly and oh!
-*DOM:	a dw i (y)n cofio (..) y gadair eisteddfod yn cwympo o (y)r picop@s:spa pan o(edde)n ni (y)n mynd â nhw i (y)r ysgol . 565316_574356
+*DOM:	a dw i (y)n cofio (..) y gadair eisteddfod (.) yn cwympo o (y)r picop@s:spa pan o(edde)n ni (y)n mynd â nhw i (y)r ysgol . 565316_574356
 %eng:	and I remember the eisteddfod chair falling from the pick-up when we were taking them to the school.
 *MAD:	[- spa] +< ay ! 571275_573461
-%eng:	ah .
+%eng:	ay!
 *DOM:	ti (y)n cofio hynny ? 574366_575230
 %eng:	do you remember that?
-*MAD:	duw sí@s:spa ! 575176_576850
-%eng:	yes, sure!
-*MAD:	cwympo <o (y)r uh o (y)r> [/] o (y)r picop@s:spa ie . 576839_579649
-%eng:	fell from the pick-up, yes.
+*MAD:	sí@s:spa ew sí@s:spa ! 575176_576850
+%eng:	yes, oh yes!
+*MAD:	cwympo <o (y)r uh o (y)r> [/] o (y)r [/] o (y)r picop@s:spa ie . 576839_579649
+%eng:	falling from the pick-up, yes.
 *DOM:	+< o (y)r picop@s:spa . 578017_578700
 %eng:	from the pickup.
 *DOM:	ie . 579629_580237
 %eng:	yes.
 *DOM:	a dim ond <dwy aw(r)> [/] dau awr oedd hi (.) dechrau (ei)steddfod . 580419_583748
 %eng:	and it was only two hours until the beginning of the eisteddfod.
-*DOM:	a pwy oedd yn taclu (y)r gadair (y)na yn dwy awr ynde . 583748_587474
-%eng:	and who would repair that chair in two hours.
+*DOM:	a pwy oedd yn taclu (y)r gadair (y)na (..) yn dwy awr ynde . 583748_587474
+%eng:	and who was repairing that chair in two hours.
 *MAD:	+< yndy yndy (..) pwy ? 585307_587625
 %eng:	yes, who?
 *DOM:	ie . 587524_588100
 %eng:	yes.
 *MAD:	+< oh ie Cayo_Espinal@s:cym&spa ie ? 587673_589774
-%eng:	oh, yes, Cayo Espinal.
+%eng:	oh, yes, Cayo Espinal, yes?
 *DOM:	ie . 589289_589774
 %eng:	yes.
 *MAD:	oh . 589752_590109
 %eng:	oh.
 *DOM:	ie . 590029_590317
 %eng:	yes.
-*MAD:	a pwy &s oedd yn mynd i [/] i &g dweud <i (y)r i (y)r uh> [//] i Hunydd@s:cym&spa ? 590317_595109
-%eng:	and who would go and tell Hunydd.
+*MAD:	a pwy &s oedd yn mynd i [/] i &g dweud i (y)r uh [/] <i (y)r uh> [//] i Hunydd@s:cym&spa ? 590317_595109
+%eng:	and who was going to tell Hunydd.
 *DOM:	+< i Hunydd_Matthews@s:cym&spa y berchennog y gadair bod y gadair wedi torri ynde . 593207_597079
 %eng:	tell Hunydd Matthews, the owner of the chair, that it had broken.
 *MAD:	+< mm ie &=laugh . 596862_600623
-%eng:	yes.
+%eng:	mm, yes.
 *DOM:	+< ie . 598186_598848
 %eng:	yes.
 *DOM:	dyna fo dyna fo . 600247_601762
 %eng:	that's it.
 *MAD:	ie . 601804_602460
 %eng:	yes.
-*MAD:	no@s:spa mae [//] roedd o (y)n anodd &i iawn no@s:spa ? 602450_606638
+*MAD:	no@s:spa <mae o> [//] roedd o (y)n (..) anodd &i iawn no@s:spa ? 602450_606638
 %eng:	yes, it was very difficult, wasn't it?
 *DOM:	oedd . 606627_606969
 %eng:	yes.
-*MAD:	um (...) uh (..) &r doedden ni ddim yn gallu i deffro Danny@s:cym&spa (..) y [/] y bore [/] bore (y)na (.) o (y)r eisteddfod gyntaf no@s:spa ? 606947_619890
+*MAD:	um (..) uh (..) &ro doedden ni ddim yn gallu i mm deffro Danny@s:cym&spa (..) y [/] y bore [/] bore (y)na (.) o (y)r eisteddfod gyntaf no@s:spa ? 606947_619890
 %eng:	we couldn't wake up Danny on the morning of the first eisteddfod, could we?
-*DOM:	ie . 619448_619858
+*DOM:	+< ie . 619448_619858
 %eng:	yes.
 *MAD:	a <roedden ni (y)n &t uh tynnu> [//] o(edde)t ti neu [/] neu Camilo@s:cym&spa <yn &t> [/] yn tynnu (..) graig (.) [//] greigiau i (y)r +/. 620189_629816
 %eng:	and you and Camilo took stones to the...
-*DOM:	+< ie lluchio [?] cerrig ar ben to ie . 629148_631218
+*DOM:	+< ie lluchio cerrig ar ben to ie . 629148_631218
 %eng:	yes, threw stones on the roof.
-*MAD:	+< xxx (.) uh (.) er mwyn i ddeffro Danny@s:cym&spa er mwyn i mynd i &u [/] i wneud rhywbeth am yr eisteddfod no@s:spa ? 630620_637521
+*MAD:	+< xxx (.) er [/] (.) er mwyn i ddeffro Danny@s:cym&spa er mwyn i mynd i &u [/] i wneud rhywbeth am yr eisteddfod no@s:spa ? 630620_637521
 %eng:	xxx in order to wake up Danny in order for him to do something for the eisteddfod, wasn't it?
+*DOM:	+< ie . 631716_632046
+%eng:	yes.
 *DOM:	ie . 637329_637659
 %eng:	yes.
 *MAD:	&=laugh . 637558_638977
 *MAR:	&=cough . 639856_641115
 *MAD:	+< ie . 640270_640558
 %eng:	yes.
-*DOM:	ie . 640500_640953
+*DOM:	+< ie . 640500_640953
 %eng:	yes.
 *DOM:	dyna fo bueno@s:spa . 641940_643625
 %eng:	that's it, okay.
 *DOM:	mi wnawn ni weld yn [/] yn amlach rŵan siŵr erbyn bydd dal y pethau (y)ma ymlaen siŵr ? 643616_649750
 %eng:	I guess we will meet more often now while these things are going on?
-*MAD:	ie a (.) uh (.) rwy(f) (y)n credu bod &və mae um (...) mae rhyw &=sigh (.) merch o (..) o Gran_Bretaña@s:spa +... 649764_664083
-%eng:	yes, I think there is some women from Great Britain...
-*DOM:	ie xxx . 664166_665409
-%eng:	yes, xxx.
-*MAD:	+< +, xxx embajadora@s:spa ie ? 664283_666299
-%eng:	xxx ambassador, is it?
+*MAD:	ie a (.) uh (.) rwy(f) (y)n credu bod &və mae um (...) mae rhyw &m &=sigh (.) merch o (..) o Gran_Bretaña@s:spa +... 649764_664083
+%eng:	yes, I think there is some woman from Great Britain...
+*DOM:	ie Prydain . 664166_665409
+%eng:	yes, Britain.
+*MAD:	+< +, yn arbennig embajadora@s:spa ie ? 664283_666299
+%eng:	important, an ambassador, yes?
 *DOM:	ie ? 666246_666998
 %eng:	yes?
 *MAD:	+, o gwmpas . 666984_667586
 %eng:	...around.
 *DOM:	ie yndy . 667581_668759
 %eng:	yes, she is.
-*MAD:	ti (y)n gwybod ? 668743_669564
+*MAD:	+< <ti (y)n> [/] ti (y)n gwybod ? 668252_669169
 %eng:	do you know?
 *DOM:	fydd na de [/] te dydd_Sul dw i (y)n credu . 669010_673092
 %eng:	there will be a tea on Sunday I think.
 *MAD:	+< ah@s:cym&spa ie . 672100_672948
 %eng:	ah, yes.
-*MAR:	ie ie . 672905_673598
+*MAR:	sí@s:spa ie . 672905_673598
 %eng:	yes.
 *DOM:	ah@s:cym&spa . 673571_674029
 %eng:	ah.
@@ -617,7 +639,7 @@
 %eng:	yes indeed.
 *DOM:	[- spa] bueno . 694082_694626
 %eng:	okay.
-*DOM:	mi awn ni (yn)teu . 695773_696957
+*DOM:	mi awn ni (yn)te . 695773_696957
 %eng:	we will go then.
 *MAD:	<roedd raid i ni roes> [//] oes raid i ni &m (.) mynd â rywbeth i gario (y)r te neu be(th) ? 698893_705043
 %eng:	do we have to take something to hold the tea or something?
@@ -627,8 +649,8 @@
 %eng:	ah.
 *DOM:	+< fydd raid ti ffonio Carla@s:cym&spa neu +... 706173_708194
 %eng:	you will have to ring Carla or...
-*MAD:	ah@s:cym&spa wel +... 708514_709181
-%eng:	ah, okay.
+*MAD:	ah@s:cym&spa wel . 708514_709181
+%eng:	ah, well.
 *DOM:	+< +, i gael (..) gwybod am y busnes . 708855_711917
 %eng:	...to find out about the business.
 *MAD:	[- spa] +< bueno . 709623_710135
@@ -645,18 +667,18 @@
 %eng:	with whom?
 *DOM:	wedi bod yn canu erioed [?] (..) &=laugh (.) (dy)na (y)dy cwestiwn . 727762_733239
 %eng:	have always been singing, there's a question.
-*MAD:	xxx efo pwy oeddet ti ynde ? 733236_735156
-%eng:	xxx with whom were you then?
-*DOM:	+< <dw i (we)di> [?] canu <ynddon nhw> [?] i_gyd &=laugh . 734127_736489
-%eng:	I have been singing in all of them.
+*MAD:	ond &e &e efo pwy oeddet ti (y)n &dech ? 733236_735156
+%eng:	but who did you [...] with?
+*DOM:	+< dw i (we)di canu ynddon nhw [/] nhw i_gyd &=laugh . 734127_736489
+%eng:	I've been singing in all of them.
 *MAD:	+< ie . 735876_736649
 %eng:	yes.
 *MAD:	efo pwy +//? 736649_737583
 %eng:	with whom...
-*MAD:	fi hefyd . 737545_738292
-%eng:	me as well.
+*MAD:	&v fi hefyd . 737271_738194
+%eng:	me too.
 *MAD:	ond efo pwy oeddet ti (y)n dechrau ? 738351_740287
-%eng:	but with whom did you start?
+%eng:	but who did you start with?
 *MAD:	efo Ann@s:cym&spa neu Maldwyn@s:cym&spa neu pwy ? 740553_742873
 %eng:	with Ann or Maldwyn or who?
 *DOM:	+< efo Twm_Williams@s:cym&spa . 742457_743951
@@ -667,36 +689,38 @@
 %eng:	yes.
 *MAD:	a lle oedd y côr yna ? 747072_748720
 %eng:	and where was that choir?
-*DOM:	+< na (y)dy sef dyn bach efo Tommy_Davies . 748016_750965
+*DOM:	+< na (y)dy <sef dyn bach> [?] efo Tommy_Davies . 748016_750965
 %eng:	no, hang on a minute, with Tommy Davies.
 *DOM:	y Twm_Williams@s:cym&spa yn un ochr a Eifion_Pritchard@s:cym&spa yr ochr arall . 751729_755985
 %eng:	Twm Williams on one side and Eifion Pritchard on the other.
-*MAD:	oeddet [?] ti (y)n dysgu o dysgu . 755987_757571
-%eng:	you learnt by learning.
+*MAD:	oeddet ti (y)n dysgu o@s:spa dysgu ? 755987_757571
+%eng:	were you teaching or learning?
 *DOM:	ie . 757603_757950
 %eng:	yes.
 *MAD:	&=laugh . 757976_758883
-*DOM:	+< oedd (f)yn nhad yn deud <fan (y)na mae raid ti eistedd rhwng y ddau> ["] . 758014_762084
+*DOM:	+< oedd (f)yn nhad yn deud <fan_(y)na mae raid ti eistedd (.) rhwng y ddau> ["] . 758014_762084
 %eng:	my father said: "this is where you have to sit, between the two of them."
 *MAD:	+< &=laugh . 761199_763935
-*MAD:	ah roedd raid i fi um (.) eistedd (.) uh neu eistedd sefyll wrth &m Serafina@s:cym&spa . 763894_771033
-%eng:	and I had to sit, or stand by Serafina.
+*MAD:	a roedd raid i fi mm (.) eistedd (.) uh neu eistedd sefyll wrth &m tia@s:spa Serafina@s:cym&spa . 763894_771033
+%eng:	and I had to sit, or stand by auntie Serafina.
 *DOM:	(dy)na fo . 771425_772620
 %eng:	that's it.
 *MAD:	a (.) la@s:cym&spa ["] ydy hwn neu fa@s:cym&spa ["] . 772613_776698
-%eng:	and this is "la" , or "fa" .
-*MAD:	wyt [//] dwyt ti ddim wedi canu (y)r &=laugh +... 776698_779521
+%eng:	and this is "la", or "fa".
+*DOM:	+< (dy)na fo &=laugh . 773694_778076
+%eng:	that's it.
+*MAD:	+< wyt [//] dwyt ti ddim wedi canu (y)r &=laugh +... 776698_779521
 %eng:	you haven't sung the...
-*MAD:	dechreuais i <efo um (.)> [/] efo Ann@s:cym&spa a wedyn Maldwyn_Roberts@s:cym&spa . 779532_783692
+*MAD:	dechreuais i <efo mm (.)> [/] efo Ann@s:cym&spa a wedyn Maldwyn_Roberts@s:cym&spa . 779532_783692
 %eng:	I started with Ann and then with Maldwyn Roberts.
 *DOM:	ie . 784226_784700
 %eng:	yes.
-*MAD:	+< wedyn (yn)de canu hefyd . 784386_785815
-%eng:	and singing as well.
+*MAD:	+< wedyn &dech canu hefyd . 784386_785815
+%eng:	and [...] singing as well.
 *DOM:	+< Tommy_Davies@s:cym&spa Twm_Williams@s:cym&spa . 785470_787155
 %eng:	Tommy Davies, Twm Williams.
-*DOM:	Twm_Williams@s:cym&spa oedd yn arwain canu (.) uh cwrdd y bobl ifainc uh (.) Gŵyl_Ddewi yn_de . 787856_793627
-%eng:	Twm Williams led the singing at the young people's meeting on Saint David's Day.
+*DOM:	Twm_Williams@s:cym&spa oedd yn arfer canu (.) yr cwrdd y bobl ifainc uh (.) Gŵyl_Ddewi yn_de . 787856_793627
+%eng:	Twm Williams used to sing the young people's meeting on Saint David's Day.
 *MAD:	ah@s:cym&spa ! 793477_794821
 %eng:	ah!
 *MAD:	yn yr uh capel . 794799_795983
@@ -707,12 +731,12 @@
 %eng:	yes.
 *DOM:	fan (hyn)ny o(eddw)n i (y)n dechrau . 798794_800058
 %eng:	that's where we started.
-*DOM:	<a wedyn> [?] +/. 800063_800548
+*DOM:	a wedyn +/. 800063_800548
 %eng:	and then...
 *MAD:	+< a faint uh oedd uh gynnoch chi ? 800068_802623
 %eng:	and how many of you were there?
-*DOM:	oh ryw dri_deg xxx o blant . 802923_805077
-%eng:	oh, some thirty xxx children.
+*DOM:	oh ryw dri_deg <o fechgyn> [//] o blant . 802923_805077
+%eng:	oh, some thirty boys... children.
 *MAD:	+< mm (.) (dy)na neis . 804225_806612
 %eng:	mm, that's nice.
 *DOM:	+< o(edde)n [/] o(edde)n ni <yn um> [/] (..) yn uh trefnu (y)r te a (y)r +//. 806047_811687
@@ -721,68 +745,70 @@
 %eng:	it was the young people's meeting.
 *MAD:	mae [/] mae canml(wydd) [/] canmlwydd <o (y)r> [/] o (y)r capel rŵan no@s:spa ? 814427_818715
 %eng:	the chapel has its 100th anniversay now, hasn't it?
-*MAR:	+< uhuh . 818309_818859
-%eng:	yes.
+*MAR:	+< na . 818309_818859
+%eng:	no.
 *DOM:	blwyddyn nesa . 819153_819809
 %eng:	next year.
 *MAD:	blwyddyn nesa ie ? 819782_820827
 %eng:	next year, is it?
+*DOM:	+< mm mm . 819992_820734
+%eng:	mm.
 *MAD:	mae [//] fydd raid i ni paratoi ryw (.) gymanfa fawr ie ? 822034_826306
-%eng:	we will have to organise a big festival, won't we?
+%eng:	we will have to arrange a big festival, won't we?
 *MAR:	xxx . 826467_827187
-%eng:	xxx.
+%eng:	[...]
 *DOM:	+< dim [?] . 826729_827182
 %eng:	nothing.
-*MAD:	er mwyn uh Ŵyl_Dewi ie ? 827118_829214
+*MAD:	er mwyn uh Gŵyl_Dewi ie ? 827118_829214
 %eng:	for Saint David's Day, is it?
 *DOM:	uh +/. 829173_829763
-%eng:	uh...
+%eng:	er...
 *MAR:	+< xxx . 829177_829843
-%eng:	xxx.
-*MAD:	Gŵyl_Ddewi . 829721_830430
+%eng:	[...]
+*MAD:	Gŵyl_Dewi . 829721_830430
 %eng:	Saint David's Day.
 *DOM:	cynta o Fawrth blwyddyn nesa . 830419_832868
 %eng:	first of March next year.
 *MAD:	neis iawn . 833455_834527
 %eng:	very nice.
-*MAD:	um (.) mae bobl yn meddwl am (.) [/] am cael te (.) uh allan ie ? 834608_843657
-%eng:	people are thinking of having a picnic, are they?
-*DOM:	te batsh . 843659_844411
+*MAD:	a mm (.) mae bobl yn meddwl am (.) [/] am cael te (.) uh allan ie ? 834608_843657
+%eng:	people are thinking of having tea outside, are they?
+*DOM:	te patsh . 843659_844411
 %eng:	picnic.
 *MAD:	te batsh . 844935_845815
 %eng:	picnic.
-*MAD:	batsh ["] xxx wyt ti galw fo [?] ? 845815_847673
-%eng:	you call it "batsh" xxx?
-*DOM:	+< <mae e [?] (y)n> [/] mae e [?] (y)n iawn <te batsh> ["] yndy ? 846865_848732
-%eng:	it is right, isn't it, "te batsh" [=picnic]?
+*MAD:	batsh ["] xxx wyt ti galw ? 845815_847673
+%eng:	you call it "batsh"?
+*DOM:	+< <mae e (y)n> [/] mae e (y)n iawn <te patsh> ["] yndy ? 846865_848732
+%eng:	it's right, isn't it, "te patsh" [=picnic]?
 *MAR:	xxx . 848650_849295
-%eng:	xxx.
+%eng:	[...]
 *MAD:	+< ti (y)n galw <te batsh> ["] . 848799_850106
 %eng:	you call it "te batsh" .
-*DOM:	te allan . 849263_850239
+*DOM:	+< te allan . 849263_850239
 %eng:	tea outside.
-*MAD:	te allan ie ar y +/. 850286_851694
-%eng:	tea ouside, yes, on the...
-*DOM:	+< yn y [/] yn y llawr . 850558_851694
+*MAD:	te allan ie ar +/. 850286_851694
+%eng:	tea ouside, yes, on...
+*DOM:	+< <yn y> [/] yn y llawr . 850558_851694
 %eng:	on the ground.
 *MAD:	ie ar y llawr . 851678_852708
 %eng:	yes, on the ground.
-*MAR:	+< ie . 852276_852708
-%eng:	yes.
+*MAR:	+< mm ie . 851913_852643
+%eng:	mm, yes.
 *MAD:	<efo (y)r &d> [//] efo (y)r uh +... 853102_854958
-%eng:	with the...
+%eng:	with the, er...
 *DOM:	+< ie [?] . 853448_853774
 %eng:	yes.
 *MAR:	+< xxx . 853763_854467
-%eng:	xxx.
+%eng:	[...]
 *MAD:	xxx <a te> [?] . 856376_858045
-%eng:	xxx and tea.
+%eng:	[...] and tea.
 *DOM:	+< blance(di) [/] blancedi a +... 857362_859362
 %eng:	blankets and...
 *MAD:	dillad a [/] a popeth . 859625_861310
-%eng:	cloths and everything.
-*MAR:	+< xxx . 859886_861262
-%eng:	xxx.
+%eng:	clothes and everything.
+*MAR:	[- spa] +< y con +/. 859886_861262
+%eng:	and with...
 *DOM:	+< ie ? 860420_860889
 %eng:	yes?
 *MAR:	[- spa] y con la ropa de la época de ser posible . 861310_863353
@@ -794,15 +820,15 @@
 *MAD:	neis iawn ! 866615_867895
 %eng:	very nice!
 *MAR:	+< xxx . 867047_867932
-%eng:	xxx.
+%eng:	[...]
 *MAD:	neis . 867909_868309
 %eng:	nice.
 *MAD:	efo (y)r dillad o (y)r uh +... 868336_869856
-%eng:	with the cloths from the...
-*DOM:	xxx . 869759_870239
-%eng:	xxx.
+%eng:	with the clothes from the...
+*DOM:	ie . 869759_870239
+%eng:	yes.
 *MAD:	+, o (y)r amser yna ie ? 870223_872345
-%eng:	from that time.
+%eng:	from that time, yes?
 *DOM:	+< ie (.) ie . 870703_872255
 %eng:	yes.
 *MAD:	<a (.) [/] a uh be(th)> [?] +/. 873368_875469
@@ -813,19 +839,23 @@
 %eng:	how they had tea...
 *MAD:	siŵr . 878248_878856
 %eng:	sure.
-*DOM:	+< +, yn y llawr (.) te batsh . 878482_880192
+*DOM:	+< +, yn y llawr (.) te patsh . 878482_880192
 %eng:	...on the ground, picnic.
-*MAD:	<te batsh> ["] ? 880880_881856
-%eng:	"te batsh"?
+*MAD:	<te patsh> ["] ? 880880_881856
+%eng:	"te patsh"?
 *DOM:	ie . 881842_882381
 %eng:	yes
-*MAD:	(u)huh dim bach ["] batsh ["] . 882370_884529
-%eng:	uhuh, not "bach" [=small], "batsh" .
-*DOM:	batsh ["] . 884552_885170
-%eng:	"batsh" .
+*MAD:	ie . 882110_882425
+%eng:	yes.
+*MAD:	huh dim bach ["] patsh ["] . 882370_884529
+%eng:	huh, not "bach" [=small], "patsh" .
+*DOM:	+< patsh ["] . 883312_883653
+%eng:	"patsh".
+*DOM:	patsh ["] . 884552_885170
+%eng:	"patsh".
 *MAD:	ah@s:cym&spa ! 885165_885805
 %eng:	ah!
-*MAD:	um (.) <a &p> [//] a um (..) hefyd (...) mi hoffwn i berwi yr dŵr +... 886172_894723
+*MAD:	um (.) <a &p> [//] a &w mm (..) hefyd (...) mi hoffwn i berwi yr dŵr +... 886172_894723
 %eng:	and I'd also like to boil the water...
 *DOM:	ie ? 894796_895591
 %eng:	yes?
@@ -833,8 +863,8 @@
 %eng:	...on the fire as well.
 *DOM:	ie ? 896715_897536
 %eng:	yes?
-*MAD:	xxx &=laugh . 897663_899167
-%eng:	xxx.
+*MAD:	<xxx> [=! laughs] . 897663_899167
+%eng:	[...]
 *DOM:	+< ie [?] ? 898463_898922
 %eng:	yes?
 *MAD:	bydd raid i rywun (.) mynd yn cynnar iawn no@s:spa &=laugh i berwi (y)r dŵr +... 899167_905044
@@ -846,35 +876,36 @@
 *MAR:	xxx &=laugh . 907947_911312
 %eng:	xxx.
 *MAD:	[- spa] +< no ? 908651_909323
-%eng:	won't it?
+%eng:	no?
 *DOM:	sache(di) [/] sachedi o de yn_de ? 909285_911477
-%eng:	sackfuls of tea, won't it?
+%eng:	sackfuls of tea, yes?
 *MAD:	ie &=laugh . 912523_914952
 %eng:	yes.
+*DOM:	+< &=laugh . 913485_914269
 *MAD:	no@s:spa fydd yn neis . 914890_915850
 %eng:	no, it will be nice.
-*MAD:	<bydd o> [//] bydd y te yma [//] yna erbyn uh Gŵyl_Dewi hefyd? 915845_921089
+*MAD:	<bydd o> [//] bydd y te yma [//] yna uh erbyn uh Gŵyl_Dewi hefyd? 915845_921089
 %eng:	will that tea be at Saint David's Day as well?
 *DOM:	bydd (.) bydd . 921094_922412
 %eng:	yes.
 *MAD:	+< ah@s:cym&spa <(dy)na neis (.)> [/] (dy)na neis . 921601_924358
-%eng:	ah, that's nice.
+%eng:	ah, how nice.
 *MAD:	gobeithio fydd <yr amser yn> [//] (...) uh <y tywydd yn> [/] y tywydd yn +... 925303_930903
-%eng:	hope the weather will be...
-*DOM:	+< y tywydd gobeithio fydd tywydd (.) mm +... 928932_932058
-%eng:	the weather, hope there will be decent weather, yes.
+%eng:	hope the time will be... the weather will be...
+*DOM:	+< y tywydd gobeithio fydd tywydd (.) mm . 928932_932058
+%eng:	the weather, hope the weather, mm.
 *MAD:	+, tywydd yn neis no@s:spa ? 932063_933172
-%eng:	...weather will be nice, won't it?
+%eng:	...weather will be nice, eh?
 *DOM:	[- spa] muy bien . 934588_936439
 %eng:	very good.
 *MAD:	be(th) arall ? 937960_939197
 %eng:	what else?
-*MAR:	[- spa] me llevo [?] xxx . 940236_941574
-%eng:	I bring xxx.
-*MAR:	[- spa] en . 944785_946369
-%eng:	in .
-*MAD:	a@s:spa ver@s:spa<pwy sy> [//] pwy fydd <yn uh> [/] yn arwain y gymanfa yna ? 946353_950897
-%eng:	let's see,  who will lead that festival?
+*MAR:	media hora casi . 940236_941574
+%eng:	almost half an hour.
+*MAR:	[- spa] en +... 944785_946369
+%eng:	in...
+*MAD:	a@s:spa ver@s:spa <pwy sy> [//] pwy fydd <yn uh> [/] yn arwain y gymanfa yna ? 946353_950897
+%eng:	so let's see, who will lead that festival?
 *MAR:	oh +... 952009_952761
 %eng:	oh...
 *DOM:	dw i ddim yn siŵr . 955087_956623
@@ -884,53 +915,53 @@
 *DOM:	+< na (dy)na ni . 958589_960589
 %eng:	no, there we are.
 *MAR:	+< xxx . 959021_959603
-%eng:	xxx.
+%eng:	[...]
 *MAR:	rhywun [?] ? 960566_961068
-%eng:	someone.
+%eng:	someone?
 *MAD:	&=laugh . 961073_962108
 *DOM:	bydd i rywun siŵr ? 962086_963318
 %eng:	someone will I'm sure?
-*MAR:	+< rhywun [?] (.) siŵr (.) sí@s:spa [?] (.) para@s:spa eso@s:spa vendría@s:spa . 963132_966599
+*MAR:	+< rhywun [?] (.) siŵr (.) sí@s:spa (.) para@s:spa eso@s:spa vendría@s:spa . 963132_966599
 %eng:	someone, sure, yes, he/she will come for this.
 *DOM:	+< Carys@s:cym&spa ? 965911_966690
 %eng:	Carys?
-*DOM:	[- spa] John ? 966940_967927
+*DOM:	John@s:cym&spa ? 966940_967927
 %eng:	John ?
 *MAR:	+< xxx . 967324_967927
-%eng:	xxx.
-*MAD:	+< na Carys@s:cym&spa <ddim eis(iau) dim> [/] dim yn hoffi +/. 967537_969734
-%eng:	no, Carys doesn't like...
+%eng:	[...]
+*MAD:	+< na Carys@s:cym&spa <ddim eis(au) dim> [/] dim yn hoffi +/. 967537_969734
+%eng:	no, Carys doesn't want... doesn't like...
 *DOM:	+< Glenys@s:cym&spa ? 968593_969345
-%eng:	Glenys.
+%eng:	Glenys?
 *MAD:	uh Carys@s:cym&spa [//] Glenys@s:cym&spa dim yn hoffi (y)r gymanfa hefyd . 969723_972427
-%eng:	Glenys doesn't like the festival either.
+%eng:	Glenys doesn't like the festival too.
 *MAR:	+< mmhm . 971873_972390
 %eng:	mmhm.
 *DOM:	aha@s:cym&spa ? 972530_973239
 %eng:	aha?
-*MAD:	+< oedd [?] . 972786_973202
-%eng:	yes.
-*MAD:	<ah@s:cym&spa fe allai wneud hi> [?] . 973929_975091
-%eng:	ah, she might do it.
+*MAD:	+< chwaith . 972786_973202
+%eng:	either.
+*MAD:	ah@s:cym&spa efallai <eith hi> [?] . 973929_975091
+%eng:	ah, she might go.
 *DOM:	+< mae siŵr fydd (y)na rywun o allan yn dod yn (.) xxx ? 974323_979199
-%eng:	I'm sure someone from outside will come to xxx.
+%eng:	I'm sure someone external will come to [...]
 *MAR:	Goronwy@s:cym&spa ? 979156_979908
-%eng:	Goronwy.
+%eng:	Goronwy?
 *MAD:	Goronwy@s:cym&spa neu Sioned@s:cym&spa neu +/. 980095_982335
-%eng:	Goronwy or Sioned.
+%eng:	Goronwy or Sioned or...
 *MAR:	+< xxx . 981903_982373
-%eng:	xxx.
+%eng:	[...]
 *MAD:	efallai ie . 982351_983647
 %eng:	maybe, yes.
-*MAD:	ond [?] gallwn ni ofyn i [/] i Aldridge@s:cym&spa . 983647_986946
-%eng:	but we can ask Aldridge.
-*MAR:	iawn [?] . 986898_987655
-%eng:	okay.
-*MAD:	uh (...) mm ? 989420_992892
-%eng:	uh... mm?
-*MAD:	erbyn Gŵyl_Ddewi ? 993357_994642
+*MAD:	ond gallwn ni &o ofyn i [/] i John@s:cym&spa . 983647_986946
+%eng:	but we can ask John.
+*MAR:	mm . 986898_987655
+%eng:	mm.
+*MAD:	um (...) mm ? 989420_992892
+%eng:	um... mm?
+*MAD:	erbyn Gŵyl_Dewi ? 993357_994642
 %eng:	by Saint David's Day?
-*DOM:	erbyn Gŵyl_Ddewi . 994621_995741
+*DOM:	erbyn Gŵyl_Dewi . 994621_995741
 %eng:	by Saint David's Day.
 *DOM:	Mawrth . 996647_997479
 %eng:	March.
@@ -939,23 +970,23 @@
 *DOM:	dw i ddim yn credu . 999934_1001358
 %eng:	I don't think so.
 *DOM:	gobeithio . 1002664_1003715
-%eng:	hope so.
+%eng:	I hope so.
 *DOM:	gobeithio <fyddan nhw> [?] (we)di taclo (y)chydig . 1003883_1006065
-%eng:	hope they'll have tidied a bit.
-*DOM:	ond dw i (ddi)m credu . 1006358_1007526
+%eng:	I hope they'll have fixed a bit.
+*DOM:	ond dw i ddim credu . 1006358_1007526
 %eng:	but I don't think so.
-*MAD:	wel os na <fydda i> [?] mynd i (...) uh igual@s:spa +... 1007884_1013514
+*MAD:	wel os na fydda i (y)n mynd i (...) uh igual@s:spa uh +... 1007884_1013514
 %eng:	well, if not I'll be going anyway...
 *MAD:	sut dych chi (y)n dweud igual@s:spa ["] ? 1013877_1015530
-%eng:	how do you say "anyway"?
+%eng:	how do you say "igual"?
 *MAD:	uh +... 1016328_1016936
-%eng:	uh...
+%eng:	er...
 *DOM:	<(y)r un peth> ["] . 1016867_1017453
 %eng:	"all the same" .
 *MAD:	yr un peth . 1017475_1018093
 %eng:	"all the same" .
 *MAD:	[- spa] no ? 1018083_1018787
-%eng:	is that it?
+%eng:	no?
 *DOM:	ie mae raid ni i gael y [/] y diwrnod (y)r un peth yndy . 1018755_1022242
 %eng:	yes, we will have to have the day all the same.
 *MAD:	[- spa] claro . 1022152_1024925
@@ -965,22 +996,21 @@
 *MAR:	&=cough . 1030203_1031787
 *DOM:	(y)n_ôl yma . 1034726_1035622
 %eng:	back here.
-*MAR:	xxx &=laugh . 1035580_1036204
-%eng:	xxx.
-*MAD:	&=laugh . 1036204_1036913
-*MAR:	&=laugh . 1036881_1038732
+*MAR:	xxx &=laugh . 1035790_1038707
+%eng:	[...]
+*MAD:	+< &=laugh . 1036204_1036913
 *MAD:	lle mae uh +..? 1038700_1040214
-%eng:	where is...?
+%eng:	where is, er...?
 *MAR:	xxx . 1039879_1042018
-%eng:	xxx.
+%eng:	[...]
 %com:	long pause
 *DOM:	[- spa] así es che . 1055462_1057387
 %eng:	it's like this, mate.
 %com:	long pause
 *DOM:	[- spa] cómo andamos [?] . 1070081_1071153
-%eng:	how are we ?
-*MAD:	xxx . 1073127_1073959
-%eng:	xxx.
+%eng:	how are we going ?
+*MAD:	am be ? 1073127_1073959
+%eng:	for what?
 *MAD:	lle mae <dy um (.)> [/] dy blant di ? 1073986_1077378
 %eng:	where are your children?
 *DOM:	Trelew@s:cym&spa ? 1078125_1078856
@@ -992,17 +1022,17 @@
 *MAD:	ah@s:cym&spa yn Trelew@s:cym&spa . 1081203_1082477
 %eng:	ah, in Trelew.
 *DOM:	a (y)r mab gen i . 1083016_1084194
-%eng:	and my son with me.
+%eng:	and the son's with me.
 *MAD:	a (y)r mab yna . 1084664_1085544
 %eng:	and your son there.
-*MAD:	a (y)r uh (.) uh Bobby@s:cym&spa sut mae Bobby@s:cym&spa ? 1085915_1089525
+*MAD:	a (y)r uh (.) um Bobby@s:cym&spa sut mae Bobby@s:cym&spa ? 1085915_1089525
 %eng:	and Bobby, how is Bobby?
 *DOM:	Cordoba@s:cym&spa . 1089498_1090026
 %eng:	Cordoba.
 *MAD:	Cordoba@s:cym&spa . 1090074_1091168
 %eng:	Cordoba.
-*MAD:	ti (y)n gwybod bod Serena@s:cym&spa fy merch <yn meddwl am yn chwilio no@s:spa meddwl no@s:spa> [//] yn chwilio am waith yn Cordoba@s:cym&spa ? 1091169_1097675
-%eng:	do you know that my daughter Serena is looking for work in Cordoba?
+*MAD:	ti (y)n gwybod bod Serena@s:cym&spa fy merch <yn meddwl am> [//] <yn chwilio no@s:spa> [//] <meddwl no@s:spa> [///] yn chwilio am waith yn Cordoba@s:cym&spa ? 1091169_1097675
+%eng:	do you know that my daughter Serena is thinking of... looking for work in Cordoba?
 *DOM:	aha@s:cym&spa ? 1097943_1098716
 %eng:	aha?
 *MAD:	ie . 1098641_1099041
@@ -1011,7 +1041,7 @@
 %eng:	because she has a boyfriend, and he is from Cordoba.
 *DOM:	+< o Cordoba@s:cym&spa ? 1104572_1105286
 %eng:	from Cordoba?
-*MAD:	mae o (y)n byw yna <efo (y)r> [/] efo (y)r teulu no@s:spa efo xxx uh rhieni . 1105009_1110427
+*MAD:	mae o (y)n byw yna <efo (y)r> [/] efo (y)r teulu no@s:spa efo &t uh rhieni . 1105009_1110427
 %eng:	he lives there with his family, with his parents.
 *DOM:	+< ah@s:cym&spa . 1109120_1110342
 %eng:	ah.
@@ -1019,28 +1049,28 @@
 %eng:	Bobby lives very close to where Elwyn Powell's daughter lives.
 *MAD:	yndy ? 1120644_1121375
 %eng:	does he?
-*DOM:	mmhm . 1121124_1121514
-%eng:	yes.
+*DOM:	+< mmhm . 1121124_1121514
+%eng:	mmhm.
 *MAD:	xxx ie ? 1122374_1123814
-%eng:	xxx, is it?
-*DOM:	mm +... 1123585_1123878
+%eng:	[...], is it?
+*DOM:	mm . 1123585_1123878
 %eng:	mm.
 *MAD:	Melia@s:cym&spa . 1124466_1125245
 %eng:	Melia.
 *DOM:	Melia@s:cym&spa . 1125218_1125885
 %eng:	Melia.
-*MAD:	ah@s:cym&spa ! 1125869_1126695
-%eng:	ah!
+*MAD:	aha@s:cym&spa ! 1125869_1126695
+%eng:	aha!
 *MAD:	mae [/] mae ychydig o bobl o yma o gwmpas Cordoba@s:cym&spa no@s:spa ? 1127240_1131091
 %eng:	there are a few people from here around Cordoba, aren't there?
 *DOM:	mmhm . 1131115_1131633
-%eng:	yes.
+%eng:	mmhm.
 *MAD:	mae o (y)n uh dinas mawr iawn a (.) dw i (ddi)m yn +... 1131613_1135986
 %eng:	it is a very big city and I don't...
-*DOM:	mm +... 1135058_1135415
+*DOM:	+< mm . 1135058_1135415
 %eng:	mm.
-*DOM:	+< ond mae (y)na ddipyn o [/] o Drefelin@s:cym&spa fan (y)na . 1135922_1138871
-%eng:	but there are quite a few from Trefelin there.
+*DOM:	+< ond mae (y)na ddipyn o [/] o Drevelin@s:cym&spa fan_(y)na . 1135922_1138871
+%eng:	but there are quite a few from Trevelin there.
 *MAD:	yndy ? 1138777_1139598
 %eng:	are there?
 *MAD:	mae Wendy_Price@s:cym&spa yna hefyd . 1139573_1141561
@@ -1052,7 +1082,7 @@
 *DOM:	Nedw@s:cym&spa . 1144267_1145451
 %eng:	Nedw.
 *MAD:	Nedw@s:cym&spa Sabina_Ortega@s:cym&spa uh um +... 1145456_1149925
-%eng:	Nedw, Sabina Ortega...
+%eng:	Nedw, Sabina Ortega, er...
 %com:	conversation between MAR and LIA in the background
 *DOM:	<mae (y)na> [/] mae (y)na griw +... 1152462_1153763
 %eng:	there is a group...
@@ -1061,23 +1091,23 @@
 *DOM:	+, criw iawn . 1154220_1154956
 %eng:	...a nice group.
 %com:	conversation between MAR and LIA in the background
-*DOM:	wel sut mae Liani@s:cym&spa ? 1158636_1160534
+*DOM:	wel (.) sut mae Liani@s:cym&spa ? 1158636_1160534
 %eng:	well, how is Liani?
 *LIA:	reit dda wir (.) a meddwl +/. 1160547_1163052
 %eng:	very well indeed, considering...
 *MAD:	[- spa] bueno . 1163041_1163649
 %eng:	good.
-*DOM:	<cysidro fy [?] oed> ["] yn_de ? 1163631_1165241
-%eng:	"considering my age", is it?
+*DOM:	cysidro (y)r oed yn_de ? 1163631_1165241
+%eng:	considering the age, is it?
 *LIA:	<cysidro oed> ["] na y tywydd ! 1165305_1167295
 %eng:	"considering age", no, the weather!
-*LIA:	llai o wynt xxx &=laugh <a bach> [?] fwy o haul . 1168353_1170801
+*LIA:	llai o wynt <a &m bach> [=! laughs] fwy o haul . 1168353_1170801
 %eng:	less wind and a little bit more sun.
 *DOM:	ie . 1170763_1171409
 %eng:	yes.
 *MAD:	ti wedi bod yn siarad efo rywun ? 1171473_1173489
 %eng:	have you talked with someone?
-*LIA:	ydw . 1173473_1174161
+*LIA:	yndw . 1173473_1174161
 %eng:	yes.
 *MAD:	efo pwy ? 1174150_1174758
 %eng:	with whom?
@@ -1086,24 +1116,24 @@
 *MAD:	oh (dy)na neis ! 1176065_1177121
 %eng:	oh, that's nice!
 *MAD:	xxx +/. 1177120_1177498
-%eng:	xxx.
-*LIA:	+< gaeson ni sgwrs ryw [?] hanner awr ta_beth . 1177328_1179136
-%eng:	we had a conversation of about half an hour anyway.
-*MAD:	ajá@s:spa ie (.) hanner awr xxx . 1179130_1181647
-%eng:	okay, yes, half an hour xxx.
+%eng:	[...]
+*LIA:	+< gaeson ni sgwrs &rwy hanner awr ta_beth . 1177328_1179136
+%eng:	we had a half hour conversation anyway.
+*MAD:	aha@s:cym&spa ie (.) hanner awr xxx . 1179130_1181647
+%eng:	aha, yes, half an hour xxx.
 *MAD:	roeddwn i (y)n meddwl fod o (y)n hir iawn yn +/. 1182447_1184938
 %eng:	I thought it was very long...
 *LIA:	yndy mae o (y)n hir . 1184913_1185898
 %eng:	yes, it is long.
-*LIA:	oedden ni (y)n xxx . 1185885_1187651
-%eng:	we were xxx.
+*LIA:	oedden ni (y)n wel (dy)na fo . 1185885_1187651
+%eng:	we were, well, there we go.
 *LIA:	mi wnaeson ni siarad am yr eisteddfod . 1187651_1189821
 %eng:	we talked about the eisteddfod.
 *DOM:	xxx . 1189821_1190360
-%eng:	xxx.
-*MAD:	ah@s:cym&spa &=laugh o(edde)n ni (y)n siarad +/. 1190332_1192796
+%eng:	[...]
+*MAD:	ah@s:cym&spa <o(edde)n ni (y)n siarad> [=! laughs] +/. 1190332_1192796
 %eng:	ah, we were talking...
-*LIA:	+< ah@s:cym&spa <o(eddw)n i ddim xxx oedden ni &=laugh xxx> [//] na o(eddw)n i ddim <wedi mynd> [?] i (y)r (ei)steddfod . 1190578_1195815
+*LIA:	+< ah@s:cym&spa <o(eddw)n i ddim xxx oedden ni xxx> [//] na o(eddw)n i ddim wedi mynd i (y)r (ei)steddfod . 1190578_1195815
 %eng:	ah, no, I hadn't gone to the eisteddfod.
 *LIA:	ond o(eddw)n i eisiau holi am y (ei)steddfod . 1195908_1198207
 %eng:	but I wanted to ask about the eisteddfod.
@@ -1117,12 +1147,12 @@
 %eng:	ah, there we are, yes.
 *LIA:	+< mae (y)na lot o bethau fel (yn)a i [/] i ddeud . 1208274_1210306
 %eng:	there are a lot of things like that to say.
-*MAD:	+< mmhm [?] . 1209720_1210450
+*MAD:	+< mmhm . 1209720_1210450
 %eng:	mmhm.
 *MAD:	ie (dy)na ni hefyd . 1210455_1211612
 %eng:	yes, there we are as well.
-*LIA:	ie . 1211585_1212348
-%eng:	yes.
+*LIA:	ah@s:cym&spa . 1211585_1212348
+%eng:	ah.
 *MAD:	a mae &m +/. 1212364_1213255
 %eng:	and there is...
 *LIA:	+< jyst (y)r un peth siŵr . 1212988_1214200
@@ -1135,43 +1165,43 @@
 %eng:	yes.
 *MAD:	ie (dy)na neis . 1219064_1220285
 %eng:	yes, that's nice.
-*LIA:	xxx . 1220346_1221034
-%eng:	xxx.
-*MAD:	+< a fydd raid i ni (u)hm (.) rhewi (y)r dŵr uh +/. 1220517_1223562
+*LIA:	bydd . 1220346_1221034
+%eng:	it will be.
+*MAD:	+< a fydd raid i ni mm (.) rhewi (y)r dŵr uh +/. 1220517_1223562
 %eng:	and we will have to freeze the water...
 *LIA:	berwi . 1223445_1223914
 %eng:	boil.
-*MAD:	+, efo [//] berwi <efo (y)r uh> [//] (.) efo coed tân . 1223903_1228020
+*MAD:	+, efo [//] berwi <efo (y)r um> [//] (.) efo coed tân . 1223903_1228020
 %eng:	...boil it with firewood.
 *MAD:	o@s:spa be(th) ? 1227966_1228425
 %eng:	or what?
 *LIA:	efo coed ie . 1228430_1229118
 %eng:	with wood, yes.
-*MAD:	uhuh &=laugh . 1229070_1230596
-%eng:	uhuh.
+*MAD:	huh &=laugh . 1229070_1230596
+%eng:	huh.
 *LIA:	+< efo coed . 1229433_1230046
 %eng:	with wood.
 *LIA:	a clamp o <seston yn> [?] sosban fawr . 1230588_1233377
 %eng:	and a huge cistern as a big pot.
 *MAD:	+< &=laugh xxx +/. 1230637_1231501
-%eng:	xxx.
+%eng:	[...]
 *MAD:	&=laugh . 1233327_1233733
 *LIA:	a tegell mawr . 1233719_1235026
 %eng:	and a big kettle.
 *MAD:	pwy fydd yn uh +/. 1235069_1236205
 %eng:	who will...
-*DOM:	sosban haearn wir . 1235661_1236957
+*DOM:	+< sosban haearn wir . 1235661_1236957
 %eng:	an iron pot actually.
 *LIA:	ie . 1236951_1237665
 %eng:	yes.
-*DOM:	lle mae (y)r sosban haearn sydd [?] +..? 1237612_1239937
-%eng:	where is the iron pot that is...
+*DOM:	lle mae (y)r sosban haearn sydd +..? 1237612_1239937
+%eng:	where is the iron pot that's...
 *MAR:	+< sosban [/] <sosban haearn> [?] . 1238385_1239500
 %eng:	iron pot.
 *DOM:	+, yn capel (y)ma ? 1240006_1241361
-%eng:	...in the chapel here?
-*MAD:	pwy fydd <yn uh (.)> [/] yn dod xxx [//] uh gynnar i +... 1240774_1245425
-%eng:	who will come early to...
+%eng:	...in this chapel?
+*MAD:	pwy fydd <yn uh (.)> [/] yn dod rhy &g [//] uh gynnar i +... 1240774_1245425
+%eng:	who will come too early to...
 *DOM:	++ i wneud tân ? 1245615_1246341
 %eng:	...to make a fire?
 *LIA:	+< i wneud y tân . 1246069_1246853
@@ -1180,65 +1210,65 @@
 %eng:	yes.
 *LIA:	+< ie . 1247605_1248117
 %eng:	yes.
-*LIA:	nawr dw i (y)n gwybod pwy . 1248886_1250320
-%eng:	now I know who.
-*LIA:	<un gwahanol> [?] . 1251062_1252241
+*LIA:	na wel dw i (ddi)m (y)n gwybod pwy . 1248886_1250320
+%eng:	no well I don't know who.
+*LIA:	un gwahanol . 1251062_1252241
 %eng:	a different one.
 *DOM:	Richard@s:cym&spa ddim (y)ma . 1252257_1253179
 %eng:	Richard isn't here.
 *MAD:	+< ie . 1252630_1253147
 %eng:	yes.
 *LIA:	na (y)dy . 1253334_1254070
-%eng:	no, he is.
+%eng:	no, he isn't.
 *DOM:	&=laugh . 1254091_1255259
 *MAD:	+< ie ie . 1254790_1255661
 %eng:	yes.
 *MAD:	wyt ti wedi cyfarfod y +..? 1261889_1263915
 %eng:	have you met the...?
 *MAD:	ti wedi gweld y uh +..? 1264715_1266203
-%eng:	have you seen the...?
+%eng:	have you seen the, er...?
 *MAR:	[- spa] sí . 1266240_1266912
 %eng:	yes.
 *MAR:	[- spa] ya van más de media hora . 1267477_1268800
 %eng:	it's been going on for more than half an hour.
-*DOM:	[- spa] sí [?] . 1268896_1269643
+*DOM:	[- spa] sí . 1268896_1269643
 %eng:	yes.
 *DOM:	[- spa] bueno estirálo [?] ? 1269739_1270683
 %eng:	well, stretch it.
 *MAR:	&=laugh . 1270720_1272826
 *DOM:	+< &=laugh . 1271493_1272933
-*MAD:	xxx . 1272672_1273605
-%eng:	xxx.
-*LIA:	[- spa] xxx una encuesta ahí . 1273594_1274912
-%eng:	xxx a questionnaire there.
+*MAD:	+< xxx . 1272672_1273605
+%eng:	[...]
+*LIA:	[- spa] tenés una encuesta ahí . 1273594_1274912
+%eng:	you have a questionnaire there.
 *MAD:	eh@s:cym&spa ? 1275446_1276246
 %eng:	eh?
 *LIA:	[- spa] hay unas preguntas que te hacen . 1276257_1277729
-%eng:	they ask you for some questions.
+%eng:	there are some questions they did for you.
 *MAD:	ah@s:cym&spa . 1277729_1278337
 %eng:	ah.
-*DOM:	oh um . 1278773_1280016
-%eng:	oh, um.
+*DOM:	oh uh . 1278773_1280016
+%eng:	oh, er.
 *MAD:	[- spa] más de cuarenta entrevistas xxx . 1279979_1281931
 %eng:	more than forty interviews xxx.
 *LIA:	[- spa] sí dicen que sí . 1282309_1283931
 %eng:	yes, they do say that.
-*LIA:	[- spa] claro han hecho en Gaiman en Trelew en Buenos_Aires . 1283969_1287921
-%eng:	of course, thay have done in Gaiman, Trelew , Buenos Aires.
+*LIA:	claro@s:spa han@s:spa hecho@s:spa en@s:spa Gaiman@s:cym&spa en@s:spa Trelew@s:cym&spa en@s:spa Buenos_Aires@s:cym&spa . 1283969_1287921
+%eng:	of course, thay have done it in Gaiman, Trelew, Buenos Aires.
 *MAD:	[- spa] +< sí . 1286054_1286668
 %eng:	yes.
 *LIA:	[- spa] en todas partes han hecho . 1287873_1288828
-%eng:	they have done everywhere.
+%eng:	they have done it everywhere.
 *MAD:	[- spa] claro . 1288817_1289308
 %eng:	of course.
-*LIA:	[- spa] quién vino acá ? . 1292689_1293606
+*LIA:	[- spa] quién vino acá ? 1292689_1293606
 %eng:	who came here ?
-*LIA:	[- spa] un chico un muchacho ? . 1293590_1294710
-%eng:	a guy ?
+*LIA:	[- spa] el chico el muchacho ? 1293590_1294710
+%eng:	the guy ?
 *MAD:	[- spa] +< no . 1294230_1294977
 %eng:	no.
-*LIA:	[- spa] una señora ? 1294964_1295738
-%eng:	a lady.
+*LIA:	[- spa] la señora ? 1294964_1295738
+%eng:	the lady.
 *MAD:	ie . 1295748_1296084
 %eng:	yes.
 *LIA:	[- spa] xxx un muchacho . 1296066_1297661
@@ -1248,9 +1278,9 @@
 *LIA:	[- spa] se comió una masita . 1299469_1300605
 %eng:	he eat a cake.
 *LIA:	[- spa] después se fue . 1300631_1301661
-%eng:	later he left.
+%eng:	then he left.
 *LIA:	[- spa] nos dejó solos . 1301645_1302781
-%eng:	he left us alone
+%eng:	he left us alone.
 *MAD:	[- spa] sí . 1304555_1304811
 %eng:	yes.
 *MAD:	[- spa] ella también se fue . 1304672_1305456
@@ -1262,6 +1292,8 @@
 %eng:	do you want jam for the tea?
 *LIA:	dan ni eisiau jam efo (y)r te yndan . 1317874_1320013
 %eng:	we want jam with the tea, yes.
+*MAD:	[- spa] +< bueno . 1319460_1319855
+%eng:	okay.
 *MAD:	mae (.) jam uh membrillo@s:spa . 1320002_1323687
 %eng:	there is quince jam.
 *LIA:	ah@s:cym&spa (dy)na fo . 1323676_1324561
@@ -1269,5 +1301,5 @@
 *MAD:	ie ? 1324604_1324881
 %eng:	yes?
 *LIA:	[- spa] +< comeré [?] . 1324631_1325393
-%eng:	I'll eat .
+%eng:	I'll eat it.
 @End
