@@ -14,7 +14,7 @@
 @Media:	Patagonia35, audio
 @Comment:	Filename: Patagonia35.cha; Soundfile: Patagonia35.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-*AMA:	a mae anodd credu <bod nhw <wedi (.)> [/] wedi gwneud uh> [//] bod nhw wedi dod . 235_5360
+*AMA:	a mae &h anodd credu <bod nhw <wedi (.)> [/] wedi gwneud uh> [//] bod nhw wedi dod . 235_5360
 %eng:	and it's hard to believe that they have actually come
 %com:	pronunciation of anodd: hanodd
 *JAV:	bod nhw wedi sefydlu yma . 5285_6943
@@ -60,7 +60,7 @@
 %com:	pronunciation of anodd: hanodd
 *JAV:	yndy . 87225_88718
 %eng:	yes it has.
-*JAV:	oedd y (.) yn y mil naw cant &d ar (.) a_dau siŵr (.) ddaru (y)r athro (.) Roberts@s:cym&spa (.) boddi yn yr &b Aber_Gyrants (..) nawr Río_Corrintos@s:spa ["] . 89000_115409
+*JAV:	oedd uh (.) yn y mil (.) naw cant &d ar (.) a dau siŵr (.) ddaru (y)r athro (.) Roberts@s:cym&spa (.) boddi yn yr &b Aber_Gyrants (..) nawr Río_Corrintos@s:spa ["] . 89000_115409
 %eng:	it must have been in 1902 when Roberts, the teacher drowned in the 'Aber Gyrants', what's now "Río Corrintos" .
 *AMA:	ie yn yr un lli mawr . 115479_117325
 %eng:	yes, in that one big flood.
@@ -146,7 +146,7 @@
 %eng:	everything's changed so much, even the weather.
 *AMA:	ie . 262338_263367
 %eng:	yes.
-*AMA:	bydd (y)na sgwrs <am y tywydd heddiw (.)> [///] am y newid tywydd . 263689_268526
+*AMA:	bydd (y)na sgwrs <am y tywydd heddiw (.)> [//] am y newid tywydd . 263689_268526
 %eng:	there will be a talk about the weather today, about the change in the weather.
 *AMA:	fydd (y)na sgwrs yn yr uh Salón_Central@s:cym&spa yn y pnawn . 268409_271412
 %eng:	there will be a talk in the Salón Central in the afternoon.
@@ -222,10 +222,9 @@
 *JAV:	mmhm . 384410_385141
 %eng:	mmhm.
 *JAV:	xxx +/. 386640_387221
-%eng:	[...]
 *AMA:	+< ond oedd o (y)n amser neis iawn . 386896_388400
 %eng:	but it was a very nice time.
-*JAV:	dw i wedi cael (f)ym magu (.) dim yn y dre a dim yn y ffermydd uh (.) ar y &se &s +... 389365_398091
+*JAV:	dw i wedi cael ym magu (.) dim yn y dre a dim yn y ffermydd uh (.) ar y &se &s +... 389365_398091
 %eng:	I wasn't raised in a town or on a farm... on the...
 *AMA:	yn agosach i (y)r dre nag i (y)r ffermydd (.) ie . 398715_401291
 %eng:	closer to the town than to the farms, yes.
@@ -242,14 +241,13 @@
 *AMA:	a fan_hyn ydw i ers deg mlynedd . 420174_422756
 %eng:	and this is where I've been for ten years
 %com:	pause
-*JAV:	dw i <wedi magu (.)> [//] wedi cael (f)ym magu uh (.) dau gant fetrs <o (y)r uh> [//] o(ddi)_wrth y capel . 425537_435178
+*JAV:	dw i <wedi magu (.)> [//] wedi cael ym magu uh (.) dau gant fetrs <o (y)r uh> [//] o(ddi)_wrth y capel . 425537_435178
 %eng:	I was raised 200 metres from the chapel.
 *AMA:	ah@s:cym&spa wrth y capel (.) capel Bethel@s:cym&spa . 435165_437197
 %eng:	ah, by the chapel, Bethel chapel.
 *JAV:	+< ie &d dw i ddim wedi bihafio (y)n ry dda yn siŵr &=laugh . 436202_440367
 %eng:	yes, I'm sure I didn't behave too well.
 *JAV:	xxx . 442820_443684
-%eng:	[...]
 *AMA:	+< na o(eddw)n i (y)n licio dod i (y)r capel . 443055_444729
 %eng:	no, I liked coming to the chapel.
 *AMA:	<o(edde)n ni (y)n dod (.)> [//] dw i (y)n credu bod ni (y)n dod bob dydd Sul . 444724_448750
@@ -335,7 +333,7 @@
 *JAV:	a mi aeth o o (.) capel Bethel@s:cym&spa i (.) dre xx +... 576944_582813
 %eng:	and he went from Bethel chapel into town...
 *AMA:	ie <o(eddw)n i (y)n> [/] o(eddw)n i (y)n darllen y hanes (y)na mewn um Enfys@s:cym&spa yr Enfys@s:cym&spa hen hen oedd gen i wedi cael o o rywun . 583903_592104
-%eng:	yes, I read that story in an Enfys (publication), the old Enfys I'd been given by somebody.
+%eng:	yes, I read that story in an Enfys [publication], the old Enfys I'd been given by somebody.
 *AMA:	o(eddw)n i (y)n darllen y hanes <yn y> [//] pan symudodd <yr uh (.)> [/] yr uh Mister Pugh@s:cym&spa mi symudodd Mister Pugh@s:cym&spa o (y)r capel Bethel@s:cym&spa i Trevelin@s:cym&spa . 592235_602042
 %eng:	I read the story when Mr Pugh moved from Bethel chapel to Trevelin.
 *AMA:	a mi aeth (y)na lot o fobl efo fo yndo ? 602399_604911
@@ -352,7 +350,7 @@
 %eng:	so, have you heard about any stories of when people were travelling from here to the Valley in the wagons...?
 *AMA:	+< ah@s:cym&spa ie . 625529_626611
 %eng:	ah yes.
-*JAV:	+, (y)n mynd â ry(w) pethau o fa(n) (y)ma neu +... 626574_629603
+*JAV:	+, (y)n mynd â &r pethau o fa(n) (y)ma neu +... 626574_629603
 %eng:	...taking things from here or...
 *AMA:	+< o(edde)n ni (y)n mynd â gwlân . 629038_630217
 %eng:	we took wool.
@@ -367,7 +365,6 @@
 *AMA:	ac mawr oedd y disgwyl gweld o (y)n cyrraedd yn_ôl . 637912_640216
 %eng:	and we had to wait for a long time to see him arrive back.
 *JAV:	xxx . 640161_640817
-%eng:	[...]
 *AMA:	oedd o (y)n (.) dros fis <ar y &p> [//] ar y ffordd . 640465_643201
 %eng:	he was on the road for more than a month.
 *JAV:	wel pedwar_deg &mi [//] uh pum diwrnod oedden nhw (y)n cymryd i fynd . 643199_647967
@@ -404,7 +401,7 @@
 %eng:	yes.
 *AMA:	ie . 678020_678335
 %eng:	yes.
-*AMA:	o(eddw)n i wrth (f)ym modd yn helpu o . 679227_681094
+*AMA:	o(eddw)n i wrth ym modd yn helpu o . 679227_681094
 %eng:	I loved helping him.
 *JAV:	uh (.) ti wedi clywed sôn am (.) rai yn mynd ac yn (.) cael +... 681082_688992
 %eng:	have you heard about some going and getting...
@@ -419,7 +416,6 @@
 *AMA:	oedd Dada (y)n mynd â (y)r (a)cordion . 700936_702696
 %eng:	Dada would take his accordion.
 *JAV:	xxx . 702817_704689
-%eng:	[...]
 *AMA:	[- spa] +< concertina . 703281_704155
 %eng:	concertina (accordion)
 *JAV:	wedyn oedden nhw (y)n cael +/. 704646_706092
@@ -443,7 +439,7 @@
 %eng:	...in the river.
 *AMA:	mm +... 731648_732027
 %eng:	mm.
-*JAV:	+, a eu roi nhw tu ôl ar y wagen . 732107_735387
+*JAV:	+, a eu dyroi nhw tu ôl ar y wagen . 732107_735387
 %eng:	...and hanged them on the wagon at the back.
 *AMA:	aha . 735531_736102
 %eng:	aha.
@@ -578,7 +574,7 @@
 *AMA:	o(edde)n nhw (y)n dod (.) i fyw yn yr ysgol . 917259_920611
 %eng:	they came to live in the school.
 *AMA:	oedd (y)na dŷ (y)no ar yr ochr . 920596_922388
-%eng:	there was a house at the side.
+%eng:	there was a house there by the side.
 *AMA:	ac oedden nhw (y)n byw yn yr ysgol . 922384_923874
 %eng:	and they lived in the school.
 *AMA:	ac o(edde)n nhw (y)n wneud (.) yn reit da . 924614_927515
@@ -587,8 +583,8 @@
 %eng:	we were...
 *AMA:	o(edde)n nhw (y)n prynu cerbyd . 928978_930327
 %eng:	they would buy a vehicle.
-*AMA:	cerbyd a cheffyl ac oedden nhw (y)n +... 930632_932856
-%eng:	wagon and horse and they...
+*AMA:	cerbyd a cheffyl ac oedd o (y)n +... 930632_932856
+%eng:	wagon and horse and it was...
 *AMA:	efo hwnnw oedden nhw mynd i (y)r dre a popeth fel (yn)a oedd ei angen . 933197_936290
 %eng:	they would go into town with that and everything like that that they needed.
 *JAV:	oedden ni yma yn cael (y)r un adeg +... 937438_940757
@@ -600,8 +596,7 @@
 *JAV:	(y)n Ebrill oedd hi (y)n (.) dechrau glawio niwl rew +... 956899_962229
 %eng:	in April it would start raining, fog, ice...
 *JAV:	ym Mai oedden ni (y)n cael (.) eira rhew eira glaw +... 962479_968741
-%eng:	in May we'd have snow, ice, snow, rain...
-%com:	I think she might be talking about snow and sleet here - 'eira rhew' and 'eira glaw' (eirlaw)
+%eng:	in May we'd have snow, sleet...
 *JAV:	wedyn dau_ddeg chwech o Fai oedd yr (.) diwrnod ola oedden ni (y)n cael (.) dosbarthiadau . 969463_978219
 %eng:	then 25th of May was the last day we had lessons.
 *AMA:	+< hmm +... 973757_974131
@@ -644,7 +639,7 @@
 %eng:	little.
 *JAV:	(dy)dy (y)r afon ddim yn codi . 1036922_1038522
 %eng:	the river doesn't rise.
-*JAV:	dan ddim ddim yn cael y llifogydd oedde(n) [//] oedden ni +... 1038558_1041383
+*JAV:	dan ddim ddim yn cael y llifogydd oedde(n) [/] oedden ni +... 1038558_1041383
 %eng:	we don't get the floods we used to...
 *AMA:	+< mm (.) rŵan wnaeson ni &k ers ychydig o fis Hydre bod fi yn y dyffryn pan es rŵan i (y)r eisteddfod . 1038581_1045177
 %eng:	mm, now now we had some in October when I was in the valley when I went to the eisteddfod now.
@@ -690,7 +685,7 @@
 %eng:	of water there.
 *JAV:	a (we)dyn +... 1076759_1077612
 %eng:	and then...
-*AMA:	ond wedyn . 1077559_1078204
+*AMA:	<ond wedyn> [?] +//. 1077559_1078204
 %eng:	but then...
 *AMA:	na wnes i glywed yn Trelew@s:cym&spa <bod y (.) bod na (..)> [//] bod (y)na dipyn o ddŵr yn yr afon . 1078209_1082902
 %eng:	no, I heard in Trelew that there was quite a bit of water in the river.
@@ -698,11 +693,11 @@
 %eng:	mm.
 *JAV:	i rai sy ddi(m) +/. 1082964_1084079
 %eng:	for those who don't...
-*AMA:	+< a bod o ben beryg o dorri allan . 1083030_1084716
-%eng:	and that it was just about in danger of overflowing.
+*AMA:	+< a bod xxx beryg o dorri allan . 1083030_1084716
+%eng:	and that [...] was in danger of overflowing.
 *JAV:	i rhein [//] rai sy ddim wedi golchi eu traed efo [//] yn y dŵr yr afon achos +... 1084719_1090414
 %eng:	for those who haven't washed their feet in the river water because...
-*JAV:	dw i wedi (f)yng ngeni yn y fan yma . 1091011_1094686
+*JAV:	dw i wedi yng ngeni yn y fan yma . 1091011_1094686
 %eng:	I was born in this spot.
 *JAV:	a [/] ac oedd yr afon yn cyrraedd at yr uh &h (.) hen cartre Dada@s:cym&spa yn fa(n) (y)na . 1096292_1103216
 %eng:	and the river reached Dad's old home over there.
@@ -764,10 +759,10 @@
 %eng:	or they don't try to speak it.
 *JAV:	dw i ddim yn gwybod be(th) &=laugh . 1218940_1219996
 %eng:	I don't know what...
-*AMA:	os na wyt ti (y)n ymarfer efo (y)r Cymraeg mae (y)n anodd iawn . 1220032_1223030
+*AMA:	os nac wyt ti (y)n ymarfer efo (y)r Cymraeg mae (y)n &h anodd iawn . 1220032_1223030
 %eng:	unless you practice your Welsh, it's very difficult
 %com:	pronunciation of anodd: hanodd
-*AMA:	anodd [/] anodd dyddiau hyn (y)dy cael sgwrs . 1224038_1226657
+*AMA:	&h anodd [/] &h anodd dyddiau hyn (y)dy cael sgwrs . 1224038_1226657
 %eng:	it's difficult these days to have a conversation
 %com:	pronunciation of anodd: hanodd
 *JAV:	wel (.) dw i ddim wedi cael cyfle i fynd i (y)r ysgol Gymraeg nag i gael sgwrs gyda neb achos +... 1226833_1236437
@@ -781,7 +776,6 @@
 *AMA:	dan ni wedi dysgu popeth adre . 1239966_1241726
 %eng:	we learned everything at home.
 *JAV:	xxx . 1241849_1242771
-%eng:	[...]
 *JAV:	a +/. 1243553_1243964
 %eng:	and...
 *AMA:	+< deud y gwir oedden ni (y)n uh gallu sgrifennu Cymraeg cyn mynd i (y)r ysgol . 1243612_1247782
@@ -796,7 +790,7 @@
 %eng:	well, Welsh.
 *AMA:	Cymraeg oedd yn y tŷ . 1257741_1259213
 %eng:	it was Welsh in the house.
-*JAV:	uh oedden ni yn cartre (y)r un peth . 1259203_1262327
+*JAV:	uh oedden ni ein [?] cartref (y)r un peth . 1259203_1262327
 %eng:	we were the same at home.
 *JAV:	oedd Wyre@s:cym&spa amser ddechreuodd o fynd i (y)r ysgol oedd o ddim yn gallu gair o Sbanish . 1262973_1269198
 %eng:	when Wyre started going to school he couldn't speak a word of Spanish.
@@ -835,7 +829,6 @@
 *JAV:	wel +... 1321082_1322586
 %eng:	well...
 *AMA:	xxx . 1322548_1323481
-%eng:	[...]
 *JAV:	+< dw i ddim wedi clywed ei enw . 1322617_1324967
 %eng:	I haven't heard its name.
 *AMA:	+< Ryd_yr_Indiaid ? 1324919_1325874
@@ -870,8 +863,8 @@
 %eng:	45 minutes by plane.
 *AMA:	+< mmhm . 1365883_1366608
 %eng:	mmhm.
-*JAV:	yn sydyn dyn ni (y)n teithio nawr achos +... 1366805_1369314
-%eng:	we travel quickly now because...
+*JAV:	<yn sydyn dydy> [?] yn teithio nawr achos +... 1366805_1369314
+%eng:	travel is quick now, isn't it, because...
 *AMA:	mae (y)n <llai o> [//] llai [/] llai o argoel am awyren bob dydd dw i (y)n credu . 1369808_1374624
 %eng:	there is less hope for an airplane every day, I think.
 *JAV:	+< oedd xxx +... 1371008_1372117
@@ -887,7 +880,6 @@
 *JAV:	a (.) beth wyt ti (y)n feddwl o (y)r tywydd yma ofnadwy dan ni (y)n ei gael nawr ? 1382460_1389571
 %eng:	and what do you think of the awful weather we are having now?
 *AMA:	+< xxx . 1383396_1384430
-%eng:	[...]
 *AMA:	wel dw i ddim yn licio llawer amdano . 1390049_1391942
 %eng:	well, I don't like much about it.
 *AMA:	ac mae (y)n ofnadwy o oer yma . 1392705_1394465
@@ -916,8 +908,8 @@
 %eng:	there's no hope of it coming again.
 *JAV:	mmhm . 1447971_1448355
 %eng:	mmhm.
-*AMA:	a (y)r blodau maen nhw (y)n [//] wedi dod allan o (y)r tir a maen nhw (y)n sefyll fa(n) (y)na (y)n &va . 1449374_1453987
-%eng:	and the flowers, they've come out of the ground and they're standing there like [...]
+*AMA:	a (y)r blodau maen nhw (y)n [//] wedi dod allan o (y)r tir a maen nhw (y)n sefyll fa(n) (y)na (y)n falch [?] . 1449374_1453987
+%eng:	and the flowers, they've come out of the ground and they're there standing proud
 *AMA:	<(doe)s dim (.)> [//] dŷn nhw (ddi)m wedi tyfu dim dim . 1454179_1457193
 %eng:	they haven't grown at all.
 *JAV:	+< na . 1455002_1455600
@@ -964,7 +956,7 @@
 %eng:	how many times have you been singing in the choir?
 *AMA:	o@s:cym&spa ar hyd y blynyddoedd +... 1518585_1520276
 %eng:	oh, over the years...
-*AMA:	mi ganais i yn [//] (..) bron yn bob côr yn fan_hyn . 1521010_1525138
+*AMA:	mi ganais i yn [//] (..) bron yn bob côr yn fan hyn . 1521010_1525138
 %eng:	I've sung in almost every choir here.
 *AMA:	a [//] ac yn Trelew@s:cym&spa hefyd xxx bob tsians ges i o(eddw)n i (y)n (.) canu mewn corau erbyn (.) [/] erbyn (ei)steddfod (..) neu erbyn Gŵyl_Dewi neu (..) <popeth oedd> [//] pob achlysur oedd (y)na . 1527841_1543026
 %eng:	and in Trelew as well, every chance I had I sang in choirs, for the eisteddfod or for St. David's Day or for every occasion there was.
@@ -979,7 +971,7 @@
 *AMA:	+< ah@s:cym&spa ie mae anodd mynd i (.) i (y)r ysgol gân a bopeth fel (yn)a no@s:spa ? 1556898_1560173
 %eng:	ah yes, it's difficult to go to singing school and things like that, isn't it?
 %com:	pronunciation of anodd: hanodd
-*JAV:	+< &o (..) o(eddw)n i (.) yn gyrru lori (.) i nôl petrol i Comodoro@s:cym&spa (..) neu mynd a pethau i Trelew@s:cym&spa . 1559933_1572243
+*JAV:	+< &o (..) o(eddw)n i (.) yn gyrru lori (.) i nôl petrol i Comodoro@s:cym&spa (..) neu mynd â pethau i Trelew@s:cym&spa . 1559933_1572243
 %eng:	I drove a lorry bringing petrol to Comodoro or taking things to Trelew.
 *JAV:	a wedyn o(eddw)n i (.) allan (.) o gartre trwy (y)r amser . 1572203_1576763
 %eng:	and then I was away from home all the time.
@@ -1010,7 +1002,6 @@
 *JAV:	dw i ddim yn gwybod +... 1624198_1624976
 %eng:	I don't know...
 *AMA:	xxx ? 1624960_1625771
-%eng:	[...]
 *JAV:	+, beth yw y gwaith &=laugh . 1626362_1628826
 %eng:	...what the work is.
 *AMA:	&=laugh . 1629978_1633897
@@ -1112,7 +1103,7 @@
 %eng:	but this one is wonderful.
 *AMA:	Sion_Johnson@s:cym&spa yn arwain <yr uh (.)> [//] y gymanfa . 1824783_1827684
 %eng:	Sion Johnson leading the singing.
-*AMA:	wel dw i wrth (f)ym modd efo hi . 1827769_1829401
+*AMA:	wel dw i wrth ym modd efo hi . 1827769_1829401
 %eng:	I absolutely love it.
 *AMA:	a dw i (y)n gobeithio fydd pawb eisiau mynd i weld hi . 1830440_1833086
 %eng:	and I hope everybody will want to go and see it.
@@ -1134,24 +1125,22 @@
 %eng:	of course.
 %com:	pause
 *AMA:	xxx . 1872661_1873397
-%eng:	[...]
 %com:	pause with whispering
 *AMA:	wel dan ni (we)di siarad digon am y tro siŵr ? 1876501_1878794
 %eng:	we've talked enough for now, surely?
 *AMA:	xxx . 1878965_1879509
-%eng:	[...]
 *JAV:	+< wyt ti wedi gweud digon o glecs . 1879151_1881237
 %eng:	you have gossipped enough.
 *AMA:	do . 1881167_1881509
 %eng:	yes.
 *AMA:	ti sy (we)di siarad fwya . 1881610_1882687
 %eng:	you are the one who has talked most.
-*JAV:	dw i ddim yn gallu siarad y Cymraeg a wedyn paid a roi bai arno fi bod fi wedi siarad . 1882779_1889211
+*JAV:	dw i ddim yn gallu siarad y Cymraeg a wedyn paid â roi bai arno fi bod fi wedi siarad . 1882779_1889211
 %eng:	I can't speak Welsh, so don't blame me for talking.
 *JAV:	amser neu ddysgu siarad Cymraeg +... 1890324_1893711
 %eng:	time or learning Welsh...
-*AMA:	bydd i wneud uh gwell job . 1893785_1895764
-%eng:	it'll be to do a better job.
+*AMA:	xxx wneud uh gwell job . 1893785_1895764
+%eng:	[...] do a better job.
 *JAV:	+< ia . 1894397_1895325
 %eng:	yes.
 *JAV:	neu galw arnot ti er_mwyn cael +... 1895682_1897797
@@ -1168,7 +1157,6 @@
 *AMA:	mae gen i lot o ffrindiau newydd yng Nghymru . 1909274_1911353
 %eng:	I have many new friends in Wales.
 *JAV:	+< xx . 1910782_1911193
-%eng:	[...]
 *AMA:	a um +... 1912660_1913247
 %eng:	and um...
 *JAV:	<dw i> [/] dw i +/. 1913220_1914402
@@ -1210,7 +1198,7 @@
 %eng:	mmhm.
 *JAV:	a dw i (y)n byw mor agos <i (y)r> [/] (..) i (y)r cartre capel . 1956958_1962116
 %eng:	and I live so close to the chapel house.
-*AMA:	+< i (y)r capel nes bod hi (y)n anodd peidio mynd (y)na . 1961241_1963737
+*AMA:	+< i (y)r capel nes bod hi (y)n &h anodd peidio mynd (y)na . 1961241_1963737
 %eng:	to the chapel that it is difficult not to go there.
 %com:	pronunciation of anodd: hanodd
 *JAV:	+< &=laugh . 1963428_1964025
