@@ -407,16 +407,16 @@
 *EDU:	o [/] o ble daethon nhw ? 406382_408019
 %eng:	where did they come from?
 *MLA:	o chicles@s:spa . 408043_409912
-%eng:	from [...]
-*EDU:	xxx chicles@s:spa ych a fi na . 410084_412545
-%eng:	[...] gums yuk no!
+%eng:	from chewing gum
+*EDU:	xxx chicles@s:spa ych_a_fi na . 410084_412545
+%eng:	[...] chewing gums yuk no!
 *MLA:	mhm@s:cym&spa . 412574_413236
 *EDU:	pam oedd mam yn deud bod [/] bod dy sbectol ti (we)di torri ? 415273_418216
 %eng:	why did your mum say that your glasses had broken?
 *MLA:	achos o(eddw)n i (we)di torri nhw . 421028_423559
 %eng:	because I had broken them
-*EDU:	a mae (y)n well nawr ? 423750_425085
-%eng:	and it's better now
+*EDU:	a maen nhw well nawr ? 423750_425085
+%eng:	and they're better now
 *MLA:	mhm@s:cym&spa . 425172_426304
 *EDU:	xxx wyt ti (y)n gallu dangos hwn i fi ? 426611_428388
 %eng:	[...] can you show this to me?
@@ -431,7 +431,7 @@
 %eng:	where were they broken?
 *MLA:	uh man (h)yn . 446047_447127
 %eng:	er, here
-*MLA:	achos <oedd o (y)n> [//] oedd +... 447563_449734
+*MLA:	achos oedd [//] &don oedd +//. 447563_449734
 %eng:	because it was...
 *MLA:	<sut dw i (y)n deud xxx> [=! whisper] ? 449775_451470
 %eng:	how do I say [...] ?
@@ -439,7 +439,7 @@
 %eng:	yeah, I don't know
 *EDU:	tornillito@s:spa deud . 452366_453452
 %eng:	little screw say.
-*MLA:	xxx a mae o (we)di dod i_ffwrdd a <mae hwn> [//] oedd hwn (we)di agor a mae hwn wedi dod allan . 453771_461875
+*MLA:	xxx a mae o (we)di dod i ffwrdd a <mae hwn> [//] oedd hwn (we)di agor a mae hwn wedi dod allan . 453771_461875
 %eng:	[...] and it's come off, and this had opened, and this came out
 *EDU:	ah@s:cym&spa . 462049_463906
 *MLA:	a wedyn maen nhw (we)di roi hwn a maen nhw (we)di wneud fel (y)na . 463192_467593
@@ -451,8 +451,8 @@
 *EDU:	da iawn . 470841_472292
 %eng:	very good
 *EDU:	o_k@s:cym&spa . 473116_474253
-*EDU:	be [/] be uh o(edde)t ti (y)n sôn wrtha i heddiw fod ti (y)n mynd i fynd i rywle xx yn_ystod y gwyliau . 474811_480372
-%eng:	what, er, were you telling about today, that you're going to go somewhere [...] during the holidays?
+*EDU:	be [/] be uh o(edde)t ti (y)n sôn wrtha i heddiw fod ti (y)n mynd i fynd i rywle &ke &=stammer yn ystod y gwyliau . 474811_480372
+%eng:	what, er, were you telling about today, that you're going to go somewhere over the holidays.
 *EDU:	i ble ti (y)n mynd i fynd ? 480534_482055
 %eng:	where are you going to go?
 *MLA:	ddim yn gwybod . 482092_483973
@@ -461,16 +461,14 @@
 %eng:	you don't know?
 *MLA:	na . 485367_486075
 %eng:	no
-*EDU:	so ti ddim yn gwybod . 486411_487201
-%eng:	so you don't know
-*EDU:	pwy sy (y)n gwybod ? 487224_487851
-%eng:	who does know?
+*EDU:	os wyt ti ddim yn gwybod pwy sy (y)n gwybod ? 486313_488072
+%eng:	if you don't know, who does know?
 *MLA:	<ddim yn gwybod pwy sy (y)n gwybod> [=! laugh] . 488209_491970
 %eng:	I don't know who knows!
 *EDU:	mm +... 492562_493491
-*EDU:	ia (.) <lle ti ble ble ble mae hi i &p i &p i> [///] gyda pwy oeddet ti wedi bod yn siarad am y peth . 502171_509555
+*EDU:	ia (.) <lle ti ble [/] ble [/] ble mae hi i &p i &p i> [///] gyda pwy oeddet ti wedi bod yn siarad am y peth ? 502171_509555
 %eng:	yes [...] who have you been talking to about this thing?
-*MLA:	ma(e) Guadalupe@s:cym&spa wedi dweud i fi . 510793_512952
+*MLA:	mae Guadalupe@s:cym&spa wedi ddweud i fi . 510793_512952
 %eng:	Guadalupe told me
 *EDU:	a wedi wahodd ti i fynd i rywle ? 513103_514787
 %eng:	and she invited you to go somewhere?
@@ -486,7 +484,7 @@
 %eng:	yes
 *EDU:	wyt ti (we)di dweud bod ti mynd i fynd gyda nhw ? 522771_525000
 %eng:	have you said that you're going with them?
-*MLA:	ia ac oedd ni ddim wedi gofyn i ti . 525128_528483
+*MLA:	ia ac oeddwn i ddim wedi gofyn i ti . 525128_528483
 %eng:	yes, and I hadn't asked you
 *EDU:	&n i fi nac i mam . 528859_530426
 %eng:	not to me or your mother!
@@ -495,8 +493,8 @@
 %eng:	what is your mother going to say?
 *MLA:	dw i (ddi)m yn gwybod . 532690_534606
 %eng:	I don't know
-*EDU:	xxx mynd i gadael ti mynd gyda nhw ? 534792_537381
-%eng:	[...] going to let you go with them?
+*EDU:	<ydy (y)n> [?] mynd i gadael ti fynd gyda nhw ? 534792_537381
+%eng:	is she going to let you go with them?
 *EDU:	<dw i ddim yn credu> [/] (.) dw i ddim yn credu . 538055_540238
 %eng:	I don't think so
 *EDU:	achos <mae mam> [/] (.) mae mam isio ti aros gyda hi (.) a gyda dad . 543270_549981
@@ -504,11 +502,11 @@
 *EDU:	ynde (.) Mariela@s:cym&spa fach ? 549322_552735
 %eng:	isn't it (.) little Mariela?
 *MLA:	mhm@s:cym&spa . 552866_553458
-*EDU:	os wyt [//] os (fa)sen nhw (y)n wahodd ti fynd ar lan y môr (fa)set ti (y)n mynd ? 557565_561269
+*EDU:	os wyt [//] os (ba)sen nhw (y)n wahodd ti fynd ar lan y môr (ba)set ti (y)n mynd ? 557565_561269
 %eng:	if they were to invite you to the beach, would you go?
 *MLA:	ydw . 561350_562024
 %eng:	I would
-*EDU:	o@s:cym&spa (fa)set ti (y)n licio (y)r [//] y môr . 562625_565040
+*EDU:	o@s:cym&spa (ba)set ti (y)n licio (y)r [//] y môr . 562625_565040
 %eng:	oh, you'd like the sea
 *MLA:	mhm@s:cym&spa . 565226_566561
 *EDU:	tyrd yma i siarad . 567953_569358
@@ -529,12 +527,12 @@
 *EDU:	mm +... 590515_591101
 *MLA:	ond [?] (.) Catrin@s:cym&spa biau hwn . 591107_592831
 %eng:	but Catrin owns this
-*MLA:	Aled@s:cym&spa biau hwnna . 592866_593894
-%eng:	Aled owns that
-*MLA:	fi biau hwn . 593900_594724
-%eng:	I own this
-*MLA:	ond mae xx wedi anghofio rain . 594994_597752
-%eng:	but [...] has forgotten these
+*MLA:	Aled@s:cym&spa biau hwn . 592866_593719
+%eng:	Aled owns this
+*MLA:	a fi biau hwn . 593748_594724
+%eng:	and I own this
+*MLA:	ond mae un Aled@s:cym&spa  wedi anghofio rain . 594994_597752
+%eng:	but Aled's one has forgotten these
 *EDU:	ah@s:cym&spa . 598123_598924
 *MLA:	a (.) mae mam o (y)n Gymru nawr . 599181_601561
 %eng:	and his mum is in Wales now
@@ -550,11 +548,11 @@
 *EDU:	ie ? 614053_614674
 *MLA:	dan ni wedi roi (.) &d +... 615841_618453
 %eng:	we put the...
-*EDU:	dŵr ? 618755_619370
+*EDU:	++ dŵr ? 618755_619370
 %eng:	water
 *MLA:	[- spa] aceite . 620110_620957
 %eng:	oil
-*EDU:	oil . 621358_622060
+*EDU:	oil@s:eng . 621358_622060
 *MLA:	ia oil@s:eng . 622147_622954
 %eng:	yes, oil
 *MLA:	um +... 623497_624164
@@ -566,8 +564,8 @@
 %eng:	and
 *MLA:	ddim yn cofio . 629480_630525
 %eng:	don't remember
-*EDU:	chi (we)di cymysgu o ? 630740_631611
-%eng:	did you mix it?
+*EDU:	chi (we)di cymysgu fo ? 630740_631611
+%eng:	you mixed it?
 *MLA:	do . 631686_631994
 %eng:	yes
 *EDU:	halen ? 632265_632753
@@ -576,17 +574,18 @@
 %eng:	did you put salt in it?
 *MLA:	na . 634593_635005
 %eng:	no
-*EDU:	huh@s:cym&spa +... 635011_635476
+*EDU:	hm ! 635011_635476
+%eng:	hm!
 *EDU:	a wnaethoch chi gymysgu fo . 635866_637451
 %eng:	and you mixed it
-*MLA:	a wedyn +/. 636075_636864
+*MLA:	+< a wedyn +/. 636075_636864
 %eng:	and then...
 *MLA:	do . 637549_637746
 %eng:	yes
 *MLA:	a wedyn wneud fel (y)na . 637880_639041
 %eng:	and then do like that
-*MLA:	a xx . 639116_640068
-%eng:	and [...]
+*MLA:	a <fan yma> [?] . 639116_640068
+%eng:	and here
 *MLA:	y clai wedi wneud . 640375_641623
 %eng:	the clay is made
 *MLA:	dan ni wedi wneud . 641646_642656
@@ -599,6 +598,8 @@
 %eng:	and then we've made these
 *EDU:	<dach chi (we)di wneud> [?] oeddech chi (we)di wneud cwpan cynta(f) ? 647633_649932
 %eng:	did you make the cup first?
+*MLA:	+< a wedyn +/. 647554_648332
+%eng:	and then...
 *MLA:	do . 650635_651018
 %eng:	yes
 *MLA:	a wedyn +/. 651053_651772
@@ -629,7 +630,7 @@
 %eng:	we did
 *EDU:	sut ? 670878_671592
 %eng:	how
-*MLA:	uh na dan ni gyda +... 672124_674191
+*MLA:	uh na dan ni gyda +//. 672124_674191
 %eng:	er, no, we had...
 *MLA:	o(edde)n nhw wedi prynu +... 674196_676193
 %eng:	they had bought...
@@ -661,7 +662,7 @@
 %eng:	solid and hard?
 *EDU:	sut ? 693807_694254
 %eng:	how
-*MLA:	achos dan ni (we)di gadael o i sychu . 694704_697089
+*MLA:	achos dan ni (we)di gadael o i &x sychu . 694704_697089
 %eng:	because we've let it dry
 *EDU:	ah@s:cym&spa . 697687_699045
 *EDU:	dw i (y)n gweld nawr . 699626_700833
@@ -693,7 +694,7 @@
 %eng:	no
 *MLA:	ond mae +/. 724604_725231
 %eng:	but [...] ...
-*EDU:	does dim isie (.) help arnyn nhw . 724659_726366
+*EDU:	does dim isio (.) help arnyn nhw . 724659_726366
 %eng:	they don't need help
 *MLA:	weithiau ia . 726540_727719
 %eng:	sometimes they do
@@ -702,11 +703,11 @@
 *EDU:	pa weithiau ? 730043_731343
 %eng:	when?
 *MLA:	xx . 730287_731395
-*MLA:	<edrych xxx> [=! whisper] . 733019_735381
-%eng:	look [...]
+*MLA:	edrych [=! whisper] . 733019_735381
+%eng:	look!
 *EDU:	ia . 734830_735497
 %eng:	yes
-*EDU:	paid ti a wneud hynna . 735561_736240
+*EDU:	paid ti a wneud hynna [?] . 735561_736240
 %eng:	don't you do that
 *MLA:	+< xxx . 735788_737448
 *EDU:	paid dorri fo . 736252_736861
@@ -717,14 +718,14 @@
 %eng:	listen, why did they need help?
 *MLA:	achos weithiau maen nhw (y)n gorfod +... 741382_743785
 %eng:	because sometimes they have to...
-*MLA:	sut dw i (y)n uh [/] <sut dw i (y)n xxx> [=! whisper] . 744140_748162
-%eng:	how do I er [...]
-*EDU:	fotocopias@s:spa (y)dyn nhw . 748232_749289
+*MLA:	sut dw i (y)n uh [/] <sut dw i (y)n deud tynnu [?] fotocopia@s:spa> [=! whisper] . 744140_748162
+%eng:	how do I er, how do I say "take a photocopy"?
+*EDU:	fotocopias@s:spa ["] (y)dyn nhw . 748232_749289
 %eng:	they're photocopies
 *MLA:	dw i (y)n mynd i dynnu fotocopias@s:spa . 749742_752081
 %eng:	I'm going to take photocopies
 *EDU:	ah@s:cym&spa ti (y)n croesi (y)r ffordd ac yn tynnu fotocopias@s:spa iddyn nhw . 752411_755308
-%eng:	ah, you cross the road and take photocopies to them
+%eng:	ah, you cross the road and take photocopies for them
 *MLA:	mhm@s:cym&spa . 755592_756532
 *EDU:	mm +... 756817_757693
 *EDU:	a [/] a (dy)na i_gyd ? 758564_759551
@@ -734,10 +735,10 @@
 *MLA:	na . 762797_763250
 %eng:	no
 *MLA:	helpu nhw gyda (y)r plant . 763314_765148
-%eng:	I help them with the children
+%eng:	helping them with the children
 *EDU:	i wneud beth ? 766216_767313
 %eng:	to do what?
-*MLA:	i wneud i nhw (e)iste(dd) . 768230_769919
+*MLA:	i <wneud i nhw> [?] (e)iste(dd) . 768230_769919
 %eng:	to make them sit
 *EDU:	iddyn nhw (e)iste(dd) . 770285_770871
 %eng:	to make them sit
@@ -758,7 +759,7 @@
 *MLA:	ìa . 780729_781182
 %eng:	yes
 *EDU:	+" plant bach (.) dewch yma i eistedd . 781217_783191
-%eng:	little children, come and sit here
+%eng:	"little children, come and sit here"
 *EDU:	fel yna ? 783349_783854
 %eng:	like that?
 *MLA:	ia . 784080_784632
@@ -773,6 +774,7 @@
 *MLA:	Reyes@s:cym&spa (..) a Odalis@s:cym&spa . 789135_791921
 %eng:	Reyes and Odalis
 *EDU:	wel +... 791959_793213
+%eng:	well...
 *EDU:	be maen nhw (y)n wneud ? 793706_794559
 %eng:	what do they do?
 *MLA:	maen nhw (y)n ffraeo . 795307_796358
@@ -814,8 +816,8 @@
 *EDU:	mm +... 829760_830689
 *EDU:	xxx . 831121_832502
 *EDU:	mm +... 834279_835521
-*EDU:	xxx ti gadael hwnna rŵan . 835765_838168
-%eng:	[...] leave that now
+*EDU:	ti gadael hwnna fan (a)cw . 835765_838168
+%eng:	leave that there
 *EDU:	tyrd yma . 842410_843675
 %eng:	come here
 *EDU:	pam wyt ti (y)n bwyta cymaint ? 847402_848841
@@ -867,13 +869,13 @@
 %eng:	well, everyone likes meat in our country
 *MLA:	ond fi ddim yn hoffi . 901953_903329
 %eng:	but I don't like it
-*EDU:	jiw (.) wyt ti yn dod o ryw planedau (.) rhyfedd yn y byd yma . 903563_909618
+*EDU:	jiw (.) wyt ti yn dod o ryw planeta@s:spa (.) rhyfedd yn y byd yma . 903563_909870
 %eng:	Lord, you come from some strange planet in this world
 *EDU:	ti (y)n clywed ? 910574_911624
 %eng:	do you hear?
 *EDU:	a beth ydy dy hoff (.) diod ti ? 916746_919851
 %eng:	and what's your favourite drink?
-*MLA:	um (..) diod o de@s:spa satsuma@s:cym&spa . 922037_926582
+*MLA:	um (..) diod o <de@s:spa satsuma@s:cym&spa> [?] . 922037_926582
 %eng:	um, a drink of satsumas
 *EDU:	hmm ? 923772_924283
 *EDU:	na diod . 926618_928284
@@ -890,7 +892,7 @@
 *EDU:	hwnna yw dy hoff diod ? 939243_940578
 %eng:	that's your favourite drink?
 *MLA:	mhm@s:cym&spa . 940683_941223
-*EDU:	dim Coca_Cola@s:cym&spa na xx Sprite@s:cym&spa . 941456_943946
+*EDU:	dim [/] dim Coca_Cola@s:cym&spa na xx Sprite@s:cym&spa . 941023_943946
 %eng:	not Coca Cola or [...] Sprite
 *EDU:	nage rhei (y)na ? 943970_944846
 %eng:	not those?
@@ -926,7 +928,7 @@
 *EDU:	ti (y)n clywed ? 978098_978580
 %eng:	do you hear?
 *MLA:	mhm@s:cym&spa . 978684_979276
-*EDU:	wyt ti (y)n gallu dweud wrthyn nhw fan (a)cw (.) pwy sy (y)n ysgrifennu atat ti o Gymru ? 981225_986357
+*EDU:	wyt ti (y)n gallu dweud wrthyn nhw fan (a)cw (.) pwy sy (y)n ysgrifennu atat ti o Cymru ? 981225_986357
 %eng:	can you tell them over there who is writing to you from Wales?
 *EDU:	mae gen ti hen ffrind (.) yng (G)ymru . 986365_988431
 %eng:	you have an old friend in Wales
@@ -942,7 +944,7 @@
 %eng:	a book
 *EDU:	llyfr . 996491_997385
 %eng:	a book
-*EDU:	òh@s:cym&spa mae (we)di anfon mwy nag un llyfr . 998648_1000726
+*EDU:	o@s:cym&spa mae (we)di anfon mwy nag un llyfr . 998648_1000726
 %eng:	oh, he's sent more than one book
 *EDU:	llyfrau erbyn hyn . 1000860_1002114
 %eng:	books, by now
@@ -954,8 +956,8 @@
 %eng:	like a hundred
 *EDU:	cant ? 1006358_1007090
 %eng:	a hundred?
-*MLA:	na . 1007203_1007673
-%eng:	no
+*MLA:	ia [?] . 1007203_1007673
+%eng:	yes
 *EDU:	cant ohonyn nhw ? 1007772_1008556
 %eng:	a hundred of them?
 *MLA:	ia edrych . 1008811_1009827
@@ -967,8 +969,8 @@
 *MLA:	mhm@s:cym&spa maen nhw (y)n <fel (y)na> [?] . 1015510_1017403
 %eng:	mm, they're like that
 *EDU:	ie . 1017583_1018361
-*EDU:	a beth arall (.) gallen ni ddeud ? 1021403_1023504
-%eng:	and what else can we say?
+*EDU:	a beth arall (.) gallwn ni deud ? 1021403_1023685
+%eng:	and what else could we say?
 *EDU:	hmm ? 1025278_1025772
 *EDU:	<pwy sy> [/] pwy sy (y)n mynd gyda ti yn yr ysgol ? 1030133_1032658
 %eng:	who goes with you to school?
@@ -1031,7 +1033,8 @@
 *MLA:	coffi â llaeth . 1080171_1081129
 %eng:	coffee with milk
 *EDU:	mm +... 1081316_1081752
-*MLA:	ah@s:cym&spa (.) um +... 1081902_1083917
+*MLA:	a (.) um +... 1081902_1083917
+%eng:	and, um...
 *EDU:	a rywbeth bach i fwyta ? 1084095_1085430
 %eng:	and a little something to eat?
 *MLA:	[- spa] xxx con leche . 1085418_1086399
@@ -1053,7 +1056,7 @@
 *MLA:	ia bara menyn neu bara gyda (.) jam@s:cym&spa llaeth . 1097947_1101935
 %eng:	yes butter bread or bread with milk jam
 *EDU:	ah@s:cym&spa . 1102155_1102707
-*MLA:	neu bara gyda [/] (..) gyda jam@s:cym&spa . 1107831_1109062
+*MLA:	neu bara gyda [/] (..) gyda jam@s:cym&spa . 1103260_1109062
 %eng:	or bread with jam
 *EDU:	gyda jam@s:cym&spa ? 1109546_1110579
 %eng:	with jam?
@@ -1088,7 +1091,7 @@
 *EDU:	am ddeg ? 1134871_1135556
 %eng:	at ten?
 *MLA:	mhm@s:cym&spa . 1135637_1136241
-*EDU:	a wedyn (.) dach chi (y)n cael amser rhydd i gael y brecwast yndych ? 1136402_1140164
+*EDU:	a wedyn (.) dach chi (y)n cael amser rhydd i gael y brecwast ynde ? 1136402_1140164
 %eng:	and then you have free time to have breakfast don't you?
 *MLA:	na . 1141311_1141706
 %eng:	no
@@ -1096,12 +1099,13 @@
 %eng:	you have break too, to have breakfast?
 *MLA:	na am naw dan ni (y)n cael brecwast . 1145177_1147818
 %eng:	no, we have breakfast at nine
-*EDU:	ah@s:cym&spa (.) right@s:cym&spa . 1147940_1149246
+*EDU:	ah@s:cym&spa (.) reit . 1147940_1149246
+%eng:	ah right
 *MLA:	+< naw . 1148620_1149206
 %eng:	nine
 *EDU:	a wedyn (.) chi (y)n_ôl yn y gwaith tan canol dydd . 1151305_1155339
 %eng:	and then you're back at work until mid day
-*MLA:	ia a wedyn <ar_ôl e (.) dan ni &a> [//] ar_ôl dan ni yn cael cinio dan ni gyda +... 1155519_1162961
+*MLA:	ia a wedyn <ar_ôl eh@s:cym&spa (.) dan ni &a> [//] ar_ôl dan ni yn cael cinio dan ni gyda +... 1155519_1162961
 %eng:	yes, and then after we have lunch we have...
 *MLA:	<sut dw i (y)n deud recreo@s:spa> [=! whisper] ? 1163216_1165492
 %eng:	how do I say recreo [break] ?
@@ -1115,7 +1119,7 @@
 %eng:	and then two [...] periods...
 *EDU:	++ sbâr ? 1171110_1171795
 %eng:	spare?
-*MLA:	ia a wedyn mae yna un@s:spa kioskito@s:spa . 1171934_1175463
+*MLA:	ia a wedyn mae (y)na un@s:spa kioskito@s:spa . 1171934_1175463
 %eng:	yes and there's a little shop.
 *EDU:	lle dach chi (y)n gallu prynu pethau ? 1178614_1180262
 %eng:	where you can buy things?
@@ -1123,36 +1127,37 @@
 %eng:	[...] is...
 *EDU:	fel beth ? 1181215_1181911
 %eng:	like what?
-*MLA:	um (.) hufen ia bach (.) fel (y)na . 1182438_1187349
+*MLA:	um (.) hufen iâ bach (.) fel (y)na . 1182438_1187349
 %eng:	a little ice cream like that
 *EDU:	ie . 1186873_1187744
+%eng:	yes
 *MLA:	um siocled . 1187968_1189930
 %eng:	um, chocolate
 *EDU:	losin . 1190546_1191730
 %eng:	sweets
-*MLA:	ia a (.) lollipop@s:cym&spa [=! whisper] [/] lollipop@s:cym&spa . 1192369_1196177
-%eng:	yes and lollipop
-*EDU:	+< yeah@s:cym&spa . 1194598_1195341
+*MLA:	ia a (.) lolipop [=! whisper] [/] lolipop . 1192369_1196177
+%eng:	yes and a lollipop
+*EDU:	+< ie . 1194598_1195341
 *MLA:	a (.) weithiau teisen neu torta@s:spa fritas@s:spa . 1197270_1202239
-%eng:	and sometimes fried cakes or .
+%eng:	and sometimes a cake or fried cakes.
 *EDU:	ia . 1202177_1202844
 %eng:	yes
 *MLA:	a +/. 1204423_1204981
 %eng:	and...
-*EDU:	ond (.) dach chi (y)n bwyta rhei (y)na ar pen y ginio ? 1205460_1209297
+*EDU:	ond (.) dach chi (y)n bwyta rheina ar pen y ginio ? 1205460_1209297
 %eng:	but you're eating those on top of your lunch?
 *EDU:	gobeithio bod yna &dd <dach chi ddim> [//] dach chi (y)n bwyta y [/] y fwyd yna cyn cael cinio neu cyn cael brecwast ? 1209435_1215809
 %eng:	I hope that you eat that food before having lunch or before having breakfast?
 *MLA:	na uh dw i (we)di deud bod ar_ôl cinio mae (y)na ddau amser rydd . 1215078_1221092
 %eng:	no, er, I've said that that after lunch there are two free periods
-*MLA:	a wedyn dan ni (y)n cael hwnna [//] y kiosk@s:cym&spa . 1221417_1225190
+*MLA:	a wedyn dan ni (y)n cael hwnna y ciosg . 1221417_1225190
 %eng:	and then we get that, the shop
 *EDU:	+< ah@s:cym&spa . 1221615_1222672
-*EDU:	+< ah@s:cym&spa a wedyn maen nhw (y)n agor y kiosk@s:cym&spa . 1224170_1227037
+*EDU:	+< ah@s:cym&spa a wedyn maen nhw (y)n agor y ciosg . 1224170_1227037
 %eng:	ah, and then they open the kiosk
 *EDU:	ah@s:cym&spa dw i (y)n deall nawr . 1227095_1229545
 %eng:	ah, I understand now
-*EDU:	a pwy sy (y)n tendio (y)r kiosk@s:cym&spa ? 1229632_1232059
+*EDU:	a pwy sy (y)n tendio (y)r ciosg ? 1229632_1232059
 %eng:	and who tends the shop?
 *EDU:	pobl yr ysgol ? 1232732_1233696
 %eng:	the school staff?
@@ -1161,16 +1166,18 @@
 *EDU:	mm +... 1234922_1235526
 *MLA:	athrawon (.) [/] athrawon . 1235480_1237767
 %eng:	teachers
-*EDU:	a pryd mae (y)r arian yn [//] yna (y)n mynd ? 1238475_1240530
-%eng:	and when does the money go?
+*EDU:	+< athrawon . 1236609_1237225
+%eng:	teachers
+*EDU:	a ble mae (y)r arian yn [//] yna (y)n mynd ? 1238475_1240530
+%eng:	and where does the money go?
 *MLA:	i cooperadora@s:spa . 1240727_1241923
 %eng:	to the co-operative
 *EDU:	ah@s:cym&spa i cadw yr ysgol yn iawn . 1242283_1244489
 %eng:	ah, to keep the school
 *MLA:	mhm@s:cym&spa . 1244588_1245203
 *EDU:	ah@s:cym&spa . 1245481_1246538
-*EDU:	a ti (y)n prynu fan (y)na yn y kiosk@s:cym&spa ? 1247165_1248721
-%eng:	and you buy there in the shop?
+*EDU:	a ti (y)n prynu fan (y)na yn y ciosg ? 1247165_1248721
+%eng:	and you buy there at the shop?
 *MLA:	mhm@s:cym&spa . 1248953_1249766
 *EDU:	+< lot o bethau ? 1249025_1249977
 %eng:	a lot of things?
@@ -1185,7 +1192,7 @@
 %eng:	you don't ask me every time
 *MLA:	na weithiau i mam . 1258191_1259608
 %eng:	no, sometimes mum
-*EDU:	a weithiau i mam . 1259782_1260838
+*EDU:	a gweithiau i mam . 1259782_1260838
 %eng:	and sometimes mum
 *EDU:	a weithiau i dad . 1260943_1261953
 %eng:	and sometimes dad
@@ -1193,9 +1200,9 @@
 %eng:	and...
 *MLA:	mhm@s:cym&spa . 1262150_1263451
 *EDU:	a (.) faint o arian wyt ti (y)n gwario bob dydd ? 1263647_1267106
-%eng:	and how much money do you spend every day?
-*MLA:	um (.) weithiau i dau peth . 1267664_1271890
-%eng:	um, sometimes on two things
+%eng:	and how much money do you spend each day?
+*MLA:	um (.) weithiau dau peso@s:cym&spa . 1267664_1271890
+%eng:	um, sometimes two pesos
 *EDU:	a weithiau mwy ? 1272331_1273759
 %eng:	and sometimes more?
 *MLA:	na . 1274592_1275080
@@ -1204,8 +1211,8 @@
 %eng:	tell the truth [...]
 *MLA:	na . 1276844_1277669
 %eng:	no
-*EDU:	ti (y)n sure@s:cym&spa . 1277796_1278389
-%eng:	are you sure
+*EDU:	ti (y)n siŵr ? 1277796_1278389
+%eng:	are you sure?
 *MLA:	mhm@s:cym&spa . 1278528_1279097
 *EDU:	mm +... 1279968_1281755
 *MLA:	+< &=exhale . 1280525_1281860
@@ -1214,7 +1221,7 @@
 *EDU:	a beth arall ? 1285866_1287085
 %eng:	and what else?
 *MLA:	um +... 1287738_1289212
-*EDU:	a wedyn o(edde)t ti (y)n dod yn_ôl i (y)r tŷ (.) ar y bws . 1292091_1294889
+*EDU:	a wedyn wyt ti (y)n dod yn_ôl i (y)r tŷ (.) ar y bws . 1292091_1294889
 %eng:	and then you come back to the house on the bus
 *MLA:	ia . 1295005_1295528
 %eng:	yes
@@ -1230,7 +1237,7 @@
 %eng:	yes
 *MLA:	neu weithiau dw i (y)n mynd i (y)r ysgol gerdd . 1309038_1311767
 %eng:	or sometimes I go to the music school
-*EDU:	beth wyt ti (y)n wneud yn yr ysgol gerdd ? 1312348_1314078
+*EDU:	beth wyt ti (y)n wneud yn yr ysgol cerdd ? 1312348_1314078
 %eng:	what do you do at the music school?
 *EDU:	&=sniff . 1314217_1315007
 *MLA:	eh@s:cym&spa (.) dw i (y)n mynd i canu . 1314600_1317735
@@ -1242,33 +1249,36 @@
 *MLA:	<sut dw i (y)n dweud taller@s:spa> [=! whisper] ? 1321905_1324007
 %eng:	how do I say workshop ?
 *EDU:	ie . 1324181_1324715
-*EDU:	xx beth ? 1325469_1326456
-%eng:	[...] what?
-*MLA:	um i [//] dw i (y)n mynd i xx i gallu darllen eh@s:cym&spa +//. 1326814_1333014
-*MLA:	sut dw i (y)n xxx ? 1333095_1334941
+*EDU:	taller@s:spa beth ? 1325469_1326456
+%eng:	what kind of workshop?
+*MLA:	um i [//] dw i (y)n mynd i taller@s:spa i gallu darllen eh@s:cym&spa +//. 1326814_1333014
+%eng:	um, I go to a workshop so I can read, er...
+*MLA:	<sut dw i (y)n ddweud xx> [=! whispers] ? 1333095_1334941
+%eng:	how do I say [...]
 *EDU:	darllen cerddoriaeth . 1335059_1336034
 %eng:	reading music
 *MLA:	ia cerddoriaeth (.) a +/. 1336116_1338206
 %eng:	yes, music and...
 *EDU:	ah@s:cym&spa ti (y)n mynd i gwers darllen cerddoriaeth . 1337741_1340319
 %eng:	ah, you go to a music reading lesson
-*MLA:	+< yeah@s:cym&spa . 1339239_1339959
+*MLA:	+< ie . 1339239_1339959
+%eng:	yes
 *MLA:	achos wedyn dw i y(n) gorfod mynd i piano@s:cym&spa a dw i gorfod darllen cerddoriaeth . 1340474_1345931
 %eng:	because then I have to go to piano, and I have to read music
 *EDU:	+< ah@s:cym&spa . 1340544_1340904
-*EDU:	yeah@s:cym&spa dw i (y)n +/. 1346076_1346958
+*EDU:	ie dw i (y)n +/. 1346076_1346958
 %eng:	yes, I...
 *MLA:	dw i (y)n gorfod chwarae . 1346238_1347434
 %eng:	I have to play
 *EDU:	ia ah@s:cym&spa dw i (y)n gweld . 1347481_1349071
 %eng:	yes, ah, I see
-*EDU:	felly wyt ti (y)n mynd i gwers cerddoriaeth gyntaf a wedyn xx (y)n mynd i gwers piano@s:cym&spa (.) i darllen beth wyt ti wedi dysgu yn fan (a)cw ? 1349036_1356699
+*EDU:	felly wyt ti (y)n mynd i gwers cerddoriaeth gynta a wedyn wyt ti mynd i wers piano@s:cym&spa (.) i darllen beth wyt ti (we)di dysgu yn fan (a)cw ? 1349036_1356699
 %eng:	so you have to go to music lessons first and then [...] in the piano lesson to read what you've learnt there?
 *MLA:	+< ia . 1355824_1356450
 %eng:	yes
 *EDU:	ah@s:cym&spa . 1356822_1357867
-*MLA:	a wedyn <a ar_ôl na> [//] eh@s:cym&spa [/] eh@s:cym&spa dydd Llun dw i mynd <i i> [/] i darllen eh@s:cym&spa [/] eh@s:cym&spa +... 1357341_1368150
-%eng:	and then eh, Monday I go to the...
+*MLA:	a wedyn <a ar_ôl na> [//] eh@s:cym&spa [/] eh@s:cym&spa dydd Llun dw i mynd i [/] i [/] i darllen eh@s:cym&spa [/] eh@s:cym&spa +... 1357341_1368150
+%eng:	and then eh, Monday I go to read, er...
 *EDU:	++ y gwers darllen . 1368474_1369519
 %eng:	the reading lesson
 *MLA:	y gwers darllen . 1369101_1371226
@@ -1278,7 +1288,8 @@
 *MLA:	xxx [=! whisper] . 1371948_1377416
 *MLA:	+, dydd Mercher (.) dw i (y)n mynd i darlunio . 1377532_1381363
 %eng:	Wednesday, I go to art lessons
-*EDU:	yeah@s:cym&spa . 1381480_1382118
+*EDU:	ie . 1381480_1382118
+%eng:	yes
 *EDU:	a dydd Gwener ? 1384961_1386146
 %eng:	and Friday?
 *MLA:	dydd (.) Iau dw i (y)n mynd i piano@s:cym&spa . 1386188_1390112
@@ -1286,19 +1297,19 @@
 *EDU:	dydd Iau ? 1387722_1388518
 *EDU:	ia . 1390321_1390809
 %eng:	yes
-*MLA:	a wedyn y piano@s:cym&spa dw i (y)n mynd i dawnsio werin . 1391157_1395035
-%eng:	and then after piano lessons I go folk dancing
+*MLA:	a wedyn o [?] piano@s:cym&spa dw i (y)n mynd i dawnsio werin . 1391157_1395035
+%eng:	and then from piano lessons I go to folk dancing
 *EDU:	ia . 1395174_1395964
 %eng:	yes
 *MLA:	a wedyn dw i (y)n mynd i (y)r tŷ . 1397115_1399101
 %eng:	and then I go to the house
-*MLA:	a wedyn um (..) Gwener [//] dydd Gwener dw i (y)n mynd i (.) canu . 1399273_1407191
+*MLA:	a wedyn um (..) Gwener [//] dydd Gwener dw i (y)n mynd i canu . 1399273_1407191
 %eng:	and then, um, on Friday I go singing
 *EDU:	canu beth ? 1408171_1409112
 %eng:	singing what?
-*MLA:	uh gyda Dilys@s:cym&spa (.) bore <yn y côr> [?] . 1409565_1411979
-%eng:	er, in the choir with Dilys in the morning
-*EDU:	yn y côr . 1411387_1411956
+*MLA:	uh gyda Dilys@s:cym&spa (.) côr [//] <yn y côr> [?] . 1409565_1411979
+%eng:	er, in the choir with Dilys
+*EDU:	+< yn y côr . 1411387_1411956
 %eng:	in the choir
 *EDU:	a be dach chi (we)di canu ? 1412119_1413930
 %eng:	and what have you sung?
@@ -1322,13 +1333,13 @@
 %eng:	yes
 *EDU:	yn Gymraeg neu yn Sbaeneg dach chi (y)n ganu ? 1428057_1430077
 %eng:	do you sing in Welsh or Spanish?
-*MLA:	yn Cymraeg ag yn Sbaeneg . 1430275_1432713
+*MLA:	yn Cymraeg ac yn Sbaeneg . 1430275_1432713
 %eng:	in Welsh and Spanish
 *EDU:	pwy sy (y)n canu efo ti ? 1433317_1434454
 %eng:	who sings with you?
 *EDU:	dy ffrindiau ti ? 1434431_1435430
 %eng:	your friends?
-*MLA:	na (.) pobol . 1436385_1437988
+*MLA:	na (.) bobl . 1436385_1437988
 %eng:	no, people
 *EDU:	+< pwy ? 1437198_1437837
 %eng:	who?
@@ -1355,10 +1366,12 @@
 *EDU:	mm +... 1457403_1457926
 *MLA:	um (..) Margaret@s:cym&spa . 1458457_1460042
 *MLA:	Gisela@s:cym&spa . 1460140_1461179
-*EDU:	Duw@s:cym&spa . 1461655_1462428
+*EDU:	Duw@s:cym&spa ! 1461655_1462428
+%eng:	God!
 *MLA:	a +/. 1461795_1462120
 %eng:	and...
 *EDU:	criw neis . 1462596_1463264
+%eng:	a nice group
 *MLA:	ia . 1463432_1463926
 %eng:	yes
 *MLA:	a mae (y)na (.) mwy . 1464912_1466294
@@ -1371,19 +1384,20 @@
 *MLA:	mhm@s:cym&spa . 1471738_1472266
 *EDU:	mae Hortensia@s:cym&spa yn fach i ganu gyda chi . 1472376_1474553
 %eng:	she's young to be singing with you
-*MLA:	ia . 1475747_1475944
-%eng:	yes
-*MLA:	ond mae Hortensia@s:cym&spa yr un oed (.) Apolinar@s:cym&spa . 1475915_1478557
-%eng:	but Hortensia is the same age as
+*MLA:	ia ond mae Hortensia@s:cym&spa yr un oed (.) Apolinar@s:cym&spa . 1475717_1478557
+%eng:	yes but Hortensia is the same age as Apolinar
 *EDU:	o@s:cym&spa . 1478882_1479816
+%eng:	oh
 *MLA:	yr un oedran . 1480248_1481014
 %eng:	the same age
-*EDU:	++ a Apolinar@s:cym&spa ? 1481757_1482465
+*EDU:	++ â Apolinar@s:cym&spa ? 1481757_1482465
 %eng:	as Apolinar
 *MLA:	ia . 1482465_1482761
 %eng:	yes
 *EDU:	o@s:cym&spa . 1482970_1483528
+%eng:	oh
 *EDU:	o@s:cym&spa . 1485309_1485634
+%eng:	oh
 *EDU:	da iawn . 1486894_1487538
 %eng:	very good
 *EDU:	felly wyt ti yn llawn gwaith (.) trwy (y)r dydd a trwy (y)r nos . 1488813_1492946
@@ -1392,9 +1406,10 @@
 *EDU:	pryd wyt ti (y)n mynd i gael amser (.) rhydd i ymlacio a gwneud dim ? 1495347_1500014
 %eng:	when are you going to have free time to relax and do nothing?
 *MLA:	um +... 1500674_1501527
-*MLA:	ah@s:cym&spa na ar dydd Mawrth (.) dw i (y)n mynd i (.) [/] Gymraeg . 1503770_1507961
+%eng:	um...
+*MLA:	ah@s:cym&spa na ar dydd Mawrth (.) dw i (y)n mynd i [/] (.) i Gymraeg . 1503770_1507961
 %eng:	ah, no I go to Welsh on Tuesday
-*EDU:	i [/] i ddosbarth Gymraeg ? 1508782_1510424
+*EDU:	i [/] i (y)r ddosbarth Gymraeg ? 1508782_1510424
 %eng:	to, to the Welsh class?
 *MLA:	ia . 1510297_1510691
 %eng:	yes
@@ -1403,9 +1418,10 @@
 *MLA:	gyda Gwlith@s:cym&spa (.) a Antonio@s:cym&spa . 1511759_1514070
 %eng:	with Gwlith and Antonio
 *EDU:	ah@s:cym&spa . 1514727_1515661
+%eng:	ah
 *EDU:	a pwy (y)dy (y)r gorau yn y ddosbarth ? 1516532_1518401
 %eng:	who's the best in the class?
-*MLA:	(dd)im yn gwybod . 1519848_1521183
+*MLA:	ddim yn gwybod . 1519848_1521183
 %eng:	I don't know
 *EDU:	+< ah@s:cym&spa ti (ddi)m isio deud . 1520405_1522994
 %eng:	ah, you don't want to say
@@ -1419,8 +1435,8 @@
 *MLA:	Berta@s:cym&spa . 1528505_1529277
 *MLA:	fi . 1529364_1529695
 %eng:	me
-*MLA:	Llion@s:cym&spa . 1530031_1530333
-*MLA:	a Joseph@s:cym&spa . 1530357_1530920
+*MLA:	Llion@s:cym&spa a Joseph@s:cym&spa . 1530006_1530920
+%eng:	Llion and Joseph
 *EDU:	pedwar ? 1531795_1532625
 %eng:	four?
 *MLA:	ia . 1532866_1533336
@@ -1439,8 +1455,8 @@
 *EDU:	pedwar ohonych chi . 1538956_1540088
 %eng:	four of you
 *MLA:	mm +... 1539833_1540257
-*EDU:	a (.) chi gyd yn siarad Cymraeg gyda (y)r athrawon ? 1541040_1543629
-%eng:	and you all speak Welsh with the teachers?
+*EDU:	a (.) chi gyd yn siarad Gymraeg gyda (y)r athrawes ? 1541040_1543629
+%eng:	and you all speak Welsh with the teacher?
 *MLA:	ah@s:cym&spa na . 1543235_1543699
 %eng:	ah, no
 *MLA:	a Tomos@s:cym&spa . 1543705_1544524
@@ -1451,18 +1467,20 @@
 %eng:	five of you?
 *MLA:	ia . 1546230_1546509
 %eng:	yes
-*EDU:	a (..) wel gwranda (.) uh dach chi gyd yn siarad Cymraeg (.) achos dach chi gyd yn dod o teuluoedd Cymraeg ia ? 1546753_1555705
+*EDU:	a (..) wel gwranda (.) uh dach chi gyd yn siarad Gymraeg (.) achos dach chi gyd yn dod o teuluoedd Cymraeg ia ? 1546753_1555705
 %eng:	and, well, listen, er, you all speak Welsh because you all come from Welsh families don't you?
 *MLA:	+< ia . 1551885_1552477
 %eng:	yes
 *MLA:	mhm@s:cym&spa . 1556005_1556969
+%eng:	mhm
 *EDU:	mae [/] mae plant mae rhieni nhw yn siarad Cymraeg gyda nhw hefyd ? 1556145_1560614
 %eng:	there are children whose parents speak Welsh with them too?
 *MLA:	+< ia . 1559755_1560568
 %eng:	yes
-*MLA:	ia <a &d> [//] a dan ni yn wneud y waith cartref a wedyn dan ni yn gallu chwarae tipyn bach . 1561581_1570811
+*MLA:	ia <a &da> [//] a dan ni yn wneud y waith cartref a wedyn dan ni yn gallu chwarae tipyn bach . 1561581_1570811
 %eng:	yes, and we do the home work and then we can play a little
 *EDU:	ah@s:cym&spa . 1571391_1572622
+%eng:	ah.
 *MLA:	a dan ni (y)n siarad yn y Sbaeneg . 1571566_1573191
 %eng:	we speak Spanish
 *EDU:	a chi (y)n siarad yn y Sbaeneg . 1573075_1574677
@@ -1472,32 +1490,34 @@
 *MLA:	&=laugh . 1576152_1576906
 *EDU:	yn lle siarad yn Gymraeg . 1577556_1578960
 %eng:	instead of speaking Welsh
-*EDU:	achos (fy)sa chi (y)n gallu Gymraeg . 1579018_1580783
+*EDU:	achos (ba)sech chi (y)n gallu Gymraeg . 1579018_1580783
 %eng:	because you could speak Welsh
 *MLA:	mm +... 1581108_1581956
+%eng:	mm...
 *EDU:	ia . 1582676_1583256
 %eng:	yes
 *EDU:	a be mae (y)r athrawes yn dweud wrthych chi ? 1584556_1586727
 %eng:	and what does the teacher tell you?
-*MLA:	dim_byd . 1586936_1587609
-%eng:	nothing
-*EDU:	<mae (y)n> [/] mae (y)n deud y trefn wrthych chi ? 1587145_1589014
+*MLA:	dim_byd ! 1586936_1587609
+%eng:	nothing!
+*EDU:	<mae (y)n> [/] mae (y)n dweud y trefn wrthych chi ? 1587145_1589014
 %eng:	she tells you off?
 *MLA:	weithiau . 1589188_1589919
-%eng:	sometimes
-*EDU:	&=gasp . 1589989_1590523
-*EDU:	gweithiau mae (y)n deud y drefn ? 1590753_1592285
+%eng:	sometimes.
+*EDU:	&=gasp ! 1589989_1590523
+*EDU:	gweithiau mae (y)n dweud y trefn ? 1590753_1592285
 %eng:	sometimes she tells you off?
 *MLA:	mhm@s:cym&spa . 1592390_1592820
-*EDU:	yr athrawes yng Nghymru ? 1592866_1594375
-%eng:	the teacher in Wales?
+*EDU:	yr athrawes o Gymru ? 1592866_1594375
+%eng:	the teacher from Wales?
 *MLA:	mhm@s:cym&spa . 1594410_1595118
 *EDU:	be mae (h)i (y)n dweud wrthych chi ? 1594886_1596094
 %eng:	what does she tell you?
 *MLA:	um +... 1596523_1597464
+%eng:	um...
 *MLA:	na <mae hi (y)n dweud> [//] mae hi (y)n +/. 1597561_1600138
 %eng:	no, she...
-*EDU:	+" plant (.) dewch yma . 1599418_1601032
+*EDU:	+" blant (.) dewch yma . 1599418_1601032
 %eng:	"children, come here!"
 *MLA:	ia . 1601160_1601601
 %eng:	yes
@@ -1515,8 +1535,8 @@
 %eng:	"don't make any noise!"
 *MLA:	na . 1607407_1608289
 %eng:	no
-*EDU:	na . 1608324_1608742
-%eng:	no
+*EDU:	na ? 1608324_1608742
+%eng:	no?
 *MLA:	na . 1608986_1609438
 %eng:	no
 *EDU:	be mae (y)n ddeud ? 1609566_1610797
@@ -1526,27 +1546,28 @@
 *MLA:	a dyna fo . 1612957_1613990
 %eng:	and that's it
 *EDU:	o@s:cym&spa . 1614130_1614675
-*MLA:	ac (r)ydan ni (y)n chwarae gyda (y)r cwshin . 1614722_1616742
-%eng:	and we play with the cushion
-*EDU:	a dach chi ddim yn taflu cwshin (.) <yn eich> [//] (.) yn_erbyn eich_gilydd (.) gobeithio ? 1617438_1622315
+*MLA:	achos dan ni (y)n chwarae gyda (y)r cwshin . 1614722_1616742
+%eng:	because we play with the cushion
+*EDU:	a dach chi ddim yn taflu cwshin (.) <yn eich> [//] (.) yn erbyn eich_gilydd (.) gobeithio ? 1617438_1622315
 %eng:	and I hope you don't throw the cushion at each other?
 *MLA:	weithiau . 1623209_1623917
 %eng:	sometimes
-*EDU:	&=gasp weithiau dach chi (y)n taflu cwshin . 1623952_1626878
+*EDU:	&=gasp gweithiau dach chi (y)n taflu (y)r cwshin . 1623952_1626878
 %eng:	sometimes you throw the cushion!
 *EDU:	be ar i pennau chi ? 1626936_1628271
 %eng:	what, at each other's heads?
 *MLA:	mhm@s:cym&spa . 1628410_1628898
+%eng:	mhm
 *EDU:	wel (dy)na be (y)dy wirion . 1628967_1631521
 %eng:	well isn't that silly
-*MLA:	+< a weithiau dan ni (y)n mynd odan y cwshin . 1631103_1634121
+*MLA:	+< a weithiau dan ni (y)n mynd o_dan y cwshin . 1631103_1634121
 %eng:	and sometimes we go under the cushion
 *EDU:	xx . 1634922_1635375
-*MLA:	a dan ni (y)n cuddio [=! laugh] . 1635085_1637604
+*MLA:	a dan ni (y)n cuddio [=! laugh] . 1634896_1637604
 %eng:	and we hide!
 *EDU:	wel dach chi (y)n wirion . 1637662_1639693
 %eng:	well, you're silly
-*EDU:	gobeithio na dach chi (y)n torri bethau (.) yn ysgol . 1639868_1642735
+*EDU:	gobeithio na dach chi (y)n torri pethau (.) yn ysgol . 1639868_1642735
 %eng:	I hope that you don't break things at school
 *MLA:	na . 1641992_1642549
 %eng:	no
@@ -1562,18 +1583,16 @@
 %eng:	I found this
 *MLA:	a hwn yn un pen_blwydd . 1652253_1653826
 %eng:	this is a birthday one
-*MLA:	hwn . 1654206_1654728
-%eng:	this
-*MLA:	xxx dw i (we)di ffeindio yn el@s:spa cajón@s:spa xxx . 1655100_1658269
-%eng:	[...] I've found in the box [...]
+*MLA:	hwn (.) xxx dw i (we)di ffeindio yn el@s:spa cajón@s:spa xxx . 1654139_1658269
+%eng:	this [...] I've found in the box [...]
 *EDU:	mhm@s:cym&spa . 1658491_1659408
 *MLA:	a hwn xxx . 1659141_1660627
 %eng:	and this [...]
 *EDU:	ah@s:cym&spa . 1660975_1661776
 *MLA:	da iawn . 1663506_1664725
 %com:	very good
-*EDU:	tisho mwy o bisged [?] ? 1666501_1668022
-%eng:	would you like more buiscuit ?
+*EDU:	ti isio mwy o xx] ? 1666501_1668022
+%eng:	would you like more [...] ?
 *EDU:	xx ti (ddi)m isio mwy ? 1667970_1669526
 %eng:	[...] you don't want more?
 *MLA:	+< xxx . 1668446_1669352
@@ -1582,11 +1601,13 @@
 *EDU:	mae (y)na un ar_ôl ? 1674668_1675457
 %eng:	there's one left?
 *MLA:	mhm@s:cym&spa . 1675631_1676897
+%eng:	mhm
 *EDU:	Duw (y)r annwyl . 1678975_1680960
 %eng:	dear Lord
 *EDU:	beth arall gallwn ni dweud (.) am ein bywyd ni ? 1683631_1687799
 %eng:	what else can we say about our life?
 *EDU:	mm ? 1689969_1690602
+%eng:	mm?
 *EDU:	mae [/] mae (y)na plant o Cymru (we)di bod yn diweddar yma . 1691643_1695306
 %eng:	some children from Wales have been here recently
 *MLA:	ia . 1695484_1695861
@@ -1610,16 +1631,17 @@
 *EDU:	maen nhw (y)n dod pob blwyddyn yndyn ? 1704565_1706243
 %eng:	they come every year don't they?
 *MLA:	mhm@s:cym&spa . 1706603_1707184
+%eng:	mhm
 *EDU:	a maen nhw (y)n aros gyda pwy ? 1708121_1709787
 %eng:	and who are they staying with?
 *MLA:	gyda Julie@s:cym&spa . 1711099_1712324
 %eng:	with Julie
-*EDU:	gyda Julie (.) sef (e)i (.) modryb nhw ynde . 1712487_1716771
+*EDU:	gyda Julie (.) sef ei (.) modryb nhw ynde . 1712487_1716771
 %eng:	with Julie, who is their aunt
 *MLA:	&n nain . 1717194_1718198
 %eng:	grandmother
 *EDU:	eu [/] eu nain modryb . 1718233_1719678
-%eng:	their grandmother aunt
+%eng:	their great aunt
 *MLA:	ia . 1719742_1720346
 %eng:	yes
 *EDU:	ia . 1720427_1721699
@@ -1627,17 +1649,19 @@
 *EDU:	ia . 1722244_1722587
 %eng:	yes
 *EDU:	a mae (y)na [//] Julie@s:cym&spa yn byw drws nesa i ni . 1722975_1724983
-%eng:	Julie lives next door to us
-*EDU:	dyna sut dan ni (y)n nabod nhw . 1725117_1727056
+%eng:	and... Julie lives next door to us
+*EDU:	dyna sut (.) dan ni (y)n nabod nhw . 1725117_1727056
 %eng:	that's how we know them
 *MLA:	+< mhm@s:cym&spa . 1726289_1726696
+%eng:	mhm
 *EDU:	ia ? 1727338_1727704
 %eng:	yes?
 *MLA:	mhm@s:cym&spa . 1727762_1728214
-*EDU:	a (.) mae [/] (.) mae eu taid nhw (.) yn byw yng Nghymru (.) ia? 1729287_1736334
+%eng:	mhm
+*EDU:	a (.) mae [/] (.) mae eu taid nhw (.) yn byw yng Nghymru (.) ia ? 1729287_1736334
 %eng:	and their grandfather lives in Wales right?
 *MLA:	ia byw gyda xx (.) eu taid (.) nhw . 1736879_1739549
-%eng:	yes they live with their grandfather
+%eng:	yes they live with [...] their grandfather
 *EDU:	ia be (y)dy enw fo ? 1739909_1741917
 %eng:	yes, what's his name?
 *MLA:	ddim yn gwybod . 1742103_1743264
@@ -1648,7 +1672,7 @@
 *MLA:	ah@s:cym&spa ia . 1744993_1745725
 %eng:	ah, yes
 *EDU:	Gwern_Stephens@s:cym&spa . 1745817_1747872
-*EDU:	Mariela@s:cym&spa . 1752038_1753059
+*EDU:	Mariela@s:cym&spa ! 1752038_1753059
 *MLA:	be ? 1753268_1753837
 %eng:	what?
 *EDU:	tyrd yma . 1754000_1755207
@@ -1659,19 +1683,20 @@
 %eng:	I know about it
 *EDU:	dw i wrthi (y)n darllen o . 1758562_1759630
 %eng:	I'm reading it now
-*MLA:	xxx . 1759834_1762098
-*EDU:	edrych hwn [?] . 1760646_1761923
+*MLA:	<ond ble wyt ti mynd> [?] ? 1759834_1762098
+%eng:	but where are you going?
+*EDU:	+< edrych hwn [?] . 1760646_1761923
 %eng:	look at this
 *EDU:	mae o (y)n drwchus . 1762283_1763468
 %eng:	it's very thick
 *EDU:	<yn fan (y)na dw i (y)n> [//] dw i (we)di cyrraedd hyd i fan (y)na . 1763502_1766068
 %eng:	I've reached this part
-*EDU:	a [?] mae (y)n glamp o llyfr . 1766910_1768686
-%eng:	it's a big book
-*EDU:	a mae (y)n mynd i gymeryd amser i mi ddarllen o i_gyd . 1769685_1772610
+*EDU:	a [?] mae (y)n clamp o llyfr . 1766910_1768686
+%eng:	it's a great big book
+*EDU:	a mae (y)n mynd i gymeryd amser i mi darllen o i_gyd . 1769685_1772610
 %eng:	and it's going to take time for me to read it all
-*MLA:	mwy na un blwyddyn . 1773820_1775538
-%eng:	more than a year
+*MLA:	mwy na un blwyddyn ? 1773820_1775739
+%eng:	more than a year?
 *EDU:	na fydd o (y)n cymryd eh@s:cym&spa ryw mis (e)fallai (.) i wneud o . 1775759_1779869
 %eng:	no, it'll take, eh, maybe about a month to do it
 *MLA:	xx +/. 1780507_1781007
@@ -1688,10 +1713,11 @@
 *EDU:	uh fan (y)na mae (y)r cof golofn . 1794261_1796048
 %eng:	er, there's the memorial column
 *MLA:	ie . 1796396_1797069
+%eng:	yes
 *EDU:	yn y parc yn y plaza@s:spa . 1797858_1799530
 %eng:	in the park in the square.
-*EDU:	a (.) mae mam yn fan (y)na yn knock_io ar y drws . 1801837_1806933
-%eng:	and, mum is knocking at the door
+*EDU:	a (.) mae mam yn fan (y)na yn (c)nocio ar y drws . 1801837_1806933
+%eng:	and, mum is there knocking at the door
 *EDU:	a (.) wyt ti (y)n gwybod be ? 1811060_1813487
 %eng:	and, do you know what?
 *MLA:	be ? 1813684_1814137
@@ -1706,12 +1732,13 @@
 %eng:	and it's a picture from when he was young
 *EDU:	edrych pwy sy (y)na . 1826434_1827444
 %eng:	look who's there
-*EDU:	xxx . 1827888_1829258
+*EDU:	<fan (y)no> [?] . 1827888_1829258
+%eng:	there
 *EDU:	efo ni mae (y)na lluniau dy ffrindiau (.) sef (.) Aled@s:cym&spa ac Catrin_Mai@s:cym&spa . 1830319_1838295
 %eng:	we have pictures of your friends, Aled and Catrin Mai
 *MLA:	+< Aled@s:cym&spa xx . 1834457_1835874
 *MLA:	+< Catrin@s:cym&spa . 1837209_1837935
-*EDU:	a hon ydy (y)r mam ia ? 1838800_1840565
+*EDU:	&=sniff a hon ydy (y)r mam ia ? 1838800_1840565
 %eng:	and this is the mother isn't it?
 *MLA:	mhm@s:cym&spa . 1840716_1841168
 *EDU:	be (y)dy enw hi ? 1841099_1842306
@@ -1723,7 +1750,7 @@
 %eng:	Gwern's daughter
 *EDU:	a Dafydd@s:cym&spa ei gŵr hi . 1851189_1852884
 %eng:	and Dafydd her husband
-*EDU:	ac yn y llun yma mae mab arall Gwern@s:cym&spa sef Hywel@s:cym&spa . 1853849_1859585
+*EDU:	ac yn y llun yma mae (.) mab arall Gwern@s:cym&spa sef Hywel@s:cym&spa . 1853849_1859585
 %eng:	and in this picture is Gwern's other son, Hywel
 *EDU:	a (e)u teulu . 1860537_1861338
 %eng:	and their family
@@ -1735,23 +1762,23 @@
 %eng:	they're pretty
 *EDU:	maen nhw (y)n lluniau tlws . 1866316_1867494
 %eng:	they're pretty pictures
-*EDU:	a fan (y)na (.) mae frawd arall Carys@s:cym&spa sef (..) Deiniol@s:cym&spa (.) a ei teulu . 1867525_1875106
+*EDU:	a fan (y)na &=sniff mae frawd arall Carys@s:cym&spa sef (..) Deiniol@s:cym&spa (.) a ei teulu . 1867525_1875106
 %eng:	and there's Carys' other brother Deiniol, and his family
 *EDU:	a fan (y)na (.) mae Gwern@s:cym&spa gyda ei gwraig Sylvia@s:cym&spa . 1876268_1882061
 %eng:	and there's Gwern and his wife Sylvia
-*EDU:	ac yn y lluniau yma (.) maen nhw (y)n ddangos y teithiau yma maen nhw (y)n ddangos y teithiau maen nhw (y)n wneud yn Argentina@s:spa (..) gyda (y)r criw . 1882340_1889805
+*EDU:	ac yn y lluniau yma (.) maen nhw (y)n ddangos y teithiau maen nhw (y)n wneud yn Argentina@s:spa (..) gyda (y)r criw . 1882340_1889805
 %eng:	and in these pictures, they show their travels in Argentina with the crew
 *EDU:	a maen nhw (y)n mynd i +/. 1890475_1891682
 %eng:	and they're going to...
 *MLA:	+< xxx . 1891194_1892611
-*EDU:	na mae hwnna (y)n wneud Iguazú@s:cym&spa yn rhaeadrau i Iguazú@s:cym&spa yn Gogledd y gwlad . 1892727_1898207
-%eng:	no, that does [...] to the North of the country
-*MLA:	yn ble mae Antonio@s:cym&spa ? 1899053_1900447
-%eng:	where is [...]
-*EDU:	o@s:cym&spa mae (y)na llun neis Antonio@s:cym&spa yn fach . 1900667_1903999
-%eng:	oh, there's a nice picture [...] little
-*MLA:	ah@s:cym&spa fi (y)n xx nabod e [?] . 1903438_1905133
-%eng:	ah, I [...] know him
+*EDU:	na mae hwnna (y)n Iguazú@s:cym&spa yn [/] yn rhaeadrau Iguazú@s:cym&spa yn Gogledd y gwlad . 1892727_1898207
+%eng:	no, that's Iguazu, at the Iguazu waterfalls in the North of the country
+*MLA:	a ble mae Antonio@s:cym&spa ? 1899053_1900447
+%eng:	and where is Antonio?
+*EDU:	o@s:cym&spa mae (y)na llun neis xx Antonio@s:cym&spa xx yn fach . 1900667_1903999
+%eng:	oh, there's a nice picture [...] of Antonio [...] little
+*MLA:	ah@s:cym&spa fi (y)n xxx . 1903438_1905133
+%eng:	ah, I [...]
 *EDU:	ti (y)n nabod (.) ambell un ? 1905331_1907107
 %eng:	you know some of them?
 *MLA:	yn fan hyn mae Antonio@s:cym&spa . 1906169_1907597
@@ -1763,6 +1790,7 @@
 *MLA:	edrych mae Catrin@s:cym&spa yn fan (y)na mae Owain@s:cym&spa yn fan (y)na . 1909946_1913243
 %eng:	look Catrin is there, Owain is there
 *EDU:	ie ie . 1913161_1914473
+%eng:	yes, yes
 *MLA:	+< anti Elin@s:cym&spa . 1913882_1915037
 %eng:	auntie Elin
 *EDU:	anti Elin@s:cym&spa . 1915449_1916274
@@ -1770,9 +1798,11 @@
 *EDU:	wyt ti (y)n cofio hi ? 1916308_1917231
 %eng:	do you remember her?
 *MLA:	um Julie@s:cym&spa . 1917653_1919325
+%eng:	um, Julie
 *MLA:	eh@s:cym&spa um +... 1919542_1921568
-*MLA:	<sut wyt ti> [//] <sut dw i (y)n deud hijos@s:spa [?] xxx> [=! whisper] ? 1921708_1924675
-%eng:	how do I say sons?
+%eng:	er, um...
+*MLA:	<sut wyt ti> [//] <sut dw i (y)n deud hija@s:spa [?] xxx> [=! whisper] ? 1921708_1924675
+%eng:	how do I say daughter?
 *EDU:	merch . 1924774_1925226
 %eng:	daughter
 *MLA:	uh merch anti Elin@s:cym&spa . 1925377_1926904
@@ -1793,8 +1823,8 @@
 %eng:	do you recognize anyone there?
 *MLA:	<ia ydw> [?] . 1937059_1938058
 %eng:	yes I do
-*EDU:	pwy ydy (r)hein ydy Antonio@s:cym&spa . 1938133_1939834
-%eng:	who are these [...]
+*EDU:	&=laugh pwy dyn ydy Antonio@s:cym&spa ? 1938133_1939834
+%eng:	which man is Antonio?
 *MLA:	hwn . 1940247_1941129
 %eng:	this
 *EDU:	+< &=laugh . 1940357_1941146
@@ -1806,13 +1836,13 @@
 *EDU:	mam mam Catrin_Mai@s:cym&spa . 1947685_1949845
 %eng:	Catrin's mother's mother
 *MLA:	mhm@s:cym&spa . 1950636_1951408
-*EDU:	a (e)i frawd (.) Deiniol@s:cym&spa . 1951593_1953451
+*EDU:	a ei frawd (.) Deiniol@s:cym&spa . 1951593_1953451
 %eng:	and her brother Deiniol
 *EDU:	o(edde)n nhw (y)n fach yn fan (y)na . 1954898_1956379
 %eng:	they were young there
-*MLA:	yn fan (y)na mae [///] anti Elin@s:cym&spa ydy hi . 1958925_1961223
-%eng:	she's auntie Elin
-*EDU:	&an ia anti Elin@s:cym&spa a (e)i gŵr . 1960776_1963087
+*MLA:	yn fan (y)na mae [//] anti Elin@s:cym&spa ydy hi . 1958925_1961223
+%eng:	there, she's auntie Elin
+*EDU:	&an ia anti Elin@s:cym&spa a ei gŵr . 1960776_1963087
 %eng:	yes, auntie Elin and her husband
 *MLA:	a pwy ydy hwnna ? 1964924_1966213
 %eng:	and who is that?
@@ -1849,7 +1879,7 @@
 %eng:	it's going to take a lot of time for me to read
 *EDU:	ond mae (y)n ddiddorol achos mae (y)n dweud (.) ei hanes o (.) yn [/] yn mynd +/. 1997212_2002082
 %eng:	but it's interesting because it tells his story of going...
-*MLA:	+< be (y)dy (y)r llyfr yma ? 2001151_2002596
+*MLA:	+< be (y)dy (y)r <llyfr yma> [?] ? 2001151_2002596
 %eng:	what is this book?
 *MLA:	mae capel +... 2002898_2003949
 %eng:	the chapel...
@@ -1861,21 +1891,22 @@
 *MLA:	+< capel . 2007063_2007795
 %eng:	chapel
 *EDU:	a capel [?] +/. 2007812_2008677
-%eng:	chapel
+%eng:	and chapel
 *MLA:	Bethel@s:cym&spa . 2008149_2008695
 *EDU:	ie (.) a honno . 2008739_2010243
 %eng:	yes, and that one
 *MLA:	hwn (.) Bethel@s:cym&spa . 2009679_2011224
 %eng:	this, Bethel
-*EDU:	mae hwn yn y stryd (.) Michael_D_Jones (.) nawr . 2013030_2016757
-%eng:	this is on the [...] street now
+*EDU:	mae hwn yn y stryd (.) Philip_Jones (.) nawr . 2013030_2016757
+%eng:	this is on Philip Jones's street now
 *EDU:	ac yn yr un llun (.) blynyddoedd maith yn_ôl (.) yn yr un stryd . 2017877_2021987
 %eng:	and in the same picture, many years ago on the same street
 *EDU:	edrych . 2022010_2022550
 %eng:	look
-*EDU:	ti (y)n gweld y gwahaniaeth ? 2022769_2023884
-%eng:	do you see the difference
+*EDU:	ti (y)n gweld y wahaniaeth ? 2022769_2023884
+%eng:	do you see the difference?
 *MLA:	mhm@s:cym&spa . 2024035_2024604
+%eng:	mhm
 *EDU:	ond yn yr un lle maen nhw . 2024987_2026874
 %eng:	but they're in the same place
 *EDU:	edrych ar hen gar fan (a)cw . 2027569_2028910
@@ -1892,10 +1923,11 @@
 *EDU:	ti (y)n gweld nhw ? 2039832_2040500
 %eng:	do you see them?
 *MLA:	mhm@s:cym&spa . 2040616_2041138
-*EDU:	<mae (y)n mae (y)n> [/] mae (y)n llyfr diddorol iawn . 2044260_2047047
+%eng:	mhm
+*EDU:	<mae (y)n> [/] <mae (y)n> [/] mae (y)n llyfr diddorol iawn . 2044260_2047047
 %eng:	it's a very interesting book
-*EDU:	ond (.) oof@s:cym&spa gwaith i mi ddarllen . 2048564_2052894
-%eng:	but, oof, it's a lot of reading work for me
+*EDU:	ond (.) wff gwaith i mi ddarllen . 2048564_2052894
+%eng:	but, oof, it's hard work for me to read
 *EDU:	a ges i un (.) yn (.) anrheg achos wnaeth dy dad (.) adrodd (.) yn yr eisteddfod . 2052939_2060335
 %eng:	and I got one as gift because your father did a recital at the Eisteddfod
 *EDU:	ac y wobr oedd y llyfr yma . 2061725_2065463
@@ -1908,15 +1940,17 @@
 *MLA:	&w wobr . 2068633_2070119
 %eng:	prize
 *EDU:	arbennig . 2069933_2071791
-%eng:	fantastic!
+%eng:	special
 *MLA:	&gro . 2072146_2072901
 *EDU:	&gor . 2073261_2074108
-*MLA:	gorsedd (.) i &lwa &lw &wlada (.) Patagonia@s:cym&spa . 2074652_2083917
+*MLA:	+" gorsedd (.) i &lwa &lw wladfa (.) Patagonia@s:cym&spa . 2074652_2083917
+%eng:	"chair of the Patagonia settlement"
+%com:	MLA is reading out title, and probably reads Welsh "y" as [i] due to Spanish
 *MLA:	xxx . 2085196_2087448
 *EDU:	++ brif . 2087541_2088424
 %eng:	best
-*MLA:	brif (.) adroddwr (..) Cymraeg (..) eisteddfod@s:cym&spa i wladfa dau fil a naw . 2088695_2103649
-%eng:	best Welsh reciter of the Eisteddfod of the wladfa two thousand and nine
+*MLA:	+" brif (.) adroddwr (..) Cymraeg (..) eisteddfod@s:cym&spa i wladfa dau fil a naw . 2088695_2103649
+%eng:	"best Welsh reciter of the Eisteddfod of the settlement, two thousand and nine"
 *EDU:	dwy fil a naw . 2103757_2104802
 %eng:	two thousand and nine
 *MLA:	dwy fil a naw . 2104849_2105917
@@ -1929,7 +1963,7 @@
 %eng:	and do you know who the judge was?
 *MLA:	pwy ? 2112278_2112951
 %eng:	who?
-*EDU:	y dyn sy (y)n aros amdanom ni . 2113071_2115092
+*EDU:	y dyn sy (y)n aros amdanon ni . 2113071_2115092
 %eng:	the man who is waiting for us
 *EDU:	Pererid@s:cym&spa . 2115533_2116624
 %com:	mispronounces researcher's name
@@ -1946,7 +1980,7 @@
 %eng:	judge
 *EDU:	[- spa] jurado . 2127558_2128359
 %eng:	judge
-*EDU:	fo oedd yn ddeud +"/. 2128940_2130089
+*EDU:	fo oedd yn ddweud +"/. 2128940_2130089
 %eng:	he was the one who said:
 *EDU:	+" hwnna hwnna . 2130774_2132167
 %eng:	that one, that one
@@ -1984,7 +2018,7 @@
 %eng:	it's a thick book
 *MLA:	ia . 2173122_2174120
 %eng:	yes
-*EDU:	beth arall gallen ni ddweud ? 2177221_2179322
+*EDU:	beth arall gallwn ni ddweud ? 2177221_2179322
 %eng:	what else can we say?
 *EDU:	dweud stori wrtha i rŵan . 2181262_2183131
 %eng:	tell me a story now
@@ -2008,18 +2042,18 @@
 *EDU:	deud . 2201535_2202650
 %eng:	say it
 *MLA:	+" dw i (y)n hoffi Sali_Mali@s:cym&spa . 2202754_2204264
-%eng:	I like Sali Mali
+%eng:	"I like Sali Mali"
 *MLA:	+" dw i (y)n hoffi Smot@s:cym&spa y ci . 2204380_2206145
-%eng:	I like Smot the dog
+%eng:	"I like Smot the dog"
 *MLA:	+" ond Jac_y_Jwc@s:cym&spa a Jini@s:cym&spa ydy (y)r gorau xx gen i . 2205973_2209781
-%eng:	but Jac y Jwc and Jini are my favourites
+%eng:	"but Jac y Jwc and Jini are my favourites"
 *EDU:	+" ydy (y)r gorau yn gen i . 2209735_2211674
-%eng:	are my favourites
+%eng:	"are my favourites"
 *MLA:	&=laugh . 2211782_2212403
 *EDU:	dweud o (y)n iawn . 2211968_2213198
 %eng:	say it properly
 *MLA:	+" ydy (y)r gorau gen i . 2213210_2214801
-%eng:	are my favourites
+%eng:	"are my favourites"
 *EDU:	a beth arall ? 2215999_2216678
 %eng:	and what else?
 *EDU:	twyt ti (ddi)m yn gwybod dim un arall ? 2216719_2218106
@@ -2046,7 +2080,8 @@
 *MLA:	&=laugh . 2238504_2239061
 *EDU:	a mae o mor syml . 2240910_2242472
 %eng:	and it's so simple
-*EDU:	aw@s:cym&spa . 2243279_2244045
+*EDU:	aw@s:cym&spa ! 2243279_2244045
+%eng:	aw!
 *EDU:	beth arall ? 2245861_2246633
 %eng:	what else?
 *MLA:	aros . 2247627_2248167
@@ -2086,13 +2121,13 @@
 *EDU:	sut ? 2283541_2284331
 %eng:	how?
 *MLA:	mae wedi roid yr +... 2284963_2286739
-%eng:	it's put the...
+%eng:	she put the...
 *EDU:	++ ewin . 2286960_2287540
 %eng:	fingernail
 *MLA:	ia . 2287657_2288051
 %eng:	yes
-*EDU:	<mae (we)di> [/] mae (we)di troi yr ewin yn fan (y)na . 2288509_2292137
-%eng:	it's turned the fingernail here
+*EDU:	<mae (we)di> [/] mae (we)di troi yr ewin yn fan (a)cw . 2288509_2292137
+%eng:	she's turned the fingernail here
 *MLA:	do . 2292241_2292677
 %eng:	yes
 *EDU:	be oedd yr ewin yn hir ? 2292781_2294459
@@ -2104,11 +2139,11 @@
 *EDU:	+< xx . 2295864_2296294
 *EDU:	wel &d gwarthus . 2296497_2299382
 %eng:	well, outrageous
-*EDU:	i mi gael deud . 2301484_2302407
+*EDU:	i mi gael ddeud . 2301484_2302407
 %eng:	if I may say so
-*EDU:	warthus . 2303016_2304119
-%eng:	outrageous
-*EDU:	gwranda (.) tyrd yma i ddweud wrth y peiriant bach yma (.) faint o plant sy (y)n siarad Cymraeg yn [/] yn yr ysgol ti ? 2304937_2313076
+*EDU:	warthus ! 2303016_2304119
+%eng:	outrageous!
+*EDU:	gwranda (.) tyrd yma i dweud wrth y peiriant bach yma (.) faint o plant sy (y)n siarad Cymraeg yn [/] yn yr ysgol ti ? 2304937_2313076
 %eng:	listen, come here and tell this little machine how many children speak Welsh at your school?
 *MLA:	pa ysgol ? 2314519_2315471
 %eng:	what school?
@@ -2133,13 +2168,13 @@
 %eng:	no
 *EDU:	be digwyddodd un adeg ? 2324280_2325760
 %eng:	what happened to Priscila?
-*EDU:	mi oedd (y)na ddwy hogan fach o Gymru wedi dod (.) i aros (.) uh (.) yn y Gaiman@s:cym&spa . 2325990_2333246
+*EDU:	mi oedd (y)na ddwy hogan fach o Gymru (we)di dod (.) i aros (.) uh (.) yn y Gaiman@s:cym&spa . 2325990_2333246
 %eng:	there were two little girls from Wales who had come to stay, er, in the Gaiman
-*EDU:	ac oedden nhw yn mynd i ysgol xx . 2333583_2335406
+*EDU:	ac o(edde)n nhw yn mynd i ysgol xx . 2333583_2335406
 %eng:	and they were going to
-*EDU:	wyt ti (y)n cofio eu enw nhw ? 2335382_2336961
+*EDU:	wyt ti (y)n cofio eu enwau nhw ? 2335382_2336961
 %eng:	do you remember their names?
-*MLA:	ah@s:cym&spa ia Heledd@s:cym&spa a Amy@s:cym&spa . 2336192_2338421
+*MLA:	+< ah@s:cym&spa ia Heledd@s:cym&spa a Amy@s:cym&spa . 2336192_2338421
 %eng:	ah, yes, Heledd and Amy
 *EDU:	ia wyt ti (y)n cofio nhw . 2338747_2341312
 %eng:	yes, you remember them
@@ -2169,7 +2204,7 @@
 %eng:	what?
 *MLA:	mhm@s:cym&spa . 2371055_2371775
 *EDU:	+" beth mae (y)r hogan fach (y)ma (y)n ddeud +". 2372355_2374085
-%eng:	what is this little girl saying?
+%eng:	"what is this little girl saying?"
 *EDU:	ia ? 2374128_2374395
 %eng:	yes?
 *MLA:	ia . 2374546_2374952
@@ -2193,13 +2228,14 @@
 *MLA:	ia . 2385509_2386113
 %eng:	yes
 *EDU:	wel +... 2386621_2387179
+%eng:	well...
 *EDU:	ac yn y diwedd be digwyddodd ? 2387515_2389141
 %eng:	and what happened in the end?
-*EDU:	wnaeth [/] wnaeth y [/] y ddwy hogan dysgu Sbaeneg yndo ? 2389826_2394226
+*EDU:	wnaeth [/] wnaeth y [/] y ddwy hogan dysgu Sbaeneg yn_do ? 2389826_2394226
 %eng:	the two girls learned Spanish didn't they?
 *MLA:	do . 2394412_2394923
 %eng:	yes
-*EDU:	a siarad yn iawn yndy ? 2395306_2396908
+*EDU:	a siarad yn iawn ynde ? 2395306_2396908
 %eng:	and they speak properly do they?
 *MLA:	do . 2397968_2398375
 %eng:	yes
@@ -2219,7 +2255,7 @@
 *EDU:	yn y Sbaeneg . 2413491_2414663
 %eng:	in Spanish
 *MLA:	xxx . 2413595_2414176
-*EDU:	a (.) gyda pwy arall wyt ti (y)n siarad Cymraeg o_gwmpas y lle ? 2420439_2426488
+*EDU:	a (.) gyda pwy arall wyt ti (y)n siarad Cymraeg o gwmpas y lle ? 2420439_2426488
 %eng:	and who else do speak Welsh with around here?
 *MLA:	weithiau gyda Julie@s:cym&spa . 2428691_2430409
 %eng:	sometimes with Julie
@@ -2254,8 +2290,8 @@
 %eng:	or does she speak to you in Spanish?
 *MLA:	na (.) Sbaeneg . 2459588_2460981
 %eng:	no, Spanish
-*EDU:	Rodguh . 2460958_2461620
-*MLA:	ia Rodguh deud (.) helo weithiau . 2463024_2466101
+*EDU:	Roger@s:cym&spa . 2460958_2461620
+*MLA:	ia Roger@s:cym&spa (y)n dweud (.) helo ["] weithiau . 2463024_2466101
 %eng:	yes, Rodger says hello sometimes
 *EDU:	helo . 2466229_2466832
 %eng:	hello
@@ -2272,6 +2308,7 @@
 *MLA:	na . 2475442_2475848
 %eng:	no
 *EDU:	o@s:cym&spa . 2475976_2476615
+%eng:	oh
 *EDU:	ia . 2476974_2477601
 %eng:	yes
 *EDU:	beth arall ? 2478321_2479180
@@ -2286,7 +2323,7 @@
 %eng:	no
 *EDU:	a wedyn (.) y pobl sy (y)n dod o Cymru . 2487798_2490724
 %eng:	and then, people who come from Wales
-*EDU:	ydy nain a taid Gwenda@s:cym&spa yn siarad Cymraeg â ti ? 2492689_2494419
+*EDU:	ydy &n nain a taid Gwenda@s:cym&spa yn siarad Cymraeg â ti ? 2492689_2494419
 %eng:	do Gwenda's grandmother and grandfather speak Welsh with you?
 *MLA:	na . 2494814_2495487
 %eng:	no
@@ -2358,11 +2395,11 @@
 %eng:	is what I said
 *EDU:	dan ni (we)di wneud mwy . 2561792_2563057
 %eng:	we've done more
-*EDU:	dan ni wedi wneud ryw +... 2564834_2566099
+*EDU:	dan ni (we)di wneud ryw +//. 2564834_2566099
 %eng:	we've done a about...
 *EDU:	faint ? 2566215_2566970
 %eng:	how much?
-*MLA:	na achos yn gyntaf dan ni (we)di dan ni (we)di equivocar@s:spa . 2567694_2572048
+*MLA:	na achos yn gyntaf <dan ni (we)di> [/] dan ni (we)di equivocar@s:spa . 2567694_2572048
 %eng:	no, because we made a mistake at the beginning
 *MLA:	sut ti xxx deud ? 2572315_2573778
 %eng:	how  do you say?
