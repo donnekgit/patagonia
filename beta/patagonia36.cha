@@ -172,7 +172,7 @@
 *PAZ:	www . 205396_207718
 *SAN:	ah@s:cym&spa neis cwrdd â nhw dod â nhw (.) gweld nhw xxx +... 207722_211629
 %eng:	ah, nice to meet them, bring them, see them [...]
-%com:	pause
+@Comment:	pause
 *SAN:	ti (y)n cael sgwrs Cymraeg efo rywun arall yn [//] yli <lle mae (y)n (.) hawdd rŵan mynd> [?] +//. 218145_222742
 %eng:	do you chat in Welsh with anyone else in, you know, where it's easy now to go...
 *PAZ:	www . 221883_224257
@@ -295,7 +295,7 @@
 %eng:	oh yes, I saw Geraint too
 *SAN:	a ddaethon ni syth ar i_fyny wedyn i (...) cychwyn am [/] am adre yn syth ar_ôl y gymanfa . 369832_376188
 %eng:	and we got straight up afterwards to start for home, straight after the "cymanfa" [assembly]
-%com:	pause
+@Comment:	pause
 *SAN:	ti (we)di gweld Elin_Mai@s:cym&spa yn diweddar ? 385902_387173
 %eng:	have you seen Elin Mai lately?
 *SAN:	mae hi yn [///] (.) cadw adre mae . 387178_389105
@@ -368,7 +368,7 @@
 *PAZ:	ww ? 471901_472365
 *SAN:	oes dau o blant . 472261_473480
 %eng:	yes two children
-%com:	pause
+@Comment:	pause
 *SAN:	wnest ti fwynhau (y)r (ei)steddfod ? 485192_486586
 %eng:	did you enjoy the eisteddfod?
 *PAZ:	www . 486780_487785

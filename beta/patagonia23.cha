@@ -1179,7 +1179,7 @@
 %eng:	there's Sandy
 *LCD:	mae (y)n meddwl siŵr am Sandy@s:cym&spa hefyd . 1524984_1527021
 %eng:	she's sure to be thinking about Sandy too
-%com:	pause
+@Comment:	pause
 *SUS:	xx . 1540959_1541732
 *LCD:	mae um (.) bachgen Mentuh yn dod pnawn (y)ma (.) i chwarae gyda (y)r plant . 1543018_1549337
 %eng:	the boy from Menter is coming this afternoon to play with the children

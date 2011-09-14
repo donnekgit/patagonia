@@ -662,7 +662,7 @@
 %eng:	we have to search for them
 *CEC:	iddyn nhw cael gweld uh Llinos . 845267_847630
 %eng:	so they can see Llinos
-%com:	pause
+@Comment:	pause
 *CEC:	dw i ddim yn gwybod . 852427_853513
 %eng:	I don't know
 *CEC:	mae &s [//] fydd Gina@s:cym&spa ddim yma . 853819_855868

@@ -319,7 +319,7 @@
 %eng:	oh, there's xx's house, isn't there, on the way?
 *ELE:	oes . 296380_296935
 %eng:	yes.
-%com:	phone rings
+@Comment:	phone rings
 *VIC:	o@s:cym&spa mae (y)r teliffon +... 297868_299468
 %eng:	oh, the telephone is...
 *ELE:	+< o@s:cym&spa &=laugh . 298540_300236
@@ -345,7 +345,7 @@
 *ELE:	wele ffor(dd) (y)na . 324093_325250
 %eng:	look over there
 *ELE:	xxx . 325255_326845
-%com:	voices in the background for about a minute.
+@Comment:	voices in the background for about a minute.
 *ELE:	wyt ti (y)n gwybod ffordd i roid nhw (y)n_ôl (y)ma ? 414077_415852
 %eng:	do you know a way of putting them back here ?
 *VIC:	[- spa] sí ? 415878_416614
@@ -428,7 +428,7 @@
 %eng:	no.
 *ELE:	xxx . 504244_507356
 *ELE:	xxx . 507361_509105
-%com:	voices in background at around 09:25 .
+@Comment:	voices in background at around 09:25 .
 *VIC:	o@s:cym&spa . 578713_579054
 *OSE:	xxx . 579074_580743
 *VIC:	fedrwch chi gau (y)r drws plîs ? 580748_582194

@@ -760,11 +760,11 @@
 *ROB:	fel (yn)a mae o . 1256031_1257397
 %eng:	that's how it is
 *ROB:	&=singing . 1263354_1265039
-%com:	long silence
+@Comment:	long silence
 *ROB:	&=singing . 1354982_1357526
 *ROB:	ti iawn ? 1366616_1367869
 %eng:	you okay?
-%com:	ANG returns
+@Comment:	ANG returns
 *ANG:	<dal yma> [?] . 1368027_1368934
 %eng:	still here
 *ROB:	eh@s:cym&spa wyt ti (y)n iawn ? 1369131_1370011
