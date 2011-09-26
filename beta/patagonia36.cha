@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Narrow:-24:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -17,7 +17,7 @@
 *SAN:	oes ŵyn bach efo ti eleni oes ? 58_1556
 %eng:	do you have any little lambs this year, yes?
 *PAZ:	ww . 1503_2183
-*SAN:	(y)dyn nhw tyfu ? 2230_3176
+*SAN:	dyn nhw tyfu ? 2230_3176
 %eng:	are they growing?
 *PAZ:	ww . 3594_4372
 *SAN:	pryd fydden nhw (y)n barod i werthu ? 4279_5811
@@ -187,7 +187,7 @@
 *SAN:	a popeth wedi mynd yn ddrud a (.) fel (yn)a mae . 202074_205017
 %eng:	and everything's become expensive and that's how it is.
 *PAZ:	www . 205396_207718
-*SAN:	ah@s:cym&spa neis <cwrdd <â nhw> [//] gyda nhw (..)> [///] gweld nhw fel mae nhw (y)n ddeud . 207722_211629
+*SAN:	ah@s:cym&spa neis <cwrdd <â nhw> [//] gyda nhw (..)> [///] gweld nhw fel maen nhw (y)n ddeud . 207722_211629
 %eng:	ah, nice to meet them, see them, as they say
 @Comment:	pause
 *SAN:	ti (y)n cael sgwrs Cymraeg efo rywun arall yn [//] <yli lle mae (y)n (.) hawdd rŵan mynd> [?] +//. 218145_222742
