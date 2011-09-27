@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -15,7 +15,7 @@
 @Comment:	Filename: Patagonia24.cha; Soundfile: Patagonia24.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MOR:	mae rywun wedi wneud gymaint o fenyn ar y ffarm . 151_2798
-%eng:	one used to make some much butter on the farm.
+%eng:	one used to make so much butter on the farm.
 *ADL:	ie ! 2781_4191
 %eng:	yes!
 *MOR:	+< ond xxx ar y fuddai . 3408_5651
@@ -231,7 +231,7 @@
 %eng:	I had a wooden dish.
 *ADL:	ie ? 171189_171885
 %eng:	did you?
-*MOR:	dw i (y)n meddwl y byd ohoni iddi . 171392_172994
+*MOR:	dw i (y)n meddwl y byd ohoni ddi [?] . 171392_172994
 %eng:	I like it very much.
 *MOR:	dw i (y)n meddwl (.) uh uh roid hi yn yr amgueddfa . 173006_176599
 %eng:	I'm thinking of putting it in the museum.
@@ -577,7 +577,7 @@
 *MOR:	+< ie ie . 448410_449171
 %eng:	yes.
 *ADL:	yn lle Angharad@s:cym&spa dw i (y)n cofio . 449954_451266
-%eng:	at Megan's place, I remember.
+%eng:	at Angharad's place, I remember.
 *MOR:	+< ac yn y +... 450796_452305
 %eng:	and in the...
 *MOR:	be o(eddw)n i (y)n mynd i ddeud ? 452415_454952
@@ -610,7 +610,7 @@
 *ADL:	ie . 485761_486318
 %eng:	yes.
 *MOR:	a bod uh Mabel@s:cym&spa gwraig yr <Richards@s:cym&spa (y)ma (y)n deu(d) uh> [//] Richard@s:cym&spa (y)ma (y)n deud (w)rtha i bod nhw (y)n canu mewn côr . 486856_493862
-%eng:	and that Mabel, this Richard's wife, told me that they sing in a choir.
+%eng:	and that Mabel, this Richard's wife, told me that they sang in a choir.
 *ADL:	+< ie . 491836_492486
 %eng:	yes.
 *MOR:	(y)r un côr a Dafydd_Owen@s:cym&spa ! 493891_495732
@@ -659,7 +659,7 @@
 *ADL:	+< ie . 543000_543571
 %eng:	yes.
 *MOR:	ond <Misus Richards@s:cym&spa> [//] Misus Richard_Williams@s:cym&spa xx Mabel@s:cym&spa mae (y)n sgrifennu i fi byth . 543008_547842
-%eng:	but Mrs Richard Williams, Mabel, never writes to me.
+%eng:	but Mrs Richard Williams, Mabel, still writes to me.
 *ADL:	o@s:cym&spa ! 547865_548956
 %eng:	oh!
 *MOR:	+< <mi briod(odd)> [//] mi gollodd ei nain . 548358_550814
@@ -723,7 +723,7 @@
 %eng:	Godre'r Aran.
 *ADL:	Llanuwchllyn@s:cym&spa ie . 600323_601350
 %eng:	Llanuwchllyn, yes.
-*MOR:	ac uh (..) Bethan_Pugh@s:cym&spa sy(dd) (y)n cyfeilio iddyn nhw . 601292_605593
+*MOR:	ac uh (..) Bethan_Pugh@s:cym&spa (y)n cyfeilio iddyn nhw . 601292_605593
 %eng:	and Bethan Pugh accompanied them.
 *ADL:	Bethan@s:cym&spa +... 605641_606332
 %eng:	Bethan...
@@ -897,9 +897,9 @@
 *MOR:	+< oedd . 738455_738873
 %eng:	yes.
 *MOR:	Côr_y_Ddwy_Afon@s:cym&spa . 739549_741418
-%eng:	Côr  y Ddwy Afon [Choir of the Two Rivers].
+%eng:	Côr y Ddwy Afon [Choir of the Two Rivers].
 *ADL:	Côr_y_Ddwy_Afon@s:cym&spa . 741446_742462
-%eng:	Côr  y Ddwy Afon.
+%eng:	Côr y Ddwy Afon.
 *MOR:	xxx . 742387_743153
 *ADL:	+< a <lle oedd> [//] pobl o lle oedden nhw ? 742433_744511
 %eng:	and from where were the people?
@@ -1036,7 +1036,7 @@
 *ADL:	efo botymau tu blaen neu +/. 854509_856204
 %eng:	with buttons at the front or...
 *MOR:	na dim botymau ond cordones@s:spa ynde . 855891_858149
-%eng:	no, not buttons, but ribbons.
+%eng:	no, not buttons, but laces.
 *ADL:	carrai . 858149_858805
 %eng:	laces.
 *MOR:	carrai . 858701_859206
@@ -1271,7 +1271,7 @@
 *ADL:	ah@s:cym&spa efo ei llaw ? 1027620_1028961
 %eng:	ah, with her hand?
 *MOR:	efo ei llaw . 1028907_1029934
-%eng:	used her hand.
+%eng:	with her hand.
 *MOR:	o@s:cym&spa mae (y)n anwylyd ! 1029921_1031395
 %eng:	oh, she is a darling!
 *ADL:	+< ah@s:cym&spa ! 1030385_1031395
@@ -1357,7 +1357,7 @@
 %eng:	why?
 *MOR:	i gael mynd <â nhw> [?] draw . 1094633_1096020
 %eng:	so she could take them over there.
-*ADL:	a &ve be meddwl bod chi (we)di cael y mate@s:cym&spa a bod chi (y)n barod i fynd allan am dro . 1096036_1099272
+*ADL:	a &ve &be meddwl bod chi (we)di cael y mate@s:cym&spa a bod chi (y)n barod i fynd allan am dro . 1096036_1099272
 %eng:	and she thought that you had had the maté and were ready to go out for a walk.
 *MOR:	oedd (y)na ddim amser i gael mate@s:cym&spa xx . 1099203_1101124
 %eng:	there was no time to have maté.
@@ -1379,7 +1379,7 @@
 %eng:	uh...
 *MOR:	a <hanes uh> [//] hanesyddol ynde uh +... 1113468_1116299
 %eng:	and historical...
-*MOR:	petai nhw gael addysg lawer mae llyfrau (y)n help . 1116340_1119259
+*MOR:	<petaen nhw gael> [?] addysg lawer mae llyfrau (y)n help . 1116340_1119259
 %eng:	if they get much education, books help.
 *ADL:	ie . 1119065_1119687
 %eng:	yes.
@@ -1669,7 +1669,7 @@
 *ADL:	ah@s:cym&spa ! 1395651_1396568
 %eng:	ah!
 *MOR:	wel maen nhw fel (ta)sen nhw (y)n roid cwmni i rywun ynde . 1396585_1398947
-%eng:	well, the seem to keep someone company.
+%eng:	well, they seem to keep someone company.
 *ADL:	ie . 1398912_1399284
 %eng:	yes.
 *ADL:	dim gylfinir yma nac oes ? 1399269_1400738
@@ -1686,7 +1686,7 @@
 %eng:	no, there used to be two.
 *ADL:	ie . 1406179_1406986
 %eng:	yes.
-*MOR:	ond uh (.) troeon diwetha gwelais i hi iddi oedd hi methu hedfan . 1407504_1412261
+*MOR:	ond uh (.) troeon diwetha gwelais i ddi oedd hi methu hedfan . 1407504_1412261
 %eng:	but the last times I saw it it couldn't fly.
 *ADL:	o@s:cym&spa ! 1412238_1413242
 %eng:	oh!
@@ -1959,7 +1959,7 @@
 *MOR:	+< a wedi chwarae a wedi (..) wneud yr oll efo (ei)n_gilydd . 1649152_1653575
 %eng:	and played and done everything together.
 *MOR:	ac yn [//] mewn hen gartre . 1653558_1655323
-%eng:	and in the old family home.
+%eng:	and in the old home.
 *ADL:	ie . 1655271_1655799
 %eng:	yes.
 *MOR:	ond (.) <oed hi> [?] nawr . 1655755_1657317
