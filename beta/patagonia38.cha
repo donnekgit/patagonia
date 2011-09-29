@@ -96,7 +96,7 @@
 *ESF:	+< wel mae <accent@s:eng yn yn> [//] acen yn [/] yn wahanol . 89929_93332
 %eng:	well, the accent is different
 *INE:	+< xxx . 91401_91817
-*INE:	mm accent a mae o (y)n siarad yn caled . 92222_95860
+*INE:	mm accent@s:eng a mae o (y)n siarad yn caled . 92222_95860
 %eng:	mm, accent, and he speaks quite hard
 *ESF:	[- spa] y qué ? 96137_96585
 %eng:	and what ?
@@ -210,9 +210,9 @@
 %eng:	good
 *INE:	ie . 244099_244824
 %eng:	yes
-*INE:	mae Estuh ddim yn dod . 245057_246359
+*INE:	mae Ester@s:cym&spa ddim yn dod . 245057_246359
 %eng:	Ester isn't coming
-*ESF:	o@s:cym&spa mae Estuh o@s:cym&spa +... 246401_247980
+*ESF:	o@s:cym&spa mae Ester@s:cym&spa o@s:cym&spa +... 246401_247980
 %eng:	oh, Ester is... oh...
 *ESF:	+< ie eh@s:cym&spa na flwyddyn +... 246561_247916
 %eng:	yes, no, the year...
@@ -249,7 +249,7 @@
 %eng:	no aside from that, xxx going to have a little brother as well
 *INE:	ah@s:cym&spa me@s:spa parecía@s:spa . 277640_279517
 %eng:	ah it seemed to me
-*ESF:	sí@s:spa sí@s:spa sí . 279623_280476
+*ESF:	[- spa] sí sí sí . 279623_280476
 %eng:	yes yes yes
 *INE:	+< no@s:spa le@s:spa quise@s:spa preguntar@s:spa a@s:spa [/] a@s:spa Martha@s:cym&spa . 280034_283447
 %eng:	I didn't want to ask Martha
@@ -274,7 +274,7 @@
 %eng:	yes yes yes
 *ESF:	[- spa] no está recotenta . 292922_294245
 %eng:	no, she's very happy
-*ESF:	estaban@s:spa buscando@s:spa ellos@s:spa ya@s:spa un@s:spa hermanito@s:spa para@s:spa Estuh . 294102_297744
+*ESF:	estaban@s:spa buscando@s:spa ellos@s:spa ya@s:spa un@s:spa hermanito@s:spa para@s:spa Ester@s:cym&spa . 294102_297744
 %eng:	they were already looking for a little brother for Ester
 *INE:	&=laugh . 297745_298534
 *ESF:	y@s:spa un@s:spa amiguito@s:spa para@s:spa Julia@s:cym&spa . 298414_300537
@@ -326,7 +326,7 @@
 %eng:	you didn't finish it, did you?
 *INE:	[- spa] +< no . 335087_335727
 %eng:	no
-*INE:	na blwyddyn diweth(af) [//] blwyddyn nesa mae hi dal i fod undeg wyth . 335181_338711
+*INE:	na blwyddyn diweth(af) [//] blwyddyn nesa mae hi dal i fod un_deg wyth . 335181_338711
 %eng:	no, next year, she's still 18
 *ESF:	yr un blwyddyn ? 338839_339725
 %eng:	the same year?
@@ -358,7 +358,7 @@
 %eng:	Córdoba
 *ESF:	o@s:cym&spa y@s:spa qué@s:spa lindo@s:spa . 363883_366112
 %eng:	oh and how lovely
-*INE:	+< a mae Estuh (.) ddim talu viaje@s:spa de@s:spa egresados@s:spa . 365301_369685
+*INE:	+< a mae Ester@s:cym&spa (.) ddim talu viaje@s:spa de@s:spa egresados@s:spa . 365301_369685
 %eng:	and Ester isn't paying for the graduate trip
 *INE:	porque@s:spa para@s:spa Carmen@s:cym&spa . 370503_372817
 %eng:	because of Carmen
@@ -372,7 +372,7 @@
 %eng:	both pay
 *ESF:	aha@s:cym&spa . 383567_384207
 %eng:	yes
-*INE:	como@s:spa egresan@s:spa las@s:spa dos@s:spa juntas@s:spa Estuh dim talu . 384243_387443
+*INE:	como@s:spa egresan@s:spa las@s:spa dos@s:spa juntas@s:spa Ester@s:cym&spa dim talu . 384243_387443
 %eng:	because both graduate together, Ester doesn't pay
 *ESF:	[- spa] buenísimo . 387827_388829
 %eng:	excellent
@@ -469,7 +469,7 @@
 *INE:	mae [/] maen nhw hapus iawn . 497722_499749
 %eng:	they're very happy
 *ESF:	mm +... 499856_500368
-*INE:	a mae Estuh dim yn hoffi (.) deithio dim ffrind [/] dim ffrind i hi xxx . 500154_507536
+*INE:	a mae Ester@s:cym&spa dim yn hoffi (.) deithio dim ffrind [/] dim ffrind i hi xxx . 500154_507536
 %eng:	and Ester doesn't like travelling with no friend for her to...
 *ESF:	[- spa] +< pucha . 503013_504080
 %eng:	damn!
@@ -502,7 +502,7 @@
 %eng:	so, ok
 *INE:	na ond dim problem . 529478_530555
 %eng:	no, but no problem
-*INE:	mae [/] mae Estuh dweud +"/. 532956_534385
+*INE:	mae [/] mae Ester@s:cym&spa dweud +"/. 532956_534385
 %eng:	Ester says:
 *INE:	+" o@s:cym&spa hapus iawn . 534451_536019
 %eng:	"oh, very happy"
@@ -941,7 +941,7 @@
 %eng:	yes?
 *ESF:	o@s:cym&spa mae hi (y)n &ho +/. 984211_985683
 %eng:	oh, she...
-*INE:	+< undeg pump pesos@s:spa (.) neu (.) <dau_ddeg pump> [//] dau_ddeg pesos@s:spa . 984915_990739
+*INE:	+< un_deg pump pesos@s:spa (.) neu (.) <dau_ddeg pump> [//] dau_ddeg pesos@s:spa . 984915_990739
 %eng:	15 pesos or 25 ... 20 pesos
 *INE:	mae yn dibynnu um (.) cuánto@s:spa tiempo@s:spa . 990867_994451
 %eng:	it depends how long
@@ -950,7 +950,7 @@
 *ESF:	+< faint o amser . 995880_996712
 %eng:	how much time
 *ESF:	ah@s:cym&spa . 997651_998483
-*ESF:	espera@s:spa (.) undeg pump pesos@s:spa y dosbarth . 998944_1001398
+*ESF:	espera@s:spa (.) un_deg pump pesos@s:spa y dosbarth . 998944_1001398
 %eng:	wait, 15 pesos a class
 *INE:	y dosbarth (.) ie . 1001632_1003168
 %eng:	per class, yes
