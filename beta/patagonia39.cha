@@ -1,4 +1,3 @@
-@Font:	Win95:Arial:-24:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -13,7 +12,7 @@
 @Media:	Patagonia39, audio
 @Comment:	Filename: Patagonia39.cha; Soundfile: Patagonia39.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-*LIA:	a wedyn mae llall (w)edi (.) &der [//] cael ei derbyn yn periodista@s:spa . 12_3170
+*LIA:	a wedyn mae llall (w)edi (.) der(byn) [//] cael ei derbyn yn periodista@s:spa . 12_3170
 %eng:	and the other has been accepted as a journalist.
 *AMA:	paid â deud . 4496_5622
 %eng:	you don't say.
@@ -26,20 +25,20 @@
 *LIA:	ond (.) mae ddim isio sefyll yn Buenos_Aires@s:cym&spa . 7430_9410
 %eng:	but she doesn't want to stay in Buenos Aires.
 *AMA:	mm +... 7488_7755
-%eng:	mm.
+%eng:	mm...
 *LIA:	mae isio mynd <i fyw> [//] i weithio i Cordoba@s:cym&spa . 9439_11848
 %eng:	she wants to go and live... work in Cordoba.
 *AMA:	ah@s:cym&spa . 11857_13221
 %eng:	ah.
 *AMA:	mae (y)n licio Cordoba@s:cym&spa . 13325_15316
 %eng:	she likes Cordoba.
-*LIA:	mwy tawel chydig bach na Buenos_Aires@s:cym&spa . 15348_17374
+*LIA:	mwy tawel (y)chydig bach na Buenos_Aires@s:cym&spa . 15348_17374
 %eng:	a little quieter than Buenos Aires.
 *AMA:	+< ah@s:cym&spa . 16254_17281
 %eng:	ah.
 *LIA:	fel mae <&po &e> [//] popeth nawr . 17369_18855
 %eng:	like everything is now.
-*AMA:	+< (r)wy(f) siŵr [/] siŵr o fod . 17386_18826
+*AMA:	+< <dw i> [?] siŵr [/] siŵr o fod . 17386_18826
 %eng:	I'm sure.
 *AMA:	siŵr o fod . 18867_19482
 %eng:	I'm sure.
@@ -49,8 +48,8 @@
 %eng:	mmhm.
 *LIA:	a wedyn mae popeth +/. 23316_24454
 %eng:	and then everything...
-*AMA:	+< mae hi (y)n dal mlaen i stydio ffwrdd ? 23821_25545
-%eng:	she's still studying abroad?
+*AMA:	+< mae hi (y)n dal (y)mlaen i stydio ffwrdd ? 23821_25545
+%eng:	she's still studying away?
 *LIA:	na fan hyn . 25592_26213
 %eng:	no, here.
 *LIA:	fan hyn fan hyn . 26213_27055
@@ -73,25 +72,22 @@
 %eng:	and everything is in its place now.
 *AMA:	+< mm +... 30239_30813
 %eng:	mm.
-*AMA:	na o@s:cym&spa do ? 32386_33054
+*AMA:	na o@s:cym&spa do [?] ? 32386_33054
 %eng:	no, oh, yes?
 *AMA:	iawn . 33071_33501
 %eng:	ok.
-*LIA:	+< yndy . 33071_33513
-%eng:	yes.
-*LIA:	wrth lwc . 33518_34291
-%eng:	with any luck.
+*LIA:	yndy wrth lwc . 33071_34056
+%eng:	yes, with any luck.
 *AMA:	ia wir . 34430_35504
 %eng:	yes of course.
 *LIA:	wel (dy)na fo . 36232_36685
 %eng:	well, there we go.
-*LIA:	mae (y)n broses +/. 36691_37800
-%eng:	it's a process.
+*LIA:	xxx +/. 36691_37800
 *AMA:	+< tra bod y plant yn iawn mae rywun yn iawn . 36813_38961
 %eng:	so long as the children are ok, anybody's ok.
 *LIA:	+< yndy . 38380_39611
 %eng:	yes.
-*AMA:	+< wyddost ti ? 39024_39779
+*AMA:	+< wyddost [?] ti ? 39024_39779
 %eng:	you know?
 *LIA:	yndy . 40496_40989
 %eng:	yes.
@@ -117,8 +113,8 @@
 %eng:	sad.
 *AMA:	+< dan ni (y)n drist (he)fyd . 53697_54591
 %eng:	we're sad too.
-*AMA:	mm +... 54712_55984
-%eng:	mm.
+*AMA:	hm +... 54712_55984
+%eng:	mm...
 *AMA:	felly (y)n union mae . 56048_57853
 %eng:	that's it exactly.
 *LIA:	wel (dy)na fo . 61263_62215
@@ -129,24 +125,24 @@
 %eng:	mm.
 *LIA:	a mae Trevelin@s:cym&spa +//. 64862_66018
 %eng:	and Trevelin is...
-*LIA:	fwy o bobol yn Trevelin@s:cym&spa bob dydd . 66018_67806
+*LIA:	fwy o bobl yn Trevelin@s:cym&spa bob dydd . 66018_67806
 %eng:	more people in Trevelin every day.
-*LIA:	bobol sy (y)n dod i &fy +/. 67913_69347
+*LIA:	bobl sy (y)n dod i &vi +/. 67913_69347
 %eng:	people who come to...
 *AMA:	+< dan ni (y)n nabod neb yma na ? 68604_70345
 %eng:	we don't know anybody here, do we?
 *LIA:	+< na . 69771_70380
 %eng:	no.
-*AMA:	mae (y)na (.) lot o bobol du . 70508_72206
-%eng:	there are many black people.
-*LIA:	+< bobol o allan yn dod . 71347_72444
-%eng:	people from abroad coming.
-*AMA:	£ o bobol . 72444_73262
+*AMA:	mae (y)na (.) lot o bobl diarth . 70508_72505
+%eng:	there are a lot of strangers.
+*LIA:	+< bobl o allan yn dod . 71347_72444
+%eng:	outsiders coming in.
+*AMA:	xx o bobl . 72444_73262
 %eng:	[...] people.
 *LIA:	+< ie . 72612_73158
 %eng:	yes.
-*AMA:	gobeithio bod (y)na bobol &dd (.) dda yn dod no@s:spa . 73431_76339
-%eng:	I hope some good people come.
+*AMA:	gobeithio bod (y)na bobl &ð (.) dda yn dod no@s:spa ? 73431_76339
+%eng:	I hope there are some good people coming, eh?
 *LIA:	+< ie . 74104_74476
 %eng:	yes.
 *LIA:	+< ie . 75608_76368
@@ -158,29 +154,29 @@
 *LIA:	achos (.) oes (y)na ddim gwaith yn [/] yn y lle (y)ma . 78304_80835
 %eng:	because there isn't any work here.
 *AMA:	+< mm +... 78443_78745
-%eng:	mm.
+%eng:	mm...
 *AMA:	+< na . 80127_80887
 %eng:	no.
 *AMA:	na na na . 80881_81868
 %eng:	no no.
-*LIA:	+< a wedyn . 80881_81886
+*LIA:	+< a wedyn +... 80881_81886
 %eng:	then...
-*LIA:	weithiau mae o ddim yn deg . 82385_83880
+*LIA:	weithiau mae o ddim yn ddeg . 82385_83880
 %eng:	sometimes it's not fair.
 *AMA:	+< mae o &h anodd iddyn nhw . 82385_83891
 %eng:	it's difficult for them.
-*LIA:	i bobol dod (.) a maen nhw (y)n cael y gwaith . 83891_85929
-%eng:	for people to come and they get the work.
+*LIA:	bobl dod (.) a maen nhw (y)n cael y gwaith . 83891_85929
+%eng:	people come and they get the work.
 *AMA:	+< a maen nhw (y)n cael y gwaith . 85653_86652
 %eng:	they get the work.
-*LIA:	+< a bobol <o (y)r> [/] o (y)r dre <dim &ca> [//] dim ei gael o ynde . 85920_88904
-%eng:	and people from that town aren't getting it.
+*LIA:	+< a bobl <o (y)r> [/] o (y)r dre <dim &ca> [//] dim ei gael o ynde . 85920_88904
+%eng:	and people from the town don't get it.
 *AMA:	ia wir . 88393_88962
 %eng:	yes.
 *LIA:	mae hynna ddim yn ddeg iawn . 88956_90111
 %eng:	that's not very fair.
 *AMA:	mm +... 90123_90593
-%eng:	mm.
+%eng:	mm...
 %com:	bleeping noise in background.
 *LIA:	wel (dy)na fo . 100224_100653
 %eng:	well, there we go.
@@ -190,12 +186,10 @@
 %eng:	with any luck the sun has come.
 *LIA:	yndy . 103132_103637
 %eng:	yes.
-*AMA:	a mae (y)r blodau i weld (y)n neis . 103643_105169
+*AMA:	a mae (y)r blodau weld neis . 103643_105169
 %eng:	and the flowers look nice.
-*LIA:	yndy . 105222_105750
-%eng:	yes.
-*LIA:	o ar_ôl y glaw ? 105756_106534
-%eng:	after the rain?
+*LIA:	yndy o ar_ôl y glaw ? 105223_106534
+%eng:	yes, from after the rain?
 *AMA:	neis iawn . 106534_107387
 %eng:	very nice.
 *LIA:	be o(eddw)n i mynd i ddeud ? 109221_110017
@@ -210,29 +204,27 @@
 %eng:	ah.
 *LIA:	wyt ti (y)n mynd i helpu ? 113799_115140
 %eng:	are you going to help?
-*AMA:	+< ydw . 113799_114571
-%eng:	yes.
-*AMA:	+< dw i (y)n helpu . 114571_115642
-%eng:	I'm helping.
+*AMA:	+< ydw dw i (y)n helpu . 113757_115642
+%eng:	yes, I'm helping.
 *LIA:	ah@s:cym&spa (dy)na fo . 115642_117139
 %eng:	ah, there we go.
-*AMA:	+< <debyg iawn> [=! laughs] . 116007_117041
-%eng:	more than likely.
-*AMA:	[- eng] probably . 118071_118535
+*AMA:	+< <debyg iawn> [=! laughs] ! 116007_117041
+%eng:	probably!
+*AMA:	debyg iawn . 118071_118535
 %eng:	probably.
 *AMA:	a dw i wedi +... 118541_120114
 %eng:	and I've...
-*AMA:	lle wyt ti (y)n mynd ? 120114_121020
+*AMA:	lle wyt ti mynd ? 120114_121020
 %eng:	where are you going?
-*AMA:	teliffon arall ? 121023_122317
-%eng:	another phone[call]?
+*AMA:	teliffon arall . 121023_122317
+%eng:	another phone[call].
 *AMA:	ah@s:cym&spa ! 123687_124140
 %eng:	ah!
 *LIA:	(dy)na fo . 124477_125446
 %eng:	that's it.
 *LIA:	siareda (y)n dawel . 126500_127957
 %eng:	speak quietly.
-*LIA:	mi wnawn ni mlaen wedyn . 128027_129269
+*LIA:	mi wnewn ni (y)mlaen wedyn . 128027_129269
 %eng:	we'll continue later.
 %com:	LIA is now speaking on the phone in the background.
 *AMA:	[- spa] hola ? 133538_134160
@@ -270,7 +262,7 @@
 *AMA:	[- spa] sí . 172043_172554
 %eng:	yes.
 *AMA:	[- spa] mirá vos . 174191_175764
-%eng:	[...]
+%eng:	look at you. [check]
 *AMA:	[- spa] que consuelo no ? 175828_177267
 %eng:	what a comfort, eh?
 *AMA:	[- spa] que consuelo . 177355_178875
@@ -285,12 +277,12 @@
 %eng:	do you want to fil yourself?
 *AMA:	[- spa] ah@s:cym&spa no [=! laughs] . 189400_190033
 %eng:	ah, no.
-*AMA:	[check]  . 190079_191031
+*AMA:	[check] . 190079_191031
 %eng:	[...]
 *AMA:	[- spa] bueno . 191583_192761
 %eng:	good.
-*AMA:	[- spa] bueno [check]  . 193664_194889
-%eng:	good.
+*AMA:	[- spa] bueno gracias . 193664_194889
+%eng:	good, thanks.
 *AMA:	[- spa] saludos ciao . 194912_195811
 %eng:	bye.
 *AMA:	[- spa] ciao ciao . 195829_196688
@@ -310,14 +302,14 @@
 *LIA:	ia sôn am y tŷ oedden ni de . 208022_209497
 %eng:	yes, we were talking about the house, yes.
 *AMA:	+< dw i wedi (.) gwahodd aml i (.) ffrind . 208432_211497
-%eng:	I've often invited friends.
+%eng:	I've invited many friends.
 *LIA:	ia ? 211560_212071
 %eng:	yes?
 *AMA:	do . 212042_212303
 %eng:	yes.
 *LIA:	ah@s:cym&spa (dy)na fo . 212408_213296
 %eng:	ah, there we go.
-*AMA:	+< a maen nhw wrth eu bodd efo (y)r [//] y +//. 212710_214710
+*AMA:	+< a maen nhw wrth eu bodd efo (y)r [//] uh +... 212710_214710
 %eng:	and they love the...
 *LIA:	a mae pawb yn [/] yn barod i roid (.) teisennod (he)fyd . 214744_217859
 %eng:	and everybody's prepared to give cakes too.
@@ -334,33 +326,31 @@
 *LIA:	+< ie . 222347_222846
 %eng:	yes.
 *AMA:	gobeithio wneith +//. 222898_223508
-%eng:	I hope they do.
-*AMA:	oedd yn arfer bod yn neis . 223537_224837
-%eng:	it used to be nice.
+%eng:	I hope they do...
+*AMA:	mae o (y)n arfer bod yn neis . 223537_224837
+%eng:	it's usually nice.
 *LIA:	yndy . 224860_225435
 %eng:	yes.
 *AMA:	yndy . 225476_225812
 %eng:	yes.
-*LIA:	gobeithio fydd (y)na chydig o &bob &ol +//. 225847_227275
+*LIA:	weithiau mae (y)na (y)chydig o &bob &ol +//. 225847_227275
 %eng:	I hope there'll be a few people...
-*LIA:	llynedd mi gaeson ni (.) lot o bobol . 227281_229710
+*LIA:	llynedd mi gaeson ni (.) lot o bobl . 227281_229710
 %eng:	last year we had a lot of people.
-*AMA:	+< lot o bobol llynedd . 229205_230657
+*AMA:	+< lot o bobl llynedd . 229205_230657
 %eng:	a lot of people last year.
-*LIA:	+< lot o bobol . 229757_230790
+*LIA:	+< lot o bobl . 229757_230790
 %eng:	a lot of people.
-*LIA:	a wedyn mae raid i (.) &y paratoi <erbyn y (.)> [//] erbyn y diwrnod (y)na . 231667_235658
+*LIA:	a wedyn mae raid i (.) uh paratoi <erbyn y (.)> [//] erbyn y diwrnod (y)na . 231667_235658
 %eng:	and then that day has to be prepared for.
 *AMA:	+< ah@s:cym&spa . 231960_232587
 %eng:	ah.
-*AMA:	+< neu wneud teisen . 235362_236615
+*AMA:	+< neu [?] wneud teisen . 235362_236615
 %eng:	or make a cake.
 *LIA:	ia . 236633_237184
 %eng:	yes.
-*LIA:	dan ni (y)n paratoi &po +//. 237208_238241
-%eng:	we're preparing.
-*LIA:	cadw popeth yn barod . 238241_239376
-%eng:	keeping everything ready.
+*LIA:	dan ni (y)n paratoi &po [//] cadw popeth yn barod . 237208_239389
+%eng:	we prepare... keep everything ready.
 *LIA:	y (.) dau_ddeg pedwar . 239370_240804
 %eng:	the twenty fourth.
 *AMA:	+< y [/] y diwrnod cynt . 239370_240833
@@ -373,11 +363,11 @@
 %eng:	to go to the...
 *AMA:	ia . 245178_245474
 %eng:	yes.
-*AMA:	[check]  be ydy desfile@s:spa ? 245517_246551
-%eng:	what is desfile (procession)?
+*AMA:	[check]  be ydy desfile@s:spa ["] ? 245517_246551
+%eng:	what is "desfile" (procession)?
 *LIA:	&=clears_throat . 246609_247561
-*AMA:	[check]  ti (y)n cofio be ydy desfile@s:spa (y)n (.) Gymraeg ? 247642_250237
-%eng:	do you remember what desfile is in Welsh?
+*AMA:	[check]  ti (y)n cofio be ydy desfile@s:spa ["] (.) Cymraeg ? 248270_250237
+%eng:	do you remember what "desfile" is in Welsh?
 *LIA:	+< na(c) (y)dw . 249685_250254
 %eng:	no.
 *AMA:	oes gen i chwaith . 250225_251186
@@ -386,12 +376,10 @@
 %eng:	no.
 *LIA:	na . 251105_251766
 %eng:	no.
-*AMA:	+< <dw i (y)n> [/] dw i (y)n gwybod ond oedd ddim ges arna fi ddim eh@s:cym&spa . 251145_253801
-%eng:	I know but I don't have a guess.
-*LIA:	na . 253871_254509
+*AMA:	+< <dw i (y)n> [/] dw i (y)n gwybod ond ddim [?] gès arna fi <heddiw (y)ma> [?] (.) be (y)dy o . 251145_254518
+%eng:	I do know but I have no idea today what it is.
+*LIA:	+< na . 253871_254509
 %eng:	no.
-*AMA:	+< be ydy o . 253871_254509
-%eng:	what it is.
 *LIA:	mae o wedi mynd (.) o mhen i . 254498_256140
 %eng:	it's gone out of my head.
 *AMA:	+< mm ? 255455_256129
@@ -402,20 +390,17 @@
 *LIA:	na . 259986_260573
 %eng:	no.
 *AMA:	+< xxx . 259986_260584
-%eng:	[...]
 *LIA:	mi ddaw allan yn iawn o (y)r diwedd gei di weld . 260590_262575
 %eng:	it'll turn out alright in the end, you'll see.
 *AMA:	siŵr . 262529_263707
 %eng:	sure.
 *AMA:	siŵr o fod . 264378_265336
 %eng:	surely.
-*LIA:	o(eddw)n i (y)n cofio am (.) taid yn uh (.) mynd i (y)r feast@s:eng (y)na uh . 267161_271573
-%eng:	I was remembering taid going to the... that feast, er...
-*AMA:	mm +... 271579_271834
-%eng:	mm.
-*LIA:	ar gefn ceffyl bach . 271834_272775
-%eng:	on the back of a little horse.
-*LIA:	a wneud y bagull ynde . 272780_274458
+*LIA:	o(eddw)n i (y)n cofio am (.) taid yn uh (.) mynd i (y)r feast@s:eng [?] (y)na uh (.) ar gefn ceffyl bach . 267161_272795
+%eng:	I was remembering taid going to the... that feast, er... on the back of a little horse.
+*AMA:	+< mm +... 271579_271834
+%eng:	mm...
+*LIA:	a wneud y bagull [?] ynde . 272780_274458
 %eng:	and doing the [...]
 %com:	bagull..??
 *LIA:	ti (y)n cofio ? 274505_275282
@@ -423,7 +408,7 @@
 *AMA:	+< aha@s:cym&spa . 274505_275282
 %eng:	aha.
 *LIA:	fel [/] fel bagull . 275787_276908
-%eng:	like [...]
+%eng:	like a [...]
 *AMA:	na . 276966_277529
 %eng:	no.
 *LIA:	bagull yn dod o +//. 277546_278597
@@ -458,24 +443,23 @@
 %eng:	yes.
 *LIA:	ah@s:cym&spa yndy yndy . 291768_293034
 %eng:	ah, yes.
-*AMA:	+< mae o yn y [check]  . 291768_293034
-%eng:	it's in the [...]
+*AMA:	+< xxx . 291768_293034
 *LIA:	yndy siŵr . 293118_293803
 %eng:	sure it is.
 *AMA:	yndy . 293803_294302
 %eng:	yes.
 *AMA:	ah@s:cym&spa mm +... 294494_297457
-%eng:	ah, mm.
-*AMA:	<mae &m> [//] mae (y)r (.) gweld y bechgyn uh sy (y)n uh cynrychioli (y)r Cymry +... 297469_302537
-%eng:	seeing the boys, er, who represent the Welsh...
-*AMA:	y hen Gymry . 302554_303802
-%eng:	the old Welsh.
+%eng:	ah, mm...
+*AMA:	<mae &m> [//] mae (y)r (.) gweld y bechgyn uh sy (y)n uh cynrychioli (y)r Cymru +... 297469_302537
+%eng:	seeing the boys, er, who represent Wales...
+*AMA:	y hen Gymru . 302554_303802
+%eng:	the old Wales.
 *LIA:	+< ia . 302554_303222
 %eng:	yes.
-*LIA:	+< ia (y)r hen Gymry . 303222_304789
-%eng:	the old Welsh.
+*LIA:	+< ia (y)r hen Gymru . 303222_304789
+%eng:	the old Wales.
 *AMA:	+< wel maen nhw (y)n wneud i rywun grio yndyn ? 303451_305970
-%eng:	well, they make a person cry, don't they?
+%eng:	well, they make you cry, don't they?
 *LIA:	+< ia . 304955_305692
 %eng:	yes.
 *LIA:	yndy . 305715_306232
@@ -487,7 +471,7 @@
 *LIA:	+< bob amser dw i (y)n deud +"/. 306638_307608
 %eng:	I alway say:
 *LIA:	+" dw i (y)n gweld nhw bob blwyddyn . 307608_308931
-%eng:	I see them every year.
+%eng:	"I see them every year."
 *AMA:	ie . 308937_309355
 %eng:	yes.
 *LIA:	a mae o (y)n wneud (.) lwmp yn (f)y ngwddw i &=laugh . 309364_313485
@@ -502,9 +486,9 @@
 %eng:	because it's not easy.
 *LIA:	dim yn hawdd . 316765_317525
 %eng:	not easy.
-*LIA:	a mae o (y)n mynd yn anodd weithiau . 317525_319487
+*LIA:	a mae o (y)n mynd yn &h anodd weithiau . 317525_319487
 %eng:	and it can get difficult sometimes.
-*LIA:	mae o (y)n mynd yn anodd weithiau . 319754_321142
+*LIA:	mae o (y)n mynd yn &h anodd weithiau . 319754_321142
 %eng:	it gets difficult sometimes.
 *AMA:	+< yndy . 319754_320457
 %eng:	yes.
@@ -518,16 +502,14 @@
 %eng:	more expensive.
 *AMA:	ia . 324131_324497
 %eng:	yes.
-*LIA:	a dim pawb sy â pres i wneud fel i wneud e . 324883_327333
-%eng:	and not everybody has money to do it.
-*AMA:	+< wel +... 326561_327292
-%eng:	well.
-*AMA:	na . 327310_328012
-%eng:	no.
-*LIA:	dw i gwario . 328012_328726
-%eng:	I spend.
-*LIA:	erbyn y diwrnod (hy)nny dim pawb sy â pres . 328726_330804
-%eng:	everybody has the money by now.
+*LIA:	a dim pawb sy â pres i [//] xxx i wneud eh@s:cym&spa [?] . 324883_327333
+%eng:	and not everybody has money to [...] do it, eh.
+*AMA:	+< wel na . 326561_328014
+%eng:	well, no.
+*LIA:	xx gwario [?] erbyn y diwrnod (hyn)ny [?] . 328012_329699
+%eng:	[...] spending before that day. [?]
+*LIA:	 dim pawb sy â (y)r pres . 329693_330804
+%eng:	not everybody has the money.
 *AMA:	+< ie ie ie . 329562_330270
 %eng:	yes yes.
 *AMA:	[- spa] +< no no . 330346_331675
@@ -538,17 +520,17 @@
 %eng:	no.
 *LIA:	+< ie . 333184_333858
 %eng:	yes.
-*AMA:	ac yn y (.) rai yn y dre (he)fyd . 333910_335727
+*AMA:	ac <yn y> [//] (.) rai yn y dre (he)fyd . 333910_335727
 %eng:	and in the... some in the town too.
 *LIA:	ia . 335736_336171
 %eng:	yes.
 *AMA:	ond does dim pres yn sbâr . 336177_337712
-%eng:	there isn't any money left.
+%eng:	but there isn't any spare cash.
 *LIA:	nac oes . 337730_338391
 %eng:	no.
 *AMA:	dim arian (y)n sbâr byth . 338362_340208
 %eng:	never any money spare.
-*LIA:	+< &w uh &w does neb (y)n sbâr efo neb . 338635_340565
+*LIA:	+< &w uh &w does neb [///] yn sbâr efo neb . 338635_340565
 %eng:	er, nobody has any spare.
 *AMA:	na . 340565_340803
 %eng:	no.
@@ -560,12 +542,12 @@
 %eng:	yes.
 *AMA:	ia . 343131_343683
 %eng:	yes.
-*LIA:	pobol sy (y)n agos i (y)r llywodraeth . 343909_345575
+*LIA:	pobl sy (y)n agos i (y)r llywodraeth . 343909_345575
 %eng:	people close to the government.
 *LIA:	maen nhw +//. 345598_346057
 %eng:	they...
 *AMA:	+< mm +... 345598_346057
-%eng:	mm.
+%eng:	mm...
 *LIA:	mae gyda nhw ddigon o bres . 346057_347102
 %eng:	they have enough money.
 *AMA:	mmhm . 347119_347746
@@ -578,7 +560,7 @@
 %eng:	I hope, er, everything's ok.
 *LIA:	ia . 352985_354152
 %eng:	yes.
-*LIA:	wel o(eddw)n i mynd i ddeud rywbeth ond wyddost ti ti nawr mae o wedi mynd efo fi . 355696_358343
+*LIA:	wel o(eddw)n i mynd i ddeud rywbeth ond wyddost ti ti nawr mae o wedi mynd <efo fi> [?] . 355696_358343
 %eng:	well, I was going to say something but, you know, it's gone.
 *AMA:	mae o wedi mynd . 358349_359202
 %eng:	it's gone.
@@ -610,8 +592,7 @@
 %eng:	talking and talking.
 *AMA:	heb i neb roi &s (.) sylw i ni . 379230_381122
 %eng:	without anybody paying attention to us.
-*LIA:	+< &i &d i &dde . 379950_381023
-%eng:	to...
+*LIA:	+< xxx +/. 379950_381023
 *AMA:	a gwrando arnon ni . 381087_382689
 %eng:	and listening to us.
 *LIA:	+< ia . 381087_381714
@@ -622,28 +603,24 @@
 %eng:	nobody to listen to us then.
 *AMA:	+< neb i wrando arnon ni . 383543_385104
 %eng:	nobody to listen to us.
-*AMA:	dan ni (ddi)m yn gwybo(d) pwy sy (y)n . 385084_386930
-%eng:	we don't know who is.
-*LIA:	+< mae raid cael caniatâd i &ry &=laugh . 386062_390529
-%eng:	they have to get permission.
+*AMA:	dan ni (ddi)m yn gwybo(d) pwy xx +/. 385084_386930
+%eng:	we don't know who...
+*LIA:	+< mae raid cael caniatâd i &ri &=laugh +... 386062_390529
+%eng:	they have to get permission to...
 *AMA:	+< <wel oes> [=! laughs] . 387719_390529
 %eng:	well, yes.
 *LIA:	(dy)na fo . 390532_391008
 %eng:	there we go.
-*LIA:	bobol Trevelin@s:cym&spa dan ni ynde . 391008_392575
+*LIA:	bobl Trevelin@s:cym&spa dan ni ynde . 391008_392575
 %eng:	we're Trevelin people, aren't we.
-*AMA:	pobol Trevelin@s:cym&spa . 392575_393376
+*AMA:	pobl Trevelin@s:cym&spa . 392575_393376
 %eng:	Trevelin people.
-*LIA:	Ariannin@s:cym&spa o (y)r &trevel +//. 393400_394526
-%eng:	Argentina from Trevel...
-*LIA:	o Trevelin@s:cym&spa . 394532_395176
-%eng:	from Trevelin.
+*LIA:	Ariannin@s:cym&spa <o (y)r Treve(lin)@s:cym&spa> [//] o Trevelin@s:cym&spa . 393401_395176
+%eng:	Argentina from Trevelin.
 *LIA:	o Chubut@s:cym&spa . 395176_396099
 %eng:	from Chubut.
-*AMA:	+< mm +... 395176_395791
-%eng:	mm.
-*AMA:	ia . 395797_396459
-%eng:	yes.
+*AMA:	+< mm ia . 395347_396459
+%eng:	mm, yes.
 *LIA:	a hwnna (y)dy (ei)n iaith ni . 397977_400049
 %eng:	and that's our language.
 *AMA:	ia wir . 400252_401431
@@ -670,10 +647,10 @@
 %eng:	no?
 *LIA:	na . 413987_414318
 %eng:	no.
-*AMA:	o(eddw)n i (y)n darllen storis i dad . 414330_416173
+*AMA:	o(eddw)n i (y)n darllen storis i dad [?] . 414330_416173
 %eng:	I read stories to dad.
 *LIA:	+< o(eddw)n i (y)n gallu +//. 415058_416196
-%eng:	I was able to.
+%eng:	I was able to...
 *LIA:	o(eddw)n i (y)n siarad (.) Cymraeg efo taid a nain efo mam a dada . 416213_419479
 %eng:	I spoke Welsh with granddad and grandma and with mum and dad.
 *AMA:	ia . 419479_419978
@@ -683,9 +660,9 @@
 *AMA:	mmhm . 422909_423530
 %eng:	mmhm.
 *LIA:	a wedyn o(eddw)n i (y)n clywed &s &e &sh uh Sbanish . 423589_426044
-%eng:	and I heard, er, Spanish.
+%eng:	and then I heard, er, Spanish.
 *LIA:	a wedyn o(eddw)n i (y)n gallu Sbanish . 426041_427307
-%eng:	and I could speak Spanish.
+%eng:	and then I could speak Spanish.
 *AMA:	+< ia . 426744_427231
 %eng:	yes.
 *AMA:	aha@s:cym&spa . 427254_428253
@@ -710,7 +687,7 @@
 %eng:	yes.
 *LIA:	oedd . 435262_435791
 %eng:	yes.
-*AMA:	oedd o braidd yn ormod no@s:spa oedd? 435852_437616
+*AMA:	oedd o braidd yn ormod no@s:spa oedd? 435702_437616
 %eng:	it was a bit too much, wasn't it?
 *LIA:	+< oedd . 436896_437222
 %eng:	yes.
@@ -720,7 +697,7 @@
 %eng:	a bit too much.
 *LIA:	+< siŵr . 438023_438429
 %eng:	sure.
-*AMA:	ond naethon ni ddysgu mewn ryw wythnos . 438652_440731
+*AMA:	ond wnaethon ni ddysgu mewn ryw wythnos . 438652_440731
 %eng:	but we learnt within about a week.
 *LIA:	+< yn syth . 439906_440504
 %eng:	straight away.
@@ -728,29 +705,26 @@
 %eng:	we could speak as much as the others.
 *LIA:	+< ia . 441851_442321
 %eng:	yes.
-*AMA:	ac yn +... 442629_443662
-%eng:	and...
-*AMA:	+, dysgu darllen a bopeth yn iawn . 443671_445528
-%eng:	learning, reading and everything well.
+*AMA:	ac yn (..) dysgu darllen a bopeth yn iawn . 442627_445528
+%eng:	and learning to read and everything fine.
 *LIA:	+< (dy)na ti rhyfedd ynde . 444338_445488
 %eng:	strange, isn't it?
 *AMA:	eh@s:cym&spa ? 445523_446010
 %eng:	eh?
 *AMA:	neis no@s:spa ? 446057_446974
 %eng:	nice, eh?
-*LIA:	+< xxx . 446057_446962
-%eng:	[...]
-*LIA:	neis a +//. 446945_448350
+*LIA:	+< xx +/. 446057_446962
+*LIA:	neis a +/. 446945_448350
 %eng:	nice and...
 *AMA:	+< oe(dd) o (y)n neis . 447496_448042
 %eng:	it was nice.
 *AMA:	achos &ne +/. 448054_448895
 %eng:	because...
-*LIA:	+< ond &e dw i (y)n deud tad a mam ynde na um +... 448297_451548
+*LIA:	+< ond eh@s:cym&spa dw i (y)n deud tad a mam ynde na um +... 448297_451548
 %eng:	but I say to dad and mum that um...
 *AMA:	+< ie . 448326_448768
 %eng:	yes.
-*LIA:	dal &y (.) mlaen at y Cymraeg . 451664_453191
+*LIA:	dal uh ymlaen at y Cymraeg . 451664_453191
 %eng:	maintain Welsh.
 *AMA:	ia . 453197_453505
 %eng:	yes.
@@ -758,41 +732,34 @@
 %eng:	eh?
 *AMA:	+< ia . 453534_454253
 %eng:	yes.
-*AMA:	achos fydd (f)yn hogan i +//. 455049_455858
+*AMA:	achos fydd yn hogan i +//. 455049_455858
 %eng:	because my girl...
-*LIA:	+< £ . 455049_455870
-%eng:	[...]
+*LIA:	+< xxx +/. 455049_455870
 *AMA:	oeddwn ni (y)n siarad (.) Cymraeg efo hi tan oedd hi (y)n dair oed . 455870_458645
 %eng:	I spoke Welsh with her until she was three years old.
 *LIA:	ia . 458738_459388
 %eng:	yes.
-*AMA:	a dw i rioed wedi siarad fawr o Sbaeneg efo (f)yn plant . 460058_463274
+*AMA:	a dw i (e)rioed wedi siarad fawr o Sbaeneg efo yn plant . 460058_463274
 %eng:	and I've never spoken much Spanish with my children.
-*AMA:	a fyn ŵr . 463286_464197
-%eng:	and my husband.
+*AMA:	a fyn ŵr (.) yn deall popeth yn iawn . 463372_466023
+%eng:	and my husband understands everything fine.
 *LIA:	+< ah@s:cym&spa . 463286_464093
 %eng:	ah.
-*AMA:	y [//] yn deall popeth yn iawn . 464189_466023
-%eng:	understands everything well.
 *LIA:	+< wel (dy)na fo . 465622_466540
 %eng:	well, there we go.
-*AMA:	+< a maen nhw (y)n gallu cael sgwrs wedyn xxx . 466046_467944
-%eng:	and they can have a chat [...]
-*AMA:	efo unr(h)yw un . 468058_468702
-%eng:	with anyone.
+*AMA:	+< a maen nhw (y)n gallu cael sgwrs xxx (.) efo rywun [?] . 466046_468742
+%eng:	and they can have a chat [...] with anyone.
 *LIA:	+< wel (dy)na fo . 468058_468702
 %eng:	well, there we go.
 *AMA:	ond dim_ond acho(s) bod nhw wedi gwrando a ddim acho(s) bod nhw wedi ymarfer welaist ti ? 468702_472156
-%eng:	but only because they'd listened and not because they'd practiced, you see?
-*LIA:	+< oedd mam +//. 468702_469567
-%eng:	mum was...
-*LIA:	+< mae +//. 469573_470333
-%eng:	[...]
+%eng:	but only because they'd listened and not because they'd practised, you see?
+*LIA:	+< ond mae [/] mae +/. 468702_470400
+%eng:	but...
 *LIA:	+< ia . 470461_471059
 %eng:	yes.
 *LIA:	(dy)na fo . 472014_472530
 %eng:	there we go.
-*LIA:	mae Marco@s:cym&spa (y)n gallu mwy o Gymraeg na mae o (y)n feddwl . 472530_474829
+*LIA:	mae Marco@s:cym&spa (y)n gallu fwy o Gymraeg na(c) mae o (y)n feddwl . 472530_474829
 %eng:	Marco can speak more Welsh than he thinks.
 *AMA:	+< yndy . 473064_473842
 %eng:	yes.
@@ -800,24 +767,24 @@
 %eng:	you just think.
 *LIA:	yndy . 477079_477322
 %eng:	yes.
-*LIA:	achos pan fydd o isio &r deud rywbeth i (.) mi deall fan hyn mae o (y)n deud o Sbaeneg +//. 477322_481789
+*LIA:	achos pan fydd o isio &r deud rywbeth i [/] (.) i mi deall fan hyn mae o (y)n deud o Sbaeneg +//. 477322_481789
 %eng:	because when he wants to say something for me to understand here he says it in Spanish.
-*AMA:	+< secret . 480280_481157
-%eng:	secret.
+*AMA:	+< <dim yn secret> [?] . 479635_481157
+%eng:	no secret
 *LIA:	yn Gymraeg . 481737_482323
 %eng:	in Welsh.
 *AMA:	wyli di . 482341_483090
 %eng:	right.
-*AMA:	&miaw . 483090_483751
+*AMA:	xx . 483090_483751
 *LIA:	ia . 483856_484297
 %eng:	yes.
-*LIA:	a mae o wedi medru clywed (.) gymaint o Gymraeg â hynny ar_ôl (.) dod o lle taid . 484305_488421
-%eng:	and he's been able to hear as much Welsh as that after coming from grandad's place.
+*LIA:	a mae o ddim wedi clywed (.) gymaint o Gymraeg â (hyn)ny ar_ôl (.) dod o lle taid . 484305_488421
+%eng:	and so he hasn't heard as much Welsh as that after coming from grandad's place.
 *AMA:	wel na . 488433_489286
 %eng:	well, no.
 *AMA:	na na . 489319_489940
 %eng:	no no.
-*AMA:	na mae o (y)n um (..) peth mae rywun yn gael yn fabi . 490331_493431
+*AMA:	na mae o (y)n um (.) peth mae rywun yn gael yn fabi . 490331_493431
 %eng:	no, it's um... something a person acquires as a baby.
 *LIA:	+< ia . 492990_493454
 %eng:	yes.
@@ -837,8 +804,7 @@
 %eng:	yes.
 *LIA:	mae (y)n wir hynna . 497063_497946
 %eng:	that's true.
-*AMA:	+< £ . 497087_497777
-%eng:	[...]
+*AMA:	+< xx . 497087_497777
 *LIA:	mae o (y)n wir hynna . 499296_500318
 %eng:	that's true, that is.
 *AMA:	a wyt ti (we)di cael y fraint o fynd i Gymru ? 500312_502181
@@ -859,17 +825,17 @@
 %eng:	and we had a lot of fun, eh.
 *AMA:	o@s:cym&spa do &s siŵr . 512767_514578
 %eng:	oh sure.
-*LIA:	+< mi naethon ni ganu (.) trwy Gymru i_gyd am ryw ugain diwrnod . 512767_518318
+*LIA:	+< mi wnaeson ni ganu (.) trwy Gymru i_gyd am ryw ugain diwrnod . 512767_518318
 %eng:	we sang throughout Wales for about twenty days.
 *AMA:	gymaint â hynny ? 518455_520057
 %eng:	that much?
 *LIA:	+< ia . 519245_520069
 %eng:	yes.
-*LIA:	a wedyn (.) ar_ôl gorffen (.) oedd pob un yn wneud &e beth oedd o (y)n dewis . 521291_525887
+*LIA:	a wedyn (.) ar_ôl gorffen (.) oedd pob un yn wneud uh beth oedd o (y)n dewis . 521291_525887
 %eng:	and then after finishing, everybody did what they wanted to.
 *AMA:	+< mm +... 521731_523414
 %eng:	mm.
-*LIA:	oedd (y)na rai yn mynd i Italy a [/] a rai eraill yn mynd i Sbaen a rai +//. 525945_530576
+*LIA:	oedd (y)na rai yn mynd i Italy@s:eng a [/] a rai eraill yn mynd i Sbaen a rai +//. 525945_530576
 %eng:	some went to Italy and others went to Spain and some...
 *AMA:	+< mmhm . 530088_530582
 %eng:	mmhm.
@@ -895,15 +861,15 @@
 %eng:	oh, no?
 *AMA:	ah@s:cym&spa . 543179_544178
 %eng:	ah.
-*LIA:	a o fan (y)na +/. 545242_546809
-%eng:	from there.
+*LIA:	a o fan (hyn)ny +/. 545242_546809
+%eng:	from there...
 *AMA:	+< Llundain . 546217_546803
 %eng:	London.
 *LIA:	ia &y Llundain . 546792_547784
 %eng:	yes, London.
 *AMA:	+< mm +... 547430_547773
 %eng:	mm.
-*LIA:	a o fan (y)na i Barcelona@s:cym&spa . 547779_549346
+*LIA:	a o fan (hyn)ny i Barcelona@s:cym&spa . 547779_549346
 %eng:	and from there to Barcelona.
 *AMA:	aha . 549339_549792
 %eng:	aha.
@@ -913,12 +879,12 @@
 %eng:	ah.
 *LIA:	+< mewn ia . 552990_553663
 %eng:	in... yes.
-*AMA:	ac yn nabod (.) lot o lefydd wrth basio &e . 553666_557550
-%eng:	and we recognized a lot of places we passed.
+*AMA:	ac yn nabod (.) lot o <dre hefyd> [?] wrth basio xx . 553666_557550
+%eng:	and recognized a lot of towns as well passing by [...].
 *LIA:	+< o@s:cym&spa neis . 556099_557550
 %eng:	oh nice.
 *AMA:	llefydd mor fendigedig sydd yn España@s:spa ynde . 557520_559999
-%eng:	there are lovely places in Spain.
+%eng:	there are such wonderful places in Spain.
 *LIA:	+< neis neis (.) ia . 557520_559599
 %eng:	nice, yes.
 *LIA:	[- spa] muy [/] muy linda . 559982_561543
@@ -936,61 +902,61 @@
 *LIA:	+< &=noise . 564116_564592
 *LIA:	wel na <paid di â> [/] paid di â colli (y)r uh +... 566327_569334
 %eng:	well no don't lose, er...
-*AMA:	+< ond &e +//. 566699_567657
-%eng:	but...
-*AMA:	<y gobaith te> [//] (y)r gobaith a (y)r awydd mynd . 569830_572519
+*AMA:	+< ond uh +//. 566699_567657
+%eng:	but, er...
+*AMA:	<y gobaith te> [//] y gobaith a (y)r awydd mynd . 569830_572519
 %eng:	the hope and desire to go.
 *LIA:	+< yr awydd mynd . 570023_571120
 %eng:	the desire to go.
 *LIA:	ia y gobaith ia . 571167_572624
 %eng:	yes, the hope, yes.
-*AMA:	ond uh fyswn i (y)n (.) licio cael mynd cyn mynd rhy hen (.) welaist di ? 572595_575901
+*AMA:	ond uh fyswn i (y)n (.) licio cael mynd cyn mynd rhy hen (.) welaist ti ? 572595_575901
 %eng:	but, er, I'd like to have the chance to go before getting too old you see?
 *LIA:	+< ac +//. 573010_573684
 %eng:	and...
 *LIA:	+< (dy)na fo . 575402_575872
 %eng:	there we go.
 *LIA:	(dy)na be dw i (y)n deud bob amser . 575904_577454
-%eng:	that's what I say every time.
+%eng:	that's what I say all the time.
 *AMA:	+< ond (dy)na fo . 575904_576369
 %eng:	but there we go.
-*AMA:	+< mi [/] mi ddalia i mlaen i (.) drio hel chydig bach o arian . 576375_580407
+*AMA:	+< mi [/] mi dalia i (y)mlaen i (.) drio hel (y)chydig bach o arian . 576375_580407
 %eng:	I'll carry on trying to save a bit of money.
 *LIA:	+< o(eddw)n i +//. 578491_579379
 %eng:	I was...
 *LIA:	+< ia . 579385_579756
 %eng:	yes.
-*LIA:	+< +, o(eddw)n i meddwl (ba)swn i rioed yn mynd i Gymru . 579756_581881
+*LIA:	+< +, o(eddw)n i meddwl (ba)swn i erioed yn mynd i Gymru . 579756_581881
 %eng:	I thought I'd never go to Wales.
 *AMA:	na . 581887_582096
 %eng:	no.
 *LIA:	achos o(eddw)n i (we)di deud +"/. 582144_583113
 %eng:	because I'd said:
-*LIA:	+" mynd (f)yn hunan ? 583113_584112
-%eng:	go on my own?
+*LIA:	+" mynd yn hunan ? 583113_584112
+%eng:	"go on my own?"
 *LIA:	+" na . 584117_584530
-%eng:	no.
+%eng:	"no."
 *AMA:	+< ie . 584117_584530
 %eng:	yes.
 *AMA:	na . 584553_584971
 %eng:	no.
 *LIA:	ond (dy)na fo . 585180_586643
 %eng:	but there we go.
-*LIA:	trwy (y)r côr (.) gas i fynd . 586640_588666
-%eng:	I went with the choir.
-*LIA:	ond <dw i> [//] oedd o rywbeth o(eddw)n i ddim meddwl (ba)swn i rioed yn mynd . 588805_591974
-%eng:	but it was something... I never thought I'd go.
+*LIA:	trwy (y)r côr (.) ges [?] i fynd . 586640_588666
+%eng:	through the choir I was able to go.
+*LIA:	ond <dw i> [//] oedd o rywbeth o(eddw)n i ddim meddwl (ba)swn i erioed yn mynd . 588805_591974
+%eng:	but it was something... I didn't think I would ever go.
 *LIA:	a dw i mor hapus . 592123_593063
 %eng:	and I'm so happy.
 *AMA:	na na siŵr . 593058_594184
 %eng:	no, sure.
 *LIA:	+< a mi wnes i enjoio gymaint . 593058_594648
-%eng:	and I enjoyed so much.
+%eng:	and I enjoyed it so much.
 *AMA:	dw i (y)n siŵr . 594654_595438
 %eng:	I'm sure.
 *AMA:	dw i (y)n siŵr . 595437_596331
 %eng:	I'm sure.
-*LIA:	o oe(ddw)n i yn Gymru o(eddw)n i (y)n meddwl uh o@s:cym&spa +//. 596333_598196
+*LIA:	a o(eddw)n i yn Gymru o(eddw)n i (y)n meddwl uh o@s:cym&spa +//. 596333_598196
 %eng:	and [when] I was in Wales, I was thinking, er, oh...
 *LIA:	o(eddw)n i (y)n teimlo un arall . 598196_599252
 %eng:	I felt another one.
@@ -1010,13 +976,11 @@
 %eng:	we were coming in a, um, bus.
 *AMA:	ia . 608283_608690
 %eng:	yes.
-*LIA:	a pam o(eddw)n i (y)n edrych +//. 609821_610889
-%eng:	and when I was looking...
-*LIA:	oedden ni (y)n dod o Gymru i Llundain . 610900_613182
-%eng:	we were going from Wales to London.
+*LIA:	a pan o(eddw)n i (y)n edrych oedden ni (y)n dod o Gymru i Llundain . 609933_613182
+%eng:	and when I looked, we were going from Wales to London.
 *AMA:	mm +... 613211_613519
-%eng:	mm.
-*LIA:	a pam o(eddw)n i (y)n edrych (y)n_ôl (.) ti (y)n gwybod y hiraeth gaes i ? 614652_617635
+%eng:	mm...
+*LIA:	a pan o(eddw)n i (y)n edrych (y)n_ôl (.) ti (y)n gwybod y hiraeth ges i ? 614652_617635
 %eng:	and when I was looking back, do you know how much I longing I felt?
 *AMA:	o@s:cym&spa . 617652_618726
 %eng:	oh.
@@ -1034,23 +998,21 @@
 %eng:	yes.
 *LIA:	ond wir . 623889_624875
 %eng:	but really.
-*LIA:	y hiraeth gaes i . 625032_626350
+*LIA:	y hiraeth ges i . 625032_626350
 %eng:	the longing I felt.
 *LIA:	oedd rywun yn teimlo mor (.) cartrefol . 626452_628542
 %eng:	you felt so homely.
-*LIA:	fel sai fo (we)di &rioe +//. 628571_629480
-%eng:	as if it's...
+*LIA:	fel (ba)sai fo <(we)di (e)rioe(d)> [//] wedi bod (yn)a [?] bob amser . 628559_630839
+%eng:	as though you'd always... been there the whole time.
 *AMA:	+< ie . 628571_628929
 %eng:	yes.
-*LIA:	+, wedi bod &e bob amser . 629509_630839
-%eng:	been every time.
 *AMA:	paid â deud (.) hynny . 630804_632359
 %eng:	don't say that.
 *LIA:	+< ia . 631535_632267
 %eng:	yes.
-*LIA:	wnaes i ddim teimlo yn um (..) yn ddieithr . 632997_636509
+*LIA:	wnes i ddim teimlo yn [/] um (.) yn ddiarth . 632997_636509
 %eng:	I didn't feel, um, like a stranger.
-*AMA:	+< yn ddieithr ? 635353_636456
+*AMA:	+< yn ddiarth ? 635353_636456
 %eng:	like a stranger?
 *LIA:	yn ddim un man . 636629_637894
 %eng:	nowhere.
@@ -1062,11 +1024,11 @@
 %eng:	no, I know that the Welsh are very welcoming.
 *LIA:	+< yndyn . 644572_645762
 %eng:	yes.
-*AMA:	+< efo (y)r bobol o fan hyn . 644932_646105
+*AMA:	+< efo (y)r bobl o fan hyn . 644932_646105
 %eng:	with people from here.
 *LIA:	a mi aeson i Port_Talbot@s:cym&spa . 647287_648878
 %eng:	and we went to Port Talbot.
-*LIA:	a mae Port_Talbot@s:cym&spa dim wedi uh . 649520_651490
+*LIA:	a mae Port_Talbot@s:cym&spa dim wedi uh +//. 649520_651490
 %eng:	and Port Talbot hasn't, er...
 *LIA:	amser hynny ta beth . 651490_652651
 %eng:	at that time anyway.
@@ -1082,17 +1044,17 @@
 %eng:	Veronica and Tomas had done it.
 *AMA:	+< ah@s:cym&spa gaesoch chi ganu yn Port_Talbot@s:cym&spa ? 657728_660010
 %eng:	ah, you got to sing in Port Talbot?
-*LIA:	do . 659974_660995
-%eng:	yes.
+*LIA:	do ! 659974_660995
+%eng:	yes!
 *AMA:	+< o@s:cym&spa . 660659_661059
 %eng:	oh.
-*LIA:	mi wnaeson ni ganu yn Port_Talbot@s:cym&spa . 661053_662760
+*LIA:	mi wnaethon ni ganu yn Port_Talbot@s:cym&spa . 661053_662760
 %eng:	we sang in Port Talbot.
 *AMA:	+< wyli di . 661053_662772
 %eng:	right.
 *AMA:	ah@s:cym&spa . 662830_663399
 %eng:	ah.
-*LIA:	mi wnaeson ni enjoio <(y)n (.)> [//] yn Port_Talbot@s:cym&spa . 663400_665844
+*LIA:	mi wnaethon ni enjoio <(y)n (.)> [//] yn Port_Talbot@s:cym&spa . 663400_665844
 %eng:	we enjoyed ourselves in Port Talbot.
 *AMA:	+< do siŵr . 664903_665942
 %eng:	yes, sure.
@@ -1100,31 +1062,31 @@
 %eng:	sure.
 *AMA:	mae (y)n le (y)n hyfryd yndy ? 666502_667721
 %eng:	it's a lovely place, isn't it?
-*LIA:	+< wnaeson ni +/. 666578_667582
+*LIA:	+< wnaethon ni +/. 666578_667582
 %eng:	we...
 *LIA:	yndy . 667704_668366
 %eng:	yes.
 *LIA:	a mi aeson ni aros efo (.) uh Jane@s:cym&spa . 668362_671172
 %eng:	and we stayed with, er, Jane.
 *LIA:	&oe oedd y (.) Jane@s:cym&spa oedd yr enw (y)r ddynes . 671177_674713
-%eng:	Jane was... the lady's name was...
+%eng:	Jane was the lady's name.
 *AMA:	aha@s:cym&spa . 674719_675079
 %eng:	aha.
-*LIA:	+< mae gen i (y)r adrès ar y lle (y)na . 674847_676507
-%eng:	I have that place's address.
+*LIA:	+< mae gen i (y)r adrès ar ei lle (y)na . 674847_676507
+%eng:	I have the address of her place there.
 *AMA:	ia . 676554_676948
 %eng:	yes.
 *LIA:	ond (dy)na fo (dy)na hwyl gaeson ni . 677436_679102
 %eng:	but there we go, we had such fun.
-*AMA:	+< wyt ti (y)n sgrifennu iddi ? 678121_679335
+*AMA:	+< wyt ti (y)n sgwennu iddi ? 678121_679335
 %eng:	do you write to her?
-*AMA:	weithiau ? 679665_680251
+*AMA:	weithiau [?] ? 679665_680251
 %eng:	sometimes?
 *LIA:	+< do do . 679665_680280
 %eng:	yes yes.
-*LIA:	a [//] ar Nadolig . 680303_681319
+*LIA:	&a [//] ar Nadolig . 680303_681319
 %eng:	at Christmas.
-*AMA:	+< ah@s:cym&spa £ . 680303_681238
+*AMA:	+< ah@s:cym&spa xxx . 680303_681238
 %eng:	ah [...]
 *LIA:	ar Nadolig . 681284_682469
 %eng:	at Christmas.
@@ -1134,48 +1096,47 @@
 %eng:	yes yes.
 *LIA:	a wedyn (.) oedden nhw &i &=clears_throat wneud fel hyn . 682762_685548
 %eng:	and then they did like this.
-*LIA:	+" wel heno &n lle dan ni (y)n mynd i gael (.) wel mynd i gael swper ? 685625_689480
-%eng:	well, where are we going for supper tonight?
-*LIA:	+" i_gyd i lle (.) ffrind Jane@s:cym&spa ynde . 689447_692239
+*LIA:	+" wel heno &n lle dan ni (y)n <mynd i cael> [//] (.) wel mynd i cael swper ? 685625_689480
+%eng:	"well, where are we going to have dinner tonight?"
+*LIA:	i_gyd i lle (.) ffrind Jane@s:cym&spa ynde . 689447_692239
 %eng:	everybody to Jane's friend's place.
 *AMA:	+< ah@s:cym&spa . 691960_692268
 %eng:	ah.
 *AMA:	ie . 692303_692605
 %eng:	yes.
-*LIA:	a o fan (y)na nos wedyn uh (.) tŷ un arall . 692620_695842
+*LIA:	a o fan (hyn)ny nos wedyn uh (.) tŷ un arall . 692620_695842
 %eng:	and from there the next night, er, another person's house.
 *AMA:	(dy)na ti hyfryd . 696263_697174
 %eng:	that's lovely.
-*LIA:	+< wel o(edde)n ni (y)n cael hwyl &e . 696773_697929
+*LIA:	+< wel o(edde)n ni (y)n cael hwyl eh@s:cym&spa . 696773_697929
 %eng:	well, we had fun.
 *AMA:	wel dw i (y)n siŵr . 697702_698509
 %eng:	well, I'm sure.
 *AMA:	a mynd yn griw fel (y)na mae o (y)n hyfryd . 698556_700677
 %eng:	and going in a group like that, it's lovely.
-*LIA:	+< a mynd yn griw mae (y)n neis . 699922_701240
+*LIA:	+< a mynd yn criw mae (y)n neis . 699922_701240
 %eng:	and going in a group, it's lovely.
 *LIA:	yndy . 701251_701576
 %eng:	yes.
-*AMA:	+< yndyn . 701571_702076
+*AMA:	+< yndyn [?] . 701571_702076
 %eng:	yes.
-*AMA:	&m mreuddwyd i (y)dy cael (.) bod mewn cymanfa ganu yn Gymru . 702076_705172
+*AMA:	ym mreuddwyd i (y)dy cael (.) bod mewn cymanfa ganu yn Gymru . 702076_705249
 %eng:	my dream is to get to be in a singing assembly in Wales.
-*LIA:	+< a beth &e +//. 704649_705259
+*LIA:	+< a beth +//. 704649_705259
 %eng:	and what...
 *LIA:	ia . 705270_705636
 %eng:	yes.
-*LIA:	a peth arall (y)dy mae +... 705636_707054
-%eng:	and something else is that...
-*AMA:	+< £ . 705636_706793
-%eng:	[...]
-*LIA:	os (y)dy rywun yn gwybod chydig am y Gymraeg . 707019_709423
-%eng:	if a person knows something about Welsh.
+*LIA:	a peth arall (y)dy mae +//. 705636_707054
+%eng:	and another thing is that...
+*AMA:	+< xxx . 705636_706793
+*LIA:	os (y)dy rywun yn gwybod ychydig am y Gymraeg +... 707019_709423
+%eng:	if a person knows something about Welsh...
 *AMA:	ie . 709434_709881
 %eng:	yes.
-*LIA:	ond os na wyt ti (y)n gwybod dim o Gymraeg . 710320_712148
+*LIA:	ond os na(g) wyt ti (y)n gwybod dim o Gymraeg . 710320_712148
 %eng:	but unless you don't know any Welsh.
 *AMA:	na os nac wyt ti (y)n deallt o . 712159_713494
-%eng:	no, if you don't understand.
+%eng:	no, if you don't understand it.
 *LIA:	+< dim deall Cymraeg . 713245_714237
 %eng:	don't understand Welsh.
 *AMA:	+< xxx (.) ie . 713245_714220
@@ -1184,14 +1145,12 @@
 %eng:	they suffer from that.
 *LIA:	+< &e (.) mae o ddim (y)r un fath . 714214_715534
 %eng:	it's not the same.
-*LIA:	+< achos oedd Lara@s:cym&spa (.) oedd hi (y)n ymdrech i [/] i ddeall . 715507_719728
-%eng:	because Lara, it was an effort for her to understand.
-*LIA:	ond . 719733_720534
-%eng:	but.
+*LIA:	+< achos oedd Lara@s:cym&spa (.) oedd hi (y)n wneud ymdrech i [/] i ddeall . 715507_719728
+%eng:	because Lara, she was making an effort to understand.
+*LIA:	ond (.) oedd y sgwrs yn (.) stopio yn y fan . 719733_723085
+%eng:	but the conversation would stop at that point.
 *AMA:	+< ia . 719733_720534
 %eng:	yes.
-*LIA:	oedd y sgwrs yn (.) stopio yn y fan . 720801_723007
-%eng:	the conversation would stop at that point.
 *AMA:	+< yn torri . 721980_722827
 %eng:	break.
 *AMA:	ia ia . 722996_723860
@@ -1204,7 +1163,7 @@
 %eng:	they're ok.
 *LIA:	a wedyn oedd raid cyfieithu iddi . 725143_726710
 %eng:	and then we had to translate for her.
-*LIA:	a weithiau (dy)na fo mae o (y)n anodd cyfieithu a dal ymlaen ar +//. 726722_729609
+*LIA:	a weithiau (dy)na fo mae o (y)n &h anodd cyfieithu a dal ymlaen ar +//. 726722_729609
 %eng:	and sometimes, there we go, it's difficult to translate and continue with...
 *AMA:	+< yndy . 728395_729034
 %eng:	yes.
@@ -1221,8 +1180,8 @@
 *AMA:	ond um +... 732696_734322
 %eng:	but, um...
 *AMA:	o(eddw)n i (y)n meddwl bod o (y)n beth mor +//. 734247_735594
-%eng:	I was thinking that it wa so...
-*LIA:	+< ond <mi gaeson ni hwyl (.)> [//] mi gaeson ni hwyl (y)r un fath . 734247_736395
+%eng:	I was thinking that it was such a...
+*LIA:	+< ond <mi gaeson ni hwyl> [/] mi gaeson ni hwyl (y)r un fath . 734247_736395
 %eng:	but we had fun all the same.
 *AMA:	ie . 736394_736655
 %eng:	yes.
@@ -1234,16 +1193,14 @@
 %eng:	having the chance to learn Welsh.
 *LIA:	+< ia . 739700_740339
 %eng:	yes.
-*LIA:	yndy . 740991_741589
-%eng:	yes.
-*LIA:	dw i (he)fyd . 741583_742129
-%eng:	I do too.
-*LIA:	di o (ddi)m (.) yn diolch . 742241_743216
-%eng:	it isn't... thanks.
+*LIA:	yndy dw i (he)fyd . 741136_742129
+%eng:	yes, I do too.
+*LIA:	(dy)dy o (ddi)m (.) yn diolch [?] . 742241_743216
+%eng:	it isn't... thanks [?] .
 *AMA:	+< o@s:cym&spa . 742717_744563
 %eng:	oh.
 *LIA:	a wedyn i taid a nain . 743199_744522
-%eng:	to granddad and grandma.
+%eng:	and then to granddad and grandma.
 *AMA:	ie . 744569_744975
 %eng:	yes.
 *AMA:	ie wir . 745209_745871
@@ -1252,8 +1209,8 @@
 %eng:	I lived with them.
 *AMA:	mm +... 746811_747130
 %eng:	mm.
-*LIA:	a fan (y)na (.) fagais i (fy)n [//] (f)yn [/] (f)yn hogyn henaf i . 747168_750245
-%eng:	and that's where I raised my eldest boy.
+*LIA:	a fan (y)na (.) fagais i yn [//] yn [/] yn hogyn henaf i . 747168_750245
+%eng:	and that's where I raised my eldest son.
 *AMA:	ie . 750230_750607
 %eng:	yes.
 *LIA:	+< a dw i (y)n ddiolchgar am hynny . 750369_751739
@@ -1266,15 +1223,15 @@
 %eng:	surely.
 *LIA:	dw i (y)n ddiolchgar am hynny ynde . 754119_755437
 %eng:	I'm grateful for that, yes.
-*LIA:	achos Wil@s:cym&spa mrawd &h i(eu)engaf i (.) naeth o ddim aros gymaint efo taid na nain . 755455_760140
+*LIA:	achos Wil@s:cym&spa mrawd &h ieuengaf i (.) wnaeth o ddim aros gymaint efo taid na nain . 755455_760140
 %eng:	because Wil, my youngest brother, he didn't stay that much with granddad and grandma.
-*LIA:	yr un sy (y)n gallu llai o Gymraeg (y)dy o &ch . 760140_762497
-%eng:	the one that speaks the least Welsh.
+*LIA:	yr un sy (y)n gallu llai o Gymraeg (y)dy o . 760140_762244
+%eng:	he's the one that knows less Welsh.
 *AMA:	+< na . 760140_760692
 %eng:	no.
 *AMA:	+< ie siŵr . 762126_763159
 %eng:	yes, sure.
-*LIA:	+< mae o (y)n deall ond mae o dim (.) ia . 762544_764651
+*LIA:	+< mae o (y)n deall ond mae dim (.) ia . 762544_764651
 %eng:	he understands but he doesn't... yes.
 *AMA:	+< <mae Dafydd@s:cym&spa yn> [/] mae Dafydd@s:cym&spa yn licio siarad Cymraeg ydy ? 763118_766044
 %eng:	Dafydd likes to speak Welsh, doesn't he?
@@ -1284,8 +1241,7 @@
 %eng:	Dafydd...
 *LIA:	(dy)na fo ynde . 766065_767075
 %eng:	that's it, yes.
-*AMA:	+< yndy . 766286_766791
-%eng:	yes.
+*AMA:	+< xx . 766286_766791
 *LIA:	taid a nain . 767133_768137
 %eng:	grandad and grandma.
 *AMA:	+< mae o (we)di bod lot efo &t +//. 767133_768148
@@ -1310,8 +1266,8 @@
 %eng:	community?
 *LIA:	na . 780658_781093
 %eng:	no.
-*LIA:	plant i Gymru a plant . 781245_783219
-%eng:	children for Wales and children..
+*LIA:	plant i Gymru a plant +//. 781245_783219
+%eng:	children for Wales and children...
 *LIA:	ond mae dim yn gallu Cymraeg . 783248_784757
 %eng:	but he can't speak Welsh.
 *LIA:	ynde . 784794_785288
@@ -1323,11 +1279,10 @@
 *AMA:	biti ond maen nhw (y)n gweld ei werth o rŵan . 786756_788480
 %eng:	pity but they see its value now.
 *LIA:	yndyn . 788485_789287
-%eng:	yes.
+%eng:	yes, they do.
 *LIA:	pan ddoth y criw diwetha o (.) plant ifanc +... 789934_792709
 %eng:	when the last group of young people came...
 *AMA:	+< xxx . 790124_791285
-%eng:	[...]
 *AMA:	+< mm +... 791419_791993
 %eng:	mm.
 *AMA:	ie . 792831_793417
@@ -1342,27 +1297,27 @@
 %eng:	in Casa Verde.
 *AMA:	mmhm . 797309_797768
 %eng:	mmhm.
-*LIA:	uh (.) <mi o(edde)n nhw> [//] mi wnaeson nhw chwarae pêl . 798759_802346
+*LIA:	uh (.) <mi o(edde)n nhw> [//] mi wnaethon nhw chwarae pêl . 798759_802346
 %eng:	er, they played ball.
 *AMA:	ah@s:cym&spa . 802479_804198
 %eng:	ah.
 *LIA:	+< pêl_droed . 802479_804198
 %eng:	football.
-*LIA:	yn y [check]  deportivo@s:spa . 804224_805577
-%eng:	[...] in the sports [...]
+*LIA:	yn y [check] deportivo@s:spa . 804224_805577
+%eng:	in the sports [...]
 *AMA:	mmhm . 805618_806001
 %eng:	mmhm.
 *LIA:	a oedd y merched o Trevelin@s:cym&spa y [/] yr merched bach ifanc o Trevelin@s:cym&spa yn deud (wr)tha fi +"/. 806015_809521
 %eng:	and the young girls from Trevelin were saying to me:
-*AMA:	+" o@s:cym&spa (ba)swn i licio gallu siarad Cymraeg nawr . 809527_812615
-%eng:	oh I'd like to be able to speak Welsh now.
+*AMA:	+" &=gasp (ba)swn i licio gallu siarad Cymraeg nawr ! 809527_812615
+%eng:	"oh I'd like to be able to speak Welsh now!"
 *AMA:	o@s:cym&spa ia (dy)na fo . 812327_813494
 %eng:	oh yes that's it.
 *LIA:	[- spa] +< claro . 812699_813274
 %eng:	[...] sure.
 *LIA:	efo plant ifanc . 813227_814189
 %eng:	with young people.
-*AMA:	+< achos mae +//. 813481_814206
+*AMA:	+< achos +//. 813481_814206
 %eng:	because...
 *LIA:	bechgyn a merched ifanc . 814235_815466
 %eng:	young boys and girls.
@@ -1370,19 +1325,18 @@
 %eng:	yes.
 *AMA:	+< yn gallu siarad ia . 814949_817080
 %eng:	able to speak, yes.
-*LIA:	+< +" ond (ba)swn i (y)n licio siarad Cymraeg . 816279_817846
-%eng:	but I'd like to speak Welsh.
+*LIA:	+< +" ay@s:spa [?] (ba)swn i (y)n licio siarad Cymraeg . 816279_817846
+%eng:	"ooh, I'd like to speak Welsh."
 *LIA:	ond (.) bob amser mae hynna (y)n digwydd . 817863_819683
-%eng:	but... every time that happens.
-*AMA:	+< £ . 818208_819061
-%eng:	[...]
-*AMA:	yndy de . 819659_820205
+%eng:	but every time that happens.
+*AMA:	+< xx . 818208_819061
+*AMA:	yndy de [?] . 819659_820205
 %eng:	yes it does.
-*LIA:	ond (dy)na fo mae (y)n (.) mynd a wedyn . 820222_821668
+*LIA:	ond (dy)na fo mae (y)n (.) mynd a wedyn +... 820222_821668
 %eng:	but there we go, it goes and then...
 *AMA:	+< yndy . 820222_820890
 %eng:	yes.
-*AMA:	<mae (y)n um (.)> [//] mae o (y)n uh anodd eiste(dd) yn ochr rywun sy ddim yn gallu . 822138_826960
+*AMA:	<mae (y)n um (.)> [//] mae o (y)n uh &h anodd eiste(dd) yn ochr rywun sy ddim yn gallu . 822138_826960
 %eng:	it, um, it's, er, difficult to sit next to somebody who doesn't understand.
 *LIA:	yndy yndy . 826995_828255
 %eng:	yes yes.
@@ -1399,7 +1353,7 @@
 *LIA:	+< na . 833888_834254
 %eng:	no.
 *AMA:	a erbyn hynny wyt ti (we)di colli hanner y drama neu (.) ryw beth . 834266_838735
-%eng:	and by then you've missed half the drama or something.
+%eng:	and by then you've missed half the drama, or some thing.
 *LIA:	+< oes &=laugh ia . 834300_835763
 %eng:	yes.
 *LIA:	+< ia ia . 836460_838120
@@ -1407,7 +1361,7 @@
 *LIA:	ia . 838763_839140
 %eng:	yes.
 *AMA:	beth wyt ti wrthi (y)n gwrando no@s:spa . 839123_840888
-%eng:	[...] what you're listening to.
+%eng:	what you're listening to.
 *AMA:	na fuodd um (.) &m &e &m fisit ? 840992_844205
 %eng:	no wasn't, um... visit..?
 *LIA:	ia . 844391_844832
@@ -1420,23 +1374,23 @@
 %eng:	did you see how nice the little concert was?
 *LIA:	+< na . 848819_849290
 %eng:	no.
-*LIA:	+< gas i ddi(m) (.) &ne . 849295_850449
+*LIA:	+< ges i ddi(m) (.) &ne . 849295_850449
 %eng:	I didn't get...
-*AMA:	+< o@s:cym&spa est ti ddim . 849909_851001
-%eng:	oh, you didn't go.
-*LIA:	+< naddo . 850449_851169
-%eng:	no.
-*LIA:	achos o(eddw)n i ddim yn gwybod am y consert (y)ma . 851163_853143
-%eng:	because I didn't know about this concert.
+*AMA:	+< ah@s:cym&spa est ti ddim . 849909_851001
+%eng:	ah, you didn't go.
+*LIA:	naddo [?] achos o(eddw)n i ddim yn gwybod am y consert (y)ma . 850610_853143
+%eng:	no, because I didn't know about this concert.
 *AMA:	ah@s:cym&spa . 851788_852606
 %eng:	ah.
 *AMA:	aha@s:cym&spa . 853088_853947
 %eng:	aha.
-*LIA:	+< a pan fe gaes i wybod oedd hi rhy hwyr . 853257_855114
+*LIA:	+< a pan fe ges i wybod oedd hi rhy hwyr . 853257_855114
 %eng:	and when I found out it was too late.
-*AMA:	rhy hwyr ond oedd o (y)n neis . 855173_856827
-%eng:	too late but it was nice.
-*LIA:	+< ond (.) &pon mi es i weld nhw <(y)n &s> [//] yn chwarae (.) pêl_droed . 855649_859649
+*AMA:	rhy hwyr . 855246_855693
+%eng:	too late.
+*AMA:	oedd o (y)n neis . 855681_856827
+%eng:	it was nice.
+*LIA:	+< ond (.) &pon mi es i weld nhw <(y)n &s> [//] yn chwarae (.) pêl_droed . 855740_859649
 %eng:	but I went to watch them play football.
 *AMA:	aha@s:cym&spa . 859655_860548
 %eng:	aha.
@@ -1446,22 +1400,22 @@
 %eng:	ah, yes.
 *AMA:	ac <oedd &e> [//] oedd hi +//. 866083_867395
 %eng:	and she was...
-*AMA:	o lle o(eddw)n i (y)n eiste(dd) oedd o ddim i w wrando (y)n iawn . 867581_870389
-%eng:	from where I was sitting, it wasn't possible hear properly.
+*AMA:	o lle o(eddw)n i (y)n eistedd oedd o ddim i w wrando (y)n iawn . 867581_870389
+%eng:	from where I was sitting, it wasn't possible to hear properly.
 *LIA:	+< ah@s:cym&spa . 869750_870412
 %eng:	ah.
 *AMA:	ond o(eddw)n i (y)n gwybod bod hi (y)n adroddiad bendigedig . 870412_873640
-%eng:	but I knew it was a good recital.
+%eng:	but I knew it was a good recitation.
 *LIA:	+< siŵr . 872351_873251
 %eng:	sure.
 *LIA:	yn y (ei)steddfod nawr ? 873640_874882
 %eng:	in the Eisteddfod now?
 *AMA:	na na . 874917_875561
 %eng:	no no.
-*AMA:	ym £ . 875565_876494
+*AMA:	ym xx . 875565_876494
 %eng:	in [...]
 *LIA:	+< ah@s:cym&spa yn fan hyn . 875925_876494
-%eng:	ah here.
+%eng:	ah, here.
 *AMA:	yn y cyngerdd bach wnaeson nhw . 876506_877829
 %eng:	in the little concert they did.
 *LIA:	+< yn fan hyn . 876506_877098
@@ -1488,18 +1442,18 @@
 %eng:	I think the north, yes.
 *AMA:	ynde . 884359_884802
 %eng:	yes.
-*AMA:	(doe)s gen i (ddi)m ges o pwy dre oedd o . 884808_886480
-%eng:	I don't know which town they were from.
+*AMA:	(doe)s gen i (ddi)m gès o pwy dre oedden nhw . 884808_886480
+%eng:	I've no idea which town they were from.
 *LIA:	+< na . 886149_886492
 %eng:	no.
 *LIA:	fi chwaith . 886492_886979
 %eng:	me neither.
-*AMA:	+< dw i (y)n credu bod nhw £ at ei_gilydd . 886492_888180
-%eng:	I think they [...] together.
+*AMA:	+< dw i (y)n credu bod nhw (we)di hel [?] at ei_gilydd . 886492_888180
+%eng:	I think they gathered together.
 *LIA:	+< mi anghofiais i gofyn . 887008_887983
 %eng:	I forgot to ask.
 *LIA:	achos mi (.) fues i (y)n siarad efo un ond mi anghofiais i ofyn amdan . 888099_891019
-%eng:	because I was talking to one but I forgot to ask about...
+%eng:	because I was talking to one but I forgot to ask about it.
 *AMA:	+< mmhm . 888621_889556
 %eng:	mmhm.
 *AMA:	+< ie &r . 890427_891059
@@ -1507,7 +1461,7 @@
 *LIA:	maen nhw (y)n criw go_lew . 891731_892753
 %eng:	they're a good group.
 *AMA:	maen nhw (y)n griw +//. 892753_893374
-%eng:	they're a [...] group.
+%eng:	they're a [...] group...
 *AMA:	dau_ddeg pedwar . 893392_894117
 %eng:	twenty four.
 *LIA:	+< ia . 893392_894117
@@ -1517,19 +1471,19 @@
 *AMA:	mwy neu lai . 894512_895000
 %eng:	more or less.
 *LIA:	+< mm +... 894512_895029
-%eng:	mm.
+%eng:	mm...
 *LIA:	<o(edde)n nhw> [/] o(edde)n nhw (y)n hapus braf yn Casa_Verde@s:cym&spa . 895042_897080
 %eng:	they were happy in Casa Verde.
 *AMA:	+< siŵr o fod . 896761_898386
-%eng:	sure.
+%eng:	I'm sure.
 *LIA:	+< a mi gaeson nhw glaw hefyd . 897126_898508
 %eng:	and they had rain too.
 *AMA:	do ? 898514_898891
 %eng:	yes?
-*LIA:	wedyn oedden nhw (y)n deud +"/. 898899_899700
-%eng:	and they were saying:
+*LIA:	ond oedden nhw (y)n deud +"/. 898899_899700
+%eng:	but they were saying:
 *LIA:	+" dan ni (we)di arfer . 899706_900350
-%eng:	we're used to it.
+%eng:	"we're used to it."
 *LIA:	a wedyn . 900350_900780
 %eng:	and then.
 *AMA:	+< na . 900629_901035
@@ -1540,37 +1494,37 @@
 %eng:	yes.
 *AMA:	mmhm . 904445_905107
 %eng:	mmhm.
-*LIA:	oedd (y)na <&fer uh> [//] ferch <yn siara(d)> [///] yn chwarae (.) pêl_droed yn iawn . 905772_909162
+*LIA:	oedd (y)na fer(ch) [/] uh ferch <yn siara(d)> [//] yn chwarae (.) pêl_droed yn iawn . 905772_909162
 %eng:	there was a girl playing football well.
-*LIA:	a oedd (y)na un yn chwarae (.) rygbi . 909164_911811
+*LIA:	a oedd (y)na un yn chwarae (.) rugby@s:cym&spa . 909164_911811
 %eng:	and there was one playing rugby.
 *AMA:	+< oedd ? 909576_910505
 %eng:	yes?
 *AMA:	aha@s:cym&spa . 911823_912519
 %eng:	aha.
-*LIA:	merched xxx . 912537_913898
-%eng:	[...] girls.
-*AMA:	+< wyli di merched yn chwarae rygbi . 912928_914635
+*LIA:	merched &=mumble . 912537_913898
+%eng:	girls.
+*AMA:	+< wyli di merched yn chwarae rugby@s:cym&spa . 912928_914635
 %eng:	well well, girls playing rugby.
 *LIA:	+< ia . 913933_914589
 %eng:	yes.
 *AMA:	mor beryg no@s:spa ? 914693_915779
-%eng:	[...] so dangerous, isn't it?
+%eng:	so dangerous, isn't it?
 *LIA:	+< ia . 915279_915738
 %eng:	yes.
 *AMA:	mm +... 915773_916551
-%eng:	mm.
-*LIA:	ond oedd (y)na un (y)n chwarae rygbi hefyd . 916583_918423
+%eng:	mm...
+*LIA:	ond oedd (y)na un (y)n chwarae rugby@s:cym&spa hefyd . 916583_918423
 %eng:	but there was one playing rugby too.
 *LIA:	wel (dy)na fo . 921058_921946
 %eng:	well, there we go.
-*LIA:	uh mi aes i â (y)r criw (..) y bobol dim y bobol ifanc . 921964_926259
-%eng:	er, I took the group... the people, not the young people.
-*LIA:	bobol mawr uh hynna . 926259_927704
+*LIA:	uh mi es i â (y)r criw (.) <y bobl> [//] dim y bobl ifanc . 921964_926259
+%eng:	er, I took the group... the people... not the young people.
+*LIA:	bobl mawr uh hynna . 926259_927704
 %eng:	big people, er... those.
 *AMA:	mm +... 927739_928105
 %eng:	mm.
-*LIA:	mi aes i nhw [//] â nhw i (y)r capel . 928145_930009
+*LIA:	mi es i nhw [//] â nhw i (y)r capel . 928145_930009
 %eng:	I took them to the chapel.
 *LIA:	a o(edde)n nhw (y)n griw (.) iawn . 930851_933411
 %eng:	and they were an alright group.
@@ -1588,8 +1542,8 @@
 %eng:	oh, right.
 *LIA:	a (dy)na fo . 940798_941245
 %eng:	and there we go.
-*LIA:	aes i (y)r swper achos o(eddw)n i (we)di cael annwyd . 941245_943486
-%eng:	I went to the supper because I'd caught a cold.
+*LIA:	es i ddim i (y)r swper achos o(eddw)n i (we)di cael annwyd . 941245_943486
+%eng:	I didn't go to the dinner because I'd caught a cold.
 *AMA:	mmhm . 943538_944014
 %eng:	mmhm.
 *LIA:	ond oedden nhw griw hapus iawn oedden nhw . 944045_946083
@@ -1598,8 +1552,8 @@
 %eng:	I'm sure.
 *LIA:	criw hapus iawn . 946861_948324
 %eng:	very happy group.
-*AMA:	+< oedd golwg +//. 947232_948138
-%eng:	they looked...
+*AMA:	+< <o (y)r> [?] golwg +//. 947232_948138
+%eng:	seemed so...
 *AMA:	golwg jôcs arnyn nhw . 948506_950010
 %eng:	looked jokey.
 *LIA:	+< ia . 949423_949986
@@ -1621,16 +1575,16 @@
 *AMA:	&=laugh . 956487_957381
 *LIA:	ond (dy)na fo . 960676_961268
 %eng:	but there we go.
-*LIA:	bobol . 961314_962092
-%eng:	people.
-*LIA:	o(eddw)n i (y)n golwg (.) bobol o ffermydd (he)fyd ynde . 962173_965215
+*LIA:	bobl +//. 961314_962092
+%eng:	people...
+*LIA:	o(eddw)n i (y)n golwg (.) bobl o ffermydd (he)fyd ynde . 962173_965215
 %eng:	they looked like people from farms as well.
 *AMA:	+< ah@s:cym&spa ia ? 964623_965209
 %eng:	ah, yes?
 *LIA:	ia . 965215_965488
 %eng:	yes.
-*AMA:	digon hawdd . 965517_966469
-%eng:	easily.
+*AMA:	digon xx . 965517_966469
+%eng:	[...] enough...
 *LIA:	+< golwg ffermydd . 965517_966469
 %eng:	looked like farmers.
 *AMA:	mmhm . 966538_967061
@@ -1640,32 +1594,32 @@
 *LIA:	ia . 977431_977913
 %eng:	yes.
 *AMA:	a maen nhw (we)di dangos aml i le o Gymru . 978813_981130
-%eng:	and they've shown a lot of places from Wales.
+%eng:	and they've shown a lot of places in Wales.
 *LIA:	ah@s:cym&spa ia . 981176_982000
 %eng:	ah, yes.
 *AMA:	wel mae [/] mae o +//. 982018_983609
 %eng:	well, it's...
 *AMA:	+, mae o werth ei weld . 984125_985594
-%eng:	it's worth a watch.
+%eng:	it's worth watching.
 *AMA:	y llefydd mor dlws . 987295_988549
-%eng:	the beautiful places.
-*LIA:	[- spa] ah@s:cym&spa bueno . 988583_989622
+%eng:	such beautiful places.
+*LIA:	[- spa] ah@s:cym&spa bueno [?] . 988583_989622
 %eng:	[...] ah, good.
 *AMA:	+< o@s:cym&spa un fi eto ? 988914_989634
 %eng:	oh, mine again?
 *LIA:	ia . 989710_990238
 %eng:	yes.
 *AMA:	+< wel +... 989710_990174
-%eng:	well.
+%eng:	well...
 *AMA:	wel mae (y)r teliffons (y)ma . 990794_992007
 %eng:	well, these telephones...
 *LIA:	ia . 992036_992449
 %eng:	yes.
-*LIA:	£ &e dod ati . 992413_993835
-%eng:	[...]
+*LIA:	xx uh dod ati . 992413_993835
+%eng:	[...] er, get to it.
 *AMA:	ah@s:cym&spa . 995141_995745
 %eng:	ah.
-%com:	LIA has a conversation on the phone in Spanish.
+@Comment:	AMA has a conversation on the phone in Spanish.
 *AMA:	[- spa] hola ? 1002443_1003221
 %eng:	hello?
 *AMA:	&=clears_throat . 1003453_1004283
@@ -1700,7 +1654,7 @@
 %eng:	bye.
 *AMA:	(dy)na fo . 1040766_1042194
 %eng:	there we go.
-*LIA:	lle fuost di bore (y)ma ? 1051002_1052180
+*LIA:	lle fuest ti bore (y)ma ? 1051002_1052180
 %eng:	where were you this morning?
 *AMA:	bore (y)ma ? 1052203_1053167
 %eng:	this morning?
@@ -1716,16 +1670,16 @@
 %eng:	Gruffudd Tomos.
 *LIA:	ia . 1057567_1058066
 %eng:	yes.
-*AMA:	yn wneud yr un gwaith ag ydw i (y)n wneud rŵan . 1058191_1060589
+*AMA:	yn wneud yr un waith ag ydw i (y)n wneud rŵan . 1058191_1060589
 %eng:	doing the same work as I'm doing now.
 *LIA:	(dy)na fo . 1060624_1061245
 %eng:	there we go.
 *AMA:	mm +... 1061320_1062150
-%eng:	mm.
+%eng:	mm...
 *LIA:	+< iawn . 1061320_1062150
 %eng:	ok.
-*AMA:	felly . 1062718_1063339
-%eng:	so.
+*AMA:	felly +... 1062718_1063339
+%eng:	so...
 *LIA:	wel (dy)na fo mae Gruffudd@s:cym&spa +/. 1063478_1064813
 %eng:	well, Gruffudd...
 *AMA:	+< mae o (we)di dysgu rywbeth heddiw . 1064256_1065597
@@ -1740,31 +1694,31 @@
 %eng:	it's new for us.
 *LIA:	mae o (y)n newydd yndy . 1069005_1070387
 %eng:	it's new isn't it.
-*AMA:	+< o(eddw)n i rioed wedi wneud hyn . 1069243_1070334
+*AMA:	+< o(eddw)n i erioed wedi wneud hyn . 1069243_1070334
 %eng:	I'd never done this.
-*LIA:	na o(eddw)n i rioed wedi wneud o chwaith . 1070441_1071986
+*LIA:	na o(eddw)n i erioed wedi wneud o chwaith . 1070441_1072082
 %eng:	no I'd never done it either.
 *AMA:	na ? 1071318_1071794
 %eng:	no?
 *LIA:	na . 1072020_1072235
 %eng:	no.
-*AMA:	ah@s:cym&spa peth rhyfedd . 1072247_1073234
+*AMA:	ah@s:cym&spa peth rhyfedd . 1072247_1073412
 %eng:	ah, strange thing.
 *LIA:	(dy)na pam dan ni +/. 1073278_1074573
 %eng:	that's why we...
-*AMA:	+< achos wyt ti di dod allan yn y teledu a popeth . 1073679_1075809
-%eng:	because you've been on TV and all.
-*LIA:	be ? 1075914_1076424
+*AMA:	+< achos wyt ti (we)di dod allan yn y teledu a popeth . 1073679_1075809
+%eng:	because you've been on TV and everything.
+*LIA:	eh@s:cym&spa ? 1075914_1076424
 %eng:	what?
-*AMA:	wyt ti wedi dod allan yn y teledu o byth ? 1076414_1079020
-%eng:	have you ever been on TV?
+*AMA:	wyt ti wedi dod allan yn y teledu a bopeth . 1076414_1079020
+%eng:	you've been on TV and everything.
 *LIA:	+< yndw . 1077081_1077824
 %eng:	yes.
-*LIA:	+< yndw ond uh dim &n +//. 1078196_1079746
+*LIA:	+< yndw ond uh dim &n +/. 1078196_1079746
 %eng:	yes but, er, not...
-*AMA:	+< £ . 1079090_1080292
-%eng:	[...]
-*LIA:	uh (..) efo Sali@s:cym&spa ? 1080408_1083096
+*AMA:	+< paratoi te [?] . 1079090_1080292
+%eng:	preparing tea.
+*LIA:	uh (.) efo Sali@s:cym&spa ? 1080408_1083096
 %eng:	er... with Sali?
 *AMA:	na . 1083078_1083670
 %eng:	no.
@@ -1774,9 +1728,9 @@
 %eng:	er, some place under a little tree.
 *AMA:	oeddet ti wrthi (y)n xxx dw i ddim yn gwybod lle oeddet ti . 1086036_1088863
 %eng:	you were [...] I don't know where you were.
-*LIA:	+< ah@s:cym&spa . 1086454_1087499
-%eng:	ah.
-*LIA:	+< ia <o program> [/] o program y teledu ar &ll uh o Buenos_Aires@s:cym&spa . 1087505_1091162
+*LIA:	+< ah@s:cym&spa ! 1086454_1087499
+%eng:	ah!
+*LIA:	+< ia <o program> [/] o program y teledu ar &x uh o Buenos_Aires@s:cym&spa . 1087505_1091162
 %eng:	yes, the TV programme from Buenos Aires.
 *AMA:	ia ia . 1091168_1091969
 %eng:	yes yes.
@@ -1784,27 +1738,25 @@
 %eng:	and quite a windy day.
 *LIA:	gwyntog . 1093408_1094070
 %eng:	windy.
-*LIA:	a oedd hi (y)n jyst a bwrw eira . 1094099_1096311
+*LIA:	a oedd hi (y)n jyst â bwrw eira . 1094099_1096311
 %eng:	and it was about to snow.
 *AMA:	+< xxx . 1094099_1094796
-%eng:	[...]
-*AMA:	+< jyst a bwrw . 1095759_1096409
+*AMA:	+< jyst â bwrw . 1095759_1096409
 %eng:	about to snow.
 *AMA:	o@s:cym&spa oedd hi (y)n oer . 1096426_1097651
 %eng:	oh it was cold.
 *LIA:	yn oer oer oer . 1097813_1099665
 %eng:	cold cold cold.
-*AMA:	+< yn oer ag £ y llian bwrdd yn hedfan i bob man efo ti . 1098312_1101557
-%eng:	cold and [...] the table cloth was flying all over the place.
+*AMA:	+< yn oer ofnadwy ac oedd y llian bwrdd yn hedfan i bob man <efo ti> [?] . 1098312_1101557
+%eng:	terribly cold, and the table cloth was flying all over the place.
 *LIA:	+< ia . 1100948_1101575
 %eng:	yes.
 *AMA:	o@s:cym&spa druan ohonoch chi (y)n wneud hi (y)n fan (y)na . 1101604_1104500
 %eng:	oh you poor things doing it there.
-*LIA:	+< mm +... 1101604_1102980
-%eng:	mm.
-*LIA:	+< <oedd o (y)n> [//] oedd o ddim yn &ha &e hawdd ei wneud e . 1103206_1105899
+*LIA:	+< &=groan . 1101604_1102980
+*LIA:	+< <oedd o (y)n> [//] oedd o ddim yn &ha uh hawdd ei wneud e . 1103206_1105899
 %eng:	it wasn't easy to do.
-*AMA:	+< o@s:cym&spa nac oedd . 1103961_1105911
+*AMA:	+< &=gasp nag oedd . 1103961_1105911
 %eng:	oh, no.
 *LIA:	oedd o ddim yn hawdd i wneud . 1105932_1107110
 %eng:	it wasn't easy to do.
@@ -1819,16 +1771,14 @@
 *AMA:	+< ie . 1109920_1110239
 %eng:	yes.
 *LIA:	wedyn dechrau o (y)r newydd . 1111395_1112668
-%eng:	and then start again.
-*LIA:	torri eto . 1112650_1113486
-%eng:	cutting again.
-*LIA:	a disgwyl . 1113486_1114252
-%eng:	and waiting.
+%eng:	and then start over.
+*LIA:	torri eto a disgwyl . 1112693_1114252
+%eng:	cut again and wait.
 *AMA:	+< o@s:cym&spa . 1113492_1115638
 %eng:	oh.
 *LIA:	+< na fuodd +//. 1114332_1114971
 %eng:	no...
-*LIA:	+< ond wnaes i (ddi)m licio llawer o (y)r peth . 1114982_1116885
+*LIA:	+< ond wnaeth i (ddi)m licio llawer o (y)r peth . 1114982_1116885
 %eng:	but I didn't like much of it.
 *AMA:	+< naddo siŵr . 1116531_1117884
 %eng:	no, of course.
@@ -1839,11 +1789,11 @@
 *LIA:	fewn . 1120199_1120721
 %eng:	inside.
 *LIA:	a oedd (y)na le i fod fewn . 1120727_1122132
-%eng:	and there was a place to be inside.
+%eng:	and there was room to be inside.
 *AMA:	+< ie . 1121000_1121546
 %eng:	yes.
 *AMA:	oedd (y)na le i fod ? 1122155_1122736
-%eng:	there was a place?
+%eng:	there was supposed to be room?
 *LIA:	ia . 1122730_1123119
 %eng:	yes.
 *LIA:	ond (dy)na fo . 1123112_1123606
@@ -1852,18 +1802,18 @@
 %eng:	where was it?
 *LIA:	+< o(eddw)n i isio ond +//. 1123617_1124404
 %eng:	I wanted to but...
-*LIA:	yn uh +... 1124497_1126052
-%eng:	er...
-*AMA:	+< o_gwmpas lle Tecwyn@s:cym&spa ? 1124822_1126023
-%eng:	around Tecwyn's place?
+*LIA:	yn uh +/. 1124497_1126052
+%eng:	in, er...
+*AMA:	+< <yn lle> [?] Tecwyn@s:cym&spa ? 1125123_1126023
+%eng:	at Tecwyn's place?
 *LIA:	&=clears_throat eh@s:cym&spa ? 1126023_1126819
 %eng:	eh?
 *AMA:	o_gwmpas lle Tecwyn@s:cym&spa ? 1126830_1128015
 %eng:	around Tecwyn's place?
 *LIA:	+< naci . 1127614_1128311
 %eng:	no.
-*LIA:	fyny a yr ochr draw i (y)r afon (.) uh £[check]  . 1128320_1130655
-%eng:	up and the other side to the river, er [...]
+*LIA:	fyny uh yr ochr draw i (y)r afon (.) uh xx [check] . 1128320_1130655
+%eng:	up the other side of the river, er [...]
 *AMA:	+< o@s:cym&spa . 1128670_1129424
 %eng:	oh.
 *AMA:	ah@s:cym&spa ffordd (y)na . 1130469_1131816
@@ -1873,15 +1823,14 @@
 *AMA:	wyli di . 1131839_1132478
 %eng:	right.
 *LIA:	lle oedd (.) O_Farell@s:cym&spa ers_talwm . 1133145_1135014
-%eng:	where O Farell used to be.
-%com:	?
+%eng:	where O'Farell used to be.
 *AMA:	aha@s:cym&spa . 1135090_1135746
 %eng:	aha.
 *LIA:	fan (y)na . 1135740_1136140
 %eng:	there.
 *LIA:	na mae o (y)n neis . 1136222_1137121
 %eng:	no, it's nice.
-*AMA:	+< ia &o . 1136222_1137086
+*AMA:	+< ia . 1136222_1137086
 %eng:	yes.
 *LIA:	ond um oedd (y)na ddigon o le i wneud o fewn . 1137092_1139269
 %eng:	but, um, there was enough time indoors to do it.
@@ -1895,7 +1844,7 @@
 %eng:	preparing cakes with Sali.
 *AMA:	+< ah@s:cym&spa . 1143997_1144728
 %eng:	ah.
-*AMA:	paid a deud . 1146029_1147590
+*AMA:	paid â deud . 1146029_1147590
 %eng:	you don't say.
 *LIA:	+< ia . 1146870_1147213
 %eng:	yes.
@@ -1904,11 +1853,11 @@
 *AMA:	iawn iawn . 1149391_1150105
 %eng:	ok, ok.
 *LIA:	heb siarad oedd hynny . 1150134_1151237
-%eng:	without speaking.
+%eng:	that was without speaking.
 *AMA:	ie . 1151214_1151678
 %eng:	yes.
-*LIA:	cnocio wyau xxx . 1151963_1153576
-%eng:	knocking eggs [...]
+*LIA:	cnocio wyau uh +/. 1151963_1153576
+%eng:	cracking eggs, er...
 *AMA:	+< ah@s:cym&spa paratoi . 1153060_1154406
 %eng:	ah, preparing.
 *LIA:	+< ie paratoi . 1153518_1154743
@@ -1923,7 +1872,7 @@
 %eng:	that's what that work was.
 *AMA:	mmhm . 1158965_1159302
 %eng:	mmhm.
-*AMA:	wyt ti (y)n licio wneud teisen ? 1159412_1160748
+*AMA:	wyt ti (y)n licio wneud deisen ? 1159412_1160748
 %eng:	do you like making cakes?
 *LIA:	eh@s:cym&spa ? 1161105_1161453
 %eng:	eh?
@@ -1931,7 +1880,7 @@
 %eng:	do you like making cakes?
 *LIA:	+< yndw dw i (y)n licio . 1162376_1163543
 %eng:	yes, I like.
-*AMA:	+< wyt ti (y)n ei hoffi ? 1162632_1163578
+*AMA:	+< wyt ti (y)n hoffi ? 1162632_1163578
 %eng:	do you like it?
 *LIA:	yndw . 1163607_1163996
 %eng:	yes.
@@ -1940,11 +1889,11 @@
 *AMA:	+< mmhm . 1164118_1164745
 %eng:	mmhm.
 *AMA:	mm +... 1165244_1165540
-%eng:	mm.
-*AMA:	dw i fyd . 1165636_1166182
+%eng:	mm...
+*AMA:	dw i (he)fyd . 1165636_1166182
 %eng:	me too.
 *LIA:	+< dw i (y)n dod [/] dod allan i nain fan (y)na dw i (y)n credu . 1165636_1167732
-%eng:	I think I [...] grandma there.
+%eng:	I think I take after [?] grandma there.
 *AMA:	ia . 1167743_1168527
 %eng:	yes.
 *AMA:	o@s:cym&spa . 1168660_1169174
@@ -1960,7 +1909,7 @@
 *LIA:	oedd dw i (y)n cofio . 1174935_1175852
 %eng:	yes I remember.
 *AMA:	o(eddw)n i wrth (f)y modd efo (y)r sŵp cennin oedd hi (y)n wneud . 1175852_1178006
-%eng:	I was in my element with the leek soup she made.
+%eng:	I really loved the leek soup she made.
 *LIA:	+< oedd . 1176323_1177327
 %eng:	yes.
 *LIA:	+< oedd . 1177559_1177960
@@ -1974,8 +1923,7 @@
 %eng:	oh, plate cakes.
 *AMA:	+< oedden nhw (y)n fendigedig . 1183783_1185495
 %eng:	they were wonderful.
-*LIA:	+< o@s:cym&spa . 1184578_1185600
-%eng:	oh.
+*LIA:	+< &=gasp ! 1184578_1185600
 *AMA:	bendigedig . 1185619_1186443
 %eng:	wonderful.
 *LIA:	ia oedd oedd . 1186460_1187343
@@ -1984,10 +1932,10 @@
 %eng:	and the, er, what else did she make ?
 *AMA:	reis . 1190208_1191410
 %eng:	rice.
-*LIA:	ia pwdin &r +//. 1191526_1192640
+*LIA:	ia pwdin &r +/. 1191526_1192640
 %eng:	yes, pudding.
 *AMA:	+< oedd hi (y)n wneud reis ac oedd hi (y)n roid rywbeth sbesial yn y reis . 1191526_1194753
-%eng:	she made rice and she put something special in the rice.
+%eng:	she'd make rice and she'd put something special in the rice.
 *LIA:	oedd . 1194753_1195188
 %eng:	yes.
 *LIA:	wneud o (y)n slo bach (.) yn y ffwrn . 1195253_1197291
@@ -1998,11 +1946,10 @@
 %eng:	it was in the oven.
 *LIA:	+< ie ie . 1198129_1198883
 %eng:	yes yes.
-*AMA:	+< o@s:cym&spa . 1198547_1199714
-%eng:	oh.
+*AMA:	+< &=gasp . 1198547_1199714
 *LIA:	+< yn y ffwrn . 1198918_1199632
 %eng:	in the oven.
-*LIA:	a wedyn oedd y [/] y llaeth yn mynd &e +... 1199656_1201989
+*LIA:	a wedyn oedd y [/] y llaeth yn mynd uh +... 1199656_1201989
 %eng:	and then the milk would go...
 *AMA:	+< hyfryd . 1199818_1200671
 %eng:	lovely.
@@ -2014,25 +1961,24 @@
 %eng:	thicker.
 *LIA:	fel [/] fel hufen jyst . 1204285_1205586
 %eng:	just like cream.
-*AMA:	+< £ . 1204343_1205586
-%eng:	[...]
+*AMA:	+< xxx . 1204343_1205586
 *LIA:	jyst fel hufen . 1205586_1206851
 %eng:	just like cream.
 *AMA:	+< ia ia . 1205586_1206207
 %eng:	yes yes.
 *AMA:	+< o@s:cym&spa (dy)na ti hyfryd . 1206375_1207687
-%eng:	oh, that's lovely.
+%eng:	oh, how lovely.
 *AMA:	mm mae o (y)n codi awydd bwyta arna i . 1208012_1209858
-%eng:	mm it's made me want to eat.
+%eng:	mm, it's making me hungry.
 *LIA:	a wedyn oedd hi (y)n <codi &e> [///] cymeryd amser i wneud . 1209852_1212039
-%eng:	and she took her time to make.
+%eng:	and she took her time to make it.
 *LIA:	oedd hi (y)n dechrau cinio am ddeg ynde . 1212039_1213641
 %eng:	she started lunch at 10 .
-*AMA:	aha@s:cym&spa . 1213682_1214071
-%eng:	aha.
-*LIA:	wneud o <(y)n (.)> [//] yn slo ond heb &fyr frysio . 1215364_1219397
+*AMA:	ah@s:cym&spa . 1213682_1214071
+%eng:	ah.
+*LIA:	wneud o <(y)n (.)> [//] yn slo ond heb &v frysio . 1215364_1219397
 %eng:	doing it slowly but without hurrying.
-*AMA:	+< yn &s . 1216390_1216872
+*AMA:	+< yn &s +/. 1216390_1216872
 %eng:	[...]
 *AMA:	+< ie . 1217273_1217749
 %eng:	yes.
@@ -2041,55 +1987,55 @@
 *AMA:	+< ia . 1223180_1223626
 %eng:	yes.
 *AMA:	a pawb i (y)r tŷ amser hynny . 1223818_1225473
-%eng:	and everybody back home at that time.
+%eng:	and everybody into the house at that time.
 *LIA:	ia . 1225473_1226036
 %eng:	yes.
 *AMA:	na &n . 1227029_1227853
 %eng:	no.
-*LIA:	mi gaes i amser (..) iawn a hapus yn lle nain (.) a taid . 1228137_1232333
-%eng:	i had an ok and happy time at grandma and granddad's place.
+*LIA:	mi ges i amser (..) iawn a hapus yn lle nain (.) a taid . 1228137_1232333
+%eng:	i had a fine and happy time at grandma and granddad's place.
 *AMA:	+< do . 1231718_1232223
 %eng:	yes.
 *LIA:	lot . 1234039_1234584
 %eng:	a lot.
 *AMA:	wrth lwc . 1234590_1235235
-%eng:	with luck.
+%eng:	luckily.
 *LIA:	ia . 1235467_1235879
 %eng:	yes.
 *AMA:	mm +... 1235896_1236140
-%eng:	mm.
+%eng:	mm...
 *AMA:	a digon i ddarllen . 1238440_1239630
 %eng:	and enough to read.
-*LIA:	ooh . 1239834_1240571
-%eng:	ooh.
+*LIA:	&=gasp ! 1239834_1240571
 *LIA:	oedd taid yn darllen . 1240605_1241627
-%eng:	granddad read.
+%eng:	granddad used to read.
 *LIA:	oedd nain yn darllen . 1241633_1242614
-%eng:	grandma read.
+%eng:	grandma used to read.
 *LIA:	o(eddw)n i yn darllen a Marco@s:cym&spa yn darllen . 1242608_1244710
-%eng:	I read and Marco read.
-*AMA:	a Marco@s:cym&spa yn darllen hefyd . 1244603_1245985
-%eng:	and Marco read as well.
+%eng:	I used to read, and Marco too.
+*AMA:	o@s:cym&spa Marco@s:cym&spa yn darllen hefyd . 1244603_1245985
+%eng:	oh, Marco read as well.
 *LIA:	oedd . 1245990_1246687
 %eng:	yes.
 *AMA:	+< ah@s:cym&spa . 1245990_1247459
 %eng:	ah.
 *LIA:	na dw i (y)n credu taw o fan (y)na mae o mor lector@s:spa (.) heddiw . 1246722_1249457
-%eng:	no I think that's why he's such a reader these days.
+%eng:	no I think that's why he's such a reader today.
 *AMA:	ie digon hawdd digon hawdd . 1249463_1251738
-%eng:	yeah, for sure.
+%eng:	yes, easy enough.
 *LIA:	+< mae o (y)n licio +//. 1249817_1250386
 %eng:	he likes...
 *LIA:	+< dal i ddarllen . 1250392_1251077
 %eng:	still reads.
 *AMA:	o(eddw)n i (y)n darllen lot (y)na (he)fyd . 1252236_1253640
-%eng:	I read a lot there as well.
+%eng:	I used to read a lot there as well.
 *LIA:	ia . 1253635_1254250
 %eng:	yes.
-*LIA:	mae (y)n pleser darllen rywun yn cael digon o rhyddid a [/] a tawelwch a [/] a &b +//. 1255725_1260317
-%eng:	it's a pleasure to read having enough freedom and silence.
+*LIA:	oedd pleser darllen . 1255659_1256675
+%eng:	it was a pleasure to read.
+*LIA:	rywun yn cael digon o rhyddid a [/] a tawelwch a [/] a &b +//. 1256646_1260317
+%eng:	having enough freedom and silence and...
 *AMA:	+< xxx . 1255916_1256369
-%eng:	[...]
 *AMA:	+< ia . 1259614_1260665
 %eng:	yes.
 *LIA:	wel (dy)na fo oedd dim teledu amser hynny . 1260686_1262875
@@ -2110,7 +2056,7 @@
 %eng:	children sit and watch TV all afternoon now.
 *LIA:	+< ia (.) ia . 1268361_1269801
 %eng:	yes yes.
-*AMA:	dyn nhw ddim yn meddwl am afael mewn llyfr welaist ti ? 1269856_1273130
+*AMA:	(dy)dyn nhw ddim yn meddwl am afael mewn llyfr welaist ti ? 1269856_1273130
 %eng:	they don't think about picking up a book, you see?
 *LIA:	+< na . 1271139_1271858
 %eng:	no.
@@ -2118,31 +2064,33 @@
 %eng:	no.
 *LIA:	a peth arall (y)dy gweld teledu a darllen rywbeth trwy deledu . 1273901_1276554
 %eng:	and another thing is watching TV and reading something on TV.
-*LIA:	a peth arall (y)dy darllen &wl . 1276565_1277819
-%eng:	and reading [...] is another thing.
+*LIA:	a peth arall (y)dy darllen &wl +//. 1276565_1277819
+%eng:	and reading [...] is another thing...
 *LIA:	ti gallu mynd (y)n_ôl i ddarllen o a (e)i ddeall o (y)n well ynde . 1277825_1280453
 %eng:	you can go back to reading and understand it better.
 *AMA:	+< ia . 1277825_1278462
 %eng:	yes.
-*AMA:	<ia &w> [//] ia wir . 1279623_1281010
-%eng:	yes yes.
+*AMA:	<ia w(ir)> [/] ia wir . 1279623_1281010
+%eng:	yes indeed.
 *LIA:	eh@s:cym&spa ? 1281068_1281498
 %eng:	eh?
 *AMA:	ie . 1281538_1281846
 %eng:	yes?
-*AMA:	mae hynny (y)n wir . 1281860_1283114
+*AMA:	mae hynny wir . 1281860_1283114
 %eng:	that's true.
-*LIA:	wel (dy)na fo (.) £ . 1284757_1286098
-%eng:	well, there we go [...]
+*LIA:	ond (dy)na fo . 1285004_1285579
+%eng:	but there you go.
+*LIA:	 be <wnewch chi> [?] ? 1285504_1286415
+%eng:	what do you do?
 *LIA:	fel (yn)a mae (y)r pethau mynd ymlaen . 1286167_1288280
-%eng:	that's how things go.
+%eng:	that's how things are going.
 *AMA:	mm +... 1288472_1289360
-%eng:	mm.
+%eng:	mm...
 *AMA:	a be wyt ti feddwl fydden nhw (y)n meddwl ohonyn ni (ei)n dwy yn siarad Cymraeg rŵan ? 1292710_1296601
 %eng:	and what do you thing they'll think of us two speaking Welsh now?
 *LIA:	ia xxx . 1296735_1297966
 %eng:	yes [...]
-*AMA:	+< be fydd pobol (.) yr uh university@s:eng +... 1296735_1300410
+*AMA:	+< be fydd pobl (.) yr uh university@s:eng +... 1296735_1300410
 %eng:	what will the people in the, er, university...
 *LIA:	+< (dy)na be <dw i &r> [//] dw i meddwl (he)fyd . 1297954_1300381
 %eng:	that's what I'm thinking as well.
@@ -2161,12 +2109,12 @@
 *LIA:	wel ia . 1306834_1307630
 %eng:	well, yes.
 *AMA:	+< gobeithio fyddan nhw (y)n uh (.) enjoio . 1307134_1309462
-%eng:	I hope they enjoy.
+%eng:	I hope they'll enjoy it.
 *LIA:	+< dw i (y)n gobeithio (.) fydd o (y)n iawn . 1307639_1309427
 %eng:	I hope it'll be ok.
 *AMA:	enjoio (y)r sgwrs dan ni (y)n drafod . 1309461_1311347
 %eng:	enjoy the chat we're having.
-*LIA:	+< dw i ddim isio wneud dim_byd uh . 1310181_1312238
+*LIA:	+< dw i ddim isio wneud dim_byd uh +... 1310181_1312238
 %eng:	I don't want to do anything, er...
 *AMA:	++ allan o le . 1312238_1312882
 %eng:	out of place.
@@ -2176,38 +2124,38 @@
 %eng:	[...] no.
 *LIA:	bosib . 1314197_1315411
 %eng:	maybe.
-*AMA:	+< no@s:spa &h um . 1314197_1315411
-%eng:	[...] no, um.
-*AMA:	dw i (y)n gweld nhw (y)n um (.) yn waith delicet . 1315440_1318674
+*AMA:	+< no@s:spa &h um +... 1314197_1315411
+%eng:	no, um...
+*AMA:	dw i (y)n gweld o (y)n [/] um (.) yn waith delicet . 1315440_1318674
 %eng:	I see it as delicate work.
 *LIA:	+< yndy . 1318387_1319043
 %eng:	yes it is.
 *LIA:	a nhwythau (we)di dod mor bell (.) i wneud gwaith fel hyn . 1319049_1322050
 %eng:	and them having comed so far to do work like this.
-*AMA:	+< yndy . 1319078_1319461
+*AMA:	+< yndy [?] . 1319078_1319461
 %eng:	yes.
 *AMA:	+< mm +... 1319641_1320442
-%eng:	mm.
-*AMA:	+< a mor bell i ddod i wneud o . 1320442_1322230
-%eng:	and so far to have come to do it.
+%eng:	mm...
+*AMA:	+< o mor bell i ddod i wneud o . 1320442_1322230
+%eng:	from so far away to come and do it.
 *AMA:	ia wir . 1322434_1323253
 %eng:	yes.
 *LIA:	maen nhw (y)n haeddu cael rywbeth taclus ta beth . 1323282_1325737
 %eng:	they deserve tohave something tidy anyway.
 *AMA:	+< wel (yn)dyn yndyn . 1325174_1326991
-%eng:	well they do.
+%eng:	well yes they do.
 *AMA:	dim bod ni (y)n mynd dros ben llestri na (dd)im_byd felly . 1328584_1331289
 %eng:	not that we're going over the top or anything like that.
 *LIA:	na na . 1331295_1332456
 %eng:	no no.
 *AMA:	+< mm +... 1331818_1332410
-%eng:	mm.
+%eng:	mm...
 *LIA:	na na . 1332619_1333391
 %eng:	no no.
 *AMA:	mm +... 1333644_1333894
 %eng:	mm.
 *LIA:	&=noise . 1340742_1341264
-*AMA:	wel dweud y gwir does gen i ddim (.) fawr o ddim_byd arall i ddweud . 1346507_1350242
+*AMA:	wel dweud y gwir does gen i ddim (.) fawr o ddim_byd arall i ddeud . 1346507_1350242
 %eng:	well, to tell the truth, I don't have much else to say.
 *LIA:	na . 1350398_1350944
 %eng:	no.
@@ -2217,21 +2165,21 @@
 %eng:	me neither.
 *AMA:	na dw i (y)n credu bod ni wedi pasio (.) ryw hanner awr do ? 1352143_1354860
 %eng:	no, I think we've done about half on hour, haven't we?
-*LIA:	ddechreuwn i am (.) chydig &w ar_ôl chwech . 1354842_1358331
+*LIA:	ddechreuon i am (.) (y)chydig &w ar_ôl chwech . 1354842_1358331
 %eng:	we started shortly after six.
 *AMA:	ia (dy)na fo . 1358337_1358940
 %eng:	yes, that's it.
-*LIA:	a (.) mae o (y)n hyn . 1359103_1360846
-%eng:	and it's this.
+*LIA:	a (.) mae o (y)n hen [?] +... 1359103_1360846
+%eng:	and it's long since...
 *AMA:	+< iawn . 1359644_1360457
 %eng:	ok.
 *AMA:	reit . 1360486_1360881
 %eng:	right.
-*AMA:	na oes dim_byd i wneud efo chydig o +//. 1363377_1365021
+*AMA:	na oes dim_byd i wneud efo (y)chydig o +//. 1363377_1365021
 %eng:	no, there's nothing to do with little...
-*AMA:	a mae o (y)n (..) cadw y ddynes £ trwy (y)r bore . 1365044_1367808
-%eng:	and it's keeping the lady [...] all morning.
-*AMA:	ond ie (.) xxx . 1368632_1370240
+*AMA:	a mae o (y)n (..) cadw y ddynes yn [?] fynd trwy (y)r bore . 1365044_1367808
+%eng:	and it's keeping the lady going all morning.
+*AMA:	ond ie (.) xx . 1368632_1370240
 %eng:	but yes [...]
 *LIA:	uh ti am gwpaniad o de arall ? 1372921_1375167
 %eng:	er, would you like another cup of tea.
@@ -2243,14 +2191,11 @@
 %eng:	[...] no no.
 *AMA:	oedd o (y)n hyfryd . 1378172_1379240
 %eng:	it was lovely.
-*AMA:	a wyt ti <(we)di mm (..)> [//] wedi clywed am yr um +... 1382127_1386381
-%eng:	and you've, mm, heard about the, um...
-*AMA:	+, y bobol yn siarad am y tywydd pnawn (y)ma am saith o (y)r gloch ? 1386457_1389057
-%eng:	the people talking about the weather this afternoon at seven o'clock?
+*AMA:	a wyt ti <(we)di mm (..)> [//] wedi clywed am yr [/] um (...) y bobl yn siarad am y tywydd pnawn (y)ma am saith o (y)r gloch ? 1382127_1389020
+%eng:	and have you, mm, heard about the, um, the people talking about the weather this afternoon at seven o'clock?
 *LIA:	na o(eddw)n i (ddi)m yn gwybod amdan . 1389075_1390387
-%eng:	no, I didn't know about [it].
-*AMA:	+< oeddet ti (y)n gwybod ? 1389545_1390346
-%eng:	did you know?
+%eng:	no, I didn't know about it.
+*AMA:	+< xxx ? 1389545_1390346
 *LIA:	na . 1390347_1390858
 %eng:	no.
 *AMA:	+< na maen nhw wedi deud ers dyddiau yn y radio . 1390446_1392910
@@ -2266,19 +2211,18 @@
 *AMA:	rywbeth wahanol . 1400007_1400617
 %eng:	something different.
 *AMA:	xxx . 1401115_1402009
-%eng:	[...]
-*LIA:	[- spa] &ecolog [//] ecología &e no &e . 1402073_1404281
+*LIA:	[- spa] &ecolog [//] ecología &e no eh@s:cym&spa . 1402073_1404281
 %eng:	ecology.
-*AMA:	+< (dy)dy pethau ddim (y)r un fath a ers_talwm . 1402073_1403730
+*AMA:	+< (dy)dy pethau ddim (y)r un fath â ers_talwm . 1402073_1403730
 %eng:	things aren't the same as they used to be.
 *AMA:	+< ia . 1403753_1404153
 %eng:	yes.
-*AMA:	(dy)dy pethau ddim (y)r un fath a ers_talwm . 1404310_1405963
+*AMA:	(dy)dy pethau ddim (y)r un fath â ers_talwm . 1404310_1405963
 %eng:	things aren't the same as they used to be.
 *LIA:	+< ia ond (dy)na fo dw i (y)n deud . 1405476_1406654
 %eng:	yes but, there we go, I say.
 *LIA:	ond um (.) y dyn sy (y)n wneud lot . 1406671_1409248
-%eng:	but humans are doing a lot of it.
+%eng:	but man is doing a lot of it.
 *AMA:	+< ie dyn . 1408395_1410374
 %eng:	yes, humans.
 *LIA:	+< o@s:cym&spa . 1409556_1410572
@@ -2293,26 +2237,24 @@
 %eng:	[...] they've but so many, mm, forests like...
 *AMA:	+< ++ o goed . 1416520_1417304
 %eng:	trees.
-*LIA:	+, goed . 1417327_1417861
-%eng:	trees.
-*LIA:	yn y north . 1417884_1418819
-%eng:	in the north.
+*LIA:	goed (.) yn y north . 1417327_1419013
+%eng:	...trees, in the north.
 *AMA:	+< ie . 1417942_1418360
 %eng:	yes.
 *AMA:	yndy yndy (.) yndy . 1419164_1420151
 %eng:	yes yes.
 *LIA:	nes maen nhw (y)n wedi sychu (y)r tir i_gyd . 1420180_1422438
-%eng:	until they've dried the entire terrain.
+%eng:	until they've dried out all the land.
 *AMA:	yndy . 1422438_1423169
 %eng:	yes.
-*AMA:	yndy yndyn . 1423383_1424237
+*AMA:	yndy yndy . 1423383_1424237
 %eng:	yes yes.
 *LIA:	a wedyn mae hynna (y)n troi (y)n [//] yn llwch a [/] a um (.) a sand . 1424409_1428658
-%eng:	and that turns to dust and sand.
+%eng:	and then it turns into dust and sand.
 *AMA:	ia . 1428705_1429419
 %eng:	yes.
-*AMA:	o@s:cym&spa ryw beth . 1430794_1432571
-%eng:	oh, some thing.
+*AMA:	o@s:cym&spa xxx . 1430794_1432571
+%eng:	oh, [...].
 *LIA:	+< mae (y)na rywbeth . 1431079_1432170
 %eng:	there's something.
 *LIA:	achos nawr mae (we)di glawio gymaint yma . 1433150_1435536
@@ -2337,36 +2279,31 @@
 %eng:	yes yes.
 *AMA:	mm +... 1444511_1444935
 %eng:	mm.
-*LIA:	ah@s:cym&spa (dy)na &n ti &interes &a &e +//. 1446936_1448353
-%eng:	oh that's interes...
-*AMA:	ie rŵan yn saith o (y)r gloch . 1448219_1449438
+*LIA:	ah@s:cym&spa (dy)na &n ti intrest &a &e +//. 1446936_1448353
+%eng:	oh that's interesting...
+*AMA:	ie rŵan am saith o (y)r gloch . 1448219_1449438
 %eng:	yes at seven o'clock.
 *LIA:	+< xxx . 1448219_1448974
-%eng:	[...]
 *LIA:	aha@s:cym&spa . 1449496_1450141
 %eng:	aha.
-*AMA:	xxx mae llai . 1450111_1451678
-%eng:	[...] less.
-*LIA:	ia . 1451777_1452445
+*AMA:	xxx mae llai (.) am sbel dydy ? 1450111_1453288
+%eng:	[...] less, for a while, isn't it?
+*LIA:	+< ia . 1451777_1452445
 %eng:	yes.
-*AMA:	yn sbel dydy . 1452474_1453309
-%eng:	a while, isn't it.
-*LIA:	na o(eddw)n i xxx +/. 1455020_1456489
-%eng:	no, I [...]
-*AMA:	+< nid bod fi wir awydd fynd adre rŵan i wneud tân a hel coed a bopeth fel (yn)a . 1455339_1459042
-%eng:	not that I really have the patience to go home  now, make the fire and collect wood and everything like that.
-*AMA:	yn barod erbyn nos . 1459042_1459988
-%eng:	ready for tonight.
+*LIA:	na o(eddw)n i (ddi)m wedi +/. 1455020_1456489
+%eng:	no, I hadn't...
+*AMA:	+< xxx fi [?] awydd fynd adre rŵan i wneud tân a hel coed a bopeth fel (yn)a (.) yn barod erbyn nos . 1455339_1460059
+%eng:	[...] I'm keen to to go home now to make the fire and collect wood and everything like that, ready for the night.
 *LIA:	+< ia (.) ia . 1459042_1459988
 %eng:	yes... yes.
 *LIA:	oe(dde)t ti ddim wedi wneud hynna cyn dod ? 1460423_1461892
-%eng:	didn't you do that before coming?
+%eng:	you hadn't done that before coming?
 *AMA:	+< ie . 1460423_1460620
 %eng:	yes.
-*AMA:	na o(eddw)n i ddim wedi gwneud e . 1461845_1462704
+*AMA:	na o(eddw)n i ddim wedi gwneud o [?] . 1461845_1462704
 %eng:	no, I hadn't done it.
-*AMA:	achos ges i (ddi)m amser bore (y)ma . 1462704_1463633
-%eng:	because I didn't have time this morning.
+*AMA:	ces i (ddi)m amser bore (y)ma . 1462806_1463633
+%eng:	I had no time this morning.
 *LIA:	ie . 1463709_1464121
 %eng:	yes.
 *AMA:	na . 1464324_1465161
@@ -2376,9 +2313,8 @@
 *LIA:	[- spa] por taxi ? 1466845_1467953
 %eng:	by taxi?
 *AMA:	[- spa] en taxi . 1468000_1468650
-%eng:	by taxi?
-*LIA:	ia . 1468667_1469045
-%eng:	yes.
+%eng:	by taxi.
+*LIA:	&=grunt . 1468667_1469045
 *AMA:	+< ie ie . 1468766_1469393
 %eng:	yes yes.
 *LIA:	maen nhw (we)di wneud y gwaith (y)ma yn llawer o lefydd ? 1476065_1478347
@@ -2386,7 +2322,7 @@
 *AMA:	hwn ? 1479587_1479953
 %eng:	this?
 *LIA:	mm +... 1479964_1480313
-%eng:	mm.
+%eng:	mm...
 *AMA:	+< yn Buenos_Aires@s:cym&spa ta beth . 1480086_1481392
 %eng:	in Buenos Aires anyway.
 *LIA:	ia . 1481491_1482199
@@ -2397,41 +2333,41 @@
 %eng:	in the valley.
 *AMA:	+< yn bob man . 1484386_1484909
 %eng:	everywhere.
-*AMA:	maen nhw wedi cael (..) lot o bobol i siarad <yn (.) Gymru> [/] yn uh Gaiman@s:cym&spa a Trelew@s:cym&spa . 1484949_1490608
-%eng:	they've had a lot of people to talk in, er, Gaiman and Trelew.
+*AMA:	maen nhw (we)di cael (..) lot o bobl i siarad <yn (.) Gymru> [/] yn uh Gaiman@s:cym&spa a Trelew@s:cym&spa . 1484949_1490608
+%eng:	they've had a lot of people to talk in Wales... er, in Gaiman and Trelew.
 *LIA:	+< mm +... 1484995_1485407
-%eng:	mm.
+%eng:	mm...
 *LIA:	+< o@s:cym&spa siŵr . 1487004_1488223
 %eng:	oh, sure.
 *LIA:	+< <yn &tre> [//] yn Gaiman@s:cym&spa . 1489064_1490492
 %eng:	in Gaiman.
-*AMA:	mae (y)na (.) lot (.) fawr o Gymry yna eto . 1490721_1493210
-%eng:	there's a lot of Welsh people there again.
+*AMA:	mae (y)na (.) lot fawr o Gymry yna eto . 1490721_1493210
+%eng:	there are still a lot of Welsh people there.
 *LIA:	+< ia . 1492304_1492931
 %eng:	yes.
 *LIA:	+< oes . 1492989_1493576
 %eng:	yes, there are.
-*AMA:	chydig sydd fan hyn ynde ? 1493581_1494870
-%eng:	very few are here, yes?
+*AMA:	(y)chydig sydd fan hyn ynde ? 1493581_1494870
+%eng:	there are very few here, eh?
 *LIA:	ia (dy)na be dw i (y)n deud . 1494890_1495923
 %eng:	yes, that's what I say.
-*AMA:	+< chydig o Gymry sydd yma . 1495337_1497078
+*AMA:	+< (y)chydig o Gymry sydd yma . 1495337_1497078
 %eng:	very few Welsh people are here.
 *LIA:	ia . 1497078_1497502
 %eng:	yes.
-*LIA:	wel dw i (ddi)m yn gwybo(d) sut ychydig (.) ond chydig sy (y)n siarad Cymraeg . 1498981_1502493
-%eng:	well, I don't know how few but only a few speak Welsh.
+*LIA:	wel dw i (ddi)m yn gwybo(d) sut ychydig (.) ond (y)chydig sy (y)n siarad Cymraeg . 1498981_1502493
+%eng:	well, I don't know how few, but only a few who speak Welsh.
 *AMA:	+< a be wyt ti +//. 1499341_1500224
 %eng:	and what do you...
-*AMA:	+< chydig sy (y)n siarad Cymraeg . 1501402_1502476
+*AMA:	+< (y)chydig sy (y)n siarad Cymraeg . 1501402_1502476
 %eng:	few speak Welsh.
 *AMA:	ia . 1502650_1503202
 %eng:	yes.
-*LIA:	&sa &w at ein_gilydd dan ni amryw o le . 1503695_1506144
-%eng:	all together we're in a variety of places.
+*LIA:	&sa &w at ei_gilydd dan ni yn amryw [?] xxx . 1503695_1506144
+%eng:	all together we're numerous [...].
 *AMA:	+< a +... 1504299_1504873
 %eng:	and...
-*LIA:	one@s:eng uh (.) yn siarad Cymraeg +... 1506168_1508455
+*LIA:	ond uh (.) yn siarad Cymraeg +... 1506168_1508455
 %eng:	but, er, speaking Welsh...
 *AMA:	+< ie . 1506615_1507056
 %eng:	yes.
@@ -2441,24 +2377,25 @@
 %eng:	eh?
 *LIA:	ah@s:cym&spa ia ? 1510481_1511078
 %eng:	ah, yes?
-*AMA:	+< dw i (we)di bod yn cyfri nhw <a &m> [//] a dw i ddim gweld nhw xxx . 1510663_1515118
-%eng:	I've been counting them and I don't see them [...]
+*AMA:	+< dw i (we)di bod yn cyfri nhw a &m [/] a dw i ddim gweld nhw +/. 1510663_1513825
+%eng:	I've been counting them, and I don't see them...
 *LIA:	+< ah@s:cym&spa . 1511210_1512104
 %eng:	ah.
 *LIA:	+< na . 1513318_1513840
 %eng:	no.
-*LIA:	ond dim (y)r un fath a Gaiman@s:cym&spa . 1513887_1515013
-%eng:	but not the same as Gaiman.
+*LIA:	dim (y)r un fath â Gaiman@s:cym&spa . 1513877_1515013
+%eng:	not the same as Gaiman.
+*AMA:	+< xx . 1514597_1515653
 *LIA:	achos gallet ti gael Gaiman@s:cym&spa . 1515118_1516387
 %eng:	because you can have Gaiman.
 *AMA:	+< o@s:cym&spa . 1515118_1516387
 %eng:	oh.
 *LIA:	<mae (y)na> [//] maen nhw (y)n siŵr wedi cael (.) lot o rai i siarad Cymraeg . 1516393_1519587
-%eng:	they've probably had a lot to speak Welsh.
-*AMA:	+< yndy yndyn . 1519355_1519959
+%eng:	there are... they must have got a lot to speak Welsh.
+*AMA:	+< yndy yndyn [?] . 1519355_1519959
 %eng:	they have.
-*AMA:	a fwy rŵan yr [/] y bobol ifanc yn dod yn siarad Cymraeg wedyn yn yr ysgol . 1520316_1523911
-%eng:	and more young people coming now speaking Welsh in the schools.
+*AMA:	a fwy rŵan yr [/] y bobl ifanc yn dod yn siarad Cymraeg wedyn yn yr ysgol . 1520316_1523911
+%eng:	and more no, the young people coming to speak Welsh in the schools.
 *LIA:	+< ia . 1522438_1523100
 %eng:	yes.
 *LIA:	+< wel (dy)na fo . 1523106_1523605
@@ -2473,7 +2410,7 @@
 %eng:	yes.
 *AMA:	mm +... 1526658_1526856
 %eng:	mm.
-*LIA:	ond um dw i ddim gwybod . 1526934_1529789
+*LIA:	ond um (.) dw i ddim gwybod . 1526934_1529789
 %eng:	but, um, I don't know.
 *LIA:	ond yn [/] <yn &tre> [//] yn Gaiman@s:cym&spa mae (y)na lot mwy o intrest dw i (y)n credu . 1529881_1534672
 %eng:	but in Gaiman there's a lot more interest I think.
@@ -2481,14 +2418,14 @@
 %eng:	maybe.
 *LIA:	dw i (y)n credu ta intrest ia . 1535604_1537003
 %eng:	I believe it's interest, yes.
-*AMA:	+< (e)fallai wir . 1536393_1537026
-%eng:	maybe.
+*AMA:	+< efallai wir . 1536147_1537026
+%eng:	quite possibly.
 *AMA:	ia ia . 1537049_1537705
 %eng:	yes yes.
 *LIA:	+< ia . 1537049_1537705
 %eng:	yes.
-*AMA:	mae (y)na lot o bobol ifanc wedi stopio mynd yma dw i (y)n credu . 1537810_1540431
-%eng:	a lot of young people have stoped going here I think.
+*AMA:	mae (y)na lot o bobl ifanc wedi stopio mynd yma dw i (y)n credu . 1537810_1540431
+%eng:	a lot of young people have stopped going here I think.
 *LIA:	oes lot . 1540448_1541308
 %eng:	yes, a lot.
 *AMA:	felly glywais i . 1542862_1543751
@@ -2500,14 +2437,14 @@
 *LIA:	mm +... 1544970_1545457
 %eng:	mm.
 *AMA:	ond mae (y)na griw o blant bach yn dod . 1546425_1548225
-%eng:	but a group of younf children come.
+%eng:	but there are a group of little children coming.
 *LIA:	oes mae (y)na blant bach yn mynd . 1548399_1550140
 %eng:	but there are young children who go.
 *AMA:	+< yn lot fawr o intrest . 1549382_1551048
 %eng:	a lot of interest.
 *LIA:	plant bach yn mynd o (y)r uh ysgol y llywodraeth . 1551349_1555094
 %eng:	young children going from, er, the state school.
-*LIA:	£[check]  na ? 1555351_1556639
+*LIA:	xx (.) na ? 1555351_1556639
 %eng:	[...] no?
 *AMA:	+< aha@s:cym&spa . 1556053_1556610
 %eng:	aha.
@@ -2522,26 +2459,26 @@
 *LIA:	<maen nhw (y)n mynd (.)> [//] o fan (y)na maen nhw (y)n mynd . 1559104_1560607
 %eng:	they go from there.
 *AMA:	+< <mae (y)na athrawes> [/] mae (y)na athrawes yn dod i fan (y)na . 1559644_1561745
-%eng:	there's a teacher that goes there.
+%eng:	there's a teacher coming there.
 *LIA:	oes ia . 1561803_1563018
 %eng:	there is, yes.
-*AMA:	+< a dysgu nhw clàs yn fan (y)na . 1561996_1563924
-%eng:	and gives them classes there.
+*AMA:	+< a dysgu nhw <(y)n y> [?] clàs yn fan (y)na . 1561996_1563924
+%eng:	and teaching them in the class there.
 *LIA:	+< (dy)na fo . 1563314_1564063
 %eng:	that's it.
 *AMA:	yndy . 1564103_1564626
 %eng:	yes.
-*AMA:	xxx <mae (y)na> [/] mae (y)na £[check]  um um xxx . 1565503_1569481
+*AMA:	xxx <mae (y)na> [/] mae (y)na  xxx um um xxx . 1565503_1569481
 %eng:	[...] there's [...] um [...]
 *LIA:	+< oes . 1567443_1567931
 %eng:	yes.
-*LIA:	+< ond dw i (y)n gweld y gwahaniaeth &e mewn uh (ei)steddfod yn Trevelin@s:cym&spa . 1568041_1571888
+*LIA:	+< ond dw i (y)n gweld y gwahaniaeth &e mewn uh eisteddfod yn Trevelin@s:cym&spa . 1568041_1571888
 %eng:	but I see the difference in an Eisteddfod in Trevelin.
 *AMA:	o@s:cym&spa . 1571907_1572975
 %eng:	oh.
-*LIA:	+< lot o blant <yn uh> [//] yn wneud [/] wneud efo (y)r &s &c canu (y)n Gymraeg . 1572255_1576149
-%eng:	a lot of children singing in Welsh.
-*AMA:	+< lot fawr xxx . 1573740_1575580
+*LIA:	+< lot o blant <yn uh> [//] yn wneud [/] wneud efo (y)r xxx canu (y)n Gymraeg . 1572255_1576149
+%eng:	a lot of children doing [...] singing in Welsh.
+*AMA:	+< lot fawr xx . 1573740_1575580
 %eng:	a lot [...]
 *LIA:	neu adrodd yn Gymraeg . 1576131_1577578
 %eng:	or reciting in Welsh.
@@ -2562,14 +2499,14 @@
 *AMA:	oes . 1584004_1585479
 %eng:	yes.
 *LIA:	+< achos ryw flynyddoedd yn_ôl pan oedd dim ysgol Gymraeg (..) oedd jyst neb . 1584538_1589571
-%eng:	because some years ago when there wasn't a Welsh school... there was nobody.
+%eng:	because some years ago when there wasn't a Welsh school... there was just nobody.
 *AMA:	+< o@s:cym&spa . 1587934_1589421
 %eng:	oh.
 *AMA:	na na . 1589540_1590440
 %eng:	no no.
 *LIA:	jyst neb . 1590446_1591073
 %eng:	just nobody.
-*AMA:	ag oedd hi (y)n drist (.) gwrando ar y plant bach yn trio deud rywbeth yn Gymraeg . 1591090_1595108
+*AMA:	ac oedd hi (y)n drist (.) gwrando ar y plant bach yn trio deud rywbeth yn Gymraeg . 1591090_1595108
 %eng:	and it was sad listening to the little children trying to say something in Welsh.
 *LIA:	+< ia ia ia . 1592211_1594597
 %eng:	yes yes.
@@ -2583,10 +2520,10 @@
 %eng:	by now they understand.
 *LIA:	+< maen nhw wahanol nawr . 1598468_1599594
 %eng:	they're different now.
-*AMA:	yndyn . 1599612_1599873
+*AMA:	yndy . 1599612_1599873
 %eng:	yes.
-*AMA:	yndy yndyn . 1599954_1600494
-%eng:	yes yes.
+*AMA:	yndy yndy [?] . 1599954_1600494
+%eng:	yes.
 *LIA:	+< yndy . 1599954_1600494
 %eng:	yes.
 *AMA:	&=clears_throat . 1601637_1602351
@@ -2598,10 +2535,10 @@
 %eng:	Emily is here.
 *AMA:	yndy . 1608799_1609171
 %eng:	yes.
-*LIA:	a <mae (.)> [/] mae hogan arall . 1609194_1610939
-%eng:	and there's another girl.
-*LIA:	dw i (ddi)m yn cofio ei &he +//. 1610951_1611885
-%eng:	I don't remember her...
+*LIA:	a <mae (.)> [/] mae hogan arall +//. 1609194_1610939
+%eng:	and another girl...
+*LIA:	dw i (ddi)m yn cofio ei hen(w) +//. 1610951_1611885
+%eng:	I don't remember her name...
 *AMA:	+< hogan yn Esquel@s:cym&spa . 1610951_1611873
 %eng:	a girl in Esquel.
 *AMA:	ia ? 1611902_1612396
@@ -2616,10 +2553,12 @@
 %eng:	ah, now there's a group getting together in a house in Trevelin.
 *LIA:	ah@s:cym&spa . 1619443_1619913
 %eng:	ah.
-*AMA:	i siarad Cymraeg a gwrando ar miwsig (.) a gwau neu gwnïo neu crosio . 1619942_1624262
-%eng:	to speak Welsh and listen to music and knit and crochet.
-*LIA:	+< ah@s:cym&spa ia o(eddw)n i (ddi)m yn gwybod . 1624082_1624976
-%eng:	ah yes, I didn't know.
+*AMA:	i siarad Cymraeg a gwrando ar miwsig (.) a gweu neu gwnïo neu crosio . 1619942_1624262
+%eng:	to speak Welsh and listen to music, and knit or sew or crochet.
+*LIA:	+< ah@s:cym&spa ie ? 1624082_1624411
+%eng:	ah, really?
+*LIA:	o(eddw)n i (ddi)m yn gwybod . 1624422_1624976
+%eng:	I didn't know.
 *AMA:	ie dw i (we)di cael gwahoddiad . 1624454_1625940
 %eng:	yes, I've had an invite.
 *LIA:	+< ah@s:cym&spa . 1625104_1625772
@@ -2638,14 +2577,14 @@
 %eng:	where?
 *LIA:	yn le ? 1630052_1630568
 %eng:	where?
-*AMA:	dw i ddim yn gwybod faint ohonyn ni sy (y)n mynd . 1630586_1632647
+*AMA:	dw i ddim yn gwybod faint ohonyn [?] sy (y)n mynd . 1630586_1632647
 %eng:	I don't know how many of them go.
-*LIA:	+< ah@s:cym&spa dim ia . 1631015_1632112
-%eng:	ah, no, yes.
+*LIA:	+< ah@s:cym&spa xx ia . 1631015_1632112
+%eng:	ah [...], yes.
 *LIA:	ah@s:cym&spa (dy)na fo o(eddw)n i &o +//. 1632881_1634315
 %eng:	ah, there we go, I...
-*AMA:	+< ond ges i wahoddiad £ ar dydd Mawrth tan bump o (y)r gloch . 1633032_1635589
-%eng:	but I was invited [...] on Tuesday until five o'clock.
+*AMA:	+< ond ges i wahoddiad xxx ar dydd Mawrth tan bump o (y)r gloch . 1633032_1635589
+%eng:	but I got an invitation [...] on Tuesday until five o'clock.
 *LIA:	aha@s:cym&spa o(eddw)n i (ddi)m yn gwybod . 1635711_1636733
 %eng:	aha, I didn't know.
 *AMA:	bydd o (y)n neis . 1636733_1637267
@@ -2668,12 +2607,12 @@
 %eng:	she was going but she doesn't go any more.
 *LIA:	+< na ia . 1647047_1647981
 %eng:	no, yes.
-*LIA:	na . 1648463_1648956
-%eng:	no.
+*LIA:	ah@s:cym&spa ! 1648463_1648956
+%eng:	ah!
 *AMA:	na . 1649003_1649746
 %eng:	no.
 *LIA:	dw i (y)n credu bod na ddim rai mawr yn mynd nawr llawer . 1650359_1652763
-%eng:	I don't think any big ones go now any more.
+%eng:	I don't think any older ones go now any more.
 *AMA:	na . 1652763_1653030
 %eng:	no.
 *LIA:	na . 1653042_1653541
@@ -2681,16 +2620,16 @@
 *AMA:	+< dyna be o(eddw)n i (y)n deud . 1653205_1654192
 %eng:	that's what I was saying.
 *AMA:	meddwl &s bod (y)na (.) rai mawr a rai (.) canol oed (.) ddim yn mynd . 1654203_1658410
-%eng:	think that there are older ones and middle aged ones that don't go.
+%eng:	thinking that there are older ones and middle aged ones that don't go.
 *LIA:	+< ia . 1654665_1655170
 %eng:	yes.
 *LIA:	+< ia . 1657492_1658165
 %eng:	yes.
 *LIA:	na . 1658409_1658967
 %eng:	no.
-*AMA:	ond uh dw i (y)n credu fydd yr uh (.) criw (y)ma sy (y)n hel at ei_gilydd i sgwrsio (.) bod (y)na rai pob oed fan (y)na . 1659484_1664836
-%eng:	but, er, I think this group that gets together to chat has people of every age.
-*LIA:	gwell . 1665617_1666465
+*AMA:	ond uh dw i (y)n credu yr uh (.) criw (y)ma sy (y)n hel at ei_gilydd i sgwrsio (.) bod (y)na rai pob oed fan (y)na . 1659484_1664836
+%eng:	but, er, I think this group that gets together to chat, that there are people of all ages there.
+*LIA:	well . 1665617_1666465
 %eng:	better.
 *AMA:	dw i (y)n meddwl . 1666459_1667260
 %eng:	I think.
@@ -2702,33 +2641,35 @@
 %eng:	not tomorrow.
 *LIA:	ia . 1671343_1671720
 %eng:	yes.
-*AMA:	dydd Mawrth wedyn . 1671732_1672417
-%eng:	then Tuesday.
+*AMA:	y [?] dydd Mawrth wedyn . 1671732_1672417
+%eng:	the Tuesday after.
 *LIA:	ia . 1672518_1672895
 %eng:	yes.
 *AMA:	dw i mynd i ddod weld . 1672919_1674230
 %eng:	I'm going to go and see.
-*LIA:	ond dw i (y)n siŵr bydd bobol o Fangor@s:cym&spa (.) yn dechrau gwrando arnaf fi . 1677635_1680752
-%eng:	but I'm sure people from Bangor will start to listen to me.
-*LIA:	maen nhw (y)n siŵr o gael hwyl . 1680752_1682076
-%eng:	they're sure to have fun.
+*LIA:	ond dw i (y)n siŵr bydd bobl o Fangor@s:cym&spa (.) yn dechrau gwrando <(y)n hwn> [?] maen nhw (y)n siŵr o gael hwyl . 1677635_1682049
+%eng:	but I'm sure people from Bangor starting to listen to this, they're sure to have fun.
 *AMA:	siŵr [=! laughs] . 1682747_1685330
 %eng:	sure.
 *LIA:	+< &=laugh . 1682747_1685725
-*AMA:	mi wranda nhw aml i air nad ydyn ni ddim i fod i iwsio . 1685769_1689043
-%eng:	they'll hear the odd word that we're not supposed to use.
-*LIA:	eh@s:cym&spa ia . 1687856_1688610
-%eng:	eh, yes.
+*AMA:	mi wrandan nhw aml i air nad ydyn ni ddim i fod i iwsio . 1685769_1689043
+%eng:	they'll hear the several words that we're not supposed to use.
+*LIA:	uh ie . 1687856_1688610
+%eng:	er, yes.
 *AMA:	siŵr . 1689377_1690125
 %eng:	sure.
-*AMA:	ond (dy)na fo be wnawn ni dan ni (y)n wneud ein gorau . 1691186_1693256
-%eng:	but, there we go, what can we do, we're doing our best.
+*AMA:	ond (dy)na fo . 1691186_1691628
+%eng:	but there you go.
+*AMA:	be wnewn ni ? 1691617_1692087
+%eng:	what do we do?
+*AMA:	dan ni (y)n wneud ein gorau . 1692099_1693256
+%eng:	we're doing our best.
 *LIA:	+< (dy)na fo . 1692153_1693244
 %eng:	that's it.
-*LIA:	yn wneud y gorau ia . 1693285_1694533
+*LIA:	yn wneud [?] y gorau ia . 1693285_1694533
 %eng:	doing our best, yes.
 *AMA:	dan ni (y)n wneud y gorau o bopeth . 1694022_1695456
-%eng:	we make the most of everything.
+%eng:	we're making the best of everything.
 *LIA:	+< ia . 1694602_1695218
 %eng:	yes.
 *LIA:	o@s:cym&spa (e)fallai bod ni (y)n siarad yn well pan mae (y)na dim rywbeth yn gwrando arnon ni &=laugh . 1696228_1700245
@@ -2738,7 +2679,7 @@
 *AMA:	mae hynny (y)n siŵr . 1700300_1701565
 %eng:	that's certain.
 *AMA:	ond mae (y)n gywilydd i ni ferched mawr fod ofn ryw (.) beth bach fel hyn . 1706639_1710597
-%eng:	but it's shmeful for us girls to be afraid of a little thing like this.
+%eng:	but it's shameful for us girls to be afraid of a little thing like this.
 *LIA:	+< wel ia . 1709511_1710597
 %eng:	well, yes.
 *AMA:	eh@s:cym&spa ti ddim yn meddwl ? 1710597_1711618
@@ -2747,12 +2688,12 @@
 %eng:	yes.
 *LIA:	wir . 1711630_1712210
 %eng:	true.
-*LIA:	wel ar y dim arferiad &s . 1712668_1714469
-%eng:	well, on the, not used...
+*LIA:	wel &aɾə dim arferiad &es . 1712668_1714469
+%eng:	well, not used to...
 *AMA:	+< ia . 1714121_1714446
 %eng:	yes.
 *LIA:	dim arferiad . 1714551_1715311
-%eng:	not used.
+%eng:	not used to it.
 *AMA:	ia ia ia . 1715334_1716176
 %eng:	yes yes.
 *LIA:	achos dw i weithiau isio mynd <i (y)r> [/] i (y)r radio fan hyn . 1716249_1719668
@@ -2761,14 +2702,16 @@
 %eng:	mm.
 *LIA:	i ddeud rywbeth . 1719901_1720882
 %eng:	to say something.
-*LIA:	wel (dy)na fo . 1720911_1721771
-%eng:	well, there we go.
-*LIA:	dw i (y)n gallu siarad o (.) ond pan maen nhw (y)n roid (.) ymlaen i +... 1721782_1726879
-%eng:	I can speak it but when they put [...] in front of me.
+*LIA:	ond (dy)na fo . 1720911_1721771
+%eng:	but there we go.
+*LIA:	dw i (y)n gallu siarad o . 1721782_1722999
+%eng:	I can speak it.
+*LIA:	ond pan maen nhw roid (.) ymlaen i +... 1722999_1726879
+%eng:	but when they put... in front of me.
 *AMA:	+< ah@s:cym&spa . 1724470_1726380
 %eng:	ah.
 *LIA:	a wedyn (.) well gen i beidio mynd . 1726800_1728629
-%eng:	and I prefer not to go.
+%eng:	and so I prefer not to go.
 *AMA:	ia . 1728646_1729273
 %eng:	yes.
 *AMA:	yndy . 1730414_1730762
@@ -2779,12 +2722,12 @@
 %eng:	why is that?
 *AMA:	+< ie ie . 1731418_1732185
 %eng:	yes yes.
-*LIA:	sai rywun wedi arfer (.) well na pan oedd o (y)n ifanc (e)fallai . 1734957_1737744
-%eng:	you'd get more used than when you were younger maybe.
+*LIA:	(ba)sai rywun wedi arfer (.) (e)fallai [?] pan oedd yn [?] ifanc (e)fallai +... 1734957_1737744
+%eng:	if someone got used to it, maybe when they were younger, maybe...
 *AMA:	digon hawdd . 1737738_1738440
-%eng:	probably.
-*AMA:	sai ni wedi cael mynd i (.) fwy o bethau fel (yn)a . 1738623_1741293
-%eng:	we'd have been given the chance to go to more things like that.
+%eng:	easy enough.
+*AMA:	(ba)sen ni wedi cael mynd i (.) fwy o bethau fel (yn)a +... 1738623_1741293
+%eng:	if we'd been able to go to more things like that...
 *LIA:	+< ia . 1739389_1739970
 %eng:	yes.
 *LIA:	+< ia . 1740556_1741183
@@ -2793,8 +2736,8 @@
 %eng:	things like that weren't available back then.
 *AMA:	+< na dim i gael . 1743468_1745412
 %eng:	no, not available.
-*LIA:	£ a &bwe cwrdd bobol ifanc a hwn a llall . 1745429_1748407
-%eng:	meeting young people and this and that.
+*LIA:	xxx cwrdd bobl ifanc a hwn a llall . 1745429_1748407
+%eng:	[...] meeting young people, and this and that.
 *AMA:	+< na . 1745609_1746375
 %eng:	no.
 *LIA:	oedd (y)na ddim_byd fel (yn)a . 1748407_1749336
@@ -2811,18 +2754,18 @@
 %eng:	no.
 *LIA:	oedden ni (y)n mynd i +//. 1756782_1757896
 %eng:	we would go to...
-*AMA:	+< oedd o (y)n hyfryd mynd xxx . 1756782_1758912
-%eng:	it was lovely to go [...]
-*LIA:	+< ar Ddydd Sadwrn (.) oedden ni (y)n mynd a cael canu . 1757972_1761460
+*AMA:	+< oedd o (y)n hyfryd mynd <i canu> [?] . 1756782_1758912
+%eng:	it was lovely going singing.
+*LIA:	+< ar ddydd Sadwrn (.) oedden ni (y)n mynd a cael canu . 1757972_1761460
 %eng:	on a Saturday we went and were allowed to sing.
-*LIA:	cwrdd bobol ifanc . 1761573_1762833
+*LIA:	cwrdd bobl ifanc . 1761573_1762833
 %eng:	meet young people.
 *AMA:	+< mm +... 1761602_1762224
 %eng:	mm.
-*LIA:	a o fan (y)na yn y nos oedden ni (y)n mynd i ddawnsio . 1763025_1765295
+*LIA:	a o fan (hyn)ny yn y nos oedden ni (y)n mynd i ddawnsio . 1763025_1765295
 %eng:	from there we went dancing in the evening.
 *AMA:	aha@s:cym&spa . 1765295_1765835
 %eng:	aha.
-*LIA:	a wedyn oedd y [/] dydd Sadwrn £[check]  . 1766432_1769846
-%eng:	and then the Saturday was [...]
+*LIA:	a wedyn oedd y [/] dydd Sadwrn wedi xxx . 1766432_1769846
+%eng:	and then the Saturday was [...].
 @End
