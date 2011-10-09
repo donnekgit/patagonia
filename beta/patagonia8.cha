@@ -1,3 +1,4 @@
+@Font:	Win95:Arial Narrow:-19:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -160,7 +161,7 @@
 %eng:	yes
 *ELE:	ie . 142686_143192
 %eng:	yes
-*VIC:	achos bod hi (y)n diwrnod diwedd wythnos no@s:spa sé@s:spa . 143203_146774
+*VIC:	achos bod hi (y)n ddiwrnod diwedd wythnos no@s:spa sé@s:spa . 143203_146774
 %eng:	because it's a weekend day, I don't know
 *VIC:	<sut (.)> [/] sut maen nhw (y)n wneud o . 146825_149171
 %eng:	how they do it.
@@ -168,12 +169,12 @@
 %eng:	I would've liked to go but it's not easy
 *VIC:	[- spa] no es fácil . 155998_157214
 %eng:	it's not easy
-*VIC:	[- spa] [check] un poco caro también . 157711_160032
-%eng:	[...] a bit expensive too.
-*VIC:	[check] niente@s:spa teníamos@s:spa el@s:spa almuerzo@s:spa este@s:spa eh@s:cym&spa . 160043_164403
-%eng:	[...] we have dinner.
-*VIC:	[- spa] [check] cuantas cosas . 165065_166105
-%eng:	[...] so many things.
+*VIC:	[- spa] [check] y sale un poco caro también con el cuestión de xx al día siguiente . 158044_162139
+%eng:	and it works out a bit expensive too with the matter of xx until the next day.
+*VIC:	[- spa] teníamos@s:spa el@s:spa almuerzo@s:spa este@s:spa y +... 162144_164171
+%eng:	we have dinner, this and...
+*VIC:	+, [- spa] y hay cuantas cosas . 165065_166105
+%eng:	and there are so many things.
 *ELE:	+< ie . 165065_166105
 %eng:	yes.
 *ELE:	ie (.) cael te después@s:spa . 166786_168991
@@ -188,7 +189,7 @@
 %eng:	because you can't just do nothing for all those hours
 *ELE:	ie . 177365_177835
 %eng:	yes.
-*ELE:	ddaru ni eiste(dd) i gael te <yn yr (.)> [/] yn yr [check] . 177968_182748
+*ELE:	ddaru ni eiste(dd) i gael te <yn yr (.)> [/] yn yr <gwesty (y)r> [?] xxx [check] . 177968_182748
 %eng:	we sat to have dinner in the [...]
 *VIC:	+< ah@s:cym&spa do . 182464_182976
 %eng:	ah yes.
@@ -300,7 +301,7 @@
 %eng:	yes.
 *ELE:	ie . 279493_280224
 %eng:	yes.
-*ELE:	uh Rita_Cabello@s:cym&spa wnaeth um (.) gwneud o o_blaen . 280234_284630
+*ELE:	uh Rita_Cabello@s:cym&spa oedd yn (.) gwneud o o_blaen . 280234_284630
 %eng:	Rita Cabello did it before
 *VIC:	+< &a amser hynny . 283953_284987
 %eng:	back then
@@ -335,8 +336,10 @@
 *ELE:	xxx . 306662_307862
 *ELE:	xxx . 308708_309396
 %eng:	[...]
-*VIC:	[- spa] [check] este también . 309408_311611
-%eng:	[...] this too
+*VIC:	[- spa] [check] xx se cambia este también . 309408_311611
+%eng:	[...] this changes too
+*ELE:	[- spa] bueno . 310836_311668
+%eng:	ok.
 *ELE:	o@s:cym&spa . 315164_315804
 *VIC:	fydd hwnna (we)di torri erbyn xxx . 318314_320698
 %eng:	that will have broken by [...]
@@ -360,8 +363,8 @@
 %eng:	mm.
 *VIC:	[- spa] cómo ? 420660_421038
 %eng:	pardon?
-*ELE:	hyn oedd o ? 421044_422302
-%eng:	was it this?
+*ELE:	p(wy) un oedd o ? 421044_422302
+%eng:	which was it?
 *ELE:	hwn ? 422257_422662
 %eng:	this?
 *VIC:	mae o fel hyn . 422662_423649
@@ -412,17 +415,17 @@
 %eng:	of course.
 *ELE:	ie . 476061_476653
 %eng:	yes.
-*VIC:	dan ni (y)n gwybod be dan ni (y)n wneud . 476723_478056
-%eng:	[...] what we're doing.
+*VIC:	dan ni (ddi)m (y)n gwybod be dan ni (y)n wneud . 476723_478056
+%eng:	we don't know what we're doing.
 *VIC:	well i ti +//. 478056_479197
 %eng:	you'd better...
 *ELE:	rhag ofn i ni . 479251_480488
 %eng:	in case we...
 *VIC:	wel ia . 480493_481251
 %eng:	well yes.
-*VIC:	[check] . 483572_485785
+*VIC:	[- spa] salir por acá xx salir por ahí [check] . 483572_485785
 %com:	check this again. there may be Welsh here as well as Sp.
-*ELE:	xxx . 485854_487732
+*ELE:	[- spa] acá sí [?] . 485854_487732
 *ELE:	xxx . 496723_503081
 *VIC:	naddo . 503087_504228
 %eng:	no.
@@ -448,7 +451,7 @@
 %eng:	what about her brothers?
 *VIC:	(y)dyn nhw +..? 605729_606220
 %eng:	are they..?
-*ELE:	sut ? 606251_606918
+*ELE:	sut [?] ? 606251_606918
 %eng:	what?
 *VIC:	beth am ei brodyr hi ? 607016_608239
 %eng:	they married [...] to go.
@@ -580,7 +583,7 @@
 *VIC:	(y)dyn nhw gwmpas lle maen nhw (y)n byw neu na ? 724580_726756
 %eng:	are they around where they live or not?
 *ELE:	+< xxx . 724836_725940
-*VIC:	ydyn nhw (ddi)m yn gweld ei_gilydd yn aml ? 726767_728378
+*VIC:	ydyn nhw (y)n gweld ei_gilydd yn aml ? 726767_728378
 %eng:	do they see each other often?
 *ELE:	+< um +//. 727796_729232
 %eng:	um, it...
@@ -653,7 +656,7 @@
 %eng:	why were you at Mrs. Griffiths' place?
 *VIC:	dwn i ddim . 782971_783726
 %eng:	I don't know.
-*VIC:	wel oedd hi (y)n <boarding@s:eng house@s:eng> ["] oedd hi (y)n galw yfe [?] . 783731_786675
+*VIC:	wel oedd hi (y)n <boarding@s:eng house@s:eng> ["] oedd hi (y)n galw ynde . 783731_786675
 %eng:	well, she was in a "boarding house", she called it, eh
 *ELE:	ah@s:cym&spa . 786675_787230
 *VIC:	nid uh +/. 787235_787992
@@ -763,8 +766,8 @@
 %eng:	every day then, eh?
 *ELE:	bob dydd bob bob dydd . 890078_891993
 %eng:	every day, every day.
-*VIC:	wel ond mae hi (y)n xxx cymryd rhan ie ? 892004_894505
-%eng:	well, but it's [...] taking part, right?
+*VIC:	wel ond mae hi (y)n xxx allwch chi gymryd rhan ie ? 892004_894505
+%eng:	well, but it's [...] you can take part, right?
 *ELE:	+< xxx . 894063_895396
 *ELE:	dw i yn cymryd y (.) dydd Llun off a [/] a dydd Sul . 895834_901210
 %eng:	I do take Monday and Sunday off
@@ -813,8 +816,8 @@
 %eng:	yes yes
 *VIC:	a wyt ti (we)di roi digon o blynyddoedd siŵr bellach . 945417_948047
 %eng:	and surely you've given it enough years by now
-*ELE:	ie (.) os dw i (y)n ymddeol cyn [/] um cyn xx yn ymddeol [!=laughs] . 948037_954457
-%eng:	yes, if I retire before [...] retires
+*ELE:	ie (.) os dw i (y)n ymddeol cyn [/] um cyn cael yn ymddeol [!=laughs] . 948037_954457
+%eng:	yes, if I retire before I'm made to retire
 *VIC:	+< &=laugh . 952804_954393
 *VIC:	wel (ba)sai fo (y)n un iawn i dy [//] gymryd dy le di . 955204_957508
 %eng:	well, he'd be a perfect replacement for you
@@ -824,8 +827,8 @@
 %eng:	he's alright
 *VIC:	gwybod y cwbl bellach siŵr . 959617_962054
 %eng:	knows everything by now, surely
-*ELE:	rhaid ni xx perswadio fo (dy)na i_gyd . 962825_965220
-%eng:	we have to [...] persuade him, that's all
+*ELE:	rhaid i ni berswadio fo (dy)na i_gyd . 962825_965220
+%eng:	we have to persuade him, that's all
 *VIC:	ah@s:cym&spa ie ie . 965225_966665
 %eng:	ah yes yes
 *VIC:	ie . 967055_967748
@@ -908,8 +911,8 @@
 %eng:	taken a plank yes.
 *ELE:	wel ! 1067612_1068604
 %eng:	well!
-*VIC:	ac uh um claro@s:spa [check] oedd yn gweithio fan hyn a deud wrthon ni +"/. 1068609_1073019
-%eng:	and er, um, sure [...] who was working there and told us:
+*VIC:	ac uh um claro@s:spa Sostre@s:cym&spa oedd yn gweithio fan hyn a deud wrthon ni +"/. 1068609_1073019
+%eng:	and er, um, sure it was Sostre who was working there and told us:
 *ELE:	+< xxx . 1069616_1070411
 *VIC:	+" byddwch yn ofalus pan fyddech chi (y)n mynd dros y bont (y)na . 1073107_1074733
 %eng:	be careful going over that bridge
@@ -1033,7 +1036,7 @@
 %eng:	and Mathew Hughes and Christopher Griffiths and the Hughes people, that's where they were
 *ELE:	+< ia (..) xxx . 1180233_1182718
 %eng:	[...] yes
-*VIC:	ond d(oeddw)n i (e)rioed (we)di clywed hi o (y)r blaen yn +//. 1189840_1192046
+*VIC:	ond do(eddw)n i (e)rioed (we)di clywed hi o (y)r blaen yn +//. 1189840_1192046
 %eng:	but I'd never heard her before doing...
 *VIC:	o(eddw)n i (ddi)m gwybod bod hi (y)n +... 1191966_1193380
 %eng:	I didn't know that she did...
@@ -1071,7 +1074,7 @@
 %eng:	yes
 *VIC:	mm +... 1217130_1217882
 *ELE:	xxx . 1218532_1219220
-*ELE:	llyfr xx Patagonia@s:cym&spa dw i (y)n credu fydd hi . 1222252_1224074
+*ELE:	llyfr Patagonia@s:cym&spa dw i (y)n credu fydd hi . 1222252_1224074
 %eng:	a book of Patagonia [...], I think it will be
 *VIC:	ah@s:cym&spa aha@s:cym&spa ah@s:cym&spa ie ie . 1224068_1226295
 %eng:	ah, aha, ah yes yes
@@ -1274,8 +1277,8 @@
 %eng:	and, er, the girls had the piano
 *VIC:	oedden nhw (y)n chwarae rywbeth xxx . 1455976_1457559
 %eng:	they were playing something [...]
-*VIC:	oedd Claudine@s:cym&spa yn chwarae (y)r [check] . 1457569_1459887
-%eng:	Claudine played the the [...]
+*VIC:	oedd Claudine@s:cym&spa yn chwarae (y)r mashin [?] . 1457569_1459887
+%eng:	Claudine was working the machine
 *ELE:	ah@s:cym&spa xxx . 1459887_1464226
 *VIC:	+< mm ie claro@s:spa . 1462189_1463586
 %eng:	mm, yes sure.
@@ -1313,11 +1316,11 @@
 *VIC:	a wedyn oedd hi (y)n bechod . 1498868_1500848
 %eng:	and so it was a pity
 *VIC:	&=laugh . 1501275_1502176
-*VIC:	[- spa] [check] todo es tan cerca [check] . 1508226_1510977
-%eng:	[...] everything is so close [...]
+*VIC:	ie todo@s:spa es@s:spa tan@s:spa cerca@s:spa así@s:spa que@s:spa +... 1508226_1510977
+%eng:	yes, everything is so close so...
 *ELE:	mm +... 1510982_1511526
-*VIC:	[- spa] no [check] mucho [check] bicicleta . 1511526_1515049
-%eng:	[...] bike.
+*VIC:	[- spa] no [check] mucho llegar a tu casa [check] <colocar> en el bicicleta . 1511526_1515049
+%eng:	[...]
 *ELE:	xxx . 1515055_1517532
 %eng:	[...]
 *ELE:	lle bod chi gorfod (.) uh (..) xx (y)r ceffylau a pethau fel (y)na ie . 1522112_1529896
@@ -1391,8 +1394,8 @@
 %eng:	naughty children
 *ELE:	ie . 1610181_1611248
 %eng:	yes
-*VIC:	[- spa] [check] chacha . 1616106_1620352
-%eng:	[...] cha cha.
+*VIC:	[- spa] bueno che no sé xxx [check] muchacha . 1616106_1620352
+%eng:	I don't know [...] maid.
 *ELE:	+< xx amser ? 1617210_1618032
 %eng:	[...] time?
 *VIC:	[- spa] qué hora tienes ? 1620257_1621692
@@ -1405,8 +1408,8 @@
 *VIC:	achos mae (y)r cloc +/. 1631952_1633269
 %eng:	because the clock...
 *ELE:	+< xxx . 1632687_1634802
-*VIC:	ie mi fydd yn [check] mae o . 1637845_1639996
-%eng:	yes it'll [...], it's...
+*VIC:	ie mi fydd xx recuerdo@s:spa [check] mae o . 1637845_1639996
+%eng:	yes it'll [...]
 *VIC:	mae o (y)n (.) fod i (.) fynd ei hunan pan o(eddw)n i +//. 1639996_1643161
 %eng:	it's supposed to go by itself when I...
 *VIC:	ond os dw i (y)n cysgu yn y nos xxx (y)n dawel dw i ddim yn +... 1643161_1646961
@@ -1449,9 +1452,9 @@
 *VIC:	pan fydd hi (y)n nos pan fydd hi (y)n dawel xx symud . 1689537_1692583
 %eng:	when it's quiet at night [...] move
 *ELE:	xxx +//? 1693112_1697118
-*ELE:	xxx dal i ddod ? 1697554_1698589
-%eng:	[...] still coming?
-*VIC:	yndy . 1698600_1699533
+*ELE:	(y)dyn nhw (y)n dal i ddod ? 1697554_1698589
+%eng:	so they still come?
+*VIC:	yndyn . 1698600_1699533
 %eng:	yes
 *VIC:	ond dydd Sul bydd hi (y)n dod dydd Sul . 1699549_1702273
 %eng:	but on Sunday, she'll be coming on Sunday
@@ -1542,7 +1545,7 @@
 *VIC:	mi es i bore ddoe . 1803952_1805030
 %eng:	I went yesterday morning.
 *ELE:	aha@s:cym&spa . 1805035_1805536
-*VIC:	cyn mynd i (y)r cymanfa mi (.) gymerais [?] tacsi a mi es draw i (.) i w weld hi . 1805426_1811621
+*VIC:	cyn mynd i (y)r cymanfa mi (..) gymerais [?] tacsi a mi es draw i (.) i w weld hi . 1805426_1811621
 %eng:	before going to the singing assembly I... took a taxi and I went over to see her
 *ELE:	+< ie . 1810032_1810373
 %eng:	yes
