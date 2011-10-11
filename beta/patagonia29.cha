@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -17,11 +17,11 @@
 %eng:	are you going to see the choir?
 *FER:	dw i (y)n meddwl (.) ydw . 4518_5643
 %eng:	I think so, yes.
-*FER:	rhaid i fi fynd efo (y)r côr cymysg o (y)r ysgol gerdd . 5723_8582
+*FER:	rhaid i fi mynd efo (y)r côr cymysg o (y)r ysgol gerdd . 5723_8582
 %eng:	I have to go with the mixed choir of the music school.
 *MER:	+< ie fi hefyd . 8256_9232
 %eng:	yes, me as well.
-*MER:	ond dw i ddim yn gwybod os dw i (y)n gallu . 9363_11678
+*MER:	ond (.) dw i ddim yn gwybod os dw i (y)n gallu . 9363_11678
 %eng:	but I don't know if I can.
 *FER:	pam ? 11811_12441
 %eng:	why?
@@ -31,10 +31,8 @@
 %eng:	because...
 *MER:	+< ia hefyd . 14587_15579
 %eng:	yes, also.
-*FER:	oes [//] does dim arholiad (.) gyda ti . 16943_18745
-%eng:	don't you have an exam?
-*FER:	wyt ti (y)n gallu dod achos +... 20033_21255
-%eng:	you can come because...
+*FER:	os does dim arholiad (..) gyda ti (.) wyt ti (y)n gallu dod achos [?] +... 17090_21255
+%eng:	if you don't have an exam, you can come, because...
 *MER:	ie . 20961_21324
 %eng:	yes.
 *MER:	xx . 21479_21991
@@ -48,12 +46,12 @@
 %eng:	I don't know.
 *MER:	dw i (y)n meddwl am wyth neu +... 32394_34346
 %eng:	I think at eight or...
-*FER:	mae xxx yn dechrau am hanner awr . 35152_37462
-%eng:	[...] starts at half past.
+*FER:	mae gyngerdd [?] yn dechrau am hanner awr . 35152_37462
+%eng:	the concert starts at half past.
 *MER:	+< ia hanner awr wedi wyth . 37003_38432
 %eng:	yes, half past eight.
-*FER:	felly mae hi (y)n amser i ti xxx . 38715_41307
-%eng:	so it's time for you to [...].
+*FER:	felly mae hi (y)n amser i ti xxx +//. 38715_41307
+%eng:	so it's time for you to [...]...
 *FER:	am faint o (y)r gloch rhaid i ti mynd i wneud yr arholiad ? 41491_43934
 %eng:	what time do you have to go to take the exam?
 *MER:	yfory ? 44211_44878
@@ -71,8 +69,8 @@
 *MER:	+< ie . 53242_53562
 %eng:	yes.
 *MER:	&=laugh a rhaid i ni prynu empanadas@s:spa (.) hefyd . 54658_57906
-%eng:	and we have to buy empanadas as well.
-*FER:	ah@s:cym&spa wel (.) <mae mam> [//] mae dy mam ti yn gallu prynu os wyt ti (y)n gofyn i hi . 58119_63575
+%eng:	and we have to buy some empanadas [pastries] as well.
+*FER:	ah@s:cym&spa wel (.) <mae mam> [//] mae dy mam ti yn gallu prynu os (.) wyt ti (y)n gofyn i hi . 58119_63575
 %eng:	ah, well, your mother can buy them if you ask her.
 *MER:	+< ie . 58625_58967
 %eng:	yes.
@@ -87,10 +85,10 @@
 %eng:	um a performance of [...].
 *FER:	a (.) wyt ti (y)n mynd i fynd ? 81265_82843
 %eng:	and are you going to go?
-*MER:	dw i (y)n meddwl dw i yn (.) efallai . 84145_85174
-%eng:	I think I am, maybe.
-*FER:	mae acto@s:spa o Camwy@s:cym&spa yn uh yn xx Rhagfyr . 85913_90179
-%eng:	there is a performance from Camwy in December.
+*MER:	dw i (y)n meddwl ie [?] (.) efallai . 84145_85174
+%eng:	I think so, yes, maybe.
+*FER:	mae acto@s:spa o Camwy@s:cym&spa yn uh yn uh [?] Rhagfyr . 85913_90179
+%eng:	there is a performance from [?] Camwy in December.
 *MER:	un_deg tri . 88985_89651
 %eng:	13th.
 *FER:	na un_deg ddau (.) dydd Sadwrn . 90753_92694
@@ -110,12 +108,12 @@
 %eng:	no.
 *FER:	na pedwar . 98390_98950
 %eng:	no, fourth.
-*MER:	pedwar y pedwar (.) o Rhagfyr ? 99169_100326
-%eng:	fourth, the fourth of December?
+*MER:	dydd Gwener pedwar (.) o Rhagfyr ? 99169_100326
+%eng:	Friday the fourth of December?
 *FER:	+< o@s:spa pump . 99425_99969
 %eng:	or the fifth.
-*MER:	a o (y)r ysgol xx yn Nhrelew@s:spa@cy&es un_deg pump . 102345_105870
-%eng:	and the one of [..] school in Trelew fifteenth.
+*MER:	um o (y)r ysgol Hendre yn Nhrelew@s:spa@cy&es un_deg pump . 102345_105870
+%eng:	um, from Hendre school in Trelew, fifteenth.
 *FER:	ah@s:cym&spa uh ac efallai (.) uh pump uh acto@s:spa yr ysgol cerdd . 106510_111545
 %eng:	ah, and maybe the fifth the performance of the music school.
 *MER:	dydd Sadwrn . 113572_114494
@@ -126,21 +124,21 @@
 %eng:	i don't know.
 *FER:	ie (.) xx +/. 118638_119966
 %eng:	yes, [..]...
-*MER:	a beth xx mynd i wneud yn yr (..) acto@s:spa (y)r ysgol cerdd ? 119288_122594
+*MER:	a beth <wyt ti> [?] mynd i wneud yn yr (..) acto@s:spa (y)r ysgol cerdd ? 119288_122594
 %eng:	and what are you going to do in the performance of the music school?
 *FER:	dw i ddim yn gwybod . 123212_124098
 %eng:	I don't know.
 *FER:	fydda i yn ddawnsio efo (y)r criw (.) o ddawnswyr yn Cymraeg . 124146_127490
 %eng:	I will be dancing with the Welsh dancers' group.
-*FER:	uh wel (..) bydden ni yn canu yn y côr . 128267_131750
+*FER:	uh wel (..) byddwn ni (y)n canu yn y côr . 128267_131750
 %eng:	well, we will sing in the choir.
 *FER:	um (.) beth arall ? 133262_135262
 %eng:	what else?
-*MER:	felly <wyt ti> [/] wyt ti ddim yn mynd i chwarae ffliwt neu piano@s:cym&spa <y dwy> [//] yr wythnos nesaf ? 136741_143514
+*MER:	felly <wyt ti> [/] wyt ti ddim yn mynd i chwarae ffliwt neu piano@s:cym&spa <y &dui> [//] yr wythnos nesaf ? 136741_143514
 %eng:	so you won't be playing the flute or the piano next week?
 *FER:	+< ar yr wythnos nesaf ? 142447_143546
 %eng:	next week?
-*FER:	na dw i ddim yn gallu achos (.) fyddai ym Muenos_Aires . 143685_147354
+*FER:	na dw i ddim yn gallu achos (.) fyddai yn [//] ym Muenos_Aires . 143685_147354
 %eng:	no, I can't because I'll be in Buenos Aires.
 %com:	interesting mutation of Buenos Aires
 *FER:	dw isio chwarae flute@s:eng [//] ffliwt achos +... 148390_151238
@@ -149,8 +147,8 @@
 %eng:	becuase, yes, it's interesting.
 *FER:	ydw [//] ydy . 152902_154598
 %eng:	yes.
-*FER:	ond wel (.) <y tro y tro> [/] y tro nesaf . 154992_158832
-%eng:	but never mind, next time.
+*FER:	ond wel (.) <y tro> [/] <y tro> [/] y tro nesaf . 154992_158832
+%eng:	but well, next time.
 *MER:	+< tro nesaf ia . 157616_158683
 %eng:	next time, yes.
 *FER:	dw i (ddi)m yn gwybod pryd . 159419_160806
@@ -158,9 +156,9 @@
 *FER:	ond +... 160790_161835
 %eng:	but...
 *MER:	+< &=laugh . 161163_162059
-*MER:	wyt ti yn mynd i dysgu ffliwt yn La_Plata@s:cym&spa (.) y blwyddyn nesaf ? 162422_164832
+*MER:	wyt ti yn mynd i dysgu ffliwt yn La_Plata@s:cym&spa (.) y blwyddyn nesa ? 162422_165727
 %eng:	are you going to learn the flute in La Plata next year?
-*FER:	faswn gallu . 165792_166784
+*FER:	faswn [?] gallu . 165792_166784
 %eng:	I could.
 *FER:	dw i isio dysgu lot o bethau . 167499_171360
 %eng:	I want to learn many things.
@@ -172,7 +170,7 @@
 %eng:	singing.
 *FER:	um (.) beth arall ? 173576_175603
 %eng:	what else?
-*FER:	wel dw i isio (.) mynd i (.) dysgu (.) i coginio xxx chef@s:cym&spa [?] . 175770_181925
+*FER:	wel dw i isio (..) mynd i (.) dysgu (..) i coginio xxx chef@s:cym&spa [?] . 175770_181925
 %eng:	well, I want to go and learn to cook like a chef.
 *FER:	a (.) pethau eraill . 182186_183807
 %eng:	and other things.
@@ -184,21 +182,21 @@
 %eng:	yes.
 *FER:	dw i isio wneud +/. 185183_186036
 %eng:	I want to do...
-*MER:	y flwyddyn nesaf efallai dw i (y)n dysgu (..) ffidil +/. 185407_190783
-%eng:	next year maybe I'll learn to play the violin.
+*MER:	y flwyddyn nesaf efallai (.) dw i (y)n dysgu &m (..) ffidil +/. 185407_190783
+%eng:	next year maybe I'll learn to play the violin...
 *FER:	ffidil ? 190432_191307
 %eng:	the violin?
 *MER:	+, a clarinet@s:cym&spa . 191552_192832
-%eng:	and the clarinet.
+%eng:	...and the clarinet.
 *FER:	clarinet@s:cym&spa ble ? 195070_196126
 %eng:	the clarinet, where?
-*MER:	yma yn yr ysgol cerdd . 196297_197865
+*MER:	yma (.) yn yr ysgol cerdd . 196297_197865
 %eng:	here, at the music school.
 *FER:	ah@s:cym&spa mae Alex@s:cym&spa yn dysgu ? 198046_199859
 %eng:	ah, does Alex teach?
 *MER:	dw i (we)di gweld y clarinet@s:cym&spa . 201069_202925
 %eng:	I have seen the clarinet.
-*FER:	dw i (y)n dysgu ffidil efo Carmen@s:cym&spa . 203949_206627
+*FER:	dw i (y)n dysgu ffidil efo (.) Carmen@s:cym&spa . 203949_206627
 %eng:	I'm learning to play the violin with Carmen.
 *FER:	a +/. 209347_210125
 %eng:	and...
@@ -216,23 +214,25 @@
 %eng:	and if I can next year...
 *FER:	na (.) dim blwyddyn nesaf . 217260_219383
 %eng:	no, not next year.
-*FER:	dau flwyddyn nesaf (.) fyddai (y)n wneud biotechnoleg (.) achos fyddai ddim yn gallu inscribirme@s:spa yn ddau . 219435_225921
-%eng:	the next two years I will be doing biotechnology because I won't be able to register for both.
+*FER:	dau flwyddyn nesa (.) fyddai (y)n wneud biotechnoleg . 219435_222597
+%eng:	he next two years I will be doing biotechnology.
+*FER:	achos <dw i> [?] ddim yn gallu (.) inscribirme@s:spa yn ddau . 222570_225921
+%eng:	because I can't register for both.
 *MER:	ia . 226027_226379
 %eng:	yes.
-*MER:	wyt ti (y)n meddwl (.) mynd i Cymru blwyddyn nesaf ? 227235_231309
+*MER:	wyt ti (y)n (.) meddwl (.) mynd i Cymru y blwyddyn nesa ? 227235_231309
 %eng:	are you thinking of going to Wales next year?
-*FER:	dw i (ddi)m yn gwybod achos dw i (y)n dechrau y prifysgol yn mis (.) Chwefror . 231821_236557
+*FER:	ddim yn gwybod achos dw i (y)n dechrau y prifysgol yn mis (.) Chwefror . 231821_236557
 %eng:	I don't know because I start at the university in February.
 *MER:	o@s:cym&spa ia . 236632_237784
 %eng:	oh, yes.
-*FER:	achos (..) os dw isio mynd (.) i (y)r xxx mae tan mis Mawrth . 238494_247998
+*FER:	achos (..) os dw isio mynd (.) i (y)r xxx (..) mae tan mis Mawrth . 238494_247998
 %eng:	because if I want to go to [...] that runs until March.
 *FER:	ia mis Ionawr mis Chwefror a mis Mawrth . 245137_248252
 %eng:	yes, January, February and March.
 *FER:	felly dw i (ddi)m yn gallu . 248049_249308
 %eng:	so I can't.
-*FER:	a dw i ddim yn gwybod os (.) mae amser i fi (.) i mynd yn xx +/. 250011_256422
+*FER:	a dw i ddim yn gwybod os (.) mae amser i fi (.) i mynd xxx +/. 250011_256422
 %eng:	and I don't know if there is time for me to go [...].
 *MER:	wyt ti (y)n gallu mynd i [//] yn mis Mehefin ? 255827_258467
 %eng:	can you go in June?
@@ -240,27 +240,26 @@
 %eng:	only June or only July.
 *FER:	+< ah@s:cym&spa . 263472_264048
 %eng:	ah.
-*FER:	dw i (y)n meddwl (.) efall(ai) +/. 265205_265845
+*FER:	dw i (y)n meddwl (.) efall(ai) +/. 265205_266500
 %eng:	I think maybe...
 *MER:	+< wyt ti (y)n gallu dewis y mis ? 266245_267755
 %eng:	can you choose the month?
-*FER:	+< wy(f) [?] . 267045_267339
-%eng:	yes.
+*FER:	+< xx . 267045_267339
 *MER:	ah@s:cym&spa . 267813_268139
 %eng:	ah.
 *FER:	neu ddau . 268475_269531
 %eng:	or two.
 *FER:	achos mae (.) gwyliau . 269729_272379
-%eng:	because ther are holidays.
+%eng:	because there are holidays.
 *MER:	ie . 270443_270769
 %eng:	yes.
 *MER:	ie . 272497_272907
 %eng:	yes.
-*FER:	dw i (ddi)m yn gwybod . 274601_275561
-%eng:	I don't know.
+*FER:	felly (..) dw i (ddi)m yn gwybod . 273388_275308
+%eng:	so, I don't know.
 *MER:	ie dan ni (y)n mynd efo (y)r côr (.) um (.) yr pumed . 274740_278127
 %eng:	yes, we are going with the choir on the fifth.
-*FER:	+< ac efallai dan +... 277207_279559
+*FER:	+< ac efallai dan +/. 277207_279559
 %eng:	and maybe we are...
 *MER:	pumed o Gorffenaf . 278337_279505
 %eng:	fifth of July.
@@ -303,14 +302,14 @@
 %eng:	yes, it's a lot.
 *MER:	a mae llawer i darllen a darllen a darllen . 332730_335620
 %eng:	and there's a lot to read and read and read.
-*FER:	mae yn ddiflas [=! laugh] (.) iawn . 336351_338031
+*FER:	mae (y)n ddiflas [=! laugh] (.) iawn . 336351_338031
 %eng:	it's very boring.
 *MER:	+< ie . 337729_338086
 %eng:	yes.
 *MER:	dim cerddoriaeth . 338939_340155
 %eng:	no music.
-*MER:	xxx dw i xxx darllen darllen darllen . 340281_342574
-%eng:	[...] I am [...] reading, reading, reading.
+*MER:	<mae bob dydd> [?] darllen darllen darllen . 340281_342574
+%eng:	every day it's reading, reading, reading.
 *FER:	+< na dw i (y)n gwybod . 340697_341454
 %eng:	no, I know.
 *MER:	ie mae (y)n ddiflas iawn . 342478_343630
@@ -325,11 +324,11 @@
 %eng:	and can you teach Welsh folk dancing in La Plata?
 *FER:	dw i wedi meddwl am hwn . 354398_355993
 %eng:	I have thought of that.
-*FER:	a byddai (y)n (.) uh mynd a (..) um (..) material@s:spa (.) i dysgu . 356169_365513
+*FER:	a byddai (y)n (.) uh mynd â (..) um (..) material@s:spa (.) i dysgu . 356169_365513
 %eng:	and I'll take materials for teaching.
-*MER:	+< ia C_Ds@s:cym&spa neu llyfrau . 364223_366837
+*MER:	+< ia C_Ds neu llyfrau . 364223_366837
 %eng:	yes, CDs or books.
-*FER:	+< C_Ds@s:cym&spa llyfrau . 365706_367871
+*FER:	+< C_Ds llyfrau . 365706_367871
 %eng:	CD, books.
 *MER:	ie mae (y)n ddiddorol . 371603_372787
 %eng:	yes, it's interesting.
@@ -349,47 +348,49 @@
 *MER:	&=laugh . 393331_393981
 *FER:	bydda i (y)n dod i ganu efo (y)r côr ifanc . 394142_396478
 %eng:	I'll come to sing with the youth choir.
-*MER:	efo (y)r côr yndw . 395955_397619
+*MER:	efo (y)r côr [?] yndw . 395955_397619
 %eng:	with the choir, yes.
 *FER:	ac os dw i (y)n gallu bydda i (y)n dod i (.) eisteddfod@s:cym&spa y Wladfa . 397310_401097
-%eng:	and if I can I'll come to the Eisteddfod of the Colony.
-*MER:	a dach chi (y)n gallu dod efo (y)r coranto@s:spa hefyd ? 401235_404243
-%eng:	and you can come with the courante as well.
+%eng:	and if I can I'll come to the Eisteddfod of the Welsh Settlement.
+*MER:	a dach chi (y)n gallu dod efo (y)r Coranto@s:cym&spa [?] hefyd ? 401235_404243
+%eng:	and you can come with the Coranto [?] as well.
 *FER:	ah@s:cym&spa mae (y)n iawn . 404277_405536
 %eng:	ah, it;s okay.
-*FER:	dw i ddim yn nabod dy frawd . 405664_407285
-%eng:	I don't know about your brother.
+*FER:	dw i ddim yn nabod <y Coranto@s:spa> [?] . 405664_407285
+%eng:	I don't know the Coranto.
 *MER:	na fi chwaith . 407456_408267
 %eng:	nor do I.
-*MER:	dw i (y)n gwybod fod Feliciana@s:cym&spa yn canu . 408384_411733
-%eng:	I know that Feliciana sings.
-*FER:	beth (yd)y chi (y)n canu ? 411787_412843
+*MER:	ond (.) dw i (y)n gwybod fod Feliciana@s:cym&spa yn canu . 408360_411733
+%eng:	but I know that Feliciana sings.
+*FER:	beth dach [?] chi (y)n canu ? 411787_412843
 %eng:	what are you singing?
 *MER:	na dw i ddim yn gwybod . 412993_414113
 %eng:	no, I don't know.
-*FER:	iawn dw i (y)n gallu mynd a pethau yn Gymraeg i dysgu . 417324_422156
+*FER:	iawn dw i (y)n gallu mynd â pethau yn Gymraeg i dysgu . 417324_422156
 %eng:	okay, I can take things in Welsh to teach.
 *MER:	+< ia . 421335_422028
 %eng:	yes.
-*MER:	a wyt ti (y)n mynd i astudio cyfansoddi a arweinydd hefyd ? 422221_426477
+*MER:	a wyt ti (y)n mynd i astudio cyfansoddi a um arweinydd hefyd ? 422221_426477
 %eng:	and are you going to study composition and conducting as well?
 *FER:	na dw i ddim yn gwybod . 426658_427832
 %eng:	no, I don't know.
-*FER:	bydda i yn astudio (.) yn cyfansoddi ac os dw i (y)n gallu dau peth (.) xx wahanol iawn biotechnoleg . 428159_436639
-%eng:	I will study composition and if I can do two things, something very different, biotechnology.
-*MER:	yn La_Plata@s:cym&spa hefyd . 437008_438330
+*FER:	bydda i yn astudio (.) cyfansoddi ac os dw i (y)n gallu dau peth (..) xx wahanol iawn biotechnoleg . 428159_436639
+%eng:	I will study composition and if I can do two things, [...] very different, biotechnology.
+*MER:	yn [/] yn La_Plata@s:cym&spa hefyd . 437008_438330
 %eng:	in La Plata as well.
 *FER:	+< yn La_Plata@s:cym&spa . 437744_438864
 %eng:	in La Plata.
-*FER:	dim (.) pob [?] pwnciau . 439792_442341
+*MER:	iawn . 438601_439342
+%eng:	ok.
+*FER:	dim (..) pob [?] pwnciau . 439792_442341
 %eng:	not every subject.
 *MER:	ie . 442554_443280
 %eng:	yes.
 *FER:	dim_ond (.) tri xx am y blwyddyn . 442757_446213
-%eng:	only three a year.
+%eng:	only three [...] a year.
 *FER:	ie . 446471_447250
 %eng:	yes.
-*FER:	pob pwnc eh popeth +... 448007_450770
+*FER:	pob pwnc uh popeth +... 448007_450770
 %eng:	every subject, everything...
 *MER:	xxx cyfansoddi a +... 449991_451986
 %eng:	[...] composition and...
@@ -397,9 +398,9 @@
 %eng:	...of compostion.
 *FER:	a dim_ond dau neu &p tri o biotechnoleg . 452064_456373
 %eng:	and only two or three of biotechnology.
-*FER:	dw i ddim yn gwybod os biotechnoleg neu (.) alimentos@s:spa . 456629_459893
+*FER:	dw i (ddi)m yn gwybod os biotechnoleg neu (.) alimentos@s:spa . 456629_459893
 %eng:	I don't know if biotechnology or food.
-*MER:	o faint o amser ydy cyfansoddi ? 460372_463050
+*MER:	o faint o amser ydy (.) cyfansoddi ? 460372_463050
 %eng:	how much time is composition?
 *FER:	chwech . 463434_464255
 %eng:	six.
@@ -408,10 +409,10 @@
 *FER:	+< pump . 465962_466783
 %eng:	five.
 *FER:	xxx . 467739_469734
-*MER:	wyt ti (y)n mynd i [/] (.) i orffen y dau ? 469040_471760
-%eng:	are you going to complete the two?
-*FER:	na [=! laugh] dydw i ddim yn xxx . 472198_473659
-%eng:	no, I don't [...].
+*MER:	wyt ti mynd i [/] (.) i orffen y dau ? 469040_471760
+%eng:	are you going to complete both?
+*FER:	na [=! laugh] dydw i ddim +/. 472198_473659
+%eng:	no, I don't...
 *MER:	+< efallai . 472955_473627
 %eng:	maybe.
 *FER:	efallai os dw i (y)n gallu . 473766_475398
@@ -420,22 +421,24 @@
 %eng:	yes.
 *FER:	uh +... 477091_477507
 %eng:	er...
-*FER:	ond dw i ddim yn gallu inscribirme@s:spa (.) yn y dos@s:spa . 477795_481529
+*FER:	ond dw i ddim yn gallu inscribirme@s:spa (..) yn y dos@s:spa . 477795_481529
 %eng:	but I can't register in both.
 *MER:	pam ? 482041_482489
 %eng:	why?
 *FER:	dw i (ddi)m yn gwybod . 482745_483395
 %eng:	I don't know.
-*FER:	xxx . 483474_484818
+*FER:	xxx . 483449_486297
 *MER:	ah@s:cym&spa ie . 486386_487175
 %eng:	ah.
-*MER:	mae Feliciana@s:cym&spa yn mynd i dod ie . 488210_490087
+*MER:	mae Feliciana@s:cym&spa yn mynd <i dod ie> [?] . 488210_490087
 %eng:	Feliciana is going to come, yes.
-*FER:	felly rhaid i mi dechrau dau blwyddyn nesaf . 488984_492899
+*FER:	+< felly rhaid i mi dechrau dau blwyddyn nesa . 488984_492899
 %eng:	so I have to start the next two years.
-*FER:	a (.) os dw i (y)n gallu y blwyddyn nesaf (..) <byddai (y)n> [//] (.) <dw i (y)n mynd i dawns sals(a)@s:cym&spa> [//] dw i (y)n mynd i dysgu salsa@s:cym&spa a xx . 495236_507097
-%eng:	and if I can next year I'm going to learn salsa and [..].
-*FER:	achos (.) dw i wedi mynd i dosbarthau yma felly dw isio (..) continuar@s:spa [?] . 507262_514153
+*MER:	ie . 492806_493435
+%eng:	yes.
+*FER:	a (.) os dw i (y)n gallu y blwyddyn nesa (..) <byddai (y)n> [//] (.) <dw i mynd i (.) dawns sals(a)@s:cym&spa> [//] dw i (y)n mynd i dysgu salsa@s:cym&spa a xx +//. 495236_507097
+%eng:	and if I can next year I'm going to learn salsa and [..]...
+*FER:	achos (.) dw i wedi mynd i dosbarthau yma felly dw i isio (...) continuar@s:spa [?] . 507262_514153
 %eng:	because I have been to courses here, so I want to continue.
 *MER:	+< o@s:cym&spa mae (y)n ddiddorol . 507507_508702
 %eng:	oh, that's interesting.
@@ -445,33 +448,33 @@
 %eng:	and how many people from gaiman are going to study in La Plata or Buenos Aires next year?
 *FER:	La_Plata@s:cym&spa +... 519959_521111
 %eng:	La Plata...
-*MER:	wyt ti (y)n gwybod ? 520214_521089
+*MER:	+< wyt ti (y)n gwybod ? 520214_521089
 %eng:	do you know?
 *MER:	o (y)r uh Ysgol_Camwy@s:cym&spa ? 521131_522262
 %eng:	from Ysgol Camwy?
-*FER:	La_Plata@s:cym&spa mae Belinda@s:cym&spa yn dod i fyw efo fi . 522934_525761
+*FER:	La_Plata@s:cym&spa mae Belinda@s:cym&spa yn dod i fyw gyda fi . 522934_525761
 %eng:	La Plata, Belinda is coming to live with me.
 *FER:	Belinda@s:cym&spa . 526251_526827
 %eng:	Belinda.
-*MER:	a beth mae hi yn mynd i astudio ? 526923_528545
+*MER:	a beth mae hi (y)n mynd i astudio ? 526923_528545
 %eng:	and what is she going to study?
 *FER:	[- spa] geofísica . 528705_529846
 %eng:	geophysics
-*FER:	a <tri person> [//] tri o ffrindiau [/] (.) tri ffrindiau . 531801_539289
-%eng:	and three friends.
+*FER:	a <tri person> [//] tri ffrindiau [/] (.) tri ffrindiau (.) yn mynd i Buenos_Aires@s:cym&spa . 531801_539289
+%eng:	and three friends going to Buenos Aires.
 *MER:	+< mae (y)n ddiddorol . 532047_533007
 %eng:	that's interesting.
 *MER:	+< a mae (y)n anodd hefyd . 534148_535513
 %eng:	and it's difficult as well.
 *FER:	Imelda@s:cym&spa Luz@s:cym&spa y@s:spa Nina@s:cym&spa . 539470_542382
 %eng:	Imelda, Luz and Nina.
-*MER:	a beth mae hi (y)n mynd i astudio xxx ? 542830_545784
-%eng:	and what is she going to study [...]?
+*MER:	a beth mae hi (y)n mynd i <ast(udio) [///] be maen nhw mynd i astudio> [?] ? 542830_545784
+%eng:	and what is she going to study... what are they going to study?
 *FER:	+< mae Imelda@s:cym&spa yn mynd i wneud (.) kinesiología@s:spa . 543943_547378
 %eng:	Imelda is going to do kinesiology.
 *FER:	mae Luz@s:cym&spa (y)n mynd i wneud alimentos@s:spa . 547858_550066
 %eng:	Luz is going to do food.
-*FER:	ac mae Nina@s:cym&spa yn mynd i wneud (.) um (.) nutrición@s:spa . 550172_553639
+*FER:	ac mae Nina@s:cym&spa yn mynd i wneud um (.) nutrición@s:spa . 550172_553639
 %eng:	and Nina is going to do nutrition.
 *MER:	a Juan@s:cym&spa wyt ti (y)n gwybod ? 555174_556262
 %eng:	and Juan, do you know?
@@ -484,27 +487,27 @@
 *MER:	+< ah@s:cym&spa iawn . 559558_560251
 %eng:	ah, okay.
 *MER:	+< &=laugh . 560625_562118
-*FER:	ond (.) dydy hi ddim yn gwybod <os mae llawer mae os> [//] (.) mae [//] (.) <os mae pobl yn mynd i astudio> [//] os mae pobl arall yn mynd i astudio . 562536_571208
-%eng:	but she doesn't know if many more people are going to study.
+*FER:	ond (.) dydy hi ddim yn gwybod <os mae llawer xxx> [//] (.) mae [//] (.) os <mae pobl yn mynd i astudio> [//] mae pobl arall yn mynd i astudio . 562536_571208
+%eng:	but she doesn't know if many [...]... whether other people are going to study.
 *FER:	llawer o bobl yn mynd i aros yma . 572811_574742
 %eng:	many people are going to stay here.
 *MER:	+< yma yn Nhrelew@s:cym&spa neu +... 574528_576000
 %eng:	here in Trelew or...
-*FER:	ond dw i (ddi)m yn gwybod os maen nhw yn mynd i astudio . 576246_578123
-%eng:	but I don't know if he is going to study.
+*FER:	ond dw i (ddi)m yn gwybod os maen nhw mynd i astudio . 576246_578123
+%eng:	but I don't know whether they're going to study.
 *MER:	ia . 578390_579478
 %eng:	yes.
 *FER:	efallai . 580060_580999
 %eng:	maybe.
-*MER:	a pam dach chi yn mynd yn awr i [/] Drefelin@cym&spa beth dach chi (y)n mynd i wneud ? 581703_585095
-%eng:	and why are you going to Trefelin now, what are you going to do?
+*MER:	a pan dach chi yn mynd yn awr i [/] Drevelin@cym&spa beth dach chi (y)n mynd i wneud ? 581703_585095
+%eng:	and when you go to Trevelin now, what are you going to do?
 *MER:	dach chi yn mynd i +..? 586585_587811
 %eng:	are you going to...?
-*FER:	dan ni (y)n mynd i aros yn [/] yn Nhrefelin@s:cym&spa yn <y campamen(to)@s:spa> [///] en@s:spa otro@s:spa  mas@s:spa lindo@s:spa . 587993_594457
-%eng:	we're going to stay at the other, nicer camp in Trefelin.
+*FER:	dan ni (y)n mynd i aros yn [/] yn Nhrevelin@s:cym&spa yn <y campamen(to)@s:spa> [///] en@s:spa otro@s:spa mas@s:spa lindo@s:spa . 587993_594457
+%eng:	we're going to stay In Trevelin, at the other, nicer camp.
 *MER:	[- eng] +< camping . 593735_594482
 %eng:	camping.
-*FER:	camping@s:eng mynd . 595229_596551
+*FER:	<camping@s:eng mynd> [?] . 595229_596551
 %eng:	going camping.
 *FER:	xxx . 597340_598012
 *FER:	na xxx . 598300_599271
@@ -513,30 +516,32 @@
 %eng:	we are going to do walking...
 *MER:	dach chi (y)n mynd i wneud cyngerdd a dawnsio hefyd na . 607312_609648
 %eng:	are you going to do a concert and dancing as well, no.
-*FER:	does dim cyngerdd y flwyddyn yma . 609680_611227
-%eng:	there is no concert this year.
+*FER:	+< na does dim cyngerdd y flwyddyn yma . 609247_611227
+%eng:	no, there is no concert this year.
 *MER:	pam ? 611302_611782
 %eng:	why?
 *FER:	dw i (ddi)m yn gwybod . 611846_612560
 %eng:	I don't know.
-*FER:	a dan ni ddim yn gallu mynd i (y)r desfile@s:spa (.) o (y)r dydd o Trefelin@s:cym&spa . 614145_618903
-%eng:	and we can't go to the parade of the day from Trefelin.
-*MER:	chwaith ? 618156_618924
-%eng:	not either?
+*FER:	a dan ni ddim yn gallu mynd i (y)r desfile@s:spa (.) o (y)r dydd o Trevelin@s:cym&spa . 614145_618903
+%eng:	and we can't go to the parade of the day from Trevelin.
+*MER:	++ chwaith ? 618156_618924
+%eng:	...either?
 *MER:	pam ? 619063_619628
 %eng:	why?
 *FER:	achos +/. 619735_620471
 %eng:	because...
 *MER:	dach chi (y)n dod (.) yn gyntaf ? 620567_622561
 %eng:	are you coming first?
-*FER:	+< na dan ni yn mynd i La_Trochita@s:cym&spa [?] . 621559_624204
+*FER:	+< na (.) dan ni (y)n mynd i La_Trochita@s:cym&spa [?] . 621559_624204
 %eng:	no, we are going to La Trochita.
 *MER:	ah@s:cym&spa xxx . 624808_626653
 %eng:	ah, [...].
-*FER:	mae (y)n adael [?] i ti ddewis (..) beth wyt ti (y)n y@s:spa [/] y@s:spa perdóname@s:spa xxx me@s:spa iba@s:spa a@s:spa gustar@s:spa más@s:spa de@s:spa xxx . 625606_634514
-%eng:	it gives you the choice what you and excuse me [...] I was going to like [...] more.
+*FER:	xxx ti (.) ddewis (..) beth wyt ti (y)n +//. 625569_630469
+%eng:	[...] you choosing what you...
+*FER:	y@s:spa perdóname@s:spa xxx me@s:spa iba@s:spa a@s:spa gustar@s:spa más@s:spa de@s:spa xxx . 630795_634514
+%eng:	and excuse me [...] I was going to like [...] more.
 *MER:	mm +... 634539_634998
-%eng:	mm.
+%eng:	mm...
 *FER:	felly ah@s:cym&spa does dim cyngerdd . 635873_637974
 %eng:	so ah, there is no concert.
 *MER:	dach chi (y)n mynd i (y)r ysgol un_deg wyth ? 637025_638955
@@ -545,17 +550,17 @@
 %eng:	eighteen?
 *FER:	ah@s:cym&spa dw i ddim yn gwybod . 640640_642858
 %eng:	ah, I don't know.
-*FER:	i (y)r ysgol un_deg ddau mae (y)n xxx . 643914_645984
+*FER:	i (y)r ysgol un_deg ddau <dw i (y)n meddwl> [?] . 643914_645984
 %eng:	to school 12 I think.
 *FER:	neu i (y)r ysgol dau . 646925_648141
 %eng:	or to school 2?
-*MER:	un_deg wyth ydy (y)r ysgol cyntaf yn y Trefelin@s:cym&spa . 648183_650967
-%eng:	18 is the first school in Trefelin.
-*FER:	efallai dw i <ddim yn> [/] ddim yn cofio . 651085_653303
+*MER:	un_deg wyth ydy (y)r ysgol cyntaf yn y Trevelin@s:cym&spa . 648183_650967
+%eng:	18 is the first school in Trevelin.
+*FER:	efallai dw i ddim [/] ddim yn cofio . 651085_653303
 %eng:	maybe, I don't remember.
 *MER:	ie siŵr o fod . 653431_655213
 %eng:	yes, probably.
-*FER:	does dim rhaid i ni uh (.) paratoi ddawnswyr <yn y &k> [//] achos does dim cyngerdd . 656198_661467
+*FER:	does dim rhaid i ni uh (.) paratoi ddawnswyr <yn y &k> [?] [//] achos does dim cyngerdd . 656198_661467
 %eng:	we don't need to prepare dancers because there is no concert.
 *MER:	ie . 661537_661766
 %eng:	yes.
@@ -597,9 +602,9 @@
 %eng:	in the morning.
 *MER:	iawn . 687954_688322
 %eng:	okay.
-*FER:	dan ni (y)n cyrraedd i Trefelin@s:cym&spa +/. 689367_691623
-%eng:	we'll arrive at Trefelin...
-*MER:	++ tua pump achos +... 692130_693346
+*FER:	dan ni (y)n cyrraedd i Trevelin@s:cym&spa +/. 689367_691623
+%eng:	we'll arrive at Trevelin...
+*MER:	++ tua pump achos +... v692130_693346
 %eng:	...around five because...
 *FER:	os (.) mae +/. 694616_696477
 %eng:	if...
@@ -609,8 +614,8 @@
 %eng:	...everything is okay we'll arrive at five.
 *FER:	ac <dan ni (y)n (.) &para> [//] eh@s:cym&spa dan ni (y)n (.) eh@s:cym&spa paratoi +/. 700475_705873
 %eng:	and we'll put up...
-*MER:	++ eh@s:cym&spa pabell ? 706214_706918
-%eng:	...a tent?
+*MER:	++ y [?] pabell ? 706214_706918
+%eng:	...the tent?
 *FER:	+, y pabell . 706993_707921
 %eng:	...the tent.
 *FER:	ac wedyn bwyta . 708464_710800
@@ -621,18 +626,16 @@
 %eng:	and you'll proably sing and dance.
 *FER:	canu dawnsio (.) a cysgu . 712592_715429
 %eng:	sing, dance and sleep.
-*MER:	trwy (y)r nos . 714085_715674
+*MER:	+< trwy (y)r nos . 714085_715674
 %eng:	all night.
-*FER:	dw i (ddi)m yn gwybod . 716381_718173
-%eng:	I don't know.
-*MER:	&=laugh . 716626_718215
-*FER:	oedden ni &k cysgu . 718305_719649
-%eng:	if we will sleep.
+*FER:	dw i (ddi)m yn gwybod (..) os dan ni &k cysgu ! 716639_719649
+%eng:	I don't know whether we sleep!
+*MER:	+< &=laugh . 716626_718215
 *FER:	um a dydd Mawrth (.) dan ni (y)n mynd dw i meddwl i Los_Alerces@s:cym&spa . 719723_724801
 %eng:	and on Tuesday we are going to Los Alerces I think.
 *MER:	ie . 724769_725441
 %eng:	yes.
-*FER:	dydd Mercher bydden ni (y)n mynd i La_Trochita@s:cym&spa . 725842_728445
+*FER:	dydd Mercher dan ni (y)n mynd i La_Trochita@s:cym&spa . 725842_728445
 %eng:	on Wednesday we're going to La Trochita.
 *FER:	dydd (.) Iau (.) xx uh +/. 728743_732530
 %eng:	Thursday [..] ...
@@ -640,8 +643,8 @@
 %eng:	to [...].
 *FER:	ah@s:cym&spa dydd Iau xxx . 734197_735594
 %eng:	ah, Thursday [...].
-*FER:	ah@s:cym&spa dydd Mawrth (.) dan ni (y)n mynd i fynd i (y)r Hotel_Argentina@s:spa neu ryw xxx boliche@s:spa si@s:spa hay@s:spa abierto@s:spa . 735715_744035
-%eng:	ah, on Tuesday we are going to go to Hotel Argentina or some bowling place if there's one open.
+*FER:	ah@s:cym&spa dydd Mawrth uh dan ni (y)n mynd i fynd i Hotel_Argentina@s:spa neu ryw xxx boliche@s:spa si@s:spa hay@s:spa abierto@s:spa . 735715_744035
+%eng:	ah, on Tuesday we are going to go to Hotel Argentina or some bowling [...] if there's one open.
 *MER:	+< o@s:cym&spa ie . 740622_741209
 %eng:	oh, yes.
 *MER:	ie . 743374_743747
@@ -655,7 +658,7 @@
 %eng:	yes.
 *FER:	a dydd Gwener dw i ddim yn cofio . 750789_752687
 %eng:	and Friday I don't remember.
-*FER:	a dan ni (y)n dod (e)to i Gaiman@s:cym&spa dydd Sadwrn . 752826_756293
+*FER:	a dan ni (y)n dod eto i Gaiman@s:cym&spa dydd Sadwrn . 752826_756293
 %eng:	and we're coming to Gaiman again on Saturday.
 *MER:	ah@s:cym&spa dim_ond pump diwrnod . 756592_758171
 %eng:	ah, only five days.
@@ -667,8 +670,8 @@
 %eng:	from Monday until Saturday.
 *MER:	+< dydd Llun tan dydd Sadwrn . 762030_763630
 %eng:	Monday to Saturday.
-*MER:	pan (.) roedden ni wedi bod yn Nhrefelin@s:cym&spa eh@s:cym&spa fuon ni (.) deg diwrnod dw i (y)n meddwl . 764385_771798
-%eng:	when we had been to Trefelin, we went for ten days I think.
+*MER:	pan (.) roeddwn i wedi bod yn Nhrefelin@s:cym&spa eh@s:cym&spa fuon ni (.) deg diwrnod dw i (y)n meddwl . 764385_771798
+%eng:	when I had been to Trefelin, we went for ten days I think.
 *FER:	deg diwrnod ? 772214_773153
 %eng:	ten days?
 *MER:	ie ie mwy na un wythnos . 772610_774924
@@ -681,32 +684,34 @@
 %eng:	yes, maybe.
 *MER:	dw i ddim yn gwybod . 784627_785630
 %eng:	I don't know.
-*MER:	a beth wyt ti (y)n mynd i wneud yn awr ? 788151_790145
+*MER:	a beth wyt ti mynd i wneud yn awr ? 788151_790145
 %eng:	and what are you going to do now?
 *FER:	wel rhaid i fi mynd i (.) Trelew@s:cym&spa i prynu (.) cyfrifiadur . 790523_795643
 %eng:	well, I have to go to Trelew to buy a computer.
-*MER:	ah@s:cym&spa . 795760_796411
-%eng:	ah.
+*MER:	o@s:cym&spa . 795760_796411
+%eng:	oh.
 *FER:	&=laugh . 796603_797499
-*FER:	a wedyn rhaid i mi ddarllen [=! laugh] . 798119_801703
+*FER:	a (.) wedyn rhaid i mi ddarllen [=! laugh] . 798119_801703
 %eng:	and then I have to read.
 *MER:	wyt ti (y)n mynd ar y bws ? 801767_802813
-%eng:	do you go on the bus?
+%eng:	are you going on the bus?
 *MER:	neu yn y car efo (.) dy mam neu +... 803005_804935
 %eng:	or in the car with your mum or...
 *FER:	na dw i (y)n mynd efo nain . 804562_806749
 %eng:	no, I'm going with grandma.
-*FER:	ac wedyn rhaid i fi ddewis xx +/. 808488_810354
+*FER:	ac wedyn rhaid i mi ddewis xx +/. 808488_810354
 %eng:	and then I have to choose...
 *MER:	+< oes arholiadau wythnos yma (.) yn y prifysgol ? 809992_813298
 %eng:	are there exams this week at the university?
-*FER:	+< llawer achos dw i wedi (.) symud popeth i <y &blwy> [/] yr wythnos nesaf achos dw i (y)n mynd i Buenos_Aires@s:cym&spa (.) blwyddyn nesaf . 812296_819250
+*FER:	+< llawer achos dw i wedi (.) symud popeth i <y blwydd(yn)> [//] yr wythnos nesaf achos dw i (y)n mynd i Buenos_Aires@s:cym&spa (.) blwyddyn nesaf . 812296_819250
 %eng:	many because I have moved everything to next week because I'm going to Buenos Aires next year.
 *MER:	mm +... 819206_819569
-%eng:	mm.
-*FER:	felly rhaid i mi ah@s:cym&spa gwaith cartref a popeth . 819729_823654
-%eng:	so I have to do homework and everything.
-*MER:	mae rhaid i mi fynd yn awr achos mae Clement@s:cym&spa fy ffrind yn aros yn yr ysgol gerdd yma . 825090_829912
+%eng:	mm...
+*FER:	felly rhaid i mi +//. 819700_820841
+%eng:	so I have to...
+*FER:	a (.) gwaith cartref a popeth . 820852_823654
+%eng:	and homework and everything.
+*MER:	mae rhaid i mi fynd yn awr achos mae Clement@s:cym&spa fy ffrind (.) yn aros yn yr ysgol gerdd yma . 825090_829912
 %eng:	I have to go now because my friend Clement is waiting here at the music school.
 *FER:	ah@s:cym&spa wyt ti (y)n mynd i Trelew@s:cym&spa nawr ? 830136_832152
 %eng:	ah, are you going to Trelew now?
@@ -714,19 +719,19 @@
 %eng:	yes, now.
 *FER:	iawn wel +/. 832725_834379
 %eng:	okay, then...
-*MER:	welai di wythnos nesaf ? 834603_835947
+*MER:	wela i di wythnos nesaf ? 834603_835947
 %eng:	see you next week?
 *FER:	iawn . 836085_836715
 %eng:	okay.
 *MER:	neu wythnos nesaf wyt ti (y)n mynd i La_Plata@s:cym&spa ? 836885_838667
 %eng:	or next week you're going to La Plata?
-*FER:	na er dw i er +... 838698_840650
+*FER:	na (.) dw i uh +... 838698_840650
 %eng:	no, I am...
-*FER:	wel er ti fory ? 840767_843039
-%eng:	well, and you tomorrow?
+*FER:	wela [?] (.) ti fory ? 840767_843039
+%eng:	see you tomorrow?
 *MER:	mm dw i (ddi)m yn gwybod . 843487_844735
 %eng:	mm, I don't know.
-*MER:	ah@s:cym&spa <os dw i> [/] os dw i (y)n mynd i cyngerdd ia . 844362_847946
+*MER:	ah@s:cym&spa <os dw i> [/] os dw i (y)n mynd i cyngerdd ia . 844915_847309
 %eng:	ah, if I go to the concert, yes.
 *FER:	+< os wyt ti (y)n mynd i (y)r cyngerdd . 846276_847898
 %eng:	if you go to the concert.
@@ -746,14 +751,12 @@
 *MER:	o_k@s:cym&spa . 855236_855674
 %eng:	okay.
 *MER:	rhaid i ni wneud parti . 855964_857212
-%eng:	We have to have a party.
+%eng:	we have to have a party.
 *FER:	+< xx . 856679_856903
 *FER:	ah@s:cym&spa dydd Sadwrn (.) dan ni (y)n gallu wneud . 858311_861276
-%eng:	ah, on Saturday we can do.
+%eng:	ah, on Saturday we can do it.
 *MER:	+< ie . 859740_860092
 %eng:	yes.
 *FER:	mae (.) llawer o pobl <yn wneud> [//] yn [/] <yn isio wneud parti dydd Sadwrn> [=! laugh] . 862151_866940
 %eng:	many people want to have a party on Saturday.
-*MER:	+< mm +... 866332_866684
-%eng:	mm.
 @End
