@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -198,11 +197,11 @@
 %eng:	for what?
 *VTR:	i lan y môr . 184061_184963
 %eng:	to the seaside.
-*EZK:	neu well gen ti Playa_León@s:spa ? 184957_186355
-%eng:	or do you prefer Playa León?
+*EZK:	neu well gen ti Playa_Unión@s:spa ? 184957_186355
+%eng:	or do you prefer Playa Unión?
 *SLA:	a +/. 188484_189076
 %eng:	and...
-*EZK:	neu Porth_Martyr@s:cym&spa ? 189081_189918
+*EZK:	neu Porth_Martyr@s:cym&spa [?] ? 189081_189918
 %eng:	or Porth Martyr?
 *VTR:	y tri o nhw . 193724_194710
 %eng:	all three.
