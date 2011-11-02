@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -12,10 +12,9 @@
 @Time Duration:	00:30:02
 @Media:	Patagonia32, audio
 @Comment:	Filename: Patagonia32.cha; Soundfile: Patagonia32.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English,
-@s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	Spanish translations could do with checking and completing.
-*LOL:	ond oedd hi (y)n deud fod o rhy wlyb fan (y)na eh@s:cym&spa . 0_1805
+*LOL:	ond oedd hi (y)n deud fod o rhy wlyb fan (y)na oedd . 0_1805
 %eng:	but she said it was too wet there.
 *LOL:	<mae o (y)n> [/] mae o (y)n cadw yn ddamp ddamp . 1846_3529
 %eng:	it stays very damp.
@@ -23,10 +22,10 @@
 %eng:	yes.
 *JOS:	ond mae (y)r arth [?] yn [/] (..) uh yn +... 7740_10184
 %eng:	but the bear..
-*LOL:	++ baeddu (y)n bob man . 11536_12523
-%eng:	...makes the place all dirty.
+*LOL:	++ yn baeddu (y)n bob man . 11404_12523
+%eng:	...fouls everywhere.
 *JOS:	xxx yn baeddu ac yn gadael (..) darnau o +/. 11834_16089
-%eng:	[...] makes it dirty and leaves pieces of...
+%eng:	[...] fouls and leaves pieces of...
 *LOL:	++ esgyrn . 16112_16559
 %eng:	...bones.
 *JOS:	+, esgyrn (.) yng nghanol y gwair . 16896_19468
@@ -52,10 +51,8 @@
 %eng:	okay, what else do we need?
 *LOL:	mmhm bydd raid i ni +... 50408_51673
 %eng:	mmhm, we will need to...
-*LOL:	<fedrwn ni fynd> [/] (.) ia fedrwn ni fynd cyn cinio . 53294_56492
-%eng:	yes, we can go before lunch.
-*LOL:	xxx i nôl xxx . 57220_58352
-%eng:	[...] to fetch [...].
+*LOL:	<fedrwn ni fynd> [/] (.) ia fedrwn ni fynd cyn cinio (..) rŵan i nôl xx . 53294_58441
+%eng:	yes, we can go before lunch now, to get some [...].
 *JOS:	+< eh@s:cym&spa ? 57957_58415
 %eng:	eh?
 *JOS:	hwyrach mm +... 58520_59623
@@ -64,13 +61,14 @@
 %eng:	yes.
 *JOS:	be wneith (.) parti Iolo@s:cym&spa efo (y)r bwyd . 61157_63072
 %eng:	what will Iolo's party with the food.
-*JOS:	xxx wneud y bwyd ei hunan . 63050_64658
-%eng:	[...] make the food himself.
+*JOS:	<oedd o (y)n> [?] wneud y bwyd ei hunan . 63050_64658
+%eng:	he used to make the food himself.
 *LOL:	ia . 64751_64989
 %eng:	yes.
-*LOL:	xxx . 66554_69178
-*LOL:	a be mae o yn mynd i fwyta ? 70072_71558
-%eng:	and what is he going to eat?
+*LOL:	<yntau oedd y problem> [?] . 66508_67570
+%eng:	that was the problem.
+*LOL:	mi oedd xxx byth ynglŷn â [//] (..) ag be mae o yn mynd i fwyta . 67541_71558
+%eng:	[...] never used to [...] in relation to what he's going to eat.
 *LOL:	&=cough brynwn ni rywbeth reit hawdd i wneud a +... 74267_77478
 %eng:	we'll buy something easy to make and...
 *JOS:	a mae (y)r slipars efo fi maen nhw (y)n dechrau torri . 79833_83101
@@ -86,7 +84,7 @@
 %eng:	when they will have had the wool money.
 *LOL:	+< &=laugh . 97104_98027
 *LOL:	&=laugh . 98364_99478
-*LOL:	o@s:cym&spa diar &=laugh . 99528_101816
+*LOL:	o@s:cym&spa dear@s:eng &=laugh . 99528_101816
 %eng:	oh dear.
 *JOS:	ddim [/] ddim [/] (.) ddim cyflog yn ffyddlon efo ni bob mis . 101967_105461
 %eng:	we don't have a reliable salary every month.
@@ -94,26 +92,27 @@
 *LOL:	&=laugh . 105620_107065
 *LOL:	o@s:cym&spa . 108310_108977
 %eng:	oh.
-*LOL:	<dw ddim we(di)> [/] dw i ddim wedi gweld rei fatha rei (y)na wyt ti yn gwisgo . 111158_114426
+*LOL:	<dw (ddi)m we(di)> [/] dw i (ddi)m wedi gweld rei fath â rei (y)na wyt ti yn gwisgo . 111158_114426
 %eng:	I haven't seen any like the ones you're wearing.
-*LOL:	dw i ddim yn gwybod os ydy nhw wedi dod xxx . 114958_116595
+*LOL:	dw i ddim yn gwybod os ydy nhw wedi dod â [?] xx . 114958_116595
 %eng:	I don't know if they have brought [...].
 *JOS:	xxx . 116694_117727
 *LOL:	+< i (y)r madrileña@s:spa maen nhw (y)n addo dod â nhw . 117007_119190
 %eng:	they promise to bring them for the woman from Madrid.
-*JOS:	maen nhw [/] (.) maen nhw i gael yn rywle ydyn nhw . 119141_121736
-%eng:	they are avialable someone, aren't they.
-*LOL:	+< xxx . 119454_120081
-*LOL:	xxx &=laugh . 121742_123280
+*JOS:	maen nhw [/] (.) maen nhw i gael yn rywle siŵr . 119141_121736
+%eng:	they must be available somewhere.
+*LOL:	+< bydd raid gofyn . 119454_120081
+%eng:	have to ask.
+*LOL:	bydd raid i ni fynd i ofyn &=laugh . 121742_123280
+%eng:	we'll have to go and ask.
 *JOS:	ddim licio (y)r slipars mawr (y)na sy (y)n dod rŵan (.) i (y)r bobl ifanc . 127328_131084
-%eng:	don't like those big slippers that are coming for the young people now.
-*LOL:	mmhm . 131183_132013
-%eng:	mmhm.
+%eng:	don't like those big slippers that are coming along for the young people now.
+*LOL:	xx . 131183_132013
 *LOL:	maen nhw (y)n gyfforddus iawn . 132634_133842
 %eng:	they are very comfortable.
-*LOL:	fasai ti (y)n gwisgo pâr o rei (y)na un waith fasai ti (y)n gweld mor [?] +... 134085_136814
+*LOL:	(ba)set ti (y)n gwisgo pâr o rei (y)na un waith (ba)set ti (y)n gweld mor [?] +... 134085_136814
 %eng:	if you wore a pair of those once you'd see how...
-*JOS:	+< na maen nhw (y)n rhy fawr . 136164_137841
+*JOS:	+< na maen nhw (y)n rhy mawr . 136164_137841
 %eng:	no, they are too big.
 *LOL:	meddal neis ac yn arbennig ar gyfer cerdded i bob [/] (.) bob man . 138004_142863
 %eng:	nice and soft, especially for walking all over the place.
@@ -147,23 +146,23 @@
 %eng:	huh...
 *JOS:	lle [?] mae wedi < brynu fo> [?] ? 173423_175251
 %eng:	where has he bought it?
-*JOS:	dod a fo o Cymru siŵr . 176375_177919
-%eng:	has brought it from Wales probably.
+*JOS:	dod â fo o Cymru siŵr . 176375_177919
+%eng:	must have brought it from Wales.
 *JOS:	eh@s:cym&spa ? 179684_180334
 %eng:	eh?
 *LOL:	&=cough . 180859_181509
-*JOS:	(fa)sai fo (y)n ffitio i fi ? 182060_183343
+*JOS:	(ba)sai fo (y)n ffitio i fi ? 182060_183343
 %eng:	would it fit me?
-*LOL:	ia ? 183725_184137
-%eng:	would it?
+*LOL:	eh@s:cym&spa ? 183725_184137
+%eng:	what?
 *JOS:	(h)wyrach (fa)sai fo (y)n ffitio fi &=laugh . 184352_186424
 %eng:	maybe it would fit me.
 *LOL:	ia . 187510_188073
 %eng:	yes.
 *LOL:	ia wir . 190438_191303
 %eng:	yes, indeed.
-*JOS:	a mae xxx wedi mynd â tarw xxx exposición@s:spa . 192712_197437
-%eng:	and [...] has taken a bull [...] exhibition.
+*JOS:	a mae xxx wedi mynd â tarw <ddaru o> [?] brynu (y)n yr exposición@s:spa . 192712_197437
+%eng:	and [...] has taken a bull that he bought at the exhibition.
 *JOS:	&=grunt . 198793_199339
 *JOS:	fe brynodd o (..) tarw i [/] (.) i Joseph@s:cym&spa . 199388_203422
 %eng:	he bought a bull for Joseph.
@@ -173,35 +172,39 @@
 %eng:	yes.
 *JOS:	siŵr bod o (.) wedi mynd â nhw lawr (.) i (y)r afon fawr . 205515_209503
 %eng:	I'm sure he has taken them down to the big river.
-*LOL:	ffordd oedd o (y)n mynd a nhw ynde ? 210205_211477
-%eng:	how did he take them?
+*LOL:	<ffordd oedd o> [?] (y)n mynd â nhw te [?] ? 210205_211477
+%eng:	how did he take them then?
 *LOL:	ah@s:cym&spa talu talu rywun mynd nhw . 211831_213752
 %eng:	ah, paying, he paid someone to take them.
 *JOS:	ia siŵr . 213864_214438
 %eng:	yes, of course.
 *LOL:	ah@s:cym&spa . 214554_215083
 %eng:	ah.
-*JOS:	talu tryc yn mynd a nhw . 216499_217712
+*JOS:	talu tryc yn mynd â nhw . 216499_217712
 %eng:	paid a lorry to take them.
-*LOL:	ah@s:cym&spa ia . 217753_218618
-%eng:	ah, yes.
-*LOL:	xxx dim ond tarw oedd o (y)n prynu neu oedd o yn prynu heffrod fyd ? 221078_223835
-%eng:	[...], did he only buy a bull, or did he buy heiffers as well?
-*JOS:	+< xxx . 223180_223806
+*LOL:	o@s:cym&spa dear@s:eng . 217753_218618
+%eng:	oh dear.
+*LOL:	<be y@s:spa> [?] dim ond tarw oedd o (y)n prynu neu oedd o yn prynu heffrod (he)fyd ? 221078_223835
+%eng:	what, and did he only buy a bull, or did he buy heiffers as well?
+*JOS:	[- spa] +< <no no> [?] . 223180_223806
+%eng:	no no.
 *JOS:	[- spa] compró compró dos (.) compró dos toros . 223928_226772
-%eng:	he bought,he bought two, he bought two bulls.
+%eng:	he bought, he bought two, he bought two bulls.
 *LOL:	o@s:cym&spa . 227022_227510
 %eng:	oh.
 *JOS:	[- spa] porque yo ahora no . 227724_228555
 %eng:	because I don't now.
 *LOL:	o@s:cym&spa yndy . 229547_230563
 %eng:	oh, yes.
-*LOL:	a be fydd o (y)n wneud efo heffrod ni fydd o (y)n inseminar@s:spa nhw neu +..? 238051_241342
-%eng:	and what will he do with our heifers, will he inseminate them or...?
-*JOS:	dw i yn gwybod be mae o (y)n wneud . 242992_244263
-%eng:	I know what he does.
+*LOL:	a be fydd o (y)n wneud efo heffrod ni ? 238051_239609
+%eng:	and what will he do with our heifers?
+*LOL:	fydd yn inseminar@s:spa nhw neu +..? 239580_241484
+%eng:	will he inseminate them or...?
+%com:	Spanish verb insertion
+*JOS:	dw i (ddi)m [?] gwybod be mae o (y)n wneud . 242992_244263
+%eng:	I don't know what he does.
 *JOS:	&=noise . 247481_248746
-*LOL:	a be (dy)wedodd y gwas (.) yn [/] yn xxx ? 251259_253663
+*LOL:	a be ddywedodd y gwas (.) yn [/] yn xxx ? 251259_253663
 %eng:	and what did the servant say in [...]?
 *LOL:	(y)dy o (y)n meddwl dod i [/] i weld y doctor@s:cym&spa eto neu be mae o (y)n mynd i wneud ? 253760_256593
 %eng:	is he thinking of coming to see the doctor again, or what is he going to do?
@@ -225,16 +228,14 @@
 %eng:	does he feel alright, or does he complain?
 *JOS:	yndy mae (y)n iawn de . 279267_280968
 %eng:	yes, he is fine.
-*LOL:	(dy)dy o heb gael rywbeth i gym(r)yd <ryw neu dim_byd> [?] dw i (ddi)m gwybod +..? 282512_285095
-%eng:	does he get something to take, something or other, I don't know?
+*LOL:	(dy)dy o (y)n cael rywbeth i gym(r)yd ryw meddyginiaeth [?] ti (y)n gwybod ? 282512_285095
+%eng:	does he get anything to take, any medication, do you know?
 *JOS:	+< dw i (ddi)m yn gwybod . 284608_285327
 %eng:	I don't know.
-*JOS:	dw i (ddi)m yn gwybod . 285293_285699
+*JOS:	dw (ddi)m (gwy)bod . 285293_285699
 %eng:	I don't know.
-*LOL:	na . 285658_286007
-%eng:	no.
-*LOL:	diar mi . 288758_289391
-%eng:	oh dear.
+*LOL:	&=grunt . 285658_286007
+*LOL:	[- eng] dear me . 288758_289391
 *LOL:	&=cough . 291929_292625
 *JOS:	[- spa] xxx hoy no hubo novedades en la televisión ? 296482_299315
 %eng:	was there anything new on tv today ?
@@ -250,8 +251,8 @@
 *JOS:	[- spa] xxx en la mañana . 309997_311651
 %eng:	[...] in the morning.
 *LOL:	&=cough . 311750_313062
-*JOS:	<mae (y)r uh> [/] <mae (y)r bore> [/] mae (y)r bore yn mynd yn gloi . 316507_319851
-%eng:	the morning is going quickly.
+*JOS:	<mae (y)r uh> [/] <mae (y)r bore> [/] mae (y)r bore yn mynd yn blaen . 316507_319851
+%eng:	the morning is getting on.
 *JOS:	fydda i ddim wneud dim_byd yn diwedd . 320633_322235
 %eng:	I won't have done anything in the end.
 *LOL:	huh@s:cym&spa ? 324547_324953
@@ -260,36 +261,36 @@
 %eng:	not finished yet.
 *JOS:	eh@s:cym&spa ? 326422_326892
 %eng:	eh?
-*LOL:	(dy)dy (y)r bore ddim wedi gorffen eto medda fi . 327095_328936
-%eng:	the morning isn't over yet I said.
+*LOL:	(dy)dy (y)r bore ddim wedi gorffen eto meddai fi . 327095_328936
+%eng:	the morning isn't over yet, I said.
 *JOS:	o@s:cym&spa <mae o> [/] mae o ar ei hanner . 329011_332691
 %eng:	oh, it's half way.
 *LOL:	+< xxx . 331460_332302
-*LOL:	mi awn ni allan i +... 333074_334432
-%eng:	we will go out to...
+*LOL:	gawn ni amser i +... 333074_334432
+%eng:	we'll have time to...
 *JOS:	++ wneud rywbeth . 336029_336435
 %eng:	...do something.
 *LOL:	i fynd i nôl (.) tipyn o neges cyn mynd . 336472_339340
 %eng:	to go and do some shopping before going.
 *LOL:	mm +... 342182_342884
-%eng:	mm.
-*JOS:	ar_ôl <i (y)r> [/] (.) i (y)r boi (..) yr boi Bangor@s:cym&spa yma gorffen efo ni &=laugh . 342931_352451
-%eng:	once that guy from bangor has finished with us.
+%eng:	mm...
+*JOS:	ar_ôl <i (y)r> [/] (.) i <(y)r boi> [/] (..) yr boi Bangor@s:cym&spa yma gorffen efo ni &=laugh . 342931_352451
+%eng:	once that guy from Bangor has finished with us.
 *LOL:	&=laugh . 349015_354437
-*LOL:	ìa &=cough . 354452_356507
+*LOL:	ia &=cough . 354452_356507
 %eng:	yes.
 *JOS:	oedd (y)na ddigon o fwyd hen(o) [//] uh neithiwr yn y swper . 358419_362053
-%eng:	there was enough food at the supper last night.
-*LOL:	oedd <o(eddw)n i> [/] <o(eddw)n i> [/] o(eddw)n i (y)n gweld xxx fod (y)na fwyd neis . 362629_365659
+%eng:	there was enough food at the dinner last night.
+*LOL:	oedd <o(eddw)n i> [/] <o(eddw)n i> [/] o(eddw)n i (y)n gweld <na fod o (y)n> [?] fwyd neis . 362629_365659
 %eng:	yes, I saw that there was nice food.
 *LOL:	ond o(eddw)n i +"/. 365834_366310
 %eng:	but I went:
-*LOL:	+" o@s:cym&spa oh na well i fi beidio bwyta +". 366368_368156
+*LOL:	+" o@s:cym&spa o@s:cym&spa na well i fi beidio bwyta . 366368_368156
 %eng:	"oh, I'd better not eat."
-*LOL:	achos o(eddw)n i (we)di bwyta (.) dipyn o deisen yn_ystod y pnawn . 368225_370791
+*LOL:	achos o(eddw)n i (we)di bwyta (.) dipyn o deisen yn_ystod y pnawn . 368064_370791
 %eng:	because I had eaten quite a bit of cake during the afternoon.
-*JOS:	oedd (y)na rywun [/] rywun wedi mynd a twrci (y)na . 371019_373445
-%eng:	someone had brought a turkey there.
+*JOS:	oedd (y)na rywun [/] rywun wedi mynd â twrci (y)na . 371019_373445
+%eng:	someone had taken a turkey there.
 *LOL:	twrci ? 373840_374432
 %eng:	a turkey?
 *JOS:	ia . 374548_374839
@@ -297,7 +298,7 @@
 *LOL:	hmm +... 374978_375466
 %eng:	hmmm...
 *JOS:	bwytais i (.) darn o dwrci . 375744_377671
-%eng:	I ate a pieve of turkey.
+%eng:	I ate a piece of turkey.
 *LOL:	mm +... 378914_379483
 %eng:	mm...
 *LOL:	oedd oedd (y)na lot [//] digon o fwyd i weld (y)na . 380110_382281
@@ -308,70 +309,73 @@
 %eng:	no, it was a turkey.
 *LOL:	o@s:cym&spa . 386480_387362
 %eng:	oh.
-*LOL:	a <roedd yna> [/] oedd yna griw o bobl yna yn_doedd ? 389545_391588
+*LOL:	a <roedd yna> [/] oedd yna griw o bobl (y)na yn_doedd ? 389545_391588
 %eng:	and there were quite a few people there, weren't there?
-*LOL:	oedd faint ? 391623_392029
-%eng:	how many were there?
-*JOS:	+< xxx . 391844_392401
-*LOL:	oedd siŵr bod (y)na &d dros hanner cant yn_doedd ? 392099_395106
-%eng:	I'm sure there were over fifty, weren't there?
-*JOS:	oedd mae (y)n siŵr . 394804_395652
-%eng:	yes, probably.
-*JOS:	siŵr . 395640_395884
-%eng:	yes.
+*LOL:	<dw (ddi)m (gwyb)od> [?] faint . 391623_392029
+%eng:	I don't know how many.
+*JOS:	+< oedd . 391844_392401
+%eng:	yes
+*LOL:	ond siŵr bod (y)na &d dros hanner cant yn_doedd ? 392099_395106
+%eng:	but I'm sure there were over fifty, weren't there?
+*JOS:	oedd mae (y)n siŵr siŵr . 394804_396143
+%eng:	yes, must have been, I'm sure.
 *LOL:	mm +... 396911_397642
 %eng:	mm.
-*LOL:	<oedd (y)na> [/] (.) oedd yna fwyd yn sbâr ar y bwrdd wedyn yn y +/. 398908_401857
+*LOL:	<oedd (y)na> [/] (.) oedd (y)na fwyd yn sbâr ar y bwrdd wedyn yn y +/. 398908_401857
 %eng:	there was food left over on the table afterwards at the...
 *JOS:	o@s:cym&spa oedd ? 401903_402263
 %eng:	was there?
 *LOL:	+, yn y diwedd . 402298_403169
 %eng:	...at the end.
-*JOS:	doedd (y)na ddim canu yna . 406088_407888
-%eng:	there was no singing.
-*JOS:	tro cynta i [/] (.) i Cymry wneud rywbeth heb canu ddim_byd . 408027_412427
+*JOS:	doedd (y)na ddim canu (y)na . 406088_407888
+%eng:	there was no singing there.
+*JOS:	tro cynta i [/] (.) i Cymry wneud rywbeth heb canu dim_byd . 408027_412427
 %eng:	first time for Welsh people to do something without singing anything.
 *LOL:	ia . 412567_413031
 %eng:	yes.
-*LOL:	xxx . 413449_415864
+*LOL:	ie xxx <oedd (y)na rywun (we)di> [?] meddwl . 413449_415864
+%eng:	yes [...] that anyone had thought.
 *LOL:	yn ganu ynde . 417027_417840
 %eng:	singing.
 *JOS:	oedd oedd . 417875_418235
 %eng:	yes.
-*JOS:	xxx +/. 418444_419361
+*JOS:	oedd Enid@s:cym&spa (y)na ? 418444_419361
+%eng:	was Enid there?
 *LOL:	ie . 419419_419616
 %eng:	yes.
 *JOS:	+, ddim (y)na . 419709_420533
 %eng:	...not there.
 *JOS:	neb yn codi i canu (y)na . 423606_425219
 %eng:	no-one stood up to sing there.
-*LOL:	xxx mae yn ryfedd xxx bod y &b bobl (y)ma &=cough (.) bobl mewn oed <(ba)swn i (y)n deud> [?] +... 431763_437208
-%eng:	[...] strange [...] that these people, older people I'd say...
-*LOL:	a bod y daith mor bell a mor +... 437986_440331
-%eng:	and that the journey is so far and  so...
+*LOL:	ond (dy)na fo . 431764_432113
+%eng:	but that's it.
+*LOL:	mae (y)n ryfedd meddwl bod y &b bobl (y)ma &=cough (.) bobl mewn oed <(ba)set ti (y)n deud> [?] ? 432130_437208
+%eng:	it's strange to think that these people, older people, would you say?
+*LOL:	a bod y daith mor bell a mor +//. 437986_440331
+%eng:	and that the journey is so far and so...
 *LOL:	a maen nhw (y)n dod a dod ryw ddwy neu dair neu bedwar gwaith ynde . 440519_446429
-%eng:	and they come and come two or three or four times.
-*LOL:	maen nhw yn +... 446475_446963
-%eng:	they are...
+%eng:	and they come repeatedly, about two or three or four times.
+*LOL:	maen nhw (y)n +/. 446475_446963
+%eng:	they...
 *JOS:	++ licio dod yma felly . 447358_448449
 %eng:	...like coming here.
-*LOL:	+, maen nhw â awydd dod nôl a awydd dod nôl . 447916_450389
-%eng:	they want to come back and want to come back.
+*LOL:	maen nhw &a awydd dod (y)n_ôl awydd dod (y)n_ôl . 447916_450389
+%eng:	they want to come back, want to come back.
 *LOL:	ia . 451689_452211
 %eng:	yes.
-*LOL:	a teithio lawr i Comodoro@s:cym&spa a [/] a dod nôl yn y bws yn +... 452385_456170
+*LOL:	a teithio lawr i Comodoro@s:cym&spa a [/] a dod (y)n_ôl yn y bws yn +... 452385_456170
 %eng:	and travel down to Comodoro and come back on the bus in...
 *LOL:	o@s:cym&spa fyddan nhw wedi mwynhau yr daith . 456922_458536
 %eng:	oh, they will have enjoyed the journey.
-*LOL:	oedd yr [//] (.) y dyn (y)na (y)n deud <fod yr> [//] (.) &=cough (.) fod y lle i weld yn dlws . 459397_466595
-%eng:	that man said the place was beautiful.
-*LOL:	xxx ydy draw wrth_gwrs o_gwmpas xxx no@s:spa ? 466703_469989
-%eng:	[...] is over there of course oraound [...], isn't it?
+*LOL:	oedd y [/] (.) y dyn (y)na (y)n deud <bod yr> [//] (.) &=cough (.) bod &n y lle i weld yn dlws . 459397_466595
+%eng:	that man said the place looked beautiful.
+*LOL:	efo xxx draw wrth_gwrs o_gwmpas xxx no@s:spa ? 466703_469989
+%eng:	with [...] over there of course around [...], isn't it?
 *JOS:	xxx . 470128_471312
 *LOL:	[- spa] el valle de xxx costa por ahí . 470453_472903
 %eng:	the valley of [...] coast around there.
-*JOS:	na . 473031_473634
-%eng:	no.
+*JOS:	aha . 473031_473634
+%eng:	aha.
 *LOL:	[- spa] así que +... 473240_473716
 %eng:	so ...
 *LOL:	&=cough . 473774_474157
@@ -394,12 +398,12 @@
 *LOL:	[- spa] sí bueno . 489370_490125
 %eng:	yes well.
 *LOL:	&=clears_throat . 492075_493353
-*LOL:	wnes i ddim gofyn lle oedden nhw (y)n aros . 494837_496730
-%eng:	I didn't ask where they were staying.
-*LOL:	xxx (y)n aros mewn gwesty oedden nhw yn +... 496811_498820
-%eng:	[...] they were staying at a hotel in...
-*LOL:	neu oedden nhw yn aros efo Nerys@s:cym&spa yn Comodoro@s:cym&spa . 499981_502361
-%eng:	or they were staying with Nerys in Comodoro.
+*LOL:	wnes i (ddi)m gofyn lle oedden nhw na . 494837_496569
+%eng:	I didn't ask where they were staying, no.
+*LOL:	<os mai> [?] yn aros mewn gwesty oedden nhw (y)n +... 496557_498820
+%eng:	whether they were staying at a hotel...
+*LOL:	neu oedden nhw (y)n aros efo Nerys@s:cym&spa yn Comodoro@s:cym&spa . 499981_502361
+%eng:	or whether they were staying with Nerys in Comodoro.
 *JOS:	+< xxx . 500283_500956
 *LOL:	dw i (ddi)m yn gwybod . 502430_503301
 %eng:	I don't know.
@@ -413,29 +417,31 @@
 *LOL:	cwmni iddi . 515592_516672
 %eng:	company for her.
 *LOL:	&=cough . 519737_520631
-*LOL:	mm +... 523171_523983
-%eng:	mm...
-*LOL:	oedd yna un ddynes yn deud bod hi (y)n meddwl (.) &=cough bod hi (we)di cael ei siomi braidd (.) yn Esquel@s:cym&spa achos bod hi (y)n meddwl bod (y)na <ddim llawer> [///] ddim [/] ddim gweld Cymry wrth_gwrs oedd hi (y)n +//. 530407_541623
-%eng:	one woman said that she thought she had been quite disappointed with Esquel because she she didn't see Welsh people, and then of course she was...
-*LOL:	dw i (ddi)m yn gwybod . 541674_542255
-%eng:	I don't know.
+*LOL:	hm +... 523171_523983
+%eng:	hmm...
+*LOL:	oedd (y)na un dynes yn deud bod hi (y)n meddwl (.) &=cough bod hi (we)di cael ei siomi braidd oedd [?] [//] (.) yn Esquel@s:cym&spa achos bod hi (y)n meddwl bod (y)na <ddim llawer> [///] ddim [/] ddim gweld Cymry . 530407_541623
+%eng:	one woman said that she thought she had been quite disappointed with Esquel because she didn't see Welsh people of course, she was... was...
+*LOL:	wrth_gwrs (ba)sai hi (ddi)m (we)di [?] gwybod . 540915_542459
+%eng:	of course, she wouldn't have known.
 *JOS:	pwy oedd yn deud ? 542429_543288
 %eng:	who said so?
-*LOL:	+< a +... 542592_543103
+*LOL:	+< a +/. 542592_543103
 %eng:	and...
-*LOL:	un o (y)r (.) gwragedd yma oedd wedi bod yn Comodoro@s:cym&spa . 543834_545970
+*LOL:	un o (y)r (.) gwragedd (y)ma oedd wedi bod yn Comodoro@s:cym&spa . 543834_545970
 %eng:	one of these women who had been in Comodoro.
 *JOS:	mm +... 546075_546504
-%eng:	mm.
-*LOL:	ac wedi (..) ddim yn gweld arwyddion Cymraeg yn ddim un man fath â yn Gaiman@s:cym&spa wrth_gwrs . 546567_552766
-%eng:	and had not seen any Welsh signs anywhere like in Gaiman of course.
-*LOL:	wel wrth_gwrs xxx pentre bach ydy Gaiman@s:cym&spa xxx +... 552709_556018
-%eng:	well, of course, [...] Gaiman is a little village [...]...
+%eng:	mm...
+*LOL:	ac bod hi (..) ddim yn gweld arwyddion Cymraeg yn ddim un man fath â (y)n Gaiman@s:cym&spa  . 546567_552641
+%eng:	and had not seen any Welsh signs anywhere like in Gaiman.
+*LOL:	wel wrth_gwrs mae +//. 552664_553529
+%eng:	well of course it...
+*LOL:	o(eddw)n i (y)n deu(d) (wr)thi bod pentre bach (y)dy Gaiman@s:cym&spa xxx +... 553488_556018
+%eng:	I was telling her that Gaiman is a smell village [...]...
 *LOL:	mae Esquel@s:cym&spa [/] (.) mae Esquel@s:cym&spa lot mwy . 556390_560128
 %eng:	Esquel is much bigger.
-*JOS:	dim ond un stryd sydd yn Gaiman@s:cym&spa . 558503_560221
+*JOS:	+< dim ond un stryd sydd yn Gaiman@s:cym&spa . 558503_560221
 %eng:	in Gaiman there's only one street.
-*LOL:	eh@s:cym&spa ? 0_0
+*LOL:	eh@s:cym&spa ? 560319_560766
 %eng:	eh?
 *JOS:	dim ond un stryd sydd yn Gaiman@s:cym&spa . 560966_562894
 %eng:	in Gaiman there's only one street.
@@ -448,31 +454,31 @@
 *LOL:	ia . 565541_565935
 %eng:	yes.
 *LOL:	&=cough . 571359_572161
-*JOS:	ond <maen nhw (y)n> [/] (.) maen nhw (y)n roid enwau Cymraeg yn Gaiman@s:cym&spa (..) i (y)r twristiaid . 573543_581032
+*JOS:	ond <maen nhw (y)n> [/] (.) maen nhw (y)n roid enwau Cymraeg yn Gaiman@s:cym&spa (.) i [/] (..) i (y)r twristiaid . 573543_581032
 %eng:	but they put Welsh names in Gaiman, for the tourists.
 *LOL:	ia ia i dynnu sylw debyg iawn . 581067_583087
 %eng:	yes, to get attention I guess.
-*JOS:	dynnu sylw nhw uh . 583099_584097
+*JOS:	tynnu sylw nhw uh . 583099_584097
 %eng:	get their attention.
 *LOL:	ia . 584248_584678
 %eng:	yes.
 *LOL:	mm +... 588300_588904
 %eng:	mm...
-*LOL:	ond oedd oedd y ddynes yma wedi cael ei phlesio neithiwr . 595938_598527
-%eng:	but this woman last night had liked it.
-*LOL:	roedd hi (y)n gweld &=laugh [/] gweld fod gymaint o Gymry a (.) a bobl heb fod yn Gymraeg yn cym(r)yd diddordeb yn [/] (.) yn y gymdeithas . 598417_607125
+*LOL:	ond oedd oedd y ddynes yma wedi cael ei phlesio neithiwr . 595938_598524
+%eng:	but this woman last night had been pleased.
+*LOL:	roedd hi (y)n gweld &=laugh [/] gweld fod gymaint o Gymry a [/] (.) a pobl heb fod yn Gymraeg yn cym(r)yd diddordeb yn [/] (.) yn y gymdeithas . 598524_607125
 %eng:	she had seen that so many Welsh people and people who weren't Welsh were taking an interest in the society.
 *LOL:	<oedd hi (y)n> [/] oedd hi (y)n teimlo (y)n iawn . 607193_609945
 %eng:	she felt good.
 *LOL:	&=cough . 610874_611872
-*LOL:	mm +... 617317_617735
+*LOL:	mm . 617317_617735
 %eng:	mm.
 *LOL:	a oedd y bachgen yna buodd efo ni +//. 622877_624601
-%eng:	and the boy who went with us was there.
+%eng:	and the boy who went with us was there...
 *LOL:	fachgen yna sy (y)n ysgrifennu . 625356_626807
 %eng:	that boy who writes.
-*LOL:	+, (.) oedd o (y)n nabod [/] (..) nabod y (..) bachgen un o (y)r gwragedd (y)ma xxx (.) sydd yn gweithio draw . 627434_636084
-%eng:	he knew the son of one of these women [...] who work over there.
+*LOL:	+, (.) oedd o (y)n nabod [/] (..) nabod uh (..) bachgen un o (y)r gwragedd (y)ma (he)fyd (.) sydd yn gweithio draw . 627434_636084
+%eng:	he knew the son of one of these women too, who works over there.
 *LOL:	mae o (y)n gweithio mewn teledu . 636126_637287
 %eng:	he works in television.
 *JOS:	o@s:cym&spa . 637472_637867
@@ -482,9 +488,9 @@
 *LOL:	&=cough . 642743_644473
 *JOS:	xxx yn Caerdydd ? 642976_644473
 %eng:	[...] in Cardiff ?
-*LOL:	xxx . 645123_645611
-*JOS:	Caerdydd . 645855_646551
-%eng:	Cardiff
+*LOL:	&=noise ? 645123_645611
+*JOS:	Caerdydd ? 645855_646551
+%eng:	Cardiff?
 *LOL:	na +//. 646295_646608
 %eng:	no.
 *LOL:	ia . 646690_646968
@@ -493,10 +499,10 @@
 %eng:	yes.
 *JOS:	a (dy)dyn nhw ddim +/. 648164_649000
 %eng:	and they aren't...
-*LOL:	a wedyn i hi mae [//] dyna be mae (..) Gwilym yn wneud efo ni ynde . 648292_654039
-%eng:	and then for her that's what our Gwilym does.
-*LOL:	a dyna be mae Gwilym (we)di licio ers pan mae o (y)n fach ynde xxx . 654381_657806
-%eng:	and that's what Gwilym has liked doing since he was little [...].
+*LOL:	a (we)dyn o(eddw)n i (y)n deu(d)(wr)thi mai dyna be mae [/] (..) mae Gwilym yn wneud efo ni ynde . 648292_654039
+%eng:	and then I was telling her that that's what Gwilym does with us.
+*LOL:	a dyna be mae Gwilym (we)di licio xx pan mae o (y)n fach ynde xxx . 654381_657806
+%eng:	and that's what Gwilym has liked doing [..] since he was little [...].
 *JOS:	+< yn Buenos_Aires@s:cym&spa mae o . 656738_657806
 %eng:	he is in Buenos Aires.
 *LOL:	eh@s:cym&spa ? 658096_658549
@@ -505,16 +511,16 @@
 %eng:	in Buenos Aires.
 *LOL:	ia ia . 660233_661057
 %eng:	yes.
-*LOL:	efo (.) rywbeth ynglŷn a (y)r teledu a [/] (..) a ffilmio a pethau fel (y)na . 661708_668105
-%eng:	with something to do with Tv and filming and things like that.
+*LOL:	efo (.) rywbeth ynglŷn â (y)r teledu a [/] (..) a ffilmio a pethau fel (y)na . 661708_668105
+%eng:	with anything to do with TV and filming and things like that.
 *JOS:	o(edde)n nhw ddim nabod Siarli_Morris@s:cym&spa ? 669923_671990
-%eng:	didn't they know Siarli_Morri?
+%eng:	didn't they know Siarli_Morris?
 *JOS:	hwyrach bod nhw eh@s:cym&spa ? 672686_673488
 %eng:	maybe they did?
 *LOL:	ia . 673511_673789
 %eng:	yes.
-*LOL:	o@s:cym&spa siŵr o fod i ti xxx . 673894_675960
-%eng:	oh, certainly, [...].
+*LOL:	o@s:cym&spa siŵr o fod i ti xx . 673894_675960
+%eng:	oh, must do [...].
 *LOL:	&=cough . 685279_686167
 *JOS:	be wyt ti (y)n wneud [//] mynd i wneud efo (y)r holl deisennod sy (.) [//] sydd ar_ôl ? 689187_693703
 %eng:	what are you going to do with all the left-over cakes?
@@ -522,42 +528,43 @@
 %eng:	well.
 *LOL:	&=laugh . 693806_694131
 *JOS:	ar_ôl y pen_blwydd ddoe ? 694433_695762
-%eng:	after the bitrhday yesterday?
+%eng:	after the birthday yesterday?
 *LOL:	+< xxx . 695332_695919
 *LOL:	<gadw un yn yr> [///] (.) dw i wedi roi peth yn yr +/. 697687_700201
-%eng:	I've put one in the...
+%eng:	keep one in the... I've put some in the...
 *JOS:	[- eng] ++ fridge ? 700299_700857
 %eng:	...fridge?
 *LOL:	yn y freezer@s:eng a (y)r (.) ah@s:cym&spa +... 700888_702682
 %eng:	...in the freezer and the... ah...
-*LOL:	mi ân (.) paid a poeni . 703233_705363
+*LOL:	mi ân (.) paid â poeni . 703233_705363
 %eng:	they will go, don't worry.
 *LOL:	diwedd wythnos (y)ma fydden nhw wedi mynd . 705906_707775
 %eng:	by the end of this week they'll have gone.
 *LOL:	&=cough . 717338_717907
-*JOS:	raid i fi (e)iste(dd) yn rywle arall ochr (y)ma . 721330_724302
+*JOS:	raid i fi eiste(dd) yn rywle arall ochr (y)ma . 721330_724302
 %eng:	I have to sit somewhere else on this side.
-*LOL:	ia wel pam (fa)sai ti (y)n cym(r)yd rywbeth bore (y)ma at y poen ? 724697_727582
+*LOL:	ia wel pam (ba)set ti (y)n cym(r)yd rywbeth bore (y)ma at y poen ? 724697_727582
 %eng:	well, why did't you take something this morning against the pain?
-*JOS:	wel mae o (y)n mynd ei hunain . 728929_730195
+*JOS:	wel mae o mynd ei hunan . 728929_730195
 %eng:	well, it's going by itself.
 *LOL:	wel ia ond +... 730380_731205
-%eng:	yes, but...
-*JOS:	pan dw i (y)n mynd at y lle (y)na (dy)dy o ddim [//] (.) dw i ddim teimlo poen . 731205_734392
+%eng:	well yes, but...
+*JOS:	pan dw i (y)n mynd at <y lle (y)na> [?] (dy)dy o ddim [//] (.) dw i ddim teimlo poen . 731205_734392
 %eng:	when I go to that place I don't feel pain.
-*LOL:	+< mae (y)n brifo hyd yn oed pan ti (y)n (e)iste(dd) ? 734113_735779
-%eng:	it hurts even when you sit down?
-*JOS:	mae (y)r poen yn dechrau pan dw i (y)n (e)iste(dd) . 735817_737907
+*LOL:	+< mae (y)n brifo dim ond pan wyt ti (y)n eiste(dd) ? 734113_735779
+%eng:	it hurts only when you sit down?
+*JOS:	mae (y)r poen yn dechrau pan dw i (y)n eistedd . 735817_738309
 %eng:	the pain starts when i sit down.
 *JOS:	fel (h)yn [?] . 738377_738934
 %eng:	like this.
-*LOL:	xxx . 739354_740079
-*LOL:	hwyrach bod xxx (fa)sai ti (e)iste(dd) mewn cadair syth . 740207_742732
-%eng:	maybe [...] to sit in a straight chair.
+*LOL:	wel (dy)na fo xx . 739354_740079
+%eng:	well, that's it [...]
+*LOL:	hwyrach bod xxx faset ti eistedd mewn cadair syth . 740207_742732
+%eng:	maybe [...] if you were to sit in a straight chair.
 *JOS:	(dy)na fo (.) mm +... 742720_743852
 %eng:	that's it, mm...
-*JOS:	ie dw i (y)n mynd yn ry hen i xxx rywbeth yn xxx &=laugh . 744815_748420
-%eng:	yes, I'm getting too old [...].
+*JOS:	ie dw i (y)n mynd yn ry hen neu rywbeth yn xxx &=laugh . 744815_748420
+%eng:	yes, I'm getting too old or something [...].
 *JOS:	ie . 751919_752575
 %eng:	yes.
 *LOL:	&=cough . 755780_756761
@@ -591,9 +598,9 @@
 *LOL:	xxx . 793255_794178
 *LOL:	xxx yn fan (y)na . 793406_796587
 %eng:	[...] there.
-*JOS:	oes oes oes . 796616_797475
+*JOS:	oes oes . 796616_797475
 %eng:	yes.
-*LOL:	cym(r)yd i_gyd o (y)r xxx . 797315_798999
+*LOL:	cym(r)yd <i_gyd o> [?]  xxx . 797315_798999
 %eng:	takes all the [...].
 *JOS:	mm +... 798900_799365
 %eng:	mm.
@@ -601,9 +608,9 @@
 %eng:	it does good.
 *JOS:	ie ie . 802412_802981
 %eng:	yes.
-*JOS:	neu i (y)r fferm yma . 802964_804148
+*JOS:	neu i (y)r ffarm yma . 802964_804148
 %eng:	or to this farm.
-*JOS:	oedd hi (y)n cerdded ar i lle newydd . 804537_806261
+*JOS:	oedd hi (y)n cerdded ar y lle newydd . 804537_806261
 %eng:	she walked on the new place.
 *JOS:	oedd y ddolur yn mynd ei hunan . 806219_807694
 %eng:	the pain went by itself.
@@ -621,20 +628,20 @@
 *JOS:	(y)chydig [/] (y)chydig o symudiad sydd heddiw . 857695_859959
 %eng:	there's very little movement today.
 *LOL:	wel ie . 860017_860766
-%eng:	yes actually.
+%eng:	well yes.
 *LOL:	xxx . 860685_861765
 *JOS:	mae [/] (.) mae (y)r wythnos yn gorffen . 861858_863826
 %eng:	the week is coming to an end.
-*LOL:	oeddwn i yn cwyn(o) [//] deud gynnau (.) oedd y cymydog yn pasio (.) y vecina@s:spa fan (y)na . 863948_868621
+*LOL:	o(eddw)n i yn cwyn(o) [//] deud gynnau (.) oedd y &km cymydog yn pasio (.) y vecina@s:spa fan (y)na . 863948_868621
 %eng:	I said earlier that the neighbour went past, the neighbour over there.
-*LOL:	ac o(eddw)n i (y)n deud fod y [/] (..) y lle mae [/] mae (y)r lludw fath â (fa)sai fo (y)n dod allan i (y)r top xxx (.) ar_ôl glaw a pethau fel (y)na . 868711_876397
-%eng:	and I said the ash seemed to come out to the top [...] after rain like this.
+*LOL:	ac (.) o(eddw)n i (y)n deud bod y [/] (..) y lle mae [/] mae (y)r lludw fath â (fa)sai fo (y)n dod allan i (y)r xxx (.) ar_ôl glaw a pethau fel (yn)a . 868711_876397
+%eng:	and I said the ash seemed to come out to the [...] after rain and things like that.
 *JOS:	o@s:cym&spa yndy . 876467_877407
 %eng:	oh yes.
 *LOL:	&=cough . 877491_878512
-*LOL:	xxx (y)n deud +"/. 878965_879743
-%eng:	and [...] said:
-*LOL:	+" o@s:cym&spa <os dach chi> [/] &=laugh os dach chi isio fod yn ddrwg eich hwyliau cerwch ati i wneud bathrwm newydd . 880021_885536
+*LOL:	<oedd yn deud> [?] +"/. 878965_879743
+%eng:	she was saying:
+*LOL:	+" o@s:cym&spa <os dach chi> [/] &=laugh os dach chi isio bod yn ddrwg eich hwyliau cerwch ati i wneud bathrwm newydd . 880021_885536
 %eng:	"if you want to be grumpy go and make a new bathroom."
 *LOL:	gewch chi <weld wedyn> [=! laugh] &=laugh . 885594_887858
 %eng:	you will see then.
@@ -643,14 +650,12 @@
 *JOS:	&=laugh . 887977_888836
 *LOL:	a o(eddw)n i (y)n deud +"/. 889439_890496
 %eng:	and I said:
-*LOL:	+" na dw i ddim isio fod yn ddrwg (f)yn hwyliau . 890577_892551
+*LOL:	+" na dw i ddim isio fod yn ddrwg yn hwyliau . 890577_892551
 %eng:	"no, I don't want to be grumpy."
-*LOL:	dw i (y)n deud +"/. 892586_895128
-%eng:	I say:
-*LOL:	+" dw i (y)n trio cadw +... 893607_894826
+*LOL:	+" <dw i (y)n> [/] [=! laughs] dw i (y)n trio cadw +... 892536_895038
 %eng:	"I'm trying to keep..."
-*JOS:	oedd hi ddim isio bathrwm newydd . 895623_896819
-%eng:	she didn't want a new bathroom.
+*JOS:	dw i ddim isio bathrwm newydd . 895623_896819
+%eng:	I don't want a new bathroom.
 *LOL:	&=laugh . 896877_897562
 *LOL:	dw i (y)n trio cadw (y)n [/] yn hapus . 897806_899861
 %eng:	I'm trying to keep in good spirits.
@@ -658,16 +663,17 @@
 %eng:	I don't want to be grumpy.
 *LOL:	o@s:cym&spa (y)r xxx . 902076_904131
 %eng:	oh, [...].
+%com:	same expression 20 utterances below
 *JOS:	&=cough . 905071_905837
-*LOL:	xxx (.) (dy)dy rywun ddim awydd roi planhigion newydd (y)ma . 909446_912998
-%eng:	[...] one doesn't feel like putting new plants here.
+*LOL:	wel (.) (dy)dy rywun ddim awydd roi planhigion newydd (y)ma . 909446_912998
+%eng:	well, one doesn't feel like putting new plants here.
 *LOL:	&bl blodau neu rywbeth arall o(eddw)n i (we)di meddwl . 913138_914891
-%eng:	flowers or something else I had thought.
+%eng:	flowers or something else, I had thought.
 *LOL:	faswn i (we)di llenwi fan (y)na efo [/] (.) efo blodau . 914867_917491
 %eng:	I would have filled over there with flowers.
-*LOL:	ond efo (y)r gwynt a (y)r oerfel (dy)dy xx ddim awydd gwneud rŵan na(c) (y)dy . 917621_920593
-%eng:	but with the wind and the cold one doesn't feel like doing it now.
-*JOS:	mae yr tywydd yn debycach (.) i (y)r gaeaf nac i (y)r gwanwyn . 922277_927397
+*LOL:	ond efo (y)r gwynt a (y)r oerfel (dy)dyn nhw ddim awydd gwneud rŵan na(c) (y)dy . 917621_920593
+%eng:	but with the wind and the cold they don't feel like doing it now.
+*JOS:	mae (y)r tywydd yn debycach (.) i (y)r gaeaf nac i (y)r gwanwyn . 922277_927397
 %eng:	the weather resembles winter more than spring.
 *LOL:	+< a +... 923020_923647
 %eng:	and...
@@ -677,29 +683,28 @@
 %eng:	the lambs...
 *LOL:	mm +... 932051_932794
 %eng:	mm...
-*JOS:	yr ŵyn bach yn y fferm . 933038_934257
+*JOS:	yr ŵyn bach yn y ffarm . 933038_934257
 %eng:	the lambs on the farm.
-*JOS:	mae (y)r ran fwyaf ohonyn nhw (y)n marw siŵr o fod (.) oerfel (y)ma . 934396_937415
-%eng:	most of them are dying probably in this cold.
+*JOS:	mae (y)r ran fwya nhw (y)n marw siŵr o fod (.) oerfel (y)ma . 934396_937415
+%eng:	most of them are dying, probably, in this cold.
 *LOL:	wel oedden nhw i weld yn iawn yn cwtsio fan (y)na . 938935_940618
 %eng:	well, they seemed to be okay sheltering over there.
 *JOS:	oedden oedden . 940827_941710
 %eng:	yes.
 *JOS:	ond na (.) eh@s:cym&spa newydd ddechrau mae o xxx . 942058_944333
 %eng:	but no, [...] has only just started.
-*JOS:	ychydig o ddyddiau (.) a fydd o (y)n wneud yn well . 944867_947735
+*JOS:	ychydig <o ddyddiau (.) a fydd o (y)n wneud yn> [?] well . 944867_947735
 %eng:	another few days and it will be better.
 *LOL:	ia <a (y)r> [/] a (y)r defaid ni wrth_gwrs <mae (y)r> [/] mae (y)r cŵn wedi lladd . 949936_953036
 %eng:	yes, and our sheep of course that the dogs have killed.
 *JOS:	ia +//. 953430_953790
 %eng:	yes.
-*JOS:	uh na uh (..) y ran arall <o yr> [/] o yr fferm (.) dim y defaid . 953823_959552
+*JOS:	uh na uh (..) y ran arall <o (y)r> [/] o (y)r ffarm (.) dim y defaid . 953823_959552
 %eng:	no, the other part of the farm, not the sheep.
-*LOL:	cariad &=laugh . 963703_965189
-%eng:	love.
+*LOL:	xxx . 963703_965189
 *LOL:	&=cough . 967021_967747
 *LOL:	a (dy)dy o (ddi)m yn gwybod cwbl wrth_gwrs . 968772_970734
-%eng:	and he doesn't know the lot of course.
+%eng:	and he doesn't know everything of course.
 *JOS:	na . 970852_971496
 %eng:	no.
 *JOS:	be sy (y)n bod ar yr ast ? 980530_982016
@@ -724,7 +729,7 @@
 %eng:	dogs fighting all over.
 *JOS:	gymaint o gŵn yn Esquel@s:cym&spa (y)ma . 1027224_1029290
 %eng:	so many dogs here in Esquel.
-*LOL:	ti (y)n gwybod fydd Clive_Simth@s:cym&spa yn rydd i fynd efo ni <i (y)r> [/] i (y)r fferm diwedd wythnos yma . 1041278_1045144
+*LOL:	ti (y)n gwybod fydd Clive_Simth@s:cym&spa yn rydd i fynd efo ni <i (y)r> [/] i (y)r ffarm diwedd wythnos yma . 1041278_1045144
 %eng:	do you know if Clive Smith will be free to go with us to the farm at the end of this week?
 *JOS:	heddiw ? 1045219_1045765
 %eng:	today?
@@ -748,8 +753,8 @@
 %eng:	after all he doesn't have a car.
 *LOL:	ie . 1075408_1075744
 %eng:	yes.
-*JOS:	[- spa] y la camioneta a quince días iban a estar andando pero . 1080564_1083612
-%eng:	and the truck after fifteen days, they were going to walk but.
+*JOS:	[- spa] y la camioneta a quince días iban a estar andando pero +... 1080564_1083612
+%eng:	and the truck after fifteen days, they were going to walk, but...
 *JOS:	[- spa] ya pasaron quince días ya . 1085224_1087593
 %eng:	fifteen days have already passed.
 *JOS:	[- spa] y el día de hoy . 1103635_1105023
@@ -764,24 +769,23 @@
 %eng:	of course, if we go to Mynydd Llwyd to buy the paper before going.
 *JOS:	[- spa] claro . 1117849_1118569
 %eng:	of course.
-*LOL:	a cofio mynd <a (y)r> [/] (..) a (y)r ffôn efo ni . 1121844_1125884
+*LOL:	a cofio mynd <â (y)r> [/] (..) â (y)r ffôn efo ni . 1121844_1125884
 %eng:	and remember to take the phone with us.
 *JOS:	ooh dw i wedi gadael y gwin yn xxx . 1125983_1128851
 %eng:	ooh, I have left the wine in [...].
-*JOS:	mm +... 1130481_1130899
-%eng:	mm.
+*JOS:	&=grunt . 1130481_1130899
 *LOL:	ew@s:cym&spa (.) ddiwedd y byd . 1131583_1133638
 %eng:	gosh, the end of the world.
 *JOS:	eh@s:cym&spa ? 1134247_1134636
 %eng:	eh?
-*LOL:	mae (y)n ddiwedd y byd medda fi . 1134892_1136064
+*LOL:	mae (y)n ddiwedd y byd meddai fi . 1134892_1136064
 %eng:	it is the end of the world I said.
 *JOS:	na na (.) dim yn diwedd y byd . 1136255_1137979
 %eng:	no no, not the end of the world.
 *LOL:	+< mm ? 1136958_1137764
 %eng:	mm?
-*JOS:	ond rhaid i fi brynu rhagor o win i fynd felly . 1138014_1140998
-%eng:	but I have to buy more wine then.
+*JOS:	ond rhaid i fi brynu rhagor o win xxx . 1138014_1140998
+%eng:	but I have to buy more wine [...].
 *LOL:	+< xxx . 1139616_1140017
 *LOL:	+< mm +... 1140574_1140963
 %eng:	mm.
@@ -791,47 +795,47 @@
 %eng:	only just...
 *JOS:	fydda i ddim (.) cael blas ar y cig xxx . 1144486_1147592
 %eng:	I won't enjoy the meat [...].
-*JOS:	cig a braster dach chi isio (.) rhywfaint o win i yrru fo lawr (..) yn hawsach . 1147698_1153265
+*JOS:	cig â braster dach chi isio (.) rhywfaint o win i yrru fo lawr (..) yn hawsach . 1147698_1153265
 %eng:	meat with fat, you want a bit of wine to get it down more easily.
-*LOL:	ddoe [/] ddoe oedd Karl@s:cym&spa yn deud bod o +... 1154375_1156697
+*LOL:	ddoe [/] ddoe oedd Karl@s:cym&spa yn deud bod o +//. 1154375_1156697
 %eng:	yesterday Karl said that he...
-*LOL:	mae o (y)n wneud bwyd <pan mae> [/] (..) pan mae Julia@s:cym&spa yn dod i dre ar ddydd Llun . 1157753_1163163
+*LOL:	mae o (y)n wneud bwyd <pan mae> [/] (..) pan mae (.) Julia@s:cym&spa yn dod i (y)r dre ar ddydd Llun . 1157753_1163163
 %eng:	he does food when Julia comes into town on Monday.
 *LOL:	mae o (y)n wneud cinio . 1163643_1165060
 %eng:	he makes lunch.
 *LOL:	a &=laugh <mae o> [/] &k mae o (y)n wneud puchero@s:spa iawn bob +... 1165604_1169163
 %eng:	and he makes a proper stew every...
-*LOL:	<(dy)na (y)r unig> [/] &=laugh (dy)na (y)r unig dro mae o (y)n cael puchero@s:spa ydy pan mae o (y)n wneud o &=laugh . 1170971_1175969
-%eng:	the only time he gets a stew is when he makes it.
+*LOL:	<(dy)na (y)r unig> [/] &=laugh (dy)na (y)r unig tro mae o (y)n cael puchero@s:spa (y)dy pan mae o (y)n wneud o &=laugh . 1170971_1175969
+%eng:	that's the only time he gets a stew is when he makes it.
 *JOS:	o@s:cym&spa (dy)na fo . 1175295_1176102
 %eng:	oh, there you go.
-*JOS:	dw i (y)n wneud pucher(o)@s:spa [/] puchero@s:spa pan dw i (y)n hunain . 1176648_1179115
+*JOS:	dw i (y)n wneud pucher(o)@s:spa [/] puchero@s:spa pan dw i (y)n hunan . 1176648_1179115
 %eng:	I make a stew when I'm on my own.
 *LOL:	ia . 1179199_1179612
 %eng:	yes.
-*LOL:	wel <oedd Julia xxx> [//] ac oedd Julia (y)n deud mae e (y)n wneud e ac yn roid y +... 1179728_1182799
+*LOL:	wel <oedd Julia xxx> [//] ac oedd Julia (y)n deud mae e (y)n wneud e ac yn roid uh +... 1179728_1182799
 %eng:	well, and Julia said he does it and puts the...
-*JOS:	digon o chile@s:spa arno fo . 1183192_1184736
+*JOS:	digon o chile@s:cym&spa arno fo . 1183192_1184736
 %eng:	and plenty of chilli in it.
 *LOL:	ie wneud o (y)n [/] yn uh saim . 1184803_1186719
 %eng:	yes, to make it greasy.
 *JOS:	ah@s:cym&spa saim (.) ah@s:cym&spa (dy)na fo . 1186870_1188286
-%eng:	ah, gerase, that's it.
+%eng:	ah, grease, that's it.
 *LOL:	+< a (e)i wneud e . 1187137_1187793
 %eng:	and to make it.
-*JOS:	achos (dy)dy o ddim xxx . 1188088_1189296
-%eng:	because he is not [...].
-*LOL:	ond mae Julia@s:cym&spa (y)n licio xxx . 1189400_1190695
-%eng:	but Julia likes [...].
-*LOL:	pan xxx i (y)n wneud o efo [/] efo (y)r saim fyddai di (y)n licio fo . 1190718_1193249
-%eng:	when [...] to mkae it with the grease, she wouldn't like it.
-*JOS:	a (dy)dy o ddim yn yfed sŵp . 1193506_1195021
-%eng:	and he doesn't drink soup.
-*LOL:	na b(w)yta (y)r cig a (y)r &lly llysiau mae o (y)n licio . 1195335_1198185
+*LOL:	achos (dy)dy o ddim xxx y sŵp . 1188088_1189296
+%eng:	because he doesn't [...] soup.
+*LOL:	ond mae Julia@s:cym&spa (y)n licio xx sŵp . 1189400_1190695
+%eng:	but Julia likes to [..] soup.
+*LOL:	pan <oedd e (y)n> [?] wneud o efo [/] efo (y)r saim <fyddai hi (ddi)m> [?] licio fo . 1190718_1193249
+%eng:	when he made it with the grease, she wouldn't like it.
+*JOS:	ah@s:cym&spa (dy)dy o ddim yn yfed sŵp ? 1193506_1195021
+%eng:	ah, he doesn't drink soup?
+*LOL:	na bwyta (y)r cig a (y)r &ɬa llysiau mae o (y)n licio [?] . 1195335_1198314
 %eng:	no, eating the meat and the vegetables is what he likes.
 *JOS:	&=laugh . 1197500_1198568
 *JOS:	sŵp (y)dy (y)r peth gorau (.) yn y puchero@s:spa . 1198850_1201590
-%eng:	the soup if the bets thing about the stew.
+%eng:	the soup if the best thing about the stew.
 *LOL:	+< yndy . 1200841_1201497
 %eng:	yes.
 *LOL:	mae Julia@s:cym&spa (y)n deud fod hi (y)n gadael iddo +... 1202034_1203840
@@ -841,7 +845,7 @@
 *LOL:	ia . 1205006_1205389
 %eng:	yes.
 *LOL:	a tynnu (y)r saim i_gyd . 1205683_1206839
-%eng:	and remove all the grease.
+%eng:	and removes all the grease.
 *LOL:	a mae [//] felly (dy)na (y)r unig ffordd mae (h)i +... 1206879_1209010
 %eng:	that's the only way she...
 *JOS:	ail dwymo fo wedyn ? 1209509_1211320
@@ -850,10 +854,10 @@
 %eng:	yes, drink the soup afterwards.
 *LOL:	ond ddim +... 1214655_1215746
 %eng:	but not...
-*LOL:	mm +... 1216652_1217046
-%eng:	mm...
+*LOL:	hm +... 1216652_1217046
+%eng:	hmm...
 *LOL:	a o(eddw)n i (we)di prynu tortas@s:spa fritas@s:spa ar_gyfer bachgen (y)ma ddoe . 1225537_1228294
-%eng:	and I had bought sopaipillas for this boy yesterday.
+%eng:	and I had bought some sopaipillas [fried pastries] for this boy yesterday.
 *JOS:	ia (.) maen nhw wedi sefyll draw . 1229217_1230831
 %eng:	yes, they have stayed away.
 *LOL:	o@s:cym&spa &=laugh . 1230846_1231937
@@ -867,50 +871,43 @@
 %eng:	yes.
 *JOS:	popeth oedd yn centro@s:spa . 1236756_1237830
 %eng:	everything that was at the centre.
-*LOL:	ah@s:cym&spa . 1237888_1238439
-%eng:	ah.
+*LOL:	&=grunt . 1237888_1238439
 *JOS:	mi [/] mi aethon ni (.) fyny lle (y)na (.) i weld y defaid . 1238581_1242337
-%eng:	we wnet up to that place to see that sheep.
+%eng:	we went up to that place to see the sheep.
 *JOS:	a (..) pan ddos i (y)n_ôl (.) es i ddim fewn i (y)r tŷ . 1242436_1245757
 %eng:	and when I came back I didn't go into the house.
-*JOS:	dyna pam +/. 1246893_1247648
-%eng:	that's why...
-*LOL:	ah@s:cym&spa . 1247973_1248431
+*JOS:	dyna pam (..) dw i wedi anghofio pethau <fewn y tŷ> [?] . 1246893_1251454
+%eng:	that's why I've forgotten some things inside the house.
+*LOL:	+< ah@s:cym&spa . 1247973_1248431
 %eng:	ah.
-*JOS:	dw i wedi anghofio . 1248519_1249627
-%eng:	I have forgotten.
-*JOS:	pethau fel (y)na (.) ti . 1250016_1251531
-%eng:	things like that, you.
-*LOL:	a yr &ll ffrwythau hefyd . 1255605_1256970
+*LOL:	a (y)r &ɬ uh ffrwythau hefyd . 1255605_1256970
 %eng:	and the fruit as well.
 *LOL:	gawn ni weld os ydy xxx . 1257033_1258252
 %eng:	we'll see if there is [...].
 *JOS:	ia (.) ia xxx . 1257864_1259083
 %eng:	yes, [...].
-*LOL:	o@s:cym&spa xxx . 1258293_1259025
-%eng:	oh, [...].
-*JOS:	a <mae (y)na> [///] (.) mae isio i fi fynd a (..) <rhoi (y)r> [/] rhoi (y)r bwyd iddo fo . 1260090_1265204
+*LOL:	o@s:cym&spa bueno@s:spa [?] . 1258293_1259025
+%eng:	oh, fine.
+*JOS:	a <mae (y)na> [///] (.) mae isio i fi fynd a (..) <rhoi [?] (y)r> [/] rhoi (y)r bwyd iddo fo . 1260090_1265204
 %eng:	and I need to go and give him the food.
 *LOL:	ah@s:cym&spa . 1265417_1265800
 %eng:	a.
-*JOS:	dyna be sy ar_ôl . 1266590_1268128
+*JOS:	dyna be sydd ar_ôl . 1266590_1268128
 %eng:	that's what is left.
-*JOS:	(dy)dyn nhw ddim wedi mynd a [/] a xxx tro (y)ma . 1269117_1271764
-%eng:	they haven't gone [...] this time.
+*JOS:	(dy)dyn nhw ddim wedi mynd â [?] xxx tro (y)ma . 1269117_1271764
+%eng:	they haven't taken [...] this time.
 *LOL:	ie wel (dy)na fo . 1277758_1278785
 %eng:	yes, well, there we go.
 *LOL:	be wnei di ? 1278878_1279494
 %eng:	what will you do?
-*LOL:	(fa)swn i (y)n licio mynd i fan (a)cw (he)fyd i xxx . 1281750_1284861
-%eng:	I would like to go there as well to [...].
-*LOL:	pryd ? 1285500_1285929
-%eng:	when?
+*LOL:	(fa)swn i (y)n licio mynd i fan (a)cw (he)fyd i [/] i xxx <o (y)r diwedd xx ond pryd> [?] ? 1281750_1286310
+%eng:	I would like to go there as well to [...] [check] at last, [...] but when?
 *JOS:	nes ymlaen ? 1286685_1287504
-%eng:	in a bit?
+%eng:	soon?
 *LOL:	mae (y)na rywbeth bob [/] bob wythnos bob wythnos (.) diwedd wythnos . 1288283_1292956
 %eng:	there is something every week at the end of the week.
-*LOL:	be (y)dy (..) heddiw ? 1295072_1296727
-%eng:	hwta is today?
+*LOL:	xx (..) be (y)dy heddiw ? 1295072_1296727
+%eng:	[...] what's today?
 *LOL:	un_deg tri . 1296750_1297545
 %eng:	the 13th.
 *LOL:	diwedd wythnos nesaf ? 1299174_1300887
@@ -926,42 +923,39 @@
 %eng:	yes, it's on the 27th.
 *JOS:	be sy dau_ddeg saith ? 1313996_1315244
 %eng:	what is on the 27th?
-*LOL:	mae (y)r [//] y tymor (.) pwll nofio yn gorffen . 1315421_1319397
-%eng:	the swimming pool season ends.
-*JOS:	yndy sef mis (y)ma . 1320048_1321278
+*LOL:	mae (y)r [//] y tymor uh (..) y pwll nofio yn gorffen . 1315421_1319397
+%eng:	the swimming pool's season ends.
+*JOS:	<yndy sef> [?] mis (y)ma . 1320048_1321278
 %eng:	yes, that is this month.
 *LOL:	ia . 1321389_1321807
 %eng:	yes.
-*JOS:	mm yr un peth . 1323522_1324770
-%eng:	mm, the same thing.
+*JOS:	mm un peth . 1323522_1324770
+%eng:	mm, same thing.
 *JOS:	rhai . 1325240_1325728
 %eng:	some.
 *LOL:	y dau_ddeg chwech fydd y (..) xxx . 1325986_1330857
-%eng:	on the 26th is the [...].
-*JOS:	yn [/] yn dau_ddeg chwech . 1331073_1332774
-%eng:	the 26th.
+%eng:	on the 26th is the [...] [check] .
+*JOS:	yn [/] yn dau_ddeg chwech ? 1331073_1332774
+%eng:	the 26th?
 *JOS:	o@s:cym&spa ia ? 1333546_1334127
 %eng:	is it?
-*LOL:	mmhm . 1334678_1335021
-%eng:	mmhm.
-*JOS:	aha@s:cym&spa . 1335569_1337049
-%eng:	aha.
+*LOL:	mm . 1334678_1335021
+%eng:	mm.
+*JOS:	o@s:cym&spa . 1335569_1337049
+%eng:	oh.
 *JOS:	bydd raid i ni fynd (y)na i (.) fwyta asado@s:spa . 1337319_1341446
-%eng:	we will have to go and eat some barbeceu.
-*LOL:	o@s:cym&spa ia ? 1342371_1343190
-%eng:	will we?
-*LOL:	pam ? 1343271_1343584
-%eng:	why?
-*LOL:	wel trio mynd i xxx . 1343602_1344977
-%eng:	well, try to go to [...].
+%eng:	we will have to go there and eat some barbecue.
+*LOL:	well ia xx . 1342371_1343598
+%eng:	well yes, [...].
+*LOL:	wel trio mynd i <fan (hyn)ny> [?] . 1343602_1344977
+%eng:	well, try to go to there.
 *LOL:	a dau_ddeg pump fydd y wythnos yn Trevelin@s:cym&spa . 1347210_1349776
-%eng:	and on the week in Trevelin will be on the 25th.
+%eng:	and the week in Trevelin will be on the 25th.
 *LOL:	feast@s:eng Trevelin@s:cym&spa . 1350120_1350880
 %eng:	the Trevelin festival.
 *JOS:	ie ie . 1350944_1351292
 %eng:	yes.
-*JOS:	wel +... 1352227_1352947
-%eng:	well...
+*JOS:	&=grunt . 1352227_1352947
 *LOL:	a wedyn mi fydd y señaladas@s:spa yn dod . 1355045_1357205
 %eng:	and then the celebrities will come.
 *JOS:	bydd . 1357504_1358363
@@ -972,68 +966,68 @@
 %eng:	eh?
 *JOS:	dechrau mis nesa siŵr . 1360757_1362545
 %eng:	at the beginning of next month probably.
-*LOL:	ond dw i ddim yn mynd i wneud dim_byd fan hyn eh@s:cym&spa . 1365768_1368270
+*LOL:	ond dw i ddim mynd i wneud dim_byd fan hyn eh@s:cym&spa . 1365768_1368270
 %eng:	but I'm not going to do anything here.
 *JOS:	eh@s:cym&spa ? 1368461_1369146
 %eng:	eh?
 *JOS:	wneud dim_byd be ? 1370662_1371771
-%eng:	do nothing of what?
+%eng:	do anything of what?
 *LOL:	dim wneud (.) gwahoddedigion a (.) xxx . 1371820_1375228
-%eng:	not doing invitees and [...].
+%eng:	not doing invites and [...].
 *JOS:	+< xxx . 1374688_1375100
 *LOL:	[- spa] no no . 1375219_1376043
 %eng:	no no.
 *JOS:	na ? 1376264_1376641
-%eng:	not?
-*LOL:	hwyrach fydden nhw (y)n (.) helpu i (.) llosgi dratiach tu_ôl i lle (y)na . 1378394_1383717
+%eng:	no?
+*LOL:	hwyrach fydden nhw (y)n (.) helpu i (.) llosgi dratiach [?] tu_ôl i lle (y)na . 1378394_1383717
 %eng:	maybe they will help burn ??? behind that place.
+%com:	unknown word: dratiach
 *JOS:	a glanhau ychydig bach . 1384756_1385940
-%eng:	and clean a bit.
-*LOL:	no@s:spa no@s:spa does yna neb yn mynd i helpu i wneud y gwaith y tŷ . 1386070_1389373
+%eng:	and clean up a bit.
+*LOL:	no@s:spa no@s:spa (doe)s (y)na neb yn mynd i helpu i wneud y &g gwaith y tŷ . 1386070_1389373
 %eng:	no, no, no-one is going to help doing the house work.
-*LOL:	a wedyn dw i ddim yn mynd i wneud y +... 1389509_1391906
-%eng:	and then I'm not going to do the...
-*LOL:	cym(r)yd o fath â diwrnod gwaith a dyna fo . 1398041_1399922
-%eng:	take it like a working day and that's it.
-*LOL:	a [/] a cym(r)yd cinio . 1400093_1401818
+*LOL:	a wedyn dw i ddim yn mynd <i wneud hi> [?] . 1389509_1391906
+%eng:	and so I'm not going to do it.
+*LOL:	cymryd o fath â diwrnod gwaith a (dy)na fo . 1398041_1399922
+%eng:	take it as a working day and that's it.
+*LOL:	ac [//] a cymryd cinio . 1400093_1401818
 %eng:	and have lunch.
-*LOL:	wneud asado@s:spa i pwy sy yna yn gweithio arno fo . 1402716_1405241
-%eng:	make a barbecue for whoever is working on it.
+*LOL:	wneud asado@s:spa i pwy sy yna yn gweithio <a (dy)na fo> [?] . 1402716_1405241
+%eng:	make a barbecue for whoever is working and that's it.
 *JOS:	+< wel mae isio i rywun fynd i sgwrsio . 1404709_1407408
 %eng:	well, someone needs to go and chat.
 *LOL:	na . 1407495_1407948
 %eng:	no.
 *JOS:	rywbeth arall xxx +... 1408041_1409324
 %eng:	something else [...]...
-*JOS:	dim ond i (dd)weud wrthyn nhw wedyn +/. 1412080_1413629
-%eng:	only tell them afterwards...
+*JOS:	dim ond unwaith yn y flwyddyn . 1412080_1413629
+%eng:	only once a year.
 *LOL:	na (dy)dy [/] (dy)dy (y)r bechgyn ddim isio wneud o . 1413129_1415747
 %eng:	no, the boys don't want to do it.
-*JOS:	na (y)dyn ? 1416066_1416926
+*JOS:	na(g) (y)dyn ? 1416066_1416926
 %eng:	don't they?
-*JOS:	uh ? 1417140_1417755
-%eng:	uh?
-*LOL:	a wedyn [?] (..) allet ti ddeud <bod nhw> [//] wedyn bod nhw ei &ffri ei ffrindiau nhw yn licio i xxx rei (hy)nny fynd draw neu rywbeth fel (y)na . 1419489_1425468
-%eng:	and then you could say that their friends like to [...] those go over or something like that.
+*JOS:	na ? 1417140_1417755
+%eng:	no?
+*LOL:	a wedyn (..) allet [?] ti ddeud <bod nhw> [//] bod efo nhw &f ei ffrindiau nhw bod nhw (y)n licio i xx rheiny fynd draw neu rywbeth fel (y)na . 1419489_1425468
+%eng:	and then you could say that they, amongst them, their friends, that they like [...] those to go over or something like that.
 *LOL:	ond (..) na . 1425489_1427091
 %eng:	but no.
 *JOS:	&=whistle . 1431741_1445742
-%com:	JOS obviously seems pretty self conscious
-*LOL:	+< newid y xxx . 1437917_1439032
-%eng:	exchange the [...].
-*JOS:	mae ffrindiau ni (.) pobl o xxx mae rhei (y)na +/. 1446293_1449968
-%eng:	our friends, people from [...], some are there...
+*LOL:	+< newid xxx . 1437917_1439032
+%eng:	change the [...].
+*JOS:	mae ffrindiau ni (.) pobl o xxx mae rheina +/. 1446293_1449968
+%eng:	our friends, people from [...], they're...
 *LOL:	xxx ? 1449428_1449852
-*LOL:	ia achos aeson nhw ddim llynedd ? 1450032_1451651
-%eng:	yes, because didn't they go last year?
+*LOL:	ia xx aeson nhw ddim llynedd . 1450032_1451651
+%eng:	yes, [...] they didn't go last year.
 *LOL:	a wedyn dan ni ddim yn gallu +... 1451848_1454129
 %eng:	and then we can't...
 *LOL:	y plant sydd yn wneud pethau ynde rŵan a ddim +... 1455110_1457513
 %eng:	the children do things now and not...
-*LOL:	os ti (y)n gwahodd pobl mae (y)n raid i ti fod a (y)r lle más@s:spa o@s:spa menos@s:spa mewn trefn . 1459986_1464566
+*LOL:	os ti (y)n gwahodd pobl mae raid i ti fod â (y)r lle <más@s:spa o@s:spa> [/] &m (.) más@s:spa o@s:spa menos@s:spa mewn trefn . 1459986_1464566
 %eng:	if you in invite people you have to have the place more of less in order.
-*LOL:	xxx ddim gallu xxx a fo xxx ddim yn teimlo (y)n iawn . 1467268_1470670
-%eng:	[...] can't [...] doesn't feel right.
+*LOL:	a os xx ddim gallu bod â fo wel (dy)dy o ddim yn teimlo (y)n iawn . 1467268_1470670
+%eng:	and if [...] can't have it, well, it doesn't feel right.
 *LOL:	na . 1471020_1471432
 %eng:	no.
 *LOL:	[- spa] ya está . 1473136_1473897
@@ -1054,7 +1048,7 @@
 %eng:	yes.
 *JOS:	[- spa] pero no hay que abandonar del todo xxx aunque sea poco pero +... 1491841_1495707
 %eng:	but you don't have to abandon everything even if it's little but...
-*LOL:	+< no . 1494366_1494929
+*LOL:	[- spa] +< no . 1494366_1494929
 %eng:	no.
 *LOL:	[- spa] no porque además +... 1496100_1497552
 %eng:	no because besides...
@@ -1068,8 +1062,7 @@
 %eng:	???
 *LOL:	[- spa] que hacen el trabajo son ellos ya . 1509379_1511347
 %eng:	???
-*JOS:	ie ie . 1511783_1512451
-%eng:	yes.
+*JOS:	xxx . 1511783_1512451
 *JOS:	[- spa] pero alguien tiene que ir a ayudarte allá . 1518184_1519874
 %eng:	but someone has to go and help you there.
 *LOL:	[- spa] por eso quién va a ayudar ? 1520862_1522557
@@ -1087,13 +1080,13 @@
 *JOS:	a be mae (.) Peredur@s:cym&spa yn dal i wneud (.) tu_ôl (y)na &=laugh ? 1549684_1553062
 %eng:	and what is Peredur doing all the time at the back there?
 *LOL:	+< &=laugh . 1552610_1553237
-*JOS:	mae o (y)n darllen rywbeth . 1554656_1556955
-%eng:	he's reading something.
+*JOS:	mae o (y)n darllen neu rywbeth xx . 1554656_1556955
+%eng:	he's reading or something [...].
 *JOS:	&=whistle . 1563355_1567801
-*LOL:	do a (.) o(eddw)n i (y)n meddwl fasen ni (we)di gallu mynd i [/] (..) i Ynys_Môn . 1567754_1574987
+*LOL:	do a (.) o(eddw)n i (y)n meddwl (ba)sen ni (we)di gallu mynd i [/] &=sigh (.) i Ynys_Môn . 1567754_1574987
 %eng:	yes, and I thought we could go to Anglesey.
-*LOL:	(fa)sai well gen i fod wedi mynd i fan (y)na na [/] na mynd i (y)r fferm i weld yr (.) ceffylau yna neu ryw bethau xxx nhw . 1574960_1581368
-%eng:	I'd rather have gone there than going to the farm to see those horses or some things [...].
+*LOL:	(ba)sai well gen i fod wedi mynd i fan (y)na na [/] na mynd i (y)r ffarm i weld yr (.) ceffylau <neu rywbeth ar diwrnod aeson ni (y)no> [?] . 1574960_1581368
+%eng:	I'd rather have gone there than going to the farm to see those horses or something, on the day we went there.
 *JOS:	yng Nghymru ? 1580196_1580892
 %eng:	in Wales?
 *JOS:	o@s:cym&spa ia . 1581020_1582274
@@ -1102,25 +1095,27 @@
 %eng:	or go to Bangor.
 *LOL:	sicr fasai hynny (we)di bod yn well . 1585148_1586947
 %eng:	that would definitely have been better.
-*LOL:	xxx (fa)sai fwy diddorol gen i . 1587423_1589245
-%eng:	[...] would be more interesting to me.
-*JOS:	dan ni wedi bod yn Bangor@s:cym&spa un waith . 1589280_1591544
+*LOL:	basai [?] fwy diddorol gen i . 1587423_1589245
+%eng:	it would be more interesting to me.
+*JOS:	dan ni wedi bod yn Bangor@s:cym&spa unwaith . 1589280_1591544
 %eng:	we have been to Bangor once.
-*LOL:	dyna fo yn Bangor@s:cym&spa fasen ni (we)di mynd fewn i (y)r dre eto a gweld lle fuon ni (y)n aros a pethau felly (fa)swn i (we)di bod mwy +... 1592399_1599540
-%eng:	that's it, in Bangor we would have gone into the town again and seen where we had stayed before and things like that, I would have been more...
-*LOL:	pues@s:spa (.) oedd o (y)n ddiddorol (.) mynd i (y)r fferm ryw ffordd xxx a gweld yr [//] (.) y ceffylau arbennig (y)ma a ryw bethau fel (y)na . 1602821_1610182
+*LOL:	dyna fo yn Bangor@s:cym&spa (ba)sen ni (we)di mynd fewn <i (y)r> [/] i (y)r dre eto a gweld lle fuon ni (y)n aros . 1592643_1597653
+%eng:	 that's it, in Bangor we would have gone into the town again and seen where we had stayed.
+*LOL:	a pethau felly [?] (fa)swn i (we)di bod mwy +... 1597615_1599421
+%eng:	and things like that, I would have been more...
+*LOL:	pues@s:spa [?] (.) oedd o (y)n ddiddorol (.) mynd i (y)r ffarm ryw ffordd xx a gweld yr [//] (.) y ceffylau arbennig (y)ma a ryw bethau fel (y)na . 1602821_1610182
 %eng:	well, it was interesting in a way to go to the farm [...] and see these special horses and things like that.
-*LOL:	ond uh (..) (dy)na fo (fa)swn i (we)di mwynhau (.) gallu mynd (y)na . 1610325_1616072
-%eng:	but that's where I'd have like to be able to go.
+*LOL:	ond uh (..) (dy)na fo (fa)swn i (we)di mwynhau (.) gallu mynd i +... 1610325_1616072
+%eng:	but that's where I'd have like to be able to go to...
 *LOL:	tro nesa . 1618034_1619125
 %eng:	next time.
-*JOS:	tro [/] (.) tro nesa hmm +... 1619678_1623184
+*JOS:	tro [/] (.) tro nesa hm +... 1619678_1623184
 %eng:	next time, hmm...
 *LOL:	ie ia . 1623439_1624461
 %eng:	yes.
 *LOL:	mewn ryw dair mlynedd eto os byw ac <iach bydden ni> [=! laugh] . 1627857_1631572
-%eng:	in about three year again if we're still going then.
-*LOL:	fyddwn ni awydd (.) cychwyn ar y daith eto (.) gobeithio . 1632413_1638067
+%eng:	in about another three year if we're still alive and well.
+*LOL:	fyddwn ni awydd (..) cychwyn ar y taith eto (..) gobeithio . 1632413_1638067
 %eng:	we'll feel like setting off on a trip again, hopefully.
 *JOS:	&=whistle . 1637820_1647317
 *JOS:	ond bydd yr uh (.) tryc yn dod i lwytho (y)r gwlân y dyddiau yma siŵr . 1648825_1652889
@@ -1130,20 +1125,20 @@
 *JOS:	na ond +... 1655025_1656871
 %eng:	no, but...
 *JOS:	gobeithio fydd o (y)n mynd â yr [/] (.) â (y)r gwlân xxx yn fuan . 1660062_1664834
-%eng:	hopefully he'll take the wool soon.
+%eng:	hopefully he'll take the wool [...] [check] soon.
 *LOL:	xxx . 1668389_1669318
-*JOS:	xxx (.) yn beryg i rywun torri fewn a dwyn . 1669910_1674554
+*JOS:	xxx (.) yn beryg i rywun (.) torri fewn a dwyn . 1669910_1674554
 %eng:	[...] someone might break in and steal it.
 *LOL:	ia ti (y)n meddwl ? 1674670_1675483
-%eng:	do you think so?
-*JOS:	xxx . 1675633_1676643
+%eng:	yes, do you think so?
+*JOS:	xx . 1675633_1676643
 *JOS:	mae o wedi digwydd . 1680531_1682412
-%eng:	it has happended before.
+%eng:	it has happended.
 *JOS:	ddim yn aml iawn . 1682505_1683724
 %eng:	not very often.
 *JOS:	ond mae o (y)n digwydd . 1683805_1684723
 %eng:	but it does happen.
-*LOL:	ie ie ie . 1683956_1685884
+*LOL:	ie ie . 1683956_1685884
 %eng:	yes.
 *LOL:	a <dydd Llun> [/] dydd Llun <gaeth y> [//] gaeth o (e)i werthu ia ? 1687929_1691447
 %eng:	and it Monday that it was sold, was it?
@@ -1155,7 +1150,7 @@
 %eng:	ah yes.
 *LOL:	+< ia . 1694017_1694319
 %eng:	yes.
-*JOS:	ah@s:cym&spa mae [/] mae (y)r pris mynd xxx . 1695491_1697523
+*JOS:	ah@s:cym&spa mae [/] mae (y)r pris mynd ar [?] i_fyny . 1695491_1697523
 %eng:	the price is going up.
 *LOL:	ia ? 1697883_1698522
 %eng:	is it?
@@ -1164,36 +1159,37 @@
 *LOL:	+< o@s:cym&spa . 1698905_1699207
 %eng:	oh.
 *JOS:	glywais i ddoe (.) (y)chydig . 1699694_1701958
-%eng:	it heard it yesterday, slightly.
-*JOS:	ond mae (y)n xxx . 1702028_1704512
-%eng:	but it is going up.
-*JOS:	mae (y)n gwella (y)chydig bach . 1705215_1706991
-%eng:	it is improving slightly.
+%eng:	it heard yesterday, slightly.
+*JOS:	ond mae (y)n mynd ar i_fyny . 1702028_1704512
+%eng:	but it's going up.
+*JOS:	(we)di [?] gwella (y)chydig bach . 1705215_1706991
+%eng:	improved, slightly.
 *LOL:	o@s:cym&spa bueno@s:spa . 1706968_1708396
 %eng:	oh well.
-*JOS:	ond mae yn gwella (.) un wythnos . 1708629_1711996
-%eng:	it improves one week.
+*JOS:	ond mae (y)n gwella (.) un wythnos . 1708629_1711996
+%eng:	but it improves one week.
 *JOS:	a mae o (y)n mynd lawr wythnos (.) wedyn a +... 1712089_1714817
 %eng:	and it goes down the following week and...
 *LOL:	+< ie mae e . 1712925_1714027
 %eng:	yes, it does.
-*JOS:	dach chi (..) ddim gallu (.) gwybod <am bris> [//] pa bris . 1717070_1723850
+*JOS:	dach chi (..) ddim gallu (.) gwybod <am bris> [//] &w pa bris . 1717070_1723850
 %eng:	you can't be sure what price.
 *LOL:	+< wel na . 1722840_1723618
 %eng:	no.
-*LOL:	a peth arall os dan ni (we)di (.) cael gwerthu o a [/] a pan mae rywun angen yr arian a wel a [/] a (dy)na fo waeth i nhw heb a (.) poeni ragor wedyn . 1723670_1733005
-%eng:	and another thing is if we have sold it, when one needs the money and, well, there we go, they might as well not worry about it any more then.
-*LOL:	mae (y)na ddigon . 1733075_1734573
-%eng:	there is enough.
-*LOL:	fel mae o (y)n mynd fyny hwyrach (fa)sai fo (y)n mynd lawr wedyn neu bod neb yn gofyn ragor amdano fo . 1737722_1742122
-%eng:	as it goes up, maybe it would go down afterwards, or there is no demand for it any more.
+*LOL:	a peth arall os dan ni (we)di (.) cael gwerthu o a [/] a pan mae rywun angen yr arian a wel xxx (dy)na fo waeth i nhw heb uh (.) poeni ragor wedyn . 1723670_1733005
+%eng:	and another thing is if we have sold it, when one needs the money and, well, [...] there we go, they might as well not worry about it any more then.
+*LOL:	(dy)na ddigon . 1733075_1734573
+%eng:	that's enough.
+*LOL:	fel mae o mynd fyny hwyrach (fa)sai fo (y)n mynd lawr wedyn efo [?] neb yn gofyn ragor amdano fo . 1737722_1742122
+%eng:	when it goes up, it might go down afterwards with nobody demanding it any more.
 *LOL:	wedyn (dy)na fo . 1742215_1742772
 %eng:	so there we are.
 *JOS:	[- spa] es una lotería la venta del lana . 1743260_1745419
 %eng:	selling wool is a lottery.
-*LOL:	xxx ? 1745117_1746592
-*LOL:	[- spa] claro . 1746146_1747180
-%eng:	of course.
+*LOL:	[-spa] xxx ? 1745117_1746592
+%eng:	[check]
+*LOL:	[- spa] bueno . 1746146_1747180
+%eng:	right.
 *JOS:	[- spa] nunca se sabe qué precio . 1749571_1751475
 %eng:	you never know what price.
 *LOL:	+< na . 1751394_1752091
@@ -1204,13 +1200,13 @@
 %eng:	I spoke to...
 *LOL:	huh@s:cym&spa +... 1781091_1781335
 %eng:	huh...
-*LOL:	mae Elwyn_Edwards@s:cym&spa wedi +/. 1784575_1785945
-%eng:	Elwyn Edwards has...
+*LOL:	oedd Elwyn_Edwards@s:cym&spa (we)di +/. 1784575_1785945
+%eng:	Elwyn Edwards was...
 *JOS:	+< xxx . 1784831_1785574
 *JOS:	be ? 1785922_1786270
 %eng:	what?
-*LOL:	mae Elwyn_Edwards@s:cym&spa wedi mynd i fynd i chwalu (y)r (.) gwrtaith ar yr +... 1786282_1790195
-%eng:	Elwyn Edwards was going to go and spread the manure on the...
+*LOL:	oedd Elwyn_Edwards@s:cym&spa <ddim mynd i_fyny> [?] i chwalu (y)r (.) cwrtaith ar yr xx +..? 1786282_1790541
+%eng:	wasn't Elwyn Edwards going up to spread the manure on the [...] ...?
 *JOS:	oedd hwyrach bod o (.) wneud (hyn)na heddiw . 1790914_1793422
 %eng:	yes, maybe he's doing that today.
 *LOL:	ah@s:cym&spa . 1793546_1794312
