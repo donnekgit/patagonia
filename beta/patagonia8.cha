@@ -49,8 +49,8 @@
 %eng:	yes mm.
 *ELE:	ia ac oedd Martín@s:cym&spa a Nancy@s:cym&spa . 38292_40810
 %eng:	yes and Martín and Nancy
-*VIC:	[- spa] claro xxx . 40783_42133
-%eng:	sure, [...]
+*VIC:	[- spa] claro ya está . 40783_42133
+%eng:	sure, that's it
 *ELE:	[- spa] sí . 42133_42876
 %eng:	yes.
 *VIC:	yn Corte@s:spa xx ? 42877_43991
@@ -165,15 +165,15 @@
 %eng:	because it's a weekend day, I don't know
 *VIC:	<sut (.)> [/] sut maen nhw (y)n wneud o . 146825_149171
 %eng:	how they do it.
-*VIC:	me@s:spa había@s:spa gustado@s:spa ir@s:spa pero@s:spa eh@s:cym&spa (.) no@s:spa es@s:spa fácil@s:spa . 150728_155993
+*VIC:	me@s:spa hubiera@s:spa gustado@s:spa ir@s:spa pero@s:spa eh@s:cym&spa (.) no@s:spa es@s:spa es@s:spa fácil@s:spa . 150728_155993
 %eng:	I would've liked to go but it's not easy
 *VIC:	[- spa] no es fácil . 155998_157214
 %eng:	it's not easy
-*VIC:	[- spa] [check] y sale un poco caro también con el cuestión de xx al día siguiente . 158044_162139
+*VIC:	[- spa]  y sale un poco caro también con la cuestión de que al día siguiente . 158044_162139
 %eng:	and it works out a bit expensive too with the matter of xx until the next day.
-*VIC:	[- spa] teníamos@s:spa el@s:spa almuerzo@s:spa este@s:spa y +... 162144_164171
+*VIC:	[- spa] teníamos@s:spa el@s:spa almuerzo@s:spa este@s:spa y@s:spa +... 162144_164171
 %eng:	we have dinner, this and...
-*VIC:	+, [- spa] y hay cuantas cosas . 165065_166105
+*VIC:	+, [- spa] y unas cuantas cosas . 165065_166105
 %eng:	and there are so many things.
 *ELE:	+< ie . 165065_166105
 %eng:	yes.
@@ -181,16 +181,16 @@
 %eng:	yes, have dinner afterwards.
 *VIC:	gwneud te también@s:spa claro@s:spa . 168980_171039
 %eng:	making dinner too, sure.
-*ELE:	+< sí@s:spa ia . 169605_170843
-%eng:	[...] yes.
-*VIC:	mae raid i ti gael te rywle . 170896_172197
+*ELE:	+< sí@s:spa mirá@s:spa  . 169605_170843
+%eng:	yes.
+*VIC:	 mae raid i ti gael te rywle . 170896_172197
 %eng:	you have to have dinner somewhere.
 *VIC:	achos fedri di (ddi)m bod yr holl oriau <yna (y)n (.)> [/] yn (.) wneud dim_byd . 172155_177360
 %eng:	because you can't just do nothing for all those hours
 *ELE:	ie . 177365_177835
 %eng:	yes.
-*ELE:	ddaru ni eiste(dd) i gael te <yn yr (.)> [/] yn yr <gwesty (y)r> [?] xxx [check] . 177968_182748
-%eng:	we sat to have dinner in the [...]
+*ELE:	ddaru ni eiste(dd) i gael te <yn yr (.)> [/] yn yr <gwesty (y)r> [?] Comercio@s:cym&spa . 177968_182748
+%eng:	we sat to have dinner in the Comercio.
 *VIC:	+< ah@s:cym&spa do . 182464_182976
 %eng:	ah yes.
 *VIC:	<rhai o_gwmpas xxx (.)> [//] rhai o_gwmpas yndy ? 183088_186171
@@ -336,8 +336,8 @@
 *ELE:	xxx . 306662_307862
 *ELE:	xxx . 308708_309396
 %eng:	[...]
-*VIC:	[- spa] [check] xx se cambia este también . 309408_311611
-%eng:	[...] this changes too
+*VIC:	[- spa]  xx sacame este también . 309408_311611
+%eng:	[...] take this out   too
 *ELE:	[- spa] bueno . 310836_311668
 %eng:	ok.
 *ELE:	o@s:cym&spa . 315164_315804
@@ -347,7 +347,7 @@
 %eng:	yes, it will!
 *ELE:	wela ffor(dd) (y)na . 324093_325250
 %eng:	look over there
-*ELE:	xxx . 325255_326845
+*ELE:	xxx clable@s:spa . 325255_326845
 @Comment:	voices in the background for about a minute.
 *ELE:	wyt ti (y)n gwybod ffordd i roid nhw (y)n_ôl (y)ma ? 414077_415852
 %eng:	do you know a way of putting them back here ?
@@ -390,8 +390,8 @@
 *ELE:	ah@s:cym&spa . 443155_443971
 *VIC:	a mae (y)n naw_deg pedwar oed . 445808_447893
 %eng:	and she's 94 years old.
-*ELE:	xxx . 447893_450238
-%eng:	[...]
+*ELE:	ay@s:spa xxx  . 447893_450238
+%eng:	ah ...
 *ELE:	a wedi cael oparesions xxx . 450839_454050
 %eng:	and has had operations [...]
 *VIC:	wn i ddim . 454158_455048
@@ -402,8 +402,8 @@
 %eng:	ah, yes.
 *VIC:	dw i (ddi)m yn siŵr iawn . 459458_460391
 %eng:	I'm not too sure
-*VIC:	[- spa] parece que aclara . 463652_465442
-%eng:	it looks like it's clearing
+*VIC:	[- spa] parece que va a clarar . 463652_465442
+%eng:	it looks like it's going to be clear sky.
 *VIC:	mae (y)r (..) cymylau wedi mynd . 465320_467572
 %eng:	the clouds have gone
 *ELE:	o@s:cym&spa . 467276_468801
@@ -423,9 +423,11 @@
 %eng:	in case we...
 *VIC:	wel ia . 480493_481251
 %eng:	well yes.
-*VIC:	[- spa] salir por acá xx salir por ahí [check] . 483572_485785
-%com:	check this again. there may be Welsh here as well as Sp.
-*ELE:	[- spa] acá sí [?] . 485854_487732
+*VIC:	[- spa] salí por acá para ... 483526_484673
+%eng:	go out this way to ...
+*VIC:	[- spa]  hubieses salido por ahí . 484469_485785
+%eng:	you were to leave this way.
+*ELE:	[- spa] acá sí . 485854_487732
 *ELE:	xxx . 496723_503081
 *VIC:	naddo . 503087_504228
 %eng:	no.
@@ -969,12 +971,12 @@
 %eng:	not big enough for me to go through, but the stick goes
 *ELE:	mm +... 1123014_1124534
 %eng:	mm
-*ELE:	[- spa] así que no se . 1127687_1129783
+*ELE:	[- spa] así que no sé . 1127687_1129783
 %eng:	so I don't know
 *ELE:	[- spa] sí . 1129799_1132396
 %eng:	yes
-*VIC:	quién@s:spa es@s:spa el@s:spa ganador@s:spa de@s:spa la@s:spa Coron esta@s:spa vez@s:spa también@s:spa ? 1132729_1136206
-%eng:	who is the winner of the Coron, this time again..?
+*VIC:	quién@s:spa se@s:spa ganó@s:spa la@s:spa corona@s:spa esta@s:spa vez@s:spa también@s:spa ? 1132729_1136206
+%eng:	who is the winner of the crown, this time too ..?
 *VIC:	la@s:spa chica@s:spa de@s:spa Magwen@s:cym&spa neu ? 1136206_1137591
 %eng:	Magwen's girl or..?
 *ELE:	+< ie [//] sí@s:spa . 1137100_1138103
@@ -983,7 +985,7 @@
 %eng:	whose daughter is she then?
 *ELE:	+< Pauline@s:cym&spa . 1138921_1139801
 *ELE:	merch uh Ramona@s:cym&spa a (.) a Luís@s:cym&spa . 1141225_1147749
-%eng:	Ramona and Luís' daughter
+%eng:	Ramona and Luis' daughter
 *ELE:	xxx . 1147752_1149139
 %eng:	[...]
 *VIC:	ie . 1148653_1149192
@@ -1316,13 +1318,13 @@
 *VIC:	a wedyn oedd hi (y)n bechod . 1498868_1500848
 %eng:	and so it was a pity
 *VIC:	&=laugh . 1501275_1502176
-*VIC:	ie todo@s:spa es@s:spa tan@s:spa cerca@s:spa así@s:spa que@s:spa +... 1508226_1510977
+*VIC:	ie todos@s:spa estaban@s:spa cerca@s:spa así@s:spa que@s:spa +... 1508226_1510977
 %eng:	yes, everything is so close so...
 *ELE:	mm +... 1510982_1511526
-*VIC:	[- spa] no [check] mucho llegar a tu casa [check] <colocar> en el bicicleta . 1511526_1515049
-%eng:	[...]
-*ELE:	xxx . 1515055_1517532
-%eng:	[...]
+*VIC:	[- spa] nos tardaba mucho en llegar a tu casa porque íbamos por lo general en el bicicleta . 1511526_1515049
+%eng:	we were taking too much time in arriving to your home because generally we were going by bicycles.
+*ELE:	ay xxx . 1515055_1517532
+%eng:	ah ...
 *ELE:	lle bod chi gorfod (.) uh (..) xx (y)r ceffylau a pethau fel (y)na ie . 1522112_1529896
 %eng:	so you don't have to, er, [...] the horses and things like that, eh
 *VIC:	+< oedd yr hen geffyl druan . 1529533_1531114
@@ -1394,11 +1396,13 @@
 %eng:	naughty children
 *ELE:	ie . 1610181_1611248
 %eng:	yes
-*VIC:	[- spa] bueno che no sé xxx [check] muchacha . 1616106_1620352
-%eng:	I don't know [...] maid.
+*VIC:	[- spa] bueno che no sé ni xxx  . 1616097_1618017
+%eng:	I don't know [...] .
+*VIC:	dónde se fue esta muchacha ? 1617836_1620352
+%eng:	Where did this girl go ?
 *ELE:	+< xx amser ? 1617210_1618032
 %eng:	[...] time?
-*VIC:	[- spa] qué hora tienes ? 1620257_1621692
+*VIC:	[- spa] qué hora tenés ? 1620257_1621692
 %eng:	what time is it?
 *ELE:	mae (y)n dri munud (.) i ddeuddeg . 1621724_1626292
 %eng:	three minutes to twelve
@@ -1408,8 +1412,8 @@
 *VIC:	achos mae (y)r cloc +/. 1631952_1633269
 %eng:	because the clock...
 *ELE:	+< xxx . 1632687_1634802
-*VIC:	ie mi fydd xx recuerdo@s:spa [check] mae o . 1637845_1639996
-%eng:	yes it'll [...]
+*VIC:	ie mi fydd darle@s:spa recuerda@s:spa mae o . 1637845_1639996
+%eng:	yes it'll wind the watch [...]'.
 *VIC:	mae o (y)n (.) fod i (.) fynd ei hunan pan o(eddw)n i +//. 1639996_1643161
 %eng:	it's supposed to go by itself when I...
 *VIC:	ond os dw i (y)n cysgu yn y nos xxx (y)n dawel dw i ddim yn +... 1643161_1646961
@@ -1489,9 +1493,9 @@
 %eng:	yes
 *VIC:	dw i (ddi)m yn cofio be ydy enw (y)r lle (y)na chwaith . 1731791_1733589
 %eng:	I don't remember the name of that place either.
-*ELE:	[check] . 1733626_1735210
+*ELE:	xxx  . 1733626_1735210
 *VIC:	+< &e . 1733872_1734261
-*VIC:	[check] oedd o ia . 1735216_1736618
+*VIC:	xxx oedd o ia . 1735216_1736618
 %eng:	it was [...] yes.
 *VIC:	nawr <pwy sy (y)n> [/] pwy sy (y)n pregethu fan (hyn)ny ? 1736618_1738778
 %eng:	now who's preaching there?
