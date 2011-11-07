@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -133,7 +132,7 @@
 *PEN:	+< mae o (y)n lot (.) yndy ? 102840_104413
 %eng:	it's a lot, isn't it
 *MAN:	mm +... 104457_105014
-*PEN:	raid ti ddeud wrth dy fam fynd +... 104947_106230
+*PEN:	raid ti ddeud wrth dy fam fynd . 104947_106230
 %eng:	you'll have to tell your mother to go.
 *MAN:	ie (.) i wneud cwmni wir . 106835_109035
 %eng:	yes, to make company, sure.
@@ -223,7 +222,7 @@
 %eng:	on the farm?
 *PEN:	+< ar [//] yn y ffarm . 176354_177689
 %eng:	on the farm
-*PEN:	a <wel fan hynny> [?] dw i (we)di cael ym magu (.) nes bod fi wedi priodi . 178260_182217
+*PEN:	a <wel fan (hyn)ny> [?] dw i (we)di cael ym magu (.) nes bod fi wedi priodi . 178260_182217
 %eng:	and I was brought up there, until I was married.
 *MAN:	+< ie . 180313_180841
 %eng:	yes.
@@ -237,7 +236,7 @@
 %eng:	seven...
 *MAN:	na . 194724_195078
 %eng:	no
-*MAN:	llai . 195130_195554
+*MAN:	llai [?] . 195130_195554
 %eng:	less.
 *MAN:	chwe_deg (.) blynedd yn_ôl . 195630_197882
 %eng:	60 years ago
@@ -297,7 +296,7 @@
 %eng:	but there you are
 *MAN:	+< Natalia@s:cym&spa Elwyn@s:cym&spa a (y)r plant a +... 244806_246820
 %eng:	Natalia, Elwyn and the children and...
-*PEN:	+< fel (y)na mae &m +/. 245584_246339
+*PEN:	+< <fel (y)na mae> [?] &m +/. 245584_246339
 %eng:	that's how it is, [...].
 *PEN:	ia fel (y)na mae pethau . 247672_249611
 %eng:	yes, that's the way things are
@@ -324,7 +323,7 @@
 %eng:	...have fun
 *PEN:	&=laugh ia oedden ni (y)n cael hwyl efo (ei)n gilydd yn +... 270930_274088
 %eng:	yes we used to have fun together
-*PEN:	ia amser neis iawn . 274632_276339
+*PEN:	ia amser [?] neis iawn . 274632_276339
 %eng:	yes, a very nice time.
 *PEN:	gorod gweithio lot yn galed (he)fyd . 276846_278593
 %eng:	had to work hard a lot as well
@@ -475,7 +474,7 @@
 *MAN:	&=noise . 420020_420264
 *PEN:	ia ia . 420373_420936
 %eng:	yes
-*PEN:	raid ti ddechrau gweithio (he)fyd ! 421127_422474
+*PEN:	bydd [?] raid ti ddechrau gweithio (he)fyd ! 421127_422474
 %eng:	you'll have to start working too!
 *PEN:	&pue (.) ydy [?] +..? 422632_423572
 %eng:	is..?
@@ -521,8 +520,8 @@
 *MAN:	mm +... 459734_460291
 *PEN:	siŵr . 460402_460947
 %eng:	sure
-*PEN:	oedd [?] golwg wedi blino arnat ti xxx dyddiau cynt(a) . 461608_464226
-%eng:	you looked tired [...] first days.
+*PEN:	oedd [?] golwg wedi blino arnat ti xxx . 461608_464226
+%eng:	you looked tired [...] .
 *MAN:	&=laugh ! 464284_465242
 *PEN:	+< <ti (we)di newid> [//] wyt ti (we)di newid &xni (y)chydig dy wyneb rŵan ! 464544_468186
 %eng:	you've changed your face a little now!
@@ -541,8 +540,8 @@
 %eng:	well, I have to...
 *PEN:	+< a (dy)na fo . 477611_478029
 %eng:	and that's it
-*MAN:	dw i wedi cael hel nerth (.) uh i [/] (.) i mynd yn_ôl rŵan i (.) stydio . 478710_484070
-%eng:	I've been able to build up some energy to go back now to study.
+*MAN:	dw i wedi cael hel nerfs [?] (.) uh i [/] (.) i mynd yn_ôl rŵan i (.) stydio . 478710_484070
+%eng:	I've been able to gather my nerves for going back now to study.
 *PEN:	mm (..) mm +... 480779_484163
 *MAN:	wneud arholiadau fawr . 485084_486437
 %eng:	do the big exams
