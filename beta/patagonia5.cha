@@ -19,7 +19,7 @@
 @Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Unable to distinguish between CRI and FRA.
 @Warning:	OSE is Margaret Deuchar the first time, but Peredur Davies later on!
-*ANA:	o@s:cym&spa dyna fo . 203_1136
+*ANA:	oh@s:cym&spa dyna fo . 203_1136
 %eng:	oh, there we are
 *ANA:	xxx bod ni heb ddim (.) cyfeiliant na dim_byd . 1227_4001
 %eng:	[...] that we have no accompaniment or anything
@@ -173,7 +173,7 @@
 %eng:	[...]
 *GLO:	ydw . 173040_173840
 %eng:	yes
-*ANA:	o@s:cym&spa dyna rywbeth go lew . 174395_175611
+*ANA:	oh@s:cym&spa dyna rywbeth go lew . 174395_175611
 %eng:	oh, that's something good
 *GLO:	+< +, os bydd gwrdd . 174577_175419
 %eng:	if there is a meeting
@@ -191,7 +191,7 @@
 %eng:	yes.
 *GLO:	a (y)r gymanfa a (y)r busnes bod y [/] y teulu yna mewn trybini ynde . 188763_194107
 %eng:	and the hymn festival, and that business about that family in trouble
-*ANA:	+< o@s:cym&spa mm (.) ie . 189126_191198
+*ANA:	+< oh@s:cym&spa mm (.) ie . 189126_191198
 %eng:	oh, mm, yes
 *ANA:	cymanfa ar_ôl eisteddfod . 194070_195808
 %eng:	a hymn festival after the eisteddfod
@@ -201,7 +201,7 @@
 %eng:	well, to keep until the next Sunday
 *ANA:	ond mae raid gofalu roi o mewn pryd i (y)r [//] uh (.) i [/] i Sara@s:cym&spa &ii &ww roi o ar y (.) radio@s:cym&spa . 200583_209026
 %eng:	but must be careful to give it in time for Sara to put it on the radio
-*GLO:	+< o@s:cym&spa mae isio (.) deud wrth Pamela@s:cym&spa +... 208199_210311
+*GLO:	+< oh@s:cym&spa mae isio (.) deud wrth Pamela@s:cym&spa +... 208199_210311
 %eng:	oh,  Pamela needs to be told...
 *GLO:	gofio [/] cofio gofyn i Pamela@s:cym&spa <er mwyn> [/] uh er_mwyn iddi hi gael edrych fewn i +... 210202_215936
 %eng:	remember to ask Pamela so that she can look into...
@@ -257,7 +257,7 @@
 %eng:	something similar to today
 *GLO:	all(i) [/] alli di uh arwain y cwrdd a este@s:spa (.) [/] a canu a chwbl o wrth eistedd . 266035_272127
 %eng:	you could lead the meeting and... and sing and everything sitting down
-*ANA:	o@s:cym&spa (we)dyn [?] mae ngolwg wedi mynd . 271835_273585
+*ANA:	oh@s:cym&spa (we)dyn [?] mae ngolwg wedi mynd . 271835_273585
 %eng:	oh, my sight has gone
 *ANA:	does galla i (ddi)m +/. 273579_274401
 %eng:	I can't...
@@ -285,7 +285,7 @@
 %eng:	but do you know what?
 *ANA:	&m yn Gymraeg dw i wedi dysgu nhw a waeth i fi hefyd eu [?] deud nhw yn Gymraeg yn fan (y)na . 299140_303876
 %eng:	I've learnt them in Welsh, and I may as well say them in Welsh there
-*GLO:	o@s:cym&spa paid â meddwl ! 304991_305780
+*GLO:	oh@s:cym&spa paid â meddwl ! 304991_305780
 %eng:	oh, think nothing of it
 *GLO:	mae (y)na &m dim_ond Pamela@s:cym&spa &s a (y)r pastor@s:spa (ba)sai ddim yn dy ddeall di . 305780_309099
 %eng:	there's only Pamela and the minister who wouldn't understand you
@@ -295,7 +295,7 @@
 %eng:	yes
 *ANA:	a mi ges i deud &i hi fy hunan . 322016_323728
 %eng:	and I got to say it myself
-*GLO:	[- spa] o@s:cym&spa bueno ! 324422_325446
+*GLO:	[- spa] oh@s:cym&spa bueno ! 324422_325446
 %eng:	oh, good!
 *ANA:	+< a wedyn uh +/. 324624_325286
 %eng:	and then...
@@ -366,7 +366,7 @@
 %eng:	...sing?
 *GLO:	+, canu deuawd efo hi . 395643_396790
 %eng:	sing a duet with her
-*ANA:	+< o@s:cym&spa fasai hynny (y)n fendith heb sôn am +/. 395985_398209
+*ANA:	+< oh@s:cym&spa fasai hynny (y)n fendith heb sôn am +/. 395985_398209
 %eng:	oh, that would be a blessing, let alone...
 *GLO:	+< achos (ba)sai Linda@s:cym&spa (y)n chwarae (y)r organ ? 397335_399079
 %eng:	because Linda would play the organ?
@@ -378,7 +378,7 @@
 %eng:	and we're learning tones for three voices
 *GLO:	a oedden ni wedi meddwl +/. 413012_414623
 %eng:	and we had thought...
-*ANA:	+< o@s:cym&spa o(eddw)n i (y)n canu hwnnw ond dw i ddim yn gallu darllen yr [//] y geiriau . 413194_416964
+*ANA:	+< oh@s:cym&spa o(eddw)n i (y)n canu hwnnw ond dw i ddim yn gallu darllen yr [//] y geiriau . 413194_416964
 %eng:	oh, I used to sing those, but I can't read the words
 *ANA:	a wedyn uh +//. 417735_418461
 %eng:	and then...
@@ -402,7 +402,7 @@
 %eng:	we've sung a duet with Ignacio
 *ANA:	a dan ni wedi canu pedwarawd o (y)r plant (.) â fi (y)n canu bas (o)s gwelwch yn dda . 457507_462233
 %eng:	and we've sung a quartet of the children, with me singing bass, if you please
-*GLO:	[- spa] +< o@s:cym&spa está muy bien . 460981_462368
+*GLO:	[- spa] +< oh@s:cym&spa está muy bien . 460981_462368
 %eng:	oh, it is very nice.
 *GLO:	ie ie . 462832_463642
 %eng:	yes
@@ -448,7 +448,7 @@
 %eng:	because when I was being brought up there was harder work.
 *ANA:	oe(dd) bethau ofnadwy (y)n [/] yn [/] yn digwydd . 524474_526852
 %eng:	awful things used to happen
-*GLO:	o@s:cym&spa debyg iawn ! 526977_528476
+*GLO:	oh@s:cym&spa debyg iawn ! 526977_528476
 %eng:	oh, very likely!
 *ANA:	ac yn gallu gweithio Dada@s:cym&spa a Mam@s:cym&spa yn y dydd (.) a (ei)n dysgu ni ganu neu chwarae (y)r organ neu [/] neu [/] neu beth oedd eisio neu [/] neu solffeuo neu &g arwain tôn yn y nos . 528704_541504
 %eng:	and Dada and Mam were able to work in the day and teach us to sing or play the organ or whatever was needed, or singing sol-fa, or leading a tune, at night.
@@ -579,7 +579,7 @@
 %eng:	there you are, Ignacio
 *GLO:	cig rost neu allan ar y [/] y lle tân ? 667170_669538
 %eng:	roasted meat, or outside on the fire ?
-*ANA:	ie o@s:cym&spa ie ! 669513_670516
+*ANA:	ie oh@s:cym&spa ie ! 669513_670516
 %eng:	yes, oh yes
 *GLO:	na yn y stôf ? 670505_671486
 %eng:	no, in the stove?
@@ -643,7 +643,7 @@
 *OSE:	helo ! 720962_721495
 *ANA:	[- spa] cuánto xxx ? 722931_724387
 %eng:	how much [...]
-*OSE:	o@s:cym&spa helo ! 724931_726099
+*OSE:	oh@s:cym&spa helo ! 724931_726099
 *OSE:	&da dach chi &v wedi redeg allan o [/] o bethau i siarad ? 726906_730026
 %eng:	have you run out of things to talk?
 *ANA:	eh@s:cym&spa ? 730335_730805
@@ -678,11 +678,11 @@
 %eng:	where you travelled in the past on your holidays
 *GLO:	lle aethon ni ar ein gwyliau ! 777981_779320
 %eng:	where we went on holiday!
-*ANA:	o@s:cym&spa ! 779293_780376
+*ANA:	oh@s:cym&spa ! 779293_780376
 %eng:	oh!
 *OSE:	+< lefydd neis dach chi (y)n licio . 779693_781656
 %eng:	nice places that you like
-*ANA:	o@s:cym&spa . 782402_783192
+*ANA:	oh@s:cym&spa . 782402_783192
 %eng:	oh.
 *OSE:	ie ? 783784_784247
 %eng:	yes?
@@ -738,7 +738,7 @@
 *GLO:	&=laugh . 840569_841508
 *ANA:	dyna be fyswn i (y)n licio . 841764_843292
 %eng:	that's what I'd like
-*GLO:	o@s:cym&spa wel wel ! 843090_844618
+*GLO:	oh@s:cym&spa wel wel ! 843090_844618
 %eng:	oh, well, well!
 *GLO:	hwyrach (ba)sai rywun yn +... 844752_846330
 %eng:	maybe if somebody...
@@ -754,7 +754,7 @@
 %eng:	not like before
 *GLO:	+, drio gael lle bach mwy agos <dan ni> [?] mynd ! 858653_860632
 %eng:	...try and find somewhere a little nearer and we'll go!
-*ANA:	&=laugh o@s:cym&spa na ! 860607_862281
+*ANA:	&=laugh oh@s:cym&spa na ! 860607_862281
 %eng:	oh, no!
 *GLO:	(ba)swn i yn &h [/] yn hoffi +//. 863735_865527
 %eng:	I would like...
@@ -850,7 +850,7 @@
 %eng:	sure
 *FRA:	[- spa] y Perito_Moreno@s:cym&spa ? 965710_967150
 %eng:	and Perito Moreno?
-*ANA:	o@s:cym&spa &sg dim posib deud hwnnw yn Gymraeg siŵr . 967315_970312
+*ANA:	oh@s:cym&spa &sg dim posib deud hwnnw yn Gymraeg siŵr . 967315_970312
 %eng:	oh, you can't say that in Welsh, I'm sure
 *GLO:	&=laugh . 969731_970024
 *ANA:	ond os ti (ddi)m isio deud ei enw o ddim ond deud y lle . 971820_974215
@@ -942,11 +942,11 @@
 %eng:	here in Rawson?
 *OSE:	ia . 1058621_1059367
 %eng:	yes
-*ANA:	+< o@s:cym&spa ychydig iawn . 1058866_1060018
+*ANA:	+< oh@s:cym&spa ychydig iawn . 1058866_1060018
 %eng:	oh, very few
 *OSE:	ia dach chi ddim (we)di cyfarfod pobl fel (y)na ? 1060041_1061936
 %eng:	right, you've not met people like that?
-*ANA:	+< &mb o@s:cym&spa ychydig iawn ia . 1060699_1062619
+*ANA:	+< &mb oh@s:cym&spa ychydig iawn ia . 1060699_1062619
 %eng:	oh, very few, yes
 *ANA:	oedd uh [///] mae misus [/] uh misus Elwyn_Lloyd@s:cym&spa . 1063064_1065960
 %eng:	there's Mrs Elwyn Lloyd
@@ -962,7 +962,7 @@
 %eng:	and there's Alan Williams
 *ANA:	ond mae o mor gastiog i siarad Cymraeg â sy bosib i rywun fod . 1075509_1079359
 %eng:	but he's as tricky about speaking Welsh as anyone can be
-*GLO:	o@s:cym&spa na xxx . 1079211_1080609
+*GLO:	oh@s:cym&spa na xxx . 1079211_1080609
 %eng:	oh no [...]
 *ANA:	ofn methu ond wel +... 1080097_1081691
 %eng:	afraid to get it wrong but well...
@@ -1001,7 +1001,7 @@
 %eng:	yes, people here and people...
 *OSE:	ie (dy)na chi . 1122127_1123012
 %eng:	yes, that's it
-*ANA:	o@s:cym&spa wel oes . 1122963_1124259
+*ANA:	oh@s:cym&spa wel oes . 1122963_1124259
 %eng:	oh, well yes
 *ANA:	mae (y)na [///] oes (y)na ddim cymaint o Gymry bellach <yn y> [/] (.) <yn y> [/] yn yr Andes@s:cym&spa ac yn fan hyn ynde ? 1124388_1130807
 %eng:	there aren't as many Welsh people further into the Andes or here, are there?
@@ -1025,7 +1025,7 @@
 %eng:	in Trevelin?
 *GLO:	siŵr yn uh +/. 1153322_1154196
 %eng:	certainly in...
-*ANA:	+< o@s:cym&spa efallai yn Trevelin@s:cym&spa . 1153968_1155680
+*ANA:	+< oh@s:cym&spa efallai yn Trevelin@s:cym&spa . 1153968_1155680
 %eng:	oh, maybe in Trevelin
 *ANA:	ond uh (y)r un fath (y)dy o <ddim os ti (y)n capel> [?] +... 1155687_1159436
 %eng:	but it's the same, not if you're in chapel...
@@ -1063,7 +1063,7 @@
 %eng:	there are a lot of Welsh people.
 *GLO:	achos wyt ti (y)n cymryd um um +... 1191831_1194935
 %eng:	because you take, um...
-*ANA:	o@s:cym&spa ia ia . 1194897_1195948
+*ANA:	oh@s:cym&spa ia ia . 1194897_1195948
 %eng:	oh, yes
 *ANA:	ond neb yn uh +/. 1196924_1198065
 %eng:	but nobody...
@@ -1099,7 +1099,7 @@
 %eng:	mm
 *ANA:	ia . 1235695_1236335
 %eng:	yes
-*GLO:	o@s:cym&spa oes no@s:spa maen nhw wedi gweithio ac yn gweithio i gadw (y)r uh +... 1236419_1240563
+*GLO:	oh@s:cym&spa oes no@s:spa maen nhw wedi gweithio ac yn gweithio i gadw (y)r uh +... 1236419_1240563
 %eng:	oh yes, no, they have worked, and are working to keep the, um...
 *ANA:	+< yndy yndyn . 1239086_1240393
 %eng:	yes, they are
@@ -1115,7 +1115,7 @@
 %eng:	"traddodiadau", are they?
 *GLO:	traddodiadau ydyn nhw ie ? 1252162_1253559
 %eng:	"traddodiadau", are they, yes?
-*ANA:	+< o@s:cym&spa ie ie . 1252327_1253383
+*ANA:	+< oh@s:cym&spa ie ie . 1252327_1253383
 %eng:	oh yes, yes.
 *ANA:	ie wir . 1254396_1255106
 %eng:	yes indeed

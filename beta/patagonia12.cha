@@ -13,7 +13,7 @@
 @Comment:	Filename: Patagonia12.cha; Soundfile: Patagonia12.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	PEN uses [tan] for 'pan' (when) several times. Still transcribed as "pan" here.
-*MAN:	o@s:cym&spa beth mae wedi digwydd ? 6_1515
+*MAN:	oh@s:cym&spa beth mae wedi digwydd ? 6_1515
 %eng:	oh, what's happened?
 *MAN:	dw i wedi clywed rywbeth ond +... 1510_2973
 %eng:	I've heard something, but...
@@ -44,7 +44,7 @@
 %eng:	and then I stood because I wasn't feeling too good.
 *PEN:	a wedyn cael mynd i (y)r asado@s:spa . 33957_36233
 %eng:	and then going to the barbecue.
-*MAN:	o@s:cym&spa andros o neis [=! laughs] ! 36941_39518
+*MAN:	oh@s:cym&spa andros o neis [=! laughs] ! 36941_39518
 %eng:	oh, extremely nice!
 *PEN:	+< &=laugh . 38311_38938
 *PEN:	a aethon ni i (y)r asado@s:spa . 39452_40729
@@ -63,7 +63,7 @@
 %eng:	yes, and then everyone did folk dancing
 *MAN:	+< a wedyn dawnsio gwerin ? 48377_49933
 %eng:	and then folk dancing
-*PEN:	o@s:cym&spa oedd o neis iawn . 51915_53273
+*PEN:	oh@s:cym&spa oedd o neis iawn . 51915_53273
 %eng:	oh it was very nice
 *MAN:	wnest ti mwynhau ? 53551_54503
 %eng:	did you enjoy it?
@@ -143,7 +143,7 @@
 *PEN:	yndy ? 109883_110562
 %eng:	yes?
 *MAN:	+< xx . 109979_110577
-*PEN:	o@s:cym&spa mae efo ti lot o ffrindiau yn Córdoba@s:cym&spa a wyt ti (y)n pasio amser neis . 111611_115372
+*PEN:	oh@s:cym&spa mae efo ti lot o ffrindiau yn Córdoba@s:cym&spa a wyt ti (y)n pasio amser neis . 111611_115372
 %eng:	oh, you have a lot of friends in Cordoba and you have a nice time.
 *MAN:	ia ond mae (y)n gwahanol efo (y)r teulu . 115287_117496
 %eng:	yes, but it's different with family
@@ -290,7 +290,7 @@
 %eng:	yes [...].
 *MAN:	+< Mam@s:cym&spa a Dad@s:cym&spa a fi . 242501_244213
 %eng:	Mum and Dad and me.
-*PEN:	+< o@s:cym&spa oes . 243229_244140
+*PEN:	+< oh@s:cym&spa oes . 243229_244140
 %eng:	oh, yes
 *PEN:	ond (dy)na fo . 244500_245139
 %eng:	but there you are
@@ -425,7 +425,7 @@
 %eng:	to live in Gaiman
 *PEN:	a wedyn oedd yna becws hefo ni yn y Gaiman@s:cym&spa . 372355_375118
 %eng:	and then we had a bakery in Gaiman
-*MAN:	+< o@s:cym&spa dechrau (y)r becws . 374607_375901
+*MAN:	+< oh@s:cym&spa dechrau (y)r becws . 374607_375901
 %eng:	oh, starting the bakery
 *PEN:	ie . 376047_376406
 %eng:	yes
@@ -478,7 +478,7 @@
 %eng:	you'll have to start working too!
 *PEN:	&pue (.) ydy [?] +..? 422632_423572
 %eng:	is..?
-*PEN:	o@s:cym&spa (dy)na fo ! 423857_424756
+*PEN:	oh@s:cym&spa (dy)na fo ! 423857_424756
 %eng:	oh, there you are!
 *MAN:	wel wnes i cael profiad gwaith yn barod [?] . 424549_426842
 %eng:	well I had work experience already
@@ -592,7 +592,7 @@
 %eng:	tomorrow?
 *MAN:	fory . 537140_537865
 %eng:	tomorrow
-*PEN:	o@s:cym&spa <(a)mynedd ti (ddi)m> [?] +/. 538114_539617
+*PEN:	oh@s:cym&spa <(a)mynedd ti (ddi)m> [?] +/. 538114_539617
 %eng:	oh, grief, you're not...
 *MAN:	felly dw i (y)n aros am noson dim mwy yn Buenos_Aires@s:cym&spa . 539277_542104
 %eng:	so I'm staying for a night and no more in Buenos Aires
@@ -730,7 +730,7 @@
 %eng:	really?
 *MAN:	ia . 667888_668411
 %eng:	yes
-*PEN:	o@s:cym&spa neis ! 668405_669630
+*PEN:	oh@s:cym&spa neis ! 668405_669630
 %eng:	oh, nice
 *MAN:	+< <a fi> [?] wedi cael amser neis . 668550_670176
 %eng:	and I've had a nice time
@@ -758,7 +758,7 @@
 %eng:	and what about the children?
 *PEN:	Samuel@s:cym&spa a Steffan@s:cym&spa . 684159_685146
 %eng:	Samuel and Steffan
-*MAN:	o@s:cym&spa maen nhw (y)n iawn . 686028_686858
+*MAN:	oh@s:cym&spa maen nhw (y)n iawn . 686028_686858
 %eng:	oh, they're ok
 *MAN:	mae [/] mae [/] mae Samuel@s:cym&spa rŵan <yn bod> [?] <yn yr> [/] yn yr tŷ . 686852_690195
 %eng:	Samuel is in the house now
@@ -788,14 +788,14 @@
 %eng:	what time does he come back home?
 *PEN:	am hanner awr wedi tri . 713888_715240
 %eng:	at 3:30
-*MAN:	o@s:cym&spa . 715397_716024
+*MAN:	oh@s:cym&spa . 715397_716024
 *PEN:	mae o (y)n lot o amser ie ? 717476_718741
 %eng:	it's a lot of time, isn't it?
 *MAN:	wel i fan hyn ia . 718903_720122
 %eng:	well, for here, yes
 *MAN:	achos mae (y)r ysgolion eraill xx +//. 720113_722185
 %eng:	because the other schools [...]...
-*MAN:	o@s:cym&spa maen nhw (y)n dechrau wyth o (y)r gloch a maen nhw (y)n darfod hanner dydd . 722348_725908
+*MAN:	oh@s:cym&spa maen nhw (y)n dechrau wyth o (y)r gloch a maen nhw (y)n darfod hanner dydd . 722348_725908
 %eng:	oh, they start at 8 o clock and they finish at midday
 *PEN:	yndyn . 725920_726419
 %eng:	yes
@@ -864,7 +864,7 @@
 %eng:	...particularly well at school
 *PEN:	+< a beth am Samuel@s:cym&spa ? 771872_772830
 %eng:	and what about Samuel?
-*MAN:	o@s:cym&spa wel mae Samuel@s:cym&spa yn fach . 773409_775453
+*MAN:	oh@s:cym&spa wel mae Samuel@s:cym&spa yn fach . 773409_775453
 %eng:	oh, well Samuel's little
 *PEN:	yndy . 775747_776066
 %eng:	yes
@@ -926,7 +926,7 @@
 %eng:	yes, he was saying he'd come back now
 *PEN:	oedd o (we)di mynd i Dolavon@s:cym&spa . 824935_826200
 %eng:	he's gone to Dolavon
-*MAN:	o@s:cym&spa (.) i gweithio ? 826388_828356
+*MAN:	oh@s:cym&spa (.) i gweithio ? 826388_828356
 %eng:	oh, to work?
 *PEN:	uh oedd rhywun (we)di galw arno fo fynd . 828519_830272
 %eng:	er, someone had called on him to go.
@@ -961,7 +961,7 @@
 *MAN:	ah@s:cym&spa . 854228_855151
 *PEN:	+< ia yndan . 854733_856068
 %eng:	yes we do.
-*MAN:	+< o@s:cym&spa na . 855456_856756
+*MAN:	+< oh@s:cym&spa na . 855456_856756
 %eng:	oh no
 *MAN:	dw i (y)n cael bwyd un o (y)r gloch neu hanner wedi un . 857231_860191
 %eng:	I have food at 1 o clock or half past one
@@ -1035,7 +1035,7 @@
 *MAN:	iawn . 932348_932761
 %eng:	all right
 *PEN:	mm +... 932839_933426
-*MAN:	o@s:cym&spa (dy)na ti ddiwrnod ych_a_fi heddiw (y)ma . 936189_938419
+*MAN:	oh@s:cym&spa (dy)na ti ddiwrnod ych_a_fi heddiw (y)ma . 936189_938419
 %eng:	oh what an awful day today
 *PEN:	ia . 938895_939121
 %eng:	yes
@@ -1049,17 +1049,17 @@
 %eng:	really?
 *PEN:	ia . 947075_947551
 %eng:	yes.
-*MAN:	o@s:cym&spa dw i (y)n trafaelu yn yr awyren ! 947507_949469
+*MAN:	oh@s:cym&spa dw i (y)n trafaelu yn yr awyren ! 947507_949469
 %eng:	oh, I'm travelling in the plane!
 *PEN:	+< ac yn oer . 948169_949260
 %eng:	...and cold
 *MAN:	ych_a_fi ! 949431_950191
 %eng:	yuck!
-*PEN:	+< o@s:cym&spa o(eddw)n i meddwl amdanat ti . 949497_950937
+*PEN:	+< oh@s:cym&spa o(eddw)n i meddwl amdanat ti . 949497_950937
 %eng:	oh, I was thinking of you
 *PEN:	bod ti isio (.) mynd +... 950960_952504
 %eng:	that you want to go...
-*PEN:	o@s:cym&spa ["] o(eddw)n i (y)n deud efo (y)r gwynt (y)ma mor gry ! 952527_955633
+*PEN:	oh@s:cym&spa ["] o(eddw)n i (y)n deud efo (y)r gwynt (y)ma mor gry ! 952527_955633
 %eng:	"oh", I was saying, with this wind so strong!
 *PEN:	mae (y)n ofnadwy . 955778_956998
 %eng:	it's awful
@@ -1089,7 +1089,7 @@
 %eng:	don't know what was happening but...
 *PEN:	dw i (we)di cael bobl trwy (y)r bore . 977951_979501
 %eng:	I've had people all morning
-*MAN:	o@s:cym&spa ia ? 980006_980987
+*MAN:	oh@s:cym&spa ia ? 980006_980987
 %eng:	oh really?
 *PEN:	+< dyna ti . 980160_980665
 %eng:	there you are
@@ -1196,7 +1196,7 @@
 %eng:	she lived there before I came here
 *MAN:	+< neu oeddech chi (y)n gyntaf ? 1073932_1075267
 %eng:	...or were you first?
-*MAN:	+< o@s:cym&spa ! 1077175_1078464
+*MAN:	+< oh@s:cym&spa ! 1077175_1078464
 *PEN:	oedd . 1078555_1079002
 %eng:	she was
 *PEN:	xx yr amser hynny ? 1079570_1080917
@@ -1253,7 +1253,7 @@
 %eng:	ah, Grandpa
 *MAN:	ie . 1132845_1133309
 %eng:	yes
-*MAN:	o@s:cym&spa mae (y)r plant yn mynd allan o (y)r ysgol Camwy@s:cym&spa . 1134037_1136858
+*MAN:	oh@s:cym&spa mae (y)r plant yn mynd allan o (y)r ysgol Camwy@s:cym&spa . 1134037_1136858
 %eng:	oh, the children are going out of Camwy school
 *PEN:	+< o (y)r ysgol . 1136167_1136777
 %eng:	out of school.
@@ -1296,7 +1296,7 @@
 %eng:	nice
 *MAN:	achos dw i wedi gweld ffrindiau fi neithiwr . 1177018_1179433
 %eng:	because I've seen my friends last night
-*MAN:	o@s:cym&spa mae Raimundo_Garcia@s:cym&spa wedi mynd . 1179517_1181775
+*MAN:	oh@s:cym&spa mae Raimundo_Garcia@s:cym&spa wedi mynd . 1179517_1181775
 %eng:	oh, Raimundo Garcia has gone
 *PEN:	ah@s:cym&spa ! 1182097_1182764
 *MAN:	+< a Raimundo_Davies@s:cym&spa . 1182213_1183426
@@ -1311,7 +1311,7 @@
 %eng:	both of them?
 *MAN:	ia . 1188740_1189263
 %eng:	yes
-*PEN:	o@s:cym&spa ! 1189493_1190050
+*PEN:	oh@s:cym&spa ! 1189493_1190050
 *MAN:	+< ond um +... 1189679_1190927
 %eng:	but, um...
 *MAN:	wnes i ddim yn gweld lot o pobl . 1192588_1194440
@@ -1377,7 +1377,7 @@
 %eng:	workshops?
 *MAN:	beth ydy yn Cymraeg talleres@s:spa ? 1243694_1245133
 %eng:	what is it in Welsh, workshops?
-*MAN:	o@s:cym&spa dw i (ddi)m yn cofio . 1245174_1246277
+*MAN:	oh@s:cym&spa dw i (ddi)m yn cofio . 1245174_1246277
 %eng:	oh I don't remember
 *MAN:	wel +... 1247395_1247949
 %eng:	well...
@@ -1434,7 +1434,7 @@
 *PEN:	a byddai bwyd wedi llosgi efo fi . 1310174_1312496
 %eng:	and my food will have burned
 *PEN:	&=laugh . 1312966_1313616
-*MAN:	+< o@s:cym&spa mae (y)na oglau . 1313237_1314566
+*MAN:	+< oh@s:cym&spa mae (y)na oglau . 1313237_1314566
 %eng:	oh, there's a smell
 %com:	[h] on Noun "oglau" (smell), and in following
 *PEN:	oes (.) oglau ofnadwy . 1314369_1316241
@@ -1443,7 +1443,7 @@
 %eng:	I'd put chicken in the oven
 *PEN:	bydd o wedi llosgi gyd cyw iâr . 1322609_1324338
 %eng:	it will have all burned, the chicken
-*MAN:	o@s:cym&spa a be ? 1324505_1325724
+*MAN:	oh@s:cym&spa a be ? 1324505_1325724
 %eng:	oh, and what?
 *PEN:	+< &=laugh . 1325280_1326302
 *MAN:	+< a tatws ? 1325741_1326403
@@ -1494,7 +1494,7 @@
 %eng:	and look after them?
 *PEN:	ia (.) i fi edrych ar_ôl Samuel@s:cym&spa a Steffan@s:cym&spa . 1362571_1365300
 %eng:	yes, for me to look after Samuel and Steffan
-*MAN:	o@s:cym&spa maen nhw mynd i [//] allan i gael bwyd ia ? 1364815_1367253
+*MAN:	oh@s:cym&spa maen nhw mynd i [//] allan i gael bwyd ia ? 1364815_1367253
 %eng:	oh they're going out to have food right?
 *PEN:	maen [?] nhw (y)n deud bod nhw (we)di cael eu gwahodd efo rywun xx . 1368074_1370976
 %eng:	they say they've had an invite with somebody [...].
@@ -1528,7 +1528,7 @@
 %eng:	with them, is he?
 *MAN:	ia neis . 1385887_1386763
 %eng:	yes, nice
-*PEN:	o@s:cym&spa (dy)na ti neis . 1388077_1389719
+*PEN:	oh@s:cym&spa (dy)na ti neis . 1388077_1389719
 %eng:	oh, that's nice
 *MAN:	ia neis iawn . 1389777_1391153
 %eng:	yes, very nice
@@ -1589,7 +1589,7 @@
 %eng:	you look
 *PEN:	wyt ti gallu cerdded yn well na fi . 1451546_1453253
 %eng:	you can walk better than me
-*MAN:	o@s:cym&spa iawn ! 1453431_1454917
+*MAN:	oh@s:cym&spa iawn ! 1453431_1454917
 %eng:	oh ok!
 *PEN:	+< &=laugh . 1453942_1454732
 *MAN:	rŵan dw i (y)n dod yn_ôl . 1455764_1457013
@@ -1641,7 +1641,7 @@
 %eng:	and Samuel
 *PEN:	mae dy fam yn dod nôl di ? 1540725_1542119
 %eng:	is your mother coming to fetch you?
-*MAN:	o@s:cym&spa dw i mynd i ffonio hi rŵan neu anfon neges tecst i weld beth mae wneud . 1542550_1547356
+*MAN:	oh@s:cym&spa dw i mynd i ffonio hi rŵan neu anfon neges tecst i weld beth mae wneud . 1542550_1547356
 %eng:	oh I'm going to phone her now, or send a text, to see what she's doing
 *PEN:	+< ah@s:cym&spa . 1546023_1546673
 *MAN:	ond mae (y)n gorfod mynd efo Samuel@s:cym&spa rŵan i (y)r ysgol . 1547521_1550023
@@ -1678,11 +1678,11 @@
 %eng:	yes
 *MAN:	ia . 1573108_1573631
 %eng:	yes
-*MAN:	o@s:cym&spa wnest ti ddim yn gweld neithiwr yr um (.) blodau maen nhw wedi presento@s:cym&spa [?] i fi ? 1575009_1580211
+*MAN:	oh@s:cym&spa wnest ti ddim yn gweld neithiwr yr um (.) blodau maen nhw wedi presento@s:cym&spa [?] i fi ? 1575009_1580211
 %eng:	oh did you not see last night the flowers they've presented to me?
 %com:	appears to be Spanish verb inserted, but check this. Also 10 lines down.
 *PEN:	ah@s:cym&spa ! 1580210_1580919
-*MAN:	o@s:cym&spa maen nhw (y)n arbennig ! 1580884_1582608
+*MAN:	oh@s:cym&spa maen nhw (y)n arbennig ! 1580884_1582608
 %eng:	oh they're wonderful!
 *PEN:	paid â deud ! 1583151_1584204
 %eng:	you don't say!
@@ -1699,7 +1699,7 @@
 %eng:	yes
 *MAN:	maen nhw wedi (..) presento@s:cym&spa [?] i fi (.) blodau (.) arbennig enfawr . 1591086_1597022
 %eng:	they've presented me with some special, massive, flowers
-*PEN:	o@s:cym&spa ! 1597199_1598058
+*PEN:	oh@s:cym&spa ! 1597199_1598058
 *MAN:	o bob lliwiau . 1597504_1599042
 %eng:	of all colours
 *PEN:	paid â sô(n) +//. 1599275_1599903
@@ -1735,7 +1735,7 @@
 %eng:	well, they have to...
 *MAN:	mae mynd <i aros i> [?] Mam@s:cym&spa . 1622201_1623716
 %eng:	it's going to stay with Mum
-*PEN:	o@s:cym&spa ! 1623994_1625469
+*PEN:	oh@s:cym&spa ! 1623994_1625469
 *MAN:	wel (.) dyna fo . 1625494_1626707
 %eng:	well, there we are
 *PEN:	+< ie (.) dyna fo . 1626115_1627467
@@ -1766,7 +1766,7 @@
 %eng:	what is it?
 *MAN:	[- spa] orquídeas . 1640502_1641489
 %eng:	orchids
-*PEN:	o@s:cym&spa ia . 1642039_1644425
+*PEN:	oh@s:cym&spa ia . 1642039_1644425
 %eng:	oh yes
 *MAN:	arbennig o neis . 1644576_1646699
 %eng:	extremely nice
@@ -1803,7 +1803,7 @@
 %eng:	and I have to take something, and be careful
 *PEN:	achos dw i (ddi)m am cael y grip . 1668555_1669826
 %eng:	because I don't want to get the grippe
-*MAN:	o@s:cym&spa (.) ffliw ? 1670523_1672323
+*MAN:	oh@s:cym&spa (.) ffliw ? 1670523_1672323
 %eng:	oh, flu?
 *PEN:	ia . 1672433_1672863
 %eng:	yes
@@ -1860,7 +1860,7 @@
 %eng:	we say:
 *PEN:	+" dw i (we)di cael &a annwyd braidd . 1710770_1712680
 %eng:	"I've got a bit of a cold"
-*MAN:	o@s:cym&spa annwyd ydy ? 1713255_1714967
+*MAN:	oh@s:cym&spa annwyd ydy ? 1713255_1714967
 %eng:	oh, it's a cold, is it?
 *MAN:	ddim ffliw ? 1715275_1716122
 %eng:	not flu?
@@ -1883,7 +1883,7 @@
 %eng:	where?
 *PEN:	yn xxx . 1729651_1730696
 %eng:	in [...].
-*MAN:	o@s:cym&spa yn y bore ? 1732165_1733285
+*MAN:	oh@s:cym&spa yn y bore ? 1732165_1733285
 %eng:	oh, in the morning?
 *PEN:	ia . 1733350_1733751
 %eng:	yes
@@ -1894,7 +1894,7 @@
 *PEN:	&=cough ti (y)n gweld ? 1738848_1740914
 %eng:	you see?
 *PEN:	&=cough . 1741638_1743641
-*MAN:	o@s:cym&spa . 1744127_1744690
+*MAN:	oh@s:cym&spa . 1744127_1744690
 *PEN:	mm +... 1744818_1745363
 *PEN:	ia . 1746545_1746951
 %eng:	yes
@@ -1917,7 +1917,7 @@
 %eng:	but I've had a really nice time
 *PEN:	+< oedd dy fam yn deud bod hi wedi canu (y)n y capel roedden [?] ni wedi xxx +/. 1777796_1781706
 %eng:	your mother was saying that she'd sung in the chapel that we [...]...
-*MAN:	o@s:cym&spa dach chi (ddi)m wedi glywed ? 1781670_1783418
+*MAN:	oh@s:cym&spa dach chi (ddi)m wedi glywed ? 1781670_1783418
 %eng:	oh, haven't you heard?
 *PEN:	na . 1783296_1783627
 %eng:	no
