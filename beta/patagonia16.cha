@@ -734,7 +734,7 @@
 %eng:	yes.
 *ELS:	ie . 654534_654902
 %eng:	yes.
-*RAM:	ie oce@s:cym&spa . 654902_655787
+*RAM:	ie o_k@s:cym&spa . 654902_655787
 %eng:	yes, okay.
 *ELS:	[- spa] cómo es ? 655828_657039
 %eng:	what is it?
@@ -796,9 +796,9 @@
 %eng:	not?
 *MOL:	[- spa] así que este bueno . 689653_690922
 %eng:	so, well.
-*ELS:	uh yn y bws@s:cym&spa . 690842_691919
+*ELS:	uh yn y bws . 690842_691919
 %eng:	by bus.
-*MOL:	yn y bws@s:cym&spa . 691898_692672
+*MOL:	yn y bws . 691898_692672
 %eng:	by bus.
 *MOL:	uh no@s:spa no@s:spa no@s:spa . 692667_693691
 %eng:	uh, no no.

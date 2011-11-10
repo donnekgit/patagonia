@@ -1,6 +1,0 @@
-Tasks to be completed before signing off on the published Patagonia corpus
-================================================
-
-Change uh@s:cym&spa to y@s:cym&spa
-
-Change um@s:cym&spa to ym@s:cym&spa

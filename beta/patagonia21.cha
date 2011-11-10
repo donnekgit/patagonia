@@ -315,8 +315,8 @@
 *LIN:	rai &d uh <dim &mo> [/] dim mor iawn chwaith . 494929_498449
 *LIN:	ond uh mae o (y)n mynd i bod yn well blwyddyn nesaf . 498513_501126
 *ISA:	(dy)na fo . 501201_501852
-*LIN:	y te eisteddfod@s:cym&spa dan ni wrthi siarad ia ? 501923_503971
-*ISA:	dyna te eisteddfod (.) lle eisteddfod@s:cym&spa . 503683_506275
+*LIN:	y te eisteddfod dan ni wrthi siarad ia ? 501923_503971
+*ISA:	dyna te eisteddfod (.) lle eisteddfod . 503683_506275
 *LIN:	+< ia . 505443_505944
 *ISA:	bueno@s:spa (dy)na fo . 507169_508171
 *ISA:	uh siarad yn Sbanish nawr &=laugh . 508235_510369
@@ -762,7 +762,7 @@
 *ISA:	pwy ? 1471971_1472601
 *LIN:	uh xxx . 1472718_1474019
 *ISA:	ah@s:cym&spa (dy)na fo (dy)na fo . 1474073_1475491
-*LIN:	mhm@s:cym&spa . 1474770_1475421
+*LIN:	mmhm . 1474770_1475421
 *ISA:	ah@s:cym&spa . 1476306_1477042
 *LIN:	ond uh oedden ni (y)n mynd i xxx i bathio oedden . 1476487_1479623
 *LIN:	lle mae hwn . 1480430_1481273
@@ -823,9 +823,9 @@
 *ISA:	oh@s:cym&spa dw i (y)n cofio . 1572573_1573672
 *LIN:	a oedden ni (y)n xxx mam yn [/] yn cwcio arna fo . 1573288_1575784
 *LIN:	a efo bwrdd a oedden ni (y)n bwyta weithiau allan . 1575914_1578580
-*LIN:	mhm@s:cym&spa fel eh@s:cym&spa &pa eh@s:cym&spa &pant +//. 1579306_1581418
+*LIN:	mmhm fel eh@s:cym&spa &pa eh@s:cym&spa &pant +//. 1579306_1581418
 *LIN:	hynny ydy dim pantri um (..) eh@s:cym&spa sied neu rywbeth fel (y)na . 1581386_1585940
-*ISA:	mhm@s:cym&spa . 1586388_1587284
+*ISA:	mmhm . 1586388_1587284
 %com:	Switch to spanish until end of recording.
 *LIN:	[- spa] no no no no creo . 2008362_2009556
 @End
