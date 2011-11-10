@@ -56,7 +56,7 @@
 %eng:	yes.
 *LEI:	gosod y ddau beth ar y bwrdd ia . 35037_36179
 %eng:	place both things on the table, yes.
-*ROD:	mmhm@s:cym&spa . 36243_36659
+*ROD:	mmhm . 36243_36659
 %eng:	mmhm.
 *LEI:	a &he ddim [//] dim pwdin felly . 37584_39429
 %eng:	and no pudding in that case.
@@ -85,7 +85,7 @@
 %eng:	to the concert.
 *LEI:	+, i (y)r cyngerdd . 76998_77569
 %eng:	to the concert.
-*ROD:	[- spa] sí oh@s:cym&spa +//. 78256_79205
+*ROD:	[- spa] sí o@s:cym&spa +//. 78256_79205
 %eng:	yes, oh.
 *ROD:	ia fy(dd) rhaid peidio (.) cyhoeddi (y)r peth yn lle . 80295_82951
 %eng:	yes, they'll have to not advertise the thing instead.
@@ -118,20 +118,20 @@
 *ROD:	+< &=slurps . 96446_97918
 *ROD:	a bwyd . 98171_98752
 %eng:	and food.
-*ROD:	ooh está@s:spa caliente@s:spa &ta . 98782_99907
-%eng:	ooh this is hot.
+*ROD:	ooh que@s:spa está@s:spa caliente@s:spa esto@s:spa . 98782_99907
+%eng:	ooh that it is hot.
 *ROD:	&=clears_throat . 105076_105679
 *LEI:	felly sut aeth hi (y)n Madryn@s:cym&spa heddiw ? 111262_112963
 %eng:	so how did it go in Madryn today?
 *LEI:	iawn ? 112947_113507
 %eng:	ok?
-*ROD:	ie un@s:spa aburrimiento@s:spa eh@s:cym&spa . 114387_115939
-%eng:	yes, boring, eh.
-*ROD:	[- spa] perreando eh@s:cym&spa . 115966_116611
-%eng:	[...] eh.
+*ROD:	uy@s:spa un@s:spa aburrimiento@s:spa ahí@s:cym&spa . 114387_115939
+%eng:	yes, so boring there, eh.
+*ROD:	[- spa] esperando eh@s:cym&spa . 115966_116611
+%eng:	waiting eh.
 %com:	spelling?
-*ROD:	[- spa] este es un xx . 117547_118854
-%eng:	this is a [...]
+*ROD:	[- spa] este señor se levante . 117547_118854
+%eng:	for the guy to wake up.
 *LEI:	ond &dw +//. 121056_121445
 %eng:	but...
 *LEI:	wyt ti wedi +//. 121662_122163
@@ -178,10 +178,9 @@
 %eng:	the windscreen?
 *LEI:	[- spa] sí . 151165_151565
 %eng:	yes.
-*ROD:	xx . 152564_153684
-%eng:	[...]
-*ROD:	xx . 155886_156478
-%eng:	[...]
+*ROD:	bueno pero . 152564_153684
+%eng:	well, but .
+*ROD:	xxx . 155886_156478
 *LEI:	mae (y)r siwgr fan (y)na . 158564_159481
 %eng:	the sugar is there.
 *LEI:	sbia . 159572_159881
@@ -200,47 +199,52 @@
 %eng:	sugar.
 *LEI:	mae o fan (y)na wrth ochr yr [//] y tebot . 168205_170110
 %eng:	it's there next to the teapot.
-*ROD:	xxx ? 171543_171970
+*ROD:	este ? 171543_171970
+%eng:	this ?
 *LEI:	nage . 172279_172818
 %eng:	no.
 *LEI:	y llall . 172882_173399
 %eng:	the other.
-*LEI:	[- spa] el chuker vile ahí . 174561_175745
+*LEI:	[- spa] el chuker xxx  . 174561_175745
 %eng:	the sweetener, I saw it there.
 %com:	un edulcorante??
 *LEI:	[- spa] claro . 175766_176294
 %eng:	ok.
-*ROD:	+< oh@s:cym&spa . 176252_176476
+*ROD:	+< o@s:cym&spa . 176252_176476
 %eng:	oh.
 *LEI:	&=laugh . 176636_177036
 *ROD:	&=laugh . 178111_178708
-*ROD:	[- spa] oh@s:cym&spa xxx Luís@s:cym&spa es loco . 180652_182913
-%eng:	oh [...] Luís is crazy.
-*LEI:	oh@s:cym&spa . 183041_183590
+*ROD:	[- spa] o@s:cym&spa xxx me tiene loco . 180652_182913
+%eng:	oh [...] is driving me crazy.
+*LEI:	o@s:cym&spa . 183041_183590
 %eng:	oh.
 *ROD:	&=clears_throat . 184410_185317
-*ROD:	[- spa] no voy a comer ? 185297_185947
-%eng:	aren't you going to eat?
-*ROD:	[- spa] hoy compré sándwich . 185985_186843
+*ROD:	[- spa] no puedo comer ? 185297_185947
+%eng:	I can't eat?
+*ROD:	[- spa] hoy compré un sándwich . 185985_186843
 %eng:	today I bought a sandwich.
-*ROD:	[- spa] mediodía . 187906_188808
+*ROD:	[- spa] al mediodía . 187906_188808
 %eng:	at midday.
-*ROD:	[- spa] compré sándwich xxx . 189366_193115
-%eng:	I bought a sandwich [...]
-*ROD:	xxx . 193781_195242
-%eng:	[...]
-*ROD:	xx . 195237_196373
-%eng:	[...]
-*LEI:	oh@s:cym&spa ! 196623_197338
+*ROD:	[- spa] compré un sándwich y  . 190102_191003
+%eng:	I bought a sandwich and .
+*ROD:	y fui a ponermelo en la boca  y . 190993_191905
+%eng:	I put it in my mouth and.
+*ROD:	ya no puedo abrir la boca . 191910_192961
+%eng:	of course, I cannot open the mouth.
+*ROD:	tuve que [///] estuve todo el día así  . 193781_195242
+%eng:	I had to ... I was like this the whole day.
+*ROD:	luego . 195237_196373
+%eng:	then .
+*LEI:	o@s:cym&spa ! 196623_197338
 %eng:	oh.
-*ROD:	[- spa] xxx sí de [/] de [/] de [/] de aún . 197570_201853
-%eng:	[...] yes, anyhow.
-*LEI:	[- spa] +< te asisto &=laugh . 200813_202520
-%eng:	I'll help you.
-*ROD:	[- spa] todo deforma . 202659_203741
-%eng:	all deformed.
-*LEI:	[- spa] y qué [/] qué xxx un +... 203805_205512
-%eng:	and [...]
+*ROD:	[- spa] entonces me tuve que comer el sandwich así  de [/] de [/] de [/] de a uno . 197570_201853
+%eng:	[...] then I had to eat the sandwich from one to one.
+*LEI:	[- spa] +< de a pedacito &=laugh . 200813_202520
+%eng:	bit by bit
+*ROD:	[- spa] todo desparramado . 202659_203741
+%eng:	all scattered.
+*LEI:	[- spa] xxx que Perla@s:cym&spa te había dado  un +... 203805_205512
+%eng:	see that Perla had given you a ...
 *LEI:	fi wedi awgrymu (.) rhoid rhywbeth . 208191_209924
 %eng:	I've suggested putting something.
 *ROD:	mm +... 212735_213119
@@ -253,12 +257,12 @@
 %eng:	aha.
 *LEI:	(dy)dy o ddim fan (y)na efo ti yn fan (y)na ? 217157_218587
 %eng:	it's not there with you?
-*ROD:	mm de@s:spa acuerdo@s:spa . 219173_219973
-%eng:	mm, ok.
+*ROD:	no@s:spa me@s:spa acuerdo@s:spa . 219173_219973
+%eng:	mm, I don't remember.
 *LEI:	&n ah@s:cym&spa . 220176_220571
 %eng:	ah.
-*LEI:	[- spa] yo creo que xxx . 220620_222700
-%eng:	I think [...]
+*LEI:	[- spa] yo cría que xxx la visita de Carla@s:cym&spa . 220620_222700
+%eng:	I think that ... Carla's visit .
 *ROD:	&=sigh . 222407_224417
 *LEI:	eh@s:cym&spa be arall wnest ti ddeud ? 225665_226764
 %eng:	eh, what else did you say?
@@ -279,7 +283,7 @@
 *LEI:	gosod o (y)n y ffwrn (..) wedyn ? 236292_237508
 %eng:	put it in the oven later?
 *ROD:	+< &=groan . 236430_237406
-*ROD:	ie mmhm@s:cym&spa . 237129_238137
+*ROD:	ie mmhm . 237129_238137
 %eng:	yes, mmhm.
 *LEI:	gobeithio fydd yr uh +//. 241723_242795
 %eng:	I hope the, er...
@@ -318,13 +322,13 @@
 *LEI:	do(eddw)n i (ddi)m yn mynd i ymarfer (y)chwaneg . 268668_270038
 %eng:	I wasn't going to practise any more.
 *ROD:	[- spa] una contingencia ? 269734_270822
-%eng:	a risk?
+%eng:	a contingency?
 *LEI:	[- spa] sí . 270795_271105
 %eng:	yes.
 *LEI:	[- spa] sí xx . 273676_274834
 %eng:	yes [...]
-*ROD:	[- spa] xxx el vaso durante el eisteddfod@s:cym&spa . 278102_281068
-%eng:	Eira [...] during the Eisteddfod.
+*ROD:	era@s:spa para@s:spa salir@s:spa del@s:spa paso@s:spa durante@s:spa el@s:spa eisteddfod . 278102_281068
+%eng:	It was for getting out of the situation during the Eisteddfod.
 %com:	Eira?
 *LEI:	[- spa] sí . 281116_281484
 %eng:	yes.
@@ -344,29 +348,29 @@
 %eng:	[...]
 *ROD:	ah@s:cym&spa siop eh@s:cym&spa . 293459_294760
 %eng:	ah, shop, eh.
-*LEI:	[- spa] +< en cuatro avenida . 293704_294872
-%eng:	on 4th avenue.
-*ROD:	[- spa] en cuatro avenida . 294990_295699
-%eng:	on 4th avenue.
-*ROD:	oh@s:cym&spa iawn . 295816_296462
+*LEI:	[- spa] +< un gato en la avenida . 293704_294872
+%eng:	a cat in the avenue.
+*ROD:	[- spa] un gato en la avenida ? 294990_295699
+%eng:	a cat in the avenue?
+*ROD:	o@s:cym&spa iawn . 295816_296462
 %eng:	oh ok.
 *LEI:	mae hwn yn (.) digon o beth i dalu fan (y)na neu be ? 297715_300317
 %eng:	this is enough to pay there or what?
 *ROD:	faint ? 300851_301437
 %eng:	how much?
-*LEI:	[- spa] este resumen de deuda . 301260_302796
+*LEI:	[- spa] se resume de deuda . 301260_302796
 %eng:	this invoice.
 *LEI:	dau gant (..) pum_deg . 304992_307114
 %eng:	two hundred and fifty.
-*ROD:	[- spa] sí pienso . 313381_314533
+*ROD:	[- spa] sí xxx . 313381_314533
 %eng:	yes, I think so.
 *LEI:	+< lle (y)dan ni fod i +..? 313381_314533
 %eng:	where are we supposed to ..?
-*ROD:	[- spa] prestando xx huh ? 314585_315731
+*ROD:	[- spa]  xx no ? 314585_315731
 %eng:	borrowing [...] huh?
-*LEI:	[- spa] sí pero eso e(s) en total . 315790_317054
+*LEI:	[- spa] sí pero eso e(s) el total . 315790_317054
 %eng:	yes but this is what it is in total.
-*LEI:	[- spa] oh@s:cym&spa no . 317043_317385
+*LEI:	[- spa] o@s:cym&spa no . 317043_317385
 %eng:	oh no.
 *ROD:	[- spa] dos cuatro nueve . 318821_319707
 %eng:	two, four, nine.
@@ -378,8 +382,8 @@
 %eng:	oh, this plus the other.
 *ROD:	dw i (ddi)m yn gwybo(d) . 323324_324231
 %eng:	I don't know.
-*ROD:	[- spa] una hoja a dos . 325607_326732
-%eng:	sheet one to two.
+*ROD:	[- spa] una hoja de dos . 325607_326732
+%eng:	one sheet from two.
 *LEI:	+< honna oedd yr un ola(f) . 326284_327260
 %eng:	this was the last one.
 *LEI:	yr u(n) [/] yr u(n) yno hwnna &s ti (y)n dal yn y gwaelod fan (y)na . 327443_330222
@@ -390,7 +394,7 @@
 %eng:	seventy something.
 *LEI:	(e)fallai bod ni fod i sumar@s:spa (.) saith_deg i +... 333892_336830
 %eng:	maybe we're supposed to add seventy to...
-*ROD:	[- spa] doce y dos . 340362_341248
+*ROD:	[- spa] dos de dos . 340362_341248
 %eng:	twelve and two...
 *ROD:	[- spa] cuenta . 343203_343886
 %eng:	calculate.
@@ -398,14 +402,14 @@
 %eng:	I don't know.
 *ROD:	[- spa] buen(o) lo que se paga es esto . 348955_350341
 %eng:	ok this is what we pay.
-*ROD:	[- spa] no para mí que xx . 350992_352315
-%eng:	no, I think [...]
-*LEI:	+< oh@s:cym&spa . 351931_352341
+*ROD:	[- spa] no para mí se suman las dos . 350992_352315
+%eng:	no, for me, both
+*LEI:	+< o@s:cym&spa . 351931_352341
 %eng:	oh.
 *LEI:	[- spa] eh@s:cym&spa por +//. 352431_352938
 %eng:	eh...
-*ROD:	[- spa] está bien hasta el veinte el diez . 352783_354383
-%eng:	it's ok until the twentieth of the tenth.
+*ROD:	[- spa] está vence  el veinte del diez . 352783_354383
+%eng:	this expires the 20th of the ten.
 *LEI:	a hwnna . 354975_355519
 %eng:	and that.
 *LEI:	hwn . 355614_355785
@@ -420,8 +424,8 @@
 %eng:	tell me.
 *ROD:	[- spa] resumen de deuda . 363081_364665
 %eng:	invoice.
-*LEI:	[- spa] +< y documento de pago xx . 363081_364665
-%eng:	and payment slip [...]
+*LEI:	[- spa] +< el documento de pago dice . 363081_364665
+%eng:	it says the payment slip .
 *ROD:	[- spa] sí . 367975_368364
 %eng:	yes.
 *LEI:	ta hwn ? 368760_369224
@@ -435,8 +439,8 @@
 *ROD:	mae (y)n sôn am rhyw ciento@s:spa cincuenta@s:spa y@s:spa cinco@s:spa . 376143_378437
 %eng:	it says about one hundred and fifty five.
 *ROD:	[- spa] y (.) noventa y tres con noventa y ocho . 379375_381935
-%eng:	and ninenty three plus ninety eight.
-*ROD:	[- spa] una que venció al veinte nueve dos mil nueve . 383509_386539
+%eng:	and ninety three plus ninety eight.
+*ROD:	[- spa] una que venció al veinte del nueve del dos mil nueve . 383509_386539
 %eng:	one that's due on the twentieth of the ninth two thousand and nine.
 *ROD:	[- spa] las dos . 387509_388362
 %eng:	both.
@@ -447,10 +451,10 @@
 *LEI:	be (y)dan ni wedi bod yn siarad ydy hwnna . 393723_395393
 %eng:	that's the one we've been talking about.
 *LEI:	&=clears_throat . 395361_396401
-*ROD:	[- spa] ahora que no sé . 404844_405879
-%eng:	now I don't know.
-*ROD:	[- spa] este venció el veinte . 411865_413961
-%eng:	this is due on the twentieth.
+*ROD:	[- spa] la verdad es que no sé . 404844_405879
+%eng:	the truth is that I don't know.
+*ROD:	[- spa] este vence el veinte de ... 411865_413961
+%eng:	this one is due on the twentieth of.
 *ROD:	hwn (y)dy +//. 415123_415667
 %eng:	this is...
 *ROD:	ia mae (y)n rhaid uh sumar@s:spa y ddau yma . 416373_418469
@@ -477,7 +481,7 @@
 %eng:	that's what it was.
 *LEI:	ah@s:cym&spa . 430910_431144
 %eng:	ah.
-*LEI:	oh@s:cym&spa wel dyna fo . 432403_433293
+*LEI:	o@s:cym&spa wel dyna fo . 432403_433293
 %eng:	oh well, there we go.
 *ROD:	mm +... 434061_434248
 %eng:	mm.
@@ -517,19 +521,19 @@
 %eng:	and what did he say?
 *ROD:	[- spa] no . 470069_470495
 %eng:	no.
-*ROD:	[- spa] me consigue no &n &m . 471680_473147
-%eng:	he [...] no.
-*ROD:	[- spa] sí pude ayudarme sí xxx cable nuevo no . 474381_478002
+*ROD:	[- spa] xxx un &n &m . 471680_473147
+%eng:	 xxx a .
+*ROD:	[- spa] sí puedo mirar y si xxx  puedo hacerte el cable nuevo no . 474381_478002
 %eng:	yes, he could help me [...] new cable, no.
 *LEI:	a pwy sy (y)n mynd i wneud hynna ? 479572_481002
 %eng:	and who's going to do that?
-*ROD:	&n rhyw xxx ryw (.) rhywun o Telefonica@s:spa o@s:spa +... 482207_487147
+*ROD:	&n rhyw xxx ryw (.) rhywun o Telefónica@s:spa o@s:spa +... 482207_487147
 %eng:	some [...] someone from Telefonica or...
 *ROD:	+, o Drelew@s:cym&spa . 488821_489434
 %eng:	from Trelew.
-*ROD:	[- spa] que será . 489440_490032
-%eng:	whatever.
-*LEI:	oh@s:cym&spa (.) dw i (ddi)m yn dallt . 495221_496955
+*ROD:	[- spa] qué sé yo . 489440_490032
+%eng:	what do I know .
+*LEI:	o@s:cym&spa (.) dw i (ddi)m yn dallt . 495221_496955
 %eng:	oh, I don't understand.
 *ROD:	a o(edd) Gladys@s:cym&spa yn deud bod y dyn Trelew (y)ma (y)n (.) [//] yn rhy blaen heddiw . 499563_504124
 %eng:	and Gladys was saying that this Trelew man was too blunt today.
@@ -571,7 +575,7 @@
 %eng:	no, yes, of course.
 *LEI:	achos gafodd o ddim gweld dim_byd . 545838_547465
 %eng:	because he didn't get to see anything.
-*LEI:	e@s:cym&spa (.) o ran ei olwg o mae siŵr . 549076_551116
+*LEI:	eh@s:cym&spa (.) o ran ei olwg o mae siŵr . 549076_551116
 %eng:	eh, as far as how it looks is concerned.
 *LEI:	dyna (y)r unig beth . 551324_552242
 %eng:	that's the only thing.
@@ -583,12 +587,12 @@
 %eng:	and the fact that he has such low pressure probably... and only about... what?
 *LEI:	bedwar_deg pump o +... 562908_564070
 %eng:	forty five...
-*ROD:	[- spa] procesiones . 564691_565571
-%eng:	[...]
-*LEI:	+< xxx . 564824_565677
+*ROD:	[- spa] pulsaciones . 564691_565571
+%eng:	heart beats.
+*LEI:	[- spa] +< con el pulso . 564824_565677
 *LEI:	[- spa] sí . 565624_565901
 %eng:	yes.
-*ROD:	mmhm@s:cym&spa . 566403_566888
+*ROD:	mmhm . 566403_566888
 %eng:	mmhm.
 *ROD:	&=mumble . 567251_567875
 *LEI:	mae siŵr bod o (y)n meddwl wel (.) bod hynna (y)n rhy +... 567608_569714
@@ -681,7 +685,7 @@
 %eng:	"we're going."
 *ROD:	[- spa] sí . 651527_651815
 %eng:	yes.
-*ROD:	oh@s:cym&spa oedd Dawi@s:cym&spa (y)n (.) yn . 651873_653276
+*ROD:	o@s:cym&spa oedd Dawi@s:cym&spa (y)n (.) yn . 651873_653276
 %eng:	oh Dawi was...
 *LEI:	ia yn hapus braf mae (y)n siŵr . 653276_654764
 %eng:	yes, quite happy, I'm sure.
@@ -747,12 +751,12 @@
 %eng:	aha.
 *LEI:	[- spa] +< claro . 710238_710846
 %eng:	ok.
-*LEI:	[- spa] uh (.) con esta presión que xxx no &s . 711039_713498
-%eng:	er, with this pressure [...]
+*LEI:	[- spa] uh (.) con esa presión capaz que  xxx no &s . 711039_713498
+%eng:	er, with this pressure, it is possible  [...]
 *ROD:	[- spa] &ne claro . 714761_715279
 %eng:	ok.
-*ROD:	[- spa] rojizo . 715663_716239
-%eng:	reddish.
+*ROD:	[- spa] xxx . 715663_716239
+%eng:	[...] .
 *LEI:	[- spa] ocho cuatro . 716303_717204
 %eng:	eight, four.
 *LEI:	o(eddw)n i (y)n trio deud (y)r un fath wrtho fo . 717759_719252
@@ -777,7 +781,7 @@
 %eng:	so tired.
 *LEI:	pero@s:spa oedd y doctor yn deud +"/. 734838_735654
 %eng:	but the doctor was saying:
-*LEI:	+" oh@s:cym&spa na mae popeth yn iawn . 735628_737324
+*LEI:	+" o@s:cym&spa na mae popeth yn iawn . 735628_737324
 %eng:	oh no, everything's ok.
 *LEI:	+" pan mae (y)r pressure@s:eng (.) yn isel mae popeth yn iawn . 737324_740310
 %eng:	when the pressure is low, everything is ok.
@@ -789,7 +793,7 @@
 %eng:	the...
 *LEI:	ond dan ni (y)n trio deud wrtho fo (y)r u(n) fath . 746351_748074
 %eng:	but we're trying to tell him all the same.
-*ROD:	mmhm@s:cym&spa . 755662_756105
+*ROD:	mmhm . 755662_756105
 %eng:	mmhm.
 *LEI:	sut mae pawb yn Esquel@s:cym&spa ? 757030_758289
 %eng:	how is everybody in Esquel?
@@ -807,28 +811,33 @@
 %eng:	because it's quite cold down there.
 *ROD:	mm +... 768292_768767
 %eng:	mm.
-*LEI:	oh@s:cym&spa . 769066_769802
+*LEI:	o@s:cym&spa . 769066_769802
 %eng:	oh.
-*ROD:	xxx . 773043_774653
-*ROD:	xxx . 775176_776168
-*ROD:	xxx . 778711_779367
-*ROD:	xxx . 782586_785375
+*ROD:	[- spa] xxx una buena excusa para dejar de comer esto . 773043_774653
+%eng:	[...] good excuse for stop eating this.
+*ROD:	[- spa] ya ya ya . 778711_779367
+%eng:	that's it.
+*ROD:	[- spa] en serio eh . 782571_783302
+%eng:	seriously.
+*ROD:	[- spa] cada vez que abro la boca me duele . 783286_785712
+%eng:	every time I open the mouth it hurts
 *LEI:	wel wnawn ni ddim [//] &ne wnawn ni ddim wneud &k cig (y)na heddiw ta . 786167_789233
 %eng:	well, we won't do that meat today then.
-*ROD:	[- spa] +< oh@s:cym&spa &s (.) siq(uiera) +... 786183_788039
+*ROD:	[- spa] +< o@s:cym&spa &s (.) siq(uiera) +... 786183_788039
 %eng:	oh at least...
 *ROD:	[- spa] siquiera . 789429_789995
 %eng:	at least.
-*ROD:	xxx . 790027_790880
+*ROD:	[- spa] cada vez que xxx . 790027_790880
+%eng:	every time I
 *ROD:	[- spa] siquiera &ga . 791003_791600
 %eng:	at least...
 *LEI:	mm +... 795939_796430
 %eng:	mm.
-*ROD:	[- spa] expediente xx . 796268_797292
+*ROD:	xxx . 796268_797292
 *ROD:	ah@s:cym&spa . 797345_798433
 %eng:	ah.
-*ROD:	[- spa] está lo máximo . 799841_800641
-%eng:	it's the maximum.
+*ROD:	[- spa] eso es lo máximo . 799841_800641
+%eng:	that's the maximum.
 *ROD:	ah@s:cym&spa . 800727_801239
 %eng:	ah.
 *LEI:	mm +... 801900_802727
@@ -850,7 +859,7 @@
 *ROD:	tafarn o (..) Santiago@s:cym&spa . 834966_838313
 %eng:	a pub from... Santiago.
 *LEI:	[- spa] no Santiago uh +... 838755_840121
-%eng:	not Santiagio, er...
+%eng:	not Santiago, er...
 *LEI:	na na . 840643_841518
 %eng:	no no.
 *LEI:	na ddim llawer . 842494_843619
@@ -864,24 +873,24 @@
 %eng:	hi.
 *LEI:	helo . 846142_846414
 %eng:	hi.
-*MAR:	[- spa] de quién es el xxx ? 846383_847999
-%eng:	whose is the [...]?
-*ROD:	[- spa] de señora xx . 850328_851326
-%eng:	mrs [...]
+*MAR:	[- spa] de quién es ese xxx ? 846383_847999
+%eng:	whose is this [...]?
+*ROD:	[- spa] de la señora que está ... 850328_851326
+%eng:	from the mrs that is [...].
 *LEI:	[- spa] grabando . 851683_852163
 %eng:	recording.
-*ROD:	[- spa] está grabando . 852872_853693
-%eng:	it's recording.
+*ROD:	[- spa] nos está grabando . 852872_853693
+%eng:	it's recording us.
 *ROD:	[- spa] estamo(s) grabando . 854682_855333
 %eng:	we're recording.
 *ROD:	[- spa] todo lo que se dice se graba . 855317_856682
 %eng:	everything we say is being recorded.
-*LEI:	[- spa] siquiera hablaron en galés . 857072_858069
-%eng:	at least we spoke Welsh.
-*ROD:	[- spa] olé babú . 858330_859146
+*LEI:	[- spa] si quieres hablar habla en galés . 857072_858069
+%eng:	if you want to talk talk in Welsh.
+*ROD:	olé [?] babú [?] . 858330_859146
 %eng:	hi sweetie.
 *LEI:	[- spa] +< o caya para siempre . 858682_859634
-%eng:	oh always [...]
+%eng:	or shut up for ever.
 *ROD:	xxx ? 859607_860967
 *MAR:	xxx [=! whispers] . 860802_862834
 *ROD:	+< mm ? 862008_862392
@@ -933,7 +942,7 @@
 *LEI:	mm +... 888247_888615
 %eng:	mm.
 *MAR:	xxx [=! whispers] . 888557_889892
-*LEI:	ay@s:cym&spa oh@s:cym&spa . 893705_894233
+*LEI:	ay@s:cym&spa o@s:cym&spa . 893705_894233
 %eng:	ay, oh.
 *LEI:	does na neb [/] &n does na neb yn fan (a)cw cofia . 894464_896709
 %eng:	there's nobody over there, you know.
@@ -949,7 +958,7 @@
 *ROD:	mae hi (y)n disgwyl tra dan ni (y)n siarad yn fan (y)ma . 902109_904072
 %eng:	she's waiting while we talk in here.
 *ROD:	&=laugh . 904568_905203
-*MAR:	[- spa] y para que xx ? 905555_907315
+*MAR:	[- spa] y para qué es esto ? 905555_907315
 %eng:	and what for?
 *LEI:	yn Gymraeg . 907304_907720
 %eng:	in Welsh.
@@ -960,7 +969,7 @@
 %eng:	they're doing a kind of study on how people speak and...
 *LEI:	faint o geiriau Sbaeneg mae rhywun yn defnyddio a +... 921755_924645
 %eng:	how many Spanish words a person uses and...
-*MAR:	oh@s:cym&spa . 924875_925253
+*MAR:	o@s:cym&spa . 924875_925253
 %eng:	oh.
 *LEI:	+, a su(t) mae plant yn ateb yn (.) berffaith Sbaeneg wrth uh +... 926848_930601
 %eng:	and how children answer in perfect Spanish to, er...
@@ -1005,7 +1014,7 @@
 %eng:	yes.
 *ROD:	dim ond Cymraeg cofia . 953567_954569
 %eng:	only Welsh, remember.
-*ROD:	oh@s:cym&spa . 956060_956380
+*ROD:	o@s:cym&spa . 956060_956380
 %eng:	oh.
 *ROD:	mae Luis@s:cym&spa wedi colli (y)r +... 956513_957708
 %eng:	Luís has lost the...
@@ -1034,7 +1043,7 @@
 %eng:	no.
 *LEI:	na(g)_(y)dy . 974967_975484
 %eng:	no.
-*MAR:	oh@s:cym&spa . 976322_976690
+*MAR:	o@s:cym&spa . 976322_976690
 %eng:	oh.
 *ROD:	+< mm +... 976322_976690
 %eng:	mm.
@@ -1046,7 +1055,7 @@
 %eng:	recording.
 *LEI:	wedyn maen nhw (y)n gwrando be mae [=! laughs] +... 980366_982563
 %eng:	then they listen to what's...
-*MAR:	oh@s:cym&spa . 982707_983134
+*MAR:	o@s:cym&spa . 982707_983134
 %eng:	oh.
 *LEI:	+, be maen nhw wedi recordio . 983192_984370
 %eng:	what have they recorded?
@@ -1094,7 +1103,7 @@
 *LEI:	ay@s:cym&spa . 1014915_1015107
 %eng:	ay.
 *LEI:	mae rhaid deud <wrth yr uh> [//] wrth yr athrawes bod ti ddim yn mynd i (y)r dosbarth Cymraeg fory . 1015096_1020037
-%eng:	your teacher has to be told that you're not going to the Welsh class tomowrrow.
+%eng:	your teacher has to be told that you're not going to the Welsh class tomorrow.
 *MAR:	pam ? 1020700_1021020
 %eng:	why?
 *LUI:	[- spa] por qué están grabando ? 1021020_1022727
@@ -1217,7 +1226,7 @@
 *ROD:	na . 1131958_1132358
 %eng:	no.
 *ROD:	rŵan mae entrenadores@s:spa +... 1132710_1134161
-%eng:	now there are coahces.
+%eng:	now there are coaches.
 *ROD:	+, efo [/] efo (y)r plant trwy (y)r dydd am +... 1135132_1138108
 %eng:	with the children all day for...
 *LEI:	+< (we)di aros trwy (y)r dydd . 1135233_1136604
@@ -1258,7 +1267,7 @@
 %eng:	organised food surely.
 *ROD:	ond <be &n> [/] be &n +//. 1158713_1159630
 %eng:	but what...
-*MAR:	+< oh@s:cym&spa ! 1158847_1159513
+*MAR:	+< o@s:cym&spa ! 1158847_1159513
 %eng:	oh!
 *ROD:	y syniad ydy (.) cychwyn o fa(n) (y)ma (..) dy(dd) Gwener +... 1159604_1165014
 %eng:	the plan is to start from here on Friday.
@@ -1273,7 +1282,7 @@
 %eng:	at four o'clock in the morning.
 *ROD:	mwy neu lai . 1177437_1177959
 %eng:	more or less.
-*LEI:	oh@s:cym&spa . 1178146_1178610
+*LEI:	o@s:cym&spa . 1178146_1178610
 %eng:	oh.
 *ROD:	ia . 1179401_1179716
 %eng:	yes.
@@ -1298,7 +1307,7 @@
 %eng:	it's what?
 *LUI:	+, yn brifo . 1192252_1193202
 %eng:	...hurting.
-*LEI:	oh@s:cym&spa . 1193340_1194274
+*LEI:	o@s:cym&spa . 1193340_1194274
 %eng:	oh.
 *LEI:	fy(dd) raid ni fynd at y dentista@s:spa . 1194733_1196258
 %eng:	we'll have to go to the dentist.
@@ -1361,7 +1370,7 @@
 %eng:	I hope it won't... that the weather will be a bit better.
 *LEI:	fydd hi ddim mor oer a rŵan . 1243528_1245293
 %eng:	it won't be as cold as now.
-*ROD:	mmhm@s:cym&spa . 1245288_1245778
+*ROD:	mmhm . 1245288_1245778
 %eng:	mmhm.
 *ROD:	&=clears_throat . 1247649_1248369
 *LUI:	&=singing . 1248833_1250891
@@ -1385,8 +1394,8 @@
 %eng:	"oh, poor little bird"
 *LEI:	+< <hen (a)deryn bach> [=! singing] . 1277340_1280287
 %eng:	"little bird"
-*LEI:	oh@s:cym&spa nefi ! 1280303_1281436
-%eng:	oh@s:cym&spa my!
+*LEI:	o@s:cym&spa nefi ! 1280303_1281436
+%eng:	o@s:cym&spa my!
 *LUI:	&=yell . 1281472_1282592
 *LEI:	[- spa] bueno . 1292005_1292304
 %eng:	ok.
@@ -1400,7 +1409,7 @@
 %eng:	the, um, dentist wanted, um, Elin and Sali to take the birthday pictures.
 *LEI:	yn deud +"/. 1317379_1317699
 %eng:	saying:
-*LEI:	+" oh@s:cym&spa ti ddim wedi dod â lluniau pen_blwydd efo (y)r gwên (y)na [=! laughs] . 1317799_1321127
+*LEI:	+" o@s:cym&spa ti ddim wedi dod â lluniau pen_blwydd efo (y)r gwên (y)na [=! laughs] . 1317799_1321127
 %eng:	"oh, you haven't brought any birthday pictures with that smile."
 *LEI:	i weld sut oedd siâp y [/] (..) y ddannedd . 1321952_1325504
 %eng:	to see how the shape of the teeth was.
@@ -1409,11 +1418,11 @@
 %eng:	shape.
 *LEI:	siâp la@s:spa [/] la@s:spa forma@s:spa de@s:spa la@s:spa xx . 1330849_1332438
 %eng:	shape, shape.
-*LEI:	[- spa] de la diente como xxx la sonrisa xx . 1333181_1335773
-%eng:	of the teeth, how [...] smile.
+*LEI:	[- spa] de los diente como le ha quedado la sonrisa  . 1333181_1335773
+%eng:	of the teeth, how  the smile looks.
 *LEI:	dy(dd) Mercher (.) yr ail o Rhagfyr dan ni fod i fynd yn_ôl . 1342328_1346179
 %eng:	we're supposed to be going back on Wednesday the second of December.
-*MAR:	oh@s:cym&spa fi ? 1346854_1347328
+*MAR:	o@s:cym&spa fi ? 1346854_1347328
 %eng:	oh, me?
 *LEI:	na wnes i (ddi)m holi amdana chdi . 1347878_1349526
 %eng:	no, I didn't ask about you.
@@ -1449,7 +1458,7 @@
 *ROD:	xxx . 1383956_1384638
 *LEI:	oedd hi um +... 1384669_1385955
 %eng:	she was, um...
-*LEI:	oedd hi (y)n awgrymu felly (..) (ba)sai (y)r peth gorau fasai rhoid yr e@s:cym&spa (.) yn y ddau ddant tu blaen felly . 1387280_1393026
+*LEI:	oedd hi (y)n awgrymu felly (..) (ba)sai (y)r peth gorau fasai rhoid yr eh@s:cym&spa (.) yn y ddau ddant tu blaen felly . 1387280_1393026
 %eng:	she was suggesting that, that the best thing would be to put it on the two front teeth.
 *LEI:	los@s:spa brackets@s:eng (.) xx . 1394160_1396112
 %eng:	the brackets.
@@ -1555,7 +1564,7 @@
 %eng:	and she'll be ironing there.
 *ROD:	ah@s:cym&spa mae Pilar@s:cym&spa isio peiriant . 1555712_1557226
 %eng:	ah Pilar needs an iron.
-*ROD:	oh@s:cym&spa wel +... 1557360_1557824
+*ROD:	o@s:cym&spa wel +... 1557360_1557824
 %eng:	o well...
 *LEI:	mae Pilar@s:cym&spa isio (y)r peiriant i smwddio . 1557834_1559488
 %eng:	Pilar needs the machine to iron
@@ -1588,7 +1597,7 @@
 *LEI:	mae (y)na (.) rhywbeth allan o (e)i le . 1590136_1591720
 %eng:	something's not right.
 *ROD:	&=clears_throat . 1593031_1593591
-*ROD:	mmhm@s:cym&spa . 1593569_1594103
+*ROD:	mmhm . 1593569_1594103
 %eng:	mmhm.
 *LEI:	achos wnes i smwddio ryw [/] ryw crys i chdi ddoe . 1596775_1599554
 %eng:	because I ironed some shirt for you yesterday.
@@ -1598,7 +1607,7 @@
 %eng:	and it's true.
 *LEI:	(dy)dy ddim yn (.) wneud (..) gwaith (.) hynod o dda . 1602859_1607131
 %eng:	it doesn't do very good work.
-*ROD:	mmhm@s:cym&spa . 1610152_1610760
+*ROD:	mmhm . 1610152_1610760
 %eng:	mmhm.
 *LEI:	ah@s:cym&spa ti (y)n gwybo(d) be ? 1620896_1621915
 %eng:	ah, you know what?
@@ -1634,7 +1643,7 @@
 %eng:	maybe not the opening.
 *ROD:	hwyrach (.) ah@s:cym&spa cau . 1678543_1680527
 %eng:	maybe the close.
-*ROD:	oh@s:cym&spa wel ges i (y)r +... 1680781_1681623
+*ROD:	o@s:cym&spa wel ges i (y)r +... 1680781_1681623
 %eng:	oh well, I had...
 *LEI:	be oedden nhw wedi gofyn i ti ? 1681762_1682962
 %eng:	what had they asked you?
@@ -1660,8 +1669,8 @@
 %eng:	[...] that they're going to dance.
 *LEI:	dy(dd) Sul (.) welaist ti bod um (.) <y dy(dd)> [//] fory +... 1710601_1714830
 %eng:	did you see on Sunday that, um, tomorrow...
-*LEI:	+, na fory diwrnod y [/] (..) y día@s:spa de@s:spa aparición@s:spa no@s:spa ? 1714824_1719377
-%eng:	that tomorrow [is] the day of appearance
+*LEI:	+, na fory diwrnod y [/] (..) el@s:spa día@s:spa de@s:spa la@s:spa tradición@s:spa no@s:spa ? 1714824_1719377
+%eng:	that tomorrow [is] the day of tradition.
 *LEI:	[- spa] acá . 1719430_1719772
 %eng:	here.
 *LEI:	uh +... 1721089_1721788
@@ -1700,14 +1709,14 @@
 %eng:	we'll be doing it on Thursday.
 *LEI:	dw i meddwl . 1762989_1763405
 %eng:	I think.
-*LUI:	oh@s:cym&spa . 1764164_1764495
+*LUI:	o@s:cym&spa . 1764164_1764495
 %eng:	oh.
 *LUI:	biti &a . 1766271_1767364
 %eng:	pity.
 *LEI:	pam ? 1768514_1768828
 %eng:	why?
-*LEI:	oh@s:cym&spa achos dw i isio ymarfer pethau fel (yn)a . 1768807_1770770
-%eng:	oh@s:cym&spa because I need to practice things like that.
+*LEI:	o@s:cym&spa achos dw i isio ymarfer pethau fel (yn)a . 1768807_1770770
+%eng:	o@s:cym&spa because I need to practice things like that.
 *ROD:	&=clears_throat . 1770194_1770759
 *LEI:	isio ymarfer y cân dach chi (y)n trefnu . 1771138_1773063
 %eng:	need to practice the song you're preparing.
