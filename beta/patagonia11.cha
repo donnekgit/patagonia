@@ -456,7 +456,7 @@
 *ELO:	xxx . 353935_355273
 *GAB:	ie sí@s:spa . 354968_355907
 %eng:	yes
-*GAB:	sí . 356885_357525
+*GAB:	[- spa] sí . 356885_357525
 %eng:	yes
 %com:	sound of motorbike passing
 *GAB:	[- spa] sí tengo gente de gáles me están haciendo un reportaje Herminia@s:cym&spa y@s:spa mí y a xx . 358165_363130
@@ -470,7 +470,7 @@
 %eng:	ah xx.
 *HER:	hoy@s:spa . 368813_369271
 %eng:	today .
-*GAB:	+< [- spa] <hoy no vengas> [/] hoy no vengas porque tengo +... 369015_371409
+*GAB:	[- spa] +< <hoy no vengas> [/] hoy no vengas porque tengo +... 369015_371409
 %eng:	you're not coming today because I have...
 *GAB:	[- spa] <chao querida> [/] <chao querida> [//] chao . 371410_373335
 %eng:	bye dear, bye.
