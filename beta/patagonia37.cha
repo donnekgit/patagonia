@@ -465,9 +465,8 @@
 *RAM:	&=laugh . 306743_307707
 *RAM:	mae (y)r letys (.) wedi cael ei &=raspberry . 307742_310221
 %eng:	the lettuce has been ruined.
-*ELI:	[- spa] +< la liebre . 307742_310221
-%eng:	the hare.
-%com:	[check]
+*ELI:	[- spa] +< una liebre . 307742_310221
+%eng:	a hare.
 *ELI:	achos mae (y)r &e +//. 310291_311191
 %eng:	because the...
 *RAM:	oherwydd . 311167_311870
@@ -626,8 +625,8 @@
 %eng:	and it was fantastic.
 *RAM:	ond roeddwn i yn ofnadwy . 417843_420384
 %eng:	but I was terrible.
-*RAM:	aethon ni efo Jorge_Rodrigues@s:cym&spa yn uh (.) tráfico@s:spa . 420413_423581
-%eng:	we went with Jorge Rodrigues, in traffic.
+*RAM:	aethon ni efo Jorge_Rodríguez@s:cym&spa yn uh (.) tráfico@s:spa . 420413_423581
+%eng:	we went with Jorge Rodríguez, in traffic.
 *RAM:	ac roeddwn i yn teimlo (y)n <really@s:eng sâl> [=! whispers] . 423708_425991
 %eng:	and I felt really sick.
 *ELI:	&=laugh oh@s:cym&spa . 426009_426845
@@ -662,8 +661,8 @@
 %eng:	"hey, hey, hey."
 *RAM:	a uh +... 441226_442392
 %eng:	and, er...
-*RAM:	[- spa] +" hay que levantarte . 442271_443205
-%eng:	"you have to get up."
+*RAM:	[- spa] +" hay que levantarse . 442271_443205
+%eng:	"we have to get up."
 *RAM:	+" &=groan . 443211_444384
 *ELI:	&=laugh . 444482_445359
 *RAM:	+" xxx . 445244_446301
@@ -1089,8 +1088,8 @@
 %eng:	oh.
 @Comment:	conversation in background.
 *RAM:	&=sigh . 797873_799196
-*ELI:	a wnes i ddim_ond &g uh gofyn i ti am lle i roi y xxx (.) i (y)r oficina@s:spa . 801120_805917
-%eng:	and I only asked you about where to put the [...] [check] in the office.
+*ELI:	a wnes i ddim_ond &g uh gofyn i ti am lle i roi y xxx (.) i (y)r oficina@s:spa [?]  . 801120_805917
+%eng:	and I only asked you about where to put the [...] [check] in the office [?] .
 *RAM:	+< ia ia . 805098_805929
 %eng:	yes yes.
 *ELI:	wedyn (..) ro(eddw)n i (y)n syrpréisd iawn i [=! laughs] +//. 805915_809110
@@ -1742,13 +1741,13 @@
 *RAM:	ydy +..? 1362546_1363184
 %eng:	is...?
 *ELI:	&=laugh . 1363248_1364049
-*XXX:	xxx . 1364741_1366372
+*XXX:	www . 1364741_1366372
 *RAM:	o ble mae (y)r xxx ? 1368379_1369691
 %eng:	where's the [...] from?
-*ELI:	[- spa] <no sé> [?] . 1369702_1370451
+*ELI:	[- spa] <no sé>  . 1369702_1370451
 %eng:	don't know
 *RAM:	&=cough . 1370544_1372054
-*XXX:	xxx . 1377739_1379220
+*XXX:	www . 1377739_1379220
 *ELI:	&=laugh . 1378084_1378781
 *RAM:	dylwn i esbonio bod pobl wedi (.) cyrraedd ar (.) tandem . 1393001_1395817
 %eng:	I should explain that people have arrived on a tandem.
@@ -1832,9 +1831,11 @@
 %eng:	that's what's...
 *ELI:	+< mm +... 1447581_1447883
 %eng:	mm.
-*RAM:	a dw i (y)n siŵr rŵan bydda i (y)n mynd yn_ôl a bydda i ddim yn gallu wneud xxx &=laugh . 1448336_1452360
-%eng:	and I'm sure now I'll go back and I won't be able to do [...]
-*ELI:	+< na oh@s:cym&spa ie <dw i (y)n siŵr bod hi> [?] +//. 1450647_1452284
+*RAM:	a dw i (y)n siŵr rŵan bydda i (y)n mynd yn_ôl . 1448336_1449787
+%eng:	and I'm sure now I'll go back.
+*RAM:	a bydda hi ddim yn gallu wneud xxx &=laugh . 1449782_1452360
+%eng:	and she won't be able to do [...]
+*ELI:	+< na o@s:cym&spa ie <dw i (y)n siŵr bod hi> [?] +//. 1450647_1452284
 %eng:	no, oh I'm sure that she...
 *ELI:	ond mae [/] mae (.) coes hi yn brifo tipyn bach . 1452482_1455680
 %eng:	but her leg hurts a bit.
@@ -1964,8 +1965,8 @@
 *ELI:	&=laugh . 1530208_1531415
 *RAM:	neis . 1531434_1531823
 %eng:	nice.
-*RAM:	na dw i ddim yn nabod hi . 1532008_1532995
-%eng:	no I don't know her.
+*RAM:	na dw i ddim yn nabod xx . 1532008_1532995
+%eng:	no I don't know [...].
 *ELI:	a ia . 1532914_1533285
 %eng:	and yes.
 *ELI:	a mae hi (y)n +//. 1533285_1533974
@@ -1984,12 +1985,12 @@
 %eng:	yes.
 *ELI:	ia . 1542130_1542524
 %eng:	yes.
-*ELI:	mae (y)n [/] yn [/] yn (.) no@s:spa sé@s:spa xx +... 1542524_1545029
-%eng:	she... I don't know [...]...
+*ELI:	mae (y)n [/] yn [/] yn xxx . 1542524_1545029
+%eng:	she's in [...]
 *RAM:	oh@s:cym&spa ych_a_fi . 1544720_1546055
 %eng:	oh yuck.
 *RAM:	dw i (y)n (.) <casáu pobl fel (y)na> [=! laughs] ! 1546089_1549654
-%eng:	I hate people like that!
+%eng:	I hate [...] people like that!
 *ELI:	+< ie . 1546153_1546449
 %eng:	yes.
 *ELI:	+< &=laugh . 1547355_1549607
@@ -2024,7 +2025,7 @@
 *ELI:	+< na . 1562156_1562504
 %eng:	no.
 *ELI:	wneith hi (y)n trio eh@s:cym&spa wneud y cwrs <yn &ff> [//] yn xx . 1562585_1566306
-%eng:	she'll try to do the course in [...] [check]
+%eng:	she'll try to do the course in [...] [check].
 *RAM:	ah@s:cym&spa . 1566305_1566972
 %eng:	ah.
 *ELI:	ond (.) <wnes i ddim yn gallu> [//] &n &ne wnaeth hi ddim yn gallu (.) wneud y rôl . 1566978_1571615
@@ -2052,12 +2053,12 @@
 %eng:	oh.
 *ELI:	ia . 1590068_1590991
 %eng:	yes.
-*RAM:	wel (.) dw i (y)n bwriadu (..) cael y revisación@s:spa a [/] a dod (y)n_ôl . 1591807_1596497
-%eng:	well, I'm planning on having the check-up and coming back.
+*RAM:	wel (.) dw i (y)n bwriadu (..) cael y xxx a [/] a dod (y)n_ôl . 1591807_1596497
+%eng:	well, I'm planning on having ... and coming back.
 *ELI:	+< ie . 1596073_1596422
 %eng:	yes.
-*ELI:	rhaid i mi (.) mynd i gael y (.) revisación@s:spa hefyd . 1596544_1599088
-%eng:	I have to go and have the check-up too.
+*ELI:	rhaid i mi (.) mynd i gael y (.) xxx hefyd . 1596544_1599088
+%eng:	I have to go and have the xxx too.
 *RAM:	+< ia . 1598426_1598995
 %eng:	yes.
 *RAM:	ond dw i &ddi +//. 1599418_1600808
@@ -2205,10 +2206,10 @@
 *RAM:	ond ! 1715175_1715767
 %eng:	but!
 *ELI:	&=laugh . 1715767_1716475
-*RAM:	felly es i at Helena_Gonzales@s:cym&spa . 1716475_1719673
+*RAM:	felly es i at Helena_González@s:cym&spa . 1716475_1719673
 %eng:	so I went to Helena Gomez.
-*ELI:	ah@s:cym&spa Helena_Gonzales@s:cym&spa . 1719725_1720880
-%eng:	ah Helena Gomez.
+*ELI:	ah@s:cym&spa Helena_González@s:cym&spa . 1719725_1720880
+%eng:	ah Helena Gómez.
 *ELI:	yn Esquel@s:cym&spa . 1720891_1721372
 %eng:	in Esquel.
 *RAM:	yn Esquel@s:cym&spa . 1721384_1722290
