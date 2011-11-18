@@ -122,7 +122,7 @@
 %eng:	I said it really well in the...
 *SAV:	[- spa] en el xxx . 92779_93702
 %eng:	in the...
-*NIN:	[- spa] +, <en el prelim> [//] en las preliminares . 93638_95453
+*NIN:	+, <en@s:spa el@s:spa prelim> [//] en@s:spa las@s:spa preliminares@s:spa . 93638_95453
 %eng:	in the preliminary.
 *SAV:	[- spa] sí . 95746_96242
 %eng:	yes.
@@ -1272,7 +1272,7 @@
 %eng:	the poetry in the Eisteddfod.
 *SAV:	[- spa] bueno . 1266501_1267162
 %eng:	ok.
-*NIN:	dw i wedi (.) pasio prelim@s:spa . 1267377_1269227
+*NIN:	dw i wedi (.) pasio prelim . 1267377_1269227
 %eng:	I've got through the prelim.
 *SAV:	fuistes@s:spa yn y gymanfa ? 1269201_1270347
 %eng:	were you in the singing assembly?
@@ -1297,9 +1297,9 @@
 *SAV:	[- spa] ay sí . 1281733_1282480
 %eng:	ay, yes.
 *NIN:	[- spa] pero estaba <en el> [/] en el asado . 1282623_1284597
-%eng:	but it was at the asado (barbeque).
+%eng:	but it was at the barbecue.
 *SAV:	[- spa] estaba en el asado . 1284554_1285967
-%eng:	I was at the asado.
+%eng:	I was at the barbecue.
 *NIN:	[- spa] dice +"/. 1286149_1286341
 *NIN:	[- spa] +" qué papelón que hizo . 1286293_1287664
 %eng:	I said [...]
@@ -1548,7 +1548,7 @@
 %eng:	he was a judge once.
 *SAV:	[- spa] sí . 1554461_1554706
 %eng:	yes.
-*NIN:	[- spa] y despues +//. 1555175_1556183
+*NIN:	[- spa] y después +//. 1555175_1556183
 %eng:	and then...
 *NIN:	[- spa] xxx ochenta y seis . 1556029_1557959
 %eng:	[...] eighty six.
