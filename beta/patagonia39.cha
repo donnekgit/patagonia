@@ -231,18 +231,18 @@
 %eng:	hello?
 *AMA:	[- spa] buenas tardes . 135997_136606
 %eng:	good evening.
-*AMA:	[- spa] cómo [check]  ? 136606_137280
-%eng:	pardon?
+*AMA:	[- spa] cómo le va  ? 136606_137280
+%eng:	how are you doing?
 *AMA:	[- spa] bien &es +//. 138397_139222
 %eng:	good.
 *AMA:	[- spa] estoy en el pueblo . 139268_140754
 %eng:	I'm in the village.
 *AMA:	[- spa] sí . 142069_142504
 %eng:	yes.
-*AMA:	[- spa] sí sí [check]  . 143218_143976
-%eng:	yes yes.
-*AMA:	[- spa] bien . 143976_144719
-%eng:	good.
+*AMA:	[- spa] sí sí xxx   . 143181_143982
+%eng:	yes yes  xxx .
+*AMA:	[- spa] vos también ? 143976_144719
+%eng:	you too ?
 *AMA:	[- spa] sí es a las siete de la tarde en el salón central . 149113_152248
 %eng:	yes at seven in the evening in the central hall.
 *AMA:	en@s:spa el@s:spa salón@s:spa central@s:spa sobre@s:spa mm el@s:spa cambio@s:spa climático@s:spa . 153165_156335
@@ -251,34 +251,34 @@
 %eng:	it sounds interesting to me.
 *AMA:	[- spa] si yo puedo voy a ir . 157545_159054
 %eng:	if I can go, I will.
-*AMA:	[- spa] eh@s:cym&spa sí anda porque [check]  es interesante saber que pasa con esta lluvia en [check]  . 161130_165480
-%eng:	eh, yes, go because it's interesting to know what's happening with this rain in...
+*AMA:	[- spa] eh@s:cym&spa sí andá porque es muy interesante saber qué pasa con estas lluvias y cosas viste ? 161130_165480
+%eng:	eh, yes, go because it's very interesting to know what's happening with this rain see ?
 *AMA:	[- spa] sí . 166412_166993
 %eng:	yes.
 *AMA:	[- spa] la verdad ? 168406_169149
 %eng:	really?
-*AMA:	[- spa] la verdad [check]  veo no mucho eh@s:cym&spa ? 169213_170943
-%eng:	the truth is I don't see much, eh.
+*AMA:	[- spa] la verdad es que está lloviendo mucho eh@s:cym&spa ? 169213_170943
+%eng:	the truth is that is rainning a lot  eh.
 *AMA:	[- spa] sí . 172043_172554
 %eng:	yes.
 *AMA:	[- spa] mirá vos . 174191_175764
-%eng:	look at you. [check]
-*AMA:	[- spa] que consuelo no ? 175828_177267
+%eng:	look.
+*AMA:	[- spa] qué consuelo no ? 175828_177267
 %eng:	what a comfort, eh?
-*AMA:	[- spa] que consuelo . 177355_178875
+*AMA:	[- spa] qué consuelo . 177355_178875
 %eng:	such a comfort.
 *AMA:	[- spa] bueno . 178922_179851
 %eng:	good.
-*AMA:	[- spa] no estoy acá en una entrevista con Liani@s:cym&spa . 179926_182765
-%eng:	no, I'm here in an interview with Liani.
+*AMA:	[- spa] yo estoy acá en una entrevista con Liani@s:cym&spa . 179926_182765
+%eng:	I'm here in an interview with Liani.
 *AMA:	[- spa] sí estamos grabando viste ? 183569_185902
 %eng:	yes, we're filming you see.
 *AMA:	[- spa] &=laugh quieres grabar vos ? 186227_188590
 %eng:	do you want to fil yourself?
 *AMA:	[- spa] ah@s:cym&spa no [=! laughs] . 189400_190033
 %eng:	ah, no.
-*AMA:	[check] . 190079_191031
-%eng:	[...]
+*AMA:	no te interesa ? 190079_191031
+%eng:	you are not interested?
 *AMA:	[- spa] bueno . 191583_192761
 %eng:	good.
 *AMA:	[- spa] bueno gracias . 193664_194889
@@ -363,10 +363,10 @@
 %eng:	to go to the...
 *AMA:	ia . 245178_245474
 %eng:	yes.
-*AMA:	[check]  be ydy desfile@s:spa ["] ? 245517_246551
+*AMA:	be ydy desfile@s:spa ["] ? 245517_246551
 %eng:	what is "desfile" (procession)?
 *LIA:	&=clears_throat . 246609_247561
-*AMA:	[check]  ti (y)n cofio be ydy desfile@s:spa ["] (.) Cymraeg ? 248270_250237
+*AMA:	ti (y)n cofio be ydy desfile@s:spa ["] (.) Cymraeg ? 248270_250237
 %eng:	do you remember what "desfile" is in Welsh?
 *LIA:	+< na(c) (y)dw . 249685_250254
 %eng:	no.
@@ -415,8 +415,9 @@
 %eng:	[...] coming from...
 *AMA:	+< ah@s:cym&spa . 277616_279555
 %eng:	ah.
-*LIA:	+< oedd bagull yn dod efo fontana@s:spa . 278597_280542
+*LIA:	+< oedd bagull yn dod efo Fontana@s:cym&spa . 278597_280542
 %eng:	[...] came with [...]
+%com:	Fontana is not a Spanish word. Could be a proper name.
 *AMA:	oedd ? 281247_281781
 %eng:	yes?
 *LIA:	oedd oedd . 281799_282692
@@ -1303,8 +1304,8 @@
 %eng:	ah.
 *LIA:	+< pêl_droed . 802479_804198
 %eng:	football.
-*LIA:	yn y [check] deportivo@s:spa . 804224_805577
-%eng:	in the sports [...]
+*LIA:	yn y polideportivo@s:spa . 804224_805577
+%eng:	in the sports_centre@s:spa .
 *AMA:	mmhm . 805618_806001
 %eng:	mmhm.
 *LIA:	a oedd y merched o Trevelin@s:cym&spa y [/] yr merched bach ifanc o Trevelin@s:cym&spa yn deud (wr)tha fi +"/. 806015_809521
@@ -1313,8 +1314,8 @@
 %eng:	"oh I'd like to be able to speak Welsh now!"
 *AMA:	oh@s:cym&spa ia (dy)na fo . 812327_813494
 %eng:	oh yes that's it.
-*LIA:	[- spa] +< claro . 812699_813274
-%eng:	[...] sure.
+*LIA:	[- spa] +< ah mira vos . 812699_813274
+%eng:	ah you see .
 *LIA:	efo plant ifanc . 813227_814189
 %eng:	with young people.
 *AMA:	+< achos +//. 813481_814206
@@ -1625,29 +1626,29 @@
 *AMA:	&=clears_throat . 1003453_1004283
 *AMA:	[- spa] qué tal ? 1004475_1005943
 %eng:	how are you?
-*AMA:	[- spa] cómo estás ? 1006294_1007571
+*AMA:	[- spa] cómo andás ? 1006294_1007571
 %eng:	how are you?
 *AMA:	[- spa] bien . 1009467_1010117
 %eng:	good.
 *AMA:	[- spa] estoy mejor ahora . 1010123_1011458
 %eng:	I'm better now.
-*AMA:	[- spa] sí sí sabes . 1012393_1013275
+*AMA:	[- spa] sí sí sabés . 1012393_1013275
 %eng:	yes, yes, you know.
 *AMA:	[- spa] bueno muchas gracias . 1014752_1017120
 %eng:	good, thanks a lot.
 *AMA:	[- spa] sí . 1020476_1020998
 %eng:	yes.
-*AMA:	[- spa] sí tengo que [check]  llamar esta noche porque hoy he tenido dos entrevistas con los galeses viste ? 1023129_1027773
-%eng:	yes, I have to phone this evening because today I had two interviews with the Welsh people you see?
-*AMA:	[- spa] están [//] están grabando ahora . 1028490_1030603
+*AMA:	[- spa] sí te iba a llamar esta noche porque hoy he tenido dos entrevistas con los galeses viste ? 1023129_1027773
+%eng:	yes, I was going to phone you this evening because today I had two interviews with the Welsh people you see?
+*AMA:	[- spa] nos [//] nos  están grabando ahora . 1028490_1030603
 %eng:	we're recording now.
 *AMA:	[- spa] también en este momento . 1031120_1032252
 %eng:	right now.
 *AMA:	[- spa] sí . 1032409_1033500
 %eng:	yes.
 *AMA:	&=laugh . 1033611_1034359
-*AMA:	[check]  . 1034673_1037378
-%eng:	[...]
+*AMA:	[- spa] un ratito después yo te llamo en la noche querés  ? 1034673_1037378
+%eng:	in a bit, later I'll call you ok?
 *AMA:	[- spa] chao chao . 1037396_1038365
 %eng:	bye.
 *AMA:	[- spa] chao . 1038377_1038806
@@ -2233,8 +2234,8 @@
 %eng:	yes.
 *AMA:	+< mm +... 1411940_1413077
 %eng:	mm.
-*LIA:	maen nhw (.) (we)di torri gymaint o mm (.) bosques@s:spa cómo@s:spa &e . 1413414_1417257
-%eng:	[...] they've but so many, mm, forests like...
+*LIA:	maen nhw (.) (we)di torri gymaint o mm (.) bosques@s:spa cómo@s:spa era@s:spa ? 1413414_1417257
+%eng:	[...] they've cut so many, mm, forests - how is it?
 *AMA:	+< ++ o goed . 1416520_1417304
 %eng:	trees.
 *LIA:	goed (.) yn y north . 1417327_1419013
@@ -2310,7 +2311,7 @@
 %eng:	no.
 *LIA:	sut ddost ti ? 1465230_1465950
 %eng:	how did you come?
-*LIA:	[- spa] por taxi ? 1466845_1467953
+*LIA:	[- spa] en taxi ? 1466845_1467953
 %eng:	by taxi?
 *AMA:	[- spa] en taxi . 1468000_1468650
 %eng:	by taxi.
