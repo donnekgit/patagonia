@@ -68,11 +68,11 @@
 %eng:	"you live in a..."
 *VAL:	++ ie paraíso@s:spa . 59360_60695
 %eng:	yes, a paradise.
-*EST:	[- spa] +, paraíso . 60370_61055
+*EST:	+, [- spa] paraíso . 60370_61055
 %eng:	...paradise.
 *EST:	be ydy paraíso@s:spa ? 61009_62077
 %eng:	what is "paradise"?
-*VAL:	[- spa] +< paraíso . 61125_61891
+*VAL:	+< [- spa] paraíso . 61125_61891
 %eng:	paradise.
 *VAL:	wel fel y nefoedd ynde . 62309_63900
 %eng:	well, like heaven.

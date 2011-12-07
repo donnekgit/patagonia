@@ -518,7 +518,7 @@
 *OSE:	www . 446227_449339
 *CRS:	+< Gaiman@s:cym&spa ? 446541_447028
 *MBL:	ie . 447667_448085
-*CRS:	[- spa] +< bueno . 448932_449466
+*CRS:	+< [- spa] bueno . 448932_449466
 %eng:	good
 *CRS:	[- spa] igualmente . 449733_450720
 %eng:	likewise .
@@ -624,7 +624,7 @@
 %eng:	uh go down Boedo  Boedo Street .
 *MBL:	 te@s:spa caminas@s:spa así@s:spa por@s:spa San_Juan@s:cym&spa . 561940_564250
 %eng:	this is how you walk to San Juan .
-*CRS:	[- spa] +< sí pasa por +... 563760_564828
+*CRS:	+< [- spa] sí pasa por +... 563760_564828
 %eng:	yes go down ...
 *MBL:	[- spa] llegas +... 564239_564697
 %eng:	you arrive ...
@@ -634,7 +634,7 @@
 %eng:	and then bus one hundred and sixty stops there, yes there .
 *MBL:	caminas@s:spa así@s:spa pasas@s:spa Boedo@s:cym&spa y@s:spa Latina@s:cym&spa . 573769_576596
 %eng:	you walk like this down Boedo and Latina.
-*CRS:	[- spa] +< sí en la esquina xxx . 575829_577280
+*CRS:	+< [- spa] sí en la esquina xxx . 575829_577280
 %eng:	yeah [...]
 *MBL:	[- spa] acaba(s) +... 576482_577457
 %eng:	you end up...
