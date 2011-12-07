@@ -809,7 +809,7 @@
 %aut:	name 
 *MBL:	ie . 447667_448085
 %aut:	yes.ADV 
-*CRS:	[- spa] +< bueno . 448932_449466
+*CRS:	+< [- spa] bueno . 448932_449466
 %aut:	well.E 
 %eng:	good
 *CRS:	[- spa] igualmente . 449733_450720
@@ -971,7 +971,7 @@
 *MBL:	te@s:spa caminas@s:spa así@s:spa por@s:spa San_Juan@s:cym&spa . 561940_564250
 %aut:	you.PRON.OBL.MF.2S walk.V.2S.PRES thus.ADV for.PREP name 
 %eng:	this is how you walk to San Juan .
-*CRS:	[- spa] +< sí pasa por +... 563760_564828
+*CRS:	+< [- spa] sí pasa por +... 563760_564828
 %aut:	yes.ADV pass.V.23S.PRES[or]pass.V.2S.IMPER for.PREP 
 %eng:	yes go down ...
 *MBL:	[- spa] llegas +... 564239_564697
@@ -986,7 +986,7 @@
 *MBL:	caminas@s:spa así@s:spa pasas@s:spa Boedo@s:cym&spa y@s:spa Latina@s:cym&spa . 573769_576596
 %aut:	walk.V.2S.PRES thus.ADV pass.V.2S.PRES name and.CONJ name 
 %eng:	you walk like this down Boedo and Latina.
-*CRS:	[- spa] +< sí en la esquina xxx . 575829_577280
+*CRS:	+< [- spa] sí en la esquina xxx . 575829_577280
 %aut:	yes.ADV in.PREP the.DET.DEF.F.SG corner.N.F.SG 
 %eng:	yeah [...]
 *MBL:	[- spa] acaba(s) +... 576482_577457
