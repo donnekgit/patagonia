@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ROC Rocio Adult, JUA Juanita Adult
 @ID:	cym, spa|Patagonia|ROC|63;|female|||Adult||
 @ID:	cym, spa|Patagonia|JUA|74;|female|||Adult||
-@Situation:	Conversation at a meeting centre for Chubut-born people in Buenos Aires
+@Situation:	Conversation between friends at Rocio's apartment in eastern Chubut, Argentina
 @Date:	04-NOV-2009
 @Coder:	Myfyr Prys and Diana Carter, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:31:28
 @Media:	Patagonia14, audio
-@Comment:	Filename: Patagonia14 draft0.CHA; Soundfile: Patagonia14.mp3
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *ROC:	plant bach wel uh Meggan_Evans@s:cym&spa a Llinos@s:cym&spa (.) a ni (ei)n pedwar (.) a (..) Alonso@s:cym&spa a Carmel@s:cym&spa (..) a Mair_Jones_Hughes@s:cym&spa a +... 604_18867
 %eng:	Meggan Evan's children, uh, and Llinos and us four and Alonso and Carmel and Mair Jones Hughes and...
@@ -1642,9 +1641,9 @@
 *JUA:	&=laugh . 1682409_1682850
 *JUA:	wel (dy)na fo . 1683401_1684022
 %eng:	well there you go
-*ROC:	ond oeddwn i yn deud +/. 0_0
+*ROC:	ond oeddwn i yn deud +/. 1684148_1685622
 %eng:	but I was saying...
-*JUA:	&s tad a eu mam sy ar +... 1684417_1685520
+*JUA:	&s tad a eu mam sy ar +... 1684380_1685616
 %eng:	their father and mother are...
 *ROC:	debyg iawn xxx . 1685853_1688001
 %eng:	seems so [...] ...

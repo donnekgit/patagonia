@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, cym
 @Participants:	BER Berta Adult, HON  Adult
 @ID:	cym, spa|Patagonia|BER|21;|female|||Adult||
 @ID:	cym, spa|Patagonia|HON|18;|female|||Adult||
-@Situation:	Conversation in PEN's living room
+@Situation:	Conversation in a primary school in eastern Chubut, Argentina
 @Date:	06-NOV-2009
-@Transcriber:	 Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Transcriber:	Fraibet Aveledo, Bangor University
+@Comment:	Researchers: Peredur Davies and Margaret Deuchar, Bangor University
 @Time Duration:	00:30:15
 @Media:	Patagonia17, audio
-@Comment:	Filename: Patagonia17.cha; Soundfile: Patagonia17.wav
 @Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.
 *BER:	sí ahí cuando yo había empezado estaban &pe peleando por eso . 16_3467
 %eng:	yes, there, when I had started, that's why they were fighting.
@@ -1372,8 +1371,10 @@
 %eng:	family .
 *BER:	+< teulu@s:cym Gwanwyn . 1166707_1167902
 %eng:	spring family.
-*HON:	y xxx dim@s:cym profiad@s:cym y xxx dim@s:cym syniad@s:cym que no xxx . 1170630_1173073
-%eng:	and xxx no experience and xxx no idea that didn't xxx .
+*HON:	y gwanwyn@s:cym dim@s:cym profiad@s:cym . 1167496_1169826
+%eng:	and spring of no experience.
+*HON:	y gwanwyn@s:cym dim@s:cym syniad@s:cym que no xxx . 1170630_1173073
+%eng:	and spring of no idea, which didn't xxx .
 *BER:	sí . 1173189_1173632
 %eng:	yes.
 *BER:	son cinco más la <Escuela_de_Músico@s:cym&spa> que fue [///] Escuela_de_Música@s:cym&spa con ysgol@s:cym feithrin@s:cym . 1173547_1178035

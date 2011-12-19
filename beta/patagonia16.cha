@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-24:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -6,18 +6,15 @@
 @ID:	cym, spa|Patagonia|RAM|54;|male|||Adult||
 @ID:	cym, spa|Patagonia|ELS|46;|female|||Adult||
 @ID:	cym, spa|Patagonia|MOL|54;|female|||Adult||
-@Situation:	Conversation at a meeting hall in Puerto Madryn, Argentina
+@Situation:	Conversation at a meeting hall in eastern Chubut, Argentina
 @Date:	05-NOV-2009
 @Transcriber:	Marika Fusser, Bangor University
 @Comment:	Researchers: Peredur Davies and Margaret Deuchar, Bangor University
 @Time Duration:	00:32:09
 @Media:	Patagonia16, audio
-@Comment:	Filename: Patagonia16.cha; Soundfile: Patagonia16.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	The speakers aren't very confident in Welsh and often produce utterances that don't fit first language speakers' norms.
-@Comment:	Spanish or potentially Spanish passages are marked with [check] and need to be checked/transcribed.
-@Comment:	Welsh has been transcribed generally. Whereever something was unclear I left it as [check] xxx rather than guessing in case I made a Welsh guess for something that was really Spanish. So I marked all the [check] xxxs with a [check] so they could be checked to see which of them are Spanish and filled in accordingly. Afterwards it may be possible to guess the Welsh for some of the remaining [check] xxxs.
-@Comment:	Suggest to put beeps over names in the depression story.
+@Warning:	Suggest to put beeps over names in the depression story.
 *MOL:	[- spa] no no xxx . 1467_3157
 %eng:	no.
 *ELS:	+< &=laugh . 2400_3664
@@ -29,7 +26,7 @@
 %eng:	cheers.
 *RAM:	+< iechyd da . 6835_7347
 %eng:	cheers.
-*MOL:	+< iechyd da . 6808_7779
+*MOL:	+< iechyd da . 7062_7739
 %eng:	cheers.
 *RAM:	hefo paned o de &=laugh . 7799_9431
 %eng:	with a cup of tea.
@@ -236,7 +233,7 @@
 *ELS:	dw i (y)n briodas ? 190348_191564
 %eng:	I'm wedding?
 *RAM:	<dw i (y)n priod(i)> [//] wyt ti (y)n priodi ? 190907_192870
-%eng:	I'm getting married - are you getting married?
+%eng:	I'm getting married... are you getting married?
 *MOL:	+< &=laugh xxx . 191846_197094
 *ELS:	+< &=laugh . 192208_194470
 *RAM:	efo phwy ? 197000_198386
@@ -336,7 +333,7 @@
 *ELS:	dydd +/. 286349_286637
 %eng:	day...
 *RAM:	+< <dydd wythnos> ["] be(th) ti xx +/? 286461_287645
-%eng:	"weekday" - what do you..?
+%eng:	"weekday"... what do you..?
 *ELS:	+< [- spa] no no esta semana . 286687_288549
 %eng:	no, this week.
 *RAM:	<y wythnos (y)ma> ["] . 288509_289442
@@ -409,7 +406,7 @@
 %eng:	a lot of cases.
 *MOL:	[- spa] no . 344983_345170
 %eng:	no.
-*MOL:	[- spa] seré que yo presto más atención . 344833_346844
+*MOL:	[- spa] seré que yo presto más atención . 345141_346844
 %eng:	it's that I pay more attention.
 *ELS:	+< [- spa] claro a lo mejor . 346321_347953
 %eng:	sure, maybe.
@@ -819,7 +816,7 @@
 %eng:	when are you going?
 *MOL:	no@s:spa dau [/] dau_ddeg tri . 699500_700940
 %eng:	no, twenty three.
-*RAM:	mm +... 701198_702009
+*RAM:	mm +... 701060_701439
 %eng:	mm...
 *ELS:	+< dau_ddeg tri uh wedi mynd gyda ti . 701115_703926
 %eng:	twenty three gone with you.
@@ -1014,12 +1011,12 @@
 %eng:	okay.
 *MOL:	a (y)r gŵr xxx ni (y)n deud rabino@s:spa ["] . 883256_886099
 %eng:	and her husband [...], we call him a rabbi.
-*MOL:	porque@s:spa xxx & = laugh . 885919_888586
+*MOL:	porque@s:spa xxx &=laugh . 885919_888586
 %eng:	because [...].
-*ELS:	+< oh@s:cym&spa ! 886996_888596
-%eng:	oh!
 *RAM:	+< ie ie xxx achos [?] <mae (y)n uh ie> [//] mae (y)n farf ofnadwy ie . 886451_892071
 %eng:	yes, [...] because he has an awful beard.
+*ELS:	+< oh@s:cym&spa ! 886996_888596
+%eng:	oh!
 *MOL:	ie ie &=laugh . 891527_892844
 %eng:	yes.
 *ELS:	a um (.) uh +... 891884_894245
@@ -1051,7 +1048,7 @@
 %eng:	because he is older than Celestino but...
 *ELS:	+< ah@s:cym&spa . 916501_917658
 %eng:	ah.
-*ELS:	+< [- spa] claro . 916475_919123
+*ELS:	+< [- spa] claro . 918352_919035
 %eng:	of course.
 *ELS:	[- spa] perdió un año xxx . 919882_921573
 %eng:	he lost a year [...].
@@ -1153,7 +1150,7 @@
 %eng:	he is very good in chemistry now.
 *MOL:	+< ah@s:cym&spa . 989161_990377
 %eng:	ah.
-*ELS:	+< ei [/] ei gwaith yn dda eh@s:cym&spa ? 988999_991591
+*ELS:	+< ei [/] ei gwaith yn dda eh@s:cym&spa ? 989749_991591
 %eng:	his work is good, isn't it?
 *ELS:	xxx . 991342_992899
 *RAM:	+< mae o (y)n astudio (y)n caled . 991843_993422
@@ -1243,8 +1240,8 @@
 %eng:	like that.
 *ELS:	ie . 1055537_1055702
 %eng:	yes.
-*MOL:	[- spa] xxx pero no &=laugh ... 1056148_1058932
-%eng:	[...]ing but not ...
+*MOL:	[- spa] xxx pero no &=laugh +... 1056148_1058932
+%eng:	[...] but not ...
 *RAM:	+< mmhm . 1057646_1058169
 %eng:	yes.
 *ELS:	+< ie (.) pero@s:spa Beni@s:cym&spa beth estudio@s:spa uh +..? 1057732_1062089
@@ -1303,15 +1300,15 @@
 %eng:	but well .
 *ELS:	[- spa] pero pasa . 1091592_1092499
 %eng:	but it's over
-*ELS:	es un año . 1092408_1093496
+*MOL:	[- spa] esperemos [?] . 1092392_1093475
+%eng:	let's hope.
+*ELS:	+< es un año . 1092408_1093496
 %eng:	it's one year.
-*MOL:	+< [- spa] esperemos [?] . 1092392_1093475
-%eng:	lets hope.
 *ELS:	&=laugh . 1093450_1094042
 *MOL:	&=laugh . 1093999_1094431
 *ELS:	xxx +/. 1094431_1095162
 *MOL:	mae (y)r psicóloga@s:spa yn deud mae o (y)n mynd i um crecer@s:spa como@s:spa dice@s:spa ? 1095151_1100381
-%eng:	the psychologist says he will, um, how do you say "grow [more confident"?
+%eng:	the psychologist says he will, um, how do you say "grow more confident"?
 *RAM:	tyfu ["] . 1100341_1100853
 %eng:	"grow".
 *ELS:	tyfu ["] . 1100783_1101471
@@ -1470,7 +1467,7 @@
 *RAM:	+< [- spa] xxx parca &=laugh . 1224110_1225816
 %eng:	[...] death.
 *MOL:	+< ie [=! laughs] <mae (y)r dynes uh> [//] mae Iris@s:cym&spa wedi marw . 1224885_1228835
-%eng:	yes, the lady ,uh, Iris has died.
+%eng:	yes, the lady, uh, Iris has died.
 *ELS:	+< ie ah@s:cym&spa ie . 1228382_1231011
 %eng:	yes, ah, yes.
 *MOL:	+< mm +... 1229136_1229866
@@ -1492,7 +1489,7 @@
 %eng:	yes.
 *MOL:	a dynes (y)ma Iris@s:cym&spa wyth_deg &rwa rywbeth . 1243293_1247581
 %eng:	and this lady Iris, eighty-something.
-*ELS:	mm(.) ie xxx . 1247506_1249469
+*ELS:	mm (.) ie xxx . 1247506_1249469
 %eng:	mm, yes, [...].
 *MOL:	a dw i wedi cau drws &=laugh . 1249351_1251602
 %eng:	and I have closed the door.
@@ -1523,7 +1520,6 @@
 *MOL:	&= laugh <a chi> [?] [/] a chi funestos@s:spa (y)dyn ni heddiw xxx . 1269602_1272983
 %eng:	how terrible we are today, [...].
 *ELS:	+< &=laugh . 1272647_1274642
-*RAM:	+< &=laugh . 1272624_1274208
 *MOL:	mm +... 1274989_1275565
 %eng:	mmm.
 *ELS:	xxx . 1275298_1276167
@@ -1665,7 +1661,7 @@
 %eng:	mm...
 *ELS:	ah@s:cym&spa . 1363259_1363648
 %eng:	ah.
-*MOL:	igual@s:spa dw i (y)n +... 1363189_1365203
+*MOL:	igual@s:spa dw i (y)n +... 1363734_1365203
 %eng:	anyway I...
 *ELS:	+< mae (y)n [//] yn dda . 1365273_1366617
 %eng:	it's good.
@@ -1747,7 +1743,7 @@
 %eng:	before the [...] stampede.
 *ELS:	[- spa] claro . 1437297_1437884
 %eng:	of course.
-*MOL:	+< [- spa] &=laugh pues sí . 1437288_1438704
+*MOL:	+< [- spa] &=laugh pues sí . 1437609_1438704
 %eng:	yes.
 *RAM:	mm +... 1437995_1438662
 %eng:	mm...
@@ -1851,7 +1847,7 @@
 %eng:	it's half an hour.
 *MOL:	mm +... 1511653_1512048
 %eng:	mm...
-*ELS:	+< [- spa] sí . 1511557_1512799
+*ELS:	+< [- spa] sí . 1511874_1512799
 %eng:	yes .
 *MOL:	+< xxx . 1512095_1512821
 *MOL:	dach chi eisiau xxx . 1512869_1515448
@@ -1990,7 +1986,7 @@
 %eng:	mm...
 *MOL:	uh <mae (y)r> [//] mae motocar@s:spa fi wedi torri . 1588308_1592901
 %eng:	my car is broken.
-*MOL:	a <wedi (y)r> [//] rŵan mae o gyda &rins [?] newydd (.) rin@spa [?] &=laugh . 1592907_1598175
+*MOL:	a <wedi (y)r> [//] rŵan mae o gyda &rins [?] newydd (.) rin@s:spa [?] &=laugh . 1592907_1598175
 %eng:	and now it has new wheels... wheel.
 *ELS:	+< &=laugh . 1596682_1598005
 *MOL:	wedi roi rin@s:spa newydd &=laugh . 1598036_1600537
@@ -2075,7 +2071,7 @@
 %eng:	and Anita has...
 *MOL:	mae o (y)n trist ? 1674415_1675546
 %eng:	he is sad?
-*ELS:	uh +... 0_0
+*ELS:	uh +/. 1675564_1676156
 %eng:	uh...
 *MOL:	+< ah@s:cym&spa <mae (y)n> [/] mae (y)n +... 1675722_1677536
 %eng:	ah, he...
@@ -2105,9 +2101,9 @@
 %eng:	worried but in good spirits.
 *MOL:	ah@s:cym&spa . 1691649_1692268
 %eng:	ah.
-*ELS:	[- spa] bien . 1692236_1693932
+*ELS:	[- spa] bien . 1692236_1692773
 %eng:	ok.
-*ELS:	[- spa] como está siempre . 0_0
+*ELS:	[- spa] como está siempre . 1692762_1693930
 %eng:	as she always is.
 *MOL:	+< [- spa] sí sí sí sí sí sí . 1693121_1694492
 %eng:	yes.
@@ -2198,9 +2194,9 @@
 %eng:	he is thin.
 *ELS:	ie dim bwyta (y)n dda a +... 1751521_1754029
 %eng:	yes, doesn't eat well and...
-*MOL:	bach . 1755162_1755754
+*MOL:	bach . 1755096_1755661
 %eng:	small.
-*ELS:	[- spa] muy débil ? 1754858_1756394
+*ELS:	[- spa] muy débil ? 1755325_1756394
 %eng:	very weak ?
 *ELS:	uh um +... 1756748_1758204
 %eng:	um...
@@ -2327,7 +2323,7 @@
 *RAM:	mae (y)na (.) xxx . 1879227_1882727
 %eng:	there is [...].
 *MOL:	porque@s:spa dim ar xxx (.) yr ffordd [/] ffordd ballenas@s:spa [?] ffordd (.) wedi syrthio [?] fan hyn xxx gwybod . 1883042_1891532
-%eng:	because not on [...] the 'whale' road has fallen here [...] don't know.
+%eng:	because not on [...] the "whale" road has fallen here [...] don't know.
 *RAM:	+< mmhm (..) mmhm . 1887804_1891468
 %eng:	yes.
 *RAM:	mmhm . 1891452_1892252

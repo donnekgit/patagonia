@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	SAV Savannah Adult, NIN Nina Adult, OSE Other Speaker
+@Participants:	SAV Savannah Adult, NIN Nina Adult, OSE Researcher Adult
 @ID:	cym, spa|Patagonia|SAV|81;|female|||Adult||
 @ID:	cym, spa|Patagonia|NIN|42;|female|||Adult||
-@Situation:	Conversation at Savannah's house in Trelew
+@Situation:	Conversation at Savannah's house in eastern Chubut, Argentina
 @Date:	04-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:29:45
 @Media:	Patagonia15, audio
-@Comment:	Filename: Patagonia15.cha; Soundfile: Patagonia15.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *NIN:	dw i isio uh (.) dysgu uh ein hen iaith dan ni we(di) +//. 27_3653
 %eng:	I want to learn our old language that we've...
@@ -158,7 +157,7 @@
 *NIN:	+< &=laugh . 124379_129152
 *NIN:	[- spa] y quienes me estaban grab(ando) filmando . 129179_131877
 %eng:	and they were filming me.
-*NIN:	[- spa] me dicen +"/ . 132048_132693
+*NIN:	[- spa] me dicen +"/. 132048_132693
 %eng:	they tell me.
 *SAV:	+< [- spa] xxx vídeo . 132048_132693
 %eng:	[...] video.
@@ -291,8 +290,8 @@
 %eng:	and a lot to do.
 *SAV:	+< mm +... 257043_257613
 %eng:	mm...
-*SAV:	sut mae gŵr uh +... 259048_260568
-%eng:	how is, er... [...]'s husband?
+*SAV:	sut mae gŵr uh +..? 259048_260568
+%eng:	how is, er... the husband of...?
 *SAV:	um +... 264475_265825
 %eng:	um...
 *SAV:	oh@s:cym&spa Elen@s:cym&spa . 267091_268179
@@ -407,7 +406,7 @@
 %eng:	the examination today was excellent.
 *NIN:	+" [- spa] me harán una valvuloplastía +//. 358009_360746
 %eng:	they did a valvuloplasty on me.
-*NIN:	+" [- spa] +, &vla valvuloplastía . 360762_363158
+*NIN:	+" +, [- spa] &vla valvuloplastía . 360762_363158
 %eng:	valvuloplasty.
 *NIN:	[- spa] no me tienen que abrir . 363680_365077
 %eng:	they didn't have to open me up.
@@ -459,7 +458,7 @@
 %eng:	mm.
 *SAV:	[- spa] y cómo hacen eso sin abrir ? 402646_404716
 %eng:	and how did they do this without opening?
-*NIN:	[- spa] eh@s:cym&spa no sé 405397_406133
+*NIN:	[- spa] eh@s:cym&spa no sé . 405397_406133
 %eng:	I don't know.
 *NIN:	[- spa] xxx deben hacer como una microcirugía o una cosa así . 406080_409844
 %eng:	xxx they have to do like microsurgery or something like that.
@@ -1606,7 +1605,7 @@
 %eng:	I saw her name and said:
 *SAV:	+" [- spa] porque no lo había leído en todo este tiempo tras un año que tengo la programa . 1607280_1611616
 %eng:	because after having the programme for a year I hadn't read it all this time.
-*NIN:	+< pero@s:spa 1607360_1607850
+*NIN:	+< pero@s:spa +/. 1607360_1607850
 %eng:	um...
 *NIN:	+< [- spa] pero no vino . 1610885_1611552
 %eng:	but she didn't go.
