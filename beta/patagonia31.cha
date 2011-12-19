@@ -1,3 +1,4 @@
+@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -16,7 +17,7 @@
 %eng:	yes.
 *CZA:	ond (dy)na fo . 1013_1440
 %eng:	but there we go.
-*CZA:	hwyrach bod hi (we)di ffwndro (y)r diwrnod ni efo diwrnod oedd (.) Tomos@s:cym&spa wedi marw a pethau fel (y)na . 1440_6770
+*CZA:	hwyrach bod ni (we)di ffwndro (y)r diwrnod ni efo diwrnod oedd (.) Tomos@s:cym&spa wedi marw a pethau fel (y)na . 1440_6770
 %eng:	we might have mixed up our day with the day Tomos died, and things like that.
 *SOF:	+< ah@s:cym&spa . 6164_6804
 %eng:	ah.
@@ -24,7 +25,7 @@
 %eng:	maybe that had an effect.
 *CZA:	siŵr o fod xx . 8239_9295
 %eng:	certainly [...] .
-*SOF:	wel (.) wel dw i (ddi)m yn gwybod . 9818_11242
+*SOF:	wel (.) wel dw i ddim yn gwybod . 9818_11242
 %eng:	well, I don't know.
 *CZA:	+< xx ? 10041_10265
 *SOF:	achos mae +//. 11253_11631
@@ -104,7 +105,7 @@
 %eng:	yes.
 *CZA:	a &m fo (y)n siarad yn isel . 83551_85418
 %eng:	and he speaks quietly.
-*SOF:	+< ofnadwy <na(g) (y)dy> [?] ? 83551_84660
+*SOF:	+< ofnadwy yndy ? 83551_84660
 %eng:	terrible, isn't it?
 *SOF:	oh@s:cym&spa diar diar diar . 86382_88057
 %eng:	oh, dear dear.
@@ -282,8 +283,8 @@
 %eng:	"well, this..."
 *CZA:	+" [- spa] Barbara@s:cym&spa no me conocés . 245876_247182
 %eng:	Barbara doesn't know me.
-*CZA:	+" [- spa] soy Constanza@s:cym&spa . 247177_248286
-%eng:	I'm Constanza.
+*CZA:	+" [- spa] soy Rosa@s:cym&spa . 247177_248286
+%eng:	I'm Rosa.
 *CZA:	oedd hi (y)n edrych fel (ba)sai hi +... 249077_250833
 %eng:	she looked as if she...
 *SOF:	++ &a (.) ar_goll . 251127_252167
@@ -291,7 +292,6 @@
 *CZA:	ar_goll . 252209_252663
 %eng:	lost.
 *SOF:	xxx . 252657_253233
-%eng:	[...]
 *CZA:	dw i (ddi)m yn gwybod be +/. 253306_254613
 %eng:	I don't know what...
 *SOF:	+< na dw i (y)n credu bod &ho &o llall (y)ma (.) yn iawn ar sbeliau neu rhyw gymaint . 253642_259018
@@ -317,7 +317,7 @@
 *CZA:	+< ah@s:cym&spa . 275932_276530
 %eng:	ah.
 *SOF:	a o(eddw)n i (y)n cychwyn a wedyn dw i ddim gwybod os ydyn nhw (we)di ei gadael hi neu beidio . 276567_280276
-%eng:	and I setting off and so I don't know if they left her or not.
+%eng:	and I was setting off and so I don't know if they left her or not.
 *CZA:	+< <oedd y> [/] oedd y gŵr efo hi oedd ? 279599_281003
 %eng:	the husband was with her, was he?
 *CZA:	oedd o ? 281013_281813
@@ -453,8 +453,8 @@
 %eng:	yes yes.
 *SOF:	oes (y)na le go_lew yna ? 372950_374145
 %eng:	is there a decent place there?
-*CZA:	fel (yn)a ddeudodd o wrtha fi ond dw i (ddi)m yn gwybod &ðe ddeudodd xxx bod golwg +... 375335_379751
-%eng:	he told me that but, I don't know, he said [...] that she looks...
+*CZA:	fel (yn)a ddeudodd o wrtha fi ond dw i (ddi)m yn gwybod &ðe ddeudodd Rosa@s:cym&spa bod golwg +... 375335_379751
+%eng:	he told me that but, I don't know, Rosa said that she looks...
 *SOF:	++ hurt iawn arni . 380770_381751
 %eng:	very distracted.
 *CZA:	ie . 381845_382197
@@ -569,7 +569,7 @@
 *SOF:	ie ddeudodd rywun bod o (y)n cau . 464615_466018
 %eng:	yes, somebody said it had closed.
 *CZA:	draw <ar y> [//] yn yr avenida@s:spa xx  (.) Alviar@s:cym&spa . 465991_468754
-%eng:	over on [...] Avenue Alviar.
+%eng:	over on [...] Alviar Avenue.
 *SOF:	+< mae (y)n neis . 467874_468594
 %eng:	it's nice.
 *SOF:	mae (y)n liw neis . 469146_470495
@@ -2116,7 +2116,7 @@
 %eng:	and you can tell that she enjoys it.
 *CZA:	yndy yndy . 1752139_1752737
 %eng:	yes yes.
-*SOF:	(ba)sai fo (y)n gwneud gymaint o les iddi (.) lle bod hi hunan fan (y)na . 1752874_1755949
+*SOF:	(ba)sai fo (y)n gwneud gymaint o les iddi (.) lle bod hi hunan (y)n fan (y)na . 1752874_1755949
 %eng:	it'd do her so much good, instead of her being alone there.
 *CZA:	+< ie . 1754741_1754986
 %eng:	yes.
@@ -2282,7 +2282,7 @@
 %eng:	she said.
 *CZA:	uh claro@s:spa Lucy@s:cym&spa mor sâl xxx +/. 1853570_1856109
 %eng:	er, right, Lucy's so ill [...]...
-*SOF:	+< wrth_gwr(s) [?] (.) Lucy@s:cym&spa wedi bod yn sâl . 1853570_1856109
+*SOF:	+< wrth_gwr(s) [?] (.) Lucy@s:cym&spa wedi bod (m)or sâl . 1853570_1856109
 %eng:	of course, Lucy's been ill.
 *SOF:	a rŵan dw i ddim yn gwybod be wneith hi . 1856114_1857629
 %eng:	and now I don't know what she'll do.
@@ -2400,8 +2400,8 @@
 %eng:	mm...
 *CZA:	a wedyn (.) &dental_click hwyrach bod y beirniad (..) (y)chydig bach (.) gormod <o (y)r> [//] o +//. 1949298_1955745
 %eng:	and then maybe the judges are a little too...
-*CZA:	xxx &n (..) esbleinio (y)n dda iawn oedd . 1955839_1958708
-%eng:	[...] explaining very well, yes.
+*CZA:	oedd o (y)n &n (..) esbleinio (y)n dda iawn oedd . 1955839_1958708
+%eng:	he was explaining very well, yes.
 *CZA:	ond (h)wyrach (y)chydig bach rhy hir . 1958811_1960310
 %eng:	but perhaps a little too long.
 *SOF:	+< &m y beirniad canu . 1959115_1960219
@@ -2479,8 +2479,8 @@
 %eng:	I knew because, er, Isabel had sent to tell Rosa that they were going.
 *CZA:	oedd hi ddim yn mynd . 2017122_2018444
 %eng:	she wasn't going.
-*CZA:	achos oedd hi (y)n mynd i Neuquén@s:cym&spa xx +... 2018492_2020798
-%eng:	because she was going to Neuquén [...]...
+*CZA:	achos oedd hi (y)n mynd i Neuquén@s:cym&spa i +... 2018492_2020798
+%eng:	because she was going to Neuquén to...
 *SOF:	pwy ? 2020873_2021108
 %eng:	who?
 *SOF:	ei mam nhw ? 2021113_2021780
@@ -2493,8 +2493,8 @@
 %eng:	and those days she was going to Neuquen to see, er, Barri.
 *CZA:	&ba weld y gŵr wrth_gwrs . 2027348_2028660
 %eng:	to see the husband, of course.
-*SOF:	a wedyn mae hi yn_ôl yn Neuquén@s:cym&spa felly ? 2029438_2031485
-%eng:	and so she's back in Neuquén then?
+*SOF:	a wedyn mae o yn_ôl yn Neuquén@s:cym&spa felly ? 2029438_2031485
+%eng:	and so he's back in Neuquén then?
 *CZA:	mae o yndy yndy . 2031859_2032989
 %eng:	he is, yes.
 *CZA:	mae o (y)n_ôl yn Neuquén@s:cym&spa ers dipyn rŵan . 2032989_2035123
@@ -2634,7 +2634,7 @@
 %eng:	there are always more women.
 *CZA:	ond (..) o(eddw)n i (y)n deud ti (y)n cofio f(e) <aeson nhw> [/] (..) aeson nhw ag Alwyn@s:cym&spa (.) fan (y)na am (y)chydig bach o ddyddiau do  ? 2160463_2168632
 %eng:	but I was saying, do you remember, they took Alwyn there for a few days, didn't they?
-*SOF:	&=sniffs . 2161224_2161656
+*SOF:	+< &=sniffs . 2161224_2161656
 *SOF:	fan hyn ? 2169266_2169960
 %eng:	here?
 *CZA:	na . 2169992_2170290
