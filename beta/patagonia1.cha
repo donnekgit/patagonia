@@ -1,19 +1,18 @@
-@Font:	Win95:Arial:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, es, en
+@Languages:	cym, spa, eng
 @Participants:	MBL Mabel Adult, DIA Diana Adult, CRS Carlos Adult, OSE non_participant Adult
 @ID:	cym, spa|Patagonia|MBL|21;|female|||Adult||
 @ID:	cym, spa|Patagonia|DIA|22;|female|||Adult||
 @ID:	cym, spa|Patagonia|CRS|28;|male|||Adult||
 @ID:	cym, spa|Patagonia|OSE|?;|?|||Adult||
-@Situation:	Conversation at a meeting centre for Chubut-born people in Buenos Aires
+@Situation:	Conversation at a meeting centre in Buenos Aires, Argentina
 @Date:	25-OCT-2009
 @Transcriber:	Myfyr Prys and Lowri Jones, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:10:02
 @Media:	Patagonia1, audio
-@Comment:	Filename: Patagonia1.CHA; Soundfile: Patagonia1.WAV
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MBL:	ond rwyt ti (y)n byw ar bwys (y)r coleg ia ? 917_3576
 %eng:	but you live next to the college right?
@@ -94,14 +93,14 @@
 *CRS:	weithiau pan mae um@s:cym (.) fy mrawd yng nghyfraith  yn dod yma . 73592_77563
 %eng:	sometimes when my brother in law comes here
 *MBL:	ia . 77818_78434
-*CRS:	 +< wedyn rhaid i mi siarad yn Gymraeg achos mae [/] mae e (y)n dod o [/] o Gymru felly .  78357_82432
+*CRS:	+< wedyn rhaid i mi siarad yn Gymraeg achos mae [/] mae e (y)n dod o [/] o Gymru felly .  78357_82432
 %eng:	then I have to speak Welsh, because he's from Wales
 *MBL:	ia . 82594_82966
 *CRS:	dydy o ddim yn siarad llawer o Sbaeneg . 83012_84707
 %eng:	he doesn't speak much Spanish
 *MBL:	+< dim yn siarad Sbaeneg ? 84185_85218
 %eng:	he doesn't speak Spanish?
-*CRS:	 na <mae yn>  [/] (.) mae yn siarad (.) Sbaeneg [/] Sbaeneg . 85252_88578
+*CRS:	na <mae yn>  [/] (.) mae yn siarad (.) Sbaeneg [/] Sbaeneg . 85252_88578
 %eng:	no, he does speak Spanish
 *CRS:	ond (.) mae yn hoffi siarad mwy yn [/] yn Cymraeg . 88424_92720
 %eng:	but he prefers to speak mostly in Welsh
@@ -406,7 +405,7 @@
 *CRS:	&=laugh . 323706_324541
 *CRS:	posibl . 326891_327564
 %eng:	possibly
-*CRS:	 beth wyt ti isio wneud efo (y)r allwedd achos mae rhaid i mi mynd . 327874_331061
+*CRS:	beth wyt ti isio wneud efo (y)r allwedd achos mae rhaid i mi mynd . 327874_331061
 %eng:	what do you want to do with the key, because I have to leave
 *MBL:	+< ia . 327911_328352
 %eng:	yes
@@ -622,7 +621,7 @@
 %eng:	one, two, three, four squares?
 *MBL:	eh@s:cym&spa pasa@s:spa Boedo@s:cym&spa avenida@s:spa Boedo@s:cym&spa . 559153_561835
 %eng:	uh go down Boedo  Boedo Street .
-*MBL:	 te@s:spa caminas@s:spa así@s:spa por@s:spa San_Juan@s:cym&spa . 561940_564250
+*MBL:	te@s:spa caminas@s:spa así@s:spa por@s:spa San_Juan@s:cym&spa . 561940_564250
 %eng:	this is how you walk to San Juan .
 *CRS:	+< [- spa] sí pasa por +... 563760_564828
 %eng:	yes go down ...

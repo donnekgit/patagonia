@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Narrow:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -6,13 +6,12 @@
 @ID:	cym, spa|Patagonia|MEL|72;|female|||Adult||
 @ID:	cym, spa|Patagonia|FED|29;|male|||Adult||
 @ID:	cym, spa|Patagonia|OSE|?;|female|||Adult||
-@Situation:	Conversation at a meeting centre for Chubut-born people in Buenos Aires
+@Situation:	Conversation at Melba's house in western Chubut, Argentina, between Melba and her son Federico
 @Date:	13-NOV-2009
 @Transcriber:	Myfyr Prys and Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:30:26
 @Media:	Patagonia33, audio
-@Comment:	Filename: Patagonia33.CHA; Soundfile: Patagonia33.WAV
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MEL:	maen nhw (y)n cael cinio yn lle Mabli@s:cym&spa fory . 565_2549
 %eng:	they're having lunch at Mabli's place tomorrow
@@ -93,7 +92,7 @@
 %eng:	lets make a face of Mickey
 *FED:	[- spa] cara de Mickey@s:cym&spa ? 81429_82122
 %eng:	Mickey's face
-*MEL:	[- spa] cómo es la de Mickey@s:cym&spa ? 0_0
+*MEL:	[- spa] cómo es la de Mickey@s:cym&spa ? 82185_83060
 %eng:	how is Mickey's face ?
 *MEL:	[- spa] a ver . 83059_83507
 %eng:	let's see
@@ -128,7 +127,7 @@
 %eng:	what's here [...]?
 *MEL:	ooh . 113384_114205
 *FED:	&=sniff . 114995_115560
-*MEL:	babi bach yn cysgu . 0_0
+*MEL:	<babi bach yn cysgu> [=! sings] . 115734_118236
 %eng:	little baby sleeping.
 *MEL:	oh@s:cym&spa y babi bach yn isio mynd i (y)r gwely . 119242_123231
 %eng:	oh, the little baby wants to go to bed
@@ -1251,7 +1250,7 @@
 %eng:	it has style
 *MEL:	+< [- spa] sí sí . 1586240_1587157
 %eng:	yes, yes
-*FED:	[- spa] pero eso está bueno oíste ? 0_0
+*FED:	[- spa] pero eso está bueno oíste ? 1587049_1588265
 %eng:	but this is good, isn't it?
 *MEL:	[- spa] claro con madera y +... 1588572_1590582
 %eng:	of course, with wood and...

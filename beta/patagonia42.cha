@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ANO Antonio Adult, MSA Melosa Adult
 @ID:	cym, spa|Patagonia|ANO|70;|male|||Adult||
 @ID:	cym, spa|Patagonia|MSA|87;|female|||Adult||
-@Situation:	Conversation at Antonio's house in Trevelin, Argentina
+@Situation:	Conversation at Antonio's house in western Chubut, Argentina
 @Date:	17-NOV-2009
 @Transcriber:	Jonathan Stammers and Fraibet Aveledo, Bangor University
 @Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:33:35
 @Media:	Patagonia42, audio
-@Comment:	Filename: Patagonia42.cha; Soundfile: Patagonia42.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *ANO:	tybed bod Dada@s:cym&spa (we)di gael o ? 139_1753
 %eng:	I wonder if Dada's had it?
@@ -57,10 +56,10 @@
 %eng:	Mam, she died 20 years ago!
 *MSA:	wel uh mae [/] mae &d [/] (.) <mae wedi> [//] mae Mam@s:cym&spa wedi marw ers dros ugain mlynedd . 34821_38582
 %eng:	well Mam died over 20 years ago
-*ANO:	yndy yndy dw i (y)n gwybod hynny . 38700_39851
-%eng:	yes, yes I know that
-*MSA:	+< ac oedd dy dad di wedi marw yn gynt . 38638_40420
+*MSA:	ac oedd dy dad di wedi marw yn gynt . 38638_40420
 %eng:	and your father died before that
+*ANO:	+< yndy yndy dw i (y)n gwybod hynny . 38700_39851
+%eng:	yes, yes I know that
 *ANO:	+< yndy xx ond fysai fo efo Dada@s:cym&spa . 39916_42070
 %eng:	yes, [...] but he would be with Dada
 *MSA:	ia . 42175_42691
@@ -193,7 +192,7 @@
 %eng:	I'm putting the names
 *MSA:	a dw i roid enwau (y)r plantod wan . 124624_126272
 %eng:	and I'm putting the names of the children now
-%com:	check "plantod" (irregular plural?)
+%com:	check "plantod" [irregular plural?] .
 *ANO:	mm +... 126285_126598
 *MSA:	fel bod o (y)n aros como@s:spa [//] fel documento@s:spa . 126641_128945
 %eng:	so that it remains as... as a testimony document
@@ -465,7 +464,7 @@
 %eng:	yes, in the Valley
 *ANO:	+" en@s:spa Tres_sauces@s:cym&spa cerca@s:spa de@s:spa Rawson@s:cym&spa . 315848_317636
 %eng:	in Tres Sauces, near Rawson
-*ANO:	más@s:spa tarde@s:spa vivieron@s:spa en@s:spa Trelew@s:cym&spa donde@s:spa actualmente@s:spa (.) está@s:spa casa@s:spa Lloyd@s:cym&spa avenida@s:spa Fontana@s:cym&spa ? . 317555_322379
+*ANO:	más@s:spa tarde@s:spa vivieron@s:spa en@s:spa Trelew@s:cym&spa donde@s:spa actualmente@s:spa (.) está@s:spa casa@s:spa Lloyd@s:cym&spa avenida@s:spa Fontana@s:cym&spa . 317555_322379
 %eng:	later they lived in Trelew where the Lloyd house currently is, on Fontana Avenue
 *ANO:	+" [- spa] abrieron allí una pensión familiar . 322326_324323
 %eng:	they opened a family bed and breakfast there
@@ -632,7 +631,7 @@
 *ANO:	+< chwe_deg . 476916_477485
 %eng:	sixty
 *ANO:	o (y)r pedwar_deg naw yndy yndy . 478317_479960
-%eng:	from '49, yes
+%eng:	from (19)49, yes
 *MSA:	+< oh@s:cym&spa (dy)na ti . 478677_479426
 %eng:	oh, there you are
 *ANO:	ie ie . 480440_481177
@@ -751,7 +750,7 @@
 %eng:	well, they have fun together
 *MSA:	+< xx . 556598_556976
 %eng:	[...]
-*MSA:	ie ie . 557690_558183
+*MSA:	ie ie . 557583_558183
 %eng:	yes
 *ANO:	+< <maen nhw> [/] <maen nhw> [/] maen nhw (y)n debyg un i (y)r llall . 557688_559302
 %eng:	they're similar to one another
@@ -777,10 +776,9 @@
 %eng:	she works in court
 *ANO:	yndy yndy yndy . 571868_572616
 %eng:	yes she does
-*MSA:	+< oh@s:cym&spa (dy)na ti iawn (yn)dy ia . 572657_574770
+*MSA:	+< &=gasp (dy)na ti iawn (yn)dy ia . 572153_574770
 %eng:	oh, that's good, isn't it, yes
 *ANO:	+< xxx . 572607_573472
-%eng:	[...]
 *ANO:	+< wel (dy)na fo . 574413_574941
 %eng:	well, that's it
 *MSA:	wel (dy)na fo . 574976_575696
@@ -859,7 +857,7 @@
 %eng:	over there, yes?
 *ANO:	+< na na (di)m_ond +/. 619400_620503
 %eng:	no, no only...
-*MSA:	acho(s) <(y)dy o> (y)dy o (y)n gweithio rŵan ? 620509_622300
+*MSA:	acho(s) <(y)dy o> [/] (y)dy o (y)n gweithio rŵan ? 620509_622300
 %eng:	because is he working now?
 *ANO:	yndy . 622406_622969
 %eng:	yes
@@ -1029,7 +1027,7 @@
 %eng:	yes
 *MSA:	meddwl (.) na um gymaint mae (y)r (.) byd wedi altro ar_ôl hynny yndy ? 776802_782381
 %eng:	thinking, no, how much the world has changed after that, hasn't it?
-*ANO:	+< xx . 776789_777108
+*ANO:	+< xx . 776887_777224
 *ANO:	+< yndy . 781610_782138
 %eng:	yes
 *ANO:	yndy yndy . 782372_783045
@@ -1205,7 +1203,7 @@
 %eng:	no
 *MSA:	(dy)dy o ddim yn iawn . 934212_935008
 %eng:	it's not right
-*ANO:	+< na(c) (y)dy xx . 934092_934975
+*ANO:	+< na(c) (y)dy xx . 934406_935062
 %eng:	no [...]
 *ANO:	na na na . 934979_935693
 %eng:	no, no
@@ -1442,7 +1440,7 @@
 *ANO:	ie ie . 1123342_1123888
 %eng:	yes
 *ANO:	wel dw i (y)n cofio yn [/] um yn y naw_deg chwech o(eddw)n i yn [/] yn [/] (..) yn Caerdydd (.) un noson . 1124220_1130042
-%eng:	well, I remember in '96 I was in Cardiff one night
+%eng:	well, I remember in (19)96 I was in Cardiff one night
 *MSA:	+< ia . 1129060_1129455
 %eng:	yes
 *MSA:	ydw . 1130095_1130565
@@ -1555,7 +1553,7 @@
 %eng:	yes, but when...
 *ANO:	<mae (y)na> [/] mae (y)na dueddfed (.) o [/] o &b gymysgu y [/] &s y [/] y Saesneg fewn yn y Gymraeg . 1226676_1231871
 %eng:	there's a tendancy to mix English into the Welsh
-*MSA:	ie . 1232044_1232247
+*MSA:	ie . 1231913_1232247
 %eng:	yes
 *ANO:	+< fel ydyn ni (y)n cymryd o (y)r Sbaeneg . 1232032_1233628
 %eng:	like the way we take from Spanish
@@ -1752,7 +1750,7 @@
 %eng:	yes, but she wasn't able to finish
 *MSA:	a gallodd hi ddim gorffen naddo . 1423101_1424570
 %eng:	and she wasn't able to finish, no
-*ANO:	ie (.) ie aha@s:cym&spa 1424218_1425194
+*ANO:	ie (.) ie aha@s:cym&spa . 1424218_1425194
 %eng:	yes, aha
 *MSA:	glywes i hynna . 1425275_1426058
 %eng:	I heard that
@@ -1947,9 +1945,9 @@
 %eng:	well, that's a good thing to learn
 *MSA:	+< ie . 1602285_1603011
 %eng:	yes
-*MSA:	hwnna [/] hwnna sy (we)di wneud i fi (.) (y)sgrifennu . 1603141_1606386
+*MSA:	hwnna [/] hwnna sy (we)di wneud i fi (.) (y)sgrifennu . 1603012_1606386
 %eng:	that's what's made me write
-*ANO:	+< ie wir mm +... 1602952_1604600
+*ANO:	+< ie wir mm +... 1603215_1604600
 %eng:	yes, indeed, mm
 *ANO:	+< mm +... 1605569_1605813
 %eng:	mm
@@ -1957,7 +1955,7 @@
 %eng:	and of course always writing with Geraint and Dwynwen before, all the time you know, and with Auntie Betty
 *ANO:	+< ie . 1606630_1606868
 %eng:	yes
-*ANO:	+< ah@s:cym&spa ie uh <pan oeddech chi (y)n> um pan oeddech chi (y)n bach +/. 1609809_1613311
+*ANO:	+< ah@s:cym&spa ie uh <pan oeddech chi (y)n> [/] um pan oeddech chi (y)n bach +/. 1609809_1613311
 %eng:	ah yes, er, when you were little
 *MSA:	+< dw i erioed erioed wedi [/] wedi wneud . 1612915_1614987
 %eng:	I've always done
@@ -1978,7 +1976,7 @@
 *ANO:	o(eddw)n i (y)n naw oed mi es i &w adre (.) i dal ymlaen efo astudio . 1624356_1628222
 %eng:	[when] I was nine I went home to carry on with studying
 *MSA:	+< xxx . 1627046_1628480
-*ANO:	a ddes i ddim (y)n_ôl tan <o(eddw)n i> (y)n +//. 1628218_1629997
+*ANO:	a ddes i ddim (y)n_ôl tan <o(eddw)n i> [?] (y)n +//. 1628218_1629997
 %eng:	and I didn't come back until I was...
 *ANO:	oeddwn i xx jyst yn pedwar_deg . 1630236_1631820
 %eng:	I was [...] just forty
@@ -2160,7 +2158,7 @@
 %eng:	and they just came on Sunday or Sat... and I wasn't at home
 *ANO:	+< wel fyddai neb adre . 1779593_1780551
 %eng:	well, no one would be home
-*MSA:	<a wel> [//] ac o(eddw)n i awydd cwrdd achos dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di xxx +/. 1780587_1783530
+*MSA:	<a wel> [//] ac o(eddw)n i awydd cwrdd achos <dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di xxx +/. 1780587_1783530
 %eng:	and I was keen to meet up because I haven't [...]
 *ANO:	+< (dy)dych chi (ddi)m (we)di gweld nhw ar_ôl iddyn nhw ddod (y)n_ôl ? 1782904_1784227
 %eng:	haven't you seen them since they got back?
@@ -2238,7 +2236,7 @@
 %eng:	to return to the residence well, he isn't, but Nina
 *ANO:	ah@s:cym&spa Nina@s:cym&spa ie wel (dy)na fo ! 1856259_1857746
 %eng:	ah Nina, right, well there you are
-*ANO:	mae uh [///] uh ers wythnos yn_ôl <oedd yr> [//] uh oedd (y)na wyth mlynedd <o pan oedd y [/] yr [/] yr home@s:eng yn cael ei agor . 1857817_1865500
+*ANO:	mae uh [///] uh ers wythnos yn_ôl <oedd yr> [//] uh oedd (y)na wyth mlynedd o pan oedd y [/] yr [/] yr home@s:eng yn cael ei agor . 1857817_1865500
 %eng:	since a week ago it's been eight years from when the home was opened
 *ANO:	wyth mlynedd . 1866564_1867144
 %eng:	eight years
@@ -2332,11 +2330,11 @@
 %eng:	mm
 *MSA:	wyt ti +//? 1939955_1940605
 %eng:	are you...?
-*MSA:	ti (y)dy o +! ? 1940587_1941301
+*MSA:	ti (y)dy o +!? 1940587_1941301
 %eng:	it's you?!
 *ANO:	yndw [=! laughs] ! 1941191_1941888
 %eng:	yes
-*MSA:	ie +! ? 1941847_1942428
+*MSA:	ie +!? 1941847_1942428
 %eng:	yes?!
 *ANO:	ie ie ie . 1942420_1943395
 %eng:	yes, yes

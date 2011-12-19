@@ -1,17 +1,15 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, cym, en
 @Participants:	ALE Alejandra Adult,  LCT Lucita  Adult
 @ID:	cym, spa|Patagonia|ALE|42;|female|||Adult||
 @ID:	cym, spa|Patagonia|LCT|61;|female|||Adult||
-@Situation:	Conversation in PEN's living room
-@Comment:	ALE
-@Comment:	LCT
+@Situation:	Conversation between colleagues at a primary school in eastern Chubut, Argentina
 @Date:	04-NOV-2009
 @Coder:	 Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
-@Time Duration:	00:28:25
+@Comment:	Researcher: Margaret Deuchar, Bangor University
+@Time Duration:	00:28:31
 @Media:	Patagonia13, audio
 @Comment:	Filename: Patagonia13.cha; Soundfile: Patagonia13.wav
 @Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.

@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	ANA Ana Adult, GLO Gloria Adult, IGN Ignacio Adult, CRI Cristina Adult, FRA Francisca Adult, RES Researcher Adult
+@Participants:	ANA Ana Adult, GLO Gloria Adult, IGN Ignacio Adult, CRI Cristina Adult, FRA Francisca Adult, RES Researcher Adult, OSE Researcher Adult
 @ID:	cym, spa|Patagonia|ANA|90;|female|||Adult||
 @ID:	cym, spa|Patagonia|GLO|82;|female|||Adult||
 @ID:	cym, spa|Patagonia|IGN|67;|male|||Adult||
@@ -15,10 +15,9 @@
 @Comment:	Researchers: Margaret Deuchar and Peredur Davies, Bangor University
 @Time Duration:	00:22:16
 @Media:	Patagonia5, audio
-@Comment:	Filename: Patagonia5.cha; Soundfile: Patagonia5.wav
 @Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Unable to distinguish between CRI and FRA.
-@Warning:	OSE is Margaret Deuchar the first time, but Peredur Davies later on!
+@Warning:	OSE is Margaret Deuchar the first time, but Peredur Davies later on
 *ANA:	oh@s:cym&spa dyna fo . 203_1136
 %eng:	oh, there we are
 *ANA:	xxx bod ni heb ddim (.) cyfeiliant na dim_byd . 1227_4001
@@ -180,7 +179,7 @@
 *ANA:	a mi fydda i (y)na os bydda i (y)n teimlo (..) rhywbeth yn debyg fel be mae rywun i fod . 176102_181340
 %eng:	and I will be there if I feel anything like one is supposed to
 *GLO:	+< um +... 178465_179366
-*GLO:	dw i ddim yn gwybod os byddan nhw (y)n cadw gwrdd uh wrth bod uh+... 181669_185002
+*GLO:	dw i ddim yn gwybod os byddan nhw (y)n cadw gwrdd uh wrth bod uh +... 181669_185002
 %eng:	I'm not sure whether they'll hold a meeting, because...
 *ANA:	+< xxx . 181753_182438
 %eng:	[...]
@@ -789,7 +788,7 @@
 %eng:	no
 *IGN:	[- spa] o_k . 912507_912923
 %eng:	ok
-*GLO:	dach chi chwaith ? 0_0
+*GLO:	dach chi chwaith ? 912964_913812
 %eng:	do you either?
 *IGN:	na . 914074_914447
 %eng:	no
@@ -989,7 +988,7 @@
 %eng:	that is, do you think there's a difference between the two areas?
 *OSE:	y bobl sydd yna ? 1113479_1115340
 %eng:	the people that are there?
-*OSE:	dach chi (we)di bod yna ? 0_0
+*OSE:	dach chi (we)di bod yna ? 1115425_1116332
 %eng:	have you been there?
 *ANA:	gwahaniaeth yr uh +... 1116483_1118414
 %eng:	a difference of the, um...
@@ -1067,7 +1066,7 @@
 %eng:	oh, yes
 *ANA:	ond neb yn uh +/. 1196924_1198065
 %eng:	but nobody...
-*GLO:	+< [- spa] +, guía telefónica +/. 1196960_1198325
+*GLO:	+< +, [- spa] guía telefónica +/. 1196960_1198325
 %eng:	...the telephone directory...
 *ANA:	neb wedi arfer efo (ei)n harferion xxx +/. 1198637_1201000
 %eng:	nobody is used to our customs [...]

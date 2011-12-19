@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, es, en
+@Languages:	cym, spa, eng
 @Participants:	CHT Christina Adult, AVR Avril Adult, RES Researcher Adult
 @ID:	cym, spa|Patagonia|CHT|66;|female|||Adult||
 @ID:	cym, spa|Patagonia|AVR|82;|female|||Adult||
-@Situation:	Conversation between two friends in a flat in Buenos Aires
+@Situation:	Conversation between two friends in an apartment in Buenos Aires, Argentina
 @Date:	26-OCT-2009
 @Transcriber:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:29:18
 @Media:	Patagonia2, audio
-@Comment:	Filename: Patagonia2.CHA; Soundfile: Patagonia2.WAV
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	AVR's speech is generally quite faint on recording and often unintelligible
 *AVR:	wel (ba)swn i ddim yma . 261_1364
@@ -479,7 +478,7 @@
 *CHT:	oedd . 450839_451094
 %eng:	yes.
 *CHT:	ia a dwy chwaer oedd yn byw <yn y> [/] yn y cartre bach (y)ma yn perthyn i ni ynde o bell [?] . 452013_457029
-%eng:	 yes, there were two sisters living in this little home, related to us, distantly.
+%eng:	yes, there were two sisters living in this little home, related to us, distantly.
 *AVR:	&m . 456741_457281
 *CHT:	ond uh [///] a wedyn o(eddw)n i (y)n mynd at y brawd . 457318_459582
 %eng:	but, and then I went to the brother.
@@ -636,7 +635,7 @@
 %eng:	four, five pesos.
 *AVR:	yndy yndy . 613509_613892
 %eng:	yes, yes.
-*AVR:	 felly <mae o (y)n> [/] (.) mae o (y)n <go hanodd> [?] i ni . 614822_618862
+*AVR:	felly <mae o (y)n> [/] (.) mae o (y)n <go hanodd> [?] i ni . 614822_618862
 %eng:	so it's quite difficult for us.
 *CHT:	ydy acho(s) mae efo ni lot o fobl &s (ba)san ni (y)n licio gyrru . 619440_622800
 %eng:	yes, because we've got lots of people we'd like to send to.
@@ -892,7 +891,7 @@
 *AVR:	na be ydy enw (y)r bachgen (y)na ? 852103_854930
 %eng:	no what's that boy's name?
 *CHT:	Robert@s:cym&spa +//. 855043_855391
-*CHT:	 ah@s:cym&spa Sally@s:cym&spa ! 855408_855931
+*CHT:	ah@s:cym&spa Sally@s:cym&spa ! 855408_855931
 *CHT:	wyt ti (y)n feddwl Sally@s:cym&spa chwaer uh Gwyneth@s:cym&spa . 855925_858340
 %eng:	you mean Sally, Gwyneth's sister.
 *CHT:	ah@s:cym&spa dw i (ddi)m yn gwybod beth [//] sut mae hi . 858460_860225
@@ -970,7 +969,7 @@
 %eng:	and then went to have tea at Linda's place.
 *AVR:	ond doedd o (dd)im posib meddwl am dri o bopeth oedd ar y bwrdd . 951961_955792
 %eng:	but it was impossible to think about three of everything on the table.
-%com:	 unsure of translation.
+%com:	unsure of translation.
 *AVR:	wel roedd y te fantástico@s:spa xxx . 957098_960157
 %eng:	well, the tea was fantastic [...]
 *CHT:	a lle oedd Linda@s:cym&spa yn byw ? 960235_961686
@@ -1247,7 +1246,7 @@
 %eng:	do you know that those in Bangor where they teach things like this and talk about these things and such..?
 *AVR:	lingüística@s:spa . 1275646_1276412
 %eng:	linguistics.
-*CHT:	 uh ia . 1275995_1276819
+*CHT:	uh ia . 1275995_1276819
 %eng:	er, yes.
 *CHT:	mae [/] mae [//] maen nhw wneud um [///] maen nhw (y)n [/] (.) yn stydio pen . 1277279_1281836
 %eng:	they're doing... they're studying the head.

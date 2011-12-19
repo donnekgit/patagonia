@@ -1,17 +1,16 @@
-@Font:	Win95:Arial Narrow:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	VIC Victoria Adult, ELE Elena Adult, OSE Other Speaker
 @ID:	cym, spa|Patagonia|VIC|84;|female|||Adult||
 @ID:	cym, spa|Patagonia|ELE|83;|female|||Adult||
-@Situation:	Conversation at Victoria's home in Gaiman
+@Situation:	Conversation at Victoria's home in eastern Chubut, Argentina
 @Date:	02-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:31:36
 @Media:	Patagonia8, audio
-@Comment:	Filename: Patagonia8.cha; Soundfile: Patagonia8.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *VIC:	dw i ddim yn gwybod am ddim un yn teulu (.) &=clears_throat (.) y Huwsys (y)ma . 5_5789
 %eng:	I don't know anyone from the Hughes family
@@ -183,7 +182,7 @@
 %eng:	making dinner too, sure.
 *ELE:	+< sí@s:spa mirá@s:spa  . 169605_170843
 %eng:	yes.
-*VIC:	 mae raid i ti gael te rywle . 170896_172197
+*VIC:	mae raid i ti gael te rywle . 170896_172197
 %eng:	you have to have dinner somewhere.
 *VIC:	achos fedri di (ddi)m bod yr holl oriau <yna (y)n (.)> [/] yn (.) wneud dim_byd . 172155_177360
 %eng:	because you can't just do nothing for all those hours
@@ -423,7 +422,7 @@
 %eng:	in case we...
 *VIC:	wel ia . 480493_481251
 %eng:	well yes.
-*VIC:	[- spa] salí por acá para ... 483526_484673
+*VIC:	[- spa] salí por acá para +... 483526_484673
 %eng:	go out this way to ...
 *VIC:	[- spa]  hubieses salido por ahí . 484469_485785
 %eng:	you were to leave this way.
@@ -541,12 +540,11 @@
 %eng:	oh yes, she has children
 *ELE:	um dw i (y)n meddwl bod (y)na un sy (y)n gweithio yn y +... 686619_692179
 %eng:	um, I think there's one who works at...
+*VIC:	+< xxx +/. 687047_688540
 *ELE:	dw i (ddi)m yn siŵr os mae (y)na brifysgol yn La_Plata@s:cym&spa neu +//. 692227_695630
 %eng:	I'm not sure whether there's a university at La Plata or...
 *ELE:	neu (y)n yr amgueddfa (.) yn La_Plata@s:cym&spa . 695437_698813
 %eng:	or at the museum in La Plata
-*VIC:	+< wel xxx +/. 687047_688540
-%eng:	well [...]
 *VIC:	+< na . 697389_699144
 %eng:	no
 *VIC:	wel (dy)na fo . 699576_700114
@@ -818,7 +816,7 @@
 %eng:	yes yes
 *VIC:	a wyt ti (we)di roi digon o blynyddoedd siŵr bellach . 945417_948047
 %eng:	and surely you've given it enough years by now
-*ELE:	ie (.) os dw i (y)n ymddeol cyn [/] um cyn cael yn ymddeol [!=laughs] . 948037_954457
+*ELE:	ie (.) os dw i (y)n ymddeol cyn [/] um cyn cael yn ymddeol [=! laughs] . 948037_954457
 %eng:	yes, if I retire before I'm made to retire
 *VIC:	+< &=laugh . 952804_954393
 *VIC:	wel (ba)sai fo (y)n un iawn i dy [//] gymryd dy le di . 955204_957508
@@ -1214,7 +1212,7 @@
 %eng:	and William Jones and Mrs. Parri and them.
 *ELE:	+< ie . 1379239_1379719
 %eng:	yes.
-*VIC:	+< rheini oedd y (.) hotel@s:spa gynta . 1381201_1383828
+*VIC:	+< rheini oedd y (.) hotel gynta . 1381201_1383828
 %eng:	they were the first hotel
 *ELE:	ddaru rywbeth tebyg ddigwydd i (.) Dafydd_Davis@s:cym&spa . 1385096_1389144
 %eng:	something similar happened to Dafydd Davis.
@@ -1398,10 +1396,10 @@
 %eng:	yes
 *VIC:	[- spa] bueno che no sé ni xxx  . 1616097_1618017
 %eng:	I don't know [...] .
-*VIC:	[- spa] dónde se fue esta muchacha ? 1617836_1620352
-%eng:	Where did this girl go ?
 *ELE:	+< xx amser ? 1617210_1618032
 %eng:	[...] time?
+*VIC:	[- spa] dónde se fue esta muchacha ? 1617836_1620352
+%eng:	Where did this girl go ?
 *VIC:	[- spa] qué hora tenés ? 1620257_1621692
 %eng:	what time is it?
 *ELE:	mae (y)n dri munud (.) i ddeuddeg . 1621724_1626292
@@ -1413,7 +1411,7 @@
 %eng:	because the clock...
 *ELE:	+< xxx . 1632687_1634802
 *VIC:	ie mi fydd darle@s:spa recuerda@s:spa mae o . 1637845_1639996
-%eng:	yes it'll wind the watch [...]'.
+%eng:	yes it'll wind the watch [CHECK].
 *VIC:	mae o (y)n (.) fod i (.) fynd ei hunan pan o(eddw)n i +//. 1639996_1643161
 %eng:	it's supposed to go by itself when I...
 *VIC:	ond os dw i (y)n cysgu yn y nos xxx (y)n dawel dw i ddim yn +... 1643161_1646961

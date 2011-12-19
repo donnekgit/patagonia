@@ -5,13 +5,12 @@
 @Participants:	BEL Bella Adult, TER Teresa Adult
 @ID:	cym, spa|Patagonia|BEL|65;|female|||Adult||
 @ID:	cym, spa|Patagonia|TER|69;|female|||Adult||
-@Situation:	Conversation in Bella and Teresa's home in Gaiman
+@Situation:	Conversation at a hotel in eastern Chubut, Argentina
 @Date:	03-NOV-2009
-@Transcriber:	Myfyr Prys, Diana Carter, Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Transcriber:	Myfyr Prys, Diana Carter and Fraibet Aveledo, Bangor University
+@Comment:	Researchers: Peredur Davies and Margaret Deuchar, Bangor University
 @Time Duration:	00:37:05
 @Media:	Patagonia9, audio
-@Comment:	Filename: Patagonia9.CHA; Soundfile: Patagonia9.WAV
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *BEL:	wel mae Mererid@s:cym&spa (y)n hen . 0_993
 %eng:	well, Mererid is old
@@ -323,7 +322,7 @@
 %eng:	there was all...
 *TER:	merched oedden nhw ynde . 284037_285825
 %eng:	they were women, right
-*TER:	naw_deg pedwar naw_deg dau a naw_deg . 282397_289003
+*TER:	naw_deg pedwar naw_deg dau a naw_deg . 285835_288975
 %eng:	94, 92 and 90
 *TER:	dim mor hwyr am ddau o (y)r gloch y bore ond +... 289620_291535
 %eng:	not so late at 2 o clock in the morning but...
@@ -358,7 +357,7 @@
 %eng:	yes
 *TER:	[- spa] la cosa es que +/. 333161_334183
 %eng:	the thing is that...
-*BEL:	+< &e xxx . 0_0
+*BEL:	+< &e xxx . 333273_333761
 *BEL:	[- spa] tener una [/] una ilusión un proyecto . 334160_336250
 %eng:	to have a dream, a project
 *TER:	+< [- spa] xxx sí sí . 335518_336331
@@ -1224,10 +1223,13 @@
 *TER:	+< ia a (y)r tân i_ffwrdd cyn . 1164862_1166621
 %eng:	yes, and fire out before
 *TER:	[- spa] sí sí xxx . 1166656_1167881
-*BEL:	+< ia [...] . 1167039_1167318
-*TER:	ond <mae o xxx> [//] mi oedd o (y)n flasus xxx ? 1168650_1171645
-%eng:	but it was tasty [...] ?
-*BEL:	xx . 1171645_1173015
+%eng:	yes
+*BEL:	+< ia . 1167039_1167318
+%eng:	yes
+*TER:	ond <mae o xxx> [//] mi oedd o (y)n flasus <a bopeth do> [?] ? 1168650_1171645
+%eng:	but it [...] was tasty was tasty and everything, right ?
+*BEL:	do [?] . 1171645_1173015
+%eng:	yes
 *TER:	+< &=cough . 1172388_1173154
 *BEL:	ond mae gyda ni empanadas@s:spa ar &w &=stammer uh +/. 1173874_1176823
 %eng:	but we've got pastries on...

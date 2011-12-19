@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -270,7 +270,7 @@
 %eng:	Herbert has taken the nicest picture of the family, and it's on the computer at home
 *ESM:	uh Jack@s:cym&spa a Jim@s:cym&spa . 225231_226165
 %eng:	uh, Jack and Jim
-*ESM:	ond dyma +//. 0_0
+*ESM:	ond dyma +//. 226167_227055
 %eng:	but ...
 *ESM:	dw i (y)n credu fod Jemima@s:cym&spa ddim yna . 227580_229112
 %eng:	I don't think that Jemima is there
@@ -695,7 +695,7 @@
 %eng:	but too big a group
 *ESM:	(ddi)m isio mynd achos bod nhw yn gormod o griw . 571139_573519
 %eng:	don't want to go because they were too big a group
-*ESM:	fasen nhw (we)di mynd eu hunain (.)(.) i Drevelin@s:cym&spa o Esquel@s:cym&spa . 574168_577477
+*ESM:	fasen nhw (we)di mynd eu hunain (.) i Drevelin@s:cym&spa o Esquel@s:cym&spa . 574168_577477
 %eng:	they would have gone themselves, to Trevelin and esquel
 *VLM:	+< ie . 574355_574831
 %eng:	yes
@@ -1820,7 +1820,7 @@
 *VLM:	+" os gweli di o dangos o i fi . 1528943_1530458
 %eng:	"if you see him, show him to me"
 *ESM:	mm +... 1530568_1530974
-*VLM:	ond oedd o +"// . 1531056_1531457
+*VLM:	ond oedd o +//. 1531056_1531457
 %eng:	but he was...
 *VLM:	+< na . 1531515_1531619
 %eng:	no
@@ -1883,7 +1883,7 @@
 %eng:	yes
 *VLM:	a wedyn oedd hi (y)n mynd i edrych fewn xxx ffeindio ei lluniau neu bapurau neu (.) rywbeth xxx . 1568816_1575179
 %eng:	and then she was going to look in [...] find her pictures or papers or something [...]
-*ESM:	+< xxx . 1568781_1569420
+*ESM:	+< xxx . 1568971_1569482
 *ESM:	+< xx . 1571801_1572150
 *ESM:	+< ia ia . 1572514_1573710
 %eng:	yes, yes
@@ -2604,7 +2604,7 @@
 *ESM:	ah@s:cym&spa ie dydd Gwener maen nhw (we)di mynd â hi . 2347409_2349104
 %eng:	ah yes, Friday they took her
 *VLM:	a nos Wener wnes i ofyn i gael gweld sut oedd hi ac oedd hi (y)n xxx ["] ddeudodd hi . 2349859_2354421
-%eng:	and on Friday night I asked how she was and she was, "[...]", she said
+%eng:	and on Friday night I asked how she was and she was, "...", she said
 *ESM:	oedd hi ddim yn gallu xxx +/. 2354549_2356865
 %eng:	she couldn' [...]...
 *VLM:	+< ddim yn anadlu . 2356023_2357248
@@ -2810,7 +2810,7 @@
 %eng:	[...] people
 *ESM:	ia pero@s:spa yo@s:spa tengo@s:spa xxx . 2535930_2538020
 %eng:	yes but I have [...]
-*VLM:	[- spa] así que ... 2538337_2539747
+*VLM:	[- spa] así que +... 2538337_2539747
 %eng:	so [...]
 *ESM:	[- spa] tengo cero pero . 2539990_2540658
 %eng:	I have zero

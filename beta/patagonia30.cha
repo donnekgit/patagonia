@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	REB Rebeca Adult, MAG Magdalena Adult
 @ID:	cym, spa|Patagonia|REB|71;|female|||Adult||
 @ID:	cym, spa|Patagonia|MAG|74;|female|||Adult||
-@Situation:	Conversation at REB's home in Esquel
+@Situation:	Conversation at Rebeca's home in western Chubut, Argentina
 @Date:	12-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:33:10
 @Media:	Patagonia30, audio
-@Comment:	Filename: Patagonia30.cha; Soundfile: Patagonia30.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *REB:	mae o wedi bod dipyn bach . 11_1328
 %eng:	he's been just a few times.
@@ -74,7 +73,7 @@
 %eng:	yes.
 *REB:	ond (dy)dy o ddim iddi hi dw i (y)n credu . 45544_47508
 %eng:	but I don't think it's for her.
-*REB:	achos +... 47529_48414
+*REB:	achos +... 47381_47893
 %eng:	because...
 *MAG:	+< wel (dy)na fo xx Rebeca@s:cym&spa . 47438_48475
 %eng:	well, there we go [...] Rebeca.
@@ -616,10 +615,10 @@
 %eng:	yes.
 *REB:	ond (dy)na fo . 361616_362126
 %eng:	but that's it.
-*REB:	dyna be gaeth Lina@s:cym&spa (he)fyd . 362111_363183
-%eng:	that's what Lina got as well.
 *MAG:	+< xxx oed . 361656_363171
 %eng:	[...] old.
+*REB:	dyna be gaeth Lina@s:cym&spa (he)fyd . 362111_363183
+%eng:	that's what Lina got as well.
 *REB:	ond <be &na (..)> [//] be wnei di ? 363164_364871
 %eng:	but what can you do?
 *REB:	uh raid ti dioddef ryw bethau (he)fyd &u . 364873_367211
@@ -1210,7 +1209,7 @@
 %eng:	if somebody would talk with her...
 *MAG:	+< (dy)na be o(eddw)n i (y)n deud heddiw wrth Martín@s:cym&spa . 709894_711847
 %eng:	that's what I was saying to Martín today.
-*MAG:	(ba)sai (y)na ddynes oi yn cynnau (y)r televisora@s:spa ac yn sgwrsio xxx . 711983_715562
+*MAG:	(ba)sai (y)na ddynes oe(dd) [?] yn cynnau (y)r televisora@s:spa ac yn sgwrsio xxx . 711983_715562
 %eng:	if there was a lady to put on the TV and have a chat [...]
 *REB:	+< a ddeud rywbeth . 714581_715578
 %eng:	and say something.
@@ -1931,7 +1930,7 @@
 %eng:	how was it?
 *REB:	neis ? 1125491_1126088
 %eng:	nice?
-*MAG:	+< xx do neis . 1125445_1126955
+*MAG:	+< xx do neis . 1125561_1126955
 %eng:	[...] yes, nice.
 *REB:	+< oh@s:cym&spa . 1126099_1126955
 %eng:	oh.
@@ -2063,10 +2062,10 @@
 %eng:	ah.
 *REB:	oh@s:cym&spa hen beth cas iddi . 1194183_1195482
 %eng:	oh what an awful thing for her
-*REB:	a chwarae teg iddi . 1195514_1196327
-%eng:	and fair play to her.
 *MAG:	+< chwarae teg . 1194588_1195356
 %eng:	fair play.
+*REB:	ia chwarae teg iddi . 1195514_1196327
+%eng:	yes, fair play to her.
 *REB:	<ti (y)n> [//] mae o (y)n (.) un@s:spa momento@s:spa cas yn dydy ? 1196332_1199506
 %eng:	you're... it's an awful moment, isn't it?
 *MAG:	+< mm +... 1196530_1196828
@@ -2111,7 +2110,7 @@
 %eng:	yes.
 *REB:	a mae Regina@s:cym&spa (y)n hoffi siarad dydy ? 1223566_1225760
 %eng:	and Regina likes to talk, doesn't she?
-*MAG:	+< mae Regina@s:cym&spa xx +//. 1223508_1224533
+*MAG:	+< mae Regina@s:cym&spa xx +//. 1223646_1224533
 %eng:	Regina has...
 *MAG:	+< ie ie ie . 1224533_1225269
 %eng:	yes yes.
@@ -2284,7 +2283,7 @@
 %eng:	I think Clara goes to McDonald's wife, doesn't she?
 *REB:	ddim &o gwraig McDonald@s:cym&spa . 1330756_1331913
 %eng:	not McDonald's wife.
-*REB:	mae hi (y)n mynd i ryw dosbarth yn [//] uh lle oedden ni (y)n mynd efo Amy@s:cym&spa 1331913_1335566
+*REB:	mae hi (y)n mynd i ryw dosbarth yn [//] uh lle oedden ni (y)n mynd efo Amy@s:cym&spa . 1331913_1335566
 %eng:	she goes to some class in, er, where we used to go with Amy.
 *MAG:	ah@s:cym&spa i fan (hyn)ny ? 1335553_1336509
 %eng:	oh, there?
@@ -2841,8 +2840,6 @@
 %eng:	in the north.
 *REB:	+< ond uh oedd y tŷ (y)na lle oedden nhw (y)n byw lle fues i a Cati@s:cym&spa (y)n sefyll oedd o ddim yn neis iawn . 1625557_1630759
 %eng:	but, er, that house where they lived, where Cati and I stayed, wasn't very nice.
-*REB:	 +... 1630749_1633339
-%eng:	because there wasn't...
 *REB:	achos oedd (y)na ddim [/] ddim [/] ddim [///] oeddet [?] ti (y)n (.) fan hyn i (y)r stryd . 1630749_1636361
 %eng:	because there was no... you were here onto the street.
 *MAG:	oeddet ti (y)n mynd (.) tair step fel (yn)a . 1636370_1638429
@@ -3388,7 +3385,7 @@
 %eng:	only Esquel choir.
 *REB:	+< ac oedd hi (y)n deud +"/. 1945821_1946541
 %eng:	and she was saying:
-*REB:	+< [- spa] +" bueno . 1946546_1947031
+*REB:	+< +" [- spa] bueno . 1946546_1947031
 %eng:	"so."
 *REB:	oh@s:cym&spa raid ti meddwl (he)fyd uh (.) pwy sydd â arian rŵan i [/] i ddod â côr . 1947468_1951979
 %eng:	you have to wonder who has money to bring a choir.

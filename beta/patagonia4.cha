@@ -1,3 +1,4 @@
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -5,7 +6,7 @@
 @ID:	cym, spa|Patagonia|SLA|48;|female|||Adult||
 @ID:	cym, spa|Patagonia|EZK|47;|male|||Adult||
 @ID:	cym, spa|Patagonia|VTR||male|||Child||
-@Situation:	Conversation in Selina and Ezekiel's home in Gaiman
+@Situation:	Conversation in Selina and Ezekiel's home in eastern Chubut, Argentina
 @Date:	28-OCT-2009
 @Transcriber:	Lowri Jones, Bangor University
 @Comment:	Researchers: Margaret Deuchar and Peredur Davies, Bangor University
@@ -800,7 +801,7 @@
 %eng:	[...] next to your club in Trelew.
 *EZK:	+< xxx . 621484_621863
 *VTR:	&=noise . 623130_623722
-*EZK:	pump tîm rygbi . 0_0
+*EZK:	pump tîm rygbi . 623717_624623
 %eng:	five rugby teams.
 *SLA:	a mae (y)na fwy . 624637_625186
 %eng:	and there are more.
@@ -1108,8 +1109,6 @@
 %eng:	and he likes pasta like you, remember
 *SLA:	a be arall ? 885978_886954
 %eng:	and what else?
-*VTR:	+< mmhm . 0_0
-%eng:	mmhm.
 *VTR:	mm +... 887648_888677
 %eng:	mm.
 *SLA:	llysiau . 888732_889655

@@ -1,17 +1,15 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ALM Alma Adult, CEC Cecilia Adult
 @ID:	cym, spa|Patagonia|ALM|67;|female|||Adult||
 @ID:	cym, spa|Patagonia|CEC|58;|female|||Adult||
-@Situation:	Conversation at a house in Esquel, Argentina
+@Situation:	Conversation at a house in western Chubut, Argentina
 @Date:	09-NOV-2009
 @Transcriber:	Myfyr Prys, Jonathan Stammers and Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:34:29
 @Media:	Patagonia20, audio
-@Comment:	Filename: Patagonia20.cha; Soundfile: Patagonia20.wav
 @Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *CEC:	oedd uh wel oedd uh Alfonso@s:cym&spa yn gwybod &d llawer o +... 0_5712
 %eng:	Alfonso used to know a lot of...
@@ -170,13 +168,13 @@
 %eng:	he had something in the town centre here
 *ALM:	+< ia oedd [?] . 215789_217025
 %eng:	yes, did he?
-*ALM:	oedd (y)na (.) hotel@s:cym&spa . 218214_221036
+*ALM:	oedd (y)na (.) hotel@s:spa . 218214_221036
 %eng:	there was a hotel
 *CEC:	ia . 221163_221558
 %eng:	yes
 *ALM:	oedd (y)na xxx +/. 221749_223165
 %eng:	there was...
-*CEC:	+< hotel@s:cym&spa Europa@s:cym&spa oedd o neu Ideal@s:cym&spa ? 222225_224094
+*CEC:	+< hotel@s:spa Europa@s:cym&spa oedd o neu Ideal@s:cym&spa ? 222225_224094
 %eng:	was it Hotel Europa or Ideal?
 *ALM:	Europa@s:cym&spa . 224222_225209
 %eng:	Europa
@@ -1418,7 +1416,7 @@
 %eng:	it does not change
 *CEC:	[- spa] no (.) no . 1821459_1822916
 %eng:	no , no
-*ALM:	+< [- spa] +, mucho . 1821500_1822330
+*ALM:	+< +, [- spa] mucho . 1821500_1822330
 %eng:	much
 *ALM:	[- spa] no cambian . 1822877_1823649
 %eng:	they don't change
