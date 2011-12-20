@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	EDU Eduardo Adult, MLA Mariela Child
+@Participants:	EDU Eduardo Adult, MLA Mariela Child, OSE Unknown Adult
 @ID:	cym, spa|Patagonia|EDU|38;|male|||Adult||
 @ID:	cym, spa|Patagonia|MLA|08;|female|||Child||
-@Situation:	Conversation at Valmai's house in Gaiman
+@Situation:	Conversation between Eduardo and his daughter Mariela, in their house in eastern Chubut, Argentina
 @Date:	07-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:43:10
 @Media:	Patagonia19, audio
-@Comment:	Filename: Patagonia19.cha; Soundfile: Patagonia19.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *EDU:	agor hwn yn fan (a)cw . 3280_4301
 %eng:	open this there
@@ -601,9 +600,9 @@
 %eng:	yes
 *MLA:	a wedyn dan ni wedi wneud rain . 645667_647571
 %eng:	and then we've made these
-*EDU:	<dach chi (we)di wneud> [?] oeddech chi (we)di wneud cwpan cynta(f) ? 647633_649932
+*EDU:	<dach chi (we)di wneud> [?] oeddech chi (we)di wneud cwpan cynta(f) ? 647470_649932
 %eng:	did you make the cup first?
-*MLA:	+< a wedyn +/. 647554_648332
+*MLA:	+< a wedyn +/. 647737_648521
 %eng:	and then...
 *MLA:	do . 650635_651018
 %eng:	yes
@@ -904,7 +903,7 @@
 *EDU:	Pepsi ? 944869_945334
 *MLA:	ah@s:cym&spa ia eh@s:cym&spa Coca_Cola@s:cym&spa . 945448_947561
 %eng:	ah, yes, eh, Coca Cola
-*EDU:	well gen ti Coca_Cola@s:cym&spa na oren [//] sudd oren yna ? 0_0
+*EDU:	well gen ti Coca_Cola@s:cym&spa na oren [//] sudd oren (y)na ? 948338_951443
 %eng:	you prefer Coca Cola to that orange juice?
 *MLA:	na sudd oren . 951769_952692
 %eng:	no, orange juice
@@ -1567,8 +1566,8 @@
 %eng:	well isn't that silly
 *MLA:	+< a weithiau dan ni (y)n mynd o_dan y cwshin . 1631103_1634121
 %eng:	and sometimes we go under the cushion
-*EDU:	xx . 1634922_1635375
-*MLA:	a dan ni (y)n cuddio [=! laugh] . 1634896_1637604
+*EDU:	&=grunt . 1634922_1635375
+*MLA:	a dan ni (y)n cuddio [=! laugh] . 1634944_1637604
 %eng:	and we hide!
 *EDU:	wel dach chi (y)n wirion . 1637662_1639693
 %eng:	well, you're silly

@@ -1,15 +1,16 @@
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	ROD Rodolfo Adult, LEI Leila Adult, MAR Marta Child, LUI Luis Child, OSE Other Speaker
-@ID:	cym, spa|Patagonia|ROD|21;|male|||Adult||
-@ID:	cym, spa|Patagonia|LEI|22;|female|||Adult||
-@ID:	cym, spa|Patagonia|MAR|28;|female|||Child||
-@ID:	cym, spa|Patagonia|LUI|00;|male|||Child||
-@Situation:	Conversation between husband and wife (and their children) at their home.
+@Participants:	ROD Rodolfo Adult, LEI Leila Adult, MAR Marta Child, LUI Luis Child
+@ID:	cym, spa|Patagonia|ROD|48;|male|||Adult||
+@ID:	cym, spa|Patagonia|LEI|44;|female|||Adult||
+@ID:	cym, spa|Patagonia|MAR|13?;|female|||Child||
+@ID:	cym, spa|Patagonia|LUI|08?;|male|||Child||
+@Situation:	Conversation between husband and wife (and their children) at their home in eastern Chubut, Argentina
 @Date:	09-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:29:46
 @Media:	Patagonia25, audio
 @Comment:	Filename: Patagonia25.cha; Soundfile: Patagonia25.wav
@@ -453,7 +454,7 @@
 *LEI:	&=clears_throat . 395361_396401
 *ROD:	[- spa] la verdad es que no sé . 404844_405879
 %eng:	the truth is that I don't know.
-*ROD:	[- spa] este vence el veinte de ... 411865_413961
+*ROD:	[- spa] este vence el veinte de +... 411865_413961
 %eng:	this one is due on the twentieth of.
 *ROD:	hwn (y)dy +//. 415123_415667
 %eng:	this is...
@@ -875,7 +876,7 @@
 %eng:	hi.
 *MAR:	[- spa] de quién es ese xxx ? 846383_847999
 %eng:	whose is this [...]?
-*ROD:	[- spa] de la señora que está ... 850328_851326
+*ROD:	[- spa] de la señora que está +... 850328_851326
 %eng:	from the mrs that is [...].
 *LEI:	[- spa] grabando . 851683_852163
 %eng:	recording.
@@ -981,7 +982,7 @@
 %eng:	and the...
 *LEI:	a rhywbeth fel (y)na . 933191_934089
 %eng:	and something like that.
-*ROD:	+< a mae (y)r &p &m +//. 933140_934089
+*ROD:	+< a mae (y)r &p &m +//. 933319_934089
 %eng:	and the...
 *ROD:	ie . 934051_934478
 %eng:	yes.

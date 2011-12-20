@@ -3,15 +3,14 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	MER Mercedes Adult, FER Fernando Adult
-@ID:	cym, spa|Patagonia|MER|?;|female|||Adult||
+@ID:	cym, spa|Patagonia|MER|19?;|female|||Adult||
 @ID:	cym, spa|Patagonia|FER|19;|male|||Adult||
-@Situation:	Conversation in a hotel room in Gaiman
+@Situation:	Conversation between friends in a hotel room in eastern Chubut, Argentina
 @Date:	10-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
-@Time Duration:	00:26:18
+@Comment:	Researcher: Margaret Deuchar, Bangor University
+@Time Duration:	00:14:27
 @Media:	Patagonia29, audio
-@Comment:	Filename: Patagonia29.cha; Soundfile: Patagonia29.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MER:	wyt ti (y)n mynd i (.) côr yfory (.) i weld y côr ? 0_2805
 %eng:	are you going to see the choir?
@@ -112,7 +111,7 @@
 %eng:	Friday the fourth of December?
 *FER:	+< o@s:spa pump . 99425_99969
 %eng:	or the fifth.
-*MER:	um o (y)r ysgol Hendre yn Nhrelew@s:spa@cy&es un_deg pump . 102345_105870
+*MER:	um o (y)r ysgol Hendre yn Nhrelew@s:cym&spa un_deg pump . 102345_105870
 %eng:	um, from Hendre school in Trelew, fifteenth.
 *FER:	ah@s:cym&spa uh ac efallai (.) uh pump uh acto@s:spa yr ysgol cerdd . 106510_111545
 %eng:	ah, and maybe the fifth the performance of the music school.
@@ -503,7 +502,7 @@
 %eng:	yes.
 *FER:	efallai . 580060_580999
 %eng:	maybe.
-*MER:	a pan dach chi yn mynd yn awr i [/] Drevelin@cym&spa beth dach chi (y)n mynd i wneud ? 581703_585095
+*MER:	a pan dach chi yn mynd yn awr i [/] Drevelin@s:cym&spa beth dach chi (y)n mynd i wneud ? 581703_585095
 %eng:	and when you go to Trevelin now, what are you going to do?
 *MER:	dach chi yn mynd i +..? 586585_587811
 %eng:	are you going to...?
@@ -640,7 +639,7 @@
 %eng:	all night.
 *FER:	dw i (ddi)m yn gwybod (..) os dan ni &k cysgu ! 716639_719649
 %eng:	I don't know whether we sleep!
-*MER:	+< &=laugh . 716626_718215
+*MER:	+< &=laugh . 717457_717948
 *FER:	um a dydd Mawrth (.) dan ni (y)n mynd dw i meddwl i Los_Alerces@s:cym&spa . 719723_724801
 %eng:	and on Tuesday we are going to Los Alerces I think.
 *MER:	ie . 724769_725441

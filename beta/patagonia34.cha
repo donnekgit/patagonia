@@ -5,14 +5,13 @@
 @Participants:	CYN Cynthia Adult, CAA Cara Adult, GRA Graciela Adult, OSE Unidentified Adult
 @ID:	cym, spa|Patagonia|CYN|58;|female|||Adult||
 @ID:	cym, spa|Patagonia|CAA|34;|female|||Adult||
-@ID:	cym, spa|Patagonia|GRA|?;|female|||Adult||
-@Situation:	Conversation at Cynthia's home in Esquel, Argentina
+@ID:	cym, spa|Patagonia|GRA|81?;|female|||Adult||
+@Situation:	Conversation between Cara and her mother Cynthia (with her grandmother Graciela and her baby daughter also present), at Cynthia's home in western Chubut, Argentina
 @Date:	13-NOV-2009
 @Transcriber:	Myfyr Prys and Fraibet Aveledo, Bangor University
 @Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:28:42
 @Media:	Patagonia34, audio
-@Comment:	Filename: Patagonia34.CHA; Soundfile: Patagonia34.WAV
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *CAA:	mi [/] mi ddes i (.) gwaith at [/] at (.) llawer o bethau . 117_5657
 %eng:	I came to work for many things
@@ -866,7 +865,7 @@
 *CAA:	+< xxx &muá . 1008699_1010262
 *CYN:	[- spa] estamos haciendo una conversación . 1010529_1012566
 %eng:	we are having a conversation
-*CAA:	+< [- spa] dale un beso . 0_0
+*CAA:	+< [- spa] dale un beso . 1010964_1011748
 %eng:	give him/her a kiss
 *CYN:	+, en galés@s:spa acá@s:spa que@s:spa nos@s:spa están@s:spa grabando@s:spa . 1013228_1015303
 %eng:	in Welsh here we've been recorded
@@ -878,7 +877,7 @@
 %eng:	what you learnt
 *CYN:	+< &=laugh . 1019501_1019800
 *OSE:	www . 1021141_1022400
-*CAA:	&=laugh . 0_0
+*CAA:	&=laugh . 1022425_1023306
 *CYN:	[- spa] sí . 1023001_1023412
 %eng:	yes
 *OSE:	www . 1023481_1024745
@@ -1411,9 +1410,9 @@
 *CAA:	xxx . 1699589_1703248
 *CYN:	[- spa] a ver mostrame la taza . 1704295_1705655
 %eng:	lets see, show me the cup
-*CYN:	[- spa] mostrame . 1705655_1706253
+*OSE:	www . 1704698_1706847
+*CYN:	+< [- spa] mostrame . 1705655_1706253
 %eng:	show me
-*OSE:	www . 0_0
 *CYN:	ah@s:cym&spa . 1707021_1707623
 *CAA:	+< da iawn . 1708714_1709231
 %eng:	very good

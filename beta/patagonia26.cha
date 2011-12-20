@@ -1,18 +1,17 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy,es
+@Languages:	cym, spa
 @Participants:	EST Estaban Adult, VAL Valencia Adult, OSE Unidentified Adult
-@ID:	cy,es|Patagonia|EST|68;|female|||Adult|||
-@ID:	cy,es|Patagonia|VAL|66;|male|||Adult|||
-@ID:	cy,es|change_corpus_later|OSE|||||Adult|||
-@Situation:	Conversation on Valencia's farm in Trevelin
+@ID:	cym,spa|Patagonia|EST|27;|male|||Adult|||
+@ID:	cym,spa|Patagonia|VAL|55;|female|||Adult|||
+@ID:	cym,spa|Patagonia|OSE|||||Adult|||
+@Situation:	Conversation on Valencia's farm in western Chubut, Argentina, with Estaban, an acquaitance who works on a nearby farm
 @Date:	10-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:37:54
 @Media:	Patagonia26, audio
-@Comment:	Filename: Patagonia26.cha; Soundfile: Patagonia26.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *EST:	ond oedden ni (y)n [/] yn mynd (..) xx uh tri neu pedwar &gl uh gwaith y (.) flwyddyn . 12_6838
 %eng:	but we went there three or four times a year.
@@ -264,7 +263,7 @@
 %eng:	no.
 *EST:	na . 255286_255716
 %eng:	no.
-*EST:	oedd xx +/. 255851_256942
+*EST:	oedd xx +/. 255821_256408
 %eng:	[..] was...
 *VAL:	fel [?] ti ddim yn gallu mynd ar wyliau er enghraifft . 255843_258765
 %eng:	like, you can't go on holiday, for example.
@@ -501,7 +500,7 @@
 *EST:	ac uh (.) oedd [/] oedd gen i ddim lot o bres . 523133_526146
 %eng:	and I didn't have much money.
 *EST:	oedd gen i uh mil a [/] a pump cant o dolars . 526378_529838
-%eng:	I had $1,500.
+%eng:	I had 1500 dollars.
 *EST:	ac uh (..) dim mwy . 530332_531935
 %eng:	and nothing more.
 *VAL:	oedden nhw (y)n meddwl +/. 531540_532242
@@ -670,7 +669,7 @@
 %eng:	and...
 *EST:	do . 708989_709674
 %eng:	yes.
-*EST:	dw i (we)di bod yn gweithio ar y ffarm yn Pant_Glas@s:cym&spa (.) ffarm Aled@s:cym@spa am wythnos . 709771_715658
+*EST:	dw i (we)di bod yn gweithio ar y ffarm yn Pant_Glas@s:cym&spa (.) ffarm Aled@s:cym&spa am wythnos . 709771_715658
 %eng:	I've been working on Pant Glas farm, Aled's farm, for a week.
 *EST:	a wedyn (.) uh es i i ffensio y [/] y xxx am chwe mis . 715907_722002
 %eng:	and then I went fencing the [..] for six months.
@@ -680,7 +679,7 @@
 %eng:	and had fun with the choir, did you?
 *EST:	efo dau côr . 724315_725348
 %eng:	with two choirs.
-*EST:	oedd fi (y)n canu yn y côr cymysg Llanuwchlyn@s:cym&spa a (y)r Côr_ Godre_(y)r_Aran [?] . 725348_728309
+*EST:	oedd fi (y)n canu yn y côr cymysg Llanuwchlyn@s:cym&spa a (y)r Côr_Godre_(y)r_Aran [?] . 725348_728309
 %eng:	I was singing in the Llanuwchllyn mixed choir and Côr Godre'r Aran.
 *EST:	um oedd hwn yn wych . 728413_729783
 %eng:	it was great.
@@ -753,7 +752,7 @@
 %eng:	what's the name of the town?
 *EST:	dw i ddim yn cofio . 803416_804184
 %eng:	I don't remember.
-*EST:	ac oedd o yn deud uh enw (y)r tafarn enw (y)r (.) ynys ac enw (y)r uh dre [?] . 804255_810060 (.)  . 804255_816318
+*EST:	ac oedd o yn deud uh enw (y)r tafarn enw (y)r (.) ynys ac enw (y)r uh dre [?] . 804255_810060
 %eng:	and he said the name of the pub, the name of the island, and the name of the town.
 *VAL:	+< ah@s:cym&spa (dy)na neis . 807622_809584
 %eng:	ah, that's nice.
@@ -1490,7 +1489,7 @@
 %eng:	what's "poetry"?
 *EST:	cerdd . 1579834_1580379
 %eng:	poetry.
-*VAL:	barddon(iaeth) [//] cerdd . 1579815_1581139
+*VAL:	barddon(iaeth) [//] cerdd . 1579936_1581139
 %eng:	poetry.
 *EST:	a (.) uh <dw i (y)n> [//] dw i wedi wneud uh (.) uh (y)chydig bach o bethau yn Cymraeg . 1581981_1589017
 %eng:	and I've done just a few things in Welsh.
@@ -1723,7 +1722,7 @@
 %eng:	and...
 *EST:	wyt ti yn gwybod bod oedd uh um uh <hen taid> [//] hen hen taid fi ochr um (.) uh dad <i ma(m)> [//] i nain fi (.) uh Bethany@s:cym&spa (..) oedd o +//. 1800074_1813076
 %eng:	do you know that my great great grandfather on the side of the father of my grandmother, Bethany, he was...
-*EST:	uh Alberto_Speake@s:cym&asp oedd o . 1813080_1814578
+*EST:	uh Alberto_Speake@s:cym&spa oedd o . 1813080_1814578
 %eng:	he was called Alberto_Speake.
 *EST:	+, <yn [/] yn> [//] oedd o <yn y> [/] yn y +/. 1814636_1818653
 %eng:	he was...

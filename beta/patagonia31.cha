@@ -1,17 +1,15 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	CZA Constanza? Adult, SOF Sofia? Adult
+@Participants:	CZA Carenza Adult, SOF Sofia Adult
 @ID:	cym, spa|Patagonia|CZA|81;|female|||Adult||
 @ID:	cym, spa|Patagonia|SOF|70;|female|||Adult||
-@Situation:	Conversation between CZA and SOF
+@Situation:	Conversation between two friends Carenza and Sofia, at Carenza's home in western Chubut, Argentina
 @Date:	12-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:39:20
 @Media:	Patagonia31, audio
-@Comment:	Filename: Patagonia31.cha; Soundfile: Patagonia31.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *CZA:	ia . 80_885
 %eng:	yes.
@@ -435,7 +433,7 @@
 %eng:	well, I saw Barbara's boy not long ago.
 *SOF:	oh@s:cym&spa ia ? 354720_355269
 %eng:	oh yes?
-*CZA:	+< bachgen . 353815_355703
+*CZA:	+< bachgen . 354773_355274
 %eng:	boy.
 *CZA:	a mi ofynnais i +"/. 355724_356615
 %eng:	and I asked:
@@ -554,8 +552,8 @@
 %eng:	they're terribly old.
 *CZA:	+< yndyn yndyn . 453983_454746
 %eng:	yes, they are, yes.
-*SOF:	+< ti (we)di cael wneud rain o (y)r newydd Constanza@s:cym&spa ? 454479_456271
-%eng:	have you been able to make these from scratch Constanza?
+*SOF:	+< ti (we)di cael wneud rain o (y)r newydd Carenza@s:cym&spa ? 454479_456271
+%eng:	have you been able to make these from scratch Carenza?
 *CZA:	do ers (..) oh@s:cym&spa rhyw dair blynedd siŵr . 456559_460229
 %eng:	yes, around three years ago I'm sure.
 *SOF:	+< ah@s:cym&spa ie ? 459839_460437
@@ -1253,7 +1251,7 @@
 %eng:	"good, tell him to go to the dinner tonight."
 *SOF:	+< heno . 1041773_1042179
 %eng:	tonight.
-*CZA:	 meddai fi +". 1042749_1043347
+*CZA:	meddai fi +". 1042749_1043347
 %eng:	I said.
 *SOF:	oh@s:cym&spa ia . 1043389_1043971
 %eng:	oh yes.
@@ -2479,7 +2477,7 @@
 %eng:	I knew because, er, Isabel had sent to tell Rosa that they were going.
 *CZA:	oedd hi ddim yn mynd . 2017122_2018444
 %eng:	she wasn't going.
-*CZA:	achos oedd hi (y)n mynd i Neuquén@s:cym&spa i +... 2018492_2020798
+*CZA:	achos oedd hi (y)n mynd i Neuquén@s:cym&spa i [?] +... 2018492_2020798
 %eng:	because she was going to Neuquén to...
 *SOF:	pwy ? 2020873_2021108
 %eng:	who?

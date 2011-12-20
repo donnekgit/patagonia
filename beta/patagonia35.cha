@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -6,13 +6,12 @@
 @ID:	cym, spa|Patagonia|JAV|75;|male|||Adult||
 @ID:	cym, spa|Patagonia|AMA|71;|female|||Adult||
 @ID:	cym, spa|Patagonia|OSE|?;|male|||Adult||
-@Situation:	Conversation at JAV's house in Trevelin, Argentina.
+@Situation:	Conversation between friends at Javier's house in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Marika Fusser and Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:32:55
 @Media:	Patagonia35, audio
-@Comment:	Filename: Patagonia35.cha; Soundfile: Patagonia35.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *AMA:	a mae &h anodd credu <bod nhw <wedi (.)> [/] wedi gwneud uh> [//] bod nhw wedi dod . 235_5360
 %eng:	and it's hard to believe that they have actually come
@@ -20,9 +19,9 @@
 *JAV:	bod nhw wedi sefydlu yma . 5285_6943
 %eng:	that they have settled here.
 *AMA:	+< ond ar_ôl [/] ar_ôl gweld y [//] <yr um> [//] y ffilm (.) uh Cuán_verde_era_mi_valle@s:cym&spa (.) wnaeson ni ddeall lot o bethau . 6298_15359
-%eng:	but after seeing the film 'How Green is my Valley' we understood a lot of things.
+%eng:	but after seeing the film "How Green is my Valley" we understood a lot of things.
 *JAV:	[- eng] How_Green_is_my_Valley ["] . 15258_17295
-%eng:	'How Green is my Valley'
+%eng:	"How Green is my Valley"
 *AMA:	+< gweld fel (y)na o(edde)n nhw (y)n syffro yn y Cwm Rhondda@s:cym&spa a pethau fel (y)na no@s:spa ? 16188_19751
 %eng:	seeing how they suffered in the Rhondda Valley and things like that, eh?
 *AMA:	oedd hi (y)n ofnadwy (y)na . 19974_21936
@@ -61,7 +60,7 @@
 *JAV:	yndy . 87225_88718
 %eng:	yes it has.
 *JAV:	oedd uh (.) yn y mil (.) naw cant &d ar (.) a dau siŵr (.) ddaru (y)r athro (.) Roberts@s:cym&spa (.) boddi yn yr &b Aber_Gyrants (..) nawr Río_Corrintos@s:spa ["] . 89000_115409
-%eng:	it must have been in 1902 when Roberts, the teacher drowned in the 'Aber Gyrants', what's now "Río Corrintos" .
+%eng:	it must have been in 1902 when Roberts, the teacher drowned in the "Aber Currents", what's now "Río Corrintos" .
 *AMA:	ie yn yr un lli mawr . 115479_117325
 %eng:	yes, in that one big flood.
 *JAV:	oedd e (y)n lli +/. 117314_118946
@@ -165,9 +164,9 @@
 %eng:	do you remember something about the...
 *AMA:	dw i (y)n cofio Dada@s:cym&spa (y)n mynd allan ac yn deud <oh mae (y)r Aber_Gyrants yn rhuo heno> ["] . 293159_297712
 %eng:	I remember Dada going outside and saying "oh, the Río Corrintos is roaring tonight"
-*JAV:	ie . 298060_299100
+*JAV:	ie [?] . 297871_298357
 %eng:	yes.
-*AMA:	+< +" <mi fydd (y)na li> ["] . 297786_299492
+*AMA:	+< +" <mi fydd (y)na li> ["] . 298474_299492
 %eng:	"there will be a flood"
 *AMA:	ac oedd o (y)n siŵr bob amser o ddeud y [/] y gwir neu [/] neu gesio (y)n iawn no@s:spa ? 299661_305602
 %eng:	and he was always sure to tell the truth every time, or to guess correctly, wasn't he?
@@ -294,7 +293,7 @@
 %eng:	Mr Powell came after Mr Matthews.
 *AMA:	ie dw i ddim cofio Mister Matthews@s:cym&spa . 510008_511992
 %eng:	yes, I don't remember Mr Matthews.
-*JAV:	xxx +// . 511977_512911
+*JAV:	xxx +//. 511977_512911
 %eng:	[...]
 *AMA:	ti (y)n cofio ? 512905_513822
 %eng:	do you remember?
@@ -420,7 +419,7 @@
 %eng:	concertina (accordion)
 *JAV:	wedyn oedden nhw (y)n cael +/. 704646_706092
 %eng:	then they would have...
-*AMA:	+< ac oedden yn nos neu pan oedden nhw (y)n stopio oedd (y)na hen ganu a chwarae (a)cordion a +// . 705601_711279
+*AMA:	+< ac oedden yn nos neu pan oedden nhw (y)n stopio oedd (y)na hen ganu a chwarae (a)cordion a +//. 705601_711279
 %eng:	and they, in the evening or when they were stopping, there was a lot of singing and accordion playing...
 *AMA:	dw i ddim gwybod beth am guitarras@s:spa . 711275_713056
 %eng:	I don't know about guitars.
@@ -1049,8 +1048,8 @@
 %eng:	ah, did you go?
 *JAV:	do . 1717239_1717655
 %eng:	yes.
-*JAV:	oedd (y)na un (.) dyn gŵr Camilla@s:cym&spa eisiau mynd <i (y)r> [//] at lle oedd yr xx nhw wedi gosod y> [//] oedd y faner . 1717596_1727487
-%eng:	there was one man, Camilla's husband, who wanted to go to where they'd put the banner.
+*JAV:	oedd (y)na un (.) dyn gŵr Camilla@s:cym&spa eisiau mynd <i (y)r> [//] at lle <oedd yr xx nhw wedi gosod y> [//] oedd y faner . 1717596_1727487
+%eng:	there was one man, Camilla's husband, who wanted to go to where they'd put the... where the banner was.
 *JAV:	a wnaeth o ofyn os wnesaf i fynd (y)na gyda fo . 1728312_1732939
 %eng:	and he asked if I'd go there with him.
 *JAV:	achos oedd o wedi trio mynd (y)na (.) [/] yna ond oedd o wedi colli cyn cyrraedd . 1732940_1738397

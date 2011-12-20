@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	LIN Linda Adult, ISA Isabel Adult
 @ID:	cym, spa|Patagonia|LIN|60;|female|||Adult||
 @ID:	cym, spa|Patagonia|ISA|60;|female|||Adult||
-@Situation:	Conversation at a chapel vestry in Trelew
-@Date:	16-JUN-2010
+@Situation:	Conversation between two cousins and colleagues in a chapel vestry in eastern Chubut, Argentina
+@Date:	09-NOV-2009
 @Transcriber:	Myfyr Prys and Fraibet Aveledo, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:33:29
 @Media:	Patagonia21, audio
-@Comment:	Filename: Patagonia21.cha; Soundfile: Patagonia21.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *ISA:	[- spa] unos semana antes o algo así y a las mellizas [?] +//. 5_2003
 *LIN:	+< [- spa] sí &e así sea dos horas antes le dije yo <a &na> [/] a Ana@s:eng&spa que hubiese servido . 1803_7669
@@ -142,8 +141,8 @@
 *LIN:	&e xxx . 194744_195491
 *ISA:	[- spa] xxx sí sí sí . 195278_197032
 *LIN:	viste@s:spa que@s:spa yo@s:spa contaba@s:spa que@s:spa había@s:spa estado@s:spa buscando@s:spa xxx en@s:spa Mar_del_Plata@s:cym&spa . 197140_201369
-*ISA:	ah@s:cym&spa es@s:spa cierto@s:spa . 201602_202909
-*LIN:	+< [- spa] y buscaba <en los> [//] en [/] en la guía telefónica . 201507_205022
+*ISA:	ah@s:cym&spa es@s:spa cierto@s:spa . 201495_202909
+*LIN:	+< [- spa] y buscaba <en los> [//] en [/] en la guía telefónica . 201569_205022
 *LIN:	[- spa] no la encontré . 205033_205902
 *LIN:	[- spa] y bueno para averiguá por las dudas . 205918_208722
 *ISA:	[- spa] sí . 208717_209288
@@ -562,9 +561,9 @@
 %com:	noise with her mouse.
 *LIN:	[- spa] hígado zapallo fideos todo . 1160582_1164443
 *ISA:	+< [- spa] el chico no aprende a masticar . 1164073_1165595
-*LIN:	+< [- spa] por eso por eso . 1165477_1168193
-*ISA:	+< [- spa] no no no . 1165452_1168193
 *ISA:	[- spa] no desarrolla estos músculos . 1165575_1167180
+*LIN:	+< [- spa] por eso por eso . 1165695_1167951
+*ISA:	+< [- spa] no no no . 1167604_1168207
 *LIN:	[- spa] es horrible . 1168182_1169270
 *LIN:	eso@s:spa es@s:spa Luisa@s:cym&spa . 1169270_1170796
 *LIN:	y@s:spa [/] y@s:spa Mariana@s:cym&spa +... 1173126_1174353
@@ -582,8 +581,8 @@
 *ISA:	+< ah@s:cym&spa . 1190615_1191623
 *LIN:	[- spa] ellas van y comen y comen y comen . 1197988_1201022
 *ISA:	+< [- spa] no yo fui bastante más estrictas en eso . 1199255_1201694
-*ISA:	[- spa] sí . 1201694_1201950
-*LIN:	[- spa] yo también . 1201542_1203489
+*ISA:	[- spa] sí . 1201535_1201924
+*LIN:	[- spa] yo también . 1201674_1202847
 *ISA:	+< [- spa] cuatro comidas sí . 1202209_1203420
 *ISA:	[- spa] pero muy poco entre comidas . 1203681_1206188
 *ISA:	[- spa] y claro como comíamos +//. 1207085_1208610
@@ -600,7 +599,7 @@
 *LIN:	[- spa] que comíamos todos una comida un poquito especial . 1227567_1231081
 *ISA:	+< [- spa] claro . 1227615_1228388
 *ISA:	[- spa] claro . 1231052_1231495
-*LIN:	+< por@s:spa que@s:spa Roberto@s:cym&spa estaba@s:spa con@s:spa nosotros@s:spa <para@s:spa &se@s:spar> [/] para@s:spa almorzar@s:spa . 1231314_1234540
+*LIN:	+< por@s:spa que@s:spa Roberto@s:cym&spa estaba@s:spa con@s:spa nosotros@s:spa para@s:spa &se [/] para@s:spa almorzar@s:spa . 1231314_1234540
 *ISA:	meddyliwch dada a mam yn y bwrdd (.) a ni (y)n fach . 1233488_1237829
 *LIN:	+< ia . 1236602_1237082
 *LIN:	a ti ddim yn licio y pwdin xxx . 1238621_1240743
@@ -664,8 +663,8 @@
 *LIN:	+< [- spa] claro . 1307340_1308113
 *LIN:	[- spa] xxx piso . 1308076_1309638
 *ISA:	&=laugh . 1309258_1310101
-*ISA:	[- spa] y no tenía [=! laugh ] (.) y no teníamos perro &=laugh . 1309252_1312688
-*LIN:	[- spa] y yo espantada . 1309338_1311050
+*LIN:	[- spa] y yo espantada . 1309587_1311050
+*ISA:	+< [- spa] y no tenía [=! laugh ] (.) y no teníamos perro &=laugh . 1310105_1312688
 *LIN:	[- spa] qué lo comiera [=! laugh ] . 1312944_1315296
 *ISA:	[- spa] qué &=laugh . 1312986_1315344
 *LIN:	[- spa] xxx en la casa xxx bajo la mesa . 1314944_1317765
@@ -675,7 +674,7 @@
 *ISA:	xxx [?] . 1319336_1321096
 *LIN:	[- spa] nunca salvo +... 1321200_1322838
 *ISA:	[- spa] xxx haber retado . 1322841_1325331
-*LIN:	+< [- spa] +, en dos oportunidades papá con una alpargata una vez porque no quería irme a la cama . 1323458_1328003
+*LIN:	+< +, [- spa] en dos oportunidades papá con una alpargata una vez porque no quería irme a la cama . 1323458_1328003
 *LIN:	[- spa] dormíamos de a dos . 1327667_1328840
 *LIN:	y@s:spa yo@s:spa no@s:spa quería@s:spa entrar@s:spa a@s:spa la@s:spa cama@s:spa con@s:spa Laura@s:cym&spa porque@s:spa hacía@s:spa cosquillita@s:spa con@s:spa los@s:spa pies@s:spa . 1329816_1333709
 *ISA:	+< ah@s:cym&spa . 1333475_1334653

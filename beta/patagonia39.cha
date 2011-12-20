@@ -1,16 +1,16 @@
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	LIA Liani Adult, AMA Amalia Adult
 @ID:	cym, spa|Patagonia|LIA|76;|female|||Adult||
-@ID:	cym, spa|Patagonia|AMA|?;|female|||Adult||
-@Situation:	Conversation at LIA's house in Trevelin.
+@ID:	cym, spa|Patagonia|AMA|71;|female|||Adult||
+@Situation:	Conversation between friends at Liana's house in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:29:29
 @Media:	Patagonia39, audio
-@Comment:	Filename: Patagonia39.cha; Soundfile: Patagonia39.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *LIA:	a wedyn mae llall (w)edi (.) der(byn) [//] cael ei derbyn yn periodista@s:spa . 12_3170
 %eng:	and the other has been accepted as a journalist.
@@ -204,7 +204,7 @@
 %eng:	ah.
 *LIA:	wyt ti (y)n mynd i helpu ? 113799_115140
 %eng:	are you going to help?
-*AMA:	+< ydw dw i (y)n helpu . 113757_115642
+*AMA:	+< ydw dw i (y)n helpu . 113910_115642
 %eng:	yes, I'm helping.
 *LIA:	ah@s:cym&spa (dy)na fo . 115642_117139
 %eng:	ah, there we go.
@@ -509,11 +509,11 @@
 %eng:	well, no.
 *LIA:	xx gwario [?] erbyn y diwrnod (hyn)ny [?] . 328012_329699
 %eng:	[...] spending before that day. [?]
-*LIA:	 dim pawb sy â (y)r pres . 329693_330804
+*LIA:	dim pawb sy â (y)r pres . 329693_330804
 %eng:	not everybody has the money.
-*AMA:	+< ie ie ie . 329562_330270
+*AMA:	+< ie ie ie . 329774_330384
 %eng:	yes yes.
-*AMA:	+< [- spa] no no . 330346_331675
+*AMA:	+< [- spa] no no . 330402_331675
 %eng:	no no.
 *AMA:	ran fwya o fechgyn sy (y)n gweithio ar y ffarm . 331669_333852
 %eng:	most of the boys who work on the farm.
@@ -744,8 +744,7 @@
 %eng:	and I've never spoken much Spanish with my children.
 *AMA:	a fyn ŵr (.) yn deall popeth yn iawn . 463372_466023
 %eng:	and my husband understands everything fine.
-*LIA:	+< ah@s:cym&spa . 463286_464093
-%eng:	ah.
+*LIA:	+< &=sigh . 463525_464093
 *LIA:	+< wel (dy)na fo . 465622_466540
 %eng:	well, there we go.
 *AMA:	+< a maen nhw (y)n gallu cael sgwrs xxx (.) efo rywun [?] . 466046_468742
@@ -1813,7 +1812,7 @@
 %eng:	around Tecwyn's place?
 *LIA:	+< naci . 1127614_1128311
 %eng:	no.
-*LIA:	fyny uh yr ochr draw i (y)r afon (.) uh xx [check] . 1128320_1130655
+*LIA:	fyny uh yr ochr draw i (y)r afon (.) uh xx . 1128320_1130655
 %eng:	up the other side of the river, er [...]
 *AMA:	+< oh@s:cym&spa . 1128670_1129424
 %eng:	oh.
@@ -2034,9 +2033,9 @@
 %eng:	yes.
 *LIA:	oedd pleser darllen . 1255659_1256675
 %eng:	it was a pleasure to read.
+*AMA:	+< xxx . 1255916_1256369
 *LIA:	rywun yn cael digon o rhyddid a [/] a tawelwch a [/] a &b +//. 1256646_1260317
 %eng:	having enough freedom and silence and...
-*AMA:	+< xxx . 1255916_1256369
 *AMA:	+< ia . 1259614_1260665
 %eng:	yes.
 *LIA:	wel (dy)na fo oedd dim teledu amser hynny . 1260686_1262875
@@ -2081,7 +2080,7 @@
 %eng:	that's true.
 *LIA:	ond (dy)na fo . 1285004_1285579
 %eng:	but there you go.
-*LIA:	 be <wnewch chi> [?] ? 1285504_1286415
+*LIA:	be <wnewch chi> [?] ? 1285504_1286415
 %eng:	what do you do?
 *LIA:	fel (yn)a mae (y)r pethau mynd ymlaen . 1286167_1288280
 %eng:	that's how things are going.
@@ -2235,7 +2234,7 @@
 *AMA:	+< mm +... 1411940_1413077
 %eng:	mm.
 *LIA:	maen nhw (.) (we)di torri gymaint o mm (.) bosques@s:spa cómo@s:spa era@s:spa ? 1413414_1417257
-%eng:	[...] they've cut so many, mm, forests - how is it?
+%eng:	[...] they've cut so many, mm, forests, what's that?
 *AMA:	+< ++ o goed . 1416520_1417304
 %eng:	trees.
 *LIA:	goed (.) yn y north . 1417327_1419013

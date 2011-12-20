@@ -1,19 +1,18 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	DOM Domingo Adult, MAD Madeira Adult, MAR Marco Adult, LIA Liani Adult
+@Participants:	DOM Domingo Adult, MAD Madeira Adult, MRC Marco Adult, LIA Liani Adult
 @ID:	cym, spa|Patagonia|DOM|71;|male|||Adult||
 @ID:	cym, spa|Patagonia|MAD|55;|female|||Adult||
-@ID:	cym, spa|Patagonia|MAR|?;|male|||Adult||
-@ID:	cym, spa|Patagonia|LIA|?;|female|||Adult||
-@Situation:	Conversation at MAR's office in Trevelin, Argentina
+@ID:	cym, spa|Patagonia|MRC|?;|male|||Adult||
+@ID:	cym, spa|Patagonia|LIA|76;|female|||Adult||
+@Situation:	Conversation at Marco's office in Trevelin, Argentina
 @Date:	17-NOV-2009
-@Transcriber:	Marika Fusser, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Transcriber:	Marika Fusser and Fraibet Avaledo, Bangor University
+@Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:22:05
 @Media:	Patagonia41, audio
-@Comment:	Filename: Patagonia41.cha; Soundfile: Patagonia41.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAD:	a mae (y)r (.) &kad &k cadair +... 5_2544
 %eng:	and the chair is...
@@ -333,7 +332,7 @@
 %eng:	no, Anselmo doesn't sing there.
 *DOM:	+< na Anselmo@s:cym&spa no@s:spa . 357389_358467
 %eng:	no, not Anselmo.
-*MAR:	Celestino@s:cym&spa . 358472_359021
+*MRC:	Celestino@s:cym&spa . 358472_359021
 %eng:	Celestino.
 *MAD:	Celestino_Balderas@s:cym&spa . 359121_360571
 %eng:	Celestino Balderas.
@@ -341,7 +340,7 @@
 %eng:	Eddie.
 *MAD:	Eddie@s:cym&spa (.) a Federico@s:cym&spa +... 361191_363190
 %eng:	Eddie and Federico.
-*MAR:	+< Federico@s:cym&spa . 362871_363346
+*MRC:	+< Federico@s:cym&spa . 362871_363346
 %eng:	Federico.
 *MAD:	+, yn canu yna . 363399_364279
 %eng:	...singing there.
@@ -385,13 +384,13 @@
 %eng:	no.
 *MAD:	nage nage . 403267_404030
 %eng:	no, no.
-*MAR:	+< no@s:spa (.) na na . 403523_404590
+*MRC:	+< no@s:spa (.) na na . 403523_404590
 %eng:	no, no, no.
 *MAD:	saith_deg +//. 405100_406210
 %eng:	seventy.
 *MAD:	nage . 406690_407410
 %eng:	no.
-*MAR:	na . 407886_408227
+*MRC:	na . 407886_408227
 %eng:	no.
 *MAD:	chwe_deg (.) dau . 408190_410702
 %eng:	sixty-two.
@@ -399,7 +398,7 @@
 %eng:	1962 .
 *DOM:	+< ah@s:cym&spa ! 411827_413518
 %eng:	ah!
-*MAR:	+< xxx . 412451_412995
+*MRC:	+< xxx . 412451_412995
 %eng:	[...]
 *DOM:	xxx dyna fo do [/] do [//] (y)n_do dw i (we)di weld ran o(ho)no fo . 413518_416602
 %eng:	[...], that's it, yes, I've seen part of it.
@@ -421,7 +420,7 @@
 %eng:	yes, Eben Morris is there and Vincent sings.
 *MAD:	ie ? 431915_432368
 %eng:	yes?
-*MAR:	+< ie . 432155_432416
+*MRC:	+< ie . 432155_432416
 %eng:	yes.
 *DOM:	ah@s:cym&spa ! 432373_432864
 %eng:	ah!
@@ -429,11 +428,11 @@
 %eng:	ah .
 *DOM:	+< Mansel@s:cym&spa [/] Mansel_Davies@s:cym&spa . 433159_434866
 %eng:	Mansel Davies.
-*MAR:	mmhm . 434978_435687
+*MRC:	mmhm . 434978_435687
 %eng:	mmhm.
 *MAD:	yn (.) pobl ifanc iawn . 435613_437341
 %eng:	as very young people.
-*MAR:	+< xxx . 436461_436887
+*MRC:	+< xxx . 436461_436887
 %eng:	[...]
 *DOM:	ay@s:spa eh@s:cym&spa . 437221_438357
 %eng:	ay, eh.
@@ -460,7 +459,7 @@
 *DOM:	&or +/. 466882_467565
 *MAD:	bydd raid iddyn nhw &k uh cerdded i fyny . 467517_470088
 %eng:	they will have to walk up.
-*MAR:	mm . 470057_470750
+*MRC:	mm . 470057_470750
 %eng:	mm.
 *DOM:	oh@s:cym&spa . 470768_471419
 %eng:	oh.
@@ -584,7 +583,7 @@
 *DOM:	ie . 637329_637659
 %eng:	yes.
 *MAD:	&=laugh . 637558_638977
-*MAR:	&=cough . 639856_641115
+*MRC:	&=cough . 639856_641115
 *MAD:	+< ie . 640270_640558
 %eng:	yes.
 *DOM:	+< ie . 640500_640953
@@ -611,7 +610,7 @@
 %eng:	there will be a tea on Sunday I think.
 *MAD:	+< ah@s:cym&spa ie . 672100_672948
 %eng:	ah, yes.
-*MAR:	sí@s:spa ie . 672905_673598
+*MRC:	sí@s:spa ie . 672905_673598
 %eng:	yes.
 *DOM:	ah@s:cym&spa . 673571_674029
 %eng:	ah.
@@ -727,7 +726,7 @@
 %eng:	in the chapel.
 *DOM:	yn y capel . 795898_796618
 %eng:	in the chapel.
-*MAR:	ie . 796469_797216
+*MRC:	ie . 796469_797216
 %eng:	yes.
 *DOM:	fan (hyn)ny o(eddw)n i (y)n dechrau . 798794_800058
 %eng:	that's where we started.
@@ -745,7 +744,7 @@
 %eng:	it was the young people's meeting.
 *MAD:	mae [/] mae canml(wydd) [/] canmlwydd <o (y)r> [/] o (y)r capel rŵan no@s:spa ? 814427_818715
 %eng:	the chapel has its 100th anniversay now, hasn't it?
-*MAR:	+< na . 818309_818859
+*MRC:	+< na . 818309_818859
 %eng:	no.
 *DOM:	blwyddyn nesa . 819153_819809
 %eng:	next year.
@@ -755,7 +754,7 @@
 %eng:	mm.
 *MAD:	mae [//] fydd raid i ni paratoi ryw (.) gymanfa fawr ie ? 822034_826306
 %eng:	we will have to arrange a big festival, won't we?
-*MAR:	xxx . 826467_827187
+*MRC:	xxx . 826467_827187
 %eng:	[...]
 *DOM:	+< dim [?] . 826729_827182
 %eng:	nothing.
@@ -763,7 +762,7 @@
 %eng:	for Saint David's Day, is it?
 *DOM:	uh +/. 829173_829763
 %eng:	er...
-*MAR:	+< xxx . 829177_829843
+*MRC:	+< xxx . 829177_829843
 %eng:	[...]
 *MAD:	Gŵyl_Dewi . 829721_830430
 %eng:	Saint David's Day.
@@ -781,7 +780,7 @@
 %eng:	you call it "batsh"?
 *DOM:	+< <mae e (y)n> [/] mae e (y)n iawn <te patsh> ["] yndy ? 846865_848732
 %eng:	it's right, isn't it, "te patsh" [=picnic]?
-*MAR:	xxx . 848650_849295
+*MRC:	xxx . 848650_849295
 %eng:	[...]
 *MAD:	+< ti (y)n galw <te batsh> ["] . 848799_850106
 %eng:	you call it "te batsh" .
@@ -793,13 +792,13 @@
 %eng:	on the ground.
 *MAD:	ie ar y llawr . 851678_852708
 %eng:	yes, on the ground.
-*MAR:	+< mm ie . 851913_852643
+*MRC:	+< mm ie . 851913_852643
 %eng:	mm, yes.
 *MAD:	<efo (y)r &d> [//] efo (y)r uh +... 853102_854958
 %eng:	with the, er...
 *DOM:	+< ie [?] . 853448_853774
 %eng:	yes.
-*MAR:	+< xxx . 853763_854467
+*MRC:	+< xxx . 853763_854467
 %eng:	[...]
 *MAD:	xxx <a te> [?] . 856376_858045
 %eng:	[...] and tea.
@@ -807,11 +806,11 @@
 %eng:	blankets and...
 *MAD:	dillad a [/] a popeth . 859625_861310
 %eng:	clothes and everything.
-*MAR:	+< [- spa] y con +/. 859886_861262
+*MRC:	+< [- spa] y con +/. 859886_861262
 %eng:	and with...
 *DOM:	+< ie ? 860420_860889
 %eng:	yes?
-*MAR:	[- spa] y con la ropa de la época de ser posible . 861310_863353
+*MRC:	[- spa] y con la ropa de la época de ser posible . 861310_863353
 %eng:	and if possible, with the period clothing.
 *MAD:	eh@s:cym&spa ? 865084_865463
 %eng:	eh?
@@ -819,7 +818,7 @@
 %eng:	yes?
 *MAD:	neis iawn ! 866615_867895
 %eng:	very nice!
-*MAR:	+< xxx . 867047_867932
+*MRC:	+< xxx . 867047_867932
 %eng:	[...]
 *MAD:	neis . 867909_868309
 %eng:	nice.
@@ -873,7 +872,7 @@
 %eng:	mmhm?
 *MAD:	+, uh mewn sosban fawr . 906217_907998
 %eng:	...in a big pot.
-*MAR:	xxx &=laugh . 907947_911312
+*MRC:	xxx &=laugh . 907947_911312
 %eng:	xxx.
 *MAD:	+< [- spa] no ? 908651_909323
 %eng:	no?
@@ -900,13 +899,13 @@
 %eng:	very good.
 *MAD:	be(th) arall ? 937960_939197
 %eng:	what else?
-*MAR:	[- spa] media hora casi . 940236_941574
+*MRC:	[- spa] media hora casi . 940236_941574
 %eng:	almost half an hour.
-*MAR:	[- spa] en +... 944785_946369
+*MRC:	[- spa] en +... 944785_946369
 %eng:	in...
 *MAD:	a@s:spa ver@s:spa <pwy sy> [//] pwy fydd <yn uh> [/] yn arwain y gymanfa yna ? 946353_950897
 %eng:	so let's see, who will lead that festival?
-*MAR:	oh@s:cym&spa +... 952009_952761
+*MRC:	oh@s:cym&spa +... 952009_952761
 %eng:	oh...
 *DOM:	dw i ddim yn siŵr . 955087_956623
 %eng:	I'm not sure.
@@ -914,20 +913,20 @@
 %eng:	you aren't, I'm not either.
 *DOM:	+< na (dy)na ni . 958589_960589
 %eng:	no, there we are.
-*MAR:	+< xxx . 959021_959603
+*MRC:	+< xxx . 959021_959603
 %eng:	[...]
-*MAR:	rhywun [?] ? 960566_961068
+*MRC:	rhywun [?] ? 960566_961068
 %eng:	someone?
 *MAD:	&=laugh . 961073_962108
 *DOM:	bydd i rywun siŵr ? 962086_963318
 %eng:	someone will I'm sure?
-*MAR:	+< rhywun [?] (.) siŵr (.) sí@s:spa (.) para@s:spa eso@s:spa vendría@s:spa . 963132_966599
+*MRC:	+< rhywun [?] (.) siŵr (.) sí@s:spa (.) para@s:spa eso@s:spa vendría@s:spa . 963132_966599
 %eng:	someone, sure, yes, he/she will come for this.
 *DOM:	+< Carys@s:cym&spa ? 965911_966690
 %eng:	Carys?
 *DOM:	John@s:cym&spa ? 966940_967927
 %eng:	John ?
-*MAR:	+< xxx . 967324_967927
+*MRC:	+< xxx . 967324_967927
 %eng:	[...]
 *MAD:	+< na Carys@s:cym&spa <ddim eis(iau) dim> [/] dim yn hoffi +/. 967537_969734
 %eng:	no, Carys doesn't want... doesn't like...
@@ -935,7 +934,7 @@
 %eng:	Glenys?
 *MAD:	uh Carys@s:cym&spa [//] Glenys@s:cym&spa dim yn hoffi (y)r gymanfa hefyd . 969723_972427
 %eng:	Glenys doesn't like the festival too.
-*MAR:	+< mmhm . 971873_972390
+*MRC:	+< mmhm . 971873_972390
 %eng:	mmhm.
 *DOM:	aha@s:cym&spa ? 972530_973239
 %eng:	aha?
@@ -945,17 +944,17 @@
 %eng:	ah, she might go.
 *DOM:	+< mae siŵr fydd (y)na rywun o allan yn dod yn (.) xxx ? 974323_979199
 %eng:	I'm sure someone external will come to [...]
-*MAR:	Goronwy@s:cym&spa ? 979156_979908
+*MRC:	Goronwy@s:cym&spa ? 979156_979908
 %eng:	Goronwy?
 *MAD:	Goronwy@s:cym&spa neu Sioned@s:cym&spa neu +/. 980095_982335
 %eng:	Goronwy or Sioned or...
-*MAR:	+< xxx . 981903_982373
+*MRC:	+< xxx . 981903_982373
 %eng:	[...]
 *MAD:	efallai ie . 982351_983647
 %eng:	maybe, yes.
 *MAD:	ond gallwn ni &o ofyn i [/] i John@s:cym&spa . 983647_986946
 %eng:	but we can ask John.
-*MAR:	mm . 986898_987655
+*MRC:	mm . 986898_987655
 %eng:	mm.
 *MAD:	um (...) mm ? 989420_992892
 %eng:	um... mm?
@@ -993,15 +992,15 @@
 %eng:	of course .
 *DOM:	ie . 1027994_1028848
 %eng:	yes.
-*MAR:	&=cough . 1030203_1031787
+*MRC:	&=cough . 1030203_1031787
 *DOM:	(y)n_ôl yma . 1034726_1035622
 %eng:	back here.
-*MAR:	xxx &=laugh . 1035790_1038707
+*MRC:	xxx &=laugh . 1035790_1038707
 %eng:	[...]
 *MAD:	+< &=laugh . 1036204_1036913
 *MAD:	lle mae uh +..? 1038700_1040214
 %eng:	where is, er...?
-*MAR:	xxx . 1039879_1042018
+*MRC:	xxx . 1039879_1042018
 %eng:	[...]
 %com:	long pause
 *DOM:	[- spa] así es che . 1055462_1057387
@@ -1083,14 +1082,14 @@
 %eng:	Nedw.
 *MAD:	Nedw@s:cym&spa Sabina_Ortega@s:cym&spa uh um +... 1145456_1149925
 %eng:	Nedw, Sabina Ortega, er...
-%com:	conversation between MAR and LIA in the background
+%com:	conversation between MRC and LIA in the background
 *DOM:	<mae (y)na> [/] mae (y)na griw +... 1152462_1153763
 %eng:	there is a group...
 *MAD:	yndy . 1153713_1154284
 %eng:	yes.
 *DOM:	+, criw iawn . 1154220_1154956
 %eng:	...a nice group.
-%com:	conversation between MAR and LIA in the background
+%com:	conversation between MRC and LIA in the background
 *DOM:	wel (.) sut mae Liani@s:cym&spa ? 1158636_1160534
 %eng:	well, how is Liani?
 *LIA:	reit dda wir (.) a meddwl +/. 1160547_1163052
@@ -1139,7 +1138,7 @@
 %eng:	but I wanted to ask about the eisteddfod.
 *LIA:	a wedyn si(arad) [/] siarad am y teulu . 1198217_1201163
 %eng:	and then we talked about the family.
-*MAR:	[- spa] dos minutos . 1201619_1202894
+*MRC:	[- spa] dos minutos . 1201619_1202894
 %eng:	two minutes .
 *LIA:	bod capel Bethel@s:cym&spa yn cael cant oed blwyddyn nesa . 1204491_1207589
 %eng:	that Bethel chapel will be 100 years old next year.
@@ -1196,7 +1195,7 @@
 %eng:	yes.
 *DOM:	lle mae (y)r sosban haearn sydd +..? 1237612_1239937
 %eng:	where is the iron pot that's...
-*MAR:	+< sosban [/] <sosban haearn> [?] . 1238385_1239500
+*MRC:	+< sosban [/] <sosban haearn> [?] . 1238385_1239500
 %eng:	iron pot.
 *DOM:	+, yn capel (y)ma ? 1240006_1241361
 %eng:	...in this chapel?
@@ -1227,15 +1226,15 @@
 %eng:	have you met the...?
 *MAD:	ti wedi gweld y uh +..? 1264715_1266203
 %eng:	have you seen the, er...?
-*MAR:	[- spa] sí . 1266240_1266912
+*MRC:	[- spa] sí . 1266240_1266912
 %eng:	yes.
-*MAR:	[- spa] ya van más de media hora . 1267477_1268800
+*MRC:	[- spa] ya van más de media hora . 1267477_1268800
 %eng:	it's been going on for more than half an hour.
 *DOM:	[- spa] sí . 1268896_1269643
 %eng:	yes.
 *DOM:	[- spa] bueno estirálo [?] ? 1269739_1270683
 %eng:	well, stretch it.
-*MAR:	&=laugh . 1270720_1272826
+*MRC:	&=laugh . 1270720_1272826
 *DOM:	+< &=laugh . 1271493_1272933
 *MAD:	+< xxx . 1272672_1273605
 %eng:	[...]

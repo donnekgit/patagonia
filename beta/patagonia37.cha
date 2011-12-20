@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	RAM Ramona Adult, ELI Elisa Adult
+@Participants:	RAM Ramona Adult, ELI Elisa Adult, OSE Unknown Adult
 @ID:	cym, spa|Patagonia|RAM|44;|female|||Adult||
 @ID:	cym, spa|Patagonia|ELI|46;|female|||Adult||
-@Situation:	Conversation at a hotel in Trevelin
+@Situation:	Conversation between friends at a hotel in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
-@Comment:	Researchers: Margaret Deuchar, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:29:27
 @Media:	Patagonia37, audio
-@Comment:	Filename: Patagonia37.cha; Soundfile: Patagonia37.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *RAM:	oedd hi isio ni siarad achos native@s:eng speaker@s:eng &blaba &=sniff +... 46_3158
 %eng:	she wanted us to speak because "native speaker", blah blah...
@@ -1096,7 +1095,7 @@
 %eng:	then I was very surprised to...
 *RAM:	oh@s:cym&spa ia ? 809105_809663
 %eng:	oh yes?
-*ELI:	ah@s:cym&spa ti (y)n [/] yn xxx isio mynd . 809096_811132
+*ELI:	+< ah@s:cym&spa ti (y)n [/] yn xxx isio mynd . 809360_811132
 %eng:	ah, you [...] want to go.
 *RAM:	+< oeddet ti ddim yn meddwl fasai â [?] diddordeb ? 810572_812465
 %eng:	didn't you think he'd be interested?
@@ -1741,14 +1740,15 @@
 *RAM:	ydy +..? 1362546_1363184
 %eng:	is...?
 *ELI:	&=laugh . 1363248_1364049
-*XXX:	www . 1364741_1366372
+*OSE:	www . 1364741_1366372
 *RAM:	o ble mae (y)r xxx ? 1368379_1369691
 %eng:	where's the [...] from?
-*ELI:	[- spa] <no sé>  . 1369702_1370451
+*ELI:	[- spa] no sé . 1369702_1370451
 %eng:	don't know
 *RAM:	&=cough . 1370544_1372054
-*XXX:	www . 1377739_1379220
+*OSE:	www . 1377739_1379220
 *ELI:	&=laugh . 1378084_1378781
+*OSE:	www . 1379757_1382694
 *RAM:	dylwn i esbonio bod pobl wedi (.) cyrraedd ar (.) tandem . 1393001_1395817
 %eng:	I should explain that people have arrived on a tandem.
 *RAM:	a bod nhw <wedi dod i_fewn> [=! laughs] â hanner y beic &=noise . 1395846_1398546
@@ -1791,7 +1791,7 @@
 %eng:	mm... more or less.
 *RAM:	mmhm . 1426935_1427591
 %eng:	mmhm.
-*XXX:	xxx . 1427600_1428053
+*OSE:	xxx . 1427600_1428053
 *RAM:	&=noise . 1428044_1428624
 *RAM:	&=laugh . 1430440_1430969
 *ELI:	um ia . 1430998_1432031

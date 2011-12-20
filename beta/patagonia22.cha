@@ -1,17 +1,16 @@
-@Font:	Win95:Arial:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	SAN Sandia Adult, CON Conchita Adult
 @ID:	cym, spa|Patagonia|SAN|56;|female|||Adult||
 @ID:	cym, spa|Patagonia|CON|84;|female|||Adult||
-@Situation:	Conversation at Conchita's house in Esquel
+@Situation:	Conversation between Sandia and her aunt Conchita, at Conchita's house in western Chubut, Argentina
 @Date:	13-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
+@Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:26:18
 @Media:	Patagonia22, audio
-@Comment:	Filename: Patagonia22.cha; Soundfile: Patagonia22.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *SAN:	ac yna Rhyd_yr_Indiaid <la@s:spa Herrería@s:spa> ["] oedden nhw (y)n galw fo ynde ? 122_2990
 %eng:	and then Rhyd yr Indiaid, they called it "la Herreria" [the blacksmith], right?
@@ -110,7 +109,7 @@
 *SAN:	diwrnod arall cyfan . 71605_72476
 %eng:	another whole day
 *SAN:	&=gasp . 72682_73552
-*CON:	ond oedd dad oedd o (y)n deud o_hyd oedd o (we)di bod yn [/] yn dod mewn um (..) fedrwch chi ddeud eh@s:cym&spa (.) wel mis de ers dod uh ar y ffordd . 72745_83833
+*CON:	ond oedd dad oedd o (y)n deud o_hyd oedd o (we)di bod yn [/] yn dod mewn um (.) fedrwch chi ddeud eh@s:cym&spa (.) wel mis de ers dod uh ar y ffordd . 72745_83833
 %eng:	but dad, he always said that he would take, eh you could say, well, a month to come on the road
 *CON:	a wedyn pan um +/. 84360_86624
 %eng:	and then when um...
