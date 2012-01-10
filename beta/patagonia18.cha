@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -167,7 +167,7 @@
 *CAR:	[- spa] sí . 114774_115216
 %eng:	yes
 *CAR:	[- spa] xxx lo trae bien . 115476_116372
-%eng:	vvv
+%eng:	[...] do him good
 *FRO:	siŵr o fod . 117044_117582
 %eng:	for sure
 *CAR:	[- spa] sí . 117572_118148
@@ -438,7 +438,7 @@
 *FRO:	oedd Gwenan@s:cym&spa yn yr amgueddfa pnawn (y)ma . 406899_408899
 %eng:	Gwenan was at the museum this afternoon
 *CAR:	[- spa] cómo ? 409600_410053
-%eng:	vvv
+%eng:	what?
 *FRO:	oedd Gwenan@s:cym&spa yn yr amgueddfa (.) pnawn (y)ma . 410069_413269
 %eng:	Gwenan was at the museum this afternoon
 *CAR:	+< ah@s:cym&spa . 412389_413029
@@ -1170,7 +1170,7 @@
 *FRO:	[- spa] pero es complicado (.) cierto . 1214379_1216406
 %eng:	but it's complicated, true
 *FRO:	[- spa] uno está ahí xxx de todo lado . 1217037_1220706
-%eng:	vvv
+%eng:	one is there [...] from every side
 *CAR:	[- spa] claro . 1220642_1221592
 %eng:	of course
 *FRO:	[- spa] qué fea no xxx . 1222292_1223902
@@ -1237,7 +1237,7 @@
 *CAR:	[- spa] claro . 1297069_1297443
 %eng:	of course
 *FRO:	el@s:spa &fe ferrocarril@s:spa central@s:spa Chubut@s:cym&spa (.) Gaiman@s:cym&spa . 1297489_1300102
-%eng:	vvv
+%eng:	the central railway from Chubut to Gaiman
 *CAR:	Gaiman@s:cym&spa claro@s:spa . 1300401_1301339
 %eng:	Gaiman, of course
 *FRO:	y@s:spa Alonso_Prys@s:cym&spa lo@s:spa va@s:spa a@s:spa hacer@s:spa eso@s:spa eso@s:spa lo@s:spa va@s:spa a@s:spa hacer@s:spa Alonso_Prys@s:cym&spa . 1301414_1305489
