@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	spa, cym
@@ -7,7 +7,7 @@
 @ID:	cym, spa|Patagonia|HON|18;|female|||Adult||
 @Situation:	Conversation in a primary school in eastern Chubut, Argentina
 @Date:	06-NOV-2009
-@Transcriber:	Fraibet Aveledo, Bangor University
+@Transcriber:	Fraibet Aveledo & M.Carmen Parafita Couto, Bangor University
 @Comment:	Researchers: Peredur Davies and Margaret Deuchar, Bangor University
 @Time Duration:	00:30:15
 @Media:	Patagonia17, audio
@@ -15,19 +15,19 @@
 *BER:	sí ahí cuando yo había empezado estaban &pe peleando por eso . 16_3467
 %eng:	yes, there, when I had started, that's why they were fighting.
 *BER:	viste que empiezan las nuevas listas de la universidad . 3447_5634
-%eng:	did you see that the new university lists appear.
+%eng:	did you see that the new university lists appeared?
 *BER:	y hay este la [/] la xxx al Centro@s:cym&spa . 5265_8379
 %eng:	and there is the xxx to the Centre.
 *BER:	creo que hay una lista . 8369_9441
 %eng:	I think that there's a list.
 *BER:	no sé qué cosa . 9425_10401
-%eng:	I don't know what thing.
+%eng:	I don't know what.
 *BER:	que todavía me mandan emails a mí la señora del Centro@s:cym&spa . 10365_13203
-%eng:	that they still send me emails , the lady from the Centre.
+%eng:	that they still send me emails, the lady from the Centre.
 *BER:	y [/] y estaban peleando por eso . 13659_16182
 %eng:	and that's why they were fighting.
 *BER:	pero es que se ve todo en el edificio de aulas . 16011_17622
-%eng:	but you can see everything from the class building.
+%eng:	but you can see everything from the classroom building.
 *BER:	viste por qué está +..? 17608_19043
 %eng:	did you see why it is ?
 *HON:	+< sí . 18272_18550
@@ -47,7 +47,7 @@
 *HON:	toda la parte nueva es económicas . 36968_39549
 %eng:	the whole new part is for economics.
 *HON:	y hay un aula que se usa para naturales . 39528_41934
-%eng:	and there's one classroom that's used for natural science.
+%eng:	and there's one classroom that's used for natural sciences.
 *BER:	que queda en el fondo . 42026_42869
 %eng:	that's in the back.
 *BER:	la que entrás <por la> [//] en [///] donde hemos visto a Pedro@s:cym&spa . 42896_45821
@@ -148,7 +148,7 @@
 *BER:	sí . 123722_124341
 %eng:	yes .
 *HON:	y se va a Buenos_Aires@s:cym&spa el primero de diciembre . 124295_128386
-%eng:	she's going to Buenos Aires the 1st of December.
+%eng:	she's going to Buenos Aires on the 1st of December.
 *HON:	se vuelve a vivir con la familia allá . 128474_130069
 %eng:	she's going back to live with her family there again.
 *BER:	ah que estaba la mamá sola xxx . 130391_132535
@@ -166,7 +166,7 @@
 *BER:	sí . 141961_142575
 %eng:	yes.
 *HON:	y yo me voy . 142788_145204
-%eng:	and I'm going.
+%eng:	and I'm leaving.
 *HON:	entonces es como que bueno +//. 145202_147426
 %eng:	then, it's like, well.
 *HON:	hablando con Mari@s:cym&spa +//. 147426_148920
@@ -194,7 +194,7 @@
 *HON:	era [//] ese era el tema de ella pero bueno . 175220_177764
 %eng:	that was what she was saying, but fine.
 *BER:	si no pero seguro que venís . 179035_180544
-%eng:	vvv
+%eng:	well but for sure you are coming .
 *BER:	cuando viste hacés amistades sólida a veces . 180560_183233
 %eng:	when you made solid friends, sometimes .
 *HON:	sí . 183258_183674
