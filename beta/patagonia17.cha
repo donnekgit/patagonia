@@ -1,4 +1,4 @@
-@Font:	Win95::-21:0
+@Font:	Win95:Gill Sans MT:-21:0
 @UTF8
 @Begin
 @Languages:	spa, cym
@@ -214,12 +214,12 @@
 *BER:	no no hay casi diferencia . 190694_192113
 %eng:	no,  there's almost no difference.
 *HON:	+< depende de cuál tomés . 191979_192923
-%eng:	depends on which one you take.
+%eng:	it depends on which one you take.
 *HON:	&=laugh . 192934_194049
 *BER:	eh@s:cym&spa ? 193515_194117
 %eng:	eh ?
 *HON:	depende de cuál tomés . 194001_194907
-%eng:	depends on which one you take.
+%eng:	it depends on which one you take.
 *BER:	si no pero no [/] no hay casi diferencia viste . 195568_198726
 %eng:	yes, but there's almost no difference, you know?
 *BER:	si tenés a lo mejor con toda la furia doscientos pesos de diferencia . 198566_202385
@@ -243,7 +243,7 @@
 *HON:	porque yo tengo mi familia +... 224447_225930
 %eng:	because I have my family.
 *HON:	sa(bes) eh entre que tengo a mi familia y todo +/. 225871_228293
-%eng:	you know, between my family and everything .
+%eng:	you know, with my family and everything .
 *BER:	+< sí no pero te digo en las vacaciones . 227445_229733
 %eng:	yes, but I'm saying on holidays.
 *HON:	y tengo muchos compromisos . 228266_229674
@@ -295,9 +295,9 @@
 *BER:	igual con [/] con el tiempo <se van> [/] se van viendo menos viste . 278018_281649
 %eng:	as the time goes by, you see each other less often.
 *BER:	y a veces que está bueno porque te juntás . 281767_283623
-%eng:	some times it's nice because you meet.
+%eng:	some times it's nice because you meet up.
 *BER:	y qué se yo nosotras ahora el año que viene cumplimos cinco años de egresados . 283728_287930
-%eng:	next year it will be the 5th Anniversary@s:cy&es of our graduation.
+%eng:	next year it will be the 5th anniversary of our graduation.
 *BER:	así que pensamos hacer la [/] la gran fiesta grande . 287910_291577
 %eng:	so, we are thinking of having a big party.
 *BER:	y está buenísimo . 291735_292519
@@ -333,7 +333,7 @@
 *BER:	te acordás ? 323346_324093
 %eng:	do you remember ?
 *HON:	sí pero bueno en realidad la idea es eh@s:cym&spa hablamos el otro día con [/] con unos amigos que la idea es venirme así como +... 324006_333378
-%eng:	yes but well, really the idea is. We talked with some friends and the idea is to come like.
+%eng:	yes but well, really the idea is. We talked to some friends and the idea is to come like...
 *HON:	ya tengo todas las fechas pautadas todo . 333522_335794
 %eng:	I already have all the dates booked.
 *HON:	de acá hay que ir +... 335777_337249
@@ -343,13 +343,13 @@
 *BER:	+< sí . 337500_337873
 %eng:	yes .
 *BER:	hay que cumplir con el xxx . 337676_339222
-%eng:	we must fulfil with the xxx.
+%eng:	we must fulfil the xxx.
 *BER:	en tren no viste que es agotador ? 339238_341263
 %eng:	the train is exhausting .
 *HON:	+< sí . 341065_341359
 %eng:	yes.
 *HON:	pero bueno . 341487_342340
-%eng:	but fine.
+%eng:	but oh well.
 *HON:	hay fines de semana . 342237_343373
 %eng:	there are weekends
 *HON:	el fin de semana del Eisteddfod@s:cym&spa &=laugh . 343347_344707
@@ -394,7 +394,7 @@
 *BER:	+" esa no fue Alfonsina@s:cym&spa . 379172_381263
 %eng:	that was not Alfonsina.
 *BER:	+" esa fue en realidad ese fue Andrés@s:cym&spa cuando estaba de novio con Alfonsina@s:cym&spa . 381101_386611
-%eng:	actually, that was Andrés when we was Alfonsina's boyfriend.
+%eng:	actually, that was Andrés when he was Alfonsina's boyfriend.
 *BER:	vos no digas nada porque no sabe nadie . 386611_388216
 %eng:	Don't say anything because nobody knows.
 *HON:	&=laugh . 388230_389478
@@ -413,7 +413,7 @@
 *BER:	son xxx de risa . 399707_400838
 %eng:	they're xxx  laughing .
 *HON:	xxx los chicos de . 400658_403084
-%eng:	xxx the boy of .
+%eng:	xxx the boys of .
 *BER:	sí . 403116_403986
 %eng:	yes .
 *HON:	ah@s:cym&spa cómo me reí . 403990_405750
@@ -437,7 +437,7 @@
 *HON:	yo bueno dale . 419416_421246
 %eng:	I, well, ok.
 *HON:	total ni a la mañana ni xxx . 421176_423368
-%eng:	anyway, niether tomorrow morning niether xxx
+%eng:	anyway, neither tomorrow morning nor xxx
 *BER:	+< sí . 422766_423331
 %eng:	yes.
 *HON:	y me vine . 423336_424184
@@ -511,11 +511,11 @@
 *BER:	encima estaban todos medios alunados porque en Gaiman@s:cym&spa no había habido agua (.) a la mañana . 481526_485039
 %eng:	additionally, there were all sulked because there was no water in Gaiman that morning.
 *HON:	ah xxx pobrecitos . 485204_487855
-%eng:	ah xxx poor.
+%eng:	ah ... poor.
 *BER:	+< así que nos habían pedido bueno +//. 485321_486903
 %eng:	so, they had asked us.
 *BER:	estaban [/] las chicas estaban más de una estaba xxx . 488041_491141
-%eng:	the girls were xxx.
+%eng:	the girls were ....
 *BER:	estaban reenojadas . 491130_492751
 %eng:	they were very annoyed.
 *BER:	y [/] y me dice Carla@s:cym&spa +"/. 492924_494769
@@ -532,7 +532,7 @@
 %eng:	then, we had to go to the Municipality.
 *BER:	xxx . 504956_505916
 *BER:	y se quería sacar una foto y qué se yo . 505900_507612
-%eng:	xxx they wanted to take a picture.
+%eng:	they wanted to take a picture.
 *HON:	con Myfyr@s:cym&spa? 507836_508503
 %eng:	with Myfyr.
 *BER:	con los chicos de Peter@s:cym&spa viste que se está llenando la boca hablando de +... 508472_511981
@@ -553,7 +553,7 @@
 *HON:	sí xxx . 521726_522478
 %eng:	yes xxx .
 *BER:	+< estaba redesubicado porque estábamos con todos los chicos ahí por la entrada . 522062_525736
-%eng:	we were very lost because we were with the kids for the entrance.
+%eng:	we were very lost because we were with the kids around the entrance.
 *BER:	encima entramos por la entrada del pasaje . 525654_527707
 %eng:	also, we came in through the passage entrance.
 *HON:	sí . 527966_528313
@@ -569,9 +569,9 @@
 *BER:	tirados en la escalera viste &to . 531358_532825
 %eng:	they were all over the stairs, see.
 *BER:	tirados una forma de decir . 532910_533998
-%eng:	all over, it is form of saying.
+%eng:	all over, you might say.
 *BER:	todos así medio sentados . 534013_535890
-%eng:	all like this, kind of sat.
+%eng:	all like this, kind of sat down.
 *HON:	sí . 534749_535229
 %eng:	yes.
 *BER:	desprolijamente . 535856_537488
@@ -603,7 +603,7 @@
 *BER:	sí ese grupito fue más simpático que el que vino (.) después . 556751_559316
 %eng:	yes, this group was nicer than the one that came after it.
 *HON:	+< y después estuve con el que vino a pintar . 559298_562381
-%eng:	and then I spend some time with the one that came to paint.
+%eng:	and then I spent some time with the one that came to paint.
 *HON:	y con ellos eran <como más> [/] como más cerrados . 563248_565770
 %eng:	and they were like more closed.
 *BER:	sí . 565786_566336
@@ -621,9 +621,9 @@
 *BER:	+< sí pero era más +/. 579643_580917
 %eng:	yes, but it was more ...
 *BER:	más cerrados fueron los chicos estos . 581946_583872
-%eng:	these guys were more less communicative.
+%eng:	these guys were less communicative.
 *HON:	y bueno y después en el Eisteddfod@s:cym&spa fue (.) terrible porque ahí sí ahí hablé con Emy@s:cym&spa con +/. 584027_590572
-%eng:	and well, then , in the Eisteddfod it was terrible because I talked to Emy, to ...
+%eng:	and well, then, in the Eisteddfod it was terrible because I talked to Emy, to ...
 *BER:	claro yo a Emy@s:cym&spa la había conocido acá . 590631_592721
 %eng:	of course, I  have met Emy here.
 *BER:	cuando [///] porque ella fue [///] estuvo en el primer grupo pintando . 592861_595250
@@ -645,7 +645,7 @@
 *BER:	me hizo una entrevista . 600205_601415
 %eng:	she interviewed me.
 *BER:	xxx pongo [?] el mío viste . 601814_603334
-%eng:	xxx I put mine.
+%eng:	... I put mine.
 *BER:	de todos los que habíamos acá fue [///] viste xxx . 603270_605318
 %eng:	from all that were here she was xxx .
 *HON:	sí . 606710_607355
@@ -657,7 +657,7 @@
 *BER:	y para +//. 613325_614338
 %eng:	and to.
 *BER:	si a ellos le gustaba porque estaban haciendo todos recopilando datos de todos lados y entrevistando gente y qué se yo . 614334_619832
-%eng:	yes, they liked it because there were collecting data from everywhere and interviewing people and so.
+%eng:	yes, they liked it because they were collecting data from everywhere and interviewing people and so on.
 *BER:	que si les gusta a no sé quién es al editor <de la> [//] de un programa de S_four_C . 619875_625549
 %eng:	if an editor from a programme from S4C likes it.
 *HON:	+< sí . 625696_625990
@@ -685,176 +685,176 @@
 *BER:	pero (.) no alcancé ir hasta allá . 645685_647807
 %eng:	but I didn't get a chance to go there.
 *BER:	y no sé si tengo parientes o no que yo +//. 647848_649346
-%eng:	vvv
+%eng:	and I don't know if I have family or not.
 *BER:	eso es lo que yo +//. 649290_650298
-%eng:	vvv
+%eng:	that's what I  ...
 *BER:	fue mi idea cuando fui a Gales@s:cym&spa . 650340_652095
-%eng:	vvv
+%eng:	it was my idea when I went to Wales.
 *BER:	y no +... 652106_652751
-%eng:	vvv
+%eng:	and no...
 *HON:	no pudiste xxx . 652762_653811
-%eng:	vvv
+%eng:	you couldn't.
 *BER:	+< no alcancé llegar hasta allá . 653187_654542
-%eng:	vvv
+%eng:	I didn't manage to get there.
 *BER:	así que ella me dice +"/. 655335_656690
-%eng:	vvv
+%eng:	so she tell me.
 *BER:	+" bueno si conocés xxx . 657058_658668
-%eng:	vvv
+%eng:	well if you know...
 *BER:	me dijo . 658663_658935
-%eng:	vvv
+%eng:	she told me.
 *BER:	pues sí hay gente que busca gente viste . 658924_660615
-%eng:	vvv
+%eng:	there are people that look for other people.
 *BER:	entonces . 660514_660887
-%eng:	vvv
+%eng:	then
 *HON:	+< sí . 660514_660887
-%eng:	vvv
+%eng:	yes
 *BER:	+" si hay alguien que supieras vos que es tu familia . 660933_663354
-%eng:	vvv
+%eng:	if there are people that you know are your family.
 *BER:	+" te gustaría que te ayude ? 663338_664325
-%eng:	vvv
+%eng:	would you like me to help you?
 *BER:	yo . 664271_664586
-%eng:	vvv
+%eng:	I
 *BER:	+" sí estaría genial . 664543_665754
-%eng:	vvv
+%eng:	yes it would be great.
 *BER:	así que pareciera [//] parecía gente que busca gente . 666048_668630
-%eng:	vvv
+%eng:	so it looks like people are looking for people.
 *HON:	+< xxx . 667280_667942
 %eng:	vvv
 *BER:	está xxx . 668739_669305
-%eng:	vvv
-*HON:	+< si yo justo estuve en xxx la última noche . 668990_671683
-%eng:	vvv
+%eng:	it is .
+*HON:	+< sí yo justo estuve en xxx la última noche . 668990_671683
+%eng:	yes I was just ... last night.
 *HON:	estaba todo el grupo junto . 671614_672936
-%eng:	vvv
+%eng:	everybody was together.
 *HON:	así que xxx nos pusimos con [/] con los chicos de Gaiman@s:cym&spa también (.) a charlar con ellos . 672788_678025
-%eng:	vvv
+%eng:	so we started chatting to the guys from Gaiman.
 *HON:	+< sí . 676612_677252
-%eng:	vvv
+%eng:	yes.
 *HON:	y haciéndole el chiste y qué se yo . 678288_680250
-%eng:	vvv
+%eng:	joking around and so on.
 *HON:	pero estuvo rebueno . 680286_681470
-%eng:	vvv
+%eng:	it was really nice.
 *BER:	+< sí . 681278_681502
-%eng:	vvv
+%eng:	yes.
 *BER:	yo hablé con algunos así de paso viste vos . 681537_683255
-%eng:	vvv
+%eng:	I talked to some of them .
 *BER:	estaba tan metida en (.) en tantas cosas viste que no . 683132_687525
-%eng:	vvv
+%eng:	I was involved in so many things that...
 *BER:	con [///] me senté un ratico con Pili@s:cym&spa . 687531_690033
-%eng:	vvv
+%eng:	I sat for a bit with Pili.
 *HON:	mmhm@s:cym . 687825_688363
-%eng:	vvv
+%eng:	mmhm.
 *BER:	después con otra chica una gordita de con [///] bien con pecas que tenía flequillito . 690679_696150
-%eng:	vvv
+%eng:	and then with a fat girl with freckles and a fringe.
 *HON:	ay no sé . 694134_695158
-%eng:	vvv
+%eng:	I don't know.
 *BER:	y después con la que estuve charlando un ratito era con una que después tomaste [?] la foto . 696536_700109
-%eng:	vvv
+%eng:	and then I was chatting for a bit with the one that had the picture taken.
 *BER:	se parecía a Angela@s:cym&spa . 700120_701064
-%eng:	vvv
+%eng:	she looked like Angela.
 *HON:	ah@s:cym&spa sí ? 701223_701938
-%eng:	vvv
+%eng:	really?
 *BER:	sí . 701895_702269
-%eng:	vvv
+%eng:	yes.
 *BER:	y encima me dio risa porque tenía el mismo corte de pelo ese medio desmechado que tiene Angela@s:cym&spa . 702272_706763
-%eng:	vvv
+%eng:	and I started laughing because she even had the same layered haircut as Angela.
 *BER:	bien xxx como Angela@s:cym&spa . 706771_709235
-%eng:	vvv
+%eng:	good, just like Angela.
 *BER:	y andaba con la remera esta viste que yo tengo . 709565_711997
-%eng:	vvv
+%eng:	and she was wearing that jacket that I have.
 *BER:	una que se le xxx . 711987_713523
-%eng:	vvv
+%eng:	one that...
 *HON:	+< chica galesa . 712264_713475
-%eng:	vvv
+%eng:	Welsh girl.
 *BER:	chica galesa . 713507_714250
-%eng:	vvv
+%eng:	Welsh girl.
 *BER:	andaba con la misma remera . 714110_715993
-%eng:	vvv
+%eng:	She had the same jacket.
 *HON:	+< ah@s:cym&spa sí . 714734_715438
-%eng:	vvv
+%eng:	oh yeah.
 *HON:	+< yo sé cuál es . 715406_716041
-%eng:	vvv
+%eng:	I know which one.
 *BER:	así que yo le digo +"/. 716260_717108
-%eng:	vvv
+%eng:	so I tell her.
 *BER:	+" ay . 717065_717625
-%eng:	vvv
+%eng:	ay
 *BER:	justo tenía xxx . 717515_719717
-%eng:	vvv
+%eng:	I had just xxx
 *BER:	xxx esa remera . 719739_721403
-%eng:	vvv
+%eng:	that same jacket.
 *BER:	así que parecía la [/] la melliza de Angela@s:cym&spa la prima (.) xxx . 721486_725336
-%eng:	vvv
+%eng:	so she looked like Angela's twin, her cousin..
 *HON:	yo las agregé eh@s:cym&spa agregé algunos al Facebook así que +... 725133_728413
-%eng:	vvv
+%eng:	I added them to facebook so...
 *BER:	sí . 728377_728574
-%eng:	vvv
+%eng:	yes
 *BER:	no . 728548_728756
-%eng:	vvv
+%eng:	no.
 *BER:	yo con ese grupo me llevé rebien . 728761_730404
-%eng:	vvv
+%eng:	I got on really well with them.
 *BER:	pero porque ando de los dos días con ellos . 730121_731988
-%eng:	vvv
+%eng:	but because I hung out every day with them.
 *HON:	pero en realidad yo para mantener el contacto . 732023_734380
-%eng:	vvv
+%eng:	but really to keep in touch.
 *HON:	qué se yo . 734188_735058
-%eng:	vvv
+%eng:	I don't know.
 *HON:	+, xxx . 734989_736930
-%eng:	vvv
+%eng:	vvv.
 *HON:	xxx . 737143_737969
 *BER:	+< no yo no . 737143_737969
-%eng:	vvv
+%eng:	no not me.
 *BER:	con ellos xxx porque venían acá . 737921_739815
-%eng:	vvv
+%eng:	with them because they were coming over.
 *BER:	me enchufaron en todas las fotos que sacaron . 739820_741655
-%eng:	vvv
+%eng:	they got me in all the pictures they took.
 *BER:	y qué se yo . 741644_742337
-%eng:	vvv
+%eng:	and what else.
 *BER:	así que mira . 742337_742929
-%eng:	vvv
+%eng:	so...
 *BER:	foto de acá foto de allá . 742913_744246
-%eng:	vvv
+%eng:	picture here picture there.
 *BER:	rebien . 744310_744924
-%eng:	vvv
+%eng:	very nice.
 *BER:	y después había otra chica una coloradita Bea@s:cym&spa (.) que ya se clocsio@s:cym . 745024_749787
-%eng:	vvv
+%eng:	and then there was another girl sort of blushing Bea who had already danced in clogs.
 %com:	clocsio=dancing in clogs
 *HON:	sí . 750192_750736
-%eng:	vvv
+%eng:	yes
 *BER:	a sí que estuvimos hablando . 750740_752671
-%eng:	vvv
-*BER:	y yo le [/] le conté a Berta@s:cym&spa ahora (.) que la chica esta cuando xxx una vez de que se termina de acomodar y esto me iba a pasar el precio porque como vos viste son todos del norte . 752648_763143
-%eng:	vvv
+%eng:	so we were talking.
+*BER:	y yo le [/] le conté a Berta@s:cym&spa ahora (.) que la chica esta cuando xxx una vez de que se termina de acomodar  y esto me iba a pasar el precio porque como vos viste son todos del norte . 752648_763143
+%eng:	and I told Berta now that this girl when she settles
 *BER:	esta chica no me acuerdo de qué parte era . 763148_764428
-%eng:	vvv
+%eng:	that girl I don't remember where she was from.
 *BER:	iba a averiguar +/. 765184_766512
-%eng:	vvv
+%eng:	I was going to find out.
 *HON:	+< sí eran todos . 765680_766437
-%eng:	vvv
+%eng:	yes they all were.
 *HON:	creo que habían unos que eran de Bangor@s:cym&spa . 766475_768171
-%eng:	vvv
+%eng:	I think there were some from Bangor.
 *HON:	puede ser ? 768123_768517
-%eng:	vvv
+%eng:	could it be?
 *BER:	sí bueno . 768363_769008
-%eng:	vvv
+%eng:	yes, sure.
 *BER:	Sara@s:cym&spa es de Bangor@s:cym&spa . 768939_770021
-%eng:	vvv
+%eng:	Sara is from Bangor.
 *HON:	sí . 770005_770805
-%eng:	vvv
+%eng:	yes.
 *BER:	así que iban a hablar de +//. 770788_772724
-%eng:	vvv
+%eng:	so they were going to talk about...
 *BER:	una chica de estas se iba a fijar . 772793_774319
-%eng:	vvv
+%eng:	one of those girls was going to pay attention.
 *BER:	me iba a pasar precios . 774297_775503
-%eng:	vvv
+%eng:	she was going to give me the prizes.
 *BER:	a cuánto estabas allá los clocsio@s:cym . 775499_777494
-%eng:	vvv
+%eng:	how much were the clogs over there?
 %com:	clocsio=dancing with clogs
 *BER:	los &clocs . 777441_778465
-%eng:	vvv
+%eng:	the clogs.
 *BER:	y (.) el nombre de la persona del hombre que los hace . 778661_782703
-%eng:	vvv
+%eng:	and the name of the man who makes them.
 *HON:	yo estuve [/] <cuando estuve en Caerdydd@s:cym&spa> [//] en [//] no cuando estuve en eh@s:cym&spa [/] en el Eisteddfod@s:cym&spa en Bala@s:cym&spa . 782658_788301
-%eng:	vvv
+%eng:	when I was in Cardiff I didn't go to the Eisteddfod in Bala.
 %com:	Caerdydd=Cardiff in Welsh
 *BER:	sí . 789179_790133
 %eng:	yes.
@@ -868,7 +868,7 @@
 *HON:	en realidad en el stand de +... 795138_796439
 %eng:	actually, in the stand of ...
 *HON:	ay no me acuerdo cómo se llama . 796475_798299
-%eng:	oh I can`t remember how it`s called.
+%eng:	oh I can`t remember what it's called.
 *HON:	que son un grupos de danzas (.) de (.) danzas . 798306_801522
 %eng:	they are a dance group.
 *BER:	eh@s:cym&spa sí cymdeithas@s:cym +... 800003_801513
@@ -876,7 +876,7 @@
 *BER:	++ [- cym] dawnsio gwerin Cymru . 801731_803481
 %eng:	...of Welsh Folk Dancing.
 *HON:	+< sí xxx dawnsio@s:cym gwerin@s:cym . 801731_804163
-%eng:	yes xxx folk dancing.
+%eng:	yes ... folk dancing.
 *HON:	y hablé con un hombre ahí . 804091_808085
 %eng:	I talked to a guy there.
 *HON:	y (.) costaban como setenta libras cada par de (.) cada par de clog@s:eng . 808336_814370
@@ -937,7 +937,7 @@
 *HON:	hicieron un . 857618_858983
 %eng:	they did a..
 *BER:	un &curo un . 859308_860375
-%eng:	a xxx .
+%eng:	a ....
 *HON:	+< como un . 859943_860476
 %eng:	like a
 *HON:	sí . 860503_860844
@@ -1014,34 +1014,34 @@
 *BER:	va a estar Juan@s:cym&spa . 908997_910672
 %eng:	Juan is going to be there.
 *BER:	xxx &=laugh da risa . 911487_914309
-%eng:	xxx it makes me laugh.
+%eng:	it makes me laugh.
 *BER:	sí le da risa a uno . 914884_915924
 %eng:	yes, it makes one laugh.
 *BER:	xxx a bailar . 915967_917135
-%eng:	xxx to dance.
+%eng:	to dance.
 *HON:	sí . 917156_917690
 %eng:	yes.
 *BER:	y le [/] le da risa la [/] la ropa . 917686_919697
 %eng:	the clothes make him laugh.
 *BER:	xxx queda la ropa . 919676_921201
-%eng:	xxx fit the clothes.
+%eng:	... fit the clothes.
 *HON:	&=laugh . 919745_920465
 *BER:	igual . 921577_922884
 %eng:	anyway.
 *BER:	él bailó danzas como xxx . 922706_925335
-%eng:	he danced, when ...
+%eng:	he danced like...
 *BER:	y él bailó danzas en cuarto año . 925372_926828
 %eng:	and he danced in fourth year.
 *BER:	ahí ya la que lo jodía era yo . 926828_928834
-%eng:	and there, I was the one that pisses him off was me.
+%eng:	and there, I was the one that pissed him off.
 *BER:	no te imaginás . 928999_929799
 %eng:	you can't imagine.
 *BER:	y con las medias largas viste . 929815_931458
 %eng:	with long socks.
 *HON:	+< xxx sí . 930984_932338
-%eng:	xxx yes .
+%eng:	yes .
 *HON:	xxx este año creo que va a estar bueno . 932381_934178
-%eng:	xxx I think it's going to be good  this year.
+%eng:	... I think it's going to be good this year.
 *HON:	espero . 934082_934792
 %eng:	I hope so.
 *HON:	y además viene Dewi@s:cym&spa también . 934711_936002
@@ -1065,7 +1065,7 @@
 *HON:	+< hay más . 943590_944022
 %eng:	there are more.
 *HON:	sí . 943602_944418
-%eng:	vvv
+%eng:	yes.
 *BER:	entonces xxx está buenísimo . 944678_945873
 %eng:	then , xxx it's great.
 *BER:	y viene Dewi@s:cym&spa entero corazón un lindo grupo . 945911_948610
@@ -1073,7 +1073,7 @@
 *HON:	uh@s:cym . 948695_949250
 %eng:	eh .
 *BER:	xxx va a estar muy bueno [?] . 949357_950733
-%eng:	xxx is going to be very good.
+%eng:	it is going to be very good.
 *HON:	+< sí . 950439_950701
 %eng:	yes.
 *HON:	va a estar bueno . 950701_951575
@@ -1088,7 +1088,7 @@
 *BER:	me parece . 958193_959009
 %eng:	I think.
 *HON:	xxx la música . 959133_960653
-%eng:	xxx the music.
+%eng:	the music.
 *BER:	ah@s:cym&spa también puede ser . 961458_962808
 %eng:	ah, that could also be.
 *HON:	xxx . 962765_963943
@@ -1099,7 +1099,7 @@
 *BER:	sí con el culo . 968182_969627
 %eng:	yes, with the bum.
 *HON:	yo me cambio allá va &=laugh . 969599_971322
-%eng:	I'll change there.
+%eng:	I'll get changed there.
 *BER:	+< &=laugh . 970751_971471
 %eng:	vvv
 *BER:	no yo de última me voy hasta la chacra . 971461_973082
@@ -1121,8 +1121,8 @@
 %eng:	where ?
 *BER:	en el quiosco . 983559_984481
 %eng:	in the kiosk.
-*BER:	viste que hay un quiosco chiquitito ahí al frente <del Diario Jornada> [///] del Diario_el_Chubut@s:cym&spa ? 984452_988015
-%eng:	have you notice a little kiosk, there, in front of the Diary El_Chubut?
+*BER:	viste que hay un quiosco chiquitito ahí al frente <del Diario Jornada> [///] del Diario_El_Chubut@s:cym&spa ? 984452_988015
+%eng:	have you noticed a little kiosk, there, in front of the El_Chubut Daily?
 *HON:	sí . 988266_988863
 %eng:	yes.
 *BER:	bueno ese quiosco lo alquila mi tío . 988829_991202
@@ -1194,19 +1194,19 @@
 *BER:	+< &=laugh . 1039723_1040539
 %eng:	vvv
 *HON:	y dice . 1040528_1040774
-%eng:	and says.
+%eng:	and she says.
 *HON:	no me voy a poder levantar . 1040759_1042033
-%eng:	that I won't be able to wake up.
+%eng:	that I won't be able to get up.
 *BER:	oh@s:cym&spa qué exagerada . 1042105_1043950
 %eng:	oh she is exaggerating .
 *HON:	+< ah@s:cym&spa y además yo me levanto temprano todos los días . 1042697_1045673
-%eng:	ah and also I wake up early every day.
+%eng:	ah and also I get up early every day.
 *HON:	no tengo xxx . 1045641_1047518
 %eng:	I don't have .
 *BER:	qué exagerado . 1047433_1048121
 %eng:	she is exaggerating.
 *HON:	mirá cómo vamos a hacer . 1047782_1048998
-%eng:	look how we're going to do.
+%eng:	look, what are we going to do?
 *HON:	yo voy a ir . 1048976_1050176
 %eng:	I'm going to go.
 *HON:	&=laugh . 1050256_1051184
@@ -1276,19 +1276,19 @@
 *HON:	está Escuela_de_música@s:cym&spa . 1097454_1098567
 %eng:	there is Escuela_de_música.
 *HON:	y estamos nosotros . 1098556_1099404
-%eng:	and we.
+%eng:	and us.
 *BER:	sí pero si vos te fijás al mejor coro (.) está Escuela_de_Música@s:cym&spa . 1099357_1103773
-%eng:	yes, but if you notice to the best choir, it is Escuela_de_Música.
+%eng:	yes, but if you pay attention the best choir is Escuela de Música.
 *BER:	las que se presentan de [///] alguna que otra vez siempre los chicos de Madrin@s:cym&spa . 1103629_1107687
-%eng:	the one that made their show from time to time. There is always the guys from Madrin.
+%eng:	the ones that do a show from time to time are always the guys from Madrin.
 *HON:	sí . 1107778_1108434
 %eng:	yes.
 *BER:	y nada más no tenés gran competencia . 1108378_1110944
-%eng:	and nothing else. There is no competence.
+%eng:	and nothing else, you don't get great ability.
 *BER:	y con toda la furia el coro Seion@s:cym&spa . 1110963_1112605
 %eng:	and with a lot of impact the Seion choir.
 *BER:	pero rara vez que se presenta para esa competencia . 1112643_1115208
-%eng:	but rarely they participate in that competence
+%eng:	but it's only rarely that they present with that ability.
 *BER:	el coro universitario . 1115633_1116615
 %eng:	the University choir.
 *BER:	pero no [/] no hay mucha más +... 1116599_1118535
@@ -1308,7 +1308,7 @@
 *HON:	pero bueno . 1127771_1129195
 %eng:	but well.
 *HON:	a veces que no todo se puede . 1129353_1131673
-%eng:	some times you can't do everything you want.
+%eng:	sometimes you can't do everything you want.
 *BER:	no . 1131623_1132177
 %eng:	no.
 *BER:	que en realidad nadie se avivó todavía &=laugh . 1132172_1134204
@@ -1318,13 +1318,13 @@
 *HON:	+< me parece que no . 1134364_1135303
 %eng:	I don't think so.
 *BER:	yo voy a dar mi (.) [/] mi [/] mi voto por ahí al [/] al señor presidente de la comisión . 1135322_1140943
-%eng:	I am going to give my opinion to the man, president of the commission .
+%eng:	I am going to give my opinion to the president of the commission .
 *HON:	+< dale . 1136874_1137364
 %eng:	do it.
 *BER:	decí +"/. 1141232_1141685
 %eng:	say
 *BER:	+" Tomás . 1141536_1142496
-%eng:	vvv
+%eng:	Tomás.
 *BER:	porque estaría bueno viste . 1142573_1143629
 %eng:	because it should be fine.
 *BER:	para hacer algo diferente . 1143725_1144871
