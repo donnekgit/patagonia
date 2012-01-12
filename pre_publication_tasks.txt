@@ -9,6 +9,8 @@ Review Welsh/Spanish cognates.
 JS to take forward. 
 (Update: in progress - MD reviewing.)
 
+Review changing 'ajá' marked as Spanish to 'aha@s:eng&spa'.
+
 Review list of POS-tags - one list for both corpora?  remove language-specific examples?
 
 Review language spec in headers of Miami files, and adopt a consistent criterion (eg marked as Spanish when more than 40% of the words are in Spanish).
