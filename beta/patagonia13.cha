@@ -1,19 +1,16 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	spa, cym, en
+@Languages:	spa, cym, eng
 @Participants:	ALE Alejandra Adult,  LCT Lucita  Adult
 @ID:	cym, spa|Patagonia|ALE|42;|female|||Adult||
 @ID:	cym, spa|Patagonia|LCT|61;|female|||Adult||
 @Situation:	Conversation between colleagues at a primary school in eastern Chubut, Argentina
 @Date:	04-NOV-2009
-@Coder:	 Fraibet Aveledo, Bangor University
+@Coder:	Fraibet Aveledo, Bangor University
 @Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:28:31
 @Media:	Patagonia13, audio
-@Comment:	Filename: Patagonia13.cha; Soundfile: Patagonia13.wav
 @Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.
-@Comment:	I checked Toy Task A.
 *LCT:	en los de Serena_Powell@s:cym&spa ? 8_1823
 %eng:	in Serena Powell's ones?
 *ALE:	sí . 1820_2285
@@ -61,7 +58,7 @@
 %eng:	oh, it's lovely.
 *LCT:	sí sí sí . 36097_36991
 %eng:	yes, yes.
-*ALE:	y también hablando así de de competencias donde se incluía a familias . 37406_41595
+*ALE:	y también hablando así de [/] de competencias donde se incluía a familias . 37406_41595
 %eng:	and talking like this of competitions with families...
 *ALE:	estaba también el tema de la danza en familia . 41581_44313
 %eng:	it was also the theme of the dancing.
@@ -82,8 +79,8 @@
 *LCT:	&em . 54290_55163
 *ALE:	después la familia de Albert@s:cym&spa . 55151_56608
 %eng:	after Albert's family...
-*LCT:	el Stammer@s:cym&spa con la hija . 55601_57138
-%eng:	Stammer, with his daughter.
+*LCT:	el Pugh@s:cym&spa con la hija . 55601_57138
+%eng:	Pugh, with his daughter.
 *ALE:	sí . 57201_57635
 %eng:	yes.
 *LCT:	sí . 57625_58211
@@ -101,7 +98,7 @@
 *LCT:	+< xxx . 71151_71842
 *ALE:	y tanto Albert@s:cym&spa como Olga@s:cym&spa tenían eso para compartir . 73810_77123
 %eng:	and Alert and Olga had this to share between them.
-*ALE:	ambos habían salido premiados y todo en el Eisteddfod@s:cym&spa . 77457_80269
+*ALE:	ambos habían salido premiados y todo en el eisteddfod@s:cym&spa . 77457_80269
 %eng:	both had left as prize-winners and all in the Eisteddfod.
 *ALE:	pero &e una linda competencia . 80337_82951
 %eng:	but a nice competition.
@@ -167,18 +164,16 @@
 %eng:	a culture that's very...
 *LCT:	sí sí sí . 146030_146878
 %eng:	yes, yes.
-*LCT:	y como antes nosotros en el Veintiocho_de_Julio@s:cym&spa de donde soy yo (.) con la abuela de Ana@s:cym&spa +//. 146871_153736
+*LCT:	y como antes nosotros en el Veintiocho_de_Julio de donde soy yo (.) con la abuela de Ana@s:cym&spa +//. 146871_153736
 %eng:	and just as before on 28th July, where I'm from, with Grandmother Ana, we...
-*LCT:	ella nos pasaba a buscar y . 153752_156029
+*LCT:	ella nos pasaba a buscar y +//. 153752_156029
 %eng:	she came to pick us up and...
 *LCT:	y íbamos &e a la escuela dominical todos los domingos . 156076_160630
 %eng:	and we went to Sunday School each Sunday.
 *ALE:	+< todos . 159441_160262
 %eng:	each.
-*LCT:	y el Band_y_Hwp@s:cym&spa (.) que se dice para [/] para Navidad . 161032_165725
-%eng:	and the so-called 'Band y Hwp' for Chrismtas...
-%com:	"band y hwp"??? Need a second opinion!
-%com:	it's what she's saying but I have no idea what she's referring to.
+*LCT:	y el xxx (.) que se dice para [/] para Navidad . 161032_165725
+%eng:	and the so-called [...] for Christmas...
 *ALE:	sí . 165795_166136
 %eng:	yes.
 *LCT:	era hermoso . 166046_167956
@@ -279,11 +274,11 @@
 *ALE:	y a mí me pasa en [/] en mi familia . 290669_293845
 %eng:	and this happens in my family.
 *LCT:	+< hay un pero muchas veces . 293199_295077
-%eng:	there is often a 'but'.
+%eng:	there is often a "but".
 *ALE:	+< sí . 294677_294997
 %eng:	yes.
 *ALE:	los peros están siempre (.) a la orden del día . 294986_297968
-%eng:	the 'buts' are always there.
+%eng:	the "buts" are always there.
 *LCT:	sí sí sí pero +//. 298197_299883
 %eng:	yes, yes but...
 *ALE:	+< pero es [/] es lindo y +... 299393_301436
@@ -294,7 +289,7 @@
 %eng:	and I saw it on television, Lucita.
 *LCT:	no sé si vos lo viste ? 310304_311686
 %eng:	I don't know if you saw it?
-*LCT:	el [//] la noche esta donde cantó Santa@s:cym&spa Cecilia@s:cym&spa de [/] de Rawson@s:cym&spa . 311606_318700
+*LCT:	el [//] la noche esta donde cantó Santa_Cecilia de [/] de Rawson@s:cym&spa . 311606_318700
 %eng:	that evening where Santa Cecilia from Rawson sang.
 *ALE:	+< ah@s:cym&spa . 317631_318911
 %eng:	ah.
@@ -312,7 +307,7 @@
 %eng:	very very nice, what she recited.
 *LCT:	pero una belleza . 329442_330616
 %eng:	but what a beautiful lady...
-*LCT:	fue Martha@s:cym&spa Ubres@s:cym&spa . 330600_331864
+*LCT:	fue Martha_Ubres@s:cym&spa . 330600_331864
 %eng:	...Martha Ubres was.
 *ALE:	ay que bueno . 331759_333253
 %eng:	oh, how good.
@@ -320,13 +315,13 @@
 %eng:	exquisit, you see.
 *LCT:	muy muy muy bien . 334544_335707
 %eng:	very very good.
-*LCT:	y el [/] el coro Santa@s:cym&spa Cecilia@s:cym&spa cantó muy muy lindo . 335615_339172
+*LCT:	y el [/] el coro Santa_Cecilia cantó muy muy lindo . 335615_339172
 %eng:	and the Santa Cecilia choir sang very very well.
 *ALE:	qué bueno ! 339350_340262
 %eng:	fantastic!
 *LCT:	sí sí . 340187_341094
 %eng:	yes, yes.
-*ALE:	sí hubo tantos espectáculos anteriores al Eisteddfod@s:cym&spa . 341077_344096
+*ALE:	sí hubo tantos espectáculos anteriores al eisteddfod@s:cym&spa . 341077_344096
 %eng:	yes, there were so many shows before the Eisteddfod.
 *LCT:	+< xxx . 341296_341898
 *LCT:	+< sí sí sí . 343610_344618
@@ -357,7 +352,7 @@
 %eng:	yes, yes.
 *LCT:	sí muchos de acá +//. 356577_358342
 %eng:	yes, many from here...
-*ALE:	+< las chicas este tanto Tina@s:cym&spa como Carmen@s:cym&spa también que estaban dentro de la organización del Eisteddfod@s:cym&spa . 358039_364075
+*ALE:	+< las chicas este tanto Tina@s:cym&spa como Carmen@s:cym&spa también que estaban dentro de la organización del eisteddfod@s:cym&spa . 358039_364075
 %eng:	the girls, Carmen as well as Tina were also involved with the organization of the Eisteddfod.
 *LCT:	+< para +//. 362053_362917
 %eng:	to...
@@ -367,7 +362,7 @@
 %eng:	find people.
 *LCT:	la organización de las sillas todas esas cosas . 366172_369137
 %eng:	organizing the chairs, all these things.
-*LCT:	no um@s:cym lo que pasa es que el Eisteddfod@s:cym&spa si vos querés que salga bien tiene muchísimo trabajo . 369487_374975
+*LCT:	no uh@s:cym lo que pasa es que el eisteddfod@s:cym&spa si vos querés que salga bien tiene muchísimo trabajo . 369487_374975
 %eng:	no, what happens is that, if you want the Eisteddfod to go well there's a lot of work.
 *ALE:	hay que ponerle mucho (.) mucho esfuerzo y mucho trabajo anterior también porque hay que organizar muchísimo . 374836_382109
 %eng:	you have to put in a lot of effort and a lot of work beforehand too because you have to organise an awful lot.
@@ -377,9 +372,9 @@
 %eng:	yes, yes.
 *LCT:	y <hay que> [/] hay que hacerlo que [/] que [/] que salga bien . 382704_386822
 %eng:	and you have to make it run smoothly.
-*LCT:	me encantó Lucita@s:cym&spa en el Eisteddfod@s:cym&spa la parte de la apertura de la [/] de la sección del sábado a la noche . 386786_394970
+*LCT:	me encantó Lucita@s:cym&spa en el eisteddfod@s:cym&spa la parte de la apertura de la [/] de la sección del sábado a la noche . 386786_394970
 %eng:	Lucita, I loved the part of the opening of the section on Saturday evening in the Eisteddfod.
-*LCT:	la [/] la orquesta de la Ochocientos_cinco@s:cym&spa &em con violín y guitarra todo . 395007_402369
+*LCT:	la [/] la orquesta de la Ochocientos_cinco &em con violín y guitarra todo . 395007_402369
 %eng:	the 805 orchestra with violins and guitars and everything.
 *LCT:	una hermosura . 402376_404227
 %eng:	a magnificent thing.
@@ -391,7 +386,7 @@
 %eng:	you see... in solos, duos, folk groups.
 *LCT:	y era una guitarra y un violín (.) un chico cantando . 412812_416561
 %eng:	and it was a guitar, a violin, a boy singing.
-*LCT:	todo así y . 416493_418402
+*LCT:	todo así y +//. 416493_418402
 %eng:	everything like this and...
 *LCT:	entre un chico que estaba con [/] con el violín . 418773_423194
 %eng:	...between a boy with a violin...
@@ -405,27 +400,27 @@
 %eng:	and played the guitar.
 *LCT:	y era ciego . 432053_434027
 %eng:	and he was blind.
-*LCT:	um@s:cym ahí ves que querer es poder . 435185_438017
+*LCT:	mm@s:cym ahí ves que (.) querer es poder . 435185_438017
 %eng:	um, here you can see that when where there's a will, there's a way.
 *ALE:	+< ves ahí te das cuenta . 435622_437574
 %eng:	you see, you realise it.
 *ALE:	+< sí es cierto . 438054_439307
 %eng:	yes, that's for sure.
-*LCT:	+< um@s:cym ? 439439_439909
-%eng:	um?
+*LCT:	+< mmhm@s:cym ? 439439_439909
+%eng:	mmhm
 *ALE:	eh@s:cym&spa eso es muy importante cuando la persona pone todo de sí para [/] para llegar a donde [/] (.) a donde quiere . 440585_448240
 %eng:	this is very important, when a person gives their all to acheive something they want.
 *LCT:	sí sí . 447155_447923
 %eng:	yes, yes.
 *ALE:	a participar y todo lo demás . 448786_451314
 %eng:	to participate and all the rest.
-*LCT:	+< um@s:cym me gustó mucho . 449095_450786
+*LCT:	+< hm@s:cym me gustó mucho . 449095_450786
 %eng:	um, I liked it a lot.
-*ALE:	eh@s:cym&spa seguramente recibió una &mere um@s:cym un merecido aplauso y . 451445_455998
-%eng:	er, surely he received the applause he deserved and...
+*ALE:	eh@s:cym&spa seguramente recibió una &mere mm@s:cym un merecido aplauso . 451445_455879
+%eng:	er, surely he received the applause he deserved.
 *LCT:	+< eh@s:cym&spa sí sí sí sí . 454970_457418
 %eng:	er yes, yes.
-*ALE:	y una mención especial también . 455749_458325
+*ALE:	y una mención especial también . 455869_458325
 %eng:	and a special mention too.
 *LCT:	+< pero sí . 457345_458289
 %eng:	but yes.
@@ -437,8 +432,8 @@
 %eng:	I see.
 *LCT:	eh@s:cym&spa no sé cómo consiguió el nombre del otro el conjunto de (.) eh@s:cym&spa y dio el apellido de los chicos . 467740_474747
 %eng:	er, I don't know how they got the name of the other, the group of... er, and he gave the boys' surnames.
-*LCT:	no lindo um@s:cym . 475083_476545
-%eng:	nice, um...
+*LCT:	no lindo hm@s:cym . 475083_476545
+%eng:	nice, hm...
 *ALE:	sí . 476561_477553
 %eng:	yes.
 *LCT:	y [/] y vos dónde naciste Lucita@s:cym&spa ? 477476_479625
@@ -462,21 +457,21 @@
 *ALE:	prácticamente lo [///] en la escuela no lo podíamos hablar . 508141_511335
 %eng:	we practically couldn't speak it at school.
 *ALE:	pero sí en casa . 511298_513618
-%eng:	but at home - yes.
+%eng:	but at home, yes.
 *ALE:	entonces este cuando volvíamos a casa era todo un tema de tratar [///] queríamos hablar en galés . 513707_518481
 %eng:	so returning home was always a hot topic... we wanted to speak Welsh.
 *ALE:	yo sobre todo no [/] no tanto mis hermanos . 519982_522451
 %eng:	mostly me, not so much my siblings.
 *ALE:	pero yo hablaba todo en galés . 522766_524905
 %eng:	but I spoke just in Welsh.
-*ALE:	y cuando era el Eisteddfod@s:cym&spa de la juventud que también no era tanta la distancia pero sí significaba algo extra . 525257_534305
+*ALE:	y cuando era el eisteddfod@s:cym&spa de la juventud que también no era tanta la distancia pero sí significaba algo extra . 525257_534305
 %eng:	and when it was the Junior Eisteddfod, it wasn't so much the distance but, yes, that did mean something extra.
 *ALE:	mi papá deba el trabajo y todo . 534300_536545
 %eng:	Dad left work and everything.
-*ALE:	para el Eisteddfod@s:cym&spa de la juventud mi mamá me preparaba con una poesía . 536520_541525
+*ALE:	para el eisteddfod@s:cym&spa de la juventud mi mamá me preparaba con una poesía . 536520_541525
 %eng:	Mum prepared me with a poem for the Junior Eisteddfod.
 *ALE:	Llygoden_Bach@s:cym&spa se llamaba . 541541_543632
-%eng:	it was called 'Llygoden Bach'.
+%eng:	it was called "Llygoden Bach" [Little Mouse].
 *ALE:	y ella estaba el fin de semana ayudándome con la poesía . 544238_548388
 %eng:	and she would help me with the poem at the weekend.
 *ALE:	y cuando yo iba a la escuela que era el domingo a la tarde eh@s:cym&spa dentro del internado había una asistente eh@s:cym&spa una segunda mamá digo yo siempre porque fue así para mí eh@s:cym&spa ella antes de dormir a la noche me tomaba la poesía para ver si la decía bien . 548404_567877
@@ -499,7 +494,7 @@
 %eng:	everything that was prepared was done.
 *ALE:	entonces este (.) en una oportunidad subí al escenario . 595600_601069
 %eng:	so this... on this occasion, I went on stage.
-*ALE:	y quien tenía a cargo la conducción del Eisteddfod@s:cym&spa era Oscar@s:cym&spa . 601246_605950
+*ALE:	y quien tenía a cargo la conducción del eisteddfod@s:cym&spa era Oscar@s:cym&spa . 601246_605950
 %eng:	and Oscar was responsible for directing the Eisteddfod.
 *ALE:	Oscar@s:cym&spa Davies@s:cym&spa . 606059_606736
 %eng:	Oscar Davies.
@@ -530,8 +525,8 @@
 *LCT:	+< xxx . 642508_643575
 *ALE:	esporádicamente también no [/] no tan seguido . 643211_646891
 %eng:	sporadically too, not at all consistently.
-*LCT:	um@s:cym . 646848_647835
-%eng:	um...
+*LCT:	oh@s:cym&spa +... 646848_647835
+%eng:	oh...
 *LCT:	a mí por ejemplo yo nací un veintiocho de julio en las chacras más allá más arriba que Dolavon@s:cym&spa . 647874_651394
 %eng:	for example, I was born on 28th July in the farmhouses just above Dolavon.
 *LCT:	fuimos toda la primaria ahí a caballo porque no había otra forma para ir a la escuela . 654509_660194
@@ -540,7 +535,7 @@
 %eng:	and we were raised here.
 *LCT:	xxx a una legua y una chacra como de unos seis kilómetros . 660518_665366
 %eng:	[...] a league and a farmhouse about six kilometres away.
-*LCT:	y (.) &e mi taid@s:cym el papá de mi mamá <nos hizo> [/] me hizo cantar a mí . 665846_673611
+*LCT:	y (.) &m mi taid@s:cym el papá de mi mamá <nos hizo> [/] me hizo cantar a mí . 665846_673611
 %eng:	and my grandfather, my mother's father, made me sing.
 *LCT:	sí que él se da cuenta que yo tenía condiciones para cantar . 673581_676295
 %eng:	he certainly noticed that I had a talent for singing.
@@ -587,10 +582,9 @@
 %eng:	it was for a birthday.
 *ALE:	sí . 714032_714688
 %eng:	yes.
-*LCT:	um@s:cym . 714592_715408
-%eng:	um...
-*LCT:	y por eso este es um@s:cym . 715378_717431
-%eng:	and so this is, um...
+*LCT:	&=grunt . 714592_715408
+*LCT:	y por eso este es eh@s:cym&spa +... 715378_717431
+%eng:	and so this is, er...
 *ALE:	+< eh@s:cym&spa mi anécdota quizás no cuenta de los cuatro . 716535_720015
 %eng:	maybe I wasn't four in my story.
 *ALE:	pero sí de los seis o siete porque era pequeña no ? 720039_722764
@@ -611,10 +605,10 @@
 *LCT:	no sabía mucho de música . 737331_739347
 %eng:	I didn't know much about music.
 *LCT:	aunque había ido [?] . 739454_740819
-%eng:	 although I'd been...
-*LCT:	pero mi abuelo le [/] le cantaba el canto . 740776_743394
+%eng:	although I'd been...
+*LCT:	pero mi abuelo le [/] le cantaba el canto . 740776_743487
 %eng:	but my grandfather sang the song.
-*LCT:	él sabía Sol-fa@s:cym taid@s:cym . 743346_745464
+*LCT:	él sabía sol_ffa@s:cym taid@s:cym . 743476_745464
 %eng:	Grandad knew sol-fa.
 %com:	Sol-fa is a method of teaching singing.
 *LCT:	y le [/] le cantaba el canto . 745639_748599
@@ -627,8 +621,8 @@
 %eng:	so he was the accompaniment we had.
 *ALE:	sí . 752907_753382
 %eng:	yes.
-*LCT:	y varios chicos ahí de Tina@s:cym&spa John@s:cym&spa y la hermana y nosotros y otra familia más los Stammers@s:cym&spa Ane@s:cym&spa . 756091_766788
-%eng:	and some of Tina John's chilldren, and the sister, and us, and another family too, the Stammers family, Ane.
+*LCT:	y varios chicos ahí de Tina@s:cym&spa John@s:cym&spa y la hermana y nosotros y otra familia más los Lewis@s:cym&spa Ane@s:cym&spa . 756091_766788
+%eng:	and some of Tina John's chilldren, and the sister, and us, and another family too, the Lewis family, Ane.
 *LCT:	eh@s:cym&spa los chiquitos venían a [/] a ensayar donde taid@s:cym . 766755_770435
 %eng:	the children came to rehearse where Grandad...
 *ALE:	todos participaban con gran entusiasmo . 771238_773515
@@ -641,7 +635,7 @@
 %eng:	six now, participating in choirs and...
 *LCT:	yo después que vine a Trelew@s:cym&spa . 779361_782780
 %eng:	me, after I went to Trelew...
-*LCT:	empecé en el coro de xxx San@s:cym&spa David@s:cym&spa que decían antes no? 782850_787389
+*LCT:	empecé en el coro de xxx San_David@s:cym&spa que decían antes no? 782850_787389
 %eng:	I started in the Saint David [...] choir like we said before, you see?
 *ALE:	sí . 786461_786802
 %eng:	yes.
@@ -655,7 +649,7 @@
 %eng:	...which was called Joso.
 *LCT:	y de ahí eh@s:cym&spa . 798786_800226
 %eng:	and from there, er...
-*LCT:	xxx andaba con el presidente del Eisteddfod@s:cym&spa . 800189_802535
+*LCT:	xxx andaba con el presidente del eisteddfod@s:cym&spa . 800189_802535
 %eng:	[...] went with the president of the Eisteddfod.
 *LCT:	y nos iba a [/] a [/] a [/] a pedir permiso para sábado . 808077_808877
 %eng:	and we went to ask permission for Saturday.
@@ -705,7 +699,7 @@
 %eng:	eh?
 *LCT:	ahora después estuvo (.) el negro López@s:cym&spa con el coro . 855510_860747
 %eng:	now, then the black lady López was with the choir.
-*LCT:	bueno canté en el Eisteddfod@s:cym&spa con el negro López@s:cym&spa . 860751_862964
+*LCT:	bueno canté en el eisteddfod@s:cym&spa con el negro López@s:cym&spa . 860751_862964
 %eng:	ok, I sang in the Eisteddfod with López, the black lady.
 *LCT:	después eh@s:cym&spa (.) no me acuerdo quien lo siguió después . 863033_867934
 %eng:	then I don't remember who came next.
@@ -713,7 +707,7 @@
 %eng:	and then Mary Davies came next.
 *ALE:	claro &ma Mary@s:cym&spa sí . 870020_871428
 %eng:	I see, Mary, yes.
-*LCT:	que ahora en estos momentos está en Gales@s:cym&spa . 871383_873218
+*LCT:	que ahora en estos momentos está en Gales . 871383_873218
 %eng:	...who is in Wales at the moment.
 *LCT:	sí . 873255_873698
 %eng:	yes.
@@ -731,7 +725,7 @@
 %eng:	no, I don't have...
 *ALE:	creo que a mitad de mes . 883044_884436
 %eng:	I think it's mid month.
-*ALE:	y bueno Mary@s:cym&spa fue quien preparó el coro de capilla en la oportunidad que yo subí también en el Eisteddfod@s:cym&spa de [/] de adultos dos años atrás . 884508_892747
+*ALE:	y bueno Mary@s:cym&spa fue quien preparó el coro de capilla en la oportunidad que yo subí también en el eisteddfod@s:cym&spa de [/] de adultos dos años atrás . 884508_892747
 %eng:	and ok, Mary is the one who prepared the chapel's choir the time I'd also been to the adult's Eisteddfod two years previously.
 *ALE:	dos o un poquito más quizás . 892752_894405
 %eng:	two or perhaps a little more.
@@ -770,11 +764,11 @@
 *ALE:	+< sí . 917661_918013
 %eng:	yes.
 *LCT:	es muy lindo tener una persona así que [/] que continúe [?] porque se canta más fácil . 918373_924525
-%eng:	it's very nice having a person like this who carries on	because she sings so easily.
+%eng:	it's very nice having a person like this who carries on because she sings so easily.
 *ALE:	sí . 924502_925409
 %eng:	yes.
-*LCT:	um@s:cym ? 925651_925998
-%eng:	um?
+*LCT:	mm@s:cym ? 925651_925998
+%eng:	mm?
 *ALE:	sí . 925939_926169
 %eng:	yes.
 *ALE:	yo igual no tengo eh@s:cym&spa no encuentro que yo tenga una voz linda para cantar ni nada . 926147_931885
@@ -924,7 +918,7 @@
 *ALE:	exactamente . 1096251_1097350
 %eng:	exactly.
 *LCT:	entonces eh@s:cym&spa íbamos <a la casa del> [//] en mi casa hablábamos el galés y el castellano . 1097293_1103154
-%eng:	so we went to the house of... We spoke Welsh and Spanish in my house.
+%eng:	so we went to the house of... we spoke Welsh and Spanish in my house.
 *LCT:	porque en la escuela (.) teníamos que estar &u castellano . 1104195_1107854
 %eng:	because we had to speak Spanish at school.
 *ALE:	+< castellano sí . 1107256_1108440
@@ -969,7 +963,7 @@
 %eng:	yes.
 *ALE:	eh@s:cym&spa me pasaba a mí cuando veníamos a la zona así de Trelew@s:cym&spa con mis papás . 1157250_1162679
 %eng:	er, it happened to me when we went to an area like that in Trelew with my parents.
-*ALE:	y (.) íbamos a la casa <de una> [/] de una tía de mi mamá , Nena@s:cym&spa . 1162678_1168105
+*ALE:	y (.) íbamos a la casa <de una> [/] de una tía de mi mamá Nena@s:cym&spa . 1162678_1168105
 %eng:	and we went to my mother's auntie's house, Nena.
 *ALE:	te acordás de Nena@s:cym&spa ? 1168853_1169903
 %eng:	do you remember Nena?
@@ -1028,8 +1022,7 @@
 *LCT:	y el chico le contestó +"/. 1272240_1274214
 %eng:	and the boy answered him:
 *LCT:	+" xxx . 1274070_1275168
-%com:	"feidde"??? I'm really not sure about this word - I've never heard it.
-%com:	unless she intended to say maidd, I'm not really sure either.
+%com:	"feidde"??? I'm really not sure about this word - I've never heard it. Unless she intended to say maidd, I'm not really sure either.
 *LCT:	xxx es en galés . 1275527_1277324
 %eng:	it's [...] in Welsh.
 *ALE:	claro . 1277271_1277772
@@ -1110,7 +1103,7 @@
 %eng:	er...
 *LCT:	+, los chiquititos aprenden . 1381220_1382639
 %eng:	... the children learn.
-*ALE:	+< en esta semana a principios de semana nos visitaba un matrimonio galés que habían venido para el Eisteddfod@s:cym&spa con su hija . 1382314_1390994
+*ALE:	+< en esta semana a principios de semana nos visitaba un matrimonio galés que habían venido para el eisteddfod@s:cym&spa con su hija . 1382314_1390994
 %eng:	at the beginning of this week, we were visited by a Welsh couple who had come for the Eisteddfod with their daughter.
 *ALE:	y ellos se asombraban de la cantidad de cosas escritas en galés que había dentro de la escuela . 1390968_1395933
 %eng:	and they were astonished at the amount of things written in Welsh inside the school.
@@ -1241,11 +1234,10 @@
 %eng:	it's the same in November too.
 *ALE:	así que este está bastante inestable el tiempo digamos el clima . 1521551_1525807
 %eng:	so it's quite unstable, the weather, let's say the climate.
-%com:	long pause.
+@Comment:	pause
 *ALE:	es este . 1529664_1531264
 %eng:	it is this.
-*LCT:	+< um@s:cym . 1529765_1530373
-%eng:	um...
+*LCT:	+< xx +... 1529765_1530373
 *LCT:	y en la mañana a qué hora entrás acá Alejandra@s:cym&spa ? 1531398_1534422
 %eng:	and in the morning what time do you come in Alejandra?
 *ALE:	+< xxx . 1531596_1532561
@@ -1317,14 +1309,14 @@
 %eng:	only one little girl... but it was because her godmother was there, you know?
 *ALE:	ah@s:cym&spa Diana@s:cym&spa sería ? 1623528_1625342
 %eng:	ah, was it Diana?
-*LCT:	Jeny@s:cym&spa . 1625331_1626222
-%eng:	Jeny.
-*ALE:	ah@s:cym&spa Jeny@s:cym&spa . 1625966_1626894
-%eng:	ah, Jeny.
+*LCT:	Jenny@s:cym&spa . 1625331_1626222
+%eng:	Jenny.
+*ALE:	ah@s:cym&spa Jenny@s:cym&spa . 1625966_1626894
+%eng:	ah, Jenny.
 *LCT:	sí . 1627870_1628238
 %eng:	yes.
-*LCT:	pero yo le decía a Paola@s:cym&spa que Jeny@s:cym&spa es hermosa . 1628259_1632804
-%eng:	but I told Paola that Jeny is lovely.
+*LCT:	pero yo le decía a Paola@s:cym&spa que Jenny@s:cym&spa es hermosa . 1628259_1632804
+%eng:	but I told Paola that Jenny is lovely.
 *LCT:	cuando vino a la escuela no sabía hablar ni el castellano . 1632800_1636256
 %eng:	when she came to school she didn't even know Spanish.
 *ALE:	+< cierto . 1635019_1635627
@@ -1349,8 +1341,8 @@
 %eng:	she was a soloist in the university choir.
 *ALE:	qué bueno ! 1658475_1659957
 %eng:	how good!
-*LCT:	um@s:cym ? 1659904_1660587
-%eng:	um?
+*LCT:	hm@s:cym ? 1659904_1660587
+%eng:	hm?
 *ALE:	mirá vos si no es importante . 1660587_1662331
 %eng:	you see if it's not important.
 *LCT:	sí . 1660736_1661269
@@ -1359,8 +1351,8 @@
 %eng:	and this group was here.
 *ALE:	sí . 1664220_1664828
 %eng:	yes.
-*LCT:	um@s:cym ? 1664817_1665372
-%eng:	um?
+*LCT:	hm@s:cym ? 1664817_1665372
+%eng:	hm?
 *LCT:	así que +... 1665361_1666550
 %eng:	so...
 *ALE:	sí sí sí . 1665692_1666545
