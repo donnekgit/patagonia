@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -81,7 +80,7 @@
 *LIN:	+< [- spa] no más mayor . 55460_57375
 %eng:	no, older.
 *LIN:	[- spa] mayor cuaren(ta) cincuenta . 57363_60145
-%eng:	older - forty, fifty.
+%eng:	older: forty, fifty.
 *LIN:	[- spa] cincuenta y algo . 60169_61253
 %eng:	fifty something.
 *ISA:	[- spa] pero es mayor que ella entonces . 60617_61730
@@ -108,7 +107,7 @@
 *ISA:	como@s:spa Andreina@s:cym&spa debe@s:spa ser@s:spa +//. 72383_73797
 %eng:	because Andreina must be...
 *LIN:	+< Alberto@s:cym&spa no@s:spa mayor@s:spa . 72752_74645
-%eng:	Alberto, no - older.
+%eng:	Alberto, no, older.
 *LIN:	[- spa] sí . 76037_76947
 %eng:	yes.
 *ISA:	+< ah@s:cym&spa . 76303_76567
@@ -198,10 +197,9 @@
 %eng:	[...] surely?
 *LIN:	[- spa] ella es menor que papá . 144183_145236
 %eng:	she's younger than Dad.
-*ISA:	[- spa] y tío tío xxx [?] . 145223_148079
+*ISA:	[- spa] y tío [/] &m tío xxx [?] . 145223_148079
 %eng:	and Uncle [...].
-%com:	possibly Welsh.
-%com:	tío Maelor.
+%com:	possibly Welsh?    tío Maelor?
 *LIN:	+< xxx [?] . 147704_148834
 %com:	possibly Welsh.
 *ISA:	el@s:spa menor@s:spa de@s:spa la@s:spa familia@s:spa de@s:spa George@s:cym&spa . 149333_152254
@@ -322,8 +320,8 @@
 %eng:	the, eh, Bertha who's a cousin... one of auntie Ann's daughters.
 *ISA:	ah@s:cym&spa . 257386_259482
 %eng:	ah.
-*LIN:	no@s:spa de@s:spa Any@s:cym&spa . 261597_263277
-%eng:	no, Any's.
+*LIN:	no@s:spa de@s:spa Annie@s:cym&spa . 261597_263277
+%eng:	no, Annie's.
 *LIN:	hermana@s:spa de@s:spa Don@s:cym&spa , Bartha@s:cym&spa casada@s:spa con@s:spa Jonathan@s:cym&spa Terri@s:cym&spa . 264413_268077
 %eng:	Don's sister Bertha, married to Jonathan Terri.
 *ISA:	[- spa] sí sí sí sí sí . 264988_266269
@@ -344,7 +342,7 @@
 %eng:	they were three sisters.
 *ISA:	+< [- spa] sí sí sí tienes razón . 273976_276126
 %eng:	yes, yes you're right.
-*LIN:	+< y@s:spa Amelia@s:cym&spa (.) casada@s:spa con@s:spa Myvyr@s:cym&spa . 275590_279510
+*LIN:	+< y@s:spa Amelia@s:cym&spa (.) casada@s:spa con@s:spa Myfyr@s:cym&spa . 275590_279510
 %eng:	and Amelia... married to Myfyr.
 *ISA:	con@s:spa con@s:spa Myfyr@s:cym&spa pariente@s:spa . 278614_280811
 %eng:	to Myfyr, a relative.
@@ -399,10 +397,10 @@
 *ISA:	[- spa] xxx [?] hablar en galés . 314810_316560
 %eng:	[...] speak in Welsh.
 *LIN:	xxx be wyt ti isio siarad &=laugh ? 316642_320141
-%eng:	what do you want to speak?
+%eng:	what do you want to talk (about)?
 *ISA:	wel dewch i ni siarad rywbeth &=laugh um +... 318413_322530
-%eng:	well, let's speak... something, um...
-*ISA:	uh oedda fi isio &g gofyn i ti (.) os (y)dy Catalina@s:cym&spa yn dal i fyw yn +/. 322974_329800
+%eng:	well, let's talk about something, um...
+*ISA:	uh oedda fi isio &g gofyn i ti (.) os (y)dy &n Catalina@s:cym&spa yn dal i fyw yn +/. 322974_329800
 %eng:	uh, I wanted to ask you if Catalina still lives in...
 *LIN:	++ lan y môr ? 329822_330590
 %eng:	on the coast?
@@ -414,8 +412,10 @@
 %eng:	she does?
 *LIN:	yndy . 331855_332388
 %eng:	yes.
-*ISA:	maen nhw (y)n sefyll fan (a)cw (y)na [?] +..? 337791_339444
-%eng:	they're staying over there..?
+*LIN:	be [/] be wyt ti +/. 333798_334972
+%eng:	what do you...
+*ISA:	+< <a maen nhw> [/] (.) a maen nhw (y)n (..) meddwl sefyll fan (a)cw neu [?] +..? 333954_339444
+%eng:	and are they thinking of staying over there or..?
 *LIN:	+< na maen nhw wrthi yn uh um wneud y tŷ . 339188_341716
 %eng:	no, they're busy doing the house.
 *LIN:	a <maen nhw> [/] maen nhw xxx +/. 341876_342890
@@ -428,16 +428,16 @@
 %eng:	ah, on the farm?
 *LIN:	yn y fferm ia . 345159_346034
 %eng:	on the farm, yes.
-*LIN:	mae xxx wedi codi at xxx y ffenestri . 346162_348690
-%eng:	[...] has risen to [...] the windows.
-*ISA:	wel xxx . 348807_350034
-%eng:	well, [...].
+*LIN:	<maen nhw> [?] wedi codi xxx y ffenestri . 346162_348690
+%eng:	they've raised [...] the windows.
+*ISA:	wel <(dy)na dda> [?] ! 348807_350034
+%eng:	well, that's good!
 *LIN:	+< ia . 349394_349756
 %eng:	yes.
-*LIN:	ond uh dw i ddim yn gwybod sut mae <hi yn mynd i> [//] (.) fasai yn byw yn yr eh@s:cym&spa newid y tŷ . 349928_355080
-%eng:	but I don't know how she's going to... she'd live in the, uh, change the house.
+*LIN:	ond uh dw i ddim yn gwybod <lle mae (y)n mynd i> [//] (.) fasai hi (y)n <fyw yn yr> [//] eh@s:cym&spa newid y tŷ . 349928_355080
+%eng:	but I don't know where she's going to... whether she'd live in the, er, change the house.
 *LIN:	mae o (y)n fach iawn iddi fyw efo babi yn [/] yn glan y môr . 355101_358184
-%eng:	it's small for her to live with a baby on the coast.
+%eng:	it's very small for her to live with a baby on the coast.
 *ISA:	hon ? 358320_358630
 %eng:	this one?
 *ISA:	aha@s:cym&spa yn [/] yn +//. 358672_359494
@@ -448,12 +448,12 @@
 %eng:	ah, on the coast.
 *LIN:	yn lan y môr . 360948_361642
 %eng:	on the coast.
-*LIN:	a mae lan y môr yn neis . 361652_363167
-%eng:	and the coast is nice.
+*LIN:	a mae uh lan y môr yn hyll [?] . 361652_363167
+%eng:	and the coast is ugly.
 *LIN:	mae yn oer . 363284_363978
 %eng:	it's cold.
-*LIN:	mae yn &f uh damp i (y)r hogan fach . 364106_366900
-%eng:	it's damp for the little girl.
+*LIN:	mae yn &f uh damp xx i hogan fach . 364106_366900
+%eng:	it's ... damp for a little girl.
 *ISA:	+< mae (y)n oer hwyrach <i (y)r hog(an)> [/] i (y)r hogan fach . 364479_366868
 %eng:	it might be cold for the little girl.
 *ISA:	wel +... 367060_367636
@@ -462,7 +462,8 @@
 %eng:	but, uh...
 *ISA:	wel mae yr haf yn dod nawr . 370133_371498
 %eng:	well, summer's on its way now.
-*LIN:	xxx . 371712_372277
+*LIN:	yndy [=! whispers] . 371712_372277
+%eng:	yes.
 *ISA:	fydd [/] fydd yn braf nawr yn yr haf . 372288_374314
 %eng:	it'll be sunny now in the summer.
 *LIN:	um ond uh mae (y)r tŷ yn dal ymlaen yn iawn ia . 377202_381458
@@ -483,12 +484,12 @@
 %eng:	what is "exertion" in Welsh?
 *LIN:	uh ymdrech ia ? 393231_394522
 %eng:	uh "effort", yes?
-*ISA:	ymdrech iawn siŵr . 394597_395951
-%eng:	"effort", surely.
-*ISA:	[- spa] si si . 396058_396581
+*ISA:	ymdrech xx siŵr . 394597_395951
+%eng:	"effort" ... surely.
+*ISA:	[- spa] sí sí . 396058_396581
 %eng:	yes, yes.
-*ISA:	fuest ti rywle efo mam yn y car [?] . 398835_401128
-%eng:	did you go somewhere with Mam in the car?
+*ISA:	est ti rywle efo mam yn y car ? 398835_401128
+%eng:	did you go anywhere with Mam in the car?
 *ISA:	yn y +... 401128_401630
 %eng:	in the...
 *LIN:	na dw i wedi pasio diwrnod uh teulu yn y fferm ddoe . 401441_405761
@@ -497,7 +498,7 @@
 *ISA:	+< na ? 402124_402721
 %eng:	no?
 *LIN:	fel dan ni yn arfer ni gyd . 405889_407724
-%eng:	how we all usually do.
+%eng:	like we're all used do.
 *ISA:	+< dydd Sul yn xxx +... 406391_407713
 %eng:	Sunday in [...]...
 *ISA:	(dy)na fo . 407799_408439
@@ -529,8 +530,8 @@
 %eng:	yes, yes.
 *ISA:	a mae +/. 435578_436357
 %eng:	and...
-*LIN:	fo ia . 435696_436464
-%eng:	him, yes.
+*LIN:	oh@s:cym&spa ia ! 435696_436464
+%eng:	oh yes!
 *LIN:	mae rhai yn wneud +... 437242_438288
 %eng:	some do...
 *ISA:	+< fo sy (y)n (.) cwcio ? 437498_439258
@@ -541,7 +542,7 @@
 %eng:	ah.
 *LIN:	ond eh@s:cym&spa Roberto@s:cym&spa sy (y)n cwcio pryd mae o adre . 441347_443789
 %eng:	but, eh, Roberto's the one who cooks when he's at home.
-*LIN:	eh@s:cym&spa xx i wneud um (..) fel <i i i> [/] i roid (.) beth &s +//. 444359_452039
+*LIN:	eh@s:cym&spa xx i wneud um (..) fel i [/] i [/] i [/] i roid (.) beth &s +//. 444359_452039
 %eng:	eh, [...] to do um... like, to put... what...
 *LIN:	[- spa] cómo se dice esto &=sigh (..) agradecerle . 452088_455726
 %eng:	how do you say this... "be grateful"?
@@ -558,17 +559,17 @@
 %eng:	supper.
 *LIN:	xxx allan eh@s:cym&spa . 468402_470823
 %eng:	[...] out, eh...
-*ISA:	bwyta . 469607_470322
-%eng:	eat.
+*ISA:	pizza@s:cym&spa [=? bwyta] . 469607_470322
+%eng:	pizza.
 *LIN:	ia . 470407_470898
 %eng:	yes.
-*LIN:	a be a wneud ryw fath o feast@s:eng i (y)r bobl agosaf i fi . 471184_476453
+*LIN:	a [/] &b a wneud ryw fath o feast@s:eng i (y)r bobl agosa i fi . 471184_476453
 %eng:	and what, do some sort of feast for the people closest to me.
 *ISA:	+< ah@s:cym&spa . 476389_476933
 %eng:	ah.
-*LIN:	a oedd nhw wedi helpu . 477125_478384
-%eng:	and they'd helped.
-*ISA:	teulu ti . 477754_478298
+*LIN:	eh@s:cym&spa oedden nhw wedi helpu . 477125_478384
+%eng:	they had helped.
+*ISA:	+< teulu ti . 477754_478298
 %eng:	your family.
 *LIN:	ia . 478405_478746
 %eng:	yes.
@@ -612,12 +613,12 @@
 %eng:	uh, speak in Spanish now.
 *LIN:	yn_ôl [?] . 510433_511211
 %eng:	back.
-%com:	at this point the speakers switch to Spanish again. Welsh resumes at 12:26
+@Comment:	at this point the speakers switch to Spanish again. Welsh resumes at 12:26 NB UNTRANSCRIBED MATERIAL HERE!! WWW VVV
 *ISA:	wel (.) jam tomato . 746818_748290
 %eng:	well, tomato jam.
 *ISA:	digon o jam tomato . 748344_749699
 %eng:	enough tomato jam.
-*ISA:	[- spa] si . 749838_750179
+*ISA:	[- spa] sí . 749838_750179
 %eng:	yes.
 *ISA:	ond mae o dim yn (.) flasus iawn . 750520_752931
 %eng:	but it's not very tasty.
@@ -627,8 +628,8 @@
 %eng:	do you like tomato?
 *LIN:	yndw dw [/] dw i (y)n hoffi o . 753528_755864
 %eng:	yes, I like it.
-*ISA:	ti (y)n licio gwyrdd . 754488_755982
-%eng:	so you like green [ones]?
+*ISA:	+< ti (y)n licio nhw [?] gwyrdd . 754488_755982
+%eng:	so you like them green?
 *ISA:	tomato gwyrdd dw i (y)n licio . 756300_757548
 %eng:	I like green tomatoes.
 *LIN:	+< ia . 756983_757484
@@ -639,27 +640,28 @@
 %eng:	green tomato jam.
 *LIN:	a pintón@s:spa . 759063_760130
 %eng:	and ripening ones.
-*ISA:	a dyna fo (.) sí@s:spa . 760460_761527
+*ISA:	a (dy)na fo (.) sí@s:spa . 760460_761527
 %eng:	and that's it, yes.
 *LIN:	be ydy pintón@s:spa ? 761676_762562
 %eng:	what is "pintón"?
 *ISA:	ah@s:cym&spa dw i dim yn gwybod . 762615_763522
 %eng:	ah, I don't know.
 *LIN:	&=laugh . 763507_766792
-*LIN:	ti wedi aeddfedu (.) gormod . 766888_769523
-%eng:	you've ripened... too much.
+*ISA:	xxx [=! laughs] ! 764416_765669
+*LIN:	dim wedi aeddfedu (.) gormod . 766888_769523
+%eng:	not ripened, too much.
 *ISA:	(dy)na fo &=laugh gormod &=laugh . 768542_771208
 %eng:	that's it... too much.
 *ISA:	&=clears_throat . 771326_771838
 *ISA:	na yn licio sí@s:spa . 772722_774557
 %eng:	no, do like, yes.
-*LIN:	a plyms mae yna plyms i gael oes . 774685_778034
-%eng:	and plums, there are plums, yes.
-*LIN:	<mae (y)na> [//] maen nhw (we)di [//] wedi (.) llosgi <efo (y)r> [/] uh efo rew [?] . 778555_783077
-%eng:	they've burnt with ice.
-*LIN:	ah@s:cym&spa efo ti [?] (y)na ? 782555_783451
-%eng:	ah, with you there?
-*LIN:	<na fu raid rai eraill oedd yndyn> [?] . 783892_786932
+*LIN:	a plyms <mae (y)na> [/] mae (y)na plyms i gael oes . 774685_778034
+%eng:	and plums, there are plums available, aren't there.
+*LIN:	<mae (y)na> [//] maen nhw dim [?] wedi (.) llosgi <efo (y)r> [/] uh efo rew [?] ? 778555_783077
+%eng:	they haven't been burned, with the ice.
+*LIN:	no efo ti na ? 782555_783451
+%eng:	no, with yours, no?
+*LIN:	<na fu raid rai eraill oedd yndyn> [?] . 783560_786932
 %eng:	no, some others, yes.
 *ISA:	wel dach chi (y)n lwcus . 786516_787252
 %eng:	well, you're lucky.
@@ -669,64 +671,64 @@
 %eng:	we get grapes to make jam.
 *ISA:	ah@s:cym&spa mae o (y)n trafferth yndy . 789060_792879
 %eng:	ah, it's a bother, isn't it?
+%com:	[f] on trafferth held a long time
 *LIN:	trafferthus ond mae o (y)n neis i bwyta dw i (y)n +... 791204_793977
 %eng:	bothersome but it's nice to eat I...
-*ISA:	a wyt ti (y)n tynnu y (.) uh um +... 793401_796207
+*ISA:	a wyt ti (y)n tynnu um (.) y um +... 793401_796207
 %eng:	and do you take the, um..?
-*LIN:	xxx siwgwr . 795662_799544
-%eng:	[...] sugar.
+*LIN:	na xxx yli be dw i (y)n xxx uh berwi nhw heb siwgwr . 795662_799544
+%eng:	no [...] see, what I do [...] boil them without sugar.
 *ISA:	heb siwgwr ? 799608_800483
 %eng:	without sugar?
-*LIN:	a xxx um +... 801187_803363
-%eng:	and [...] um...
-*ISA:	sgimio . 802222_802883
-%eng:	skim.
+*LIN:	a wneud y [/] yr um +... 801187_803363
+%eng:	and do the, um...
+*ISA:	++ sgimio ? 802222_802883
+%eng:	skimming?
 *LIN:	ia yr hadau . 803363_804344
 %eng:	yes, the seeds.
 *ISA:	ia . 804682_805172
 %eng:	yes.
 *LIN:	a roid y siwgwr wedyn . 805567_806719
-%eng:	and put the sugar after.
+%eng:	and put in the sugar afterwards.
 *ISA:	ah@s:cym&spa . 806804_807786
 %eng:	ah.
 *LIN:	a gorffen tynnu (y)r hadau wedyn . 807092_808852
 %eng:	and finish taking the seeds out later.
-*ISA:	a mae o (y)n hawdd xxx ? 807903_808852
+*ISA:	a mae o (y)n hawdd xxx ? 807903_809179
 %eng:	and it's easy [...]?
-*LIN:	yndy yndy maen nhw (y)n codi fyny . 809290_811103
+*LIN:	yndy yndy maen nhw (y)n codi i_fyny . 809290_811103
 %eng:	yes, yes, they rise.
-*ISA:	a maen nhw yn codi (y)dy ? 811434_812394
+*ISA:	a maen nhw yn codi (y)dy [?] ? 811434_812394
 %eng:	and they rise, do they?
 *LIN:	ydyn . 811626_811988
 %eng:	yes.
 *LIN:	yndy ydyn . 812404_813194
 %eng:	yes, yes.
-*LIN:	wedyn [?] mae rhaid bod chydig bach yn [/] yn chwilio amdani rhaid . 813641_817427
+*LIN:	wedyn [?] mae rhaid bod ychydig bach yn [/] yn chwilio amdani rhaid . 813641_817427
 %eng:	then a few must be looking for it, surely.
 *ISA:	+< ah@s:cym&spa si@s:spa si@s:spa . 814078_815689
 %eng:	ah, yes, yes.
-*ISA:	+< ah@s:cym&spa gallai drio . 816990_818067
+*ISA:	+< ah@s:cym&spa galla i drio . 816990_818067
 %eng:	ah, I can try.
 *LIN:	si@s:spa mae o (y)n hawdd . 818231_819148
 %eng:	yes, it's easy.
-*LIN:	mae o dim mor xxx . 819351_820482
-%eng:	it's not so [...].
+*LIN:	mae o dim mor &h annodd eh@s:cym&spa . 819351_820482
+%eng:	it's not so hard, eh.
 *ISA:	+< (dy)na fo . 820492_821058
 %eng:	that's it.
-*LIN:	xxx a yr uh jeli Quincies@s:cym&spa [?] . 821100_824770
-%eng:	[...] and the, uh, quince jelly.
-%com:	cwinsys.
-*ISA:	+< oh@s:cym&spa Quincies@s:cym&spa . 823884_824930
+*LIN:	a xx a yr uh jeli &m cwinsys . 821100_824770
+%eng:	and the, uh, quince jelly.
+*ISA:	+< oh@s:cym&spa cwinsys . 823884_824930
 %eng:	oh quinces.
 *ISA:	oh@s:cym&spa . 825048_825474
 %eng:	oh.
-*LIN:	dw i (y)n wneud (r)hei (y)na &b +//. 825528_826680
-%eng:	I make them.
+*LIN:	dw i (y)n wneud (r)heina &b +//. 825528_826680
+%eng:	I make those...
 *ISA:	oh@s:cym&spa . 826114_826712
 %eng:	oh.
 *LIN:	wnes i dim +/. 826850_827757
 %eng:	I didn't...
-*ISA:	jam gorau i fi ydy (.) jam Quincies@s:cym&spa (.) si@s:spa . 827437_830872
+*ISA:	jam gorau i fi ydy (.) jam cwinsys (.) si@s:spa . 827437_830872
 %eng:	my favourite jam is quince jam, yes.
 *LIN:	aha@s:cym&spa . 830114_830690
 %eng:	yes.
@@ -734,46 +736,48 @@
 %eng:	I've been making them for many years.
 *LIN:	dw i (y)n wneud o . 836449_836919
 %eng:	I make it.
-*LIN:	ond uh llynedd oedd yna dim Quincies@s:cym&spa o(eddw)n i â dim awydd wneud nhw . 836919_840001
-%eng:	 but, uh, last year there weren't quinces, I didn't have the desire to make them.
+*LIN:	ond uh llynedd oedd (y)na dim cwinsys neu [?] dim awydd wneud nhw . 836919_840001
+%eng:	but, uh, last year there were no quinces, or no desire to make them.
 *ISA:	ah@s:cym&spa . 840055_840737
 %eng:	ah.
 *ISA:	dim amser a dim awydd &=laugh . 841357_842455
 %eng:	no time and no desire.
 *LIN:	dim amser a dim awydd . 842370_843607
 %eng:	no time and no desire.
-*LIN:	a wnes i ddim wneud . 844674_845965
+*LIN:	a [/] (.) a wnes i ddim wneud . 843675_845965
 %eng:	and I didn't make [them].
 *ISA:	&=cough . 845303_846306
-*LIN:	a dan ni (y)n uh weld y colled (.) (e)leni . 846285_848727
-%eng:	and we notice that we miss having them this year.
+*LIN:	a dan ni (y)n uh weld y colled (.) (e)leni . 846285_850024
+%eng:	and we're missing them this year.
 *ISA:	aha@s:cym&spa (dy)na fo . 848941_850114
 %eng:	yes, that's it.
-*ISA:	wedyn ar_ôl (.) &=cough misoedd yn pasio dyna fo mae (y)r peswch yn efo fi &=cough . 850363_859376
-%eng:	then after months have passed, that's it, I have a cough.
-*ISA:	dylsa fi gael swits . 861877_864234
+*ISA:	wedyn ar_ôl (.) &=cough misoedd yn pasio (.) dyna fo . 850363_856531
+%eng:	then after months have passed, that's it.
+*ISA:	mae (y)r peswch efo fi xx &=cough . 856542_859406
+%eng:	I have a cough.
+*ISA:	dylsa fi gael (.) swits . 861877_864234
 %eng:	I should take sweets.
 *ISA:	switisian . 864341_864970
 %eng:	a sweetie.
 *ISA:	no switsian ? 865184_866048
-%eng:	 no, a "sweetie"?
+%eng:	no, a "sweetie"?
 *ISA:	xxx . 866293_866581
 *ISA:	dw i (y)n gallu symud . 866807_867789
 %eng:	I can move.
-*ISA:	xxx baglu fan (h)yn . 868781_870263
-%eng:	[...] tripping here.
-*LIN:	oedd Mariana@s:cym&spa wedi xxx peswch yma neithiwr [//] ddoe . 871060_875252
-%eng:	Mariana had [...] this cough yesterday.
+*ISA:	(dy)ma bag fi fan (h)yn . 868781_870263
+%eng:	here's my bag.
+*LIN:	oedd Mariana@s:cym&spa (we)di xxx switsian uh peswch (y)ma neithiwr [//] ddoe . 871060_875252
+%eng:	Mariana had [...] this cough-sweet yesterday.
 *ISA:	+< oh@s:cym&spa . 874708_875753
 %eng:	oh.
 *LIN:	a methu cael ei tynnu xxx hi . 875657_877972
-%eng:	and couldn't have her [...] taken off.
-*LIN:	mae (y)n mynd xxx <mis mis> [/] mis ia . 878285_882391
-%eng:	she's going to [...] month, yes.
-*ISA:	+< <mae hi> [/] <mae hi (y)n> [/] mae hi (y)n fach <oedden ni (y)n deud> [/] oedden ni (y)n deud . 880930_884525
-%eng:	we were saying that she's small.
+%eng:	and couldn't get her [...] taken off.
+*LIN:	mae (y)n mynd (.) xxx uh fis [/] mis ia . 878285_882391
+%eng:	she's going to [...] a month, yes.
+*ISA:	+< (dy)na hi <mae hi (y)n> [/] mae hi (y)n fach <oedden ni (y)n deud> [/] oedden ni (y)n deud . 880930_884525
+%eng:	that's her, we were saying that she's little.
 *LIN:	uh xxx mae hi (y)n deud . 884237_885997
-%eng:	 uh [...] she says.
+%eng:	uh [...] she says.
 *ISA:	xxx (dy)na fo . 884841_885929
 %eng:	[...] that's it.
 *ISA:	xxx . 886057_886963
@@ -782,15 +786,15 @@
 *LIN:	xxx . 887646_887966
 *LIN:	a mae hi (y)n gofyn bob bore pryd mae hi (y)n codi +"/. 888201_890078
 %eng:	and she asks every morning when she gets up:
-*LIN:	+" dad nain xxx . 890483_892617
-%eng:	dad, grandma [...]?
+*LIN:	+" taid nain xxx ? 890483_892617
+%eng:	"grandad, grandma [...]?"
 *ISA:	wel +... 892812_893762
 %eng:	well...
-*LIN:	a mae (y)n dod a mae (y)n annwyl efo fi ydy <(y)r un> [/] yr un sy yn fwy annwyl efo hi . 893975_898882
-%eng:	and she comes and she's a darling with me, the one that's nicest to her.
-*LIN:	yn uh cusanu hi a pob peth . 900002_902679
+*LIN:	a mae (y)n dod a mae (y)n annwyl efo fi ydy <(y)r un> [/] yr un sydd mwy annwyl efo hi . 893975_898882
+%eng:	and she comes and she's a darling with me, the one that's nicer to her.
+*LIN:	yn uh &re cusanu hi a bopeth . 900002_902679
 %eng:	kissing her and everything.
-*ISA:	+< tynnu bob peth yn yr xxx . 900471_902839
+*ISA:	+< tynnu bob peth xxx . 900471_902839
 %eng:	pulling everything in the [...].
 *LIN:	a oedd hi xxx mynd <i rŵm> [//] uh i (y)r bedrŵm a orwedd yn y gwely . 903167_908265
 %eng:	and she would [...] go to the bedroom and lie on the bed.
@@ -800,7 +804,7 @@
 %eng:	and they get permission with her?
 *LIN:	mm ? 912642_913122
 %eng:	what?
-*ISA:	oes (y)na caniatáu <i i> [/] i +..? 913357_914882
+*ISA:	oes (y)na caniatáu i [/] i [/] i +..? 913357_914882
 %eng:	is there permission to..?
 *LIN:	+< &n oes . 914663_915527
 %eng:	yes.
@@ -809,8 +813,8 @@
 *LIN:	oes . 915900_916535
 %eng:	yes.
 *ISA:	&=gasp . 915959_916631
-*LIN:	<i i> [/] i xxx oes . 916863_918773
-%eng:	to [...] yes.
+*LIN:	i [/] i [/] i Mariana@s:cym&spa oes . 916863_918773
+%eng:	for Mariana, yes.
 *ISA:	i (y)r hogan fach mm +... 917711_918751
 %eng:	for the little girl, mm...
 *LIN:	oes oes . 919130_920101
@@ -957,7 +961,7 @@
 *ISA:	[- spa] está la televisión . 1066151_1067799
 %eng:	it's the TV.
 *LIN:	[- spa] yo me agarró la cabeza viendo a mis dos nietas una de un año y otra de un año y ocho meses nueve meses que no saben comer . 1067901_1077661
-%eng:	I held my head in my hands watching my two nieces - one is a year old and the other a year and nine months - who didn't know how to eat.
+%eng:	I held my head in my hands watching my two nieces, one is a year old and the other a year and nine months, who didn't know how to eat.
 *ISA:	+< [- spa] no yo era más estricta con la comida . 1077186_1079687
 %eng:	no, I was very strict with eating.
 *LIN:	+< [- spa] y los papás no saben hacerlas comer . 1078231_1082205
@@ -1075,8 +1079,8 @@
 %eng:	no, no.
 *LIN:	[- spa] y xxx . 1158788_1160505
 %eng:	and [...].
-%com:	noise with her mouth.
-*LIN:	[- spa] hígado zapallo fideos todo . 1160582_1164443
+%com:	immitates food processor.
+*LIN:	[- spa] hígado &em zapallo fideos todo . 1160582_1164443
 %eng:	liver, pumpkin, noodles, everything.
 *ISA:	+< [- spa] el chico no aprende a masticar . 1164073_1165595
 %eng:	the child doesn't learn to chew.
@@ -1159,7 +1163,7 @@
 *LIN:	+< por@s:spa que@s:spa Roberto@s:cym&spa estaba@s:spa con@s:spa nosotros@s:spa para@s:spa &se [/] para@s:spa almorzar@s:spa . 1231314_1234540
 %eng:	because Roberto was with us having dinner.
 *ISA:	meddyliwch dada a mam yn y bwrdd (.) a ni (y)n fach . 1233488_1237829
-%eng:	just think, dad and mum at the table and us young.
+%eng:	just think, dad and mum at the table, and us young.
 *LIN:	+< ia . 1236602_1237082
 %eng:	yes.
 *LIN:	a ti ddim yn licio y pwdin chuño@s:spa ? 1238621_1240743
@@ -1173,16 +1177,16 @@
 %eng:	"go up to sleep".
 *LIN:	oeddet ti ddim yn licio (y)r pwdin chuño@s:spa . 1242382_1244313
 %eng:	you didn't like the chuño pudding.
-*ISA:	aha@s:cym&spa oedda fi ddim yn licio pwdin xxx +... 1243726_1245881
+*ISA:	aha@s:cym&spa oedda fi ddim yn licio pwdin +... 1243726_1245881
 %eng:	yes, I didn't like the [...] pudding.
-*LIN:	oeddet ti (y)n lluchio fo i llawr &=laugh . 1245186_1247719
+*LIN:	oeddet ti (y)n lluchio fo i (y)r llawr &=laugh . 1245186_1247719
 %eng:	you would throw it to the floor.
-*ISA:	[- spa] si . 1246162_1247511
+*ISA:	[- spa] sí . 1246162_1247511
 %eng:	yes.
 *ISA:	oedda fi (y)n +... 1247740_1248364
 %eng:	I would...
 *LIN:	gest ti cweir dro (y)na . 1248406_1250289
-%eng:	 you were beaten that time.
+%eng:	you were beaten that time.
 *ISA:	+< be ? 1248705_1249009
 %eng:	what?
 *ISA:	xxx yr un un xxx dw i (y)n credu . 1249694_1252169
@@ -1319,7 +1323,6 @@
 %eng:	sure.
 *ISA:	[- spa] aparte porque cuando el padre xxx [?] pega es doblemente . 1341983_1347348
 %eng:	but when the father [...] it's double.
-%com:	Welsh word?
 *LIN:	+< [- spa] sí sí . 1346446_1347480
 %eng:	yes, yes.
 *ISA:	[- spa] sí . 1347534_1348280
@@ -1382,7 +1385,7 @@
 %eng:	crying, an awful slap.
 *LIN:	<yr fwy> [//] yr cweir fwyaf wnes i cael yn y bywyd (.) efo dada . 1399247_1403823
 %eng:	the biggest slap Dada ever gave me.
-*ISA:	+< yn y &bu &=laugh +... 1401994_1403413
+*ISA:	+< yn y &bi &=laugh +... 1401994_1403413
 %eng:	in the...
 *ISA:	ah@s:cym&spa . 1404050_1404999
 %eng:	ah.
@@ -1410,7 +1413,7 @@
 %eng:	but I was a naughty girl of course.
 *ISA:	+< ond oedda ni +/. 1420481_1421425
 %eng:	but we...
-*ISA:	na (.) oedden ni (y)n cael amser uh (..) um (..) gwahanol yn y yn y fferm uh . 1422323_1430505
+*ISA:	na (.) oedden ni (y)n cael amser uh (..) um (..) gwahanol <yn y> [/] yn y fferm uh . 1422323_1430505
 %eng:	no, we always had a different time on the farm.
 *LIN:	+< dw i (y)n meddwl . 1423187_1423934
 %eng:	I think.
@@ -1427,12 +1430,10 @@
 %eng:	mm...
 *LIN:	oedd y +/. 1441442_1442157
 %eng:	the...
-*ISA:	oeddech chi (y)n wneud rywbeth yn yr afon ? 1441709_1443021
-%eng:	did you do something in the river?
-*LIN:	oedden xxx . 1443063_1444269
+*ISA:	oeddech chi (y)n bathio yn yr afon uh fel plant ? 1441636_1444045
+%eng:	did you used to bathe in the river, as children?
+*LIN:	+< oedden xxx . 1443063_1444269
 %eng:	yes, [...].
-*ISA:	+< y [//] yr plant ? 1443095_1444045
-%eng:	the children?
 *LIN:	na uh dim adref . 1444269_1445549
 %eng:	no, uh, not at home.
 *LIN:	ddim yn lle ni . 1445591_1446391
@@ -1442,14 +1443,14 @@
 *ISA:	na . 1446423_1446861
 %eng:	no.
 *LIN:	oedden ni (y)n mynd i lle xxx i bathio . 1446679_1449026
-%eng:	we'd go to [...]'s place to bathe.
+%eng:	we'd go to x's place to bathe.
 *ISA:	ah@s:cym&spa . 1448759_1449485
 %eng:	ah.
 *LIN:	oedd yr bechgyn fwyaf yn uh edrych ar_ôl ni . 1449207_1451874
 %eng:	the older boys would look after us.
 *ISA:	(dy)na fo . 1452072_1452627
 %eng:	that's it.
-*LIN:	ond na (.) oedd nhw dim yn gadael ni i bathio yn yr afon yn lle ni . 1452392_1456147
+*LIN:	ond na (.) o(edde)n nhw dim yn gadael ni i bathio yn yr afon yn lle ni . 1452392_1456147
 %eng:	but no, they didn't allow us to bathe in the river at our place.
 *LIN:	oedd (y)na dim lle i bathio . 1456531_1457779
 %eng:	there was no room to bathe.
@@ -1477,17 +1478,17 @@
 %eng:	yes.
 *ISA:	ah@s:cym&spa . 1476306_1477042
 %eng:	ah.
-*LIN:	ond uh oedden ni (y)n mynd i xxx i bathio oedden . 1476487_1479623
-%eng:	but, uh, we would go to [...] to bathe, yes.
-*LIN:	lle mae hwn . 1480430_1481273
-%eng:	where does this..?
+*LIN:	ond uh oedden ni (y)n mynd i lle xxx i bathio oedden . 1476487_1479623
+%eng:	but, uh, we would go to x's place to bathe, yes.
+*LIN:	lle mae hwn ? 1480430_1481273
+%eng:	where is this?
 %com:	presumably referring to microphone.
 *ISA:	oedd um +/. 1481465_1482745
-*LIN:	ond oedd uh wyt ti (y)n cofio oedd yna lot o teuluoedd yn er pryd oedden nhw yn eistedd y bwrdd oedden nhw yn mynd a gwialen bach . 1482947_1489891
+*LIN:	ond oedd uh wyt ti (y)n cofio oedd yna lot o teuluoedd yn er pryd o(edde)n nhw yn eistedd y bwrdd o(edde)n nhw yn mynd â gwialen bach . 1482947_1489891
 %eng:	but there were, uh, do you remember that there were a lot of families who would take a little cane when they sat at the table?
-*ISA:	na ddim adref . 1490437_1491504
+*ISA:	na dim adref . 1490437_1491504
 %eng:	no, not at home.
-*LIN:	uh . 1490619_1491333
+*LIN:	uh +... 1490619_1491333
 %eng:	uh...
 *LIN:	ddim adre ? 1491417_1492025
 %eng:	not at home?
@@ -1498,20 +1499,20 @@
 *ISA:	na na na . 1493166_1494339
 %eng:	no, no.
 *LIN:	oedden ni fod i fynd i [/] i [/] i [/] i nôl hi allan . 1494062_1497497
-%eng:	we were supposed to go and get her.
-*ISA:	[- spa] nada [?] . 1494425_1495161
-%eng:	nothing.
-%com:	not sure whether she's saying 'nada' or 'naddo'
-*ISA:	dim adre . 1495246_1496153
+%eng:	we were supposed to go and get it outside.
+*ISA:	<na na> [?] . 1494425_1495161
+%eng:	no.
+%com:	not sure whether she's saying 'nada' or 'na na'
+*ISA:	ddim adre . 1495246_1496153
 %eng:	not at home.
 *LIN:	chwilio am un reit pigog . 1497600_1499594
 %eng:	looking for quite a sharp one.
 *ISA:	&=laugh . 1497642_1500117
-*LIN:	a dod a hi fewn a gadael hi yn yr ochr dde mam . 1500277_1503466
+*LIN:	a dod â hi fewn a gadael hi yn yr ochr dde mam . 1500277_1503466
 %eng:	and bringing it in and leaving it on Mum's right side.
 *ISA:	na na dim ni . 1503360_1505749
 %eng:	no, no, not us.
-*LIN:	xxx oedd xxx ddim yn iwsio un yn [/] yn y bwrdd . 1503846_1507100
+*LIN:	+< xxx oedd xxx ddim yn iwsio un yn [/] yn y bwrdd . 1503846_1507100
 %eng:	[...] didn't use one at the table.
 *ISA:	na na siŵr . 1506502_1507356
 %eng:	no, no, sure.
@@ -1519,7 +1520,7 @@
 %eng:	but it was there in case.
 *ISA:	rhag ofn (dy)na fo . 1509361_1510225
 %eng:	in case, that's it.
-*LIN:	a oedda ni (y)n eistedd pob un yn ei lle . 1510342_1512380
+*LIN:	oedden ni (y)n eistedd pob un yn ei lle . 1510342_1512380
 %eng:	each one of us sat in our places.
 *ISA:	ah@s:cym&spa bob un oh@s:cym&spa . 1512455_1513564
 %eng:	ah, each one, oh.
@@ -1571,10 +1572,10 @@
 %eng:	but out in the...
 *ISA:	dim yn y tŷ . 1552766_1553608
 %eng:	not in the house.
-*LIN:	oedda ni wedi menthyg i [/] (..) i xx am gyfnodau pryd y llosgodd yr uh storm nhw . 1554269_1561501
+*LIN:	oedden ni wedi menthyg i [/] (..) i xx am gyfnodau pryd y llosgodd yr uh storm nhw . 1554269_1561501
 %eng:	we'd lent it to [...] for times when the storm burned them.
-*ISA:	+< wel +... 1556254_1556904
-%eng:	well...
+*ISA:	+< wel ! 1556254_1556904
+%eng:	well!
 *ISA:	+< oeddech chi (y)n [/] yn [/] yn tynnu um (.) y bwrdd allan yn y Haf ? 1560841_1565609
 %eng:	would you pull the table out during the summer?
 *LIN:	nac oedden . 1565747_1566398
@@ -1583,12 +1584,12 @@
 %eng:	to have food under the trees.
 *LIN:	<oedd gynno ni> [/] oedd gynno ni (.) rwmsys bach . 1566909_1571421
 %eng:	we had little rooms.
-*LIN:	ti (y)n cofio . 1571698_1572306
+*LIN:	ti (y)n cofio ? 1571698_1572306
 %eng:	do you remember?
 *ISA:	oh@s:cym&spa dw i (y)n cofio . 1572573_1573672
 %eng:	oh, I remember.
-*LIN:	a oedden ni (y)n xxx mam yn [/] yn cwcio arna fo . 1573288_1575784
-%eng:	and we would [...] mum would cook on it.
+*LIN:	a oedden ni (y)n xxx mam yn cwcio xx (dy)na fo . 1573288_1575784
+%eng:	and we would [...] mum would cook [...] that's it.
 *LIN:	a efo bwrdd a oedden ni (y)n bwyta weithiau allan . 1575914_1578580
 %eng:	and with a table and we ate outside sometimes.
 *LIN:	mmhm fel eh@s:cym&spa &pa eh@s:cym&spa &pant +//. 1579306_1581418
@@ -1597,7 +1598,10 @@
 %eng:	that is, not a pantry but a shed or something like that.
 *ISA:	mmhm . 1586388_1587284
 %eng:	yes.
-%com:	Switch to spanish until end of recording.
+@Comment:	Switch to spanish until end of recording WWW VVV
+*ISA:	www cegin bob dydd . 1606442_1608613
+%eng:	[...] kitchen every day
+@Comment:	Switch to spanish until end of recording WWW VVV
 *LIN:	[- spa] no no no no creo . 2008362_2009556
 %eng:	no, no I don't think.
 @End
