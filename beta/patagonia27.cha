@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial:-19:0
 @UTF8
 @Begin
 @Languages:	spa, cym
@@ -12,16 +12,16 @@
 @Time Duration:	00:27:45
 @Media:	Patagonia27, audio
 @Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.
-*PED:	las flores +//. 128_651
-%eng:	the flowers.
-*PED:	tampoco adelantan nada xxx . 635_3655
-%eng:	they don't make any progress either, you see [...] .
-*PED:	viste que no [/] no [/] no . 3655_4898
-%eng:	you see they don't.
-*PED:	están ahí . 5625_6659
+*PED:	las flores tampoco adelantan nada . 29_1899
+%eng:	the flowers don't make any progress either.
+*PED:	&ten [//] tengo el jardín ahí . 1829_3558
+%eng:	I have the garden there .
+*PED:	y viste que no [/] no [/] no . 3655_4898
+%eng:	and you see they don't.
+*PED:	están ahí . 5428_6014
 %eng:	they're there.
-*PED:	pero nacieron pero +//. 6643_8019
-%eng:	but they were born but...
+*PED:	que nacieron pero +//. 6643_8019
+%eng:	that they were born but...
 *PED:	les cuesta muchísimo este (.) este crecer porque tanto frío a la noche no [/] no [/] no adelanta nada . 8949_18889
 %eng:	it is hard for them to grow because it is very cold at night.
 *ALI:	no y este año no sé si va a haber gladiolos para fin de año tampoco . 19629_23635
@@ -55,22 +55,24 @@
 %eng:	yes, there was.
 *PED:	+< sí sí . 63580_64188
 %eng:	yes yes.
-*PED:	sí . 64604_65122
+*PED:	sí ? 64604_65122
 %eng:	yes.
 *ALI:	sí . 65132_65868
 %eng:	yes.
-*ALI:	eh@s:cym&spa los vecinos tienen uh hoy [///] anoche no taparon la [/] la verdura . 70460_74695
-%eng:	today the neighbors have... they didn't cover the vegetables last night.
-*PED:	no no este anoche no . 74694_77052
+*ALI:	eh@s:cym&spa los vecinos tienen la olla +// . 70382_72313
+%eng:	the neighbours have the pot.
+*ALI:	anoche no taparon la  [/] la verdura . 72194_74230
+%eng:	they didn't cover the vegetables last night.
+*PED:	no no este anoche no . 74147_76863
 %eng:	no, last night they didn't.
-*PED:	este (.) me estaba diciendo recién el +... 76988_80062
+*PED:	este (.) me estaba diciendo recién el +//. 76988_80062
 %eng:	the ... was just telling me...
 *ALI:	+< sí . 78579_79027
 %eng:	yes.
-*PED:	+, el viejito que [/] que tenía miedo que anoche helara me dice . 80660_86385
+*PED:	+, el viejito que [/] que tenía miedo que anoche helara dice . 80753_86320
 %eng:	the little old man who was afraid that there would be a frost last night told me.
-*PED:	como no lo habían tapado pero no . 86444_89127
-%eng:	because they hadn't covered it.
+*PED:	no lo habían tapado pero no . 86444_89127
+%eng:	they hadn't covered it.
 *PED:	pero no [/] no [/] no lo taparon . 90313_92613
 %eng:	but no, they didn't cover it.
 *PED:	y no heló . 92603_93557
@@ -81,19 +83,22 @@
 %eng:	it's something.
 *PED:	hacía ocho . 94240_95872
 %eng:	it was 8.
-*PED:	ocho grados esta mañana cuando xxx se fijó el +... 96152_99443
-%eng:	it was 8 degrees this morning when the ... noticed .
+*PED:	ocho grados esta mañana cuando  el [//] se fijó el +... 96152_99443
+%eng:	it was 8 degrees this morning when he ... he noticed .
+*PED:	&=laugh . 99612_101563
+*PED:	sí 102968_104280 .
+%eng:	yes.
 *ALI:	lo que está viniendo lindo es el pasto . 106538_109285
 %eng:	what's becoming pretty is the pasture.
 *PED:	sí . 110050_110487
 %eng:	yes.
-*ALI:	el pasto está verde . 110490_111824
-%eng:	the pasture is green.
-*ALI:	lindo está . 111813_113104
-%eng:	it is beautiful.
+*ALI:	el pasto está verde lindo . 110498_111903
+%eng:	the pasture is green, beautiful.
+*ALI:	está +... 112274_113000
+%eng:	it is ...
 *ALI:	por lo menos habrá tenido buena cosecha de pasto . 116988_119798
 %eng:	at least there will have been a good harvest.
-*PED:	vos vas a ir a la Casa_de_té@s:cym&spa a trabajar hoy ? 121974_124955
+*PED:	vos vas a ir a la Casa_de_té@s:cym&spa a trabajar hoy ? 121891_124764
 %eng:	are you going to the Casa_de_té to work today?
 *ALI:	sí sí sí . 124950_126086
 %eng:	yes.
@@ -104,7 +109,7 @@
 %eng:	tourism.
 *PED:	+< sí . 131778_132194
 %eng:	yes.
-*PED:	este año ha habido mucho turista . 133057_135948
+ *PED:	este año ha habido mucho turista . 133060_135016
 %eng:	there have been a lot of tourists this year.
 *PED:	sí . 136001_137089
 %eng:	yes.
@@ -122,16 +127,16 @@
 %eng:	someone will come.
 *PED:	+< mm@s:cym . 153018_153509
 %eng:	mm.
-*ALI:	ahora en la Casa_de_Té@s:cym&spa las flores están hermosas porque (.) han puesto plantas nuevas con [?] una cantidad de flores impresionante . 157104_164769
+*ALI:	ahora en la Casa_de_Té@s:cym&spa las flores están hermosas porque (.) han puesto plantas nuevas con una cantidad de flores impresionante . 157104_164769
 %eng:	in the Casa de Té, the flowers are beautiful because they have new plants with an amazing amount of flowers.
 *PED:	mm@s:cym . 164970_166522
 %eng:	mm.
-*PED:	xxx sigues cuando [?] el tiempo . 170903_174983
-%eng:	[...] you continue when... the weather.
-@Comment:	long pause.
+*PED:	xxx sigues con (.) el tiempo . 170903_174983
+%eng:	[...] you continue with... the weather.
+%com:	long pause.
 *ALI:	&=laugh . 187751_190461
-*ALI:	terminaste de podar el cerco xxx . 190388_192612
-%eng:	did you finish pruning the hedge xxx ?
+*ALI:	terminaste de podar el cerco de ligustro ? 190500_192131
+%eng:	did you finish pruning the privet hedge?
 *PED:	sí . 192585_193433
 %eng:	yes.
 *PED:	sí . 193470_194648
@@ -140,9 +145,9 @@
 %eng:	that's ready.
 *PED:	está no más pa(ra) juntar no más la +... 195274_196650
 %eng:	it's just a matter of joining the ...
-*PED:	+, los cortes las ramas . 199361_200671
+*PED:	+, los cortes las ramas . 199390_200575
 %eng:	...the cuttings and the branches.
-*PED:	pero ya está todo cortado . 200671_202618
+*PED:	y pero ya está todo cortado . 200671_202618
 %eng:	but everything has been cut now.
 *PED:	eso (.) y +... 203264_207776
 %eng:	exactly, and... [change]
@@ -150,19 +155,21 @@
 %eng:	but the farm worker didn't come back to finish the wood there.
 *PED:	+< xxx . 208308_208879
 *PED:	+< xxx . 210271_211055
+*PED:	+<no 210638_212084 .
+%eng:	no.
 *ALI:	recién fui allá hasta xxx . 212623_214938
 %eng:	recently I went there xxx .
-*ALI:	todavía quedaba . 214858_216575
+*ALI:	y ví que todavía quedaba . 214146_216102
 %eng:	there was still (some).
 *PED:	sí . 216741_218095
 %eng:	yes.
-*PED:	no (.) no creo que venga . 220727_222961
+*PED:	no (.) no creo que venga . 219589_222927
 %eng:	no, I don't think he'll come.
-*PED:	no creo que va a venir . 222951_224119
+*PED:	no creo que va a venir . 222880_224436
 %eng:	no, I don't think he's coming.
 *PED:	consiguió un trabajo más cerca de (.) de Gaiman@s:cym&spa . 224428_229709
 %eng:	he found a job nearer Gaiman.
-*PED:	lo que tengo que empezar que me dijo Luis@s:cym&spa es a [/] a podar (.) encima [?] de los cerezos tengo que +... 239054_245366
+*PED:	lo que tengo que empezar que me dijo Luis@s:cym&spa es a [/] a podar (.) encima de los (.) cerezos tengo que +... 234289_244715
 %eng:	Luis told me that I have to start pruning the tops of the cherry trees.
 *ALI:	+< de los cerezos . 243529_244553
 %eng:	of the cherry trees.
@@ -170,14 +177,14 @@
 %eng:	yes, because if not, they'll sprout...
 *PED:	sí se va todo en (.) en brotes y . 248187_250907
 %eng:	yes, they'll sprout and...
-*PED:	pierde fuerza para +... 251055_253951
+*PED:	pierde fuerza para +... 251036_253625
 %eng:	it loses strength for ...
 *ALI:	a ver si el año que viene va a haber cosecha . 253959_256397
 %eng:	let's see whether we have a good harvest next year.
-*PED:	en eso . 256338_257399
+*PED:	eso . 256338_257399
 %eng:	yes.
-*PED:	más son los años que [/] (..) <que no> [/] (...) que no sacamos nada . 258231_267811
-%eng:	most years we don't produce anything.
+*PED:	ya son dos años que [/] (.) <que no> [/] (.) que no sacamos nada . 258231_267811
+%eng:	we haven't produced anything for two years.
 *ALI:	y eso que estas son tardías . 269339_271728
 %eng:	and in this case, they are late .
 *PED:	sí . 271686_272619
@@ -192,40 +199,41 @@
 %eng:	they bloom early.
 *PED:	sí . 279574_280593
 %eng:	yes.
-*PED:	son de crecimiento más (.) más lento . 281689_285988
+*PED:	son de crecimiento más (.) más lerdo . 281689_285988
 %eng:	they grow more slowly.
 %com:	PED clears his throat .
+%com:	long pause.
 *PED:	este . 305550_306937
 %eng:	eh.
 *PED:	el (.) María estaba ayer <en el> [/] en el corral este temprano . 312021_319831
 %eng:	María was in the farmyard earlier.
 *PED:	a qué hora ? 319826_321052
 %eng:	at what time?
-*PED:	para empezar allí eran las seis de la mañana así que . 321504_324219
-%eng:	to start, it was 6 o'clock in the morning or so.
-*PED:	estaba ella en el corral . 324342_326582
+*PED:	empezaron allí a las seis de la mañana así que +... 321503_323953
+%eng:	they started there at 6 o'clock in the morning so...
+*PED:	+, estaba ella en el corral . 324342_326582
 %eng:	she was in the farmyard.
 *PED:	um@s:cym . 326615_327601
 %eng:	um
-*ALI:	bueno ahora anda bien . 327420_329175
-%eng:	well, now she is well.
-*PED:	sí . 329089_329767
+*ALI:	pero ahora anda bien . 327420_329175
+%eng:	but now she is well.
+*PED:	sí . 329065_329385
 %eng:	yes.
 *PED:	sí ahora anda bien . 329740_331746
 %eng:	yes, now she is well.
 *ALI:	hace tanto +/. 331724_332823
 %eng:	long time ago.
-*PED:	+< Roland@s:cym&spa y todos andan bien . 332876_334673
-%eng:	Roland and everyone are well.
+*PED:	+< <los chicos> [/] los chicos y todos andan bien . 331747_334708
+%eng:	the boys and everyone are well.
 *ALI:	hace tanto que no la veo . 335127_336913
 %eng:	I haven't seen her in a long time.
 *PED:	sí sí . 336926_338259
 %eng:	yes yes .
-*ALI:	y que ahí venden la leche acá en la chacra ? 342664_344638
-%eng:	and that there sell the milk here at the farm ? [check]
+*ALI:	y que ahí venden la leche acá en la chacra ? 342659_344557
+%eng:	and that there sell the milk here at the farm ?
 *ALI:	o qué hacen ? 344536_345464
 %eng:	or what do they do?
-*PED:	no no la vienen a buscar del tambo . 345442_348348
+*PED:	no no la vienen a buscar del tambo . 345452_348151
 %eng:	no, they come to pick it up from the dairy farm.
 *PED:	del [/] del tambo digo del (.) [//] de la quesería . 348130_351928
 %eng:	from the cheese factory
@@ -233,61 +241,61 @@
 %eng:	from the cheese factory?
 *PED:	sí . 352046_352552
 %eng:	yes.
-*PED:	xxx todo para la quesería . 352225_355059
-%eng:	xxx to the cheese factory.
-*PED:	los quesitos Chu@s:cym&spa [?] . 354924_357281
+*PED:	xxx va todo para la quesería . 352227_354624
+%eng:	xxx goes to the cheese factory.
+*PED:	los quesitos Chu@s:cym&spa . 354924_357281
 %eng:	the little Chu cheeses.
 *PED:	sí . 357174_358865
 %eng:	yes.
-@Comment:	pause.
+%com:	pause.
 *ALI:	no sé si hacen mucho queso ahora tampoco . 362393_365033
 %eng:	I don't know if they made a lot of cheese.
-*ALI:	no sé mucho de los negocios . 365028_366942
-%eng:	I don't know too many of the shops.
-*PED:	este +... 367779_369929
+*ALI:	no se ve mucho en los negocios . 365028_366942
+%eng:	It's not easily found in the shops.
+*PED:	este +... 367788_369605
 %eng:	eh...
 *PED:	por lo menos eh@s:cym&spa +... 369927_372674
 %eng:	at least ...
-*PED:	en los negocios (.) eh@s:cym&spa hay (.) eh@s:cym&spa queso rallado . 372831_382695
+*PED:	en los negocios (.) eh@s:cym&spa hay (.) este queso rallado +/ . 372791_381336
 %eng:	in the shops there is grated cheese.
-*ALI:	+< ah@s:cym&spa el queso rallado ah@s:cym&spa sí . 380871_383079
-%eng:	ah the grated cheese, yes.
+*ALI:	+< ah@s:cym&spa queso rallado ah@s:cym&spa sí . 380871_383079
+%eng:	ah grated cheese, yes.
 *PED:	todo eso llevan . 381633_382679
 %eng:	this is sold.
 *PED:	queso para rallar y el +/. 382654_384601
 %eng:	cheese for grating and the ...
-*ALI:	+< queso rallado sí se consume bastante bastante bueno . 383150_386707
-%eng:	grated cheese is rather eaten, very good [check].
+*ALI:	+< queso rallado sí se conserva bastante bastante bueno . 383150_386707
+%eng:	grated cheese stays fresh for a long time, very good.
 *PED:	+< sí . 384713_385289
 %eng:	yes.
 *PED:	sí . 386686_388345
 %eng:	yes.
 *PED:	sí . 388403_389625
 %eng:	yes.
-*PED:	eh@s:cym&spa . 391238_391724
-%eng:	eh.
-*ALI:	xxx o no . 392516_395001
-%eng:	xxx or not.
+*PED:	y +... . 391238_391724
+%eng:	and...
+*ALI:	estan llevando a Comodoro@s:cym&spa ahora o no . 392505_394757
+%eng:	are they supplying Comodoro now or not.
 *PED:	sí . 394863_395775
 %eng:	yes.
 *PED:	sí están llevando sí . 395748_397332
-%eng:	yes, (people) are buying, yes.
-*PED:	pero ese me parece que nada más que entregan [/] están entregando en la xxx y todas esas cosas (.) supermercados grandes . 397349_405739
+%eng:	yes, they are supplying, yes.
+*PED:	pero ese me parece que nada más que entregan [/] están entregando en La_Anónima@s:cym&spa y todas esas cosas (.) supermercados grandes . 397349_405739
 %eng:	but this, I think, they are bringing in the xxx and all these things, big supermarkets.
-*PED:	no no hacen reparto (.) a negocios chicos porque no están haciendo mucha cantidad . 405793_412822
+*PED:	no [/] no hacen reparto (.) a negocios chicos porque no están haciendo mucha cantidad . 405793_412822
 %eng:	they don't bring to small shops because they are not
 *PED:	sí . 414751_416132
 %eng:	yes.
 *PED:	está haciendo un poco de paté gras también xxx . 419403_422491
 %eng:	he's making a bit of paté as well.
-*PED:	así que hace un poquitico de todo . 422457_425139
+*PED:	así que hace un poquitito de todo . 422457_425139
 %eng:	so, he does a bit of everything.
 *PED:	sí . 428747_429163
 %eng:	yes.
 @Comment:	pause.
-*ALI:	que los repartidores son los +... 434625_437223
-%eng:	that, [check] the delivery people are the...
-*ALI:	los que entregan son los mismos de siempre ? 437137_439676
+*ALI:	que los repartidores son los +//. 434625_437223
+%eng:	so the delivery people are the...
+*ALI:	+, los que entregan son los mismos de siempre ? 437137_439676
 %eng:	people that deliver are always the same.
 *PED:	sí . 439625_440307
 %eng:	yes.
@@ -297,28 +305,28 @@
 %eng:	López' son
 *ALI:	pero este chico de hoy es muy bueno . 445045_446922
 %eng:	but the guy today was very good.
-*PED:	sí . 445733_446229
+*PED:	+< sí . 445733_446229
 %eng:	yes.
-*ALI:	como quesero es muy bueno . 446938_449130
-%eng:	as a cheese maker he's very good.
-*PED:	sí . 448506_448896
+*ALI:	como quesero xxx es muy bueno . 446938_449130
+%eng:	as a cheese maker xxx he's very good.
+*PED:	+< sí . 448506_448896
 %eng:	yes.
-*PED:	sí . 449226_451680
+*PED:	sí . 449059_449570
 %eng:	yes.
 *ALI:	aprendió desde el principio y +... 449784_451672
-%eng:	he learnt from the beginning and... [check]
-*PED:	sí . 449784_451672
+%eng:	he learnt from the beginning and...
+*PED:	+< sí . 449784_451672
 %eng:	yes.
 *ALI:	está trabajando muy bien . 452049_453361
 %eng:	he works very well.
-*PED:	sí sí . 452299_453227
+*PED:	+< sí sí . 452299_453227
 %eng:	yes yes.
 *PED:	él lleva unos cuantos años ahí . 453611_455233
 %eng:	he has been there for some years.
-*ALI:	xxx . 455233_456193
+*ALI:	um@s:cym . 455233_456193
 *ALI:	ya tiene práctica con (.) el trabajo . 456650_459125
 %eng:	he has practice with the work.
-*PED:	sí sí . 458357_459221
+*PED:	+< sí sí . 458357_459221
 %eng:	yes yes.
 *ALI:	pero lo que no debe haber es muchos tambos para entregar leche . 462581_466027
 %eng:	but there can't be many dairy farms to bring milk.
@@ -326,58 +334,60 @@
 %eng:	no.
 *PED:	no . 467498_467909
 %eng:	no.
-*ALI:	eh@s:cym&spa este de Trior@s:cym&spa que traía mucha leche . 474657_477367
+*ALI:	eh@s:cym&spa este de Trior@s:cym&spa que traía mucha leche . 474816_477045
 %eng:	eh, that one from Trior, that brought a lot of milk.
 *ALI:	pero no sé ahora (.) si estará trayendo . 477335_480103
 %eng:	but I don't know now if he'll be bringing any.
 *PED:	eh@s:cym&spa . 480383_481450
 %eng:	eh.
-*PED:	sí era el que más traía era este sí John@s:cym&spa . 481839_486116
-%eng:	yes, he was the one that used to bring more, this John.
-*ALI:	+< sí pero después +//. 484580_485924
+*PED:	sí era el que más traía era me parece este sí John@s:cym&spa . 481839_486116
+%eng:	yes, I think he was the one that used to bring more, this John.
+*ALI:	+< sí pero después +/. 484580_485924
 %eng:	yes but later.
-*ALI:	después dijeron que no que había dejado . 486102_488843
+*ALI:	+, después dijeron que no que había dejado . 486102_488843
 %eng:	later, they said that they had left ...
+*PED:	+< sí . 486268_486988
+%eng:	yes.
 *ALI:	no sé si está vendiendo terneros . 488838_490721
 %eng:	I don't know if he is selling calves.
-*ALI:	no sé xxx . 490694_491355
-%eng:	I don't know.
+*ALI:	no sé si +... 490694_491355
+%eng:	I don't know what.
 *PED:	sí . 491844_492388
 %eng:	yes.
 *ALI:	no está trayendo tanta leche . 492334_494329
 %eng:	he is not bringing so much milk.
 *PED:	sí . 494384_495440
 %eng:	yes.
-%com:	dog barks.
+@Comment:	dog barks.
 *ALI:	no . 498344_498707
 %eng:	no.
 *ALI:	Toro@s:cym&spa se dio cuenta que hay visita . 498668_500435
 %eng:	Toro realized that there are visitors.
-*ALI:	está ladrando . 500374_501244
-%eng:	he's barking.
-*PED:	no es que pasó con [/] con el tractor . 501292_503964
-%eng:	I don't know what happened with the tractor.
+*ALI:	ya está ladrando . 500374_501244
+%eng:	he's already barking.
+*PED:	no es que pasó Marcos@s:cym&spa  con [/] con el tractor . 501292_503964
+%eng:	No it's because Marcos passed by with the tractor.
 *PED:	Toro se siente [/] siente el tractor por eso está ladrando . 504701_508872
 %eng:	Toro hears the tractor, that's why he's barking.
-*ALI:	que habrá dejado de sembrar Lewis@s:cym&spa ya ? 512572_515127
-%eng:	has Lewis stopped sowing already?
-*PED:	y sí eran xxx . 515079_517353
-%eng:	and yes, they were xxx .
+*ALI:	que habrá dejado de sembrar Marcos@s:cym&spa ya ? 512572_515127
+%eng:	has Marcos stopped sowing already?
+*PED:	y sí era un cuadro xxx sembrar ahí . 515079_517961
+%eng:	and yes, they was a small area xxx sow there .
 *ALI:	ah@s:cym&spa . 516803_517886
 %eng:	ah.
 *ALI:	yo fui allá hoy . 518833_520204
 %eng:	I went there today.
 *ALI:	y Federico@s:cym&spa era el que estaba armando la sembradora . 520185_523172
-%eng:	and Federico was assembling the sower. [check]
-*PED:	+< con la sembradora que en un rato la [/] la siembra . 521859_524803
-%eng:	he sows quickly with the sower.
+%eng:	and Federico was assembling the sower.
+*PED:	+< y con la sembradora que en un rato la [/] la siembra . 521859_524803
+%eng:	and he sows quickly with the sower.
 *ALI:	pero esa papa debe ser media tardía . 528717_531992
 %eng:	but this potato must be late.
-*PED:	toda va a ser tarde . 531922_533858
+*PED:	toda va a ser tardia [=! laugh] . 531922_533858
 %eng:	they're all going to be late.
-*PED:	lo que pasa es que (.) la ponen en xxx viste . 533852_538070
-%eng:	what happens is that they put it in xxx, see.
-*PED:	no [/] no brota . 538623_539573
+*PED:	lo que pasa es que (.) la ponen en cámaras viste . 533852_538070
+%eng:	what happens is that they put it in cold stores, see.
+*PED:	no [/] no brota . 538579_539055
 %eng:	it doesn't sprout.
 *PED:	recién ahora se había puesto a brotar mucho ves . 539525_541717
 %eng:	just recently it was sprouting too much.
@@ -387,10 +397,10 @@
 %eng:	yes.
 *PED:	y ha cambiado tanto el clima que (.) ya no +... 545089_549207
 %eng:	and the weather has changed so much that ...
-*ALI:	lo que había ya para esta época era habas . 549176_551506
-%eng:	by this time, we usually had broad beans.
-*ALI:	pero no sé si haya . 551501_553192
-%eng:	but I don't know if there are any.
+*ALI:	y lo que había ya para esta época era habas . 549176_551506
+%eng:	and by this time, we usually had broad beans.
+*ALI:	pero no sé si hay ya . 551501_553192
+%eng:	but I don't know if there are are yet.
 *PED:	no he visto (.) en el negocio . 553388_556865
 %eng:	I haven't seen any in the shop.
 *ALI:	+< siempre para los primeros día de noviembre había habas . 555649_559208
@@ -399,28 +409,29 @@
 %eng:	yes.
 *PED:	no he visto en los negocios no . 559117_561079
 %eng:	I haven't seen them in the shops, no.
-*PED:	pero (.) algunos que tienen invernadero pueden tener . 561723_565832
+*PED:	pero algunos que tienen invernadero pueden tener . 561723_565832
 %eng:	but, some who have greenhouse may have them, yes.
 *PED:	sí . 565859_566323
 %eng:	yes .
 *PED:	&pue puede haber . 566405_568047
-%eng:	may have [check].
+%eng:	there may be.
 *ALI:	y los ajos también siempre estaban para Navidad . 568209_571484
 %eng:	and always by Christmas there was garlic too.
-*ALI:	sí . 571617_572177
+*PED:	sí . 571621_572004
 %eng:	yes.
 *PED:	bueno esos siguen estando para Navidad . 572081_574966
 %eng:	but they are still ready for Christmas.
-*PED:	sí xxx siempre saca para Navidad . 574972_577868
-%eng:	yes, xxx always have them for Christmas.
+*PED:	sí el vecino siempre saca para Navidad . 574972_577868
+%eng:	yes, the neighbour always have them for Christmas.
+%com:	cat meows.
 *ALI:	parece que uno de los gatos anda gritando por ahí . 585053_587400
 %eng:	it seems that one of the cats is screaming around there.
 *ALI:	quiere comer . 587389_588338
 %eng:	it wants to eat.
-*ALI:	sí . 588306_589768
+*PED:	sí . 588306_589768
 %eng:	yes.
-*PED:	viento otra vez xxx está empezando a soplar fuerte otra vez . 603307_607040
-%eng:	wind again xxx, it's starting to blow strong again.
+*PED:	viento otra vez ya está empezando a soplar fuerte otra vez . 603307_607040
+%eng:	wind again, it's already starting to blow strong again.
 *ALI:	y el otro día anduvieron las golondrinas así que +... 608253_611394
 %eng:	and the other day there were swallows
 *ALI:	cuando andan las golondrinas volando bajito (.) viento . 612592_617797
@@ -435,16 +446,18 @@
 %eng:	yes.
 *ALI:	los horneritos están haciendo sus [/] sus nidos . 625733_628960
 %eng:	the ovenbirds are making their nests.
-*PED:	han hecho uno ahí en el último +... 634391_637367
-%eng:	they made one there, in the last ...
-*PED:	xxx este año . 637752_641571
-%eng:	xxx this year xxx
+*PED:	sí . 628265_629019
+%eng:	yes.
+*PED:	han hecho uno ahí en el último +//. 634391_637367
+%eng:	they made one there, in the last.
+*PED:	+, sauce ahí han hecho (.) un año [//] un nido este año . 637752_641571
+%eng:	willow, they made there a nest this year.
 *PED:	xxx . 643805_644898
 *ALI:	cuando estaban los manzanos hicieron uno lindo ahí cerquita . 645498_649268
 %eng:	when the apple trees were there they made a beautiful one very nearby.
 *PED:	sí . 649170_649965
 %eng:	yes.
-*ALI:	+< después ya se van más lejos como hay tanto gato . 649242_652112
+*ALI:	+< después ya se van más lejos como hay tanto gato . 649339_651881
 %eng:	then, they go far away because there are so many cats.
 *ALI:	tienen miedo que los gatos los coma . 652112_653840
 %eng:	they are afraid of getting eaten by the cats.
@@ -454,7 +467,7 @@
 %eng:	they are very trusting.
 *ALI:	sí son &man se amansan enseguida . 659746_662690
 %eng:	yes, they become tame inmediately.
-*ALI:	los xxx se amansan enseguida . 663386_666650
+*ALI:	los horneros se amansan enseguida . 663386_666650
 %eng:	the ovenbirds become tame inmediately.
 *ALI:	por cierto de las semillas esas que traje el año pasado (.) de esas (.) margaritas todas . 673687_679789
 %eng:	by the way, the seeds that I brought last year, all daisies.
@@ -462,21 +475,21 @@
 %eng:	pompoms.
 *PED:	sí sí sí . 683741_685139
 %eng:	yes.
-*PED:	y esa están están puestas ahí . 685293_687501
-%eng:	and these are put there.[check]
-*PED:	y pues puse unas que me trajeron semillas de Chile también pero . 687814_691558
-%eng:	and then I put some that were brought, Chilean seeds, also but.[check]
-*PED:	hasta ahora no han nacido tampoco . 691563_693696
-%eng:	but so far there haven't born out.[check]
+*PED:	esa está [//] están puestas ahí . 685293_687501
+%eng:	these are sown there.
+*PED:	y despues puse unas que me trajeron semillas de Chile@s:cym&spa también pero +//. 687814_691558
+%eng:	and then I sowed some that I was given , Chilean seeds, also but.
+*PED:	+, hasta ahora no han nacido tampoco . 691563_693696
+%eng:	but so far there haven't sprout.
 *ALI:	xxx la semilla que puse ahí en (.) en el xxx . 694728_699268
-%eng:	xxx the seed that I puse there in the xxx. [check]
+%eng:	xxx the seed that I puse there in the xxx.
 *ALI:	y tampoco salió ni uno . 699268_701145
-%eng:	and anything grew either.[check]
+%eng:	and nothing grew either.
 *PED:	sí sí +/. 701134_701881
 %eng:	yes.
 *ALI:	+< yo espero que la planta que me dieron este (.) alcance a dar flor para ver cómo es . 701438_707254
 %eng:	I hope that the plant that they gave me blossoms, to see what the flower is like.
-*ALI:	claro . 706139_707062
+*PED:	claro . 706139_707062
 %eng:	of course.
 @Comment:	pause.
 *PED:	y el césped también ha [/] ha crecido . 714246_716193
@@ -485,13 +498,13 @@
 %eng:	it looks like I'll have to cut it this afternoon.
 *PED:	cortarlo . 719220_721284
 %eng:	cut it.
-*ALI:	cortarlo . 721289_721908
+*ALI:	cortarlo . 721259_721654
 %eng:	cut it
 *ALI:	y regarlo . 721881_722681
 %eng:	and water it.
 *PED:	um@s:cym . 722654_723844
-*PED:	el viento la seca muchísimo . 723853_725896
-%eng:	the wind dries it a lot.
+*PED:	el viento este seca muchísimo . 724063_725874
+%eng:	this wind dries it a lot.
 *ALI:	se seca . 725906_726583
 %eng:	it gets dry.
 *ALI:	si yo ayer regué todos los canteros allá en el borde (.) del alambrado y ya está . 726567_731861
@@ -500,30 +513,30 @@
 %eng:	yes.
 *ALI:	arriba está seco . 731824_733557
 %eng:	it was dry on the top.
-@Comment:	long pause.
+%com:	long pause.
 *ALI:	y estamos ya (.) a diez de noviembre ya . 748022_751932
 %eng:	and it's the 10th of November already.
-*PED:	cierto xxx . 751985_752902
-%eng:	true xxx.
+*PED:	cierto eh@s:cym&spa . 751985_752902
+%eng:	true.
 *PED:	sí . 754204_754791
 %eng:	yes.
 *ALI:	muy pronto van a empezar a terminar las clases los actos de fin de curso . 755767_759959
-%eng:	very soon it's gonna start to finish the classes, the acts celebrating end of the term.[check]
+%eng:	very soon it's gonna start to finish the classes, the proms.
 *PED:	sí . 760602_761695
 %eng:	yes.
-*ALI:	ya pronto hay que pensar en +... 763912_766083
+*ALI:	ya pronto hay que pensar en +//. 763912_766083
 %eng:	we have to think soon in ...
-*PED:	+, las fiestas . 766067_766979
+*PED:	+, en las fiestas . 766067_766979
 %eng:	the parties.
-*ALI:	en la fiesta hay que xxx . 766979_769262
-%eng:	in the parties there is xxx
-*PED:	comprar [?] al nieto . 769460_771481
-%eng:	to buy for the grandson .
+*ALI:	en la fiesta hay que comprale a Alberto@s:cym&spa . 766979_769262
+%eng:	in the party we have to buy something for Alberto.
+*PED:	hay que comprarle al nieto . 769460_771481
+%eng:	we have to buy for the grandson .
 *PED:	sí (.) xxx . 773208_775405
 %eng:	yes.
-@Comment:	long pause.
-*ALI:	los de la xxx me parece que el diecinueve hacen (.) la fiesta . 792917_797839
-%eng:	I think that the one from the xxx has the party on the 19th.
+%com:	long pause.
+*ALI:	los de la biotécnica me parece que el diecinueve hacen (.) la fiesta . 792917_797839
+%eng:	I think that the one from biotechnology has the party on the 19th.
 *PED:	ajá . 798664_800861
 %eng:	ah.
 *ALI:	eh@s:cym&spa termina (.) eh@s:cym&spa Ernesto@s:cym&spa . 798889_802937
@@ -549,56 +562,58 @@
 *ALI:	ya va a estar practicando seguro . 822169_824399
 %eng:	he must be practicing already, for sure.
 *PED:	um@s:cym . 824511_826009
-*ALI:	xxx que después va a cenar y el contento . 827181_830851
-%eng:	xxx that later he goes for dinner, and he's very happy with it.
+*ALI:	y a Alberto@s:cym&spa de dicen que después va a cenar y el contento . 827181_830851
+%eng:	and to Alberto they say that later he goes for dinner, and he's very happy with it.
 *PED:	&=laugh . 831070_831966
-@Comment:	long pause (approx 30 seconds).
+%com:	long pause (approx 30 seconds).
 *ALI:	acá en el almacén venden carne ahora ? 861684_863881
 %eng:	are they selling meat here in the shop now?
 *ALI:	o hay que encargarla . 865095_866668
 %eng:	or do we have to order it ?
-*PED:	no venden pero &t no no . 866639_869290
+*PED:	no venden pero &t no no +... 866639_869290
 %eng:	no, they sell but no no.
 *PED:	traen los lunes y cuando (.) lunes los martes y después ya no +... 870076_874785
-%eng:	they bring on monday. When, monday, tuesday, and then they don't...[check]
+%eng:	they bring on monday. When, monday, tuesday, and then they don't.
 *PED:	si se termina el jueves ya no traen hasta el otro lunes . 875376_878998
 %eng:	if it finishes by Thursday then, they don't bring it until the following monday
 *PED:	y si termina +//. 878949_880005
 %eng:	and if it finishes ...
-*PED:	por allá va aguanta hasta el sábado pero . 880005_882650
-%eng:	it last up to saturday but.[check]
+*PED:	por allá va [//] aguanta hasta el sábado pero . 880005_882650
+%eng:	it last up to saturday but.
 *PED:	no no no traen toda la semana . 883174_885814
 %eng:	no, they don't bring any all week.
 *PED:	así . 887231_888186
 %eng:	so.
 *PED:	este (.) una que no se consigue tampoco mucho acá . 889915_893525
-%eng:	something that is difficult to find here.[check]
+%eng:	something that is difficult to find here.
 *PED:	está medio escaseando como están +... 893543_895293
 %eng:	it is running short, because they are ...
 *PED:	como los (.) del campo están esquilando +//. 897023_900511
 %eng:	because the ones from the field are shearing...
 *PED:	no hasta que no terminen de esquilar no venden . 900503_903585
-%eng:	until they don't finish shearing they won't sell.[check]
+%eng:	until they don't finish shearing they won't sell.
 *ALI:	sí la época de los corderos ya se está pasando . 905247_908319
 %eng:	yes, the lamb season has finished already.
 *ALI:	ya están medio grandes ya . 908234_909711
 %eng:	they are kind of big already.
-*PED:	sí la [///] acá de los campos cerca pero . 910194_913122
+*PED:	eh@s:cym&spa sí la [///] acá de los campos cerca pero . 910194_913122
 %eng:	yes, the, here, from the nearer fields but.
-*PED:	xxx campos más lejos xxx . 913136_915472
-%eng:	xxx field further away xxx .
-*PED:	recién hay corderitos chicos (.) todavía . 915486_919743
+*PED:	xxx campos más lejos recién +// . 913268_914939
+%eng:	xxx field further away.
+*PED:	recién este hay corderitos chicos (.) todavía . 915486_919743
 %eng:	there are still some young sheep.
-*PED:	y más al sur igual con el frío más que [/] que . 920164_925358
-%eng:	and further south as well, with the cold.
-*ALI:	sí pero ayer estaba nevando en xxx . 925247_928132
-%eng:	yes, but yesterday it was snowing in XXX.
+*PED:	y más al sur igual con el frío hay más que [/] que xxx +/. 920164_925358
+%eng:	and further south as well, with the cold there are more than xxx.
+*PED:	el frío xxx . 925127_926184
+%eng:	the cold xxx.
+*ALI:	+< sí pero ayer estaba nevando en xxx . 925247_928132
+%eng:	yes, but yesterday it was snowing in xxx.
 *PED:	sí sí sí . 928122_929183
 %eng:	yes.
-*ALI:	así que debe estar bastante frío +//. 931304_933843
+*ALI:	así que debe estar bastante frío . 931304_933843
 %eng:	so, it must be very cold .
-*PED:	+< bueno acá a la península están xxx . 932584_934616
-%eng:	well, here in the peninsula, they are xxx.
+*PED:	+< ahora acá a la península están xxx +//. 932584_934616
+%eng:	now here in the peninsula, they are xxx.
 *PED:	+, están gordos ya grandotes . 934746_937072
 %eng:	they are fat and big.
 *ALI:	aunque hoy +/. 937586_939468
@@ -609,15 +624,15 @@
 %eng:	in Comodoro the temperature was higher than here.
 *PED:	sí sí sí . 942422_943648
 %eng:	yes.
-*PED:	el otro día cuando fui a pescar ahí eh@s:cym&spa en [/] en la península (.) estaban (.) los corderos . 947387_955101
+*PED:	el otro día cuando fui a pescar ahí eh@s:cym&spa en [/] en la península (.) estaba (.) los corderos . 947387_955101
 %eng:	the other day, when I went finishing there, in the peninsula, there were some young sheep.
-*PED:	había sin [/] sin esquilar habían ovejos . 955268_958542
-%eng:	there were some unsheared ones.
-*PED:	sin xxx a los ovejos . 958526_959956
-%eng:	young sheep without xxx.
+*PED:	habían sin [/] sin esquilar todavía la oveja . 955268_958542
+%eng:	there were some sheep unsheared .
+*PED:	sin señalar los corderos . 958526_959956
+%eng:	young sheep not marked.
 *ALI:	sí si está el tiempo frío . 959945_961987
 %eng:	yes, if the weather is cold.
-*ALI:	sí . 962057_962771
+*PED:	sí . 962057_962771
 %eng:	yes.
 *ALI:	xxx . 966389_968421
 *ALI:	antes sí . 968942_969843
@@ -631,7 +646,7 @@
 *PED:	&=gasp . 976506_977386
 *ALI:	una oveja recién esquilada xxx . 977702_980384
 %eng:	a sheep just recently sheared xxx
-*ALI:	no puede afeitar [?] . 980358_982198
+*ALI:	no puede afeitar . 980358_982198
 %eng:	it can't be shaved.
 @Comment:	pause.
 *ALI:	está muy variable también . 987590_989462
@@ -652,17 +667,18 @@
 %eng:	they couldn't get into the bus because it was raining.
 *ALI:	está feo . 1012346_1014346
 %eng:	it is awful.
-*ALI:	no no mejora el tiempo . 1014912_1016683
-%eng:	the weather doesn't get better.
+*ALI:	no no mejora . 1014912_1016683
+%eng:	it doesn't get better.
 @Comment:	long pause.
 *ALI:	&=laugh . 1036772_1040367
-*PED:	xxx . 1040964_1042447
+*PED:	parece que +... 1040964_1042447
+%eng:	it seems that...
 *PED:	se ha metido un gato en la cocina . 1042665_1044575
 %eng:	a cat got into the kitchen.
 *ALI:	y sí me parece que sí . 1044657_1046139
 %eng:	yes, I think that it did.
-*ALI:	y yo dejé comida arriba de la mesa . 1046214_1048470
-%eng:	and I left food on top of the table.
+*ALI:	porque yo dejé comida arriba de la mesa . 1046214_1048470
+%eng:	because I left food on top of the table.
 *PED:	um@s:cym . 1048443_1049430
 *ALI:	&=laugh . 1049524_1050713
 *ALI:	debe estar aprovechando . 1051755_1053691
@@ -674,18 +690,18 @@
 %eng:	I think they did.
 *PED:	creo que sí . 1067364_1068441
 %eng:	I think they did.
-*ALI:	a ver si sube ahora . 1068274_1070514
+*ALI:	a ver si sube ahora . 1068298_1069041
 %eng:	lets see if it goes up now.
-*PED:	ah@s:cym&spa hoy había mucha presión um@s:cym acá . 1069100_1071058
+*PED:	+< ah@s:cym&spa hoy había mucha presión um@s:cym acá . 1069100_1071058
 %eng:	today there was a lot of pressure.
-*ALI:	pueda ser que suba el agua al tanque porque si no . 1072350_1074820
-%eng:	I could be that the water goes up to the tank because, if not.[check]
+*ALI:	pueda ser que suba el agua al tanque porque si no +... 1072350_1074820
+%eng:	I could be that the water goes up to the tank because, if not...
 *PED:	sí . 1074868_1075769
 %eng:	yes.
 *ALI:	para llenar y lavar ropa y todo se va a complicar . 1076097_1078972
-%eng:	filling it and washing clothes is going to be complicated.[check]
-*PED:	xxx el tanque de arriba el tanque de abajo . 1082285_1086098
-%eng:	xxx the upper tank, the lower tank.
+%eng:	filling it and washing clothes is going to get complicated.
+*PED:	no pero xxx ya se llenó el tanque de arriba el tanque de abajo xxx así que +//. 1082285_1086098
+%eng:	not but xxx the upper tank is filled, the lower tank xxx so.
 *PED:	este +... 1087553_1088203
 %eng:	eh...
 *PED:	y hoy había en la canilla bastante . 1090811_1093088
@@ -700,42 +716,42 @@
 *PED:	sí . 1117661_1118482
 %eng:	yes .
 *PED:	debe estar cayendo xxx de sauces . 1118487_1121122
-%eng:	it must be falling xxx from the willows [check].
+%eng:	it must be falling xxx from the willows.
 *ALI:	y sí seguro . 1121091_1122835
 %eng:	yes, sure.
-*ALI:	yo lo que voy a tener que comprar es ese remedio para curar eh@s:cym&spa (.) la camelia esa de ahí adelante . 1123256_1129813
+*ALI:	yo lo que voy a tener que comprar es ese remedio para curar eh@s:cym&spa (.) la camelia esa de ahí adelante . 1123243_1129780
 %eng:	I will have to buy this medicine to treat the camelia, that one at the front.
 *ALI:	me está tirando los brotes lindos . 1130165_1132586
 %eng:	its budding beautifully.
 *PED:	+< um@s:cym . 1132462_1133331
 *ALI:	pero las hojas de abajo se están poniendo todas amarillas . 1132601_1135977
 %eng:	but the leaves from the bottom are getting all yellow
-*ALI:	+, manchadas . 1136168_1137422
+*ALI:	manchadas . 1136168_1137422
 %eng:	stained.
 *ALI:	voy a comprar el remedio para curarla . 1137934_1140115
 %eng:	I'm going to buy the medicine to treat it.
 *ALI:	xxx . 1144044_1146578
 @Comment:	long pause.
-*ALI:	y la xxx este año no dio flor . 1167291_1169365
-%eng:	and this year the xxx didn't bloom.
+*ALI:	y la glicina este año no dio flor . 1167291_1169365
+%eng:	and this year the clycine didn't bloom.
 *ALI:	se va terminar muriendo . 1169488_1170821
 %eng:	it will die eventually.
 *PED:	+< una [/] una sola flor dio . 1169937_1172407
 %eng:	it gave only one flower.
-*PED:	y la rompió xxx . 1172382_1174825
-%eng:	and xxx broke it
+*PED:	y la rompió el viento . 1172382_1174825
+%eng:	and the wind broke it
 *PED:	sí . 1174825_1175705
 %eng:	yes.
 *ALI:	se ve que ahí no le gusta el lugar . 1175683_1177475
 %eng:	it seems not to like that place.
 *PED:	no es +... 1177523_1179006
 %eng:	no, it's ...
-*PED:	le gusta ahí . 1180414_1181502
-%eng:	it likes it there.
+*PED:	no le gusta ahí . 1180414_1181502
+%eng:	it doesn't like it there.
 *PED:	xxx sola ahí . 1181486_1183812
 %eng:	xxx alone there.
-*PED:	xxx a ver si puede xxx . 1184948_1188596
-%eng:	xxx to see if it can xxx.
+*PED:	xxx a ver si puede xxx algún gajo . 1184948_1188596
+%eng:	xxx to see if it can xxx some cutting.
 *PED:	y +... 1190680_1191453
 %eng:	and ...
 *ALI:	la que está en plaza se pone linda . 1191861_1193968
@@ -748,21 +764,21 @@
 %eng:	xxx like a roof.
 *PED:	+< y eso que no la cuidan nada . 1199237_1200826
 %eng:	and nobody takes care of it.
-*ALI:	no porque eh@s:cym&spa eh@s:cym&spa está hecho como un techo ahí . 1200730_1203509
-%eng:	no, because it is done kind of a roof, there.[check]
+*ALI:	no porque eh@s:cym&spa eh@s:cym&spa está hecho como un techo ahí está +/. 1200730_1203509
+%eng:	no, because it is done kind of a roof, there, it is.
 *PED:	+< ajá porque la +//. 1200773_1202767
 %eng:	yes, because the...
-*PED:	xxx han puesto unos palos abajo y nada más . 1204424_1206840
-%eng:	they has placed some posts at the bottom, and that's it.
+*PED:	bueno han puesto unos palos abajo y nada más . 1204424_1206840
+%eng:	well, they have placed some posts at the bottom, and that's it.
 *PED:	sí . 1206962_1207853
 %eng:	yes.
-*ALI:	este allá al lado de la escuela xxx (.) al lado de xxx (.) la entrada esa también todo el techo cubierto . 1208823_1218992
+*ALI:	este allá al lado de la escuela xxx (.) al lado de xxx (.) la entrada esa también (.) todo el techo cubierto . 1208823_1218992
 %eng:	there, beside the school, xxx, the entrance has the roof also all covered.
 *ALI:	los copos_de_nieve@s:cym&spa este año con el viento se machucaron todos . 1226139_1229553
 %eng:	this year, because of the wind, all the guelder rose disappeared .
 *ALI:	no queda nada prácticamente . 1230809_1232868
 %eng:	there is more or less nothing.
-*ALI:	ayer dicen que había llegado <a la> [/] al vivero ahí a Gaiman habían llegado plantas lindas . 1237055_1244942
+*ALI:	ayer dicen que había llegado <a la> [//] al vivero ahí a Gaiman@s:cym&spa habían llegado plantas lindas . 1237055_1244942
 %eng:	they said yesterday that some beautiful plants arrived at the nursery.
 *ALI:	clavelinas claveles eh@s:cym&spa portulacas ya las plantas grandecitas . 1245619_1252164
 %eng:	pinks, carnations, purslanes, all the plants are already quite big.
@@ -773,19 +789,19 @@
 *ALI:	había lindas plantas . 1258713_1260313
 %eng:	there were some beautiful plants.
 *PED:	um@s:cym . 1260169_1261236
-*ALI:	ahora hay otro vivero en Gaiman nuevo . 1264670_1267518
+*ALI:	ahora hay otro vivero en Gaiman@s:cym&spa nuevo . 1264670_1267518
 %eng:	now, there is a new nursery in Gaiman.
 *PED:	ah@s:cym&spa sí ? 1268879_1269813
 %eng:	ah yes?
 *ALI:	sí . 1269845_1270623
 %eng:	yes.
-*ALI:	de Perla@s:cym&spa . 1270577_1271985
-%eng:	from Perla.
+*ALI:	de Anita@s:cym&spa . 1270577_1271985
+%eng:	from Anita.
 *ALI:	donde hizo la casa . 1274213_1275376
 %eng:	where she did the house.
 *PED:	eh@s:cym&spa ? 1276185_1276979
 %eng:	eh?
-*ALI:	Anita hizo un vivero de la casa . 1277043_1279438
+*ALI:	Anita hizo un vivero en la casa . 1277043_1279438
 %eng:	Anita did a nursery out of the house.
 *PED:	ah@s:cym&spa sí ? 1279494_1280150
 %eng:	ah yes?
@@ -801,15 +817,15 @@
 %eng:	what happens is that she is just recently starting.
 *ALI:	todavía le falta xxx (.) macetas y todo lo demás . 1296644_1301618
 %eng:	still, they're low on xxx, flowerpots and everything else XXX.
-*PED:	+< y [/] y [/] y tienen unos negocios en Gaiman@s:cym&spa ? 1300108_1304705
+*PED:	+< y [/] y [/] y tiene un eh@s:cym&spa un negocio en Gaiman@s:cym&spa ? 1300108_1304705
 %eng:	and do they have businesses in Gaiman?
-*ALI:	no que yo sepa el negocio es ese . 1305812_1308398
-%eng:	no, as far as I know the business is this one.
+*ALI:	que yo sepa el negocio es ese . 1305812_1308398
+%eng:	as far as I know the business is this one.
 *ALI:	vivero venta de plantas venta de (.) flores . 1309220_1312436
 %eng:	the nursery, selling plants and flowers.
 *PED:	no porque la vi el otro día viste en la [//] lo que era [///] donde estaba la farmacia Any@s:cym&spa . 1313729_1318908
 %eng:	no, because I saw her the other day, where Any's pharmacy was.
-*PED:	<ahí es(tá)> [//] ahí este está ella siempre ahí con el +//. 1320057_1325273
+*PED:	<ahí es(tá)> [//] ahí este está ella siempre ahí con el +... 1320057_1325273
 %eng:	she is always there, with the...
 *ALI:	ah@s:cym&spa no sé . 1325348_1326382
 *PED:	+< con (.) y cómo se llama ? 1325710_1328036
@@ -822,7 +838,7 @@
 %eng:	but I have seen her there on other occasions.
 *ALI:	sí capáz . 1333972_1334751
 %eng:	yes, it could be.
-*ALI:	yo la verdad es que no la he visto . 1334756_1336324
+*ALI:	yo la verdad es que no la he visto . 1334723_1335965
 %eng:	I haven't seen her.
 *PED:	o trabajará para alguien ahí . 1336080_1337867
 %eng:	or she works for someone there.
@@ -842,8 +858,8 @@
 %eng:	yes.
 *ALI:	y que ahí vende . 1355712_1357312
 %eng:	and that she sells there.
-*PED:	xxx chiquito yo acá . 1357251_1360339
-%eng:	xxx little one I here[check].
+*PED:	el año que viene voy a poner uno chiquito yo acá . 1357251_1360339
+%eng:	next year I will start a small nursey here.
 *PED:	ah@s:cym&spa . 1360760_1361299
 %eng:	ah.
 *PED:	me +... 1362183_1363906
@@ -851,7 +867,7 @@
 *PED:	Peter@s:cym&spa me regaló uno ahí como (.) ha puesto la chacra en venta ahí . 1364790_1368955
 %eng:	Peter gave me one, because he is selling the farm.
 *PED:	xxx +... 1369598_1371369
-*PED:	me [/] me regaló uno (.) un vivero [?] chiquitico pero para poder poner plantas de brotar y cosas . 1373616_1383005
+*PED:	me [/] me regaló uno (.) un vivero chiquitito pero para poder poner plantas de brotar y cosas . 1373616_1383005
 %eng:	he gave me a small nursery where I can grown plants and things.
 *PED:	sí . 1384557_1385960
 %eng:	yes.
@@ -860,7 +876,7 @@
 *PED:	xxx . 1387411_1390206
 *ALI:	+< tuvieron que vender la chacra en un lugar tan lindo ahí . 1388468_1391535
 %eng:	they had to sell the farm, in such a beautiful place.
-*PED:	xxx . 1390543_1391551
+*PED:	&=gasps . 1390543_1391551
 *PED:	eh@s:cym&spa ? 1392015_1392468
 %eng:	eh?
 *ALI:	que van a vender la chacra en un lugar tan lindo ahí no ? 1392486_1395473
@@ -875,36 +891,39 @@
 %eng:	yes.
 *ALI:	por lo menos cuando estaba Ana@s:cym&spa que yo fui varias veces . 1401384_1404120
 %eng:	at least when Ana was there, I went several times.
-*PED:	nada la chacra estaba con todos los servicios y estas cosas . 1404524_1407308
+*PED:	nada la chacra estaba con todos los servicios y todas las cosas . 1404524_1407308
 %eng:	well, the farm had all the services and all this stuff.
 *PED:	la tenían alquilada a este señor que trabajó en el xxx pero +... 1407370_1410644
 %eng:	they have it rented to this guy that worked in the xxx but...
-*PED:	ahora la [/] la entregó el otro día . 1410582_1413910
+*PED:	ahora ya la entregó el otro día . 1410449_1412550
 %eng:	but he gave it back the other day.
-*PED:	alquilaron en el pueblo parece . 1413919_1416345
+*PED:	este alquilaron en el pueblo parece . 1413490_1416195
 %eng:	they rented in town, it seems.
 *PED:	una +... 1416449_1417910
 %eng:	one ...
 *PED:	xxx . 1418486_1420262
-*ALI:	todo sobre la ruta xxx (.) casitas para (.) alquilar . 1428846_1434334
-%eng:	all along the road xxx little houses for renting.
+*ALI:	xxx todo sobre la ruta xxx (.) casitas para (.) alquilar . 1427869_1433697
+%eng:	xxx all along the road xxx little houses for renting.
 *ALI:	xxx trabajo en la chacra . 1434503_1436871
 %eng:	xxx work at the farm.
 *PED:	claro . 1437392_1438261
 %eng:	of course.
 *ALI:	que ahí no tienen mucho trabajo tampoco porque poner pasto o poner unos frutales hasta la ruta (.) como un regalo de vez en cuando . 1438260_1446228
 %eng:	there they don't have to work either because putting pasture or some fruit trees up to the road (.) as a present, from time to time.
-*PED:	sí pero lo que pasa es que el dice que xxx <los bolitas> [//] los bolivianos le están pagando un alquiler bueno pero +... 1448418_1458585
+*PED:	sí pero lo que pasa es que él dice que xxx <los bolitas> [//] los bolivianos le están pagando un alquiler bueno pero +... 1448418_1458585
 %eng:	but what happens is that the Bolivians are paying a good rent but...
-*PED:	ni se saca [//] no llega la chacra ni haciendo cinco departamentos xxx mucho más a la chacra que xxx . 1458986_1465028
-%eng:	the farm doesn't reach 5 flats xxx much more to the farm xxx.
+*PED:	ni se saca +//. 1458552_1460107
+%eng:	he doesn't get even.
+*PED:		vendiendo la chacra y haciendo cinco departamentos le da mucho más a la chacra y menos a la cabeza . 1460189_1465204
+%eng:	selling the farm  and building 5 flats he gets more from the farm and have less to think.
 *ALI:	sí . 1465494_1466763
 %eng:	yes.
-*PED:	xxx chacra . 1466656_1469606
-%eng:	xxx farm.
+*PED:	le estropean toda la chacra (.) le +//. 1466656_1469606
+%eng:	they spoil the farm.
 *ALI:	los departamentos cuando los puede alquilar . 1469716_1472074
 %eng:	the flats when he can rent them.
-*PED:	+< y yo sin vender la chacra ahí sí no puedo hacer nada como para (.) hacer tres cuatro departamentos para empezar para alquilar o que no no +... 1470266_1480258
+*PED:	+'' y yo sin vender la chacra dice +''/. 1470228_1472748
+*PED:	+'' no puedo hacer nada como para (.) hacer tres cuatro departamentos para empezar para alquilar o que no no +... 1472608_1479516
 %eng:	and I, without selling the farm, I cannot do anything like to build three or four flats to start, to rent, no.
 *ALI:	no tiene que trabajar la chacra . 1480345_1482633
 %eng:	no, he has to work the farm.
@@ -914,14 +933,16 @@
 %eng:	no no
 *ALI:	y no creo que trabaje la chacra . 1484185_1485828
 %eng:	and I don't think he works the farm.
-*PED:	no no que va +... 1486433_1488283
+*PED:	no no que va . 1486433_1488283
 %eng:	no, of course ...
-*PED:	si está por jubilarse del empleo que tiene . 1487915_1491792
+*PED:	si ya está por jubilarse del empleo que tiene . 1487915_1491792
 %eng:	he's about to retire from his job.
-*ALI:	por eso xxx jubilado viene a trabajar en la chacra eh@s:cym&spa . 1492572_1496540
-%eng:	for this reason, xxx retired comes to work at the farm eh.
-*ALI:	con un peón o algo . 1496199_1498471
-%eng:	with a labourer or something.
+*ALI:	por eso pero por ahí jubilado . 1492571_1494010
+%eng:	for this reason but he is retired.
+*ALI:	y viene a trabajar en la chacra . 1494405_1495543
+%eng:	and comes to work at the farm and.
+*ALI:	y con un peón o algo eh@s:cym&spa . 1495709_1497869
+%eng:	with a labourer or something eh.
 *ALI:	trabaja la chacra . 1498413_1499842
 %eng:	he works the farm.
 *ALI:	y tener los departamentos es muy lindo mientras que se puedan alquilar y +... 1504695_1509063
@@ -936,17 +957,18 @@
 %eng:	yes.
 *ALI:	se gasta xxx . 1520848_1523002
 %eng:	it is spent xxx.
-*PED:	+< pero él como él xxx todo viste lo arregla . 1520978_1525415
-%eng:	but he, like him, xxx you see, he fixes everything.
+*PED:	+< pero él como él se da maña para todo viste lo [/] lo arregla . 1520978_1525415
+%eng:	but he, as he is skilled for everything you see, he fixes everything.
 *PED:	sale uno xxx . 1526125_1527901
+%eng:	it comes out one xxx.
 *PED:	pinta todo solo . 1527911_1529415
 %eng:	he paints everything alone.
-*PED:	hace todo solo . 1529394_1530850
+*PED:	ya hace todo solo . 1529394_1530850
 %eng:	he does everything alone.
-*PED:	ya xxx el hijo . 1532110_1534121
-%eng:	xxx the son.
-*PED:	con él ya la pintó . 1534088_1535037
-%eng:	he painted with him already.
+*PED:	ya donde él vivía el hijo +//. 1532110_1534121
+%eng:	even where he used to live the son.
+*PED:	ahí ya lo pintó . 1534088_1535037
+%eng:	there he already painted .
 *PED:	ya está lista para alquilar también y +... 1535053_1537416
 %eng:	it is ready to rent also.
 *PED:	me parece que si no la alquiló ya xxx . 1538114_1540701
@@ -963,15 +985,15 @@
 %eng:	eh no, they went to live there.
 *ALI:	+< <porque ahí> [/] porque ahí hay un abandono oh leña la calle los perros la basura . 1549840_1557166
 %eng:	Everything is abandoned there, wood, the street, the dogs, the trash.
-*PED:	+< sí ese [/] ese es la casita que <recién empecé a> [//] entrar recién entraron a vivir en la que estaban haciendo . 1556293_1561673
+*PED:	+< sí ese [/] ese es la casita que <recién empecé a entrar> [//] recién entraron a vivir en la que estaban haciendo . 1556293_1561673
 %eng:	that's the house where they recently started to live in, the one they built.
 *ALI:	el otro día pasé por ahí . 1561692_1563255
 %eng:	I passed the other day near there.
 *ALI:	y hasta la calle tenía +... 1563148_1564903
 %eng:	and even the street had ...
 *PED:	+< xxx . 1563566_1564340
-*PED:	pero claro uno trabaja en xxx . 1565945_1569646
-%eng:	but of course, one works in xxx.
+*PED:	pero claro como trabaja en vialidad . 1565945_1569646
+%eng:	but of course, one works in roadway services.
 *PED:	este (.) (es)ta trae [///] donde máquina sacan (.) leña y eso . 1571367_1579235
 %eng:	brings... where the machine is, they cut firewood and so on.
 *PED:	trae leña y la tira ahí . 1578458_1580309
@@ -983,14 +1005,14 @@
 *ALI:	no sé en qué calle que va para el Ricón_del_Valle@s:cym&spa por ahí . 1591046_1594220
 %eng:	I don't know in which street, to Ricón Del Valle, near there.
 *ALI:	xxx que mejoren la calle . 1594184_1598051
-%eng:	xxx so, they improve the state of the street.
+%eng:	xxx so they improve the state of the street.
 *PED:	sí como que sí . 1598970_1600517
 %eng:	yes, I think it is.
 *ALI:	+< yo creo que es la otra . 1599423_1600687
 %eng:	I think it's the other one.
 *ALI:	me parece . 1600629_1601413
 %eng:	I think.
-*ALI:	la que pasaba atrás de xxx . 1603393_1605761
+*ALI:	la que pasaba atrás de lo de xxx . 1603393_1605761
 %eng:	the one that was behind xxx.
 *ALI:	me parece que en esa están poniendo adoquines . 1606851_1609379
 %eng:	I think that in that one they are placing paving stones.
@@ -1008,8 +1030,8 @@
 %eng:	it's a pile of dirt that ...
 *PED:	sí . 1635579_1636662
 %eng:	yes.
-*PED:	y ahora también viste que llamaron a limpieza ? 1638134_1641974
-%eng:	and did you see that they asked to clean?
+*PED:	y ahora también oiste que llamaron a limpieza ? 1638134_1641974
+%eng:	and did you heard that they asked to clean?
 *PED:	la municipalidad . 1642184_1644264
 %eng:	the municipality.
 *PED:	todos los que tienen terrenos baldíos y +... 1644222_1646702
@@ -1023,7 +1045,7 @@
 %eng:	they gave them a period.
 *PED:	y si no los limpian bueno lo limpia la municipalidad . 1653179_1655723
 %eng:	and if they don't clean it, the municipality will do it.
-*PED:	y le va a pasar la +... 1655782_1656961
+*PED:	y le va a pasar la +//. 1655782_1656961
 %eng:	and they're going to send the ...
 *ALI:	ay sí es que hay que hacer así . 1656887_1658855
 %eng:	oh yes, it has to be done this way.
