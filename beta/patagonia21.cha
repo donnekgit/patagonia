@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, cym
@@ -12,7 +12,6 @@
 @Time Duration:	00:33:29
 @Media:	Patagonia21, audio
 @Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.
-@Warning:	untranslated bits of Spanish, marked with vvv.
 *ISA:	una semana antes o algo así y a las mellizas [?] +//. 5_2003
 %eng:	a week earlier or something like that and the twins [?]...
 *LIN:	+< sí &e así sea dos horas antes le dijeron <a &cri> [/] a Ana@s:eng&spa que hubiese servido . 1803_7669
@@ -131,8 +130,7 @@
 *LIN:	sí sí . 83167_83723
 %eng:	yes, yes.
 *ISA:	eh@s:cym&spa él trataba a xxx . 83636_86426
-%eng:	eh, he tried to [...].
-%com:	xxx posible Welsh word for mother?
+%eng:	eh, he tried to [...] .
 *LIN:	+< qué edad tiene ochenta y tres ? 85550_87983
 %eng:	how old is she, eighty three?
 *ISA:	+< sí +//. 87045_87785
@@ -201,8 +199,7 @@
 %eng:	she's younger than Dad.
 *ISA:	y tío [/] &m tío Johnny@s:cym&spa [?] . 145223_148600
 %eng:	and Uncle Johnny.
-*LIN:	+< xxx [?] . 147704_148834
-%com:	possibly Welsh.
+*LIN:	+< xxx . 147704_148834
 *ISA:	el menor de la familia de George@s:cym&spa . 149333_152254
 %eng:	the youngest of George's family.
 *LIN:	ya ya . 152694_153194
@@ -223,9 +220,8 @@
 %eng:	yes.
 *ISA:	estaba la hermana mayor . 168248_169540
 %eng:	she was the eldest sister.
-*ISA:	después viene xxx [?] . 169546_170357
-%eng:	than came [...]
-%com:	Welsh name.
+*ISA:	después viene taid@s:cym . 169546_170357
+%eng:	than came Grandpa
 *ISA:	después (.) creo que &e Isa@s:cym&spa &e +... 170545_173959
 %eng:	then I think Isa...
 *LIN:	Lowri@s:cym&spa que murió en Gales@s:cym&spa no ? 171279_172912
@@ -347,15 +343,14 @@
 %eng:	and Amelia... married to Myfyr.
 *ISA:	con con Myfyr@s:cym&spa pariente . 278614_280811
 %eng:	to Myfyr, a relative.
-*LIN:	que era pariente también &e hija de un &medi de Lincey@s:cym&spa . 280901_283594
-%eng:	... who was also a relative, the daughter of Lincey.
-*ISA:	+< eh@s:cym&spa . 280949_281861
-%eng:	eh.
-*LIN:	sí de xxx . 283589_284399
-%eng:	yes, of [...].
-%com:	check Welsh names.
-*ISA:	+< sí no era hijo natural . 283593_285399
+*LIN:	que era pariente también &e hija <de Gwyneth@s:cym&spa> [//] de Gwawr@s:cym&spa . 280901_283594
+%eng:	... who was also a relative, the daughter of Gwyneth... of Gwawr.
+*ISA:	+< eh@s:cym&spa +/. 280949_281861
+%eng:	eh...
+*ISA:	sí no era hijo natural . 283593_285399
 %eng:	yes, he wasn't a biological son.
+*LIN:	+< de modryb@s:cym Gwawr@s:cym&spa . 283729_284395
+%eng:	of aunt Gwawr.
 *LIN:	+< sí no pero (.) pero eran de la familia . 284945_287921
 %eng:	yes, no,  but, but they were family.
 *ISA:	sí pero bueno sí sí claro claro . 285324_287793
@@ -837,7 +832,6 @@
 *LIN:	+< [- cym] ia . 756983_757484
 %eng:	yes.
 *LIN:	xxx +/. 757634_758274
-%com:	possible spanish word
 *ISA:	[- cym] jam tomato gwyrdd . 757751_758722
 %eng:	green tomato jam.
 *LIN:	a@s:cym pintón . 759063_760130
@@ -1278,12 +1272,10 @@
 %eng:	they don't like solids.
 *LIN:	entonces comen xxx . 1157405_1158952
 %eng:	so they eat [...]
-%com:	Welsh ?
 *ISA:	no no no . 1158676_1160468
 %eng:	no, no.
-*LIN:	y sale &yuu . 1158788_1160505
-%eng:	and it leaves  [ noise  ].
-%com:	immitates food processor.
+*LIN:	y sale &=imit:food_processor . 1158788_1160505
+%eng:	and it goes "whirr".
 *LIN:	hígado &em zapallo fideos todo . 1160582_1164443
 %eng:	liver, pumpkin, noodles, everything.
 *ISA:	+< el chico no aprende a masticar . 1164073_1165595
@@ -1525,9 +1517,8 @@
 %eng:	and this hurt me more than if he'd...
 *ISA:	+< seguro . 1341071_1342207
 %eng:	sure.
-*ISA:	aparte porque cuando el padre xxx [?] pega es doblemente . 1341983_1347348
+*ISA:	aparte porque cuando el padre xxx pega es doblemente . 1341983_1347348
 %eng:	but when the father [...] it's double.
-%com:	Welsh name
 *LIN:	+< sí sí . 1346446_1347480
 %eng:	yes, yes.
 *ISA:	sí . 1347534_1348280
@@ -1846,9 +1837,8 @@
 %eng:	yes, there were horseflies.
 *ISA:	sí . 1639615_1639780
 %eng:	yes.
-*LIN:	pero no había chacks@s:cym  ?  1639620_1640698
-%eng:	but there were no vvv.
-%com:	is this marked correctly as Welsh???
+*LIN:	pero no había xxx  ?  1639620_1640698
+%eng:	but there were no [...] ?
 *ISA:	ah no no no no . 1641317_1642757
 %eng:	ah, no, no.
 *LIN:	+< las chaquetas amarillas . 1641389_1642658
@@ -2151,8 +2141,7 @@
 %eng:	yes, yes.
 *LIN:	es probable que sea eso también pero bue(no) . 1930199_1932743
 %eng:	probably that's there as well, but okay.
-*ISA:	uh . 1932151_1932642
-%eng:	vvv
+*ISA:	&=grunt . 1932151_1932642
 *LIN:	sí eh@s:cym&spa . 1932758_1933403
 %eng:	yes, uh.
 *LIN:	para pasear sin meterte muy adentro en caminos chicos (.) no se ve . 1933403_1939503
