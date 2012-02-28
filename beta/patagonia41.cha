@@ -1002,10 +1002,10 @@
 %eng:	where is, er...?
 *MRC:	xxx . 1039879_1042018
 %eng:	[...]
-%com:	long pause
+@Comment:	pause
 *DOM:	[- spa] así es che . 1055462_1057387
 %eng:	it's like this, mate.
-%com:	long pause
+@Comment:	pause
 *DOM:	[- spa] cómo andamos [?] . 1070081_1071153
 %eng:	how are we going ?
 *MAD:	am be ? 1073127_1073959
@@ -1286,7 +1286,7 @@
 %eng:	she also left.
 *LIA:	[- spa] claro . 1305150_1306014
 %eng:	sure.
-%com:	long pause
+@Comment:	pause
 *MAD:	quieres@s:spa [//] wyt ti eisiau uh jam i (y)r uh te ? 1314269_1317869
 %eng:	do you want jam for the tea?
 *LIA:	dan ni eisiau jam efo (y)r te yndan . 1317874_1320013

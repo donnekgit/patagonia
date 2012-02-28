@@ -285,9 +285,9 @@
 %eng:	uh...
 *RAM:	cael [/] cael rywbeth cael +... 243134_244899
 %eng:	have something...
-*ELS:	+< cael [/] (.) cael rywbeth . 243603_245454
-%eng:	have something.
-%com:	voices are drowned out by noise for about 2.5 seconds
+*ELS:	+< <cael rywbeth> [//] cael +... 243603_245454
+%eng:	to have something, have...
+@Comment:	voices are drowned out by noise for about 2.5 seconds
 *ELS:	um (.) dydd Iau uh <wedyn mynd i (y)r uh doctor> [?] . 247886_252854
 %eng:	Thursday afterwards go to the doctor.
 *MOL:	+< mm qué@s:spa rico@s:spa . 252296_253518
@@ -482,7 +482,7 @@
 %eng:	pee.
 *ELS:	xxx . 402066_403672
 *RAM:	&=cough . 403656_405064
-%com:	noise in the background: steps on stairs, opening of front door, brief conversation at the door.
+@Comment:	noise in the background: steps on stairs, opening of front door, brief conversation at the door.
 *MOL:	xxx . 406547_409022
 *RAM:	mae (.) myfyrwyr ysgol cerdd . 412680_416092
 %eng:	it's music school students.

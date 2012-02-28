@@ -155,7 +155,7 @@
 %eng:	uh.
 *AMA:	+< ond um yn un peth mae o (y)n rywbeth sy (y)n dychryn rhywun braidd no@s:spa . 278047_281546
 %eng:	but it is something that frightens you, isn't it?
-%com:	pause
+@Comment:	pause
 *JAV:	ti sy wedi byw ar y (.) &ff ffarm ar hyd y blynyddoedd . 284698_289597
 %eng:	you are the one who's lived on a farm all those years.
 *AMA:	mm +... 289586_289997
@@ -239,7 +239,7 @@
 %eng:	and then in about ten years, when my husband retired, we moved back here.
 *AMA:	a fan hyn ydw i ers deg mlynedd . 420174_422756
 %eng:	and this is where I've been for ten years
-%com:	pause
+@Comment:	pause
 *JAV:	dw i <wedi magu (.)> [//] wedi cael ym magu uh (.) dau gant fetrs <o (y)r uh> [//] o(ddi)_wrth y capel . 425537_435178
 %eng:	I was raised 200 metres from the chapel.
 *AMA:	ah@s:cym&spa wrth y capel (.) capel Bethel@s:cym&spa . 435165_437197
@@ -1122,9 +1122,9 @@
 %eng:	like it or not.
 *AMA:	+< [- spa] claro . 1867599_1868122
 %eng:	of course.
-%com:	pause
+@Comment:	pause
 *AMA:	xxx . 1872661_1873397
-%com:	pause with whispering
+@Comment:	pause with whispering
 *AMA:	wel dan ni (we)di siarad digon am y tro siŵr ? 1876501_1878794
 %eng:	we've talked enough for now, surely?
 *AMA:	xxx . 1878965_1879509

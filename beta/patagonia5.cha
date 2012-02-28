@@ -687,7 +687,7 @@
 %eng:	yes?
 *OSE:	ga i uh +... 784210_785047
 %eng:	can I, er...
-%com:	Researcher leaves room
+@Comment:	Researcher leaves room
 *GLO:	&=laugh . 785063_786951
 *GLO:	wel +/. 789517_790338
 %eng:	well...
@@ -1013,7 +1013,7 @@
 %eng:	many have gone
 *ANA:	(dy)na fo . 1136518_1137152
 %eng:	there you are
-%com:	Researcher leaves room
+@Comment:	Researcher leaves room
 *ANA:	mae (y)na lawer wedi mynd debyg iawn Cymry a [?] aeth i [/] uh (.) i uh (.) boblogi (y)r lle (.) yn y dechrau . 1137793_1146122
 %eng:	there are many who went, probably, Welsh people who went to populate the place, in the beginning
 *ANA:	ond dw i (y)n credu bod (y)na fwy o gadw ar y Cymraeg yn waelod y Dyffryn (y)ma nag uh +/. 1146650_1151921

@@ -897,7 +897,7 @@
 %eng:	only about money
 *LCD:	ie . 1130687_1131322
 %eng:	yes
-%com:	pause in conversation
+@Comment:	pause
 *LCD:	a beth wyt ti (y)n feddwl am y tywydd (y)ma ? 1146260_1148479
 %eng:	and what do you think of this weather?
 *LCD:	wnawn ni siarad am y tywydd ? 1148459_1150327

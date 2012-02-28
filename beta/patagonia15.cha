@@ -211,9 +211,8 @@
 %eng:	and Claudia.
 *SAV:	oh@s:cym&spa o(eddw)n i (y)n falch bod Diego@s:cym&spa wedi cael y wobr eh@s:cym&spa . 182158_184830
 %eng:	oh I was glad that Diego got the prize eh.
-*SAV:	yn y &diwyn [//] &s &i Dinas_Diniweidrwydd@s:cym&spa . 186869_189231
-%eng:	in the... "Dinas Diniweidrwydd" [Welsh poem, lit: city of innocence].
-%com:	I don't know what this is so I'm not sure how to translate.
+*SAV:	yn y &diwin &s &i Dinas_Diniweidrwydd@s:cym&spa . 186869_189231
+%eng:	in "Dinas Diniweidrwydd" [Welsh poem, lit: city of innocence].
 *NIN:	mae o (y)n neis . 189519_190426
 %eng:	it's nice.
 *SAV:	o(eddw)n i (y)n falch (.) bod o (we)di cael . 191100_192551
@@ -1306,7 +1305,7 @@
 %eng:	I'm saying:
 *NIN:	+" [- spa] no . 1289813_1290144
 %eng:	no.
-%com:	door bell rings .
+@Comment:	door bell rings .
 *NIN:	oh@s:cym&spa . 1291312_1291781
 %eng:	oh.
 *SAV:	oh@s:cym&spa . 1291770_1292469

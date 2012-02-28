@@ -1595,12 +1595,12 @@
 *PEN:	+< &=laugh . 1453942_1454732
 *MAN:	rŵan dw i (y)n dod yn_ôl . 1455764_1457013
 %eng:	I'll come back now
-%com:	MAN leaves room
+@Comment:	MAN leaves the room
 *PEN:	i_ffwrdd â fo [?] . 1463394_1464270
 %eng:	put it away
 *PEN:	ia ? 1465246_1465634
 %eng:	yes?
-%com:	pause in conversation
+@Comment:	long pause in conversation
 *MAN:	mae (y)r bwyd yn iawn . 1516433_1517484
 %eng:	the food is fine
 *PEN:	ah@s:cym&spa yndy ? 1517605_1518267
@@ -1679,9 +1679,8 @@
 %eng:	yes
 *MAN:	ia . 1573108_1573631
 %eng:	yes
-*MAN:	oh@s:cym&spa wnest ti ddim yn gweld neithiwr yr um (.) blodau maen nhw wedi presento@s:spa [?] i fi ? 1575009_1580211
+*MAN:	oh@s:cym&spa wnest ti ddim yn gweld neithiwr yr um (.) blodau maen nhw wedi presento [?] i fi ? 1575009_1580211
 %eng:	oh did you not see last night the flowers they've presented to me?
-%com:	appears to be Spanish verb inserted, but check this. Also 10 lines down.
 *PEN:	ah@s:cym&spa ! 1580210_1580919
 *MAN:	oh@s:cym&spa maen nhw (y)n arbennig ! 1580884_1582608
 %eng:	oh they're wonderful!
@@ -1698,7 +1697,7 @@
 %eng:	yes
 *PEN:	ia . 1590729_1591066
 %eng:	yes
-*MAN:	maen nhw wedi (..) presento@s:spa [?] i fi (.) blodau (.) arbennig enfawr . 1591086_1597022
+*MAN:	maen nhw wedi (..) presento [?] i fi (.) blodau (.) arbennig enfawr . 1591086_1597022
 %eng:	they've presented me with some special, massive, flowers
 *PEN:	oh@s:cym&spa ! 1597199_1598058
 *MAN:	o bob lliwiau . 1597504_1599042

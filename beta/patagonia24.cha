@@ -1624,7 +1624,7 @@
 %eng:	and so he wanted to find the history.
 *ADL:	xxx mynd i (y)r llyfrgell (by)sai fo (y)n cael y gweddill yn_basai . 1360188_1363125
 %eng:	xxx went to the library he'd get the rest, wouldn't he.
-%com:	pause
+@Comment:	pause
 *ADL:	mae (y)r (.) [/] yr ardd yn hyfryd efo (y)r cornchwiglod yna (y)n (.) bwyta (y)r pryfed bach i_gyd . 1366184_1371351
 %eng:	the garden is lovely with those lapwings eating all the little insects.
 *MOR:	+< oh@s:cym&spa (.) maen nhw (y)n uh difyrru lot arna i . 1369476_1373041
@@ -1775,7 +1775,7 @@
 %eng:	oh...
 *ADL:	mae hwn wedi gyfieithu i (y)r Gymraeg hefyd dw i meddwl . 1481785_1483979
 %eng:	it has been translated into Welsh as well I think.
-%com:	pause
+@Comment:	pause
 *ADL:	Ferrari@s:cym&spa dach chi (we)di clywed sôn am Ferrari@s:cym&spa ? 1486000_1488205
 %eng:	Ferrari, have you heard about Ferrari?
 *MOR:	+< dw i (we)di clywed sôn amdano do . 1487541_1489561
@@ -1802,7 +1802,7 @@
 %eng:	that's it.
 *ADL:	digon o waith efo fo i dorri gwair . 1509827_1511754
 %eng:	he's got enough work to cut grass.
-%com:	pause
+@Comment:	pause
 *MOR:	Carlos_Dantes@s:cym&spa +..? 1514147_1515488
 %eng:	Carlos Dantes...?
 *ADL:	++ Ferrari@s:cym&spa . 1515488_1516747
@@ -2196,7 +2196,7 @@
 %eng:	yes.
 *ADL:	ah@s:cym&spa felly wir . 1832823_1834001
 %eng:	ah, there we are.
-%com:	pause
+@Comment:	pause
 *ADL:	mae (y)r um (.) llwch yn dechrau codi . 1837585_1840419
 %eng:	the dust is beginning to rise.
 *MOR:	+< xxx . 1838585_1839421
@@ -2206,7 +2206,7 @@
 %eng:	eh?
 *ADL:	llwch yn dechrau codi (y)n barod . 1841900_1843909
 %eng:	the dust is beginning to rise already.
-%com:	pause with noise of someone moving about
+@Comment:	pause with noise of someone moving about
 *MOR:	ddoe oedd (y)na lwch garw hefyd . 1848135_1850381
 %eng:	yesterday there was much dust as well.
 *ADL:	oedd ? 1850369_1850944

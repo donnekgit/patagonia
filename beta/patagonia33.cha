@@ -1108,7 +1108,7 @@
 %eng:	enjoy yourselves
 *MEL:	iawn (.) hwyl ta . 1423496_1424829
 %eng:	ok, goodbye then
-%com:	non-participants leave
+@Comment:	non-participants leave at this point
 *FED:	mae pawb yn mynd . 1428246_1429462
 %eng:	everyone's leaving
 *MEL:	<pawb yn mynd pawb yn mynd> [=! singing] ! 1429622_1431905
