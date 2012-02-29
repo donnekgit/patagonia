@@ -1,4 +1,3 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -14,7 +13,6 @@
 @Media:	Patagonia16, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	The speakers aren't very confident in Welsh and often produce utterances that don't fit first language speakers' norms.
-@Warning:	Suggest to put beeps over names in the depression story.
 *MOL:	[- spa] no no xxx . 1467_3157
 %eng:	no.
 *ELS:	+< &=laugh . 2400_3664
@@ -2257,8 +2255,8 @@
 %eng:	I say he can do reiki too.
 *ELS:	ah@s:cym&spa reiki@s:cym&spa ie xxx . 1804465_1807094
 %eng:	ah, reiki, yes [...].
-*MOL:	+< <mae (y)n> [//] mae [/] mae [/] mae o (y)n byw yn Teniente_Origone@s:cym&spa a mae gyda dyn xxx roi reiki@s:cym&spa . 1805958_1814145
-%eng:	he lives in Teniente Origone and he has a man [...] gives reiki.
+*MOL:	+< <mae (y)n> [//] mae [/] mae [/] mae o (y)n byw yn Sierra_Grande@s:cym&spa a mae gyda dyn xxx roi reiki@s:cym&spa . 1805958_1814145
+%eng:	he lives in Sierra Grande and he has a man [...] gives reiki.
 *ELS:	+< mmhm (...) ah@s:cym&spa ie . 1810262_1815399
 %eng:	yes, ah, yes.
 *MOL:	yn yr +... 1815374_1816622
@@ -2267,8 +2265,8 @@
 %eng:	yes.
 *MOL:	yn yr +... 1817964_1819249
 %eng:	in the...
-*MOL:	Teniente_Origone <fan (y)na> [?] . 1819492_1820804
-%eng:	over in Teniente Origone.
+*MOL:	Sierra_Grande@s:cym&spa <fan (y)na> [?] . 1819492_1820804
+%eng:	over in Sierra Grande.
 *ELS:	mmhm . 1820804_1821369
 %eng:	yes.
 *MOL:	[- spa] porque es . 1821715_1823006
