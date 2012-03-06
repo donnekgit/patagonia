@@ -204,7 +204,7 @@
 %eng:	ah.
 *LIA:	wyt ti (y)n mynd i helpu ? 113799_115140
 %eng:	are you going to help?
-*AMA:	+< ydw dw i (y)n helpu . 113910_115642
+*AMA:	+< ydw dw i (y)n helpu . 113757_115642
 %eng:	yes, I'm helping.
 *LIA:	ah@s:cym&spa (dy)na fo . 115642_117139
 %eng:	ah, there we go.
@@ -240,7 +240,7 @@
 *AMA:	[- spa] sí . 142069_142504
 %eng:	yes.
 *AMA:	[- spa] sí sí xxx   . 143181_143982
-%eng:	yes yes  xxx .
+%eng:	yes yes [...].
 *AMA:	[- spa] vos también ? 143976_144719
 %eng:	you too ?
 *AMA:	[- spa] sí es a las siete de la tarde en el salón central . 149113_152248
@@ -252,13 +252,13 @@
 *AMA:	[- spa] si yo puedo voy a ir . 157545_159054
 %eng:	if I can go, I will.
 *AMA:	[- spa] eh@s:cym&spa sí andá porque es muy interesante saber qué pasa con estas lluvias y cosas viste ? 161130_165480
-%eng:	eh, yes, go because it's very interesting to know what's happening with this rain see ?
+%eng:	eh, yes, go because it's very interesting to know what's happening with this rain and things, you see ?
 *AMA:	[- spa] sí . 166412_166993
 %eng:	yes.
 *AMA:	[- spa] la verdad ? 168406_169149
 %eng:	really?
 *AMA:	[- spa] la verdad es que está lloviendo mucho eh@s:cym&spa ? 169213_170943
-%eng:	the truth is that is rainning a lot  eh.
+%eng:	the truth is that it's raining a lot, eh?
 *AMA:	[- spa] sí . 172043_172554
 %eng:	yes.
 *AMA:	[- spa] mirá vos . 174191_175764
@@ -366,7 +366,7 @@
 *AMA:	be ydy desfile@s:spa ["] ? 245517_246551
 %eng:	what is "desfile" (procession)?
 *LIA:	&=clears_throat . 246609_247561
-*AMA:	ti (y)n cofio be ydy desfile@s:spa ["] (.) Cymraeg ? 248270_250237
+*AMA:	ti (y)n cofio be ydy desfile@s:spa ["] (y)n (.) Cymraeg ? 248270_250237
 %eng:	do you remember what "desfile" is in Welsh?
 *LIA:	+< na(c) (y)dw . 249685_250254
 %eng:	no.
@@ -417,7 +417,7 @@
 %eng:	ah.
 *LIA:	+< oedd bagull yn dod efo Fontana@s:cym&spa . 278597_280542
 %eng:	[...] came with [...]
-%com:	Fontana is not a Spanish word. Could be a proper name.
+%com:	Fontana is not a Spanish word. Could be a proper noun.
 *AMA:	oedd ? 281247_281781
 %eng:	yes?
 *LIA:	oedd oedd . 281799_282692
@@ -1639,15 +1639,15 @@
 %eng:	yes.
 *AMA:	[- spa] sí te iba a llamar esta noche porque hoy he tenido dos entrevistas con los galeses viste ? 1023129_1027773
 %eng:	yes, I was going to phone you this evening because today I had two interviews with the Welsh people you see?
-*AMA:	[- spa] nos [//] nos  están grabando ahora . 1028490_1030603
+*AMA:	[- spa] nos [//] nos están grabando ahora . 1028490_1030603
 %eng:	we're recording now.
 *AMA:	[- spa] también en este momento . 1031120_1032252
 %eng:	right now.
 *AMA:	[- spa] sí . 1032409_1033500
 %eng:	yes.
 *AMA:	&=laugh . 1033611_1034359
-*AMA:	[- spa] un ratito después yo te llamo en la noche querés  ? 1034673_1037378
-%eng:	in a bit, later I'll call you ok?
+*AMA:	[- spa] un ratito después yo te llamo en la noche querés ? 1034673_1037378
+%eng:	in a bit, later I'll call you in the evening ok?
 *AMA:	[- spa] chao chao . 1037396_1038365
 %eng:	bye.
 *AMA:	[- spa] chao . 1038377_1038806
@@ -2234,7 +2234,7 @@
 *AMA:	+< mm +... 1411940_1413077
 %eng:	mm.
 *LIA:	maen nhw (.) (we)di torri gymaint o mm (.) bosques@s:spa cómo@s:spa era@s:spa ? 1413414_1417257
-%eng:	[...] they've cut so many, mm, forests, what's that?
+%eng:	they've cut so many, mm, forests - how was it?
 *AMA:	+< ++ o goed . 1416520_1417304
 %eng:	trees.
 *LIA:	goed (.) yn y north . 1417327_1419013

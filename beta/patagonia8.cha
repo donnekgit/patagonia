@@ -168,12 +168,12 @@
 %eng:	I would've liked to go but it's not easy
 *VIC:	[- spa] no es fácil . 155998_157214
 %eng:	it's not easy
-*VIC:	[- spa]  y sale un poco caro también con la cuestión de que al día siguiente . 158044_162139
-%eng:	and it works out a bit expensive too with the matter of xx until the next day.
-*VIC:	[- spa] teníamos@s:spa el@s:spa almuerzo@s:spa este@s:spa y@s:spa +... 162144_164171
+*VIC:	[- spa]  y sale un poco caro también con la cuestión de que al día siguiente +... 158044_162139
+%eng:	and it works out a bit expensive too with the matter that on the next day...
+*VIC:	[- spa] teníamos el almuerzo este y +... 162144_164171
 %eng:	we have dinner, this and...
 *VIC:	+, [- spa] y unas cuantas cosas . 165065_166105
-%eng:	and there are so many things.
+%eng:	and so many things.
 *ELE:	+< ie . 165065_166105
 %eng:	yes.
 *ELE:	ie (.) cael te después@s:spa . 166786_168991
@@ -346,7 +346,7 @@
 %eng:	yes, it will!
 *ELE:	wela ffor(dd) (y)na . 324093_325250
 %eng:	look over there
-*ELE:	xxx clable@s:spa . 325255_326845
+*ELE:	xxx cable@s:spa . 325255_326845
 @Comment:	voices in the background for about a minute.
 *ELE:	wyt ti (y)n gwybod ffordd i roid nhw (y)n_ôl (y)ma ? 414077_415852
 %eng:	do you know a way of putting them back here ?
@@ -402,7 +402,7 @@
 *VIC:	dw i (ddi)m yn siŵr iawn . 459458_460391
 %eng:	I'm not too sure
 *VIC:	[- spa] parece que va a clarar . 463652_465442
-%eng:	it looks like it's going to be clear sky.
+%eng:	it looks like it's going to clear up.
 *VIC:	mae (y)r (..) cymylau wedi mynd . 465320_467572
 %eng:	the clouds have gone
 *ELE:	oh@s:cym&spa . 467276_468801
@@ -540,11 +540,12 @@
 %eng:	oh yes, she has children
 *ELE:	um dw i (y)n meddwl bod (y)na un sy (y)n gweithio yn y +... 686619_692179
 %eng:	um, I think there's one who works at...
-*VIC:	+< xxx +/. 687047_688540
 *ELE:	dw i (ddi)m yn siŵr os mae (y)na brifysgol yn La_Plata@s:cym&spa neu +//. 692227_695630
 %eng:	I'm not sure whether there's a university at La Plata or...
 *ELE:	neu (y)n yr amgueddfa (.) yn La_Plata@s:cym&spa . 695437_698813
 %eng:	or at the museum in La Plata
+*VIC:	+< wel xxx +/. 687047_688540
+%eng:	well [...]
 *VIC:	+< na . 697389_699144
 %eng:	no
 *VIC:	wel (dy)na fo . 699576_700114
@@ -974,7 +975,7 @@
 *ELE:	[- spa] sí . 1129799_1132396
 %eng:	yes
 *VIC:	quién@s:spa se@s:spa ganó@s:spa la@s:spa corona@s:spa esta@s:spa vez@s:spa también@s:spa ? 1132729_1136206
-%eng:	who is the winner of the crown, this time too ..?
+%eng:	who won the crown, this time too ..?
 *VIC:	la@s:spa chica@s:spa de@s:spa Magwen@s:cym&spa neu ? 1136206_1137591
 %eng:	Magwen's girl or..?
 *ELE:	+< ie [//] sí@s:spa . 1137100_1138103
@@ -1411,7 +1412,7 @@
 %eng:	because the clock...
 *ELE:	+< xxx . 1632687_1634802
 *VIC:	ie mi fydd darle@s:spa recuerda@s:spa mae o . 1637845_1639996
-%eng:	yes it'll wind the watch [CHECK].
+%eng:	yes it'll wind the watch, it will.
 *VIC:	mae o (y)n (.) fod i (.) fynd ei hunan pan o(eddw)n i +//. 1639996_1643161
 %eng:	it's supposed to go by itself when I...
 *VIC:	ond os dw i (y)n cysgu yn y nos xxx (y)n dawel dw i ddim yn +... 1643161_1646961
