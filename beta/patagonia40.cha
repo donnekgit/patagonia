@@ -64,7 +64,7 @@
 %eng:	you can't think of a single word
 *TIA:	+< no te sale . 39881_40879
 %eng:	it doesn't come to your mind
-*TIA:	no sabes de qué hablar . 40998_42299
+*TIA:	no sabés de qué hablar . 40998_42299
 %eng:	you don't know what to say
 *MAP:	+< claro . 42070_42790
 %eng:	sure
@@ -107,8 +107,8 @@
 *MAP:	voy a tener que ponerla . 71872_73381
 %eng:	I will have to fix it
 *MAP:	xx +/. 74066_74546
-*TIA:	+< xxx ahora ? 74123_76757
-%eng:	[...] now?
+*TIA:	+< cuántos galeses xx habrán ahora ? 74123_76757
+%eng:	how many Welsh people [...] are there now?
 *MAP:	con ella ? 76736_77419
 %eng:	with her?
 *MAP:	otro hombre . 77877_79307
@@ -116,8 +116,8 @@
 *TIA:	+< xxx . 77957_79573
 *MAP:	uy no sé . 80026_80912
 %eng:	phew, I don't know
-*MAP:	esos son siete los que están en los xxx . 80837_82896
-%eng:	these are teh seven that are in the [...]
+*MAP:	esos son siete los que están en lo Jenny@s:cym&spa . 80837_82896
+%eng:	that's seven that are at Jenny's [?]
 *TIA:	ah@s:cym&spa sí siete ? 82944_84298
 %eng:	ah really, seven?
 *MAP:	pero claro . 84287_84986
@@ -141,8 +141,8 @@
 *TIA:	&=grunt . 100889_101278
 *MAP:	y quién más ? 101444_102612
 %eng:	and who else?
-*MAP:	bueno siete me dijo Alberto@s:cym&spa +... 102610_104876
-%eng:	well, seven Alberto told me...
+*MAP:	bueno siete me dijo Jenny@s:cym&spa +... 102610_104876
+%eng:	well, seven Jenny told me...
 *TIA:	&=gasp . 104018_104818
 *MAP:	+, que tiene ella . 104999_106220
 %eng:	...she had
@@ -326,16 +326,16 @@
 %eng:	I guess some of them had come from Trevelin as well
 *TIA:	y lo [/] lo de +/. 323681_324956
 %eng:	and that one from...
-*MAP:	+< así me dijo Carla@s:cym&spa . 324390_325633
-%eng:	that's what Carla told me
+*MAP:	+< así me dijo Jenny@s:cym&spa . 324390_325633
+%eng:	that's what Jenny told me
 *MAP:	que había +/. 326243_327315
 %eng:	that there was...
 *TIA:	+< como lo hacen en +//. 326771_328641
 %eng:	as they do it in...
 *TIA:	xxx la capilla de Trevelin@s:cym&spa vienen mucho a Esquel@s:cym&spa . 328719_332362
 %eng:	[...] the chapel of Trevelin often come to Esquel
-*MAP:	pues ino no tienen nada . 332582_334262
-%eng:	then they don't have anything
+*MAP:	pues ahí no tienen nada . 332582_334262
+%eng:	well there they don't have anything
 *TIA:	[- cym] mm . 334363_334870
 %eng:	mm
 *MAP:	[- cym] mmhm . 334961_335393
@@ -345,7 +345,7 @@
 *MAP:	sí . 338694_339931
 %eng:	yes
 *MAP:	y pues ya no hay +//. 340446_342265
-%eng:	and still there aren't any...
+%eng:	and so there are no more...
 *TIA:	no hay gente . 342332_343324
 %eng:	there aren't any people
 *MAP:	+< los viejos que iban a la capilla ya +//. 342604_344652
@@ -392,7 +392,7 @@
 %eng:	very many are missing
 *TIA:	mucha gente . 382038_383318
 %eng:	many people
-*MAP:	ahí quedaron los [?] pocos para ir a la capilla . 384575_386959
+*MAP:	ay quedan unos pocos para ir a la capilla . 384575_386959
 %eng:	there only a few are left who can go to the chapel
 *TIA:	sí . 387247_387796
 %eng:	yes
@@ -476,9 +476,9 @@
 *MAP:	sí . 471917_472770
 %eng:	yes
 @Comment:	pause
-*TIA:	<el reloj> [?] es el nuestro o el de ellos ? 475817_478388
+*TIA:	el reloj es el nuestro o el de ellos ? 475817_478388
 %eng:	is the clock ours or theirs?
-*MAP:	ella ella . 479396_480676
+*MAP:	<ella> [//] de ella . 479396_480676
 %eng:	hers
 *TIA:	eh@s:cym&spa ? 480932_481918
 %eng:	eh?
@@ -500,7 +500,8 @@
 %eng:	yes
 *MAP:	&=yawn . 492956_495030
 *MAP:	xxx . 495775_496532
-*TIA:	+< xxx . 495912_496904
+*TIA:	+< qué bien . 495912_496904
+%eng	great.
 *MAP:	que lástima <que la> [/] que la [//] las peonías esas se caen tan [/] tan pronto no ? 499191_504759
 %eng:	such a shame that the peonies drop their petals so quickly, isn't it?
 *TIA:	+< no pero xxx . 503531_506768
@@ -542,11 +543,11 @@
 *MAP:	y ahora después de las peonías qué es lo que viene en flor ? 537586_540791
 %eng:	and what is going to flower next now, after the peonies?
 *MAP:	las lilas ? 540999_541884
-%eng:	the lilies?
+%eng:	the lilacs?
 *TIA:	las [/] las peonías blancas van a florecer . 541902_544712
 %eng:	the white peonies are going to flower
 *MAP:	Alberta@s:cym&spa no decía ya que ella tenía un árbol que tenían llenos de [/] de &flo flores de lilas . 544952_552385
-%eng:	Alberta said that she had a bush that was full of lily flowers
+%eng:	Alberta said that she had a bush that was full of lilac flowers
 *MAP:	y vino una helada fuerte . 552886_554603
 %eng:	and a frost came
 *MAP:	y se las chamuscó todas . 554585_556255
@@ -557,13 +558,13 @@
 %eng:	and they were left all black, you see
 *TIA:	+< [- cym] mm ! 560176_561163
 %eng:	mm
-*MAP:	xxx ella no tiene muchas flores . 561298_563314
-%eng:	[...] she doesn't have many flowers
+*MAP:	así que ella no tiene muchas flores . 561298_563314
+%eng:	so she doesn't have many flowers
 *MAP:	pero el jardín está lindo . 563388_565042
 %eng:	but the garden is beautiful
 *TIA:	no ? 563714_564162
 %eng:	doesn't she?
-*MAP:	tiene planta . 565074_566354
+*MAP:	tiene plantas . 565074_566354
 %eng:	she has plants
 *MAP:	muchas plantas dice . 566284_567575
 %eng:	many plants you see
@@ -628,8 +629,8 @@
 %eng:	there seems to have been...
 *MAP:	transmisión de pensamientos . 620352_622507
 %eng:	a transmission of thoughts
-*TIA:	+< había (.) pescados [?] . 620715_622480
-%eng:	there were fish/secret policemen
+*TIA:	+< había (.) pescados . 620715_622480
+%eng:	there were fish/secret policemen [?]
 *TIA:	&=grunt . 623566_624073
 *MAP:	+< sí . 623566_624073
 %eng:	yes
@@ -639,8 +640,8 @@
 *TIA:	y no sé qué más podemos (.) decir +... 626119_630570
 %eng:	and I don't know what else we can say
 @Comment:	pause
-*TIA:	Ann@s:cym&spa iba a volver pronto xxx . 634356_636511
-%eng:	Ann was going to come back soon [...]
+*TIA:	Ann@s:cym&spa va a volver pronto xxx . 634356_636511
+%eng:	Ann is going to come back soon [...]
 *MAP:	y esta semana no . 637032_638424
 %eng:	not this week
 *MAP:	pero la [/] la que viene sí . 638392_639970
@@ -651,7 +652,8 @@
 %eng:	she says that next week perhaps she will be ready to come
 *MAP:	tienen los resultados de todo <lo que> [/] lo [/] los estudios que los médicos le están haciendo . 644244_649294
 %eng:	they have the results of all the tests that the doctors have been doing on her
-*TIA:	xxx . 650243_651171
+*TIA:	claro . 650243_651171
+%eng:	of course
 *MAP:	+< este . 650243_651171
 %eng:	um
 *MAP:	en el próximo (.) va a poder volver . 651502_655886
@@ -750,7 +752,8 @@
 %eng:	vvv
 *TIA:	ay . 749975_750791
 %eng:	vvv
-*TIA:	xx . 751601_752279
+*TIA:	no .751601_752279
+%eng	no
 *TIA:	sí . 752412_753137
 %eng:	yes
 *MAP:	pero está . 753441_754209
@@ -799,26 +802,26 @@
 %eng:	oh
 *MAP:	sesenta y cinco años vivimos en la misma casa . 802206_805433
 %eng:	we lived in the same house for sixty-five years
-*TIA:	porque yo no me acuerdo de cuánto vivíamos en +/. 805794_809453
+*TIA:	porque yo no me acuerdo de cuándo vivíamos en +/. 805794_809453
 %eng:	because I don't remember when we were living in...
 *MAP:	+< la otra . 808599_809586
 %eng:	the other one
 *MAP:	sí era muy chiquita . 809676_810766
-%eng:	yes, she was very little
+%eng:	yes, it was very little
 *TIA:	+< &do dónde vivíamos antes . 809894_811715
 %eng:	where we lived before
 *MAP:	mm@s:cym yo nací ahí . 812921_815523
 %eng:	mm, I was born there
-*TIA:	+< y [/] y voz naciste acá . 813630_815678
+*TIA:	+< y [/] y vos naciste acá . 813630_815678
 %eng:	and you were born here
 *MAP:	sí . 815811_816387
 %eng:	yes
 *TIA:	yo [/] <yo tendría> [//] yo sería chiquita . 816741_819162
 %eng:	I would have been very little
 *MAP:	+< nací ahí . 816885_818058
-%eng:	born there
+%eng:	I was born there
 *MAP:	nací ahí . 819709_821149
-%eng:	born there
+%eng:	I was born there
 *MAP:	y me crié hasta los sesenta y cinco años en la misma casa . 821117_824499
 %eng:	and I grew up in the same house for sixty-five years
 *TIA:	claro . 824582_825324
@@ -841,7 +844,7 @@
 *TIA:	qué mes era ? 838659_839689
 %eng:	which month was it?
 *TIA:	el mes de +//. 839593_840617
-%eng:	teh month of...
+%eng:	the month of...
 *MAP:	mayo . 840649_841470
 %eng:	May
 *TIA:	mayo ? 841545_842174
@@ -863,7 +866,7 @@
 *TIA:	ochenta y cinco . 850712_852013
 %eng:	eighty-five
 *MAP:	ochenta y cinco habremos venido . 851747_854200
-%eng:	we can in 85 [check]
+%eng:	we must have come in 85
 *MAP:	sí . 855791_856303
 %eng:	yes
 *TIA:	&=grunt . 856164_856591
@@ -924,8 +927,8 @@
 %eng:	look, the sun is coming out now
 *MAP:	sí . 924133_924592
 %eng:	yes
-*TIA:	bello . 924608_925504
-%eng:	beautiful [check - "brillar"?]
+*TIA:	brilla . 924608_925504
+%eng:	it's shining
 *TIA:	pero hay cielo celeste celeste no ? 925763_928739
 %eng:	and the sky is really, really blue
 *MAP:	sí . 928206_928782
@@ -958,7 +961,8 @@
 %com:	TIA made a noise of negation with her lips.
 *MAP:	es que estaba muy sucia en la vereda ahí en frente . 950178_953139
 %eng:	the thing is that it was very dirty on the path here at the front
-*MAP:	xxx . 953729_955527
+*MAP:	oh tiene <mugre> [?] . 953729_955527
+%eng:	vvv
 *TIA:	+< ah@s:cym&spa la del frente también ? 954679_956055
 %eng:	ah, the one at the front as well?
 *TIA:	pero yo digo la que está con los costados de la pared . 955989_959039
@@ -969,7 +973,8 @@
 %eng:	it didn't get washed at all
 *MAP:	no . 960701_961592
 %eng:	no
-*TIA:	xxx . 962952_963923
+*TIA:	ay che . 962952_963923
+%eng:	oh
 *TIA:	bueno . 965325_966184
 %eng:	well
 *TIA:	qué vamos a hacer ? 967245_968600
@@ -1016,14 +1021,14 @@
 %eng:	here
 *TIA:	eh@s:cym&spa ? 1005956_1006596
 %eng:	eh?
-*MAP:	ahí detrás del xxx . 1006548_1008591
-%eng:	there, behind the...
+*MAP:	ahí detrás del tray@eng . 1006548_1008591
+%eng:	there, behind the tray
 *TIA:	sí . 1006612_1007604
 %eng:	yes
 *TIA:	voy a mirarlos . 1007684_1008713
 %eng:	I'll look for them
-*MAP:	este sí diecinueve de noviembre dice que +/. 1009337_1012751
-%eng:	um, yes, 19th November she said...
+*MAP:	este sí diecinueve de noviembre dice que era ? 1009337_1012751
+%eng:	um, yes, 19th November didn't she say
 *TIA:	+< mirá . 1012559_1013273
 %eng:	look
 *MAP:	yo me había olvidado . 1013294_1014756
@@ -1097,7 +1102,8 @@
 %eng:	uh, what is the eldest daughter called, Carolina.
 *MAP:	que tiene dos chiquitos de lindos dice que son . 1089898_1093434
 %eng:	she has two gorgeous little boys she says
-*TIA:	xxx ? 1093560_1094290
+*TIA:	mirá . 1093560_1094290
+%eng:	look
 *MAP:	hermosos los chicos esos . 1093928_1095826
 %eng:	beautiful children they are
 *TIA:	mmhm@s:cym . 1097494_1098166
@@ -1108,8 +1114,8 @@
 %eng:	and the other one is very little
 *MAP:	un año y algo . 1102958_1104238
 %eng:	a year and something
-*TIA:	verdad ? 1104505_1105204
-%eng:	really?
+*TIA:	mirá ? 1104505_1105204
+%eng:	look
 *MAP:	y la otra Olga@s:cym&spa tiene un [/] un baroncito . 1106544_1110330
 %eng:	and the other one, Olga, has a boyfriend
 *MAP:	y que ya tiene como cinco años me parece que dijo . 1110325_1113550
@@ -1122,10 +1128,10 @@
 %eng:	mm!
 *MAP:	y el hijo tiene una nena de como de seis años . 1118923_1122795
 %eng:	and the son has a girl of about six years
-*TIA:	verdad ? 1123025_1123947
-%eng:	really?
-*TIA:	xxx verlos . 1125426_1127783
-%eng:	[...] see them
+*TIA:	mirá  1123025_1123947
+%eng:	look
+*TIA:	sería lindo verlos . 1125426_1127783
+%eng:	it'd be lovely to see them
 *MAP:	sí . 1127682_1128823
 %eng:	yes
 *TIA:	así es . 1129790_1131012
@@ -1164,10 +1170,10 @@
 *MAP:	no no . 1171545_1173081
 %eng:	no
 *MAP:	yo quería limpiar +/. 1173886_1175166
-%eng:	I would like to clean...
+%eng:	I wanted to clean...
 *TIA:	+< xxx . 1173989_1175834
 *MAP:	quería limpiar esa ventana xxx . 1175861_1178666
-%eng:	I would like to clean this window [...]
+%eng:	I wanted to clean this window [...]
 *MAP:	se me pasó el verano . 1178942_1180350
 %eng:	the summer passed me by
 *MAP:	me gustaría levantarla este año . 1180325_1181781
@@ -1187,15 +1193,15 @@
 *TIA:	sí . 1199762_1201202
 %eng:	yes
 *MAP:	regar &oy . 1199914_1201258
-%eng:	irrigate
-*MAP:	estaba todo seco las plantas los canteros . 1201258_1204010
+%eng:	to water
+*MAP:	estaba seco todo lo de las plantas los canteros . 1201258_1204010
 %eng:	the plants, the flowerbeds were all dry
 *TIA:	+< y el agua está escasa xxx . 1203242_1205733
 %eng:	and water was scarce [...]
 *MAP:	+< los canteros de plantas estaban todos secos . 1204734_1207448
 %eng:	the flowerbeds were all dry
 *TIA:	&=grunt . 1207558_1208193
-*TIA:	pero no se deben de haber mojando bastante . 1208630_1211233
+*TIA:	pero no se deben de haber mojado bastante . 1208630_1211233
 %eng:	but they wouldn't have to have been soaked that much
 @Comment:	pause
 *MAP:	hacía falta una buena lluvia como hizo ayer . 1215702_1218955
@@ -1207,9 +1213,9 @@
 *MAP:	ojalá que (.) ahora si se van xxx a [/] a [/] a Buenos_Aires@s:cym&spa . 1226016_1231237
 %eng:	hopefully if they now go [...] to Buenos Aires
 *MAP:	ojalá que si le hacen una reunión (.) que uh@s:cym &a Elva@s:cym&spa le hayan avisado a Llinos@s:cym&spa . 1231263_1238476
-%eng:	hopefully elva has told Llinos if they make it a meeting
+%eng:	hopefully Elva has told Llinos if they make it a meeting
 *MAP:	así Llinos@s:cym&spa (.) tiene [?] y va a poder ir . 1238438_1241322
-%eng:	then Llinos [...] and can go [check]
+%eng:	then Llinos [...] and will be able to go
 *TIA:	+< ah sí . 1238438_1239420
 %eng:	ah, yes
 *TIA:	claro . 1241327_1242138
@@ -1233,7 +1239,7 @@
 *TIA:	oh@s:cym&spa ! 1264597_1266490
 %eng:	oh!
 *MAP:	ella dijo que no importaba cualquier cosa que habláramos . 1266868_1269983
-%eng:	she said it didn't matter what we'd talk about
+%eng:	she said it didn't matter what we talked about
 *TIA:	qué le vamos a hacer . 1270331_1271409
 %eng:	that we are going to do it
 *TIA:	cosa muy difícil . 1273266_1274680
@@ -1252,7 +1258,7 @@
 *TIA:	mirá . 1286593_1287644
 %eng:	look
 *MAP:	bastante dicen . 1287427_1288958
-%eng:	we have said enough
+%eng:	we've said enough
 *MAP:	que Mariela@s:cym&spa iba a ver la a Morela@s:cym&spa ayer . 1292826_1296042
 %eng:	Mariela went to see Morela yesterday
 *TIA:	eh@s:cym&spa ? 1295583_1296095
@@ -1271,7 +1277,7 @@
 %eng:	no, no, hse had been, says Anna
 *TIA:	ah@s:cym&spa . 1306449_1307281
 %eng:	ah
-*TIA:	y Anna@s:cym&spa está un poquito afuera del círculo [?] . 1308841_1311700
+*TIA:	y Anna@s:cym&spa está un poquito afuera del círculo . 1308841_1311700
 %eng:	and Anna is a little bit outside the circle
 *MAP:	sí . 1311071_1311785
 %eng:	yes
@@ -1284,8 +1290,8 @@
 *MAP:	[- cym] ond (..) oedd hi (we)di deud wrth Beryl_Glyn@s:cym&spa bod hi (y)n dod i edrych amdanaf fi . 1316359_1320617
 %eng:	but she had said to Beryl Glyn that she's coming to look for me
 *MAP:	&=grunt . 1321874_1322599
-*MAP:	con Peter@s:cym&spa pueden haber hablado bastante en galés . 1329399_1333260
-%eng:	with Peter we would have been able to talk in Welsh all the time
+*MAP:	con Anna@s:cym&spa pueden haber hablado bastante en galés . 1329399_1333260
+%eng:	with Anna they could've talked quite a bit in Welsh
 *TIA:	sí . 1333649_1334033
 %eng:	yes
 *MAP:	+< Anna@s:cym&spa habla todo en galés . 1333767_1335639
@@ -1306,18 +1312,18 @@
 %eng:	yes
 *TIA:	ah@s:cym&spa . 1351103_1352079
 %eng:	ah
-*TIA:	xxx voy a ir a verla a Enlli@s:cym&spa . 1352422_1355862
-%eng:	[...] I'll and visit Enlli
+*TIA:	che la semana que viene voy a ir a verla a Enlli@s:cym&spa . 1352422_1355862
+%eng:	hey next week I'll go and visit Enlli
 *MAP:	&=grunt . 1355787_1356544
 *TIA:	&=grunt . 1356262_1357222
 *TIA:	tomo un taxi . 1357230_1358473
 %eng:	I'll take a taxi
 *MAP:	[- cym] mmhm . 1358537_1359508
 %eng:	mmhm
-*TIA:	si la [/] si al alcanzo a [/] (.) a encontrar antes de que se . 1363120_1367701
+*TIA:	si la [/] si la alcanzo a [/] (.) a encontrar antes de que se . 1363120_1367701
 %eng:	if I manage to find her before...
-*MAP:	ah@s:cym&spa pero se va a ir Enlli@s:cym&spa hay que avisarle . 1367651_1370798
-%eng:	ah, but she is going to go Enlli only needs to say so [check]
+*MAP:	ah@s:cym&spa pero si vas a ir a verle a Enlli@s:cym&spa hay que avisarle . 1367651_1370798
+%eng:	ah, but if you're going to go and see Enlli you have to warn her
 *TIA:	+< xxx . 1367976_1368771
 *MAP:	antes para que ella no se acueste . 1370893_1373517
 %eng:	first so that she doesn't go to bed
@@ -1326,7 +1332,7 @@
 *TIA:	[- cym] hmm . 1376681_1377257
 %eng:	hmm
 *MAP:	uno no la encuentra . 1377220_1379161
-%eng:	one doesn't meet her
+%eng:	you won't find her
 *TIA:	claro . 1379263_1379935
 %eng:	sure
 *TIA:	viste cómo brilla el piso eh@s:cym&spa . 1380726_1382524
@@ -1363,7 +1369,7 @@
 *TIA:	poné un pedazo nuevo . 1410132_1411492
 %eng:	I've put a new piece on
 *MAP:	y no xxx poder cambiarle la tela . 1413974_1416534
-%eng:	and I couldn't change the cloth
+%eng:	and I [...] couldn't change the cloth
 *MAP:	pero quién te lo hace ahora . 1417415_1418797
 %eng:	but who will do it for you now
 *MAP:	no sé si +... 1418743_1419725
