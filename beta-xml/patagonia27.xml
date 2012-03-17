@@ -1,0 +1,7819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="Patagonia27" Mediatypes="audio"
+      Font="Win95:Arial:-19:0"
+      Version="1.9.8"
+      Lang="spa cym"
+      Corpus="Patagonia"
+      Id="patagonia27"
+      Date="2009-11-10">
+  <Participants>
+    <participant
+      id="PED"
+    name="Pedro"
+      role="Adult"
+      language="cym spa"
+      age="P68Y"
+
+      sex="male"
+
+    />
+    <participant
+      id="ALI"
+    name="Alicia"
+      role="Adult"
+      language="cym spa"
+      age="P69Y"
+
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Situation">Conversation between Pedro and his wife Alicia in their home in eastern Chubut, Argentina</comment>
+  <comment type="Date">10-NOV-2009</comment>
+  <comment type="Transcriber">Fraibet Aveledo and Lowri Jones, Bangor University</comment>
+  <comment type="Generic">Researcher: Margaret Deuchar, Bangor University</comment>
+  <comment type="Time Duration">00:27:45</comment>
+  <comment type="Generic">Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&amp;spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.</comment>
+  <u who="PED" uID="u0">
+    <w>las</w>
+    <w>flores</w>
+    <w>tampoco</w>
+    <w>adelantan</w>
+    <w>nada</w>
+    <t type="p"></t>
+    <media
+      start="0.029"
+      end="1.899"
+      unit="s"
+    />
+    <a type="english translation">the flowers don't make any progress either.</a>
+  </u>
+  <u who="PED" uID="u1">
+    <g><w type="fragment">ten</w><k type="retracing with correction"/></g>
+    <w>tengo</w>
+    <w>el</w>
+    <w>jardín</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1.829"
+      end="3.558"
+      unit="s"
+    />
+    <a type="english translation">I have the garden there .</a>
+  </u>
+  <u who="PED" uID="u2">
+    <w>y</w>
+    <w>viste</w>
+    <w>que</w>
+    <g><w>no</w><k type="retracing"/></g>
+    <g><w>no</w><k type="retracing"/></g>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="3.655"
+      end="4.898"
+      unit="s"
+    />
+    <a type="english translation">and you see they don't.</a>
+  </u>
+  <u who="PED" uID="u3">
+    <w>están</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="5.428"
+      end="6.014"
+      unit="s"
+    />
+    <a type="english translation">they're there.</a>
+  </u>
+  <u who="PED" uID="u4">
+    <w>que</w>
+    <w>nacieron</w>
+    <w>pero</w>
+    <t type="self interruption"></t>
+    <media
+      start="6.643"
+      end="8.019"
+      unit="s"
+    />
+    <a type="english translation">that they were born but...</a>
+  </u>
+  <u who="PED" uID="u5">
+    <w>les</w>
+    <w>cuesta</w>
+    <w>muchísimo</w>
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>este</w>
+    <w>crecer</w>
+    <w>porque</w>
+    <w>tanto</w>
+    <w>frío</w>
+    <w>a</w>
+    <w>la</w>
+    <w>noche</w>
+    <g><w>no</w><k type="retracing"/></g>
+    <g><w>no</w><k type="retracing"/></g>
+    <w>no</w>
+    <w>adelanta</w>
+    <w>nada</w>
+    <t type="p"></t>
+    <media
+      start="8.949"
+      end="18.889"
+      unit="s"
+    />
+    <a type="english translation">it is hard for them to grow because it is very cold at night.</a>
+  </u>
+  <u who="ALI" uID="u6">
+    <w>no</w>
+    <w>y</w>
+    <w>este</w>
+    <w>año</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>va</w>
+    <w>a</w>
+    <w>haber</w>
+    <w>gladiolos</w>
+    <w>para</w>
+    <w>fin</w>
+    <w>de</w>
+    <w>año</w>
+    <w>tampoco</w>
+    <t type="p"></t>
+    <media
+      start="19.629"
+      end="23.635"
+      unit="s"
+    />
+    <a type="english translation">no, and this year, I don't know if there are going to be gladioli by the end of the year either.</a>
+  </u>
+  <u who="PED" uID="u7">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="23.481"
+      end="23.875"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u8">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="24.455"
+      end="24.802"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u9">
+    <linker type="lazy overlap mark"/>
+    <w>porque</w>
+    <w>con</w>
+    <w>este</w>
+    <w>viento</w>
+    <t type="p"></t>
+    <media
+      start="24.535"
+      end="25.721"
+      unit="s"
+    />
+    <a type="english translation">because of this wind.</a>
+  </u>
+  <u who="ALI" uID="u10">
+    <w>y</w>
+    <w>además</w>
+    <g><w>si</w><k type="retracing"/></g>
+    <w>si</w>
+    <w>llega</w>
+    <w>a</w>
+    <w>haber</w>
+    <w>y</w>
+    <w>si</w>
+    <w>sigue</w>
+    <w>el</w>
+    <w>viento</w>
+    <w>se</w>
+    <w>van</w>
+    <w>a</w>
+    <w>romper</w>
+    <w>todas</w>
+    <t type="p"></t>
+    <media
+      start="25.663"
+      end="29.788"
+      unit="s"
+    />
+    <a type="english translation">and also, if there are any, and if the wind continues, all of them are going to break.</a>
+  </u>
+  <u who="PED" uID="u11">
+    <w>claro</w>
+    <t type="p"></t>
+    <media
+      start="29.635"
+      end="30.419"
+      unit="s"
+    />
+    <a type="english translation">of course.</a>
+    <a type="comments">long pause.</a>
+  </u>
+  <u who="PED" uID="u12">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>así</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="38.621"
+      end="39.810"
+      unit="s"
+    />
+    <a type="english translation">eh that's how it is.</a>
+  </u>
+  <comment type="Generic">long pause.</comment>
+  <u who="PED" uID="u13">
+    <w>te</w>
+    <w>fijaste</w>
+    <w>si</w>
+    <pause symbolic-length="simple"/>
+    <w>tenía</w>
+    <w>leña</w>
+    <w>en</w>
+    <w>el</w>
+    <w>fuego</w>
+    <t type="q"></t>
+    <media
+      start="53.716"
+      end="57.764"
+      unit="s"
+    />
+    <a type="english translation">did you see if there was any wood in the fire ?</a>
+  </u>
+  <u who="ALI" uID="u14">
+    <w>sí</w>
+    <w>sí</w>
+    <w>vos</w>
+    <w>pusiste</w>
+    <w>un</w>
+    <w>palo</w>
+    <w>grande</w>
+    <t type="p"></t>
+    <media
+      start="58.094"
+      end="60.504"
+      unit="s"
+    />
+    <a type="english translation">yes, you put on a big log.</a>
+  </u>
+  <u who="ALI" uID="u15">
+    <w>recién</w>
+    <w>todavía</w>
+    <w>había</w>
+    <w>fuego</w>
+    <t type="p"></t>
+    <media
+      start="60.408"
+      end="61.790"
+      unit="s"
+    />
+    <a type="english translation">there was still fire just now.</a>
+  </u>
+  <u who="PED" uID="u16">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <t type="p"></t>
+    <media
+      start="60.488"
+      end="61.192"
+      unit="s"
+    />
+    <a type="english translation">ah.</a>
+  </u>
+  <u who="PED" uID="u17">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="61.992"
+      end="62.623"
+      unit="s"
+    />
+    <a type="english translation">ah well.</a>
+  </u>
+  <u who="ALI" uID="u18">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="62.157"
+      end="62.766"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u19">
+    <w>sí</w>
+    <w>sí</w>
+    <w>había</w>
+    <t type="p"></t>
+    <media
+      start="63.276"
+      end="64.375"
+      unit="s"
+    />
+    <a type="english translation">yes, there was.</a>
+  </u>
+  <u who="PED" uID="u20">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="63.580"
+      end="64.188"
+      unit="s"
+    />
+    <a type="english translation">yes yes.</a>
+  </u>
+  <u who="PED" uID="u21">
+    <w>sí</w>
+    <t type="q"></t>
+    <media
+      start="64.604"
+      end="65.122"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u22">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="65.132"
+      end="65.868"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u23">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>los</w>
+    <w>vecinos</w>
+    <w>tienen</w>
+    <w>la</w>
+    <w>olla</w>
+    <t type="self interruption"></t>
+    <media
+      start="70.382"
+      end="72.313"
+      unit="s"
+    />
+    <a type="english translation">the neighbours have the pot.</a>
+  </u>
+  <u who="ALI" uID="u24">
+    <w>anoche</w>
+    <w>no</w>
+    <w>taparon</w>
+    <g><w>la</w><k type="retracing"/></g>
+    <w>la</w>
+    <w>verdura</w>
+    <t type="p"></t>
+    <media
+      start="72.194"
+      end="74.230"
+      unit="s"
+    />
+    <a type="english translation">they didn't cover the vegetables last night.</a>
+  </u>
+  <u who="PED" uID="u25">
+    <w>no</w>
+    <w>no</w>
+    <w>este</w>
+    <w>anoche</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="74.147"
+      end="76.863"
+      unit="s"
+    />
+    <a type="english translation">no, last night they didn't.</a>
+  </u>
+  <u who="PED" uID="u26">
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>me</w>
+    <w>estaba</w>
+    <w>diciendo</w>
+    <w>recién</w>
+    <w>el</w>
+    <t type="self interruption"></t>
+    <media
+      start="76.988"
+      end="80.062"
+      unit="s"
+    />
+    <a type="english translation">the ... was just telling me...</a>
+  </u>
+  <u who="ALI" uID="u27">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="78.579"
+      end="79.027"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u28">
+    <linker type="self completion"/>
+    <w>el</w>
+    <w>viejito</w>
+    <g><w>que</w><k type="retracing"/></g>
+    <w>que</w>
+    <w>tenía</w>
+    <w>miedo</w>
+    <w>que</w>
+    <w>anoche</w>
+    <w>helara</w>
+    <w>dice</w>
+    <t type="p"></t>
+    <media
+      start="80.753"
+      end="86.320"
+      unit="s"
+    />
+    <a type="english translation">the little old man who was afraid that there would be a frost last night told me.</a>
+  </u>
+  <u who="PED" uID="u29">
+    <w>no</w>
+    <w>lo</w>
+    <w>habían</w>
+    <w>tapado</w>
+    <w>pero</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="86.444"
+      end="89.127"
+      unit="s"
+    />
+    <a type="english translation">they hadn't covered it.</a>
+  </u>
+  <u who="PED" uID="u30">
+    <w>pero</w>
+    <g><w>no</w><k type="retracing"/></g>
+    <g><w>no</w><k type="retracing"/></g>
+    <w>no</w>
+    <w>lo</w>
+    <w>taparon</w>
+    <t type="p"></t>
+    <media
+      start="90.313"
+      end="92.613"
+      unit="s"
+    />
+    <a type="english translation">but no, they didn't cover it.</a>
+  </u>
+  <u who="PED" uID="u31">
+    <w>y</w>
+    <w>no</w>
+    <w>heló</w>
+    <t type="p"></t>
+    <media
+      start="92.603"
+      end="93.557"
+      unit="s"
+    />
+    <a type="english translation">and there wasn't any frost.</a>
+  </u>
+  <u who="ALI" uID="u32">
+    <linker type="lazy overlap mark"/>
+    <w>no</w>
+    <w>heló</w>
+    <t type="p"></t>
+    <media
+      start="93.550"
+      end="95.102"
+      unit="s"
+    />
+    <a type="english translation">there wasn't any frost.</a>
+  </u>
+  <u who="ALI" uID="u33">
+    <w>es</w>
+    <w>algo</w>
+    <t type="self interruption"></t>
+    <media
+      start="94.240"
+      end="95.872"
+      unit="s"
+    />
+    <a type="english translation">it's something.</a>
+  </u>
+  <u who="PED" uID="u34">
+    <w>hacía</w>
+    <w>ocho</w>
+    <t type="p"></t>
+    <media
+      start="94.240"
+      end="95.872"
+      unit="s"
+    />
+    <a type="english translation">it was 8.</a>
+  </u>
+  <u who="PED" uID="u35">
+    <w>ocho</w>
+    <w>grados</w>
+    <w>esta</w>
+    <w>mañana</w>
+    <w>cuando</w>
+    <g><w>el</w><k type="retracing with correction"/></g>
+    <w>se</w>
+    <w>fijó</w>
+    <w>el</w>
+    <t type="trail off"></t>
+    <media
+      start="96.152"
+      end="99.443"
+      unit="s"
+    />
+    <a type="english translation">it was 8 degrees this morning when he ... he noticed .</a>
+  </u>
+  <u who="PED" uID="u36">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="99.612"
+      end="101.563"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u37">
+    <w>sí</w>
+    <internal-media
+      start="102.968"
+      end="104.280"
+      unit="s"
+    />
+    <t type="p"></t>
+
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u38">
+    <w>lo</w>
+    <w>que</w>
+    <w>está</w>
+    <w>viniendo</w>
+    <w>lindo</w>
+    <w>es</w>
+    <w>el</w>
+    <w>pasto</w>
+    <t type="p"></t>
+    <media
+      start="106.538"
+      end="109.285"
+      unit="s"
+    />
+    <a type="english translation">what's becoming pretty is the pasture.</a>
+  </u>
+  <u who="PED" uID="u39">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="110.050"
+      end="110.487"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u40">
+    <w>el</w>
+    <w>pasto</w>
+    <w>está</w>
+    <w>verde</w>
+    <w>lindo</w>
+    <t type="p"></t>
+    <media
+      start="110.498"
+      end="111.903"
+      unit="s"
+    />
+    <a type="english translation">the pasture is green, beautiful.</a>
+  </u>
+  <u who="ALI" uID="u41">
+    <w>está</w>
+    <t type="trail off"></t>
+    <media
+      start="112.274"
+      end="113.000"
+      unit="s"
+    />
+    <a type="english translation">it is ...</a>
+  </u>
+  <u who="ALI" uID="u42">
+    <w>por</w>
+    <w>lo</w>
+    <w>menos</w>
+    <w>habrá</w>
+    <w>tenido</w>
+    <w>buena</w>
+    <w>cosecha</w>
+    <w>de</w>
+    <w>pasto</w>
+    <t type="p"></t>
+    <media
+      start="116.988"
+      end="119.798"
+      unit="s"
+    />
+    <a type="english translation">at least there will have been a good harvest.</a>
+  </u>
+  <u who="PED" uID="u43">
+    <w>vos</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>ir</w>
+    <w>a</w>
+    <w>la</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Casa_de_té</w>
+    <w>a</w>
+    <w>trabajar</w>
+    <w>hoy</w>
+    <t type="q"></t>
+    <media
+      start="121.891"
+      end="124.764"
+      unit="s"
+    />
+    <a type="english translation">are you going to the Casa_de_té to work today?</a>
+  </u>
+  <u who="ALI" uID="u44">
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="124.950"
+      end="126.086"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u45">
+    <linker type="lazy overlap mark"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="125.393"
+      end="125.739"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u46">
+    <w>y</w>
+    <w>ya</w>
+    <w>ahora</w>
+    <w>ya</w>
+    <w>está</w>
+    <w>viniendo</w>
+    <w>gente</w>
+    <w>ya</w>
+    <t type="p"></t>
+    <media
+      start="128.269"
+      end="131.176"
+      unit="s"
+    />
+    <a type="english translation">now people are coming.</a>
+  </u>
+  <u who="ALI" uID="u47">
+    <w>turismo</w>
+    <t type="p"></t>
+    <media
+      start="131.192"
+      end="132.424"
+      unit="s"
+    />
+    <a type="english translation">tourism.</a>
+  </u>
+  <u who="PED" uID="u48">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="131.778"
+      end="132.194"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u49">
+    <w>este</w>
+    <w>año</w>
+    <w>ha</w>
+    <w>habido</w>
+    <w>mucho</w>
+    <w>turista</w>
+    <t type="p"></t>
+    <media
+      start="133.060"
+      end="135.016"
+      unit="s"
+    />
+    <a type="english translation">there have been a lot of tourists this year.</a>
+  </u>
+  <u who="PED" uID="u50">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="136.001"
+      end="137.089"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u51">
+    <w>el</w>
+    <w>turismo</w>
+    <w>ha</w>
+    <w>sido</w>
+    <w>bastante</w>
+    <t type="p"></t>
+    <media
+      start="137.083"
+      end="140.171"
+      unit="s"
+    />
+    <a type="english translation">there has been a lot of tourism .</a>
+  </u>
+  <u who="ALI" uID="u52">
+    <w>y</w>
+    <w>yo</w>
+    <w>hoy</w>
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>en</w>
+    <w>las</w>
+    <w>escuelas</w>
+    <w>tienen</w>
+    <w>acto</w>
+    <w>del</w>
+    <w>día</w>
+    <w>de</w>
+    <w>la</w>
+    <w>tradición</w>
+    <t type="p"></t>
+    <media
+      start="141.488"
+      end="146.603"
+      unit="s"
+    />
+    <a type="english translation">and I, well, in the schools they have a ceremony to celebrate Tradition Day.</a>
+  </u>
+  <u who="PED" uID="u53">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>mm</w>
+    <t type="p"></t>
+    <media
+      start="147.135"
+      end="147.455"
+      unit="s"
+    />
+    <a type="english translation">mm.</a>
+  </u>
+  <u who="ALI" uID="u54">
+    <w>no</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>sea</w>
+    <w>feriado</w>
+    <w>pero</w>
+    <w>seguro</w>
+    <w>que</w>
+    <w>va</w>
+    <w>a</w>
+    <w>andar</w>
+    <w>gente</w>
+    <w>por</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="147.196"
+      end="151.654"
+      unit="s"
+    />
+    <a type="english translation">I don't think it's a public holiday but there are sure to be people around.</a>
+  </u>
+  <u who="PED" uID="u55">
+    <linker type="lazy overlap mark"/>
+    <w><langs><single>cym</single></langs>mm</w>
+    <t type="p"></t>
+    <media
+      start="147.201"
+      end="148.097"
+      unit="s"
+    />
+    <a type="english translation">mm.</a>
+  </u>
+  <u who="ALI" uID="u56">
+    <w>alguno</w>
+    <w>va</w>
+    <w>a</w>
+    <w>venir</w>
+    <t type="p"></t>
+    <media
+      start="152.634"
+      end="153.872"
+      unit="s"
+    />
+    <a type="english translation">someone will come.</a>
+  </u>
+  <u who="PED" uID="u57">
+    <linker type="lazy overlap mark"/>
+    <w><langs><single>cym</single></langs>mm</w>
+    <t type="p"></t>
+    <media
+      start="153.018"
+      end="153.509"
+      unit="s"
+    />
+    <a type="english translation">mm.</a>
+  </u>
+  <u who="ALI" uID="u58">
+    <w>ahora</w>
+    <w>en</w>
+    <w>la</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Casa_de_Té</w>
+    <w>las</w>
+    <w>flores</w>
+    <w>están</w>
+    <w>hermosas</w>
+    <w>porque</w>
+    <pause symbolic-length="simple"/>
+    <w>han</w>
+    <w>puesto</w>
+    <w>plantas</w>
+    <w>nuevas</w>
+    <w>con</w>
+    <w>una</w>
+    <w>cantidad</w>
+    <w>de</w>
+    <w>flores</w>
+    <w>impresionante</w>
+    <t type="p"></t>
+    <media
+      start="157.104"
+      end="164.769"
+      unit="s"
+    />
+    <a type="english translation">in the Casa de Té, the flowers are beautiful because they have new plants with an amazing amount of flowers.</a>
+  </u>
+  <u who="PED" uID="u59">
+    <w><langs><single>cym</single></langs>mm</w>
+    <t type="p"></t>
+    <media
+      start="164.970"
+      end="166.522"
+      unit="s"
+    />
+    <a type="english translation">mm.</a>
+  </u>
+  <u who="PED" uID="u60">
+    <w>xxx</w>
+    <w>sigues</w>
+    <w>con</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <w>tiempo</w>
+    <t type="p"></t>
+    <media
+      start="170.903"
+      end="174.983"
+      unit="s"
+    />
+    <a type="english translation">[...] you continue with... the weather.</a>
+    <a type="comments">long pause.</a>
+  </u>
+  <u who="ALI" uID="u61">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="187.751"
+      end="190.461"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u62">
+    <w>terminaste</w>
+    <w>de</w>
+    <w>podar</w>
+    <w>el</w>
+    <w>cerco</w>
+    <w>de</w>
+    <w>ligustro</w>
+    <t type="q"></t>
+    <media
+      start="190.500"
+      end="192.131"
+      unit="s"
+    />
+    <a type="english translation">did you finish pruning the privet hedge?</a>
+  </u>
+  <u who="PED" uID="u63">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="192.585"
+      end="193.433"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u64">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="193.470"
+      end="194.648"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u65">
+    <w>ya</w>
+    <w>eso</w>
+    <w>está</w>
+    <t type="p"></t>
+    <media
+      start="194.537"
+      end="195.278"
+      unit="s"
+    />
+    <a type="english translation">that's ready.</a>
+  </u>
+  <u who="PED" uID="u66">
+    <w>está</w>
+    <w>no</w>
+    <w>más</w>
+    <w>pa<shortening>ra</shortening></w>
+    <w>juntar</w>
+    <w>no</w>
+    <w>más</w>
+    <w>la</w>
+    <t type="trail off"></t>
+    <media
+      start="195.274"
+      end="196.650"
+      unit="s"
+    />
+    <a type="english translation">it's just a matter of joining the ...</a>
+  </u>
+  <u who="PED" uID="u67">
+    <linker type="self completion"/>
+    <w>los</w>
+    <w>cortes</w>
+    <w>las</w>
+    <w>ramas</w>
+    <t type="p"></t>
+    <media
+      start="199.390"
+      end="200.575"
+      unit="s"
+    />
+    <a type="english translation">...the cuttings and the branches.</a>
+  </u>
+  <u who="PED" uID="u68">
+    <w>y</w>
+    <w>pero</w>
+    <w>ya</w>
+    <w>está</w>
+    <w>todo</w>
+    <w>cortado</w>
+    <t type="p"></t>
+    <media
+      start="200.671"
+      end="202.618"
+      unit="s"
+    />
+    <a type="english translation">but everything has been cut now.</a>
+  </u>
+  <u who="PED" uID="u69">
+    <w>eso</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="203.264"
+      end="207.776"
+      unit="s"
+    />
+    <a type="english translation">exactly, and... [change]</a>
+  </u>
+  <u who="ALI" uID="u70">
+    <w>pero</w>
+    <w>el</w>
+    <w>peón</w>
+    <w>no</w>
+    <w>vino</w>
+    <w>más</w>
+    <w>a</w>
+    <w>terminar</w>
+    <g><w>los</w><k type="retracing with correction"/></g>
+    <w>la</w>
+    <w>leña</w>
+    <w>allá</w>
+    <t type="p"></t>
+    <media
+      start="207.903"
+      end="211.337"
+      unit="s"
+    />
+    <a type="english translation">but the farm worker didn't come back to finish the wood there.</a>
+  </u>
+  <u who="PED" uID="u71">
+    <linker type="lazy overlap mark"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="208.308"
+      end="208.879"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u72">
+    <linker type="lazy overlap mark"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="210.271"
+      end="211.055"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u73">
+    <linker type="lazy overlap mark"/>
+    <w>no</w>
+    <internal-media
+      start="210.638"
+      end="212.084"
+      unit="s"
+    />
+    <t type="p"></t>
+
+    <a type="english translation">no.</a>
+  </u>
+  <u who="ALI" uID="u74">
+    <w>recién</w>
+    <w>fui</w>
+    <w>allá</w>
+    <w>hasta</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="212.623"
+      end="214.938"
+      unit="s"
+    />
+    <a type="english translation">recently I went there xxx .</a>
+  </u>
+  <u who="ALI" uID="u75">
+    <w>y</w>
+    <w>ví</w>
+    <w>que</w>
+    <w>todavía</w>
+    <w>quedaba</w>
+    <t type="p"></t>
+    <media
+      start="214.146"
+      end="216.102"
+      unit="s"
+    />
+    <a type="english translation">there was still (some).</a>
+  </u>
+  <u who="PED" uID="u76">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="216.741"
+      end="218.095"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u77">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>venga</w>
+    <t type="p"></t>
+    <media
+      start="219.589"
+      end="222.927"
+      unit="s"
+    />
+    <a type="english translation">no, I don't think he'll come.</a>
+  </u>
+  <u who="PED" uID="u78">
+    <w>no</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>va</w>
+    <w>a</w>
+    <w>venir</w>
+    <t type="p"></t>
+    <media
+      start="222.880"
+      end="224.436"
+      unit="s"
+    />
+    <a type="english translation">no, I don't think he's coming.</a>
+  </u>
+  <u who="PED" uID="u79">
+    <w>consiguió</w>
+    <w>un</w>
+    <w>trabajo</w>
+    <w>más</w>
+    <w>cerca</w>
+    <w>de</w>
+    <pause symbolic-length="simple"/>
+    <w>de</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <t type="p"></t>
+    <media
+      start="224.428"
+      end="229.709"
+      unit="s"
+    />
+    <a type="english translation">he found a job nearer Gaiman.</a>
+  </u>
+  <u who="PED" uID="u80">
+    <w>lo</w>
+    <w>que</w>
+    <w>tengo</w>
+    <w>que</w>
+    <w>empezar</w>
+    <w>que</w>
+    <w>me</w>
+    <w>dijo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Luis</w>
+    <w>es</w>
+    <g><w>a</w><k type="retracing"/></g>
+    <w>a</w>
+    <w>podar</w>
+    <pause symbolic-length="simple"/>
+    <w>encima</w>
+    <w>de</w>
+    <w>los</w>
+    <pause symbolic-length="simple"/>
+    <w>cerezos</w>
+    <w>tengo</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="234.289"
+      end="244.715"
+      unit="s"
+    />
+    <a type="english translation">Luis told me that I have to start pruning the tops of the cherry trees.</a>
+  </u>
+  <u who="ALI" uID="u81">
+    <linker type="lazy overlap mark"/>
+    <w>de</w>
+    <w>los</w>
+    <w>cerezos</w>
+    <t type="p"></t>
+    <media
+      start="243.529"
+      end="244.553"
+      unit="s"
+    />
+    <a type="english translation">of the cherry trees.</a>
+  </u>
+  <u who="ALI" uID="u82">
+    <w>sí</w>
+    <w>porque</w>
+    <w>si</w>
+    <w>no</w>
+    <w>se</w>
+    <w>van</w>
+    <w>a</w>
+    <w>ir</w>
+    <w>en</w>
+    <w>brotes</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="245.709"
+      end="248.728"
+      unit="s"
+    />
+    <a type="english translation">yes, because if not, they'll sprout...</a>
+  </u>
+  <u who="PED" uID="u83">
+    <w>sí</w>
+    <w>se</w>
+    <w>va</w>
+    <w>todo</w>
+    <w>en</w>
+    <pause symbolic-length="simple"/>
+    <w>en</w>
+    <w>brotes</w>
+    <w>y</w>
+    <t type="p"></t>
+    <media
+      start="248.187"
+      end="250.907"
+      unit="s"
+    />
+    <a type="english translation">yes, they'll sprout and...</a>
+  </u>
+  <u who="PED" uID="u84">
+    <w>pierde</w>
+    <w>fuerza</w>
+    <w>para</w>
+    <t type="trail off"></t>
+    <media
+      start="251.036"
+      end="253.625"
+      unit="s"
+    />
+    <a type="english translation">it loses strength for ...</a>
+  </u>
+  <u who="ALI" uID="u85">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>el</w>
+    <w>año</w>
+    <w>que</w>
+    <w>viene</w>
+    <w>va</w>
+    <w>a</w>
+    <w>haber</w>
+    <w>cosecha</w>
+    <t type="p"></t>
+    <media
+      start="253.959"
+      end="256.397"
+      unit="s"
+    />
+    <a type="english translation">let's see whether we have a good harvest next year.</a>
+  </u>
+  <u who="PED" uID="u86">
+    <w>eso</w>
+    <t type="p"></t>
+    <media
+      start="256.338"
+      end="257.399"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u87">
+    <w>ya</w>
+    <w>son</w>
+    <w>dos</w>
+    <w>años</w>
+    <g><w>que</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <g><w>que</w>
+    <w>no</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>no</w>
+    <w>sacamos</w>
+    <w>nada</w>
+    <t type="p"></t>
+    <media
+      start="258.231"
+      end="267.811"
+      unit="s"
+    />
+    <a type="english translation">we haven't produced anything for two years.</a>
+  </u>
+  <u who="ALI" uID="u88">
+    <w>y</w>
+    <w>eso</w>
+    <w>que</w>
+    <w>estas</w>
+    <w>son</w>
+    <w>tardías</w>
+    <t type="p"></t>
+    <media
+      start="269.339"
+      end="271.728"
+      unit="s"
+    />
+    <a type="english translation">and in this case, they are late .</a>
+  </u>
+  <u who="PED" uID="u89">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="271.686"
+      end="272.619"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u90">
+    <w>lo</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>es</w>
+    <w>que</w>
+    <w>son</w>
+    <w>tardías</w>
+    <w>pero</w>
+    <pause symbolic-length="simple"/>
+    <w type="fragment">po</w>
+    <w>xxx</w>
+    <t type="interruption"></t>
+    <media
+      start="273.332"
+      end="277.540"
+      unit="s"
+    />
+    <a type="english translation">what happens is that they are late.</a>
+  </u>
+  <u who="ALI" uID="u91">
+    <linker type="lazy overlap mark"/>
+    <w>florecen</w>
+    <w>junto</w>
+    <w>con</w>
+    <w>las</w>
+    <w>otras</w>
+    <t type="p"></t>
+    <media
+      start="276.036"
+      end="277.615"
+      unit="s"
+    />
+    <a type="english translation">but they bloom together with the other one</a>
+  </u>
+  <u who="PED" uID="u92">
+    <linker type="self completion"/>
+    <w>florecen</w>
+    <w>juntos</w>
+    <w>xxx</w>
+    <t type="interruption"></t>
+    <media
+      start="277.686"
+      end="279.681"
+      unit="s"
+    />
+    <a type="english translation">they bloom together.</a>
+  </u>
+  <u who="ALI" uID="u93">
+    <linker type="lazy overlap mark"/>
+    <w>florecen</w>
+    <w>temprano</w>
+    <t type="p"></t>
+    <media
+      start="278.374"
+      end="279.563"
+      unit="s"
+    />
+    <a type="english translation">they bloom early.</a>
+  </u>
+  <u who="PED" uID="u94">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="279.574"
+      end="280.593"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u95">
+    <w>son</w>
+    <w>de</w>
+    <w>crecimiento</w>
+    <w>más</w>
+    <pause symbolic-length="simple"/>
+    <w>más</w>
+    <w>lerdo</w>
+    <t type="p"></t>
+    <media
+      start="281.689"
+      end="285.988"
+      unit="s"
+    />
+    <a type="english translation">they grow more slowly.</a>
+    <a type="comments">PED clears his throat. Long pause.</a>
+  </u>
+  <u who="PED" uID="u96">
+    <w>este</w>
+    <t type="p"></t>
+    <media
+      start="305.550"
+      end="306.937"
+      unit="s"
+    />
+    <a type="english translation">eh.</a>
+  </u>
+  <u who="PED" uID="u97">
+    <w>el</w>
+    <pause symbolic-length="simple"/>
+    <w>María</w>
+    <w>estaba</w>
+    <w>ayer</w>
+    <g><w>en</w>
+    <w>el</w><k type="retracing"/></g>
+    <w>en</w>
+    <w>el</w>
+    <w>corral</w>
+    <w>este</w>
+    <w>temprano</w>
+    <t type="p"></t>
+    <media
+      start="312.021"
+      end="319.831"
+      unit="s"
+    />
+    <a type="english translation">María was in the farmyard earlier.</a>
+  </u>
+  <u who="PED" uID="u98">
+    <w>a</w>
+    <w>qué</w>
+    <w>hora</w>
+    <t type="q"></t>
+    <media
+      start="319.826"
+      end="321.052"
+      unit="s"
+    />
+    <a type="english translation">at what time?</a>
+  </u>
+  <u who="PED" uID="u99">
+    <w>empezaron</w>
+    <w>allí</w>
+    <w>a</w>
+    <w>las</w>
+    <w>seis</w>
+    <w>de</w>
+    <w>la</w>
+    <w>mañana</w>
+    <w>así</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="321.503"
+      end="323.953"
+      unit="s"
+    />
+    <a type="english translation">they started there at 6 o'clock in the morning so...</a>
+  </u>
+  <u who="PED" uID="u100">
+    <linker type="self completion"/>
+    <w>estaba</w>
+    <w>ella</w>
+    <w>en</w>
+    <w>el</w>
+    <w>corral</w>
+    <t type="p"></t>
+    <media
+      start="324.342"
+      end="326.582"
+      unit="s"
+    />
+    <a type="english translation">she was in the farmyard.</a>
+  </u>
+  <u who="PED" uID="u101">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="326.615"
+      end="327.601"
+      unit="s"
+    />
+    <a type="english translation">um</a>
+  </u>
+  <u who="ALI" uID="u102">
+    <w>pero</w>
+    <w>ahora</w>
+    <w>anda</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="327.420"
+      end="329.175"
+      unit="s"
+    />
+    <a type="english translation">but now she is well.</a>
+  </u>
+  <u who="PED" uID="u103">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="329.065"
+      end="329.385"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u104">
+    <w>sí</w>
+    <w>ahora</w>
+    <w>anda</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="329.740"
+      end="331.746"
+      unit="s"
+    />
+    <a type="english translation">yes, now she is well.</a>
+  </u>
+  <u who="ALI" uID="u105">
+    <w>hace</w>
+    <w>tanto</w>
+    <t type="interruption"></t>
+    <media
+      start="331.724"
+      end="332.823"
+      unit="s"
+    />
+    <a type="english translation">long time ago.</a>
+  </u>
+  <u who="PED" uID="u106">
+    <linker type="lazy overlap mark"/>
+    <g><w>los</w>
+    <w>chicos</w><k type="retracing"/></g>
+    <w>los</w>
+    <w>chicos</w>
+    <w>y</w>
+    <w>todos</w>
+    <w>andan</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="331.747"
+      end="334.708"
+      unit="s"
+    />
+    <a type="english translation">the boys and everyone are well.</a>
+  </u>
+  <u who="ALI" uID="u107">
+    <w>hace</w>
+    <w>tanto</w>
+    <w>que</w>
+    <w>no</w>
+    <w>la</w>
+    <w>veo</w>
+    <t type="p"></t>
+    <media
+      start="335.127"
+      end="336.913"
+      unit="s"
+    />
+    <a type="english translation">I haven't seen her in a long time.</a>
+  </u>
+  <u who="PED" uID="u108">
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="336.926"
+      end="338.259"
+      unit="s"
+    />
+    <a type="english translation">yes yes .</a>
+  </u>
+  <u who="ALI" uID="u109">
+    <w>y</w>
+    <w>que</w>
+    <w>ahí</w>
+    <w>venden</w>
+    <w>la</w>
+    <w>leche</w>
+    <w>acá</w>
+    <w>en</w>
+    <w>la</w>
+    <w>chacra</w>
+    <t type="q"></t>
+    <media
+      start="342.659"
+      end="344.557"
+      unit="s"
+    />
+    <a type="english translation">and that there sell the milk here at the farm ?</a>
+  </u>
+  <u who="ALI" uID="u110">
+    <w>o</w>
+    <w>qué</w>
+    <w>hacen</w>
+    <t type="q"></t>
+    <media
+      start="344.536"
+      end="345.464"
+      unit="s"
+    />
+    <a type="english translation">or what do they do?</a>
+  </u>
+  <u who="PED" uID="u111">
+    <w>no</w>
+    <w>no</w>
+    <w>la</w>
+    <w>vienen</w>
+    <w>a</w>
+    <w>buscar</w>
+    <w>del</w>
+    <w>tambo</w>
+    <t type="p"></t>
+    <media
+      start="345.452"
+      end="348.151"
+      unit="s"
+    />
+    <a type="english translation">no, they come to pick it up from the dairy farm.</a>
+  </u>
+  <u who="PED" uID="u112">
+    <g><w>del</w><k type="retracing"/></g>
+    <w>del</w>
+    <w>tambo</w>
+    <w>digo</w>
+    <g><w>del</w><k type="retracing with correction"/></g>
+    <pause symbolic-length="simple"/>
+    <w>de</w>
+    <w>la</w>
+    <w>quesería</w>
+    <t type="p"></t>
+    <media
+      start="348.130"
+      end="351.928"
+      unit="s"
+    />
+    <a type="english translation">from the cheese factory</a>
+  </u>
+  <u who="ALI" uID="u113">
+    <linker type="lazy overlap mark"/>
+    <w>de</w>
+    <w>la</w>
+    <w>quesería</w>
+    <t type="q"></t>
+    <media
+      start="349.954"
+      end="351.096"
+      unit="s"
+    />
+    <a type="english translation">from the cheese factory?</a>
+  </u>
+  <u who="PED" uID="u114">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="352.046"
+      end="352.552"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u115">
+    <w>xxx</w>
+    <w>va</w>
+    <w>todo</w>
+    <w>para</w>
+    <w>la</w>
+    <w>quesería</w>
+    <t type="p"></t>
+    <media
+      start="352.227"
+      end="354.624"
+      unit="s"
+    />
+    <a type="english translation">xxx goes to the cheese factory.</a>
+  </u>
+  <u who="PED" uID="u116">
+    <w>los</w>
+    <w>quesitos</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Chu</w>
+    <t type="p"></t>
+    <media
+      start="354.924"
+      end="357.281"
+      unit="s"
+    />
+    <a type="english translation">the little Chu cheeses.</a>
+  </u>
+  <u who="PED" uID="u117">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="357.174"
+      end="358.865"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+    <a type="comments">pause.</a>
+  </u>
+  <u who="ALI" uID="u118">
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>hacen</w>
+    <w>mucho</w>
+    <w>queso</w>
+    <w>ahora</w>
+    <w>tampoco</w>
+    <t type="p"></t>
+    <media
+      start="362.393"
+      end="365.033"
+      unit="s"
+    />
+    <a type="english translation">I don't know if they made a lot of cheese.</a>
+  </u>
+  <u who="ALI" uID="u119">
+    <w>no</w>
+    <w>se</w>
+    <w>ve</w>
+    <w>mucho</w>
+    <w>en</w>
+    <w>los</w>
+    <w>negocios</w>
+    <t type="p"></t>
+    <media
+      start="365.028"
+      end="366.942"
+      unit="s"
+    />
+    <a type="english translation">It's not easily found in the shops.</a>
+  </u>
+  <u who="PED" uID="u120">
+    <w>este</w>
+    <t type="trail off"></t>
+    <media
+      start="367.788"
+      end="369.605"
+      unit="s"
+    />
+    <a type="english translation">eh...</a>
+  </u>
+  <u who="PED" uID="u121">
+    <w>por</w>
+    <w>lo</w>
+    <w>menos</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="trail off"></t>
+    <media
+      start="369.927"
+      end="372.674"
+      unit="s"
+    />
+    <a type="english translation">at least ...</a>
+  </u>
+  <u who="PED" uID="u122">
+    <w>en</w>
+    <w>los</w>
+    <w>negocios</w>
+    <pause symbolic-length="simple"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>hay</w>
+    <pause symbolic-length="simple"/>
+    <w>este</w>
+    <w>queso</w>
+    <w>rallado</w>
+    <t type="interruption"></t>
+    <media
+      start="372.791"
+      end="381.336"
+      unit="s"
+    />
+    <a type="english translation">in the shops there is grated cheese.</a>
+  </u>
+  <u who="ALI" uID="u123">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>queso</w>
+    <w>rallado</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="380.871"
+      end="383.079"
+      unit="s"
+    />
+    <a type="english translation">ah grated cheese, yes.</a>
+  </u>
+  <u who="PED" uID="u124">
+    <w>todo</w>
+    <w>eso</w>
+    <w>llevan</w>
+    <t type="p"></t>
+    <media
+      start="381.633"
+      end="382.679"
+      unit="s"
+    />
+    <a type="english translation">this is sold.</a>
+  </u>
+  <u who="PED" uID="u125">
+    <w>queso</w>
+    <w>para</w>
+    <w>rallar</w>
+    <w>y</w>
+    <w>el</w>
+    <t type="interruption"></t>
+    <media
+      start="382.654"
+      end="384.601"
+      unit="s"
+    />
+    <a type="english translation">cheese for grating and the ...</a>
+  </u>
+  <u who="ALI" uID="u126">
+    <linker type="lazy overlap mark"/>
+    <w>queso</w>
+    <w>rallado</w>
+    <w>sí</w>
+    <w>se</w>
+    <w>conserva</w>
+    <w>bastante</w>
+    <w>bastante</w>
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="383.150"
+      end="386.707"
+      unit="s"
+    />
+    <a type="english translation">grated cheese stays fresh for a long time, very good.</a>
+  </u>
+  <u who="PED" uID="u127">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="384.713"
+      end="385.289"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u128">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="386.686"
+      end="388.345"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u129">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="388.403"
+      end="389.625"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u130">
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="391.238"
+      end="391.724"
+      unit="s"
+    />
+    <a type="english translation">and...</a>
+  </u>
+  <u who="ALI" uID="u131">
+    <w>estan</w>
+    <w>llevando</w>
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Comodoro</w>
+    <w>ahora</w>
+    <w>o</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="392.505"
+      end="394.757"
+      unit="s"
+    />
+    <a type="english translation">are they supplying Comodoro now or not.</a>
+  </u>
+  <u who="PED" uID="u132">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="394.863"
+      end="395.775"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u133">
+    <w>sí</w>
+    <w>están</w>
+    <w>llevando</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="395.748"
+      end="397.332"
+      unit="s"
+    />
+    <a type="english translation">yes, they are supplying, yes.</a>
+  </u>
+  <u who="PED" uID="u134">
+    <w>pero</w>
+    <w>ese</w>
+    <w>me</w>
+    <w>parece</w>
+    <w>que</w>
+    <w>nada</w>
+    <w>más</w>
+    <w>que</w>
+    <g><w>entregan</w><k type="retracing"/></g>
+    <w>están</w>
+    <w>entregando</w>
+    <w>en</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>La_Anónima</w>
+    <w>y</w>
+    <w>todas</w>
+    <w>esas</w>
+    <w>cosas</w>
+    <pause symbolic-length="simple"/>
+    <w>supermercados</w>
+    <w>grandes</w>
+    <t type="p"></t>
+    <media
+      start="397.349"
+      end="405.739"
+      unit="s"
+    />
+    <a type="english translation">but this, I think, they are bringing in the xxx and all these things, big supermarkets.</a>
+  </u>
+  <u who="PED" uID="u135">
+    <g><w>no</w><k type="retracing"/></g>
+    <w>no</w>
+    <w>hacen</w>
+    <w>reparto</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>negocios</w>
+    <w>chicos</w>
+    <w>porque</w>
+    <w>no</w>
+    <w>están</w>
+    <w>haciendo</w>
+    <w>mucha</w>
+    <w>cantidad</w>
+    <t type="p"></t>
+    <media
+      start="405.793"
+      end="412.822"
+      unit="s"
+    />
+    <a type="english translation">they don't bring to small shops because they are not</a>
+  </u>
+  <u who="PED" uID="u136">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="414.751"
+      end="416.132"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u137">
+    <w>está</w>
+    <w>haciendo</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>de</w>
+    <w>paté</w>
+    <w>gras</w>
+    <w>también</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="419.403"
+      end="422.491"
+      unit="s"
+    />
+    <a type="english translation">he's making a bit of paté as well.</a>
+  </u>
+  <u who="PED" uID="u138">
+    <w>así</w>
+    <w>que</w>
+    <w>hace</w>
+    <w>un</w>
+    <w>poquitito</w>
+    <w>de</w>
+    <w>todo</w>
+    <t type="p"></t>
+    <media
+      start="422.457"
+      end="425.139"
+      unit="s"
+    />
+    <a type="english translation">so, he does a bit of everything.</a>
+  </u>
+  <u who="PED" uID="u139">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="428.747"
+      end="429.163"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <comment type="Generic">pause.</comment>
+  <u who="ALI" uID="u140">
+    <w>que</w>
+    <w>los</w>
+    <w>repartidores</w>
+    <w>son</w>
+    <w>los</w>
+    <t type="self interruption"></t>
+    <media
+      start="434.625"
+      end="437.223"
+      unit="s"
+    />
+    <a type="english translation">so the delivery people are the...</a>
+  </u>
+  <u who="ALI" uID="u141">
+    <linker type="self completion"/>
+    <w>los</w>
+    <w>que</w>
+    <w>entregan</w>
+    <w>son</w>
+    <w>los</w>
+    <w>mismos</w>
+    <w>de</w>
+    <w>siempre</w>
+    <t type="q"></t>
+    <media
+      start="437.137"
+      end="439.676"
+      unit="s"
+    />
+    <a type="english translation">people that deliver are always the same.</a>
+  </u>
+  <u who="PED" uID="u142">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="439.625"
+      end="440.307"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u143">
+    <w>siempre</w>
+    <t type="p"></t>
+    <media
+      start="440.265"
+      end="441.737"
+      unit="s"
+    />
+    <a type="english translation">always.</a>
+  </u>
+  <u who="PED" uID="u144">
+    <w>el</w>
+    <w>hijo</w>
+    <g><w>de</w><k type="retracing"/></g>
+    <w>de</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>López</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="441.764"
+      end="444.884"
+      unit="s"
+    />
+    <a type="english translation">López' son</a>
+  </u>
+  <u who="ALI" uID="u145">
+    <w>pero</w>
+    <w>este</w>
+    <w>chico</w>
+    <w>de</w>
+    <w>hoy</w>
+    <w>es</w>
+    <w>muy</w>
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="445.045"
+      end="446.922"
+      unit="s"
+    />
+    <a type="english translation">but the guy today was very good.</a>
+  </u>
+  <u who="PED" uID="u146">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="445.733"
+      end="446.229"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u147">
+    <w>como</w>
+    <w>quesero</w>
+    <w>xxx</w>
+    <w>es</w>
+    <w>muy</w>
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="446.938"
+      end="449.130"
+      unit="s"
+    />
+    <a type="english translation">as a cheese maker xxx he's very good.</a>
+  </u>
+  <u who="PED" uID="u148">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="448.506"
+      end="448.896"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u149">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="449.059"
+      end="449.570"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u150">
+    <w>aprendió</w>
+    <w>desde</w>
+    <w>el</w>
+    <w>principio</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="449.784"
+      end="451.672"
+      unit="s"
+    />
+    <a type="english translation">he learnt from the beginning and...</a>
+  </u>
+  <u who="PED" uID="u151">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="449.784"
+      end="451.672"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u152">
+    <w>está</w>
+    <w>trabajando</w>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="452.049"
+      end="453.361"
+      unit="s"
+    />
+    <a type="english translation">he works very well.</a>
+  </u>
+  <u who="PED" uID="u153">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="452.299"
+      end="453.227"
+      unit="s"
+    />
+    <a type="english translation">yes yes.</a>
+  </u>
+  <u who="PED" uID="u154">
+    <w>él</w>
+    <w>lleva</w>
+    <w>unos</w>
+    <w>cuantos</w>
+    <w>años</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="453.611"
+      end="455.233"
+      unit="s"
+    />
+    <a type="english translation">he has been there for some years.</a>
+  </u>
+  <u who="ALI" uID="u155">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="455.233"
+      end="456.193"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u156">
+    <w>ya</w>
+    <w>tiene</w>
+    <w>práctica</w>
+    <w>con</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <w>trabajo</w>
+    <t type="p"></t>
+    <media
+      start="456.650"
+      end="459.125"
+      unit="s"
+    />
+    <a type="english translation">he has practice with the work.</a>
+  </u>
+  <u who="PED" uID="u157">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="458.357"
+      end="459.221"
+      unit="s"
+    />
+    <a type="english translation">yes yes.</a>
+  </u>
+  <u who="ALI" uID="u158">
+    <w>pero</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>no</w>
+    <w>debe</w>
+    <w>haber</w>
+    <w>es</w>
+    <w>muchos</w>
+    <w>tambos</w>
+    <w>para</w>
+    <w>entregar</w>
+    <w>leche</w>
+    <t type="p"></t>
+    <media
+      start="462.581"
+      end="466.027"
+      unit="s"
+    />
+    <a type="english translation">but there can't be many dairy farms to bring milk.</a>
+  </u>
+  <u who="PED" uID="u159">
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="465.888"
+      end="467.397"
+      unit="s"
+    />
+    <a type="english translation">no.</a>
+  </u>
+  <u who="PED" uID="u160">
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="467.498"
+      end="467.909"
+      unit="s"
+    />
+    <a type="english translation">no.</a>
+  </u>
+  <u who="ALI" uID="u161">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>este</w>
+    <w>de</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Trior</w>
+    <w>que</w>
+    <w>traía</w>
+    <w>mucha</w>
+    <w>leche</w>
+    <t type="p"></t>
+    <media
+      start="474.816"
+      end="477.045"
+      unit="s"
+    />
+    <a type="english translation">eh, that one from Trior, that brought a lot of milk.</a>
+  </u>
+  <u who="ALI" uID="u162">
+    <w>pero</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>ahora</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <w>estará</w>
+    <w>trayendo</w>
+    <t type="p"></t>
+    <media
+      start="477.335"
+      end="480.103"
+      unit="s"
+    />
+    <a type="english translation">but I don't know now if he'll be bringing any.</a>
+  </u>
+  <u who="PED" uID="u163">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="p"></t>
+    <media
+      start="480.383"
+      end="481.450"
+      unit="s"
+    />
+    <a type="english translation">eh.</a>
+  </u>
+  <u who="PED" uID="u164">
+    <w>sí</w>
+    <w>era</w>
+    <w>el</w>
+    <w>que</w>
+    <w>más</w>
+    <w>traía</w>
+    <w>era</w>
+    <w>me</w>
+    <w>parece</w>
+    <w>este</w>
+    <w>sí</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>John</w>
+    <t type="p"></t>
+    <media
+      start="481.839"
+      end="486.116"
+      unit="s"
+    />
+    <a type="english translation">yes, I think he was the one that used to bring more, this John.</a>
+  </u>
+  <u who="ALI" uID="u165">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>pero</w>
+    <w>después</w>
+    <t type="interruption"></t>
+    <media
+      start="484.580"
+      end="485.924"
+      unit="s"
+    />
+    <a type="english translation">yes but later.</a>
+  </u>
+  <u who="ALI" uID="u166">
+    <linker type="self completion"/>
+    <w>después</w>
+    <w>dijeron</w>
+    <w>que</w>
+    <w>no</w>
+    <w>que</w>
+    <w>había</w>
+    <w>dejado</w>
+    <t type="p"></t>
+    <media
+      start="486.102"
+      end="488.843"
+      unit="s"
+    />
+    <a type="english translation">later, they said that they had left ...</a>
+  </u>
+  <u who="PED" uID="u167">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="486.268"
+      end="486.988"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u168">
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>está</w>
+    <w>vendiendo</w>
+    <w>terneros</w>
+    <t type="p"></t>
+    <media
+      start="488.838"
+      end="490.721"
+      unit="s"
+    />
+    <a type="english translation">I don't know if he is selling calves.</a>
+  </u>
+  <u who="ALI" uID="u169">
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <t type="trail off"></t>
+    <media
+      start="490.694"
+      end="491.355"
+      unit="s"
+    />
+    <a type="english translation">I don't know what.</a>
+  </u>
+  <u who="PED" uID="u170">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="491.844"
+      end="492.388"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u171">
+    <w>no</w>
+    <w>está</w>
+    <w>trayendo</w>
+    <w>tanta</w>
+    <w>leche</w>
+    <t type="p"></t>
+    <media
+      start="492.334"
+      end="494.329"
+      unit="s"
+    />
+    <a type="english translation">he is not bringing so much milk.</a>
+  </u>
+  <u who="PED" uID="u172">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="494.384"
+      end="495.440"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <comment type="Generic">dog barks.</comment>
+  <u who="ALI" uID="u173">
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="498.344"
+      end="498.707"
+      unit="s"
+    />
+    <a type="english translation">no.</a>
+  </u>
+  <u who="ALI" uID="u174">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Toro</w>
+    <w>se</w>
+    <w>dio</w>
+    <w>cuenta</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>visita</w>
+    <t type="p"></t>
+    <media
+      start="498.668"
+      end="500.435"
+      unit="s"
+    />
+    <a type="english translation">Toro realized that there are visitors.</a>
+  </u>
+  <u who="ALI" uID="u175">
+    <w>ya</w>
+    <w>está</w>
+    <w>ladrando</w>
+    <t type="p"></t>
+    <media
+      start="500.374"
+      end="501.244"
+      unit="s"
+    />
+    <a type="english translation">he's already barking.</a>
+  </u>
+  <u who="PED" uID="u176">
+    <w>no</w>
+    <w>es</w>
+    <w>que</w>
+    <w>pasó</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Marcos</w>
+    <g><w>con</w><k type="retracing"/></g>
+    <w>con</w>
+    <w>el</w>
+    <w>tractor</w>
+    <t type="p"></t>
+    <media
+      start="501.292"
+      end="503.964"
+      unit="s"
+    />
+    <a type="english translation">No it's because Marcos passed by with the tractor.</a>
+  </u>
+  <u who="PED" uID="u177">
+    <w>Toro</w>
+    <w>se</w>
+    <g><w>siente</w><k type="retracing"/></g>
+    <w>siente</w>
+    <w>el</w>
+    <w>tractor</w>
+    <w>por</w>
+    <w>eso</w>
+    <w>está</w>
+    <w>ladrando</w>
+    <t type="p"></t>
+    <media
+      start="504.701"
+      end="508.872"
+      unit="s"
+    />
+    <a type="english translation">Toro hears the tractor, that's why he's barking.</a>
+  </u>
+  <u who="ALI" uID="u178">
+    <w>que</w>
+    <w>habrá</w>
+    <w>dejado</w>
+    <w>de</w>
+    <w>sembrar</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Marcos</w>
+    <w>ya</w>
+    <t type="q"></t>
+    <media
+      start="512.572"
+      end="515.127"
+      unit="s"
+    />
+    <a type="english translation">has Marcos stopped sowing already?</a>
+  </u>
+  <u who="PED" uID="u179">
+    <w>y</w>
+    <w>sí</w>
+    <w>era</w>
+    <w>un</w>
+    <w>cuadro</w>
+    <w>xxx</w>
+    <w>sembrar</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="515.079"
+      end="517.961"
+      unit="s"
+    />
+    <a type="english translation">and yes, they was a small area xxx sow there .</a>
+  </u>
+  <u who="ALI" uID="u180">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <t type="p"></t>
+    <media
+      start="516.803"
+      end="517.886"
+      unit="s"
+    />
+    <a type="english translation">ah.</a>
+  </u>
+  <u who="ALI" uID="u181">
+    <w>yo</w>
+    <w>fui</w>
+    <w>allá</w>
+    <w>hoy</w>
+    <t type="p"></t>
+    <media
+      start="518.833"
+      end="520.204"
+      unit="s"
+    />
+    <a type="english translation">I went there today.</a>
+  </u>
+  <u who="ALI" uID="u182">
+    <w>y</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Federico</w>
+    <w>era</w>
+    <w>el</w>
+    <w>que</w>
+    <w>estaba</w>
+    <w>armando</w>
+    <w>la</w>
+    <w>sembradora</w>
+    <t type="p"></t>
+    <media
+      start="520.185"
+      end="523.172"
+      unit="s"
+    />
+    <a type="english translation">and Federico was assembling the sower.</a>
+  </u>
+  <u who="PED" uID="u183">
+    <linker type="lazy overlap mark"/>
+    <w>y</w>
+    <w>con</w>
+    <w>la</w>
+    <w>sembradora</w>
+    <w>que</w>
+    <w>en</w>
+    <w>un</w>
+    <w>rato</w>
+    <g><w>la</w><k type="retracing"/></g>
+    <w>la</w>
+    <w>siembra</w>
+    <t type="p"></t>
+    <media
+      start="521.859"
+      end="524.803"
+      unit="s"
+    />
+    <a type="english translation">and he sows quickly with the sower.</a>
+  </u>
+  <u who="ALI" uID="u184">
+    <w>pero</w>
+    <w>esa</w>
+    <w>papa</w>
+    <w>debe</w>
+    <w>ser</w>
+    <w>media</w>
+    <w>tardía</w>
+    <t type="p"></t>
+    <media
+      start="528.717"
+      end="531.992"
+      unit="s"
+    />
+    <a type="english translation">but this potato must be late.</a>
+  </u>
+  <u who="PED" uID="u185">
+    <w>toda</w>
+    <w>va</w>
+    <w>a</w>
+    <w>ser</w>
+    <g><w>tardia</w><ga type="paralinguistics">laugh</ga></g>
+    <t type="p"></t>
+    <media
+      start="531.922"
+      end="533.858"
+      unit="s"
+    />
+    <a type="english translation">they're all going to be late.</a>
+  </u>
+  <u who="PED" uID="u186">
+    <w>lo</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>es</w>
+    <w>que</w>
+    <pause symbolic-length="simple"/>
+    <w>la</w>
+    <w>ponen</w>
+    <w>en</w>
+    <w>cámaras</w>
+    <w>viste</w>
+    <t type="p"></t>
+    <media
+      start="533.852"
+      end="538.070"
+      unit="s"
+    />
+    <a type="english translation">what happens is that they put it in cold stores, see.</a>
+  </u>
+  <u who="PED" uID="u187">
+    <g><w>no</w><k type="retracing"/></g>
+    <w>no</w>
+    <w>brota</w>
+    <t type="p"></t>
+    <media
+      start="538.579"
+      end="539.055"
+      unit="s"
+    />
+    <a type="english translation">it doesn't sprout.</a>
+  </u>
+  <u who="PED" uID="u188">
+    <w>recién</w>
+    <w>ahora</w>
+    <w>se</w>
+    <w>había</w>
+    <w>puesto</w>
+    <w>a</w>
+    <w>brotar</w>
+    <w>mucho</w>
+    <w>ves</w>
+    <t type="p"></t>
+    <media
+      start="539.525"
+      end="541.717"
+      unit="s"
+    />
+    <a type="english translation">just recently it was sprouting too much.</a>
+  </u>
+  <u who="ALI" uID="u189">
+    <linker type="lazy overlap mark"/>
+    <w>porque</w>
+    <w>antes</w>
+    <w>siempre</w>
+    <w>para</w>
+    <w>Navidad</w>
+    <w>había</w>
+    <w>papa</w>
+    <w>nueva</w>
+    <t type="p"></t>
+    <media
+      start="541.444"
+      end="544.191"
+      unit="s"
+    />
+    <a type="english translation">because, before, for Christmas there were always new potatoes.</a>
+  </u>
+  <u who="ALI" uID="u190">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="544.073"
+      end="545.183"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u191">
+    <w>y</w>
+    <w>ha</w>
+    <w>cambiado</w>
+    <w>tanto</w>
+    <w>el</w>
+    <w>clima</w>
+    <w>que</w>
+    <pause symbolic-length="simple"/>
+    <w>ya</w>
+    <w>no</w>
+    <t type="trail off"></t>
+    <media
+      start="545.089"
+      end="549.207"
+      unit="s"
+    />
+    <a type="english translation">and the weather has changed so much that ...</a>
+  </u>
+  <u who="ALI" uID="u192">
+    <w>y</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>había</w>
+    <w>ya</w>
+    <w>para</w>
+    <w>esta</w>
+    <w>época</w>
+    <w>era</w>
+    <w>habas</w>
+    <t type="p"></t>
+    <media
+      start="549.176"
+      end="551.506"
+      unit="s"
+    />
+    <a type="english translation">and by this time, we usually had broad beans.</a>
+  </u>
+  <u who="ALI" uID="u193">
+    <w>pero</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>hay</w>
+    <w>ya</w>
+    <t type="p"></t>
+    <media
+      start="551.501"
+      end="553.192"
+      unit="s"
+    />
+    <a type="english translation">but I don't know if there are are yet.</a>
+  </u>
+  <u who="PED" uID="u194">
+    <w>no</w>
+    <w>he</w>
+    <w>visto</w>
+    <pause symbolic-length="simple"/>
+    <w>en</w>
+    <w>el</w>
+    <w>negocio</w>
+    <t type="p"></t>
+    <media
+      start="553.388"
+      end="556.865"
+      unit="s"
+    />
+    <a type="english translation">I haven't seen any in the shop.</a>
+  </u>
+  <u who="ALI" uID="u195">
+    <linker type="lazy overlap mark"/>
+    <w>siempre</w>
+    <w>para</w>
+    <w>los</w>
+    <w>primeros</w>
+    <w>día</w>
+    <w>de</w>
+    <w>noviembre</w>
+    <w>había</w>
+    <w>habas</w>
+    <t type="p"></t>
+    <media
+      start="555.649"
+      end="559.208"
+      unit="s"
+    />
+    <a type="english translation">always, by the beginning of November there would be broad beans .</a>
+  </u>
+  <u who="PED" uID="u196">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="557.059"
+      end="557.891"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u197">
+    <w>no</w>
+    <w>he</w>
+    <w>visto</w>
+    <w>en</w>
+    <w>los</w>
+    <w>negocios</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="559.117"
+      end="561.079"
+      unit="s"
+    />
+    <a type="english translation">I haven't seen them in the shops, no.</a>
+  </u>
+  <u who="PED" uID="u198">
+    <w>pero</w>
+    <w>algunos</w>
+    <w>que</w>
+    <w>tienen</w>
+    <w>invernadero</w>
+    <w>pueden</w>
+    <w>tener</w>
+    <t type="p"></t>
+    <media
+      start="561.723"
+      end="565.832"
+      unit="s"
+    />
+    <a type="english translation">but, some who have greenhouse may have them, yes.</a>
+  </u>
+  <u who="PED" uID="u199">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="565.859"
+      end="566.323"
+      unit="s"
+    />
+    <a type="english translation">yes .</a>
+  </u>
+  <u who="PED" uID="u200">
+    <w type="fragment">pue</w>
+    <w>puede</w>
+    <w>haber</w>
+    <t type="p"></t>
+    <media
+      start="566.405"
+      end="568.047"
+      unit="s"
+    />
+    <a type="english translation">there may be.</a>
+  </u>
+  <u who="ALI" uID="u201">
+    <w>y</w>
+    <w>los</w>
+    <w>ajos</w>
+    <w>también</w>
+    <w>siempre</w>
+    <w>estaban</w>
+    <w>para</w>
+    <w>Navidad</w>
+    <t type="p"></t>
+    <media
+      start="568.209"
+      end="571.484"
+      unit="s"
+    />
+    <a type="english translation">and always by Christmas there was garlic too.</a>
+  </u>
+  <u who="PED" uID="u202">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="571.621"
+      end="572.004"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u203">
+    <w>bueno</w>
+    <w>esos</w>
+    <w>siguen</w>
+    <w>estando</w>
+    <w>para</w>
+    <w>Navidad</w>
+    <t type="p"></t>
+    <media
+      start="572.081"
+      end="574.966"
+      unit="s"
+    />
+    <a type="english translation">but they are still ready for Christmas.</a>
+  </u>
+  <u who="PED" uID="u204">
+    <w>sí</w>
+    <w>el</w>
+    <w>vecino</w>
+    <w>siempre</w>
+    <w>saca</w>
+    <w>para</w>
+    <w>Navidad</w>
+    <t type="p"></t>
+    <media
+      start="574.972"
+      end="577.868"
+      unit="s"
+    />
+    <a type="english translation">yes, the neighbour always have them for Christmas.</a>
+    <a type="comments">cat meows.</a>
+  </u>
+  <u who="ALI" uID="u205">
+    <w>parece</w>
+    <w>que</w>
+    <w>uno</w>
+    <w>de</w>
+    <w>los</w>
+    <w>gatos</w>
+    <w>anda</w>
+    <w>gritando</w>
+    <w>por</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="585.053"
+      end="587.400"
+      unit="s"
+    />
+    <a type="english translation">it seems that one of the cats is screaming around there.</a>
+  </u>
+  <u who="ALI" uID="u206">
+    <w>quiere</w>
+    <w>comer</w>
+    <t type="p"></t>
+    <media
+      start="587.389"
+      end="588.338"
+      unit="s"
+    />
+    <a type="english translation">it wants to eat.</a>
+  </u>
+  <u who="PED" uID="u207">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="588.306"
+      end="589.768"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u208">
+    <w>viento</w>
+    <w>otra</w>
+    <w>vez</w>
+    <w>ya</w>
+    <w>está</w>
+    <w>empezando</w>
+    <w>a</w>
+    <w>soplar</w>
+    <w>fuerte</w>
+    <w>otra</w>
+    <w>vez</w>
+    <t type="p"></t>
+    <media
+      start="603.307"
+      end="607.040"
+      unit="s"
+    />
+    <a type="english translation">wind again, it's already starting to blow strong again.</a>
+  </u>
+  <u who="ALI" uID="u209">
+    <w>y</w>
+    <w>el</w>
+    <w>otro</w>
+    <w>día</w>
+    <w>anduvieron</w>
+    <w>las</w>
+    <w>golondrinas</w>
+    <w>así</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="608.253"
+      end="611.394"
+      unit="s"
+    />
+    <a type="english translation">and the other day there were swallows</a>
+  </u>
+  <u who="ALI" uID="u210">
+    <w>cuando</w>
+    <w>andan</w>
+    <w>las</w>
+    <w>golondrinas</w>
+    <w>volando</w>
+    <w>bajito</w>
+    <pause symbolic-length="simple"/>
+    <w>viento</w>
+    <t type="p"></t>
+    <media
+      start="612.592"
+      end="617.797"
+      unit="s"
+    />
+    <a type="english translation">when the swallows fly low, it means wind.</a>
+  </u>
+  <u who="ALI" uID="u211">
+    <w>lo</w>
+    <w>que</w>
+    <w>no</w>
+    <w>he</w>
+    <w>visto</w>
+    <w>este</w>
+    <w>año</w>
+    <w>son</w>
+    <w>urracas</w>
+    <t type="p"></t>
+    <media
+      start="618.057"
+      end="620.964"
+      unit="s"
+    />
+    <a type="english translation">what I haven't seen this year is magpies.</a>
+  </u>
+  <u who="PED" uID="u212">
+    <w>no</w>
+    <w>ha</w>
+    <w>estado</w>
+    <w>la</w>
+    <t type="interruption"></t>
+    <media
+      start="621.338"
+      end="623.231"
+      unit="s"
+    />
+    <a type="english translation">it hasn't been the ...</a>
+  </u>
+  <u who="ALI" uID="u213">
+    <linker type="lazy overlap mark"/>
+    <w>urracas</w>
+    <w>no</w>
+    <w>hay</w>
+    <t type="p"></t>
+    <media
+      start="622.703"
+      end="623.621"
+      unit="s"
+    />
+    <a type="english translation">there are no magpies.</a>
+  </u>
+  <u who="PED" uID="u214">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="623.782"
+      end="624.224"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u215">
+    <w>los</w>
+    <w>horneritos</w>
+    <w>están</w>
+    <w>haciendo</w>
+    <g><w>sus</w><k type="retracing"/></g>
+    <w>sus</w>
+    <w>nidos</w>
+    <t type="p"></t>
+    <media
+      start="625.733"
+      end="628.960"
+      unit="s"
+    />
+    <a type="english translation">the ovenbirds are making their nests.</a>
+  </u>
+  <u who="PED" uID="u216">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="628.265"
+      end="629.019"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u217">
+    <w>han</w>
+    <w>hecho</w>
+    <w>uno</w>
+    <w>ahí</w>
+    <w>en</w>
+    <w>el</w>
+    <w>último</w>
+    <t type="self interruption"></t>
+    <media
+      start="634.391"
+      end="637.367"
+      unit="s"
+    />
+    <a type="english translation">they made one there, in the last.</a>
+  </u>
+  <u who="PED" uID="u218">
+    <linker type="self completion"/>
+    <w>sauce</w>
+    <w>ahí</w>
+    <w>han</w>
+    <w>hecho</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <g><w>año</w><k type="retracing with correction"/></g>
+    <w>un</w>
+    <w>nido</w>
+    <w>este</w>
+    <w>año</w>
+    <t type="p"></t>
+    <media
+      start="637.752"
+      end="641.571"
+      unit="s"
+    />
+    <a type="english translation">willow, they made there a nest this year.</a>
+  </u>
+  <u who="PED" uID="u219">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="643.805"
+      end="644.898"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u220">
+    <w>cuando</w>
+    <w>estaban</w>
+    <w>los</w>
+    <w>manzanos</w>
+    <w>hicieron</w>
+    <w>uno</w>
+    <w>lindo</w>
+    <w>ahí</w>
+    <w>cerquita</w>
+    <t type="p"></t>
+    <media
+      start="645.498"
+      end="649.268"
+      unit="s"
+    />
+    <a type="english translation">when the apple trees were there they made a beautiful one very nearby.</a>
+  </u>
+  <u who="PED" uID="u221">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="649.170"
+      end="649.965"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u222">
+    <linker type="lazy overlap mark"/>
+    <w>después</w>
+    <w>ya</w>
+    <w>se</w>
+    <w>van</w>
+    <w>más</w>
+    <w>lejos</w>
+    <w>como</w>
+    <w>hay</w>
+    <w>tanto</w>
+    <w>gato</w>
+    <t type="p"></t>
+    <media
+      start="649.339"
+      end="651.881"
+      unit="s"
+    />
+    <a type="english translation">then, they go far away because there are so many cats.</a>
+  </u>
+  <u who="ALI" uID="u223">
+    <w>tienen</w>
+    <w>miedo</w>
+    <w>que</w>
+    <w>los</w>
+    <w>gatos</w>
+    <w>los</w>
+    <w>coma</w>
+    <t type="p"></t>
+    <media
+      start="652.112"
+      end="653.840"
+      unit="s"
+    />
+    <a type="english translation">they are afraid of getting eaten by the cats.</a>
+  </u>
+  <u who="PED" uID="u224">
+    <w>sí</w>
+    <w>los</w>
+    <w>corran</w>
+    <w>los</w>
+    <w>gatos</w>
+    <t type="p"></t>
+    <media
+      start="654.343"
+      end="655.756"
+      unit="s"
+    />
+    <a type="english translation">yes, the cats made them run away.</a>
+  </u>
+  <u who="PED" uID="u225">
+    <w>son</w>
+    <w>muy</w>
+    <w>confiados</w>
+    <w>ellos</w>
+    <t type="p"></t>
+    <media
+      start="657.941"
+      end="659.647"
+      unit="s"
+    />
+    <a type="english translation">they are very trusting.</a>
+  </u>
+  <u who="ALI" uID="u226">
+    <w>sí</w>
+    <w>son</w>
+    <w type="fragment">man</w>
+    <w>se</w>
+    <w>amansan</w>
+    <w>enseguida</w>
+    <t type="p"></t>
+    <media
+      start="659.746"
+      end="662.690"
+      unit="s"
+    />
+    <a type="english translation">yes, they become tame inmediately.</a>
+  </u>
+  <u who="ALI" uID="u227">
+    <w>los</w>
+    <w>horneros</w>
+    <w>se</w>
+    <w>amansan</w>
+    <w>enseguida</w>
+    <t type="p"></t>
+    <media
+      start="663.386"
+      end="666.650"
+      unit="s"
+    />
+    <a type="english translation">the ovenbirds become tame inmediately.</a>
+  </u>
+  <u who="ALI" uID="u228">
+    <w>por</w>
+    <w>cierto</w>
+    <w>de</w>
+    <w>las</w>
+    <w>semillas</w>
+    <w>esas</w>
+    <w>que</w>
+    <w>traje</w>
+    <w>el</w>
+    <w>año</w>
+    <w>pasado</w>
+    <pause symbolic-length="simple"/>
+    <w>de</w>
+    <w>esas</w>
+    <pause symbolic-length="simple"/>
+    <w>margaritas</w>
+    <w>todas</w>
+    <t type="p"></t>
+    <media
+      start="673.687"
+      end="679.789"
+      unit="s"
+    />
+    <a type="english translation">by the way, the seeds that I brought last year, all daisies.</a>
+  </u>
+  <u who="ALI" uID="u229">
+    <w>pompones</w>
+    <t type="p"></t>
+    <media
+      start="679.782"
+      end="682.406"
+      unit="s"
+    />
+    <a type="english translation">pompoms.</a>
+  </u>
+  <u who="PED" uID="u230">
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="683.741"
+      end="685.139"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u231">
+    <w>esa</w>
+    <g><w>está</w><k type="retracing with correction"/></g>
+    <w>están</w>
+    <w>puestas</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="685.293"
+      end="687.501"
+      unit="s"
+    />
+    <a type="english translation">these are sown there.</a>
+  </u>
+  <u who="PED" uID="u232">
+    <w>y</w>
+    <w>despues</w>
+    <w>puse</w>
+    <w>unas</w>
+    <w>que</w>
+    <w>me</w>
+    <w>trajeron</w>
+    <w>semillas</w>
+    <w>de</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Chile</w>
+    <w>también</w>
+    <w>pero</w>
+    <t type="self interruption"></t>
+    <media
+      start="687.814"
+      end="691.558"
+      unit="s"
+    />
+    <a type="english translation">and then I sowed some that I was given , Chilean seeds, also but.</a>
+  </u>
+  <u who="PED" uID="u233">
+    <linker type="self completion"/>
+    <w>hasta</w>
+    <w>ahora</w>
+    <w>no</w>
+    <w>han</w>
+    <w>nacido</w>
+    <w>tampoco</w>
+    <t type="p"></t>
+    <media
+      start="691.563"
+      end="693.696"
+      unit="s"
+    />
+    <a type="english translation">but so far there haven't sprout.</a>
+  </u>
+  <u who="ALI" uID="u234">
+    <w>xxx</w>
+    <w>la</w>
+    <w>semilla</w>
+    <w>que</w>
+    <w>puse</w>
+    <w>ahí</w>
+    <w>en</w>
+    <pause symbolic-length="simple"/>
+    <w>en</w>
+    <w>el</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="694.728"
+      end="699.268"
+      unit="s"
+    />
+    <a type="english translation">xxx the seed that I puse there in the xxx.</a>
+  </u>
+  <u who="ALI" uID="u235">
+    <w>y</w>
+    <w>tampoco</w>
+    <w>salió</w>
+    <w>ni</w>
+    <w>uno</w>
+    <t type="p"></t>
+    <media
+      start="699.268"
+      end="701.145"
+      unit="s"
+    />
+    <a type="english translation">and nothing grew either.</a>
+  </u>
+  <u who="PED" uID="u236">
+    <w>sí</w>
+    <w>sí</w>
+    <t type="interruption"></t>
+    <media
+      start="701.134"
+      end="701.881"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u237">
+    <linker type="lazy overlap mark"/>
+    <w>yo</w>
+    <w>espero</w>
+    <w>que</w>
+    <w>la</w>
+    <w>planta</w>
+    <w>que</w>
+    <w>me</w>
+    <w>dieron</w>
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>alcance</w>
+    <w>a</w>
+    <w>dar</w>
+    <w>flor</w>
+    <w>para</w>
+    <w>ver</w>
+    <w>cómo</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="701.438"
+      end="707.254"
+      unit="s"
+    />
+    <a type="english translation">I hope that the plant that they gave me blossoms, to see what the flower is like.</a>
+  </u>
+  <u who="PED" uID="u238">
+    <w>claro</w>
+    <t type="p"></t>
+    <media
+      start="706.139"
+      end="707.062"
+      unit="s"
+    />
+    <a type="english translation">of course.</a>
+  </u>
+  <comment type="Generic">pause.</comment>
+  <u who="PED" uID="u239">
+    <w>y</w>
+    <w>el</w>
+    <w>césped</w>
+    <w>también</w>
+    <g><w>ha</w><k type="retracing"/></g>
+    <w>ha</w>
+    <w>crecido</w>
+    <t type="p"></t>
+    <media
+      start="714.246"
+      end="716.193"
+      unit="s"
+    />
+    <a type="english translation">and the grass has grown too.</a>
+  </u>
+  <u who="PED" uID="u240">
+    <w>esta</w>
+    <w>tarde</w>
+    <w>me</w>
+    <w>parece</w>
+    <w>que</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>tener</w>
+    <w>que</w>
+    <w>darle</w>
+    <w>una</w>
+    <w>pasadita</w>
+    <t type="p"></t>
+    <media
+      start="716.182"
+      end="719.211"
+      unit="s"
+    />
+    <a type="english translation">it looks like I'll have to cut it this afternoon.</a>
+  </u>
+  <u who="PED" uID="u241">
+    <w>cortarlo</w>
+    <t type="p"></t>
+    <media
+      start="719.220"
+      end="721.284"
+      unit="s"
+    />
+    <a type="english translation">cut it.</a>
+  </u>
+  <u who="ALI" uID="u242">
+    <w>cortarlo</w>
+    <t type="p"></t>
+    <media
+      start="721.259"
+      end="721.654"
+      unit="s"
+    />
+    <a type="english translation">cut it</a>
+  </u>
+  <u who="ALI" uID="u243">
+    <w>y</w>
+    <w>regarlo</w>
+    <t type="p"></t>
+    <media
+      start="721.881"
+      end="722.681"
+      unit="s"
+    />
+    <a type="english translation">and water it.</a>
+  </u>
+  <u who="PED" uID="u244">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="722.654"
+      end="723.844"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u245">
+    <w>el</w>
+    <w>viento</w>
+    <w>este</w>
+    <w>seca</w>
+    <w>muchísimo</w>
+    <t type="p"></t>
+    <media
+      start="724.063"
+      end="725.874"
+      unit="s"
+    />
+    <a type="english translation">this wind dries it a lot.</a>
+  </u>
+  <u who="ALI" uID="u246">
+    <w>se</w>
+    <w>seca</w>
+    <t type="p"></t>
+    <media
+      start="725.906"
+      end="726.583"
+      unit="s"
+    />
+    <a type="english translation">it gets dry.</a>
+  </u>
+  <u who="ALI" uID="u247">
+    <w>si</w>
+    <w>yo</w>
+    <w>ayer</w>
+    <w>regué</w>
+    <w>todos</w>
+    <w>los</w>
+    <w>canteros</w>
+    <w>allá</w>
+    <w>en</w>
+    <w>el</w>
+    <w>borde</w>
+    <pause symbolic-length="simple"/>
+    <w>del</w>
+    <w>alambrado</w>
+    <w>y</w>
+    <w>ya</w>
+    <w>está</w>
+    <t type="p"></t>
+    <media
+      start="726.567"
+      end="731.861"
+      unit="s"
+    />
+    <a type="english translation">I watered all the flowerbeds there in the border of the wire fence, and that's it.</a>
+  </u>
+  <u who="PED" uID="u248">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="729.466"
+      end="730.005"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u249">
+    <w>arriba</w>
+    <w>está</w>
+    <w>seco</w>
+    <t type="p"></t>
+    <media
+      start="731.824"
+      end="733.557"
+      unit="s"
+    />
+    <a type="english translation">it was dry on the top.</a>
+    <a type="comments">long pause.</a>
+  </u>
+  <u who="ALI" uID="u250">
+    <w>y</w>
+    <w>estamos</w>
+    <w>ya</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>diez</w>
+    <w>de</w>
+    <w>noviembre</w>
+    <w>ya</w>
+    <t type="p"></t>
+    <media
+      start="748.022"
+      end="751.932"
+      unit="s"
+    />
+    <a type="english translation">and it's the 10th of November already.</a>
+  </u>
+  <u who="PED" uID="u251">
+    <w>cierto</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="p"></t>
+    <media
+      start="751.985"
+      end="752.902"
+      unit="s"
+    />
+    <a type="english translation">true.</a>
+  </u>
+  <u who="PED" uID="u252">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="754.204"
+      end="754.791"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u253">
+    <w>muy</w>
+    <w>pronto</w>
+    <w>van</w>
+    <w>a</w>
+    <w>empezar</w>
+    <w>a</w>
+    <w>terminar</w>
+    <w>las</w>
+    <w>clases</w>
+    <w>los</w>
+    <w>actos</w>
+    <w>de</w>
+    <w>fin</w>
+    <w>de</w>
+    <w>curso</w>
+    <t type="p"></t>
+    <media
+      start="755.767"
+      end="759.959"
+      unit="s"
+    />
+    <a type="english translation">very soon it's gonna start to finish the classes, the proms.</a>
+  </u>
+  <u who="PED" uID="u254">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="760.602"
+      end="761.695"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u255">
+    <w>ya</w>
+    <w>pronto</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>pensar</w>
+    <w>en</w>
+    <t type="self interruption"></t>
+    <media
+      start="763.912"
+      end="766.083"
+      unit="s"
+    />
+    <a type="english translation">we have to think soon in ...</a>
+  </u>
+  <u who="PED" uID="u256">
+    <linker type="self completion"/>
+    <w>en</w>
+    <w>las</w>
+    <w>fiestas</w>
+    <t type="p"></t>
+    <media
+      start="766.067"
+      end="766.979"
+      unit="s"
+    />
+    <a type="english translation">the parties.</a>
+  </u>
+  <u who="ALI" uID="u257">
+    <w>en</w>
+    <w>la</w>
+    <w>fiesta</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>comprale</w>
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Alberto</w>
+    <t type="p"></t>
+    <media
+      start="766.979"
+      end="769.262"
+      unit="s"
+    />
+    <a type="english translation">in the party we have to buy something for Alberto.</a>
+  </u>
+  <u who="PED" uID="u258">
+    <w>hay</w>
+    <w>que</w>
+    <w>comprarle</w>
+    <w>al</w>
+    <w>nieto</w>
+    <t type="p"></t>
+    <media
+      start="769.460"
+      end="771.481"
+      unit="s"
+    />
+    <a type="english translation">we have to buy for the grandson .</a>
+  </u>
+  <u who="PED" uID="u259">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="773.208"
+      end="775.405"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+    <a type="comments">long pause.</a>
+  </u>
+  <u who="ALI" uID="u260">
+    <w>los</w>
+    <w>de</w>
+    <w>la</w>
+    <w>biotécnica</w>
+    <w>me</w>
+    <w>parece</w>
+    <w>que</w>
+    <w>el</w>
+    <w>diecinueve</w>
+    <w>hacen</w>
+    <pause symbolic-length="simple"/>
+    <w>la</w>
+    <w>fiesta</w>
+    <t type="p"></t>
+    <media
+      start="792.917"
+      end="797.839"
+      unit="s"
+    />
+    <a type="english translation">I think that the one from biotechnology has the party on the 19th.</a>
+  </u>
+  <u who="PED" uID="u261">
+    <w>ajá</w>
+    <t type="p"></t>
+    <media
+      start="798.664"
+      end="800.861"
+      unit="s"
+    />
+    <a type="english translation">ah.</a>
+  </u>
+  <u who="ALI" uID="u262">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>termina</w>
+    <pause symbolic-length="simple"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ernesto</w>
+    <t type="p"></t>
+    <media
+      start="798.889"
+      end="802.937"
+      unit="s"
+    />
+    <a type="english translation">Ernesto finishes.</a>
+  </u>
+  <u who="PED" uID="u263">
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="803.815"
+      end="804.717"
+      unit="s"
+    />
+    <a type="english translation">yes yes</a>
+  </u>
+  <u who="ALI" uID="u264">
+    <w>el</w>
+    <w>diecinueve</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>me</w>
+    <w>dijo</w>
+    <t type="p"></t>
+    <media
+      start="804.685"
+      end="806.557"
+      unit="s"
+    />
+    <a type="english translation">on the 19th, I think he told me.</a>
+  </u>
+  <u who="ALI" uID="u265">
+    <w>el</w>
+    <w>va</w>
+    <w>a</w>
+    <w>bajar</w>
+    <w>con</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Alberto</w>
+    <t type="p"></t>
+    <media
+      start="806.487"
+      end="809.047"
+      unit="s"
+    />
+    <a type="english translation">and he is coming with Alberto.</a>
+  </u>
+  <u who="PED" uID="u266">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <t type="p"></t>
+    <media
+      start="809.682"
+      end="810.951"
+      unit="s"
+    />
+    <a type="english translation">ah.</a>
+  </u>
+  <u who="ALI" uID="u267">
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>va</w>
+    <w>a</w>
+    <w>querer</w>
+    <w>bajar</w>
+    <w>pero</w>
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="811.190"
+      end="813.819"
+      unit="s"
+    />
+    <a type="english translation">I don't know if he would like to come, but well.</a>
+  </u>
+  <u who="ALI" uID="u268">
+    <w>dice</w>
+    <w>que</w>
+    <w>va</w>
+    <w>a</w>
+    <w>bajar</w>
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>con</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Alberto</w>
+    <t type="p"></t>
+    <media
+      start="813.958"
+      end="818.288"
+      unit="s"
+    />
+    <a type="english translation">he says that he is coming with Alberto.</a>
+  </u>
+  <u who="PED" uID="u269">
+    <w>sí</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Alberto</w>
+    <t type="p"></t>
+    <media
+      start="818.299"
+      end="819.163"
+      unit="s"
+    />
+    <a type="english translation">yes, Alberto.</a>
+  </u>
+  <u who="PED" uID="u270">
+    <w>xxx</w>
+    <w>todo</w>
+    <t type="p"></t>
+    <media
+      start="819.373"
+      end="821.144"
+      unit="s"
+    />
+    <a type="english translation">xxx all.</a>
+  </u>
+  <u who="PED" uID="u271">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="821.192"
+      end="821.986"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u272">
+    <w>ya</w>
+    <w>va</w>
+    <w>a</w>
+    <w>estar</w>
+    <w>practicando</w>
+    <w>seguro</w>
+    <t type="p"></t>
+    <media
+      start="822.169"
+      end="824.399"
+      unit="s"
+    />
+    <a type="english translation">he must be practicing already, for sure.</a>
+  </u>
+  <u who="PED" uID="u273">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="824.511"
+      end="826.009"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u274">
+    <w>y</w>
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Alberto</w>
+    <w>de</w>
+    <w>dicen</w>
+    <w>que</w>
+    <w>después</w>
+    <w>va</w>
+    <w>a</w>
+    <w>cenar</w>
+    <w>y</w>
+    <w>el</w>
+    <w>contento</w>
+    <t type="p"></t>
+    <media
+      start="827.181"
+      end="830.851"
+      unit="s"
+    />
+    <a type="english translation">and to Alberto they say that later he goes for dinner, and he's very happy with it.</a>
+  </u>
+  <u who="PED" uID="u275">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="831.070"
+      end="831.966"
+      unit="s"
+    />
+    <a type="comments">long pause (approx 30 seconds).</a>
+  </u>
+  <u who="ALI" uID="u276">
+    <w>acá</w>
+    <w>en</w>
+    <w>el</w>
+    <w>almacén</w>
+    <w>venden</w>
+    <w>carne</w>
+    <w>ahora</w>
+    <t type="q"></t>
+    <media
+      start="861.684"
+      end="863.881"
+      unit="s"
+    />
+    <a type="english translation">are they selling meat here in the shop now?</a>
+  </u>
+  <u who="ALI" uID="u277">
+    <w>o</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>encargarla</w>
+    <t type="p"></t>
+    <media
+      start="865.095"
+      end="866.668"
+      unit="s"
+    />
+    <a type="english translation">or do we have to order it ?</a>
+  </u>
+  <u who="PED" uID="u278">
+    <w>no</w>
+    <w>venden</w>
+    <w>pero</w>
+    <w type="fragment">t</w>
+    <w>no</w>
+    <w>no</w>
+    <t type="trail off"></t>
+    <media
+      start="866.639"
+      end="869.290"
+      unit="s"
+    />
+    <a type="english translation">no, they sell but no no.</a>
+  </u>
+  <u who="PED" uID="u279">
+    <w>traen</w>
+    <w>los</w>
+    <w>lunes</w>
+    <w>y</w>
+    <w>cuando</w>
+    <pause symbolic-length="simple"/>
+    <w>lunes</w>
+    <w>los</w>
+    <w>martes</w>
+    <w>y</w>
+    <w>después</w>
+    <w>ya</w>
+    <w>no</w>
+    <t type="trail off"></t>
+    <media
+      start="870.076"
+      end="874.785"
+      unit="s"
+    />
+    <a type="english translation">they bring on monday. When, monday, tuesday, and then they don't.</a>
+  </u>
+  <u who="PED" uID="u280">
+    <w>si</w>
+    <w>se</w>
+    <w>termina</w>
+    <w>el</w>
+    <w>jueves</w>
+    <w>ya</w>
+    <w>no</w>
+    <w>traen</w>
+    <w>hasta</w>
+    <w>el</w>
+    <w>otro</w>
+    <w>lunes</w>
+    <t type="p"></t>
+    <media
+      start="875.376"
+      end="878.998"
+      unit="s"
+    />
+    <a type="english translation">if it finishes by Thursday then, they don't bring it until the following monday</a>
+  </u>
+  <u who="PED" uID="u281">
+    <w>y</w>
+    <w>si</w>
+    <w>termina</w>
+    <t type="self interruption"></t>
+    <media
+      start="878.949"
+      end="880.005"
+      unit="s"
+    />
+    <a type="english translation">and if it finishes ...</a>
+  </u>
+  <u who="PED" uID="u282">
+    <w>por</w>
+    <w>allá</w>
+    <g><w>va</w><k type="retracing with correction"/></g>
+    <w>aguanta</w>
+    <w>hasta</w>
+    <w>el</w>
+    <w>sábado</w>
+    <w>pero</w>
+    <t type="p"></t>
+    <media
+      start="880.005"
+      end="882.650"
+      unit="s"
+    />
+    <a type="english translation">it last up to saturday but.</a>
+  </u>
+  <u who="PED" uID="u283">
+    <w>no</w>
+    <w>no</w>
+    <w>no</w>
+    <w>traen</w>
+    <w>toda</w>
+    <w>la</w>
+    <w>semana</w>
+    <t type="p"></t>
+    <media
+      start="883.174"
+      end="885.814"
+      unit="s"
+    />
+    <a type="english translation">no, they don't bring any all week.</a>
+  </u>
+  <u who="PED" uID="u284">
+    <w>así</w>
+    <t type="p"></t>
+    <media
+      start="887.231"
+      end="888.186"
+      unit="s"
+    />
+    <a type="english translation">so.</a>
+  </u>
+  <u who="PED" uID="u285">
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>una</w>
+    <w>que</w>
+    <w>no</w>
+    <w>se</w>
+    <w>consigue</w>
+    <w>tampoco</w>
+    <w>mucho</w>
+    <w>acá</w>
+    <t type="p"></t>
+    <media
+      start="889.915"
+      end="893.525"
+      unit="s"
+    />
+    <a type="english translation">something that is difficult to find here.</a>
+  </u>
+  <u who="PED" uID="u286">
+    <w>está</w>
+    <w>medio</w>
+    <w>escaseando</w>
+    <w>como</w>
+    <w>están</w>
+    <t type="trail off"></t>
+    <media
+      start="893.543"
+      end="895.293"
+      unit="s"
+    />
+    <a type="english translation">it is running short, because they are ...</a>
+  </u>
+  <u who="PED" uID="u287">
+    <w>como</w>
+    <w>los</w>
+    <pause symbolic-length="simple"/>
+    <w>del</w>
+    <w>campo</w>
+    <w>están</w>
+    <w>esquilando</w>
+    <t type="self interruption"></t>
+    <media
+      start="897.023"
+      end="900.511"
+      unit="s"
+    />
+    <a type="english translation">because the ones from the field are shearing...</a>
+  </u>
+  <u who="PED" uID="u288">
+    <w>no</w>
+    <w>hasta</w>
+    <w>que</w>
+    <w>no</w>
+    <w>terminen</w>
+    <w>de</w>
+    <w>esquilar</w>
+    <w>no</w>
+    <w>venden</w>
+    <t type="p"></t>
+    <media
+      start="900.503"
+      end="903.585"
+      unit="s"
+    />
+    <a type="english translation">until they don't finish shearing they won't sell.</a>
+  </u>
+  <u who="ALI" uID="u289">
+    <w>sí</w>
+    <w>la</w>
+    <w>época</w>
+    <w>de</w>
+    <w>los</w>
+    <w>corderos</w>
+    <w>ya</w>
+    <w>se</w>
+    <w>está</w>
+    <w>pasando</w>
+    <t type="p"></t>
+    <media
+      start="905.247"
+      end="908.319"
+      unit="s"
+    />
+    <a type="english translation">yes, the lamb season has finished already.</a>
+  </u>
+  <u who="ALI" uID="u290">
+    <w>ya</w>
+    <w>están</w>
+    <w>medio</w>
+    <w>grandes</w>
+    <w>ya</w>
+    <t type="p"></t>
+    <media
+      start="908.234"
+      end="909.711"
+      unit="s"
+    />
+    <a type="english translation">they are kind of big already.</a>
+  </u>
+  <u who="PED" uID="u291">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>sí</w>
+    <g><w>la</w><k type="retracing reformulation"/></g>
+    <w>acá</w>
+    <w>de</w>
+    <w>los</w>
+    <w>campos</w>
+    <w>cerca</w>
+    <w>pero</w>
+    <t type="p"></t>
+    <media
+      start="910.194"
+      end="913.122"
+      unit="s"
+    />
+    <a type="english translation">yes, the, here, from the nearer fields but.</a>
+  </u>
+  <u who="PED" uID="u292">
+    <w>xxx</w>
+    <w>campos</w>
+    <w>más</w>
+    <w>lejos</w>
+    <w>recién</w>
+    <t type="self interruption"></t>
+    <media
+      start="913.268"
+      end="914.939"
+      unit="s"
+    />
+    <a type="english translation">xxx field further away.</a>
+  </u>
+  <u who="PED" uID="u293">
+    <w>recién</w>
+    <w>este</w>
+    <w>hay</w>
+    <w>corderitos</w>
+    <w>chicos</w>
+    <pause symbolic-length="simple"/>
+    <w>todavía</w>
+    <t type="p"></t>
+    <media
+      start="915.486"
+      end="919.743"
+      unit="s"
+    />
+    <a type="english translation">there are still some young sheep.</a>
+  </u>
+  <u who="PED" uID="u294">
+    <w>y</w>
+    <w>más</w>
+    <w>al</w>
+    <w>sur</w>
+    <w>igual</w>
+    <w>con</w>
+    <w>el</w>
+    <w>frío</w>
+    <w>hay</w>
+    <w>más</w>
+    <g><w>que</w><k type="retracing"/></g>
+    <w>que</w>
+    <w>xxx</w>
+    <t type="interruption"></t>
+    <media
+      start="920.164"
+      end="925.358"
+      unit="s"
+    />
+    <a type="english translation">and further south as well, with the cold there are more than xxx.</a>
+  </u>
+  <u who="PED" uID="u295">
+    <w>el</w>
+    <w>frío</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="925.127"
+      end="926.184"
+      unit="s"
+    />
+    <a type="english translation">the cold xxx.</a>
+  </u>
+  <u who="ALI" uID="u296">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>pero</w>
+    <w>ayer</w>
+    <w>estaba</w>
+    <w>nevando</w>
+    <w>en</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="925.247"
+      end="928.132"
+      unit="s"
+    />
+    <a type="english translation">yes, but yesterday it was snowing in xxx.</a>
+  </u>
+  <u who="PED" uID="u297">
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="928.122"
+      end="929.183"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u298">
+    <w>así</w>
+    <w>que</w>
+    <w>debe</w>
+    <w>estar</w>
+    <w>bastante</w>
+    <w>frío</w>
+    <t type="p"></t>
+    <media
+      start="931.304"
+      end="933.843"
+      unit="s"
+    />
+    <a type="english translation">so, it must be very cold .</a>
+  </u>
+  <u who="PED" uID="u299">
+    <linker type="lazy overlap mark"/>
+    <w>ahora</w>
+    <w>acá</w>
+    <w>a</w>
+    <w>la</w>
+    <w>península</w>
+    <w>están</w>
+    <w>xxx</w>
+    <t type="self interruption"></t>
+    <media
+      start="932.584"
+      end="934.616"
+      unit="s"
+    />
+    <a type="english translation">now here in the peninsula, they are xxx.</a>
+  </u>
+  <u who="PED" uID="u300">
+    <linker type="self completion"/>
+    <w>están</w>
+    <w>gordos</w>
+    <w>ya</w>
+    <w>grandotes</w>
+    <t type="p"></t>
+    <media
+      start="934.746"
+      end="937.072"
+      unit="s"
+    />
+    <a type="english translation">they are fat and big.</a>
+  </u>
+  <u who="ALI" uID="u301">
+    <w>aunque</w>
+    <w>hoy</w>
+    <t type="interruption"></t>
+    <media
+      start="937.586"
+      end="939.468"
+      unit="s"
+    />
+    <a type="english translation">although today.</a>
+  </u>
+  <u who="PED" uID="u302">
+    <linker type="lazy overlap mark"/>
+    <w>pero</w>
+    <t type="self interruption"></t>
+    <media
+      start="937.586"
+      end="939.468"
+      unit="s"
+    />
+    <a type="english translation">but...</a>
+  </u>
+  <u who="ALI" uID="u303">
+    <linker type="self completion"/>
+    <w>en</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Comodoro</w>
+    <w>la</w>
+    <w>temperatura</w>
+    <w>era</w>
+    <w>más</w>
+    <w>que</w>
+    <w>acá</w>
+    <t type="p"></t>
+    <media
+      start="939.861"
+      end="942.447"
+      unit="s"
+    />
+    <a type="english translation">in Comodoro the temperature was higher than here.</a>
+  </u>
+  <u who="PED" uID="u304">
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="942.422"
+      end="943.648"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u305">
+    <w>el</w>
+    <w>otro</w>
+    <w>día</w>
+    <w>cuando</w>
+    <w>fui</w>
+    <w>a</w>
+    <w>pescar</w>
+    <w>ahí</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <g><w>en</w><k type="retracing"/></g>
+    <w>en</w>
+    <w>la</w>
+    <w>península</w>
+    <pause symbolic-length="simple"/>
+    <w>estaba</w>
+    <pause symbolic-length="simple"/>
+    <w>los</w>
+    <w>corderos</w>
+    <t type="p"></t>
+    <media
+      start="947.387"
+      end="955.101"
+      unit="s"
+    />
+    <a type="english translation">the other day, when I went finishing there, in the peninsula, there were some young sheep.</a>
+  </u>
+  <u who="PED" uID="u306">
+    <w>habían</w>
+    <g><w>sin</w><k type="retracing"/></g>
+    <w>sin</w>
+    <w>esquilar</w>
+    <w>todavía</w>
+    <w>la</w>
+    <w>oveja</w>
+    <t type="p"></t>
+    <media
+      start="955.268"
+      end="958.542"
+      unit="s"
+    />
+    <a type="english translation">there were some sheep unsheared .</a>
+  </u>
+  <u who="PED" uID="u307">
+    <w>sin</w>
+    <w>señalar</w>
+    <w>los</w>
+    <w>corderos</w>
+    <t type="p"></t>
+    <media
+      start="958.526"
+      end="959.956"
+      unit="s"
+    />
+    <a type="english translation">young sheep not marked.</a>
+  </u>
+  <u who="ALI" uID="u308">
+    <w>sí</w>
+    <w>si</w>
+    <w>está</w>
+    <w>el</w>
+    <w>tiempo</w>
+    <w>frío</w>
+    <t type="p"></t>
+    <media
+      start="959.945"
+      end="961.987"
+      unit="s"
+    />
+    <a type="english translation">yes, if the weather is cold.</a>
+  </u>
+  <u who="PED" uID="u309">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="962.057"
+      end="962.771"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u310">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="966.389"
+      end="968.421"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u311">
+    <w>antes</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="968.942"
+      end="969.843"
+      unit="s"
+    />
+    <a type="english translation">before, yes.</a>
+  </u>
+  <u who="ALI" uID="u312">
+    <w>en</w>
+    <w>esta</w>
+    <w>época</w>
+    <w>de</w>
+    <w>noviembre</w>
+    <w>hacía</w>
+    <w>calor</w>
+    <t type="p"></t>
+    <media
+      start="969.835"
+      end="972.294"
+      unit="s"
+    />
+    <a type="english translation">in this time of November it was hot.</a>
+  </u>
+  <u who="PED" uID="u313">
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="972.678"
+      end="973.174"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u314">
+    <linker type="lazy overlap mark"/>
+    <w>pero</w>
+    <w>ya</w>
+    <w>este</w>
+    <w>año</w>
+    <w>sigue</w>
+    <w>el</w>
+    <w>frío</w>
+    <w>sigue</w>
+    <w>el</w>
+    <w>frío</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="973.176"
+      end="976.515"
+      unit="s"
+    />
+    <a type="english translation">but this year, the cold continues.</a>
+  </u>
+  <u who="PED" uID="u315">
+    <e><happening>gasp</happening></e>
+    <t type="p"></t>
+    <media
+      start="976.506"
+      end="977.386"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u316">
+    <w>una</w>
+    <w>oveja</w>
+    <w>recién</w>
+    <w>esquilada</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="977.702"
+      end="980.384"
+      unit="s"
+    />
+    <a type="english translation">a sheep just recently sheared xxx</a>
+  </u>
+  <u who="ALI" uID="u317">
+    <w>no</w>
+    <w>puede</w>
+    <w>afeitar</w>
+    <t type="p"></t>
+    <media
+      start="980.358"
+      end="982.198"
+      unit="s"
+    />
+    <a type="english translation">it can't be shaved.</a>
+  </u>
+  <comment type="Generic">pause.</comment>
+  <u who="ALI" uID="u318">
+    <w>está</w>
+    <w>muy</w>
+    <w>variable</w>
+    <w>también</w>
+    <t type="p"></t>
+    <media
+      start="987.590"
+      end="989.462"
+      unit="s"
+    />
+    <a type="english translation">it is very variable too.</a>
+  </u>
+  <u who="PED" uID="u319">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="989.345"
+      end="990.310"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u320">
+    <w>comentaba</w>
+    <w>la</w>
+    <w>gente</w>
+    <w>que</w>
+    <w>fue</w>
+    <w>ayer</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>pasear</w>
+    <t type="p"></t>
+    <media
+      start="990.620"
+      end="994.409"
+      unit="s"
+    />
+    <a type="english translation">the people who had a walk yesterday remarked on that.</a>
+  </u>
+  <u who="ALI" uID="u321">
+    <w>los</w>
+    <w>llevaron</w>
+    <w>a</w>
+    <w>xxx</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>los</w>
+    <w>pingüinos</w>
+    <t type="p"></t>
+    <media
+      start="994.214"
+      end="996.699"
+      unit="s"
+    />
+    <a type="english translation">they were brought to see the penguins by xxx.</a>
+  </u>
+  <u who="ALI" uID="u322">
+    <w>feísimo</w>
+    <w>ese</w>
+    <w>viento</w>
+    <w>frío</w>
+    <t type="p"></t>
+    <media
+      start="997.409"
+      end="1000.470"
+      unit="s"
+    />
+    <a type="english translation">awful, this cold wind.</a>
+  </u>
+  <u who="ALI" uID="u323">
+    <w>antes</w>
+    <w>de</w>
+    <w>ayer</w>
+    <w>fueron</w>
+    <t type="p"></t>
+    <media
+      start="1000.624"
+      end="1002.373"
+      unit="s"
+    />
+    <a type="english translation">they went before yesterday.</a>
+  </u>
+  <u who="ALI" uID="u324">
+    <w>cuando</w>
+    <w>caminaron</w>
+    <w>para</w>
+    <w>ver</w>
+    <w>los</w>
+    <w>pingüinos</w>
+    <w>a</w>
+    <w>la</w>
+    <w>vuelta</w>
+    <w>ya</w>
+    <w>les</w>
+    <w>agarró</w>
+    <w>la</w>
+    <w>lluvia</w>
+    <t type="p"></t>
+    <media
+      start="1002.588"
+      end="1007.036"
+      unit="s"
+    />
+    <a type="english translation">when they returned from watching the penguins, it started to rain.</a>
+  </u>
+  <u who="ALI" uID="u325">
+    <w>no</w>
+    <w>alcanzaron</w>
+    <w>a</w>
+    <w>subir</w>
+    <w>al</w>
+    <w>colectivo</w>
+    <w>porque</w>
+    <w>estaba</w>
+    <w>lloviendo</w>
+    <t type="p"></t>
+    <media
+      start="1007.515"
+      end="1011.243"
+      unit="s"
+    />
+    <a type="english translation">they couldn't get into the bus because it was raining.</a>
+  </u>
+  <u who="ALI" uID="u326">
+    <w>está</w>
+    <w>feo</w>
+    <t type="p"></t>
+    <media
+      start="1012.346"
+      end="1014.346"
+      unit="s"
+    />
+    <a type="english translation">it is awful.</a>
+  </u>
+  <u who="ALI" uID="u327">
+    <w>no</w>
+    <w>no</w>
+    <w>mejora</w>
+    <t type="p"></t>
+    <media
+      start="1014.912"
+      end="1016.683"
+      unit="s"
+    />
+    <a type="english translation">it doesn't get better.</a>
+  </u>
+  <comment type="Generic">long pause.</comment>
+  <u who="ALI" uID="u328">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="1036.772"
+      end="1040.367"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u329">
+    <w>parece</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="1040.964"
+      end="1042.447"
+      unit="s"
+    />
+    <a type="english translation">it seems that...</a>
+  </u>
+  <u who="PED" uID="u330">
+    <w>se</w>
+    <w>ha</w>
+    <w>metido</w>
+    <w>un</w>
+    <w>gato</w>
+    <w>en</w>
+    <w>la</w>
+    <w>cocina</w>
+    <t type="p"></t>
+    <media
+      start="1042.665"
+      end="1044.575"
+      unit="s"
+    />
+    <a type="english translation">a cat got into the kitchen.</a>
+  </u>
+  <u who="ALI" uID="u331">
+    <w>y</w>
+    <w>sí</w>
+    <w>me</w>
+    <w>parece</w>
+    <w>que</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1044.657"
+      end="1046.139"
+      unit="s"
+    />
+    <a type="english translation">yes, I think that it did.</a>
+  </u>
+  <u who="ALI" uID="u332">
+    <w>porque</w>
+    <w>yo</w>
+    <w>dejé</w>
+    <w>comida</w>
+    <w>arriba</w>
+    <w>de</w>
+    <w>la</w>
+    <w>mesa</w>
+    <t type="p"></t>
+    <media
+      start="1046.214"
+      end="1048.470"
+      unit="s"
+    />
+    <a type="english translation">because I left food on top of the table.</a>
+  </u>
+  <u who="PED" uID="u333">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="1048.443"
+      end="1049.430"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u334">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="1049.524"
+      end="1050.713"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u335">
+    <w>debe</w>
+    <w>estar</w>
+    <w>aprovechando</w>
+    <t type="p"></t>
+    <media
+      start="1051.755"
+      end="1053.691"
+      unit="s"
+    />
+    <a type="english translation">it must be taking advantage of that.</a>
+  </u>
+  <comment type="Generic">pause.</comment>
+  <u who="ALI" uID="u336">
+    <w>habrán</w>
+    <w>terminado</w>
+    <w>de</w>
+    <w>arreglar</w>
+    <w>la</w>
+    <w>bomba</w>
+    <w>de</w>
+    <w>agua</w>
+    <t type="q"></t>
+    <media
+      start="1060.980"
+      end="1063.817"
+      unit="s"
+    />
+    <a type="english translation">have they finished fixing the water pump?</a>
+  </u>
+  <u who="PED" uID="u337">
+    <w>creo</w>
+    <w>que</w>
+    <w>sí</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="p"></t>
+    <media
+      start="1064.979"
+      end="1066.403"
+      unit="s"
+    />
+    <a type="english translation">I think they did.</a>
+  </u>
+  <u who="PED" uID="u338">
+    <w>creo</w>
+    <w>que</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1067.364"
+      end="1068.441"
+      unit="s"
+    />
+    <a type="english translation">I think they did.</a>
+  </u>
+  <u who="ALI" uID="u339">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>sube</w>
+    <w>ahora</w>
+    <t type="p"></t>
+    <media
+      start="1068.298"
+      end="1069.041"
+      unit="s"
+    />
+    <a type="english translation">lets see if it goes up now.</a>
+  </u>
+  <u who="PED" uID="u340">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>hoy</w>
+    <w>había</w>
+    <w>mucha</w>
+    <w>presión</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <w>acá</w>
+    <t type="p"></t>
+    <media
+      start="1069.100"
+      end="1071.058"
+      unit="s"
+    />
+    <a type="english translation">today there was a lot of pressure.</a>
+  </u>
+  <u who="ALI" uID="u341">
+    <w>pueda</w>
+    <w>ser</w>
+    <w>que</w>
+    <w>suba</w>
+    <w>el</w>
+    <w>agua</w>
+    <w>al</w>
+    <w>tanque</w>
+    <w>porque</w>
+    <w>si</w>
+    <w>no</w>
+    <t type="trail off"></t>
+    <media
+      start="1072.350"
+      end="1074.820"
+      unit="s"
+    />
+    <a type="english translation">I could be that the water goes up to the tank because, if not...</a>
+  </u>
+  <u who="PED" uID="u342">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1074.868"
+      end="1075.769"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u343">
+    <w>para</w>
+    <w>llenar</w>
+    <w>y</w>
+    <w>lavar</w>
+    <w>ropa</w>
+    <w>y</w>
+    <w>todo</w>
+    <w>se</w>
+    <w>va</w>
+    <w>a</w>
+    <w>complicar</w>
+    <t type="p"></t>
+    <media
+      start="1076.097"
+      end="1078.972"
+      unit="s"
+    />
+    <a type="english translation">filling it and washing clothes is going to get complicated.</a>
+  </u>
+  <u who="PED" uID="u344">
+    <w>no</w>
+    <w>pero</w>
+    <w>xxx</w>
+    <w>ya</w>
+    <w>se</w>
+    <w>llenó</w>
+    <w>el</w>
+    <w>tanque</w>
+    <w>de</w>
+    <w>arriba</w>
+    <w>el</w>
+    <w>tanque</w>
+    <w>de</w>
+    <w>abajo</w>
+    <w>xxx</w>
+    <w>así</w>
+    <w>que</w>
+    <t type="self interruption"></t>
+    <media
+      start="1082.285"
+      end="1086.098"
+      unit="s"
+    />
+    <a type="english translation">not but xxx the upper tank is filled, the lower tank xxx so.</a>
+  </u>
+  <u who="PED" uID="u345">
+    <w>este</w>
+    <t type="trail off"></t>
+    <media
+      start="1087.553"
+      end="1088.203"
+      unit="s"
+    />
+    <a type="english translation">eh...</a>
+  </u>
+  <u who="PED" uID="u346">
+    <w>y</w>
+    <w>hoy</w>
+    <w>había</w>
+    <w>en</w>
+    <w>la</w>
+    <w>canilla</w>
+    <w>bastante</w>
+    <t type="p"></t>
+    <media
+      start="1090.811"
+      end="1093.088"
+      unit="s"
+    />
+    <a type="english translation">and today there was plenty through the tap.</a>
+  </u>
+  <u who="PED" uID="u347">
+    <w>xxx</w>
+    <w>problema</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1092.955"
+      end="1095.723"
+      unit="s"
+    />
+    <a type="english translation">xxx the problem there.</a>
+  </u>
+  <comment type="Generic">long pause.</comment>
+  <u who="ALI" uID="u348">
+    <w>los</w>
+    <w>gorriones</w>
+    <w>están</w>
+    <w>todos</w>
+    <w>en</w>
+    <w>el</w>
+    <w>césped</w>
+    <t type="p"></t>
+    <media
+      start="1111.117"
+      end="1113.442"
+      unit="s"
+    />
+    <a type="english translation">the sparrows are all on the grass.</a>
+  </u>
+  <u who="ALI" uID="u349">
+    <w>la</w>
+    <w>cantidad</w>
+    <w>de</w>
+    <w>gorriones</w>
+    <w>que</w>
+    <w>hay</w>
+    <t type="p"></t>
+    <media
+      start="1115.208"
+      end="1117.714"
+      unit="s"
+    />
+    <a type="english translation">there are a lot of sparrows.</a>
+  </u>
+  <u who="PED" uID="u350">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1117.661"
+      end="1118.482"
+      unit="s"
+    />
+    <a type="english translation">yes .</a>
+  </u>
+  <u who="PED" uID="u351">
+    <w>debe</w>
+    <w>estar</w>
+    <w>cayendo</w>
+    <w>xxx</w>
+    <w>de</w>
+    <w>sauces</w>
+    <t type="p"></t>
+    <media
+      start="1118.487"
+      end="1121.122"
+      unit="s"
+    />
+    <a type="english translation">it must be falling xxx from the willows.</a>
+  </u>
+  <u who="ALI" uID="u352">
+    <w>y</w>
+    <w>sí</w>
+    <w>seguro</w>
+    <t type="p"></t>
+    <media
+      start="1121.091"
+      end="1122.835"
+      unit="s"
+    />
+    <a type="english translation">yes, sure.</a>
+  </u>
+  <u who="ALI" uID="u353">
+    <w>yo</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>tener</w>
+    <w>que</w>
+    <w>comprar</w>
+    <w>es</w>
+    <w>ese</w>
+    <w>remedio</w>
+    <w>para</w>
+    <w>curar</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>la</w>
+    <w>camelia</w>
+    <w>esa</w>
+    <w>de</w>
+    <w>ahí</w>
+    <w>adelante</w>
+    <t type="p"></t>
+    <media
+      start="1123.243"
+      end="1129.780"
+      unit="s"
+    />
+    <a type="english translation">I will have to buy this medicine to treat the camelia, that one at the front.</a>
+  </u>
+  <u who="ALI" uID="u354">
+    <w>me</w>
+    <w>está</w>
+    <w>tirando</w>
+    <w>los</w>
+    <w>brotes</w>
+    <w>lindos</w>
+    <t type="p"></t>
+    <media
+      start="1130.165"
+      end="1132.586"
+      unit="s"
+    />
+    <a type="english translation">its budding beautifully.</a>
+  </u>
+  <u who="PED" uID="u355">
+    <linker type="lazy overlap mark"/>
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="1132.462"
+      end="1133.331"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u356">
+    <w>pero</w>
+    <w>las</w>
+    <w>hojas</w>
+    <w>de</w>
+    <w>abajo</w>
+    <w>se</w>
+    <w>están</w>
+    <w>poniendo</w>
+    <w>todas</w>
+    <w>amarillas</w>
+    <t type="p"></t>
+    <media
+      start="1132.601"
+      end="1135.977"
+      unit="s"
+    />
+    <a type="english translation">but the leaves from the bottom are getting all yellow</a>
+  </u>
+  <u who="ALI" uID="u357">
+    <w>manchadas</w>
+    <t type="p"></t>
+    <media
+      start="1136.168"
+      end="1137.422"
+      unit="s"
+    />
+    <a type="english translation">stained.</a>
+  </u>
+  <u who="ALI" uID="u358">
+    <w>voy</w>
+    <w>a</w>
+    <w>comprar</w>
+    <w>el</w>
+    <w>remedio</w>
+    <w>para</w>
+    <w>curarla</w>
+    <t type="p"></t>
+    <media
+      start="1137.934"
+      end="1140.115"
+      unit="s"
+    />
+    <a type="english translation">I'm going to buy the medicine to treat it.</a>
+  </u>
+  <u who="ALI" uID="u359">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1144.044"
+      end="1146.578"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">long pause.</comment>
+  <u who="ALI" uID="u360">
+    <w>y</w>
+    <w>la</w>
+    <w>glicina</w>
+    <w>este</w>
+    <w>año</w>
+    <w>no</w>
+    <w>dio</w>
+    <w>flor</w>
+    <t type="p"></t>
+    <media
+      start="1167.291"
+      end="1169.365"
+      unit="s"
+    />
+    <a type="english translation">and this year the clycine didn't bloom.</a>
+  </u>
+  <u who="ALI" uID="u361">
+    <w>se</w>
+    <w>va</w>
+    <w>terminar</w>
+    <w>muriendo</w>
+    <t type="p"></t>
+    <media
+      start="1169.488"
+      end="1170.821"
+      unit="s"
+    />
+    <a type="english translation">it will die eventually.</a>
+  </u>
+  <u who="PED" uID="u362">
+    <linker type="lazy overlap mark"/>
+    <g><w>una</w><k type="retracing"/></g>
+    <w>una</w>
+    <w>sola</w>
+    <w>flor</w>
+    <w>dio</w>
+    <t type="p"></t>
+    <media
+      start="1169.937"
+      end="1172.407"
+      unit="s"
+    />
+    <a type="english translation">it gave only one flower.</a>
+  </u>
+  <u who="PED" uID="u363">
+    <w>y</w>
+    <w>la</w>
+    <w>rompió</w>
+    <w>el</w>
+    <w>viento</w>
+    <t type="p"></t>
+    <media
+      start="1172.382"
+      end="1174.825"
+      unit="s"
+    />
+    <a type="english translation">and the wind broke it</a>
+  </u>
+  <u who="PED" uID="u364">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1174.825"
+      end="1175.705"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u365">
+    <w>se</w>
+    <w>ve</w>
+    <w>que</w>
+    <w>ahí</w>
+    <w>no</w>
+    <w>le</w>
+    <w>gusta</w>
+    <w>el</w>
+    <w>lugar</w>
+    <t type="p"></t>
+    <media
+      start="1175.683"
+      end="1177.475"
+      unit="s"
+    />
+    <a type="english translation">it seems not to like that place.</a>
+  </u>
+  <u who="PED" uID="u366">
+    <w>no</w>
+    <w>es</w>
+    <t type="trail off"></t>
+    <media
+      start="1177.523"
+      end="1179.006"
+      unit="s"
+    />
+    <a type="english translation">no, it's ...</a>
+  </u>
+  <u who="PED" uID="u367">
+    <w>no</w>
+    <w>le</w>
+    <w>gusta</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1180.414"
+      end="1181.502"
+      unit="s"
+    />
+    <a type="english translation">it doesn't like it there.</a>
+  </u>
+  <u who="PED" uID="u368">
+    <w>xxx</w>
+    <w>sola</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1181.486"
+      end="1183.812"
+      unit="s"
+    />
+    <a type="english translation">xxx alone there.</a>
+  </u>
+  <u who="PED" uID="u369">
+    <w>xxx</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>puede</w>
+    <w>xxx</w>
+    <w>algún</w>
+    <w>gajo</w>
+    <t type="p"></t>
+    <media
+      start="1184.948"
+      end="1188.596"
+      unit="s"
+    />
+    <a type="english translation">xxx to see if it can xxx some cutting.</a>
+  </u>
+  <u who="PED" uID="u370">
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="1190.680"
+      end="1191.453"
+      unit="s"
+    />
+    <a type="english translation">and ...</a>
+  </u>
+  <u who="ALI" uID="u371">
+    <w>la</w>
+    <w>que</w>
+    <w>está</w>
+    <w>en</w>
+    <w>plaza</w>
+    <w>se</w>
+    <w>pone</w>
+    <w>linda</w>
+    <t type="p"></t>
+    <media
+      start="1191.861"
+      end="1193.968"
+      unit="s"
+    />
+    <a type="english translation">the one in the square gets beautiful.</a>
+  </u>
+  <u who="ALI" uID="u372">
+    <w>ni</w>
+    <w>una</w>
+    <w>hoja</w>
+    <w>puras</w>
+    <w>flores</w>
+    <t type="p"></t>
+    <media
+      start="1193.941"
+      end="1196.000"
+      unit="s"
+    />
+    <a type="english translation">it doesn't have leaves, only flowers.</a>
+  </u>
+  <u who="PED" uID="u373">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1195.867"
+      end="1196.629"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u374">
+    <w>xxx</w>
+    <w>como</w>
+    <w>un</w>
+    <w>techo</w>
+    <t type="p"></t>
+    <media
+      start="1198.394"
+      end="1200.639"
+      unit="s"
+    />
+    <a type="english translation">xxx like a roof.</a>
+  </u>
+  <u who="PED" uID="u375">
+    <linker type="lazy overlap mark"/>
+    <w>y</w>
+    <w>eso</w>
+    <w>que</w>
+    <w>no</w>
+    <w>la</w>
+    <w>cuidan</w>
+    <w>nada</w>
+    <t type="p"></t>
+    <media
+      start="1199.237"
+      end="1200.826"
+      unit="s"
+    />
+    <a type="english translation">and nobody takes care of it.</a>
+  </u>
+  <u who="ALI" uID="u376">
+    <w>no</w>
+    <w>porque</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>está</w>
+    <w>hecho</w>
+    <w>como</w>
+    <w>un</w>
+    <w>techo</w>
+    <w>ahí</w>
+    <w>está</w>
+    <t type="interruption"></t>
+    <media
+      start="1200.730"
+      end="1203.509"
+      unit="s"
+    />
+    <a type="english translation">no, because it is done kind of a roof, there, it is.</a>
+  </u>
+  <u who="PED" uID="u377">
+    <linker type="lazy overlap mark"/>
+    <w>ajá</w>
+    <w>porque</w>
+    <w>la</w>
+    <t type="self interruption"></t>
+    <media
+      start="1200.773"
+      end="1202.767"
+      unit="s"
+    />
+    <a type="english translation">yes, because the...</a>
+  </u>
+  <u who="PED" uID="u378">
+    <w>bueno</w>
+    <w>han</w>
+    <w>puesto</w>
+    <w>unos</w>
+    <w>palos</w>
+    <w>abajo</w>
+    <w>y</w>
+    <w>nada</w>
+    <w>más</w>
+    <t type="p"></t>
+    <media
+      start="1204.424"
+      end="1206.840"
+      unit="s"
+    />
+    <a type="english translation">well, they have placed some posts at the bottom, and that's it.</a>
+  </u>
+  <u who="PED" uID="u379">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1206.962"
+      end="1207.853"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u380">
+    <w>este</w>
+    <w>allá</w>
+    <w>al</w>
+    <w>lado</w>
+    <w>de</w>
+    <w>la</w>
+    <w>escuela</w>
+    <w>xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>al</w>
+    <w>lado</w>
+    <w>de</w>
+    <w>xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>la</w>
+    <w>entrada</w>
+    <w>esa</w>
+    <w>también</w>
+    <pause symbolic-length="simple"/>
+    <w>todo</w>
+    <w>el</w>
+    <w>techo</w>
+    <w>cubierto</w>
+    <t type="p"></t>
+    <media
+      start="1208.823"
+      end="1218.992"
+      unit="s"
+    />
+    <a type="english translation">there, beside the school, xxx, the entrance has the roof also all covered.</a>
+  </u>
+  <u who="ALI" uID="u381">
+    <w>los</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>copos_de_nieve</w>
+    <w>este</w>
+    <w>año</w>
+    <w>con</w>
+    <w>el</w>
+    <w>viento</w>
+    <w>se</w>
+    <w>machucaron</w>
+    <w>todos</w>
+    <t type="p"></t>
+    <media
+      start="1226.139"
+      end="1229.553"
+      unit="s"
+    />
+    <a type="english translation">this year, because of the wind, all the guelder rose disappeared .</a>
+  </u>
+  <u who="ALI" uID="u382">
+    <w>no</w>
+    <w>queda</w>
+    <w>nada</w>
+    <w>prácticamente</w>
+    <t type="p"></t>
+    <media
+      start="1230.809"
+      end="1232.868"
+      unit="s"
+    />
+    <a type="english translation">there is more or less nothing.</a>
+  </u>
+  <u who="ALI" uID="u383">
+    <w>ayer</w>
+    <w>dicen</w>
+    <w>que</w>
+    <w>había</w>
+    <w>llegado</w>
+    <g><w>a</w>
+    <w>la</w><k type="retracing with correction"/></g>
+    <w>al</w>
+    <w>vivero</w>
+    <w>ahí</w>
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <w>habían</w>
+    <w>llegado</w>
+    <w>plantas</w>
+    <w>lindas</w>
+    <t type="p"></t>
+    <media
+      start="1237.055"
+      end="1244.942"
+      unit="s"
+    />
+    <a type="english translation">they said yesterday that some beautiful plants arrived at the nursery.</a>
+  </u>
+  <u who="ALI" uID="u384">
+    <w>clavelinas</w>
+    <w>claveles</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>portulacas</w>
+    <w>ya</w>
+    <w>las</w>
+    <w>plantas</w>
+    <w>grandecitas</w>
+    <t type="p"></t>
+    <media
+      start="1245.619"
+      end="1252.164"
+      unit="s"
+    />
+    <a type="english translation">pinks, carnations, purslanes, all the plants are already quite big.</a>
+  </u>
+  <u who="ALI" uID="u385">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1252.178"
+      end="1254.322"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u386">
+    <w>y</w>
+    <w>las</w>
+    <w>portulacas</w>
+    <w>esas</w>
+    <w>y</w>
+    <w>que</w>
+    <w>había</w>
+    <w>muchas</w>
+    <t type="p"></t>
+    <media
+      start="1254.809"
+      end="1257.550"
+      unit="s"
+    />
+    <a type="english translation">and that there were a lot of purslanes.</a>
+    <a type="comments">portulaca is a plant from the portulacaceae family.</a>
+  </u>
+  <u who="ALI" uID="u387">
+    <w>había</w>
+    <w>lindas</w>
+    <w>plantas</w>
+    <t type="p"></t>
+    <media
+      start="1258.713"
+      end="1260.313"
+      unit="s"
+    />
+    <a type="english translation">there were some beautiful plants.</a>
+  </u>
+  <u who="PED" uID="u388">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="1260.169"
+      end="1261.236"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u389">
+    <w>ahora</w>
+    <w>hay</w>
+    <w>otro</w>
+    <w>vivero</w>
+    <w>en</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <w>nuevo</w>
+    <t type="p"></t>
+    <media
+      start="1264.670"
+      end="1267.518"
+      unit="s"
+    />
+    <a type="english translation">now, there is a new nursery in Gaiman.</a>
+  </u>
+  <u who="PED" uID="u390">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>sí</w>
+    <t type="q"></t>
+    <media
+      start="1268.879"
+      end="1269.813"
+      unit="s"
+    />
+    <a type="english translation">ah yes?</a>
+  </u>
+  <u who="ALI" uID="u391">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1269.845"
+      end="1270.623"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u392">
+    <w>de</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Anita</w>
+    <t type="p"></t>
+    <media
+      start="1270.577"
+      end="1271.985"
+      unit="s"
+    />
+    <a type="english translation">from Anita.</a>
+  </u>
+  <u who="ALI" uID="u393">
+    <w>donde</w>
+    <w>hizo</w>
+    <w>la</w>
+    <w>casa</w>
+    <t type="p"></t>
+    <media
+      start="1274.213"
+      end="1275.376"
+      unit="s"
+    />
+    <a type="english translation">where she did the house.</a>
+  </u>
+  <u who="PED" uID="u394">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="q"></t>
+    <media
+      start="1276.185"
+      end="1276.979"
+      unit="s"
+    />
+    <a type="english translation">eh?</a>
+  </u>
+  <u who="ALI" uID="u395">
+    <w>Anita</w>
+    <w>hizo</w>
+    <w>un</w>
+    <w>vivero</w>
+    <w>en</w>
+    <w>la</w>
+    <w>casa</w>
+    <t type="p"></t>
+    <media
+      start="1277.043"
+      end="1279.438"
+      unit="s"
+    />
+    <a type="english translation">Anita did a nursery out of the house.</a>
+  </u>
+  <u who="PED" uID="u396">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>sí</w>
+    <t type="q"></t>
+    <media
+      start="1279.494"
+      end="1280.150"
+      unit="s"
+    />
+    <a type="english translation">ah yes?</a>
+  </u>
+  <u who="ALI" uID="u397">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1280.161"
+      end="1280.849"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u398">
+    <w>dicen</w>
+    <w>que</w>
+    <w>tiene</w>
+    <w>unas</w>
+    <w>plantas</w>
+    <w>hermosas</w>
+    <t type="p"></t>
+    <media
+      start="1282.389"
+      end="1284.576"
+      unit="s"
+    />
+    <a type="english translation">they say that she has some beautiful plants.</a>
+  </u>
+  <u who="ALI" uID="u399">
+    <w>yo</w>
+    <w>me</w>
+    <w>enteré</w>
+    <w>porque</w>
+    <w>para</w>
+    <w>el</w>
+    <w>día</w>
+    <w>de</w>
+    <w>la</w>
+    <w>madre</w>
+    <w>habían</w>
+    <w>ido</w>
+    <w>a</w>
+    <w>buscar</w>
+    <w>allá</w>
+    <t type="p"></t>
+    <media
+      start="1287.274"
+      end="1290.458"
+      unit="s"
+    />
+    <a type="english translation">I knew because on the mother's day I went there to look for xxx.</a>
+  </u>
+  <u who="ALI" uID="u400">
+    <w>pero</w>
+    <w>unas</w>
+    <w>plantas</w>
+    <w>preciosas</w>
+    <w>tiene</w>
+    <t type="p"></t>
+    <media
+      start="1290.495"
+      end="1292.613"
+      unit="s"
+    />
+    <a type="english translation">but it has some very beautiful plants.</a>
+  </u>
+  <u who="ALI" uID="u401">
+    <w>lo</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>es</w>
+    <w>que</w>
+    <pause symbolic-length="simple"/>
+    <w>como</w>
+    <w>recién</w>
+    <w>empieza</w>
+    <t type="p"></t>
+    <media
+      start="1293.921"
+      end="1296.652"
+      unit="s"
+    />
+    <a type="english translation">what happens is that she is just recently starting.</a>
+  </u>
+  <u who="ALI" uID="u402">
+    <w>todavía</w>
+    <w>le</w>
+    <w>falta</w>
+    <w>xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>macetas</w>
+    <w>y</w>
+    <w>todo</w>
+    <w>lo</w>
+    <w>demás</w>
+    <t type="p"></t>
+    <media
+      start="1296.644"
+      end="1301.618"
+      unit="s"
+    />
+    <a type="english translation">still, they're low on xxx, flowerpots and everything else XXX.</a>
+  </u>
+  <u who="PED" uID="u403">
+    <linker type="lazy overlap mark"/>
+    <g><w>y</w><k type="retracing"/></g>
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>un</w>
+    <w>negocio</w>
+    <w>en</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <t type="q"></t>
+    <media
+      start="1300.108"
+      end="1304.705"
+      unit="s"
+    />
+    <a type="english translation">and do they have businesses in Gaiman?</a>
+  </u>
+  <u who="ALI" uID="u404">
+    <w>que</w>
+    <w>yo</w>
+    <w>sepa</w>
+    <w>el</w>
+    <w>negocio</w>
+    <w>es</w>
+    <w>ese</w>
+    <t type="p"></t>
+    <media
+      start="1305.812"
+      end="1308.398"
+      unit="s"
+    />
+    <a type="english translation">as far as I know the business is this one.</a>
+  </u>
+  <u who="ALI" uID="u405">
+    <w>vivero</w>
+    <w>venta</w>
+    <w>de</w>
+    <w>plantas</w>
+    <w>venta</w>
+    <w>de</w>
+    <pause symbolic-length="simple"/>
+    <w>flores</w>
+    <t type="p"></t>
+    <media
+      start="1309.220"
+      end="1312.436"
+      unit="s"
+    />
+    <a type="english translation">the nursery, selling plants and flowers.</a>
+  </u>
+  <u who="PED" uID="u406">
+    <w>no</w>
+    <w>porque</w>
+    <w>la</w>
+    <w>vi</w>
+    <w>el</w>
+    <w>otro</w>
+    <w>día</w>
+    <w>viste</w>
+    <w>en</w>
+    <g><w>la</w><k type="retracing with correction"/></g>
+    <w>lo</w>
+    <w>que</w>
+    <g><w>era</w><k type="retracing reformulation"/></g>
+    <w>donde</w>
+    <w>estaba</w>
+    <w>la</w>
+    <w>farmacia</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Any</w>
+    <t type="p"></t>
+    <media
+      start="1313.729"
+      end="1318.908"
+      unit="s"
+    />
+    <a type="english translation">no, because I saw her the other day, where Any's pharmacy was.</a>
+  </u>
+  <u who="PED" uID="u407">
+    <g><w>ahí</w>
+    <w>es<shortening>tá</shortening></w><k type="retracing with correction"/></g>
+    <w>ahí</w>
+    <w>este</w>
+    <w>está</w>
+    <w>ella</w>
+    <w>siempre</w>
+    <w>ahí</w>
+    <w>con</w>
+    <w>el</w>
+    <t type="trail off"></t>
+    <media
+      start="1320.057"
+      end="1325.273"
+      unit="s"
+    />
+    <a type="english translation">she is always there, with the...</a>
+  </u>
+  <u who="ALI" uID="u408">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>no</w>
+    <w>sé</w>
+    <t type="p"></t>
+    <media
+      start="1325.348"
+      end="1326.382"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u409">
+    <linker type="lazy overlap mark"/>
+    <w>con</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>cómo</w>
+    <w>se</w>
+    <w>llama</w>
+    <t type="q"></t>
+    <media
+      start="1325.710"
+      end="1328.036"
+      unit="s"
+    />
+    <a type="english translation">and what is the name?</a>
+  </u>
+  <u who="PED" uID="u410">
+    <w>y</w>
+    <w>ahí</w>
+    <w>venden</w>
+    <w>ropa</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>tipo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>boutique</w>
+    <t type="p"></t>
+    <media
+      start="1327.839"
+      end="1330.309"
+      unit="s"
+    />
+    <a type="english translation">and they sell clothes there, I don't know, a kind of boutique.</a>
+  </u>
+  <u who="ALI" uID="u411">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>sí</w>
+    <w>yo</w>
+    <w>sé</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>ahí</w>
+    <w>una</w>
+    <w>tienda</w>
+    <w>porque</w>
+    <t type="interruption"></t>
+    <media
+      start="1328.789"
+      end="1331.775"
+      unit="s"
+    />
+    <a type="english translation">yes, I know there is a shop there because...</a>
+  </u>
+  <u who="PED" uID="u412">
+    <linker type="lazy overlap mark"/>
+    <w>pero</w>
+    <w>la</w>
+    <w>he</w>
+    <w>visto</w>
+    <w>a</w>
+    <w>ella</w>
+    <w>ya</w>
+    <w>otras</w>
+    <w>veces</w>
+    <w>ya</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1330.921"
+      end="1334.051"
+      unit="s"
+    />
+    <a type="english translation">but I have seen her there on other occasions.</a>
+  </u>
+  <u who="ALI" uID="u413">
+    <w>sí</w>
+    <w>capáz</w>
+    <t type="p"></t>
+    <media
+      start="1333.972"
+      end="1334.751"
+      unit="s"
+    />
+    <a type="english translation">yes, it could be.</a>
+  </u>
+  <u who="ALI" uID="u414">
+    <w>yo</w>
+    <w>la</w>
+    <w>verdad</w>
+    <w>es</w>
+    <w>que</w>
+    <w>no</w>
+    <w>la</w>
+    <w>he</w>
+    <w>visto</w>
+    <t type="p"></t>
+    <media
+      start="1334.723"
+      end="1335.965"
+      unit="s"
+    />
+    <a type="english translation">I haven't seen her.</a>
+  </u>
+  <u who="PED" uID="u415">
+    <w>o</w>
+    <w>trabajará</w>
+    <w>para</w>
+    <w>alguien</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1336.080"
+      end="1337.867"
+      unit="s"
+    />
+    <a type="english translation">or she works for someone there.</a>
+  </u>
+  <u who="ALI" uID="u416">
+    <w>no</w>
+    <w>la</w>
+    <w>he</w>
+    <w>visto</w>
+    <w>hace</w>
+    <w>mucho</w>
+    <w>pero</w>
+    <t type="trail off"></t>
+    <media
+      start="1337.757"
+      end="1340.199"
+      unit="s"
+    />
+    <a type="english translation">I haven't seen her in a long time but...</a>
+  </u>
+  <u who="ALI" uID="u417">
+    <w>me</w>
+    <w>comentaron</w>
+    <w>que</w>
+    <w>para</w>
+    <w>el</w>
+    <w>día</w>
+    <w>de</w>
+    <w>la</w>
+    <w>madre</w>
+    <w>habían</w>
+    <w>ido</w>
+    <w>a</w>
+    <w>comprar</w>
+    <w>plantas</w>
+    <w>allá</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="1340.280"
+      end="1343.971"
+      unit="s"
+    />
+    <a type="english translation">I was told that by monther's day they went to buy plants there and...</a>
+  </u>
+  <u who="ALI" uID="u418">
+    <w>me</w>
+    <w>dijeron</w>
+    <w>que</w>
+    <w>unas</w>
+    <w>plantas</w>
+    <w>muy</w>
+    <w>muy</w>
+    <w>lindas</w>
+    <t type="p"></t>
+    <media
+      start="1343.923"
+      end="1346.471"
+      unit="s"
+    />
+    <a type="english translation">I was told that there were some very beautiful plants.</a>
+  </u>
+  <u who="ALI" uID="u419">
+    <w>y</w>
+    <w>que</w>
+    <w>tiene</w>
+    <w>como</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>un</w>
+    <w>invernáculo</w>
+    <w>o</w>
+    <w>un</w>
+    <w>vivero</w>
+    <t type="p"></t>
+    <media
+      start="1347.194"
+      end="1351.895"
+      unit="s"
+    />
+    <a type="english translation">and that it has like, I don't know, a hothouse or a nursery.</a>
+  </u>
+  <u who="ALI" uID="u420">
+    <w>no</w>
+    <w>sé</w>
+    <w>qué</w>
+    <t type="p"></t>
+    <media
+      start="1351.868"
+      end="1352.700"
+      unit="s"
+    />
+    <a type="english translation">I don't know what.</a>
+  </u>
+  <u who="ALI" uID="u421">
+    <w>es</w>
+    <w>hecho</w>
+    <w>allá</w>
+    <w>en</w>
+    <w>su</w>
+    <w>casa</w>
+    <w>y</w>
+    <t type="p"></t>
+    <media
+      start="1352.885"
+      end="1354.517"
+      unit="s"
+    />
+    <a type="english translation">it's done there, in her house and</a>
+  </u>
+  <u who="PED" uID="u422">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1354.469"
+      end="1355.717"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u423">
+    <w>y</w>
+    <w>que</w>
+    <w>ahí</w>
+    <w>vende</w>
+    <t type="p"></t>
+    <media
+      start="1355.712"
+      end="1357.312"
+      unit="s"
+    />
+    <a type="english translation">and that she sells there.</a>
+  </u>
+  <u who="PED" uID="u424">
+    <w>el</w>
+    <w>año</w>
+    <w>que</w>
+    <w>viene</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>poner</w>
+    <w>uno</w>
+    <w>chiquito</w>
+    <w>yo</w>
+    <w>acá</w>
+    <t type="p"></t>
+    <media
+      start="1357.251"
+      end="1360.339"
+      unit="s"
+    />
+    <a type="english translation">next year I will start a small nursey here.</a>
+  </u>
+  <u who="PED" uID="u425">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <t type="p"></t>
+    <media
+      start="1360.760"
+      end="1361.299"
+      unit="s"
+    />
+    <a type="english translation">ah.</a>
+  </u>
+  <u who="PED" uID="u426">
+    <w>me</w>
+    <t type="trail off"></t>
+    <media
+      start="1362.183"
+      end="1363.906"
+      unit="s"
+    />
+    <a type="english translation">to me ...</a>
+  </u>
+  <u who="PED" uID="u427">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Peter</w>
+    <w>me</w>
+    <w>regaló</w>
+    <w>uno</w>
+    <w>ahí</w>
+    <w>como</w>
+    <pause symbolic-length="simple"/>
+    <w>ha</w>
+    <w>puesto</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>en</w>
+    <w>venta</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1364.790"
+      end="1368.955"
+      unit="s"
+    />
+    <a type="english translation">Peter gave me one, because he is selling the farm.</a>
+  </u>
+  <u who="PED" uID="u428">
+    <w>xxx</w>
+    <t type="trail off"></t>
+    <media
+      start="1369.598"
+      end="1371.369"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u429">
+    <g><w>me</w><k type="retracing"/></g>
+    <w>me</w>
+    <w>regaló</w>
+    <w>uno</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>vivero</w>
+    <w>chiquitito</w>
+    <w>pero</w>
+    <w>para</w>
+    <w>poder</w>
+    <w>poner</w>
+    <w>plantas</w>
+    <w>de</w>
+    <w>brotar</w>
+    <w>y</w>
+    <w>cosas</w>
+    <t type="p"></t>
+    <media
+      start="1373.616"
+      end="1383.005"
+      unit="s"
+    />
+    <a type="english translation">he gave me a small nursery where I can grown plants and things.</a>
+  </u>
+  <u who="PED" uID="u430">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1384.557"
+      end="1385.960"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u431">
+    <w>creo</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="1385.842"
+      end="1387.416"
+      unit="s"
+    />
+    <a type="english translation">I think that...</a>
+  </u>
+  <u who="PED" uID="u432">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1387.411"
+      end="1390.206"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u433">
+    <linker type="lazy overlap mark"/>
+    <w>tuvieron</w>
+    <w>que</w>
+    <w>vender</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>en</w>
+    <w>un</w>
+    <w>lugar</w>
+    <w>tan</w>
+    <w>lindo</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1388.468"
+      end="1391.535"
+      unit="s"
+    />
+    <a type="english translation">they had to sell the farm, in such a beautiful place.</a>
+  </u>
+  <u who="PED" uID="u434">
+    <e><happening>gasps</happening></e>
+    <t type="p"></t>
+    <media
+      start="1390.543"
+      end="1391.551"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u435">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="q"></t>
+    <media
+      start="1392.015"
+      end="1392.468"
+      unit="s"
+    />
+    <a type="english translation">eh?</a>
+  </u>
+  <u who="ALI" uID="u436">
+    <w>que</w>
+    <w>van</w>
+    <w>a</w>
+    <w>vender</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>en</w>
+    <w>un</w>
+    <w>lugar</w>
+    <w>tan</w>
+    <w>lindo</w>
+    <w>ahí</w>
+    <w>no</w>
+    <t type="q"></t>
+    <media
+      start="1392.486"
+      end="1395.473"
+      unit="s"
+    />
+    <a type="english translation">that they're selling the farm, in a beautiful place like this.</a>
+  </u>
+  <u who="PED" uID="u437">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1396.600"
+      end="1397.640"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u438">
+    <linker type="lazy overlap mark"/>
+    <w>sobre</w>
+    <w>la</w>
+    <w>ruta</w>
+    <s type="comma"/>
+    <w>y</w>
+    <w>la</w>
+    <w>ubicación</w>
+    <t type="p"></t>
+    <media
+      start="1396.659"
+      end="1398.589"
+      unit="s"
+    />
+    <a type="english translation">on the road, and the location.</a>
+  </u>
+  <u who="ALI" uID="u439">
+    <w>y</w>
+    <w>la</w>
+    <w>casa</w>
+    <w>estaba</w>
+    <w>linda</w>
+    <t type="p"></t>
+    <media
+      start="1398.195"
+      end="1399.645"
+      unit="s"
+    />
+    <a type="english translation">and the house was beautiful.</a>
+  </u>
+  <u who="ALI" uID="u440">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1399.972"
+      end="1400.916"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u441">
+    <w>por</w>
+    <w>lo</w>
+    <w>menos</w>
+    <w>cuando</w>
+    <w>estaba</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ana</w>
+    <w>que</w>
+    <w>yo</w>
+    <w>fui</w>
+    <w>varias</w>
+    <w>veces</w>
+    <t type="p"></t>
+    <media
+      start="1401.384"
+      end="1404.120"
+      unit="s"
+    />
+    <a type="english translation">at least when Ana was there, I went several times.</a>
+  </u>
+  <u who="PED" uID="u442">
+    <w>nada</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>estaba</w>
+    <w>con</w>
+    <w>todos</w>
+    <w>los</w>
+    <w>servicios</w>
+    <w>y</w>
+    <w>todas</w>
+    <w>las</w>
+    <w>cosas</w>
+    <t type="p"></t>
+    <media
+      start="1404.524"
+      end="1407.308"
+      unit="s"
+    />
+    <a type="english translation">well, the farm had all the services and all this stuff.</a>
+  </u>
+  <u who="PED" uID="u443">
+    <w>la</w>
+    <w>tenían</w>
+    <w>alquilada</w>
+    <w>a</w>
+    <w>este</w>
+    <w>señor</w>
+    <w>que</w>
+    <w>trabajó</w>
+    <w>en</w>
+    <w>el</w>
+    <w>xxx</w>
+    <w>pero</w>
+    <t type="trail off"></t>
+    <media
+      start="1407.370"
+      end="1410.644"
+      unit="s"
+    />
+    <a type="english translation">they have it rented to this guy that worked in the xxx but...</a>
+  </u>
+  <u who="PED" uID="u444">
+    <w>ahora</w>
+    <w>ya</w>
+    <w>la</w>
+    <w>entregó</w>
+    <w>el</w>
+    <w>otro</w>
+    <w>día</w>
+    <t type="p"></t>
+    <media
+      start="1410.449"
+      end="1412.550"
+      unit="s"
+    />
+    <a type="english translation">but he gave it back the other day.</a>
+  </u>
+  <u who="PED" uID="u445">
+    <w>este</w>
+    <w>alquilaron</w>
+    <w>en</w>
+    <w>el</w>
+    <w>pueblo</w>
+    <w>parece</w>
+    <t type="p"></t>
+    <media
+      start="1413.490"
+      end="1416.195"
+      unit="s"
+    />
+    <a type="english translation">they rented in town, it seems.</a>
+  </u>
+  <u who="PED" uID="u446">
+    <w>una</w>
+    <t type="trail off"></t>
+    <media
+      start="1416.449"
+      end="1417.910"
+      unit="s"
+    />
+    <a type="english translation">one ...</a>
+  </u>
+  <u who="PED" uID="u447">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1418.486"
+      end="1420.262"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u448">
+    <w>xxx</w>
+    <w>todo</w>
+    <w>sobre</w>
+    <w>la</w>
+    <w>ruta</w>
+    <w>xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>casitas</w>
+    <w>para</w>
+    <pause symbolic-length="simple"/>
+    <w>alquilar</w>
+    <t type="p"></t>
+    <media
+      start="1427.869"
+      end="1433.697"
+      unit="s"
+    />
+    <a type="english translation">xxx all along the road xxx little houses for renting.</a>
+  </u>
+  <u who="ALI" uID="u449">
+    <w>xxx</w>
+    <w>trabajo</w>
+    <w>en</w>
+    <w>la</w>
+    <w>chacra</w>
+    <t type="p"></t>
+    <media
+      start="1434.503"
+      end="1436.871"
+      unit="s"
+    />
+    <a type="english translation">xxx work at the farm.</a>
+  </u>
+  <u who="PED" uID="u450">
+    <w>claro</w>
+    <t type="p"></t>
+    <media
+      start="1437.392"
+      end="1438.261"
+      unit="s"
+    />
+    <a type="english translation">of course.</a>
+  </u>
+  <u who="ALI" uID="u451">
+    <w>que</w>
+    <w>ahí</w>
+    <w>no</w>
+    <w>tienen</w>
+    <w>mucho</w>
+    <w>trabajo</w>
+    <w>tampoco</w>
+    <w>porque</w>
+    <w>poner</w>
+    <w>pasto</w>
+    <w>o</w>
+    <w>poner</w>
+    <w>unos</w>
+    <w>frutales</w>
+    <w>hasta</w>
+    <w>la</w>
+    <w>ruta</w>
+    <pause symbolic-length="simple"/>
+    <w>como</w>
+    <w>un</w>
+    <w>regalo</w>
+    <w>de</w>
+    <w>vez</w>
+    <w>en</w>
+    <w>cuando</w>
+    <t type="p"></t>
+    <media
+      start="1438.260"
+      end="1446.228"
+      unit="s"
+    />
+    <a type="english translation">there they don't have to work either because putting pasture or some fruit trees up to the road (.) as a present, from time to time.</a>
+  </u>
+  <u who="PED" uID="u452">
+    <w>sí</w>
+    <w>pero</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>es</w>
+    <w>que</w>
+    <w>él</w>
+    <w>dice</w>
+    <w>que</w>
+    <w>xxx</w>
+    <g><w>los</w>
+    <w>bolitas</w><k type="retracing with correction"/></g>
+    <w>los</w>
+    <w>bolivianos</w>
+    <w>le</w>
+    <w>están</w>
+    <w>pagando</w>
+    <w>un</w>
+    <w>alquiler</w>
+    <w>bueno</w>
+    <w>pero</w>
+    <t type="trail off"></t>
+    <media
+      start="1448.418"
+      end="1458.585"
+      unit="s"
+    />
+    <a type="english translation">but what happens is that the Bolivians are paying a good rent but...</a>
+  </u>
+  <u who="PED" uID="u453">
+    <w>ni</w>
+    <w>se</w>
+    <w>saca</w>
+    <t type="self interruption"></t>
+    <media
+      start="1458.552"
+      end="1460.107"
+      unit="s"
+    />
+    <a type="english translation">he doesn't get even.</a>
+  </u>
+  <u who="PED" uID="u454">
+    <w>vendiendo</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>y</w>
+    <w>haciendo</w>
+    <w>cinco</w>
+    <w>departamentos</w>
+    <w>le</w>
+    <w>da</w>
+    <w>mucho</w>
+    <w>más</w>
+    <w>a</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>y</w>
+    <w>menos</w>
+    <w>a</w>
+    <w>la</w>
+    <w>cabeza</w>
+    <t type="p"></t>
+    <media
+      start="1460.189"
+      end="1465.204"
+      unit="s"
+    />
+    <a type="english translation">selling the farm and building 5 flats he gets more from the farm and have less to think.</a>
+  </u>
+  <u who="ALI" uID="u455">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1465.494"
+      end="1466.763"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u456">
+    <w>le</w>
+    <w>estropean</w>
+    <w>toda</w>
+    <w>la</w>
+    <w>chacra</w>
+    <pause symbolic-length="simple"/>
+    <w>le</w>
+    <t type="self interruption"></t>
+    <media
+      start="1466.656"
+      end="1469.606"
+      unit="s"
+    />
+    <a type="english translation">they spoil the farm.</a>
+  </u>
+  <u who="ALI" uID="u457">
+    <w>los</w>
+    <w>departamentos</w>
+    <w>cuando</w>
+    <w>los</w>
+    <w>puede</w>
+    <w>alquilar</w>
+    <t type="p"></t>
+    <media
+      start="1469.716"
+      end="1472.074"
+      unit="s"
+    />
+    <a type="english translation">the flats when he can rent them.</a>
+  </u>
+  <u who="PED" uID="u458">
+    <linker type="quoted utterance next"/>
+    <w>y</w>
+    <w>yo</w>
+    <w>sin</w>
+    <w>vender</w>
+    <w>la</w>
+    <w>chacra</w>
+    <w>dice</w>
+    <t type="quotation next line"></t>
+    <media
+      start="1470.228"
+      end="1472.748"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u459">
+    <linker type="quoted utterance next"/>
+    <w>no</w>
+    <w>puedo</w>
+    <w>hacer</w>
+    <w>nada</w>
+    <w>como</w>
+    <w>para</w>
+    <pause symbolic-length="simple"/>
+    <w>hacer</w>
+    <w>tres</w>
+    <w>cuatro</w>
+    <w>departamentos</w>
+    <w>para</w>
+    <w>empezar</w>
+    <w>para</w>
+    <w>alquilar</w>
+    <w>o</w>
+    <w>que</w>
+    <w>no</w>
+    <w>no</w>
+    <t type="trail off"></t>
+    <media
+      start="1472.608"
+      end="1479.516"
+      unit="s"
+    />
+    <a type="english translation">and I, without selling the farm, I cannot do anything like to build three or four flats to start, to rent, no.</a>
+  </u>
+  <u who="ALI" uID="u460">
+    <w>no</w>
+    <w>tiene</w>
+    <w>que</w>
+    <w>trabajar</w>
+    <w>la</w>
+    <w>chacra</w>
+    <t type="p"></t>
+    <media
+      start="1480.345"
+      end="1482.633"
+      unit="s"
+    />
+    <a type="english translation">no, he has to work the farm.</a>
+  </u>
+  <u who="PED" uID="u461">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1482.335"
+      end="1483.188"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="PED" uID="u462">
+    <w>no</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="1483.337"
+      end="1484.185"
+      unit="s"
+    />
+    <a type="english translation">no no</a>
+  </u>
+  <u who="ALI" uID="u463">
+    <w>y</w>
+    <w>no</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>trabaje</w>
+    <w>la</w>
+    <w>chacra</w>
+    <t type="p"></t>
+    <media
+      start="1484.185"
+      end="1485.828"
+      unit="s"
+    />
+    <a type="english translation">and I don't think he works the farm.</a>
+  </u>
+  <u who="PED" uID="u464">
+    <w>no</w>
+    <w>no</w>
+    <w>que</w>
+    <w>va</w>
+    <t type="p"></t>
+    <media
+      start="1486.433"
+      end="1488.283"
+      unit="s"
+    />
+    <a type="english translation">no, of course ...</a>
+  </u>
+  <u who="PED" uID="u465">
+    <w>si</w>
+    <w>ya</w>
+    <w>está</w>
+    <w>por</w>
+    <w>jubilarse</w>
+    <w>del</w>
+    <w>empleo</w>
+    <w>que</w>
+    <w>tiene</w>
+    <t type="p"></t>
+    <media
+      start="1487.915"
+      end="1491.792"
+      unit="s"
+    />
+    <a type="english translation">he's about to retire from his job.</a>
+  </u>
+  <u who="ALI" uID="u466">
+    <w>por</w>
+    <w>eso</w>
+    <w>pero</w>
+    <w>por</w>
+    <w>ahí</w>
+    <w>jubilado</w>
+    <t type="p"></t>
+    <media
+      start="1492.571"
+      end="1494.010"
+      unit="s"
+    />
+    <a type="english translation">for this reason but he is retired.</a>
+  </u>
+  <u who="ALI" uID="u467">
+    <w>y</w>
+    <w>viene</w>
+    <w>a</w>
+    <w>trabajar</w>
+    <w>en</w>
+    <w>la</w>
+    <w>chacra</w>
+    <t type="p"></t>
+    <media
+      start="1494.405"
+      end="1495.543"
+      unit="s"
+    />
+    <a type="english translation">and comes to work at the farm and.</a>
+  </u>
+  <u who="ALI" uID="u468">
+    <w>y</w>
+    <w>con</w>
+    <w>un</w>
+    <w>peón</w>
+    <w>o</w>
+    <w>algo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="p"></t>
+    <media
+      start="1495.709"
+      end="1497.869"
+      unit="s"
+    />
+    <a type="english translation">with a labourer or something eh.</a>
+  </u>
+  <u who="ALI" uID="u469">
+    <w>trabaja</w>
+    <w>la</w>
+    <w>chacra</w>
+    <t type="p"></t>
+    <media
+      start="1498.413"
+      end="1499.842"
+      unit="s"
+    />
+    <a type="english translation">he works the farm.</a>
+  </u>
+  <u who="ALI" uID="u470">
+    <w>y</w>
+    <w>tener</w>
+    <w>los</w>
+    <w>departamentos</w>
+    <w>es</w>
+    <w>muy</w>
+    <w>lindo</w>
+    <w>mientras</w>
+    <w>que</w>
+    <w>se</w>
+    <w>puedan</w>
+    <w>alquilar</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="1504.695"
+      end="1509.063"
+      unit="s"
+    />
+    <a type="english translation">and to have the flats is very nice while you can rent them and...</a>
+  </u>
+  <u who="ALI" uID="u471">
+    <w>y</w>
+    <w>gente</w>
+    <w>que</w>
+    <w>los</w>
+    <w>cuide</w>
+    <t type="p"></t>
+    <media
+      start="1508.876"
+      end="1510.700"
+      unit="s"
+    />
+    <a type="english translation">and people that take care of them.</a>
+  </u>
+  <u who="PED" uID="u472">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1510.760"
+      end="1512.418"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u473">
+    <w>si</w>
+    <w>no</w>
+    <w>pasa</w>
+    <w>como</w>
+    <w>pasa</w>
+    <w>siempre</w>
+    <t type="p"></t>
+    <media
+      start="1515.231"
+      end="1518.052"
+      unit="s"
+    />
+    <a type="english translation">if not, it happens as it always does.</a>
+  </u>
+  <u who="PED" uID="u474">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1520.344"
+      end="1520.851"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u475">
+    <w>se</w>
+    <w>gasta</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1520.848"
+      end="1523.002"
+      unit="s"
+    />
+    <a type="english translation">it is spent xxx.</a>
+  </u>
+  <u who="PED" uID="u476">
+    <linker type="lazy overlap mark"/>
+    <w>pero</w>
+    <w>él</w>
+    <w>como</w>
+    <w>él</w>
+    <w>se</w>
+    <w>da</w>
+    <w>maña</w>
+    <w>para</w>
+    <w>todo</w>
+    <w>viste</w>
+    <g><w>lo</w><k type="retracing"/></g>
+    <w>lo</w>
+    <w>arregla</w>
+    <t type="p"></t>
+    <media
+      start="1520.978"
+      end="1525.415"
+      unit="s"
+    />
+    <a type="english translation">but he, as he is skilled for everything you see, he fixes everything.</a>
+  </u>
+  <u who="PED" uID="u477">
+    <w>sale</w>
+    <w>uno</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1526.125"
+      end="1527.901"
+      unit="s"
+    />
+    <a type="english translation">it comes out one xxx.</a>
+  </u>
+  <u who="PED" uID="u478">
+    <w>pinta</w>
+    <w>todo</w>
+    <w>solo</w>
+    <t type="p"></t>
+    <media
+      start="1527.911"
+      end="1529.415"
+      unit="s"
+    />
+    <a type="english translation">he paints everything alone.</a>
+  </u>
+  <u who="PED" uID="u479">
+    <w>ya</w>
+    <w>hace</w>
+    <w>todo</w>
+    <w>solo</w>
+    <t type="p"></t>
+    <media
+      start="1529.394"
+      end="1530.850"
+      unit="s"
+    />
+    <a type="english translation">he does everything alone.</a>
+  </u>
+  <u who="PED" uID="u480">
+    <w>ya</w>
+    <w>donde</w>
+    <w>él</w>
+    <w>vivía</w>
+    <w>el</w>
+    <w>hijo</w>
+    <t type="self interruption"></t>
+    <media
+      start="1532.110"
+      end="1534.121"
+      unit="s"
+    />
+    <a type="english translation">even where he used to live the son.</a>
+  </u>
+  <u who="PED" uID="u481">
+    <w>ahí</w>
+    <w>ya</w>
+    <w>lo</w>
+    <w>pintó</w>
+    <t type="p"></t>
+    <media
+      start="1534.088"
+      end="1535.037"
+      unit="s"
+    />
+    <a type="english translation">there he already painted .</a>
+  </u>
+  <u who="PED" uID="u482">
+    <w>ya</w>
+    <w>está</w>
+    <w>lista</w>
+    <w>para</w>
+    <w>alquilar</w>
+    <w>también</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="1535.053"
+      end="1537.416"
+      unit="s"
+    />
+    <a type="english translation">it is ready to rent also.</a>
+  </u>
+  <u who="PED" uID="u483">
+    <w>me</w>
+    <w>parece</w>
+    <w>que</w>
+    <w>si</w>
+    <w>no</w>
+    <w>la</w>
+    <w>alquiló</w>
+    <w>ya</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1538.114"
+      end="1540.701"
+      unit="s"
+    />
+    <a type="english translation">I think that if he hasn't rent it already xxx</a>
+  </u>
+  <u who="ALI" uID="u484">
+    <w>donde</w>
+    <w>dices</w>
+    <w>que</w>
+    <w>está</w>
+    <t type="q"></t>
+    <media
+      start="1540.731"
+      end="1541.830"
+      unit="s"
+    />
+    <a type="english translation">where do you say it is ?</a>
+  </u>
+  <u who="ALI" uID="u485">
+    <w type="fragment">don</w>
+    <w>donde</w>
+    <w>está</w>
+    <w>la</w>
+    <w>madre</w>
+    <t type="q"></t>
+    <media
+      start="1541.851"
+      end="1543.419"
+      unit="s"
+    />
+    <a type="english translation">where the mother is ?</a>
+  </u>
+  <u who="PED" uID="u486">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="q"></t>
+    <media
+      start="1543.537"
+      end="1544.203"
+      unit="s"
+    />
+    <a type="english translation">eh?</a>
+  </u>
+  <u who="ALI" uID="u487">
+    <w>ahí</w>
+    <w>donde</w>
+    <w>está</w>
+    <w>la</w>
+    <w>madre</w>
+    <t type="q"></t>
+    <media
+      start="1544.235"
+      end="1545.899"
+      unit="s"
+    />
+    <a type="english translation">there, where the mother is?</a>
+  </u>
+  <u who="PED" uID="u488">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <g><w>no</w><k type="retracing"/></g>
+    <w>no</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>fueron</w>
+    <w>a</w>
+    <w>vivir</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1547.626"
+      end="1551.364"
+      unit="s"
+    />
+    <a type="english translation">eh no, they went to live there.</a>
+  </u>
+  <u who="ALI" uID="u489">
+    <linker type="lazy overlap mark"/>
+    <g><w>porque</w>
+    <w>ahí</w><k type="retracing"/></g>
+    <w>porque</w>
+    <w>ahí</w>
+    <w>hay</w>
+    <w>un</w>
+    <w>abandono</w>
+    <w>oh</w>
+    <w>leña</w>
+    <w>la</w>
+    <w>calle</w>
+    <w>los</w>
+    <w>perros</w>
+    <w>la</w>
+    <w>basura</w>
+    <t type="p"></t>
+    <media
+      start="1549.840"
+      end="1557.166"
+      unit="s"
+    />
+    <a type="english translation">Everything is abandoned there, wood, the street, the dogs, the trash.</a>
+  </u>
+  <u who="PED" uID="u490">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <g><w>ese</w><k type="retracing"/></g>
+    <w>ese</w>
+    <w>es</w>
+    <w>la</w>
+    <w>casita</w>
+    <w>que</w>
+    <g><w>recién</w>
+    <w>empecé</w>
+    <w>a</w>
+    <w>entrar</w><k type="retracing with correction"/></g>
+    <w>recién</w>
+    <w>entraron</w>
+    <w>a</w>
+    <w>vivir</w>
+    <w>en</w>
+    <w>la</w>
+    <w>que</w>
+    <w>estaban</w>
+    <w>haciendo</w>
+    <t type="p"></t>
+    <media
+      start="1556.293"
+      end="1561.673"
+      unit="s"
+    />
+    <a type="english translation">that's the house where they recently started to live in, the one they built.</a>
+  </u>
+  <u who="ALI" uID="u491">
+    <w>el</w>
+    <w>otro</w>
+    <w>día</w>
+    <w>pasé</w>
+    <w>por</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1561.692"
+      end="1563.255"
+      unit="s"
+    />
+    <a type="english translation">I passed the other day near there.</a>
+  </u>
+  <u who="ALI" uID="u492">
+    <w>y</w>
+    <w>hasta</w>
+    <w>la</w>
+    <w>calle</w>
+    <w>tenía</w>
+    <t type="trail off"></t>
+    <media
+      start="1563.148"
+      end="1564.903"
+      unit="s"
+    />
+    <a type="english translation">and even the street had ...</a>
+  </u>
+  <u who="PED" uID="u493">
+    <linker type="lazy overlap mark"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1563.566"
+      end="1564.340"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u494">
+    <w>pero</w>
+    <w>claro</w>
+    <w>como</w>
+    <w>trabaja</w>
+    <w>en</w>
+    <w>vialidad</w>
+    <t type="p"></t>
+    <media
+      start="1565.945"
+      end="1569.646"
+      unit="s"
+    />
+    <a type="english translation">but of course, one works in roadway services.</a>
+  </u>
+  <u who="PED" uID="u495">
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w><shortening>es</shortening>ta</w>
+    <g><w>trae</w><k type="retracing reformulation"/></g>
+    <w>donde</w>
+    <w>máquina</w>
+    <w>sacan</w>
+    <pause symbolic-length="simple"/>
+    <w>leña</w>
+    <w>y</w>
+    <w>eso</w>
+    <t type="p"></t>
+    <media
+      start="1571.367"
+      end="1579.235"
+      unit="s"
+    />
+    <a type="english translation">brings... where the machine is, they cut firewood and so on.</a>
+  </u>
+  <u who="PED" uID="u496">
+    <w>trae</w>
+    <w>leña</w>
+    <w>y</w>
+    <w>la</w>
+    <w>tira</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1578.458"
+      end="1580.309"
+      unit="s"
+    />
+    <a type="english translation">he brings firewood and he throws it there.</a>
+  </u>
+  <u who="PED" uID="u497">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>hmm</w>
+    <t type="p"></t>
+    <media
+      start="1583.859"
+      end="1584.605"
+      unit="s"
+    />
+    <a type="english translation">hmm.</a>
+  </u>
+  <u who="ALI" uID="u498">
+    <w>me</w>
+    <w>decían</w>
+    <w>que</w>
+    <w>iban</w>
+    <w>a</w>
+    <w>poner</w>
+    <w>adoquines</w>
+    <t type="p"></t>
+    <media
+      start="1588.205"
+      end="1591.085"
+      unit="s"
+    />
+    <a type="english translation">I was told that they're going to put down paving stones.</a>
+  </u>
+  <u who="ALI" uID="u499">
+    <w>no</w>
+    <w>sé</w>
+    <w>en</w>
+    <w>qué</w>
+    <w>calle</w>
+    <w>que</w>
+    <w>va</w>
+    <w>para</w>
+    <w>el</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ricón_del_Valle</w>
+    <w>por</w>
+    <w>ahí</w>
+    <t type="p"></t>
+    <media
+      start="1591.046"
+      end="1594.220"
+      unit="s"
+    />
+    <a type="english translation">I don't know in which street, to Ricón Del Valle, near there.</a>
+  </u>
+  <u who="ALI" uID="u500">
+    <w>xxx</w>
+    <w>que</w>
+    <w>mejoren</w>
+    <w>la</w>
+    <w>calle</w>
+    <t type="p"></t>
+    <media
+      start="1594.184"
+      end="1598.051"
+      unit="s"
+    />
+    <a type="english translation">xxx so they improve the state of the street.</a>
+  </u>
+  <u who="PED" uID="u501">
+    <w>sí</w>
+    <w>como</w>
+    <w>que</w>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1598.970"
+      end="1600.517"
+      unit="s"
+    />
+    <a type="english translation">yes, I think it is.</a>
+  </u>
+  <u who="ALI" uID="u502">
+    <linker type="lazy overlap mark"/>
+    <w>yo</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>es</w>
+    <w>la</w>
+    <w>otra</w>
+    <t type="p"></t>
+    <media
+      start="1599.423"
+      end="1600.687"
+      unit="s"
+    />
+    <a type="english translation">I think it's the other one.</a>
+  </u>
+  <u who="ALI" uID="u503">
+    <w>me</w>
+    <w>parece</w>
+    <t type="p"></t>
+    <media
+      start="1600.629"
+      end="1601.413"
+      unit="s"
+    />
+    <a type="english translation">I think.</a>
+  </u>
+  <u who="ALI" uID="u504">
+    <w>la</w>
+    <w>que</w>
+    <w>pasaba</w>
+    <w>atrás</w>
+    <w>de</w>
+    <w>lo</w>
+    <w>de</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1603.393"
+      end="1605.761"
+      unit="s"
+    />
+    <a type="english translation">the one that was behind xxx.</a>
+  </u>
+  <u who="ALI" uID="u505">
+    <w>me</w>
+    <w>parece</w>
+    <w>que</w>
+    <w>en</w>
+    <w>esa</w>
+    <w>están</w>
+    <w>poniendo</w>
+    <w>adoquines</w>
+    <t type="p"></t>
+    <media
+      start="1606.851"
+      end="1609.379"
+      unit="s"
+    />
+    <a type="english translation">I think that in that one they are placing paving stones.</a>
+  </u>
+  <u who="PED" uID="u506">
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="1609.214"
+      end="1609.886"
+      unit="s"
+    />
+  </u>
+  <u who="ALI" uID="u507">
+    <w>están</w>
+    <w>haciendo</w>
+    <w>los</w>
+    <w>cordones</w>
+    <w>ya</w>
+    <w>listos</w>
+    <w>para</w>
+    <w>poner</w>
+    <w>todo</w>
+    <w>adoquines</w>
+    <w>hasta</w>
+    <pause symbolic-length="simple"/>
+    <w>la</w>
+    <w>vuelta</w>
+    <t type="p"></t>
+    <media
+      start="1609.644"
+      end="1615.030"
+      unit="s"
+    />
+    <a type="english translation">they are putting the cords, they're ready to place the paving stones up to the turn.</a>
+  </u>
+  <comment type="Generic">pause.</comment>
+  <u who="ALI" uID="u508">
+    <w>ahí</w>
+    <w>en</w>
+    <w>la</w>
+    <w>plaza</w>
+    <w>de</w>
+    <pause symbolic-length="simple"/>
+    <w>xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>poner</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>de</w>
+    <w>césped</w>
+    <w>o</w>
+    <w>algo</w>
+    <t type="p"></t>
+    <media
+      start="1624.003"
+      end="1630.275"
+      unit="s"
+    />
+    <a type="english translation">in the square, there xxx to put a bit of grass or something.</a>
+  </u>
+  <u who="ALI" uID="u509">
+    <w>mejorarlo</w>
+    <w>un</w>
+    <w>poco</w>
+    <t type="p"></t>
+    <media
+      start="1630.258"
+      end="1631.735"
+      unit="s"
+    />
+    <a type="english translation">to improve it a bit.</a>
+  </u>
+  <u who="PED" uID="u510">
+    <w>sí</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="1632.742"
+      end="1634.001"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="ALI" uID="u511">
+    <linker type="lazy overlap mark"/>
+    <w>es</w>
+    <w>un</w>
+    <w>tierral</w>
+    <w>ahí</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="1633.057"
+      end="1635.409"
+      unit="s"
+    />
+    <a type="english translation">it's a pile of dirt that ...</a>
+  </u>
+  <u who="PED" uID="u512">
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="1635.579"
+      end="1636.662"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="PED" uID="u513">
+    <w>y</w>
+    <w>ahora</w>
+    <w>también</w>
+    <w>oiste</w>
+    <w>que</w>
+    <w>llamaron</w>
+    <w>a</w>
+    <w>limpieza</w>
+    <t type="q"></t>
+    <media
+      start="1638.134"
+      end="1641.974"
+      unit="s"
+    />
+    <a type="english translation">and did you heard that they asked to clean?</a>
+  </u>
+  <u who="PED" uID="u514">
+    <w>la</w>
+    <w>municipalidad</w>
+    <t type="p"></t>
+    <media
+      start="1642.184"
+      end="1644.264"
+      unit="s"
+    />
+    <a type="english translation">the municipality.</a>
+  </u>
+  <u who="PED" uID="u515">
+    <w>todos</w>
+    <w>los</w>
+    <w>que</w>
+    <w>tienen</w>
+    <w>terrenos</w>
+    <w>baldíos</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="1644.222"
+      end="1646.702"
+      unit="s"
+    />
+    <a type="english translation">all people that have waste land and ...</a>
+  </u>
+  <u who="ALI" uID="u516">
+    <w>uy</w>
+    <w>sí</w>
+    <w>porque</w>
+    <w>hay</w>
+    <w>terrenos</w>
+    <w>que</w>
+    <w>están</w>
+    <w>de</w>
+    <w>sucios</w>
+    <t type="p"></t>
+    <media
+      start="1646.990"
+      end="1649.998"
+      unit="s"
+    />
+    <a type="english translation">oh yes, because there are some plots of lands that are so dirty.</a>
+  </u>
+  <u who="PED" uID="u517">
+    <linker type="lazy overlap mark"/>
+    <w>y</w>
+    <w>el</w>
+    <w>a</w>
+    <w type="fragment">li</w>
+    <g><w>a</w><k type="retracing"/></g>
+    <w>a</w>
+    <w>limpiarlos</w>
+    <w>y</w>
+    <t type="trail off"></t>
+    <media
+      start="1647.123"
+      end="1650.948"
+      unit="s"
+    />
+    <a type="english translation">to clean them and...</a>
+  </u>
+  <u who="ALI" uID="u518">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="1651.841"
+      end="1653.883"
+      unit="s"
+    />
+  </u>
+  <u who="PED" uID="u519">
+    <linker type="lazy overlap mark"/>
+    <w>y</w>
+    <w>le</w>
+    <w>dan</w>
+    <w>un</w>
+    <w>plazo</w>
+    <t type="p"></t>
+    <media
+      start="1652.134"
+      end="1653.355"
+      unit="s"
+    />
+    <a type="english translation">they gave them a period.</a>
+  </u>
+  <u who="PED" uID="u520">
+    <w>y</w>
+    <w>si</w>
+    <w>no</w>
+    <w>los</w>
+    <w>limpian</w>
+    <w>bueno</w>
+    <w>lo</w>
+    <w>limpia</w>
+    <w>la</w>
+    <w>municipalidad</w>
+    <t type="p"></t>
+    <media
+      start="1653.179"
+      end="1655.723"
+      unit="s"
+    />
+    <a type="english translation">and if they don't clean it, the municipality will do it.</a>
+  </u>
+  <u who="PED" uID="u521">
+    <w>y</w>
+    <w>le</w>
+    <w>va</w>
+    <w>a</w>
+    <w>pasar</w>
+    <w>la</w>
+    <t type="self interruption"></t>
+    <media
+      start="1655.782"
+      end="1656.961"
+      unit="s"
+    />
+    <a type="english translation">and they're going to send the ...</a>
+  </u>
+  <u who="ALI" uID="u522">
+    <w>ay</w>
+    <w>sí</w>
+    <w>es</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>hacer</w>
+    <w>así</w>
+    <t type="p"></t>
+    <media
+      start="1656.887"
+      end="1658.855"
+      unit="s"
+    />
+    <a type="english translation">oh yes, it has to be done this way.</a>
+  </u>
+  <u who="PED" uID="u523">
+    <linker type="self completion"/>
+    <g><w>los</w><k type="retracing"/></g>
+    <g><w>los</w><k type="retracing"/></g>
+    <w>los</w>
+    <w>costos</w>
+    <t type="p"></t>
+    <media
+      start="1659.314"
+      end="1660.791"
+      unit="s"
+    />
+    <a type="english translation">the costs.</a>
+    <a type="comments">dog barking.</a>
+  </u>
+</CHAT>

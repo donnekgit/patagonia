@@ -3,8 +3,8 @@
 @Begin
 @Languages:	spa, cym
 @Participants:	MAP Mariposa Adult, TIA Tia Adult
-@ID:	cym, spa|Patagonia|MAP|90;|female|||Adult||
-@ID:	cym, spa|Patagonia|TIA|92;|female|||Adult||
+@ID:	cym, spa|Patagonia|MAP|90;|female|||Adult|||
+@ID:	cym, spa|Patagonia|TIA|92;|female|||Adult|||
 @Situation:	Conversation in Mariposa and her sister Tia at their home in western Chubut, Argentina
 @Date:	17-NOV-2009
 @Transcriber:	Fraibet Aveledo, Lowri Jones and Jonathan Stammers, Bangor University
@@ -501,7 +501,7 @@
 *MAP:	&=yawn . 492956_495030
 *MAP:	xxx . 495775_496532
 *TIA:	+< qué bien . 495912_496904
-%eng	great.
+%eng:	great.
 *MAP:	que lástima <que la> [/] que la [//] las peonías esas se caen tan [/] tan pronto no ? 499191_504759
 %eng:	such a shame that the peonies drop their petals so quickly, isn't it?
 *TIA:	+< no pero xxx . 503531_506768
@@ -753,7 +753,7 @@
 *TIA:	ay . 749975_750791
 %eng:	vvv
 *TIA:	no .751601_752279
-%eng	no
+%eng:	no
 *TIA:	sí . 752412_753137
 %eng:	yes
 *MAP:	pero está . 753441_754209
@@ -1021,7 +1021,7 @@
 %eng:	here
 *TIA:	eh@s:cym&spa ? 1005956_1006596
 %eng:	eh?
-*MAP:	ahí detrás del tray@eng . 1006548_1008591
+*MAP:	ahí detrás del tray@s:eng . 1006548_1008591
 %eng:	there, behind the tray
 *TIA:	sí . 1006612_1007604
 %eng:	yes
@@ -1128,7 +1128,7 @@
 %eng:	mm!
 *MAP:	y el hijo tiene una nena de como de seis años . 1118923_1122795
 %eng:	and the son has a girl of about six years
-*TIA:	mirá  1123025_1123947
+*TIA:	mirá . 1123025_1123947
 %eng:	look
 *TIA:	sería lindo verlos . 1125426_1127783
 %eng:	it'd be lovely to see them

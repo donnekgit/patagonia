@@ -3,12 +3,13 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ANA Ana Adult, GLO Gloria Adult, IGN Ignacio Adult, CRI Cristina Adult, FRA Francisca Adult, RES Researcher Adult, OSE Researcher Adult
-@ID:	cym, spa|Patagonia|ANA|90;|female|||Adult||
-@ID:	cym, spa|Patagonia|GLO|82;|female|||Adult||
-@ID:	cym, spa|Patagonia|IGN|67;|male|||Adult||
-@ID:	cym, spa|Patagonia|CRI|72;|female|||Adult||
-@ID:	cym, spa|Patagonia|FRA|61;|female|||Adult||
-@ID:	cym, spa|Patagonia|OSE|||||Adult||
+@ID:	cym, spa|Patagonia|ANA|90;|female|||Adult|||
+@ID:	cym, spa|Patagonia|GLO|82;|female|||Adult|||
+@ID:	cym, spa|Patagonia|IGN|67;|male|||Adult|||
+@ID:	cym, spa|Patagonia|CRI|72;|female|||Adult|||
+@ID:	cym, spa|Patagonia|FRA|61;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|RES|||||Adult|||
 @Situation:	Conversation at a house in Rawson
 @Date:	30-OCT-2009
 @Transcriber:	Jonathan Stammers and Diana Carter, Bangor University
@@ -220,7 +221,7 @@
 %eng:	yes
 *GLO:	ie wir . 224511_225082
 %eng:	yes indeed
-*ANA:	ond os bydd (y)na rywbeth fe fydda i (y)n (.) [/] yn trio ngorau . 226099_229325
+*ANA:	ond os bydd (y)na rywbeth fe fydda i (y)n [/] (.) yn trio ngorau . 226099_229325
 %eng:	but if there is something then I will try my best
 *ANA:	ta be bydd yn [/] yn lwcus [?] . 229567_231764
 %eng:	or else, what, it will be lucky
@@ -254,7 +255,7 @@
 %eng:	you don't have to get up or anything
 *ANA:	rywbeth tebyg i heddiw . 265087_266261
 %eng:	something similar to today
-*GLO:	all(i) [/] alli di uh arwain y cwrdd a este@s:spa (.) [/] a canu a chwbl o wrth eistedd . 266035_272127
+*GLO:	all(i) [/] alli di uh arwain y cwrdd a este@s:spa [/] (.) a canu a chwbl o wrth eistedd . 266035_272127
 %eng:	you could lead the meeting and... and sing and everything sitting down
 *ANA:	oh@s:cym&spa (we)dyn [?] mae ngolwg wedi mynd . 271835_273585
 %eng:	oh, my sight has gone
@@ -776,7 +777,7 @@
 %eng:	there are
 *GLO:	+< ia . 886656_887061
 %eng:	yes
-*ANA:	ond y peth (.) yr un sy (y)n gweithio mewn tre <mae o> [//] wel mae o (y)n cael ei (.) [/] ei ddyddie hólides . 888420_895393
+*ANA:	ond y peth (.) yr un sy (y)n gweithio mewn tre <mae o> [//] wel mae o (y)n cael ei [/] (.) ei ddyddie hólides . 888420_895393
 %eng:	but the thing [is], whoever works in town gets days off, holidays
 *ANA:	ac uh (..) xxx sy (y)n gweithio ar ei ben ei hunan ac yn enwedig ar y ffarm wel uh (doe)s gynno fo ddim (.) cynnig i fynd ar [/] ar wyliau heblaw bod nhw (y)n nofio mewn arian . 896046_909674
 %eng:	and [..] who works on their own, and especially on the farm, well, they have no opportunity to go on holiday, unless they're swimming in money
@@ -826,7 +827,7 @@
 %eng:	you can...
 *FRA:	dw i (ddi)m (y)n gallu deud yr xxx +/. 947437_948862
 %eng:	I can't say the [...]
-*GLO:	+< dywed (.) [/] dywed di yn Gymraeg a gawn weld sut +... 947828_950760
+*GLO:	+< dywed [/] (.) dywed di yn Gymraeg a gawn weld sut +... 947828_950760
 %eng:	you say it in Welsh and we'll see how...
 *FRA:	&=laugh . 951003_953819
 *GLO:	[- spa] cómo se dice glaciar en galés ? 953859_956051

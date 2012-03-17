@@ -3,9 +3,10 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	HER Herminia Adult, GAB Gabriela Adult, ELO Eloisa Adult, OSE Unidentified
-@ID:	cym, spa|Patagonia|HER|86;|female|||Adult||
-@ID:	cym, spa|Patagonia|GAB|74;|female|||Adult||
-@ID:	cym, spa|Patagonia|ELO|81;|female|||Adult||
+@ID:	cym, spa|Patagonia|HER|86;|female|||Adult|||
+@ID:	cym, spa|Patagonia|GAB|74;|female|||Adult|||
+@ID:	cym, spa|Patagonia|ELO|81;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE|||||Adult|||
 @Situation:	Conversation between friends at Gabriela's house
 @Date:	03-NOV-2009
 @Transcriber:	Lowri Jones Bangor University
@@ -674,7 +675,7 @@
 *ELO:	+< &=laughs . 515428_516570
 *GAB:	+< paid â deud (.) oh@s:cym&spa ! 515701_518021
 %eng:	don't say it, oh!
-*HER:	a wedyn o(eddw)n i &m &n& [//] o(eddw)n i_mewn penbleth trwy (y)r dydd wedyn . 518041_521161
+*HER:	a wedyn o(eddw)n i &m &n [//] o(eddw)n i_mewn penbleth trwy (y)r dydd wedyn . 518041_521161
 %eng:	and then I was confused all day after that
 *HER:	achos o(eddw)n i (y)n deud +"/. 521151_521844
 %eng:	because I was saying:
@@ -889,7 +890,7 @@
 *GAB:	ond uh (.) o(eddw)n i (y)n [//] wel o(eddw)n i (y)n gorfod &s (.) chwarae efo mrodyr . 678889_682980
 %eng:	but I had to play with my brothers
 *ELO:	mm +... 682863_683740
-*GAB:	w(rth)_(gw)rs [?] <chwarae fútbol@s:spa> [/] &o chwarae fútbol@s:spa . 683813_685687
+*GAB:	w(rth_gw)rs [?] <chwarae fútbol@s:spa> [/] &o chwarae fútbol@s:spa . 683813_685687
 %eng:	playing football of course
 *GAB:	&n o(edd) gyda fi ddim chwaer i ga(el) &=laughs +... 685593_687971
 %eng:	I didn't have a sister to have...
@@ -1199,7 +1200,7 @@
 *HER:	+< ac oedd hi (y)n rhoid y ddau air yn un . 878078_879868
 %eng:	and she merged the two words
 *ELO:	&=laughs . 879793_880924
-*GAB:	+< croesi fasai fo yn Gymraeg ynde (.) croesi (.) [/] croesi . 879906_883212
+*GAB:	+< croesi fasai fo yn Gymraeg ynde (.) croesi [/] (.) croesi . 879906_883212
 %eng:	it'd be "croesi" in Welsh, wouldn't it?
 *HER:	+< cruz_io@s:spa+cym . 880808_881720
 %eng:	cruzio.
@@ -1243,7 +1244,7 @@
 %eng:	were trying to see if she was home.
 *ELO:	oedden ni ddim yn gweld uh uh uh dim fath o [/] o olau na ddim_byd . 914274_918708
 %eng:	we couldn't see any light or anything.
-*GAB:	+< ie (..) [/] ie . 915628_919063
+*GAB:	+< ie [/] (..) ie . 915628_919063
 %eng:	yes.
 *ELO:	um (.) dyma (y)r uh (..) y gwyddau (y)n dechrau +"/. 919266_922991
 %eng:	and the geese would begin...

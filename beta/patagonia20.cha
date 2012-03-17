@@ -2,8 +2,8 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ALM Alma Adult, CEC Cecilia Adult
-@ID:	cym, spa|Patagonia|ALM|67;|female|||Adult||
-@ID:	cym, spa|Patagonia|CEC|58;|female|||Adult||
+@ID:	cym, spa|Patagonia|ALM|67;|female|||Adult|||
+@ID:	cym, spa|Patagonia|CEC|58;|female|||Adult|||
 @Situation:	Conversation at a house in western Chubut, Argentina
 @Date:	09-NOV-2009
 @Transcriber:	Myfyr Prys, Jonathan Stammers and Fraibet Aveledo, Bangor University
@@ -412,7 +412,7 @@
 %eng:	my oldest is 26
 *CEC:	&=laugh . 535803_536987
 *ALM:	+< &=laugh . 536244_536883
-*ALM:	a (y)r (..) [/] y ienga yn (.) tri . 537252_543214
+*ALM:	a (y)r [/] (..) y ienga yn (.) tri . 537252_543214
 %eng:	and the youngest is 3
 *ALM:	&=laugh tri oed . 543563_544817
 %eng:	3 years old
@@ -426,7 +426,7 @@
 %eng:	8, yes
 *ALM:	ia . 555926_556129
 %eng:	yes
-*ALM:	a (..) [/] a mae (y)na ddau yn Trevelin@s:cym&spa . 556375_560804
+*ALM:	a [/] (..) a mae (y)na ddau yn Trevelin@s:cym&spa . 556375_560804
 %eng:	and there are two in Trevelin
 *ALM:	a (..) dwy o (.) ddau oed . 560843_563809
 %eng:	and two of 2 years old
@@ -575,9 +575,9 @@
 *ALM:	ie maen nhw (y)n nabod (.) xxx . 727912_730605
 %eng:	yes, they know [...]
 *CEC:	+< mm xxx . 728591_730739
-*CEC:	<mae (y)r> [///] bydd raid i ni meddwl wythnos (y)ma (.) beth dan ni (y)n (.) [/] yn wneud i gorffen y xxx gorffen y tymor . 736179_743899
+*CEC:	<mae (y)r> [///] bydd raid i ni meddwl wythnos (y)ma (.) beth dan ni (y)n [/] (.) yn wneud i gorffen y xxx gorffen y tymor . 736179_743899
 %eng:	we'll have to think this week what we're doing to finish off the [...] end of term
-*ALM:	+< i wneud i (.) [/] i gorffen +... 740358_742878
+*ALM:	+< i wneud i [/] (.) i gorffen +... 740358_742878
 %eng:	to do to... finish...
 *ALM:	+< wel +... 743195_743717
 %eng:	well...

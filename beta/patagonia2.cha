@@ -3,8 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	CHT Christina Adult, AVR Avril Adult, RES Researcher Adult
-@ID:	cym, spa|Patagonia|CHT|66;|female|||Adult||
-@ID:	cym, spa|Patagonia|AVR|82;|female|||Adult||
+@ID:	cym, spa|Patagonia|CHT|66;|female|||Adult|||
+@ID:	cym, spa|Patagonia|AVR|82;|female|||Adult|||
+@ID:	cym, spa|Patagonia|RES|||||Adult|||
 @Situation:	Conversation between two friends in an apartment in Buenos Aires, Argentina
 @Date:	26-OCT-2009
 @Transcriber:	Jonathan Stammers, Bangor University
@@ -1391,7 +1392,7 @@
 %eng:	yes.
 *CHT:	ia ia . 1426596_1427164
 %eng:	yes, yes.
-*CHT:	a oedd &be [///] o(eddw)n i (y)n ddeuddeg oed yn mynd i orffen yr ysgol yn Trevelin@s:cym&spa achos bod dim (.) [/] dim um +//. 1427720_1434556
+*CHT:	a oedd &be [///] o(eddw)n i (y)n ddeuddeg oed yn mynd i orffen yr ysgol yn Trevelin@s:cym&spa achos bod dim [/] (.) dim um +//. 1427720_1434556
 %eng:	I was twelve and was going to finish school at Trevelin because there was no...
 *CHT:	oedd hi (y)n bosib gorffen yna . 1435187_1436551
 %eng:	it was possible to finish there.
@@ -1602,7 +1603,7 @@
 %eng:	you know, the night...
 *CHT:	a digonedd o ddŵr yn yr afonydd (y)na ! 1646387_1648424
 %eng:	and plenty of water in those rivers!
-*AVR:	ie nos wener oedd hi for (.) [//] mor hyll efo ninnau ac yn glawio gymaint . 1648305_1653674
+*AVR:	ie nos wener oedd hi for [//] (.) mor hyll efo ninnau ac yn glawio gymaint . 1648305_1653674
 %eng:	yes, it was Friday night that it was so horrible with us, raining so much.
 *CHT:	ie . 1654159_1654501
 %eng:	yes.

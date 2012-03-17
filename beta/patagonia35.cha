@@ -3,9 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	JAV Javier Adult, AMA Amalia Adult, OSE non_participant Adult
-@ID:	cym, spa|Patagonia|JAV|75;|male|||Adult||
-@ID:	cym, spa|Patagonia|AMA|71;|female|||Adult||
-@ID:	cym, spa|Patagonia|OSE|?;|male|||Adult||
+@ID:	cym, spa|Patagonia|JAV|75;|male|||Adult|||
+@ID:	cym, spa|Patagonia|AMA|71;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE||male|||Adult|||
 @Situation:	Conversation between friends at Javier's house in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Marika Fusser and Fraibet Aveledo, Bangor University
@@ -251,7 +251,7 @@
 %eng:	no, I liked coming to the chapel.
 *AMA:	<o(edde)n ni (y)n dod (.)> [//] dw i (y)n credu bod ni (y)n dod bob dydd Sul . 444724_448750
 %eng:	I think we came every Sunday.
-*JAV:	+< uh (.) uh wy(t) (.) [/] wyt ti (y)n cofio (.) adeg oedd cwrdd bore cwrdd pnawn a cwrdd nos ? 446849_456697
+*JAV:	+< uh (.) uh wy(t) [/] (.) wyt ti (y)n cofio (.) adeg oedd cwrdd bore cwrdd pnawn a cwrdd nos ? 446849_456697
 %eng:	uh, do you remember when there was a morning service, an afternoon service and an evening service?
 *AMA:	+< mm (.) ie . 455447_457279
 %eng:	mm, yes.
@@ -768,7 +768,7 @@
 %eng:	well, I haven't had the opportunity to go to the Welsh school nor to have a conversation with anybody because...
 *AMA:	+< na dw i xx . 1231907_1232990
 %eng:	no, I haven't [...]
-*AMA:	na na oes gen i ddim un diwrnod chwaith o (.) [/] o ysgol Gymraeg . 1236333_1239808
+*AMA:	na na oes gen i ddim un diwrnod chwaith o [/] (.) o ysgol Gymraeg . 1236333_1239808
 %eng:	no, I haven't had a single day of Welsh school either.
 *JAV:	+< mae +... 1237041_1237857
 %eng:	it is...
@@ -897,9 +897,9 @@
 %eng:	by the 25th they could cut grass.
 *JAV:	a (e)leni oes (y)na ddim golwg . 1417594_1420591
 %eng:	and this year there is no sign of it.
-*JAV:	mae hi (y)n (.) dal i glawio bwrw eira <yn yr um (.)> [//] ar y mynydd <a (.) &t (.)> [//] a (.) yn rhewi (y)n (.) [/] yn ofnadwy . 1421266_1434776
+*JAV:	mae hi (y)n (.) dal i glawio bwrw eira <yn yr um (.)> [//] ar y mynydd <a (.) &t (.)> [//] a (.) yn rhewi (y)n [/] (.) yn ofnadwy . 1421266_1434776
 %eng:	it's still raining, snowing on the mountain and freezing terribly.
-*AMA:	mae (y)na rai coed bach o(eddw)n i wedi (.) [/] wedi plannu welaist ti ? 1438354_1441719
+*AMA:	mae (y)na rai coed bach o(eddw)n i wedi [/] (.) wedi plannu welaist ti ? 1438354_1441719
 %eng:	some of the trees I planted have, did you see?
 *AMA:	pañil@s:spa a (y)r gamavinas@s:spa [?] wedi rewi (y)n ddu . 1442410_1445562
 %eng:	the buddleia and the [...] have frozen until they're black.
@@ -957,7 +957,7 @@
 %eng:	oh, over the years...
 *AMA:	mi ganais i yn [//] (..) bron yn bob côr yn fan hyn . 1521010_1525138
 %eng:	I've sung in almost every choir here.
-*AMA:	a [//] ac yn Trelew@s:cym&spa hefyd xxx bob tsians ges i o(eddw)n i (y)n (.) canu mewn corau erbyn (.) [/] erbyn (ei)steddfod (..) neu erbyn Gŵyl_Dewi neu (..) <popeth oedd> [//] pob achlysur oedd (y)na . 1527841_1543026
+*AMA:	a [//] ac yn Trelew@s:cym&spa hefyd xxx bob tsians ges i o(eddw)n i (y)n (.) canu mewn corau erbyn [/] (.) erbyn (ei)steddfod (..) neu erbyn Gŵyl_Dewi neu (..) <popeth oedd> [//] pob achlysur oedd (y)na . 1527841_1543026
 %eng:	and in Trelew as well, every chance I had I sang in choirs, for the eisteddfod or for St. David's Day or for every occasion there was.
 *AMA:	o(eddw)n i bob amser yn cael (.) y fraint o ganu mewn côr . 1543059_1546621
 %eng:	I always had the privilege of singing in a choir.
@@ -1052,7 +1052,7 @@
 %eng:	there was one man, Camilla's husband, who wanted to go to where they'd put the... where the banner was.
 *JAV:	a wnaeth o ofyn os wnesaf i fynd (y)na gyda fo . 1728312_1732939
 %eng:	and he asked if I'd go there with him.
-*JAV:	achos oedd o wedi trio mynd (y)na (.) [/] yna ond oedd o wedi colli cyn cyrraedd . 1732940_1738397
+*JAV:	achos oedd o wedi trio mynd (y)na [/] (.) yna ond oedd o wedi colli cyn cyrraedd . 1732940_1738397
 %eng:	because he had tried to go there, but he had got lost before reaching it.
 *AMA:	mmhm . 1738560_1739318
 %eng:	mmhm.

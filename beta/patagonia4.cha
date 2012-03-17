@@ -3,9 +3,10 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	SLA Selina Adult, EZK Ezekiel Adult, VTR Victor Child, OSE Other Speaker
-@ID:	cym, spa|Patagonia|SLA|48;|female|||Adult||
-@ID:	cym, spa|Patagonia|EZK|47;|male|||Adult||
-@ID:	cym, spa|Patagonia|VTR||male|||Child||
+@ID:	cym, spa|Patagonia|SLA|48;|female|||Adult|||
+@ID:	cym, spa|Patagonia|EZK|47;|male|||Adult|||
+@ID:	cym, spa|Patagonia|VTR||male|||Child|||
+@ID:	cym, spa|Patagonia|OSE|||||Adult|||
 @Situation:	Conversation in Selina and Ezekiel's home in eastern Chubut, Argentina
 @Date:	28-OCT-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -1559,7 +1560,7 @@
 *VTR:	+< xxx . 1311489_1312609
 *VTR:	rygbi &o &c . 1313659_1314825
 %eng:	rugby
-*VTR:	a <maen nhw> [/] (.) maen nhw (y)n [///] ac uh maen nhw efo (.) [///] mae (y)r pêl +//. 1315174_1321616
+*VTR:	a <maen nhw> [/] (.) maen nhw (y)n [///] ac uh maen nhw efo [///] (.) mae (y)r pêl +//. 1315174_1321616
 %eng:	and they... er, they have... the ball is...
 *VTR:	mae (y)na un (.) dyn efo (.) rywbeth bach yn dal . 1321887_1325875
 %eng:	there's one man with something small holding...

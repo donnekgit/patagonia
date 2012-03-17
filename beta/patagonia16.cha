@@ -2,9 +2,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	RAM Ramon Adult, ELS Elsa Adult, MOL Marisol Adult
-@ID:	cym, spa|Patagonia|RAM|54;|male|||Adult||
-@ID:	cym, spa|Patagonia|ELS|46;|female|||Adult||
-@ID:	cym, spa|Patagonia|MOL|54;|female|||Adult||
+@ID:	cym, spa|Patagonia|RAM|54;|male|||Adult|||
+@ID:	cym, spa|Patagonia|ELS|46;|female|||Adult|||
+@ID:	cym, spa|Patagonia|MOL|54;|female|||Adult|||
 @Situation:	Conversation at a meeting hall in eastern Chubut, Argentina
 @Date:	05-NOV-2009
 @Transcriber:	Marika Fusser, Bangor University
@@ -1254,7 +1254,7 @@
 %eng:	uh, and kinesiology in Buenos Aires?
 *MOL:	+< a wedyn uh kinesiología@s:spa . 1065349_1068402
 %eng:	and then kinesiology.
-*MOL:	sí@s:spa sí@s:spa mae o (y)n (.) [/] (y)n gallu mynd fewn <i (y)r> [/] i (y)r educación@s:spa física@s:spa xxx licio . 1068316_1073760
+*MOL:	sí@s:spa sí@s:spa mae o (y)n [/] (.) (y)n gallu mynd fewn <i (y)r> [/] i (y)r educación@s:spa física@s:spa xxx licio . 1068316_1073760
 %eng:	yes, he can go into physical education, [...] likes.
 *ELS:	ah@s:cym&spa . 1073765_1074827
 %eng:	ah.
@@ -1515,8 +1515,8 @@
 *MOL:	+< xxx . 1268066_1268935
 *MOL:	oh@s:cym&spa . 1268919_1269618
 %eng:	oh.
-*MOL:	&= laugh <a chi> [?] [/] a chi funestos@s:spa (y)dyn ni heddiw xxx . 1269602_1272983
-%eng:	how terrible we are today, [...].
+*MOL:	&=laugh <a chi> [?] [/] a chi funestos@s:spa (y)dyn ni heddiw xxx . 1269602_1272983
+%eng:	how terrible we are today [...].
 *ELS:	+< &=laugh . 1272647_1274642
 *MOL:	mm +... 1274989_1275565
 %eng:	mmm.
@@ -1620,7 +1620,7 @@
 %eng:	more or less, yes.
 *ELS:	mmhm . 1337185_1338001
 %eng:	yes.
-*ELS:	mae o (y)n (.) [/] (y)n barrio@s:spa uh +... 1338554_1341563
+*ELS:	mae o (y)n [/] (.) (y)n barrio@s:spa uh +... 1338554_1341563
 %eng:	it is a neighbourhood, uh...
 *RAM:	ardal . 1341557_1342315
 %eng:	area.
@@ -1857,7 +1857,7 @@
 *MOL:	+< dach chi eisiau xxx sefyll [?] . 1515448_1516926
 %eng:	you want to [...] stay.
 *ELS:	+< &=laugh . 1516334_1516931
-*MOL:	&= laugh . 1516910_1517790
+*MOL:	&=laugh . 1516910_1517790
 *ELS:	+< mae raid i ni xxx &=laugh . 1516916_1520299
 %eng:	we have to [...].
 *RAM:	+< mae ganddi hi (.) bicicleta@s:spa newydd sbon nawr . 1517625_1522038
@@ -2043,7 +2043,7 @@
 %eng:	do you know something about Anita's husband?
 *ELS:	um xxx . 1645346_1647784
 %eng:	um, [...].
-*MOL:	mae o ddim yn iawn na(g)_ydy ? 1647936_1649504
+*MOL:	mae o ddim yn iawn na(g) ydy ? 1647936_1649504
 %eng:	he isn't well, is he?
 *ELS:	+< na . 1648299_1649541
 %eng:	no.

@@ -2,8 +2,8 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	CZA Carenza Adult, SOF Sofia Adult
-@ID:	cym, spa|Patagonia|CZA|81;|female|||Adult||
-@ID:	cym, spa|Patagonia|SOF|70;|female|||Adult||
+@ID:	cym, spa|Patagonia|CZA|81;|female|||Adult|||
+@ID:	cym, spa|Patagonia|SOF|70;|female|||Adult|||
 @Situation:	Conversation between two friends Carenza and Sofia, at Carenza's home in western Chubut, Argentina
 @Date:	12-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -133,7 +133,7 @@
 %eng:	oh I've been cutting the grass today.
 *SOF:	um +... 102369_103851
 %eng:	um...
-*SOF:	ddoth (.) [/] ddoth moto@s:spa sefyll <o flaen yr (.)> [/] o flaen yr ffenest fan (y)na . 104624_110681
+*SOF:	ddoth [/] (.) ddoth moto@s:spa sefyll <o flaen yr (.)> [/] o flaen yr ffenest fan (y)na . 104624_110681
 %eng:	a motorbike came and stood in front of that window there.
 *SOF:	a disgynnodd dwy wraig ifanc . 110945_113910
 %eng:	and two young ladies got off.
@@ -141,7 +141,7 @@
 %eng:	and another girl, who wasn't very old but she was walking quite awkwardly like that.
 *CZA:	+< ie . 114151_114610
 %eng:	yes.
-*SOF:	o(eddw)n i ddim (.) [/] ddim yn nabod hi . 121082_123378
+*SOF:	o(eddw)n i ddim [/] (.) ddim yn nabod hi . 121082_123378
 %eng:	I didn't recognise her.
 *SOF:	ddaethon nhw fewn trwy (y)r (.) gegin ffordd (y)ma . 123394_125810
 %eng:	they came in through the kitchen this way.
@@ -762,7 +762,7 @@
 %eng:	yes?
 *SOF:	Begw_Grug@s:cym&spa ia . 636483_637320
 %eng:	Begw Grug yes.
-*CZA:	<oedd &e> [//] mae Felipe@s:cym&spa (y)n cael y (.) [/] y gota@s:spa . 637539_640536
+*CZA:	<oedd &e> [//] mae Felipe@s:cym&spa (y)n cael y [/] (.) y gota@s:spa . 637539_640536
 %eng:	oh Felipe gets the sweats.
 *SOF:	oh@s:cym&spa yndy ? 641005_641517
 %eng:	oh yes?
@@ -1948,7 +1948,7 @@
 %eng:	but I remember then they would use the roller, that heavy old roller.
 *SOF:	+< oh@s:cym&spa ie ie . 1605407_1606532
 %eng:	yes yes.
-*CZA:	a wedyn oedden nhw (y)n roid ryw [/] ryw [/] ryw (.) [/] ryw (.) [/] ryw [/] ryw (.) um (.) uh cerrig man neu rywbeth . 1608324_1617346
+*CZA:	a wedyn oedden nhw (y)n roid ryw [/] ryw [/] ryw [/] (.) ryw [/] (.) ryw [/] ryw (.) um (.) uh cerrig man neu rywbeth . 1608324_1617346
 %eng:	and then they put some, um, er, small stones or something.
 *CZA:	a wedyn pasio (y)r rolyn &i wedyn . 1617335_1619657
 %eng:	and then pass the roler over.
@@ -2341,7 +2341,7 @@
 %eng:	I remember up to the last minute they were having to make some [...] or...
 *SOF:	yn y gornel . 1911394_1912258
 %eng:	in the corner.
-*SOF:	a ryw (.) [/] ryw bethau fel (y)na . 1912279_1914775
+*SOF:	a ryw [/] (.) ryw bethau fel (y)na . 1912279_1914775
 %eng:	and some things like that.
 *CZA:	+< siŵr siŵr . 1912301_1913501
 %eng:	sure, sure.

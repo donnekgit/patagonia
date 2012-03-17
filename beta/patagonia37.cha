@@ -3,8 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	RAM Ramona Adult, ELI Elisa Adult, OSE Unknown Adult
-@ID:	cym, spa|Patagonia|RAM|44;|female|||Adult||
-@ID:	cym, spa|Patagonia|ELI|46;|female|||Adult||
+@ID:	cym, spa|Patagonia|RAM|44;|female|||Adult|||
+@ID:	cym, spa|Patagonia|ELI|46;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE|||||Adult|||
 @Situation:	Conversation between friends at a hotel in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -640,7 +641,7 @@
 %eng:	did Hugo go to the asado too?
 *RAM:	do . 431801_432393
 %eng:	yes.
-*ELI:	ah@s:cym&spa o_k@s:cym&spa £ . 432509_433536
+*ELI:	ah@s:cym&spa o_k@s:cym&spa . 432509_433536
 %eng:	ah ok [...]
 *RAM:	+< do . 432509_433043
 %eng:	yes.
@@ -1345,7 +1346,7 @@
 %eng:	or you need a lot of money to buy a building and do anything interesting.
 *RAM:	+< mm +... 1019718_1020391
 %eng:	mm...
-*ELI:	a mae (y)r bobl <sy (y)n> [/] sy (y)n (.) um (.) [///] &e yr perchennog . 1023774_1028930
+*ELI:	a mae (y)r bobl <sy (y)n> [/] sy (y)n (.) um [///] (.) &e yr perchennog . 1023774_1028930
 %eng:	and the people who are... er, the owner
 *ELI:	perchennog ? 1029571_1030634
 %eng:	owner?
@@ -1743,7 +1744,7 @@
 *OSE:	www . 1364741_1366372
 *RAM:	o ble mae (y)r bobl (y)na ? 1368379_1369691
 %eng:	where are those people from?
-*ELI:	[- spa] <no sé>  . 1369702_1370451
+*ELI:	[- spa] <no sé> . 1369702_1370451
 %eng:	don't know
 *RAM:	&=cough . 1370544_1372054
 *OSE:	www . 1377739_1379220

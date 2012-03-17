@@ -2,11 +2,11 @@
 @Begin
 @Languages:	spa, cym, eng
 @Participants:	ALE Alejandra Adult,  LCT Lucita  Adult
-@ID:	cym, spa|Patagonia|ALE|42;|female|||Adult||
-@ID:	cym, spa|Patagonia|LCT|61;|female|||Adult||
+@ID:	cym, spa|Patagonia|ALE|42;|female|||Adult|||
+@ID:	cym, spa|Patagonia|LCT|61;|female|||Adult|||
 @Situation:	Conversation between colleagues at a primary school in eastern Chubut, Argentina
 @Date:	04-NOV-2009
-@Coder:	Fraibet Aveledo, Bangor University
+@Transcriber:	Fraibet Aveledo, Bangor University
 @Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:28:31
 @Media:	Patagonia13, audio
@@ -434,7 +434,7 @@
 %eng:	but yes.
 *ALE:	sí . 458839_459042
 %eng:	yes.
-*LCT:	+< porque (.) el jurado cuando daba el veredicto no quería decir el (.) [//] que era el (.) [/] el chiquito este . 458924_467044
+*LCT:	+< porque (.) el jurado cuando daba el veredicto no quería decir el [//] (.) que era el [/] (.) el chiquito este . 458924_467044
 %eng:	because when the judging panel gave the result, they didn't want to say it was this boy, you see, but...
 *LCT:	no ? 466661_467259
 %eng:	you see?
@@ -552,8 +552,8 @@
 *LCT:	+< xxx . 642508_643575
 *ALE:	no [/] no tan seguido . 644510_646408
 %eng:	not very consistently.
-*LCT:	y [?] +/... 646848_647835
-%eng:	and...
+*LCT:	y [?] +... 646848_647835
+%eng:	and ...
 *LCT:	a mí por ejemplo [///] yo nací en Veintiocho_de_Julio en las chacras más allá más arriba que Dolavon@s:cym&spa . 647874_653429
 %eng:	I for instance, I was born in Veintiocho_de_Julio in the farmhouses just above Dolavon.
 *LCT:	y fuimos criados ahí . 654573_655970
@@ -634,7 +634,7 @@
 %eng:	and my uncle played the harmonium.
 *LCT:	no sabía mucho de música . 737331_739347
 %eng:	he didn't know much about music.
-*LCT:	aunque había ido +/... 739454_740819
+*LCT:	aunque había ido +... 739454_740819
 %eng:	although he had been...
 *LCT:	pero mi abuelo le [/] le cantaba el canto . 740776_743487
 %eng:	but my grandfather sang him the song.
@@ -875,7 +875,7 @@
 %eng:	that's for sure.
 *LCT:	+< porque si uno no lo hace por uno nadie lo va a hacer . 1003516_1006225
 %eng:	because if you don't do what is important for yourself, nobody will do it.
-*ALE:	yo eh@s:cym&spa empezando <por las> (.) [/] por las clases de galés (.) me di cuenta de que uno debía dedicar un poquito de tiempo a lo que uno tanto ansiaba (.) aprender o [/] o perfeccionar digamos eh@s:cym&spa . 1006463_1020007
+*ALE:	yo eh@s:cym&spa empezando <por las> [/] (.) por las clases de galés (.) me di cuenta de que uno debía dedicar un poquito de tiempo a lo que uno tanto ansiaba (.) aprender o [/] o perfeccionar digamos eh@s:cym&spa . 1006463_1020007
 %eng:	I... When I started Welsh classes, I noticed that you should dedicate a little time to what you really want to learn, or get better at, let's say.
 *LCT:	+< xxx sí sí . 1016899_1018206
 %eng:	[...] yes, yes.
@@ -897,14 +897,14 @@
 %eng:	I have the book at home to be able to do some tasks, exercises let's say.
 *ALE:	pero lo veo con frecuencia . 1045184_1047531
 %eng:	but I look at it often.
-*ALE:	y lo que trato más es de practicar (.) tanto hablando por teléfono o escribiendo en (.) [/] en galés . 1047486_1053638
+*ALE:	y lo que trato más es de practicar (.) tanto hablando por teléfono o escribiendo en [/] (.) en galés . 1047486_1053638
 %eng:	and what I try to do more often is practicing, both speaking on the phone or writing in Welsh.
 *LCT:	+< xxx . 1047785_1048542
 *ALE:	no lo escribo bien en galés . 1053600_1055024
 %eng:	I don't write well in Welsh.
 *ALE:	sino que (.) escribo cualquier cosa . 1055077_1057370
 %eng:	but I'll just write anything.
-*ALE:	pero eh@s:cym&spa trato de que se entienda <lo que quiero> (.) [/] lo que quiero poner . 1057361_1061846
+*ALE:	pero eh@s:cym&spa trato de que se entienda <lo que quiero> [/] (.) lo que quiero poner . 1057361_1061846
 %eng:	but it's about putting what I want to say in a way that is understandable.
 *LCT:	+< expresar . 1060763_1061649
 %eng:	express.
@@ -948,8 +948,7 @@
 %eng:	so we went to the house of...
 *LCT:	en mi casa hablábamos el galés y el castellano . 1100350_1103229
 %eng:	at my place we spoke Welsh and Spanish.
-*LCT:	porque en la escuela &=grunt (.) teníamos que estar eh@s:cym&spa
-castellano . 1104195_1107854
+*LCT:	porque en la escuela &=grunt (.) teníamos que estar eh@s:cym&spa castellano . 1104195_1107854
 %eng:	because we had to speak Spanish at school.
 *ALE:	+< castellano sí . 1107256_1108440
 %eng:	Spanish, yes.
@@ -1013,7 +1012,7 @@ castellano . 1104195_1107854
 %eng:	and we were quite naughty teenagers.
 *ALE:	entonces fuimos a visitar a la tarde a la tía . 1187759_1191162
 %eng:	so we went to visit our aunt in the evening.
-*ALE:	y la tía recibió con un (.) [///] eh@s:cym&spa los brazos abiertos y todo y esperando que fuéramos . 1191195_1199345
+*ALE:	y la tía recibió con un [///] (.) eh@s:cym&spa los brazos abiertos y todo y esperando que fuéramos . 1191195_1199345
 %eng:	and our aunt was expecting us and received us with open arms and everything.
 *ALE:	y cuando quisimos saludar en galés y no nos salió como ella esperaba escuchar nos retó . 1199356_1206648
 %eng:	and when we wanted to greet her in Welsh and it didn't come out as she'd expected, we got a scolding from her.
@@ -1076,7 +1075,7 @@ castellano . 1104195_1107854
 %eng:	and I could speak Spanish well when I started school.
 *ALE:	eh@s:cym&spa (.) tuve suerte porque era ir y quedarse en la escuela durante toda la semana . 1292625_1298401
 %eng:	er, I was lucky because I went to school and stayed there during the whole week.
-*ALE:	y de alguna manera tenía que (.) [/] que hacerme entender por los demás chicos . 1298712_1303080
+*ALE:	y de alguna manera tenía que [/] (.) que hacerme entender por los demás chicos . 1298712_1303080
 %eng:	and one way or another I had to make myself understood among the rest of the children.
 *ALE:	pero los nenes querían escuchar que yo hablara en galés porque ellos no conocían la lengua . 1303046_1307590
 %eng:	but the kids wanted to hear me speak Welsh because they didn't know the language.
@@ -1126,7 +1125,7 @@ castellano . 1104195_1107854
 %eng:	he arrives in in the morning greeting in Welsh and everything.
 *LCT:	eh@s:cym&spa . 1347482_1348579
 %eng:	er...
-*ALE:	y (.) pide (.) [/] pide agua por favor todo en galés . 1350720_1356005
+*ALE:	y (.) pide [/] (.) pide agua por favor todo en galés . 1350720_1356005
 %eng:	and he asks for water, says please, and everything in Welsh.
 *ALE:	eh@s:cym&spa son palabritas por ahí cortadas . 1356626_1359399
 %eng:	er, it's only some loose words...
@@ -1197,7 +1196,7 @@ castellano . 1104195_1107854
 %eng:	yes.
 *LCT:	podría llover . 1431614_1433785
 %eng:	it could rain.
-*LCT:	en Córdoba@s:cym&spa eh@s:cym&spa están eh@s:cym&spa (.) [//] han cortado el agua por tantas horas por eh@s:cym&spa la sequía . 1433745_1442846
+*LCT:	en Córdoba@s:cym&spa eh@s:cym&spa están eh@s:cym&spa [//] (.) han cortado el agua por tantas horas por eh@s:cym&spa la sequía . 1433745_1442846
 %eng:	in Córdoba they have stopped the water for several hours because of the drought.
 *ALE:	+< es (.) terrible la sequía que hay en Córdoba@s:cym&spa y (.) en tantas otras partes . 1439852_1446392
 %eng:	the drought they have in Córdoba and in so many other places is terrible.
@@ -1232,7 +1231,7 @@ castellano . 1104195_1107854
 *ALE:	y ahí nos vamos a dar cuenta (.) que debíamos cuidar un poquito más . 1480256_1484976
 %eng:	and then we're going to notice that we should have protected it a bit more.
 *LCT:	+< xxx . 1482880_1483989
-*LCT:	porque la gente lava todo con (.) [/] con la canilla abierta . 1485062_1489905
+*LCT:	porque la gente lava todo con [/] (.) con la canilla abierta . 1485062_1489905
 %eng:	because people wash everything with the tap on.
 *LCT:	y todo ese agua se va se va se va se va . 1489900_1492647
 %eng:	and all this water goes and goes and goes.
@@ -1440,6 +1439,4 @@ castellano . 1104195_1107854
 %eng:	and...
 *ALE:	desde el primer momento los chicos eh@s:cym&spa se han dado con ella . 1705601_1710550
 %eng:	the children got on well with her from the first moment on.
-ld
-ld
 @End

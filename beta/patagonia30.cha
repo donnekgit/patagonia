@@ -3,8 +3,8 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	REB Rebeca Adult, MAG Magdalena Adult
-@ID:	cym, spa|Patagonia|REB|71;|female|||Adult||
-@ID:	cym, spa|Patagonia|MAG|74;|female|||Adult||
+@ID:	cym, spa|Patagonia|REB|71;|female|||Adult|||
+@ID:	cym, spa|Patagonia|MAG|74;|female|||Adult|||
 @Situation:	Conversation at Rebeca's home in western Chubut, Argentina
 @Date:	12-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -1617,7 +1617,7 @@
 %eng:	well, she wasn't in the...
 *MAG:	na na . 959940_960622
 %eng:	no.
-*REB:	+< yn (.) [/] yn y (ei)steddf(od) . 959988_961353
+*REB:	+< yn [/] (.) yn y (ei)steddf(od) . 959988_961353
 %eng:	at the Eisteddfod.
 *MAG:	+< dw i (ddi)m (we)di gweld hi ers blynyddoedd eh@s:cym&spa . 960617_962489
 %eng:	I haven't seen her for years, eh.
@@ -2880,7 +2880,7 @@
 %eng:	a big wall.
 *REB:	ac oedd o wedi cau . 1654663_1655900
 %eng:	and it was closed.
-*REB:	oedd yna ddim (.) [/] ddim patio@s:cym&spa . 1655900_1657664
+*REB:	oedd yna ddim [/] (.) ddim patio@s:cym&spa . 1655900_1657664
 %eng:	there wasn't a patio.
 *MAG:	oh@s:cym&spa yli ti . 1657674_1658852
 %eng:	oh right.

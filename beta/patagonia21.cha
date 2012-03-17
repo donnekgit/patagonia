@@ -3,8 +3,8 @@
 @Begin
 @Languages:	spa, cym
 @Participants:	LIN Linda Adult, ISA Isabel Adult
-@ID:	spa, cym|Patagonia|LIN|60;|female|||Adult||
-@ID:	spa, cym|Patagonia|ISA|60;|female|||Adult||
+@ID:	spa, cym|Patagonia|LIN|60;|female|||Adult|||
+@ID:	spa, cym|Patagonia|ISA|60;|female|||Adult|||
 @Situation:	Conversation between two cousins and colleagues in a chapel vestry in eastern Chubut, Argentina
 @Date:	09-NOV-2009
 @Transcriber:	Myfyr Prys and Fraibet Aveledo, Bangor University
@@ -625,7 +625,7 @@
 %eng:	yesterday I talked to Productores_Cenceros.
 *LIN:	con el frío que hace . 526579_527976
 %eng:	about how cold it is.
-*ISA:	y realmente ya hay alguno que ya (.) [/] ya viene empezando [?] con pérdida . 530779_536147
+*ISA:	y realmente ya hay alguno que ya [/] (.) ya viene empezando [?] con pérdida . 530779_536147
 %eng:	and in fact there is already someone who is already starting (to make) a loss.
 *ISA:	ha habido ocho heladas . 536142_537955
 %eng:	it has frozen eight times.
@@ -639,7 +639,7 @@
 %eng:	it is already frozen.
 *ISA:	no cuentan con ella . 543414_544816
 %eng:	they don't count on it.
-*ISA:	a pesar de haber prendido motores para (.)  [/] para el agua y todo eh@s:cym&spa . 545093_550944
+*ISA:	a pesar de haber prendido motores para [/] (.) para el agua y todo eh@s:cym&spa . 545093_550944
 %eng:	in spite of turning on the motors for the water and everything.
 *ISA:	hay gente que ya ha perdido . 551163_552619
 %eng:	there are people who have already made a loss.
@@ -720,7 +720,7 @@
 %eng:	one moment...
 *LIN:	sacan del canal ? 635851_636992
 %eng:	do they take it from the canal?
-*ISA:	sí sí pero <tiene que> [//] (.) tiene que recorer (.) tres filtros por lo menos antes de llegar al (.) [/] al motor . 637043_642994
+*ISA:	sí sí pero <tiene que> [//] (.) tiene que recorer (.) tres filtros por lo menos antes de llegar al [/] (.) al motor . 637043_642994
 %eng:	yes, yes, but it has to pass through at least three filters before it gets to the motor.
 *LIN:	+< ajá (.) claro . 638084_642291
 %eng:	ah, I see.
@@ -728,7 +728,7 @@
 %eng:	but the [...] get blocked.
 *ISA:	y con todo y eso se tapan porque las partículas son muy chiquiticas . 644333_647458
 %eng:	but they get blocked because the particles are very small.
-*ISA:	los canales vienen muy (.) [/] muy sucios . 649880_651112
+*ISA:	los canales vienen muy [/] (.) muy sucios . 649880_651112
 %eng:	the canal get very dirty.
 *LIN:	y xxx que ese sistema como dijo el señor acá . 650436_653167
 %eng:	and [...] that this system as the gentleman here said.
@@ -1846,7 +1846,7 @@
 %eng:	there weren't as many mosquitos.
 *ISA:	+< no no . 1643081_1644019
 %eng:	no.no.
-*LIN:	ahora no podés comer afuera casi porque +/... 1644094_1646339
+*LIN:	ahora no podés comer afuera casi porque +/. 1644094_1646339
 %eng:	now you almost can't eat outside because...
 *ISA:	+< mhm no . 1644094_1646339
 %eng:	mhm, no.
@@ -1954,9 +1954,9 @@
 %eng:	he went to Viña.
 *ISA:	y me mandó unas fotos . 1718659_1720259
 %eng:	and he sent me some photos.
-*ISA:	y la costa es muy parecida a la costa donde (.) [/] donde está la [/] la casa de Neruda@s:cym&spa la [/] la Negra@s:cym&spa . 1720415_1727605
+*ISA:	y la costa es muy parecida a la costa donde [/] (.) donde está la [/] la casa de Neruda@s:cym&spa la [/] la Negra@s:cym&spa . 1720415_1727605
 %eng:	and the coast is very similar to the coast where Neruda's house is, Isla Negra.
-*ISA:	es [/] es una costa muy (.) [/] muy cor(ta) [//] <muy abrup(ta)> [/] no abrupta sino no es estas costas que nosotros estamos acostumbrados allá medio rocosas . 1727669_1737526
+*ISA:	es [/] es una costa muy [/] (.) muy cor(ta) [//] <muy abrup(ta)> [/] no abrupta sino no es estas costas que nosotros estamos acostumbrados allá medio rocosas . 1727669_1737526
 %eng:	it's a very rugged coast, no, not rugged, but it's not like the coasts that we are used to over there, half rocky.
 *LIN:	&=caugh . 1735526_1736454
 *ISA:	son negras las no sé por qué las +//. 1738458_1740810

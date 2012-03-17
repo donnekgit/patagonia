@@ -3,9 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ESF Estefania Adult, INE Inez Adult, OSE unidentified Adult
-@ID:	cym, spa|Patagonia|ESF|30;|female|||Adult||
-@ID:	cym, spa|Patagonia|INE|37;|female|||Adult||
-@ID:	cym, spa|Patagonia|OSE|?;|male|||Adult||
+@ID:	cym, spa|Patagonia|ESF|30;|female|||Adult|||
+@ID:	cym, spa|Patagonia|INE|37;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE||male|||Adult|||
 @Situation:	Conversation between friends at Estefania's house in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Myfyr Prys and Fraibet Aveledo, Bangor University
@@ -1126,7 +1126,7 @@
 *INE:	xxx . 1164882_1165544
 *ESF:	[- spa] bueno . 1165618_1165938
 %eng:	fine
-*ESF:	[- spa] y (.) [/] y que eso era más cómodo que la faja +/. 1166375_1169724
+*ESF:	[- spa] y [/] (.) y que eso era más cómodo que la faja +/. 1166375_1169724
 %eng:	and that this was more comfortable than the girdle...
 *INE:	+< [- spa] para después del embarazo . 1169223_1170183
 %eng:	after the pregnancy

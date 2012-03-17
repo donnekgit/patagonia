@@ -3,8 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	EDU Eduardo Adult, MLA Mariela Child, OSE Unknown Adult
-@ID:	cym, spa|Patagonia|EDU|38;|male|||Adult||
-@ID:	cym, spa|Patagonia|MLA|08;|female|||Child||
+@ID:	cym, spa|Patagonia|EDU|38;|male|||Adult|||
+@ID:	cym, spa|Patagonia|MLA|08;|female|||Child|||
+@ID:	cym, spa|Patagonia|OSE|||||Adult|||
 @Situation:	Conversation between Eduardo and his daughter Mariela, in their house in eastern Chubut, Argentina
 @Date:	07-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University
@@ -1168,7 +1169,7 @@
 *MLA:	ia . 1233940_1234404
 %eng:	yes
 *EDU:	mm +... 1234922_1235526
-*MLA:	athrawon (.) [/] athrawon . 1235480_1237767
+*MLA:	athrawon [/] (.) athrawon . 1235480_1237767
 %eng:	teachers
 *EDU:	+< athrawon . 1236609_1237225
 %eng:	teachers

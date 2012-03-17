@@ -3,11 +3,11 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ROC Rocio Adult, JUA Juanita Adult
-@ID:	cym, spa|Patagonia|ROC|63;|female|||Adult||
-@ID:	cym, spa|Patagonia|JUA|74;|female|||Adult||
+@ID:	cym, spa|Patagonia|ROC|63;|female|||Adult|||
+@ID:	cym, spa|Patagonia|JUA|74;|female|||Adult|||
 @Situation:	Conversation between friends at Rocio's apartment in eastern Chubut, Argentina
 @Date:	04-NOV-2009
-@Coder:	Myfyr Prys and Diana Carter, Bangor University
+@Transcriber:	Myfyr Prys and Diana Carter, Bangor University
 @Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:31:28
 @Media:	Patagonia14, audio
@@ -19,7 +19,7 @@
 *ROC:	+< wel [/] wel oedden ni (y)n +/. 19376_19794
 %eng:	well, well we were...
 *JUA:	+< oedden nhw (y)n growd . 21025_21861
-%eng:	they were a croud
+%eng:	they were a crowd
 *ROC:	oedden [/] oedden . 22116_23254
 %eng:	they were, they were.
 *JUA:	+< wel oedd [/] (.) oedd yna [//] oedd mister Peredur@s:cym&spa i weld <yn y> [/] yn y ffilm oedden nhw yn dangos yn Trelew wythnos diwethaf . 22929_28908
@@ -113,7 +113,7 @@
 *ROC:	dydy hi ddim yn wneud tarten hufen . 121402_122528
 %eng:	she doesn't make cream tarts
 *JUA:	+< mm +... 122574_122841
-*ROC:	mae hi ddim hoffi tarten hufen na(g)_(y)dy . 123236_125918
+*ROC:	mae hi ddim hoffi tarten hufen na(g) (y)dy . 123236_125918
 %eng:	she doesn't like cream tarts, does she.
 *JUA:	+< mm +... 125686_126069
 %eng:	mm.

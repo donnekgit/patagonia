@@ -1,0 +1,4828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="Patagonia1" Mediatypes="audio"
+      Font="Win95:Arial Unicode MS:-21:0"
+      Version="1.9.8"
+      Lang="cym spa eng"
+      Corpus="Patagonia"
+      Id="patagonia1"
+      Date="2009-10-25">
+  <Participants>
+    <participant
+      id="MBL"
+    name="Mabel"
+      role="Adult"
+      language="cym spa"
+      age="P21Y"
+
+      sex="female"
+
+    />
+    <participant
+      id="DIA"
+    name="Diana"
+      role="Adult"
+      language="cym spa"
+      age="P22Y"
+
+      sex="female"
+
+    />
+    <participant
+      id="CRS"
+    name="Carlos"
+      role="Adult"
+      language="cym spa"
+      age="P28Y"
+
+      sex="male"
+
+    />
+    <participant
+      id="OSE"
+    name="non_participant"
+      role="Adult"
+      language="cym spa"
+
+    />
+  </Participants>
+  <comment type="Situation">Conversation at a meeting centre in Buenos Aires, Argentina</comment>
+  <comment type="Date">25-OCT-2009</comment>
+  <comment type="Transcriber">Myfyr Prys and Lowri Jones, Bangor University</comment>
+  <comment type="Generic">Researcher: Peredur Davies, Bangor University</comment>
+  <comment type="Time Duration">00:10:02</comment>
+  <comment type="Generic">Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&amp;spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.</comment>
+  <u who="MBL" uID="u0">
+    <w>ond</w>
+    <w>rwyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>byw</w>
+    <w>ar</w>
+    <w>bwys</w>
+    <w><shortening>y</shortening>r</w>
+    <w>coleg</w>
+    <w>ia</w>
+    <t type="q"></t>
+    <media
+      start="0.917"
+      end="3.576"
+      unit="s"
+    />
+    <a type="english translation">but you live next to the college right?</a>
+  </u>
+  <u who="MBL" uID="u1">
+    <w>y</w>
+    <g><w>brif</w><k type="retracing with correction"/></g>
+    <w>brifysgol</w>
+    <t type="q"></t>
+    <media
+      start="3.443"
+      end="4.476"
+      unit="s"
+    />
+    <a type="english translation">the university?</a>
+  </u>
+  <u who="DIA" uID="u2">
+    <w>ia</w>
+    <pause symbolic-length="simple"/>
+    <w>tua</w>
+    <pause symbolic-length="simple"/>
+    <w>bedwar</w>
+    <w>bloc</w>
+    <t type="p"></t>
+    <media
+      start="3.704"
+      end="6.641"
+      unit="s"
+    />
+    <a type="english translation">yeah, [...] four blocks</a>
+  </u>
+  <u who="MBL" uID="u3">
+    <w>be</w>
+    <w>bedwar</w>
+    <w>bloc</w>
+    <t type="q"></t>
+    <media
+      start="6.972"
+      end="8.116"
+      unit="s"
+    />
+    <a type="english translation">what, four blocks?</a>
+  </u>
+  <u who="DIA" uID="u4">
+    <w><langs><single>spa</single></langs>sí</w>
+    <t type="p"></t>
+    <media
+      start="7.980"
+      end="9.024"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="MBL" uID="u5">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="9.100"
+      end="9.297"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u6">
+    <w>dw</w>
+    <w>i</w>
+    <w>gallu</w>
+    <w>mynd</w>
+    <pause symbolic-length="simple"/>
+    <w>uh</w>
+    <t type="trail off"></t>
+    <media
+      start="9.766"
+      end="12.367"
+      unit="s"
+    />
+    <a type="english translation">I can go, uh...</a>
+  </u>
+  <u who="CRS" uID="u7">
+    <linker type="other completion"/>
+    <w>cerdded</w>
+    <t type="p"></t>
+    <media
+      start="12.297"
+      end="12.779"
+      unit="s"
+    />
+    <a type="english translation">...you can walk</a>
+  </u>
+  <u who="DIA" uID="u8">
+    <w>cerdded</w>
+    <g><w>i</w>
+    <w><shortening>y</shortening>r</w><k type="best guess"/></g>
+    <w>brifysgol</w>
+    <t type="p"></t>
+    <media
+      start="13.325"
+      end="15.589"
+      unit="s"
+    />
+    <a type="english translation">walk to the university</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u9">
+    <e><happening>laugh</happening></e>
+    <w>es</w>
+    <w>muy</w>
+    <w>gracioso</w>
+    <t type="p"></t>
+    <media
+      start="15.646"
+      end="17.568"
+      unit="s"
+    />
+    <a type="english translation">it's very funny</a>
+  </u>
+  <u who="DIA" uID="u10">
+    <w><langs><single>spa</single></langs>sí</w>
+    <t type="p"></t>
+    <media
+      start="18.142"
+      end="18.566"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="MBL" uID="u11">
+    <w><langs><single>eng</single></langs>so</w>
+    <w><langs><single>eng</single></langs>funny</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>ni</w>
+    <t type="p"></t>
+    <media
+      start="18.836"
+      end="20.804"
+      unit="s"
+    />
+    <a type="english translation">it's so funny when we speak Welsh</a>
+    <a type="comments">perhaps could also be translated as 'our Welsh is so funny'</a>
+  </u>
+  <u who="CRS" uID="u12">
+    <linker type="lazy overlap mark"/>
+    <w><langs><single>spa</single></langs>qué</w>
+    <t type="q"></t>
+    <media
+      start="19.103"
+      end="19.324"
+      unit="s"
+    />
+    <a type="english translation">what?</a>
+  </u>
+  <u who="CRS" uID="u13">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="21.140"
+      end="21.604"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u14">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="21.790"
+      end="22.341"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u15">
+    <w>uh</w>
+    <t type="trail off"></t>
+    <media
+      start="24.047"
+      end="24.442"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u16">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>anodd</w>
+    <w>i</w>
+    <w>fi</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>efo</w>
+    <w>ffrindiau</w>
+    <w>o</w>
+    <w>fan</w>
+    <w><shortening>h</shortening>yn</w>
+    <pause symbolic-length="simple"/>
+    <w>achos</w>
+    <w>gyntaf</w>
+    <w>iaith</w>
+    <pause symbolic-length="simple"/>
+    <w>ni</w>
+    <w>yw</w>
+    <w>Sbaeneg</w>
+    <t type="p"></t>
+    <media
+      start="24.535"
+      end="31.605"
+      unit="s"
+    />
+    <a type="english translation">it's difficult for me to speak Welsh with friends from here, because our first language is Spanish</a>
+  </u>
+  <u who="CRS" uID="u17">
+    <linker type="lazy overlap mark"/>
+    <w>Sbaeneg</w>
+    <t type="p"></t>
+    <media
+      start="31.478"
+      end="32.012"
+      unit="s"
+    />
+    <a type="english translation">Spanish</a>
+  </u>
+  <u who="MBL" uID="u18">
+    <w>felly</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>anodd</w>
+    <w>i</w>
+    <w>ni</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <pause symbolic-length="simple"/>
+    <w>efo</w>
+    <w>ni</w>
+    <t type="p"></t>
+    <media
+      start="32.221"
+      end="36.000"
+      unit="s"
+    />
+    <a type="english translation">so it's difficult for us to speak Welsh amongst ourselves</a>
+  </u>
+  <u who="CRS" uID="u19">
+    <linker type="lazy overlap mark"/>
+    <w>tri</w>
+    <w>ohonych</w>
+    <w>chi</w>
+    <t type="p"></t>
+    <media
+      start="34.346"
+      end="35.298"
+      unit="s"
+    />
+    <a type="english translation">the three of you</a>
+  </u>
+  <u who="DIA" uID="u20">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="36.331"
+      end="36.941"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u21">
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gallu</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>efo</w>
+    <w>pobl</w>
+    <w>o</w>
+    <w>Cymru</w>
+    <w>yn</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="37.241"
+      end="39.778"
+      unit="s"
+    />
+    <a type="english translation">I can speak Welsh with people from Wales</a>
+  </u>
+  <u who="MBL" uID="u22">
+    <w>ond</w>
+    <w>efo</w>
+    <w>ni</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w><langs><single>eng</single></langs>strange</w>
+    <w><langs><single>spa</single></langs>no</w>
+    <t type="q"></t>
+    <media
+      start="40.207"
+      end="43.307"
+      unit="s"
+    />
+    <a type="english translation">but with us it's strange isn't it?</a>
+    <a type="comments">needs syllabic n on 'yn'</a>
+  </u>
+  <u who="MBL" uID="u23">
+    <w>siarad</w>
+    <w>yn</w>
+    <w>Gymraeg</w>
+    <t type="p"></t>
+    <media
+      start="44.428"
+      end="45.728"
+      unit="s"
+    />
+    <a type="english translation">speaking in Welsh</a>
+  </u>
+  <u who="MBL" uID="u24">
+    <w>ond</w>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ni</w>
+    <w>ymarfer</w>
+    <t type="p"></t>
+    <media
+      start="47.005"
+      end="48.271"
+      unit="s"
+    />
+    <a type="english translation">but we need to practice</a>
+  </u>
+  <u who="CRS" uID="u25">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="48.578"
+      end="49.165"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="MBL" uID="u26">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="49.835"
+      end="50.270"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u27">
+    <linker type="lazy overlap mark"/>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="50.015"
+      end="51.054"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u28">
+    <w>mae</w>
+    <w>nain</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>pob</w>
+    <w>amser</w>
+    <w>yn</w>
+    <w>Gymraeg</w>
+    <w>i</w>
+    <w>fi</w>
+    <t type="p"></t>
+    <media
+      start="51.930"
+      end="54.229"
+      unit="s"
+    />
+    <a type="english translation">grandma always speaks Welsh to me</a>
+  </u>
+  <u who="MBL" uID="u29">
+    <w>fi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gallu</w>
+    <g><w>clywed</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w><k type="best guess"/></g>
+    <t type="interruption"></t>
+    <media
+      start="54.453"
+      end="55.474"
+      unit="s"
+    />
+    <a type="english translation">I can hear it ...</a>
+  </u>
+  <u who="CRS" uID="u30">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w>cyfle</w>
+    <pause symbolic-length="simple"/>
+    <w>da</w>
+    <w>i</w>
+    <t type="interruption"></t>
+    <media
+      start="54.990"
+      end="56.830"
+      unit="s"
+    />
+    <a type="english translation">the opportunity...</a>
+  </u>
+  <u who="MBL" uID="u31">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>anodd</w>
+    <w>i</w>
+    <w>siarad</w>
+    <pause symbolic-length="simple"/>
+    <w>achos</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gwneud</w>
+    <e><happening>imit_stammer</happening></e>
+    <w type="fragment">sh</w>
+    <t type="p"></t>
+    <media
+      start="56.037"
+      end="59.252"
+      unit="s"
+    />
+    <a type="english translation">it's difficult to speak (Welsh) because (I stammer)</a>
+  </u>
+  <u who="DIA" uID="u32">
+    <linker type="lazy overlap mark"/>
+    <w>ia</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="59.282"
+      end="60.095"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u33">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="59.282"
+      end="60.095"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u34">
+    <w><langs><single>spa</single></langs>me</w>
+    <w><langs><single>spa</single></langs>trabo</w>
+    <t type="p"></t>
+    <media
+      start="60.315"
+      end="60.971"
+      unit="s"
+    />
+    <a type="english translation">I get stuck</a>
+  </u>
+  <u who="MBL" uID="u35">
+    <w>ond</w>
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gallu</w>
+    <w>siarad</w>
+    <w>yn</w>
+    <pause symbolic-length="simple"/>
+    <w>iawn</w>
+    <t type="q"></t>
+    <media
+      start="62.138"
+      end="64.925"
+      unit="s"
+    />
+    <a type="english translation">but can you speak it fluently?</a>
+  </u>
+  <u who="DIA" uID="u36">
+    <linker type="lazy overlap mark"/>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ni</w>
+    <w type="fragment">y</w>
+    <w>ymarfer</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="62.469"
+      end="65.081"
+      unit="s"
+    />
+    <a type="english translation">we need to practice xxx</a>
+  </u>
+  <u who="CRS" uID="u37">
+    <w>na</w>
+    <g><w>dim</w><k type="retracing"/></g>
+    <w>dim</w>
+    <w>llawer</w>
+    <t type="p"></t>
+    <media
+      start="63.897"
+      end="65.436"
+      unit="s"
+    />
+    <a type="english translation">no, not much</a>
+  </u>
+  <u who="MBL" uID="u38">
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>mm</w>
+    <w>efo</w>
+    <w>dy</w>
+    <w>chwaer</w>
+    <w>di</w>
+    <w>na</w>
+    <t type="q"></t>
+    <media
+      start="66.244"
+      end="68.670"
+      unit="s"
+    />
+    <a type="english translation">do you speak Welsh with your sister?</a>
+  </u>
+  <u who="CRS" uID="u39">
+    <w>na</w>
+    <w>yn</w>
+    <w>Sbanish</w>
+    <t type="p"></t>
+    <media
+      start="69.175"
+      end="70.139"
+      unit="s"
+    />
+    <a type="english translation">no, Spanish</a>
+  </u>
+  <u who="MBL" uID="u40">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <t type="p"></t>
+    <media
+      start="70.218"
+      end="70.781"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u41">
+    <w>a</w>
+    <w>mae</w>
+    <w>o</w>
+    <w>i</w>
+    <w>xx</w>
+    <t type="trail off"></t>
+    <media
+      start="72.209"
+      end="74.229"
+      unit="s"
+    />
+    <a type="english translation">and it's for...</a>
+  </u>
+  <u who="CRS" uID="u42">
+    <w>weithiau</w>
+    <w>pan</w>
+    <w>mae</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <pause symbolic-length="simple"/>
+    <w>fy</w>
+    <w>mrawd</w>
+    <w>yng</w>
+    <w>nghyfraith</w>
+    <w>yn</w>
+    <w>dod</w>
+    <w>yma</w>
+    <t type="p"></t>
+    <media
+      start="73.592"
+      end="77.563"
+      unit="s"
+    />
+    <a type="english translation">sometimes when my brother in law comes here</a>
+  </u>
+  <u who="MBL" uID="u43">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="77.818"
+      end="78.434"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u44">
+    <linker type="lazy overlap mark"/>
+    <w>wedyn</w>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>mi</w>
+    <w>siarad</w>
+    <w>yn</w>
+    <w>Gymraeg</w>
+    <w>achos</w>
+    <g><w>mae</w><k type="retracing"/></g>
+    <w>mae</w>
+    <w>e</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dod</w>
+    <g><w>o</w><k type="retracing"/></g>
+    <w>o</w>
+    <w>Gymru</w>
+    <w>felly</w>
+    <t type="p"></t>
+    <media
+      start="78.357"
+      end="82.432"
+      unit="s"
+    />
+    <a type="english translation">then I have to speak Welsh, because he's from Wales</a>
+  </u>
+  <u who="MBL" uID="u45">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="82.594"
+      end="82.966"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u46">
+    <w>dydy</w>
+    <w>o</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>llawer</w>
+    <w>o</w>
+    <w>Sbaeneg</w>
+    <t type="p"></t>
+    <media
+      start="83.012"
+      end="84.707"
+      unit="s"
+    />
+    <a type="english translation">he doesn't speak much Spanish</a>
+  </u>
+  <u who="MBL" uID="u47">
+    <linker type="lazy overlap mark"/>
+    <w>dim</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>Sbaeneg</w>
+    <t type="q"></t>
+    <media
+      start="84.185"
+      end="85.218"
+      unit="s"
+    />
+    <a type="english translation">he doesn't speak Spanish?</a>
+  </u>
+  <u who="CRS" uID="u48">
+    <w>na</w>
+    <g><w>mae</w>
+    <w>yn</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <w>mae</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <pause symbolic-length="simple"/>
+    <g><w>Sbaeneg</w><k type="retracing"/></g>
+    <w>Sbaeneg</w>
+    <t type="p"></t>
+    <media
+      start="85.252"
+      end="88.578"
+      unit="s"
+    />
+    <a type="english translation">no, he does speak Spanish</a>
+  </u>
+  <u who="CRS" uID="u49">
+    <w>ond</w>
+    <pause symbolic-length="simple"/>
+    <w>mae</w>
+    <w>yn</w>
+    <w>hoffi</w>
+    <w>siarad</w>
+    <w>mwy</w>
+    <g><w>yn</w><k type="retracing"/></g>
+    <w>yn</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="88.424"
+      end="92.720"
+      unit="s"
+    />
+    <a type="english translation">but he prefers to speak mostly in Welsh</a>
+  </u>
+  <u who="CRS" uID="u50">
+    <w>felly</w>
+    <t type="trail off"></t>
+    <media
+      start="92.706"
+      end="93.072"
+      unit="s"
+    />
+    <a type="english translation">so...</a>
+  </u>
+  <u who="MBL" uID="u51">
+    <linker type="lazy overlap mark"/>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="92.810"
+      end="93.101"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u52">
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Wendy</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>efo</w>
+    <w>gŵr</w>
+    <w>uh</w>
+    <w>yn</w>
+    <w>Gymraeg</w>
+    <w>neu</w>
+    <w>yn</w>
+    <w>Sbaeneg</w>
+    <w>neu</w>
+    <w>yn</w>
+    <w>Saesneg</w>
+    <t type="q"></t>
+    <media
+      start="93.513"
+      end="98.389"
+      unit="s"
+    />
+    <a type="english translation">and Wendy speaks to her husband in Welsh, Spanish or English</a>
+  </u>
+  <u who="CRS" uID="u53">
+    <linker type="lazy overlap mark"/>
+    <g><w>mae</w>
+    <w>mae</w><k type="retracing"/></g>
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cymysgu</w>
+    <t type="p"></t>
+    <media
+      start="97.330"
+      end="99.095"
+      unit="s"
+    />
+    <a type="english translation">they mix</a>
+  </u>
+  <u who="MBL" uID="u54">
+    <linker type="other completion"/>
+    <w>cymysgu</w>
+    <w>popeth</w>
+    <t type="p"></t>
+    <media
+      start="99.153"
+      end="99.972"
+      unit="s"
+    />
+    <a type="english translation">mix everything</a>
+  </u>
+  <u who="CRS" uID="u55">
+    <w>ia</w>
+    <w>y</w>
+    <w>dwy</w>
+    <t type="p"></t>
+    <media
+      start="99.252"
+      end="100.041"
+      unit="s"
+    />
+    <a type="english translation">yeah, both of them</a>
+  </u>
+  <u who="MBL" uID="u56">
+    <w>i'w</w>
+    <w><langs><single>spa</single></langs>los</w>
+    <w><langs><single>spa</single></langs>hijos</w>
+    <t type="q"></t>
+    <media
+      start="100.087"
+      end="103.198"
+      unit="s"
+    />
+    <a type="english translation">to the children?</a>
+  </u>
+  <u who="CRS" uID="u57">
+    <linker type="lazy overlap mark"/>
+    <w>y</w>
+    <w>dwy</w>
+    <w>iaith</w>
+    <t type="p"></t>
+    <media
+      start="100.383"
+      end="100.922"
+      unit="s"
+    />
+    <a type="english translation">both languages</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u58">
+    <w>los</w>
+    <w>hi<shortening>jos</shortening></w>
+    <t type="self interruption"></t>
+    <media
+      start="104.013"
+      end="104.692"
+      unit="s"
+    />
+    <a type="english translation">the children...</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u59">
+    <g><w>la</w><k type="retracing"/></g>
+    <w>la</w>
+    <w>nena</w>
+    <w>y</w>
+    <w>nene</w>
+    <t type="q"></t>
+    <media
+      start="104.733"
+      end="106.323"
+      unit="s"
+    />
+    <a type="english translation">the little ones</a>
+  </u>
+  <u who="CRS" uID="u60">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Cledwyn</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>yn</w>
+    <pause symbolic-length="simple"/>
+    <w>Cymraeg</w>
+    <w>a</w>
+    <w>Sbaeneg</w>
+    <w>a</w>
+    <w>Saesneg</w>
+    <t type="p"></t>
+    <media
+      start="105.534"
+      end="109.093"
+      unit="s"
+    />
+    <a type="english translation">Cledwyn speaks in Welsh, Spanish and English</a>
+  </u>
+  <u who="MBL" uID="u61">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <t type="p"></t>
+    <media
+      start="109.122"
+      end="109.383"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u62">
+    <w>a</w>
+    <g><w><langs><ambiguous>cym spa</ambiguous></langs>Mared</w><k type="retracing with correction"/></g>
+    <w>dydy</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Mared</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>eto</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="109.621"
+      end="112.256"
+      unit="s"
+    />
+    <a type="english translation">and Mared, Mared doesn't speak yet</a>
+  </u>
+  <u who="MBL" uID="u63">
+    <w>na</w>
+    <t type="p"></t>
+    <media
+      start="112.080"
+      end="112.254"
+      unit="s"
+    />
+    <a type="english translation">no</a>
+  </u>
+  <u who="MBL" uID="u64">
+    <w>a</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>Sbaeneg</w>
+    <w>efo</w>
+    <g><w>dy</w><k type="retracing with correction"/></g>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Wendy</w>
+    <t type="p"></t>
+    <media
+      start="112.567"
+      end="114.889"
+      unit="s"
+    />
+    <a type="english translation">and he speaks Spanish with Wendy</a>
+  </u>
+  <u who="CRS" uID="u65">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="115.446"
+      end="115.730"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="MBL" uID="u66">
+    <w>ia</w>
+    <t type="q"></t>
+    <media
+      start="115.806"
+      end="116.084"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="CRS" uID="u67">
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>efo</w>
+    <g><w><langs><ambiguous>cym spa</ambiguous></langs>Wendy</w><k type="best guess"/></g>
+    <w>yn</w>
+    <w>Sbaeneg</w>
+    <pause symbolic-length="simple"/>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Tegai</w>
+    <t type="p"></t>
+    <media
+      start="117.093"
+      end="120.437"
+      unit="s"
+    />
+    <a type="english translation">they speak Spanish with Tegai</a>
+  </u>
+  <u who="MBL" uID="u68">
+    <linker type="lazy overlap mark"/>
+    <w>pan</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>yr</w>
+    <w>ysgol</w>
+    <w>Cymraeg</w>
+    <w>neu</w>
+    <w>Saesneg</w>
+    <t type="p"></t>
+    <media
+      start="118.161"
+      end="121.157"
+      unit="s"
+    />
+    <a type="english translation">does he go to an Welsh school or an English school</a>
+  </u>
+  <u who="DIA" uID="u69">
+    <w>ysgol</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="121.288"
+      end="122.014"
+      unit="s"
+    />
+    <a type="english translation">a Welsh school</a>
+  </u>
+  <u who="CRS" uID="u70">
+    <linker type="lazy overlap mark"/>
+    <w>maen</w>
+    <w>nhw</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>ysgol</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="121.741"
+      end="123.117"
+      unit="s"
+    />
+    <a type="english translation">they go to a Welsh school</a>
+  </u>
+  <u who="MBL" uID="u71">
+    <w>buest</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <g><w><langs><single>eng</single></langs>medium</w>
+    <w><langs><single>eng</single></langs>Welsh</w><k type="best guess"/></g>
+    <t type="q"></t>
+    <media
+      start="124.084"
+      end="125.918"
+      unit="s"
+    />
+    <a type="english translation">did you go to a Welsh medium...</a>
+  </u>
+  <u who="MBL" uID="u72">
+    <w>buest</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Camwy</w>
+    <t type="q"></t>
+    <media
+      start="126.621"
+      end="127.666"
+      unit="s"
+    />
+    <a type="english translation">did you go to Camwy...</a>
+  </u>
+  <u who="CRS" uID="u73">
+    <w>buest</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Camwy</w>
+    <t type="q"></t>
+    <media
+      start="127.677"
+      end="128.467"
+      unit="s"
+    />
+    <a type="english translation">did you go to Camwy...</a>
+  </u>
+  <u who="MBL" uID="u74">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="128.695"
+      end="130.233"
+      unit="s"
+    />
+    <a type="comments">unilingual Spanish, but almost inaudible</a>
+  </u>
+  <u who="CRS" uID="u75">
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Wendy</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Camwy</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="130.241"
+      end="131.785"
+      unit="s"
+    />
+    <a type="english translation">and Wendy Camwy too</a>
+  </u>
+  <u who="MBL" uID="u76">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Wendy</w>
+    <t type="trail off"></t>
+    <media
+      start="132.035"
+      end="132.778"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u77">
+    <linker type="other completion"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Camwy</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="132.813"
+      end="133.625"
+      unit="s"
+    />
+    <a type="english translation">Camwy too</a>
+  </u>
+  <u who="MBL" uID="u78">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Camwy</w>
+    <e><happening>gasp</happening></e>
+    <t type="p"></t>
+    <media
+      start="133.728"
+      end="135.336"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u79">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Wendy</w>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Camwy</w>
+    <t type="p"></t>
+    <media
+      start="135.516"
+      end="136.886"
+      unit="s"
+    />
+    <a type="english translation">Wendy in Camwy</a>
+  </u>
+  <u who="MBL" uID="u80">
+    <w>fel</w>
+    <w>enw</w>
+    <w>ar</w>
+    <w>coleg</w>
+    <w>ni</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="137.184"
+      end="139.279"
+      unit="s"
+    />
+    <a type="english translation">like the name of our college</a>
+  </u>
+  <u who="CRS" uID="u81">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="139.268"
+      end="139.581"
+      unit="s"
+    />
+    <a type="english translation">yeah</a>
+  </u>
+  <u who="MBL" uID="u82">
+    <w>prifysgol</w>
+    <t type="p"></t>
+    <media
+      start="140.314"
+      end="141.208"
+      unit="s"
+    />
+    <a type="english translation">university</a>
+  </u>
+  <u who="MBL" uID="u83">
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="142.287"
+      end="143.065"
+      unit="s"
+    />
+    <a type="english translation">okay</a>
+  </u>
+  <u who="MBL" uID="u84">
+    <w>wel</w>
+    <pause symbolic-length="long"/>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ni</w>
+    <w>mynd</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="145.167"
+      end="148.824"
+      unit="s"
+    />
+    <a type="english translation">well, we have to go</a>
+  </u>
+  <u who="CRS" uID="u85">
+    <linker type="lazy overlap mark"/>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="148.174"
+      end="148.859"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u86">
+    <linker type="lazy overlap mark"/>
+    <g><w>ia</w><ga type="paralinguistics">laugh</ga></g>
+    <t type="p"></t>
+    <media
+      start="148.602"
+      end="149.310"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u87">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="149.528"
+      end="150.799"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u88">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w>gen</w>
+    <w>i</w>
+    <w>llawer</w>
+    <w>i</w>
+    <w>bethau</w>
+    <w>i</w>
+    <pause symbolic-length="long"/>
+    <w>ddarllen</w>
+    <w>i</w>
+    <w><shortening>y</shortening>fory</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="150.050"
+      end="156.308"
+      unit="s"
+    />
+    <a type="english translation">I've got a lot of things to read for tommorow</a>
+  </u>
+  <u who="DIA" uID="u89">
+    <linker type="lazy overlap mark"/>
+    <w>i</w>
+    <w>astudio</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="152.955"
+      end="154.674"
+      unit="s"
+    />
+    <a type="english translation">to study</a>
+  </u>
+  <u who="MBL" uID="u90">
+    <w>yfory</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <w>coleg</w>
+    <w>yn</w>
+    <w>gynnar</w>
+    <t type="p"></t>
+    <media
+      start="157.767"
+      end="160.298"
+      unit="s"
+    />
+    <a type="english translation">tommorow I'm going to college early</a>
+  </u>
+  <u who="CRS" uID="u91">
+    <w>yn</w>
+    <w>gynnar</w>
+    <t type="q"></t>
+    <media
+      start="160.472"
+      end="161.419"
+      unit="s"
+    />
+    <a type="english translation">early?</a>
+  </u>
+  <u who="MBL" uID="u92">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="161.726"
+      end="162.249"
+      unit="s"
+    />
+    <a type="english translation">yeah</a>
+  </u>
+  <u who="DIA" uID="u93">
+    <w>faint</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <w>gloch</w>
+    <t type="q"></t>
+    <media
+      start="162.393"
+      end="164.001"
+      unit="s"
+    />
+    <a type="english translation">what time?</a>
+  </u>
+  <u who="MBL" uID="u94">
+    <w><langs><single>cym</single></langs>um</w>
+    <pause symbolic-length="simple"/>
+    <w>deg</w>
+    <t type="p"></t>
+    <media
+      start="164.374"
+      end="165.848"
+      unit="s"
+    />
+    <a type="english translation">um, ten</a>
+  </u>
+  <u who="MBL" uID="u95">
+    <w>ddim</w>
+    <w>yn</w>
+    <w>gynnar</w>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="166.168"
+      end="167.160"
+      unit="s"
+    />
+    <a type="english translation">not very early</a>
+  </u>
+  <u who="DIA" uID="u96">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="166.609"
+      end="167.050"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u97">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="166.928"
+      end="167.642"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u98">
+    <w>ond</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gynnar</w>
+    <t type="p"></t>
+    <media
+      start="167.300"
+      end="168.356"
+      unit="s"
+    />
+    <a type="english translation">but it is early</a>
+  </u>
+  <u who="CRS" uID="u99">
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ti</w>
+    <w>godi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gynt</w>
+    <t type="p"></t>
+    <media
+      start="168.304"
+      end="169.227"
+      unit="s"
+    />
+    <a type="english translation">you have to get up earlier</a>
+  </u>
+  <u who="DIA" uID="u100">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="169.439"
+      end="169.822"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="CRS" uID="u101">
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gwybod</w>
+    <w>bod</w>
+    <w>mae</w>
+    <w>pen_blwydd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Karl</w>
+    <g><w>yn</w><k type="retracing with correction"/></g>
+    <w>ar</w>
+    <w>y</w>
+    <w>trydydd</w>
+    <g><w>o</w><k type="retracing"/></g>
+    <w>o</w>
+    <w>mis</w>
+    <w>Tachwedd</w>
+    <t type="p"></t>
+    <media
+      start="170.365"
+      end="175.044"
+      unit="s"
+    />
+    <a type="english translation">you know that Karl's birthday is on the third of November?</a>
+  </u>
+  <u who="MBL" uID="u102">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="173.976"
+      end="174.928"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u103">
+    <linker type="lazy overlap mark"/>
+    <w>os</w>
+    <w>ti</w>
+    <w>isio</w>
+    <t type="trail off"></t>
+    <media
+      start="174.893"
+      end="175.520"
+      unit="s"
+    />
+    <a type="english translation">if you want...</a>
+  </u>
+  <u who="MBL" uID="u104">
+    <w>pen_blwydd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Karl</w>
+    <t type="p"></t>
+    <media
+      start="175.781"
+      end="176.692"
+      unit="s"
+    />
+    <a type="english translation">Karl's birthday</a>
+  </u>
+  <u who="MBL" uID="u105">
+    <g><w>pryd</w><k type="retracing reformulation"/></g>
+    <w>er</w>
+    <w>pa</w>
+    <w>dydd</w>
+    <w>yw</w>
+    <w>tri</w>
+    <w>o</w>
+    <pause symbolic-length="simple"/>
+    <w>Tachwedd</w>
+    <t type="q"></t>
+    <media
+      start="177.074"
+      end="181.120"
+      unit="s"
+    />
+    <a type="english translation">when, what day is the third of November?</a>
+  </u>
+  <u who="CRS" uID="u106">
+    <w>er</w>
+    <w>dydd</w>
+    <w>xx</w>
+    <t type="p"></t>
+    <media
+      start="180.364"
+      end="181.166"
+      unit="s"
+    />
+    <a type="english translation">er, [...] day</a>
+  </u>
+  <u who="MBL" uID="u107">
+    <w>Tachwedd</w>
+    <w>ie</w>
+    <t type="q"></t>
+    <media
+      start="181.328"
+      end="181.932"
+      unit="s"
+    />
+    <a type="english translation">November right?</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u108">
+    <w>noviembre</w>
+    <t type="q"></t>
+    <media
+      start="181.961"
+      end="182.454"
+      unit="s"
+    />
+    <a type="english translation">November?</a>
+  </u>
+  <u who="MBL" uID="u109">
+    <w><langs><single>eng</single></langs>November</w>
+    <t type="q"></t>
+    <media
+      start="182.582"
+      end="182.948"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u110">
+    <w>Tachwedd</w>
+    <t type="q"></t>
+    <media
+      start="183.017"
+      end="183.342"
+      unit="s"
+    />
+    <a type="english translation">November</a>
+  </u>
+  <u who="MBL" uID="u111">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="183.302"
+      end="183.470"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="CRS" uID="u112">
+    <w><langs><single>cym</single></langs>um</w>
+    <w>dw</w>
+    <w>i</w>
+    <w>meddwl</w>
+    <w>dydd</w>
+    <w>Mawrth</w>
+    <t type="p"></t>
+    <media
+      start="183.998"
+      end="185.914"
+      unit="s"
+    />
+    <a type="english translation">um, I think it's on Tuesday</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u113">
+    <w>treinta</w>
+    <w>y</w>
+    <w>uno</w>
+    <w>uno</w>
+    <w>do<shortening>s</shortening></w>
+    <t type="self interruption"></t>
+    <media
+      start="185.094"
+      end="187.079"
+      unit="s"
+    />
+    <a type="english translation">thirty one, one, two ...</a>
+  </u>
+  <u who="MBL" uID="u114">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>dydd</w>
+    <w>Mawrth</w>
+    <w>nesaf</w>
+    <w><langs><single>spa</single></langs>no</w>
+    <t type="q"></t>
+    <media
+      start="187.092"
+      end="188.950"
+      unit="s"
+    />
+    <a type="english translation">ah, it's next Tuesday isn't it?</a>
+  </u>
+  <u who="CRS" uID="u115">
+    <w>y</w>
+    <w>trydydd</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="187.748"
+      end="188.973"
+      unit="s"
+    />
+    <a type="english translation">the third [...] ?</a>
+  </u>
+  <u who="MBL" uID="u116">
+    <w>arall</w>
+    <t type="q"></t>
+    <media
+      start="189.091"
+      end="189.515"
+      unit="s"
+    />
+    <a type="english translation">another?</a>
+  </u>
+  <u who="CRS" uID="u117">
+    <w>arall</w>
+    <w>i</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="189.573"
+      end="190.734"
+      unit="s"
+    />
+    <a type="english translation">it's another for [...]</a>
+  </u>
+  <u who="MBL" uID="u118">
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="191.419"
+      end="191.912"
+      unit="s"
+    />
+    <a type="english translation">okay</a>
+  </u>
+  <u who="MBL" uID="u119">
+    <w>ond</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cael</w>
+    <pause symbolic-length="simple"/>
+    <w>dau_ddeg</w>
+    <w>pedwar</w>
+    <t type="p"></t>
+    <media
+      start="192.468"
+      end="195.074"
+      unit="s"
+    />
+    <a type="english translation">but he's turning twenty four</a>
+  </u>
+  <u who="CRS" uID="u120">
+    <w>dau_ddeg</w>
+    <w>pedwar</w>
+    <t type="p"></t>
+    <media
+      start="195.527"
+      end="196.357"
+      unit="s"
+    />
+    <a type="english translation">twenty four</a>
+  </u>
+  <u who="MBL" uID="u121">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="196.560"
+      end="196.868"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="MBL" uID="u122">
+    <w>pen_blwydd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Karl</w>
+    <t type="p"></t>
+    <media
+      start="197.317"
+      end="198.443"
+      unit="s"
+    />
+    <a type="english translation">Karl's birthday</a>
+  </u>
+  <u who="MBL" uID="u123">
+    <w>a</w>
+    <w>wedyn</w>
+    <w>yn</w>
+    <w>dau_ddeg</w>
+    <w>naw</w>
+    <w>o</w>
+    <w>Tachwedd</w>
+    <pause symbolic-length="simple"/>
+    <w>pen_blwydd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <t type="p"></t>
+    <media
+      start="200.083"
+      end="205.655"
+      unit="s"
+    />
+    <a type="english translation">and then the twenty ninth of November is Celio's Birthday</a>
+  </u>
+  <u who="CRS" uID="u124">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <t type="p"></t>
+    <media
+      start="205.214"
+      end="205.835"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u125">
+    <w>a</w>
+    <w>ti</w>
+    <t type="q"></t>
+    <media
+      start="206.246"
+      end="206.699"
+      unit="s"
+    />
+    <a type="english translation">and you?</a>
+  </u>
+  <u who="MBL" uID="u126">
+    <w>pryd</w>
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cael</w>
+    <w>o</w>
+    <t type="q"></t>
+    <media
+      start="206.768"
+      end="207.645"
+      unit="s"
+    />
+    <a type="english translation">when are you having yours?</a>
+  </u>
+  <u who="CRS" uID="u127">
+    <w type="fragment">erm</w>
+    <w>diwrnod</w>
+    <w>nesaf</w>
+    <t type="p"></t>
+    <media
+      start="207.750"
+      end="208.911"
+      unit="s"
+    />
+    <a type="english translation">erm, tomorrow</a>
+  </u>
+  <u who="MBL" uID="u128">
+    <linker type="lazy overlap mark"/>
+    <w>yn</w>
+    <w>yr</w>
+    <w>haf</w>
+    <t type="q"></t>
+    <media
+      start="207.750"
+      end="208.911"
+      unit="s"
+    />
+    <a type="english translation">in the Summer?</a>
+  </u>
+  <u who="MBL" uID="u129">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="q"></t>
+    <media
+      start="209.630"
+      end="209.851"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u130">
+    <w>diwrnod</w>
+    <w>nesaf</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w type="fragment">k</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="210.151"
+      end="211.713"
+      unit="s"
+    />
+    <a type="english translation">tomorrow, um</a>
+  </u>
+  <u who="MBL" uID="u131">
+    <linker type="lazy overlap mark"/>
+    <w>ti</w>
+    <t type="q"></t>
+    <media
+      start="211.621"
+      end="211.888"
+      unit="s"
+    />
+    <a type="english translation">you?</a>
+  </u>
+  <u who="CRS" uID="u132">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="212.265"
+      end="212.538"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="MBL" uID="u133">
+    <w>diwrnod</w>
+    <w>nesaf</w>
+    <t type="q"></t>
+    <media
+      start="212.901"
+      end="213.783"
+      unit="s"
+    />
+    <a type="english translation">the next day?</a>
+  </u>
+  <u who="CRS" uID="u134">
+    <w>ar_ôl</w>
+    <w>uh</w>
+    <w>pen_blwydd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <t type="p"></t>
+    <media
+      start="214.253"
+      end="215.954"
+      unit="s"
+    />
+    <a type="english translation">after Celio's birthday</a>
+  </u>
+  <u who="MBL" uID="u135">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="216.024"
+      end="216.407"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="CRS" uID="u136">
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <w>yn</w>
+    <w>cael</w>
+    <w>ar</w>
+    <w>y</w>
+    <w>nawfed</w>
+    <w>ar</w>
+    <w>hugain</w>
+    <t type="p"></t>
+    <media
+      start="216.638"
+      end="219.181"
+      unit="s"
+    />
+    <a type="english translation">Celio has his on the twenty-ninth</a>
+  </u>
+  <u who="MBL" uID="u137">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <pause symbolic-length="simple"/>
+    <w><langs><single>spa</single></langs>treinta</w>
+    <t type="p"></t>
+    <media
+      start="217.340"
+      end="218.879"
+      unit="s"
+    />
+    <a type="english translation">ah, the thirtieth</a>
+  </u>
+  <u who="CRS" uID="u138">
+    <w>ia</w>
+    <w>a</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cael</w>
+    <t type="p"></t>
+    <media
+      start="219.030"
+      end="220.789"
+      unit="s"
+    />
+    <a type="english translation">yes, and we're having ...</a>
+  </u>
+  <u who="MBL" uID="u139">
+    <g><w><langs><ambiguous>cym spa</ambiguous></langs>ah</w><ga type="paralinguistics">squeal</ga></g>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cael</w>
+    <w>dwy</w>
+    <w>pen_blwydd</w>
+    <t type="p"></t>
+    <media
+      start="220.544"
+      end="222.472"
+      unit="s"
+    />
+    <a type="english translation">ah, we're having two birthdays!</a>
+  </u>
+  <u who="MBL" uID="u140">
+    <g><w>dwbl</w><k type="retracing"/></g>
+    <w>dwbl</w>
+    <w>parti</w>
+    <t type="p"></t>
+    <media
+      start="222.541"
+      end="224.138"
+      unit="s"
+    />
+    <a type="english translation">a double, double party</a>
+  </u>
+  <u who="CRS" uID="u141">
+    <linker type="lazy overlap mark"/>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="222.588"
+      end="222.733"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u142">
+    <linker type="lazy overlap mark"/>
+    <w>mmhm</w>
+    <t type="p"></t>
+    <media
+      start="223.180"
+      end="223.563"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u143">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="224.132"
+      end="224.724"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u144">
+    <linker type="lazy overlap mark"/>
+    <w>parti</w>
+    <w>dwbl</w>
+    <t type="p"></t>
+    <media
+      start="224.265"
+      end="225.084"
+      unit="s"
+    />
+    <a type="english translation">a double party</a>
+  </u>
+  <u who="MBL" uID="u145">
+    <w>dan</w>
+    <w>ni</w>
+    <g><w><shortening>y</shortening>n</w><k type="retracing reformulation"/></g>
+    <g><w>lle</w><k type="retracing reformulation"/></g>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ni</w>
+    <g><w><langs><single>eng</single></langs>go</w><k type="best guess"/><k type="retracing with correction"/></g>
+    <w>mynd</w>
+    <w>allan</w>
+    <w>i</w>
+    <w>dawnsio</w>
+    <w>neu</w>
+    <w>gwneud</w>
+    <w>rhywbeth</w>
+    <t type="p"></t>
+    <media
+      start="225.576"
+      end="229.970"
+      unit="s"
+    />
+    <a type="english translation">we're in, where, we need to go out dancing or do something</a>
+  </u>
+  <u who="MBL" uID="u146">
+    <w>neu</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>karaoke</w>
+    <w>i</w>
+    <w>ganu</w>
+    <t type="q"></t>
+    <media
+      start="230.372"
+      end="231.968"
+      unit="s"
+    />
+    <a type="english translation">or go to karaoke to sing</a>
+    <a type="comments">Karaoke has Spanish pronunciation</a>
+  </u>
+  <u who="CRS" uID="u147">
+    <linker type="lazy overlap mark"/>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="230.563"
+      end="230.941"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="CRS" uID="u148">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="232.015"
+      end="232.496"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u149">
+    <g><w>fi</w>
+    <w>efo</w><k type="best guess"/></g>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <w>wedi</w>
+    <w>bod</w>
+    <w>yn</w>
+    <w>y</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>karaoke</w>
+    <pause symbolic-length="simple"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Karl</w>
+    <t type="p"></t>
+    <media
+      start="232.515"
+      end="237.351"
+      unit="s"
+    />
+    <a type="english translation">Celio and I have been to the karaoke, uh, with Celio and Karl</a>
+  </u>
+  <u who="DIA" uID="u150">
+    <linker type="lazy overlap mark"/>
+    <w>mmhm</w>
+    <t type="p"></t>
+    <media
+      start="235.029"
+      end="235.406"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u151">
+    <w>aeson</w>
+    <w>ni</w>
+    <w>i</w>
+    <w>un</w>
+    <w><langs><single>eng</single></langs>pub</w>
+    <w>fach</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>karaoke</w>
+    <w>a</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>canu</w>
+    <t type="p"></t>
+    <media
+      start="237.538"
+      end="241.526"
+      unit="s"
+    />
+    <a type="english translation">we went to a little pub for karaoke and he was singing</a>
+  </u>
+  <u who="MBL" uID="u152">
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Celio</w>
+    <w>yn</w>
+    <w>canu</w>
+    <w>can</w>
+    <w>o</w>
+    <w>uh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Luis_Miguel</w>
+    <t type="p"></t>
+    <media
+      start="241.952"
+      end="245.482"
+      unit="s"
+    />
+    <a type="english translation">and Celio was singing a Luis Miguel song</a>
+  </u>
+  <u who="CRS" uID="u153">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="245.601"
+      end="246.275"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u154">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="246.031"
+      end="246.553"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u155">
+    <w>a</w>
+    <w>fi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gwneud</w>
+    <w>y</w>
+    <w>xx</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="246.228"
+      end="248.388"
+      unit="s"
+    />
+    <a type="english translation">and I was doing the [...]</a>
+  </u>
+  <u who="MBL" uID="u156">
+    <w>oedd</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>neis</w>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="246.228"
+      end="248.388"
+      unit="s"
+    />
+    <a type="english translation">it was really nice</a>
+  </u>
+  <u who="MBL" uID="u157">
+    <w>mynd</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w><langs><single>spa</single></langs>micrófono</w>
+    <t type="p"></t>
+    <media
+      start="250.771"
+      end="252.722"
+      unit="s"
+    />
+    <a type="english translation">going with the microphone</a>
+  </u>
+  <u who="DIA" uID="u158">
+    <w>ble</w>
+    <w>yn</w>
+    <w type="fragment">bla</w>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Palermo</w>
+    <w>neu</w>
+    <t type="interruption"></t>
+    <media
+      start="253.035"
+      end="254.777"
+      unit="s"
+    />
+    <a type="english translation">where, in Palermo or ... ?</a>
+  </u>
+  <u who="MBL" uID="u159">
+    <linker type="lazy overlap mark"/>
+    <w>ie</w>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Palermo</w>
+    <t type="p"></t>
+    <media
+      start="254.510"
+      end="255.404"
+      unit="s"
+    />
+    <a type="english translation">yeah, in Palermo</a>
+  </u>
+  <u who="MBL" uID="u160">
+    <w>dan</w>
+    <w>ni</w>
+    <w>wedi</w>
+    <t type="interruption"></t>
+    <media
+      start="255.596"
+      end="256.060"
+      unit="s"
+    />
+    <a type="english translation">we've ...</a>
+    <a type="comments">at this point somone interrupts the conversation, addressing Mabel in Welsh. The non participant is clearly a native Welsh speaker</a>
+  </u>
+  <u who="OSE" uID="u161">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="256.145"
+      end="258.072"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u162">
+    <linker type="lazy overlap mark"/>
+    <w>ia</w>
+    <t type="q"></t>
+    <media
+      start="257.718"
+      end="257.915"
+      unit="s"
+    />
+    <a type="english translation">yeah?</a>
+  </u>
+  <u who="MBL" uID="u163">
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="258.374"
+      end="258.897"
+      unit="s"
+    />
+    <a type="english translation">I'm okay</a>
+  </u>
+  <u who="OSE" uID="u164">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="258.802"
+      end="259.894"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u165">
+    <w>na</w>
+    <e><happening>laugh</happening></e>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>ymarfer</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="260.150"
+      end="262.646"
+      unit="s"
+    />
+    <a type="english translation">no, we're practicing speaking Welsh</a>
+  </u>
+  <u who="OSE" uID="u166">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="263.145"
+      end="263.946"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u167">
+    <linker type="lazy overlap mark"/>
+    <w>xx</w>
+    <t type="p"></t>
+    <media
+      start="263.534"
+      end="263.847"
+      unit="s"
+    />
+  </u>
+  <u who="OSE" uID="u168">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="264.770"
+      end="265.838"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u169">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="265.981"
+      end="266.417"
+      unit="s"
+    />
+    <a type="english translation">yeah</a>
+  </u>
+  <u who="OSE" uID="u170">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="266.533"
+      end="267.119"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u171">
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="trail off"></t>
+    <media
+      start="267.856"
+      end="268.802"
+      unit="s"
+    />
+    <a type="english translation">to the um...</a>
+  </u>
+  <u who="MBL" uID="u172">
+    <w>beth</w>
+    <w>yw</w>
+    <w><shortening>y</shortening>r</w>
+    <w>enw</w>
+    <t type="q"></t>
+    <media
+      start="269.220"
+      end="269.871"
+      unit="s"
+    />
+    <a type="english translation">what's his name?</a>
+  </u>
+  <u who="MBL" uID="u173">
+    <w>yw</w>
+    <t type="trail off"></t>
+    <media
+      start="269.958"
+      end="270.277"
+      unit="s"
+    />
+    <a type="english translation">it's...</a>
+  </u>
+  <u who="MBL" uID="u174">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Peredur</w>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="270.797"
+      end="271.674"
+      unit="s"
+    />
+    <a type="english translation">Peredur, yeah</a>
+  </u>
+  <u who="OSE" uID="u175">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="271.685"
+      end="272.463"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u176">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <g><w>gwn<shortening>eud</shortening></w><k type="retracing reformulation"/></g>
+    <w>mae</w>
+    <w>isio</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <pause symbolic-length="simple"/>
+    <g><w>gwybod</w><k type="retracing"/></g>
+    <w>gwybod</w>
+    <w>sut</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>a</w>
+    <w>pethau</w>
+    <w>fel</w>
+    <w><shortening>y</shortening>na</w>
+    <t type="p"></t>
+    <media
+      start="272.758"
+      end="278.819"
+      unit="s"
+    />
+    <a type="english translation">he's doing, he wants to know how we speak Welsh and stuff like that</a>
+    <a type="comments">background speaker</a>
+  </u>
+  <u who="MBL" uID="u177">
+    <w>felly</w>
+    <pause symbolic-length="simple"/>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>trio</w>
+    <w>ymarfer</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="278.755"
+      end="280.734"
+      unit="s"
+    />
+    <a type="english translation">so we're trying to practice</a>
+    <a type="comments">background speaker</a>
+  </u>
+  <u who="OSE" uID="u178">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="280.670"
+      end="282.046"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u179">
+    <w>na</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="281.794"
+      end="282.694"
+      unit="s"
+    />
+    <a type="english translation">no</a>
+  </u>
+  <u who="OSE" uID="u180">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="282.711"
+      end="284.063"
+      unit="s"
+    />
+  </u>
+  <u who="OSE" uID="u181">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="284.557"
+      end="286.856"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u182">
+    <w>ie</w>
+    <w>ia</w>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="286.839"
+      end="288.099"
+      unit="s"
+    />
+    <a type="english translation">yeah, yeah, okay</a>
+  </u>
+  <u who="MBL" uID="u183">
+    <w>ia</w>
+    <w>mae</w>
+    <w>gen</w>
+    <w>i</w>
+    <w>yr</w>
+    <w>uh</w>
+    <w>llyfr</w>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="288.163"
+      end="290.618"
+      unit="s"
+    />
+    <a type="english translation">yeah I've got the, uh, book yeah</a>
+  </u>
+  <u who="MBL" uID="u184">
+    <w>neis</w>
+    <w>neis</w>
+    <t type="p"></t>
+    <media
+      start="290.905"
+      end="291.555"
+      unit="s"
+    />
+    <a type="english translation">nice, nice</a>
+  </u>
+  <u who="OSE" uID="u185">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="291.596"
+      end="292.548"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u186">
+    <w>xx</w>
+    <t type="p"></t>
+    <media
+      start="292.629"
+      end="292.820"
+      unit="s"
+    />
+    <a type="comments">not sure whether or not this is Carlos</a>
+  </u>
+  <u who="MBL" uID="u187">
+    <w>ia</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w><langs><single>eng</single></langs>keep</w>
+    <w><langs><single>eng</single></langs>in</w>
+    <w><langs><single>eng</single></langs>touch</w>
+    <w><langs><single>eng</single></langs>and</w>
+    <t type="trail off"></t>
+    <media
+      start="292.989"
+      end="294.800"
+      unit="s"
+    />
+    <a type="english translation">yeah, we'll keep in touch and...</a>
+  </u>
+  <u who="OSE" uID="u188">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="294.904"
+      end="295.137"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u189">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="295.270"
+      end="295.618"
+      unit="s"
+    />
+  </u>
+  <u who="OSE" uID="u190">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="296.286"
+      end="296.733"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u191">
+    <linker type="lazy overlap mark"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="296.391"
+      end="296.687"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u192">
+    <w>ia</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="296.856"
+      end="297.790"
+      unit="s"
+    />
+  </u>
+  <u who="OSE" uID="u193">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="299.979"
+      end="301.094"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u194">
+    <linker type="lazy overlap mark"/>
+    <g><w>mae</w>
+    <w>pawb</w><k type="retracing"/></g>
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="300.269"
+      end="301.471"
+      unit="s"
+    />
+    <a type="english translation">everybody, everybody is leaving</a>
+  </u>
+  <u who="CRS" uID="u195">
+    <g><w>beth</w><k type="retracing"/></g>
+    <w>beth</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>wneud</w>
+    <t type="q"></t>
+    <media
+      start="301.366"
+      end="302.475"
+      unit="s"
+    />
+    <a type="english translation">what are we doing?</a>
+  </u>
+  <u who="MBL" uID="u196">
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="301.935"
+      end="302.522"
+      unit="s"
+    />
+    <a type="english translation">everybody is leaving</a>
+  </u>
+  <u who="OSE" uID="u197">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="302.736"
+      end="303.601"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u198">
+    <w>neis</w>
+    <w>cyfarfod</w>
+    <w>chi</w>
+    <t type="p"></t>
+    <media
+      start="303.597"
+      end="304.427"
+      unit="s"
+    />
+    <a type="english translation">nice to meet you</a>
+    <a type="comments">really not sure who this is - it could be Diana, Mabel or someone else.</a>
+  </u>
+  <u who="OSE" uID="u199">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="304.474"
+      end="305.321"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u200">
+    <w>neis</w>
+    <w>gweld</w>
+    <w>chi</w>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="304.816"
+      end="305.722"
+      unit="s"
+    />
+    <a type="english translation">nice to see you, yeah</a>
+  </u>
+  <u who="MBL" uID="u201">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="305.861"
+      end="306.343"
+      unit="s"
+    />
+  </u>
+  <u who="OSE" uID="u202">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="306.378"
+      end="307.382"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u203">
+    <w><langs><single>eng</single></langs>bye</w>
+    <w><langs><single>spa</single></langs>chao</w>
+    <t type="p"></t>
+    <media
+      start="307.289"
+      end="308.125"
+      unit="s"
+    />
+    <a type="comments">background speaker</a>
+  </u>
+  <u who="OSE" uID="u204">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="308.733"
+      end="310.051"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u205">
+    <w>hwyl</w>
+    <w>i</w>
+    <w>chi</w>
+    <t type="p"></t>
+    <media
+      start="309.906"
+      end="310.370"
+      unit="s"
+    />
+    <a type="english translation">farewell</a>
+  </u>
+  <u who="MBL" uID="u206">
+    <w><langs><single>spa</single></langs>estamos</w>
+    <w><langs><single>spa</single></langs>practicando</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>ia</w>
+    <t type="q"></t>
+    <media
+      start="310.334"
+      end="312.760"
+      unit="s"
+    />
+    <a type="english translation">we are practising speaking Welsh yeah?</a>
+  </u>
+  <u who="CRS" uID="u207">
+    <linker type="lazy overlap mark"/>
+    <w>ta_ra</w>
+    <t type="p"></t>
+    <media
+      start="310.910"
+      end="311.305"
+      unit="s"
+    />
+    <a type="english translation">goodbye</a>
+  </u>
+  <u who="MBL" uID="u208">
+    <w>faint</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <w>gloch</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Carlos</w>
+    <t type="q"></t>
+    <media
+      start="314.408"
+      end="316.150"
+      unit="s"
+    />
+    <a type="english translation">what time is it Carlos?</a>
+  </u>
+  <u who="CRS" uID="u209">
+    <w>hanner</w>
+    <w>awr</w>
+    <w>wedi</w>
+    <w>saith</w>
+    <t type="p"></t>
+    <media
+      start="316.475"
+      end="317.392"
+      unit="s"
+    />
+    <a type="english translation">half past seven</a>
+  </u>
+  <u who="CRS" uID="u210">
+    <w>er</w>
+    <w>chwech</w>
+    <t type="p"></t>
+    <media
+      start="317.541"
+      end="318.272"
+      unit="s"
+    />
+    <a type="english translation">er, six</a>
+  </u>
+  <u who="CRS" uID="u211">
+    <w>hanner</w>
+    <w>awr</w>
+    <w>wedi</w>
+    <w>chwech</w>
+    <t type="p"></t>
+    <media
+      start="318.458"
+      end="319.166"
+      unit="s"
+    />
+    <a type="english translation">half past six</a>
+  </u>
+  <u who="MBL" uID="u212">
+    <w>chael</w>
+    <w>y</w>
+    <w>bws</w>
+    <t type="p"></t>
+    <media
+      start="318.473"
+      end="319.239"
+      unit="s"
+    />
+    <a type="english translation">get the bus</a>
+  </u>
+  <u who="MBL" uID="u213">
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ti</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>gweithio</w>
+    <t type="p"></t>
+    <media
+      start="319.286"
+      end="320.377"
+      unit="s"
+    />
+    <a type="english translation">you need to go to work</a>
+  </u>
+  <u who="CRS" uID="u214">
+    <w>ydw</w>
+    <t type="p"></t>
+    <media
+      start="320.430"
+      end="320.697"
+      unit="s"
+    />
+    <a type="english translation">I do</a>
+  </u>
+  <u who="MBL" uID="u215">
+    <w>fynd</w>
+    <w>i</w>
+    <w>gweithio</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>nos</w>
+    <w>yn</w>
+    <w>y</w>
+    <w><langs><single>eng</single></langs>hospital</w>
+    <t type="p"></t>
+    <media
+      start="321.024"
+      end="323.230"
+      unit="s"
+    />
+    <a type="english translation">go to work in the hospital at night</a>
+  </u>
+  <u who="CRS" uID="u216">
+    <w>na</w>
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <t type="self interruption"></t>
+    <media
+      start="322.092"
+      end="324.692"
+      unit="s"
+    />
+    <a type="english translation">no everybody goes...</a>
+  </u>
+  <u who="MBL" uID="u217">
+    <w><langs><single>eng</single></langs>good</w>
+    <w><langs><single>eng</single></langs>boy</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>hah</w>
+    <t type="p"></t>
+    <media
+      start="323.171"
+      end="324.541"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u218">
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="323.706"
+      end="324.541"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u219">
+    <w>posibl</w>
+    <t type="p"></t>
+    <media
+      start="326.891"
+      end="327.564"
+      unit="s"
+    />
+    <a type="english translation">possibly</a>
+  </u>
+  <u who="CRS" uID="u220">
+    <w>beth</w>
+    <w>wyt</w>
+    <w>ti</w>
+    <w>isio</w>
+    <w>wneud</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>allwedd</w>
+    <w>achos</w>
+    <w>mae</w>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>mi</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="327.874"
+      end="331.061"
+      unit="s"
+    />
+    <a type="english translation">what do you want to do with the key, because I have to leave</a>
+  </u>
+  <u who="MBL" uID="u221">
+    <linker type="lazy overlap mark"/>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="327.911"
+      end="328.352"
+      unit="s"
+    />
+    <a type="english translation">yes</a>
+  </u>
+  <u who="MBL" uID="u222">
+    <w>allwedd</w>
+    <w>o</w>
+    <w>beth</w>
+    <t type="q"></t>
+    <media
+      start="331.046"
+      end="332.067"
+      unit="s"
+    />
+    <a type="english translation">the key to what?</a>
+  </u>
+  <u who="CRS" uID="u223">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="331.266"
+      end="332.114"
+      unit="s"
+    />
+    <a type="english translation">everybody is leaving</a>
+  </u>
+  <u who="MBL" uID="u224">
+    <w>ie</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="333.422"
+      end="334.525"
+      unit="s"
+    />
+    <a type="english translation">yeah, yeah</a>
+    <a type="comments">at this point somone interrupts in Welsh</a>
+  </u>
+  <u who="OSE" uID="u225">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="334.992"
+      end="336.008"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u226">
+    <w>beth</w>
+    <w>yw</w>
+    <w>hwnna</w>
+    <t type="q"></t>
+    <media
+      start="336.592"
+      end="337.462"
+      unit="s"
+    />
+    <a type="english translation">what is that?</a>
+  </u>
+  <u who="CRS" uID="u227">
+    <w>na</w>
+    <g><w>dan</w><k type="retracing"/></g>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>wneud</w>
+    <t type="p"></t>
+    <media
+      start="337.579"
+      end="339.227"
+      unit="s"
+    />
+    <a type="english translation">no, we're going to do it</a>
+  </u>
+  <u who="MBL" uID="u228">
+    <linker type="lazy overlap mark"/>
+    <w>uh</w>
+    <w>gloi</w>
+    <w>hwnna</w>
+    <t type="q"></t>
+    <media
+      start="337.863"
+      end="339.047"
+      unit="s"
+    />
+    <a type="english translation">uh, lock that?</a>
+  </u>
+  <u who="OSE" uID="u229">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="339.234"
+      end="340.523"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u230">
+    <w>ie</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <w>nawr</w>
+    <t type="q"></t>
+    <media
+      start="340.765"
+      end="342.286"
+      unit="s"
+    />
+    <a type="english translation">yeah, everybody is leaving now</a>
+  </u>
+  <u who="MBL" uID="u231">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>o_k</w>
+    <w>ie</w>
+    <g><w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w><k type="retracing"/></g>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="342.926"
+      end="344.667"
+      unit="s"
+    />
+    <a type="english translation">ah okay, yeah, we're leaving, we're leaving</a>
+  </u>
+  <u who="MBL" uID="u232">
+    <g><w>pawb</w><k type="retracing"/></g>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>munud</w>
+    <t type="p"></t>
+    <media
+      start="344.644"
+      end="346.153"
+      unit="s"
+    />
+    <a type="english translation">everybody is leaving in a minute</a>
+  </u>
+  <u who="CRS" uID="u233">
+    <linker type="lazy overlap mark"/>
+    <w>pan</w>
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="345.666"
+      end="347.349"
+      unit="s"
+    />
+    <a type="english translation">when everybody [...]</a>
+  </u>
+  <u who="MBL" uID="u234">
+    <w>ie</w>
+    <t type="q"></t>
+    <media
+      start="346.664"
+      end="347.163"
+      unit="s"
+    />
+    <a type="english translation">yeah?</a>
+  </u>
+  <u who="MBL" uID="u235">
+    <g><w>pawb</w><k type="retracing with correction"/></g>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ester</w>
+    <w>pan</w>
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>barod</w>
+    <w>i</w>
+    <w>mynd</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w><langs><single>eng</single></langs>stand</w>
+    <w><langs><single>eng</single></langs>up</w>
+    <w><langs><single>eng</single></langs>and</w>
+    <w><langs><single>eng</single></langs>go</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>o_k</w>
+    <t type="q"></t>
+    <media
+      start="347.997"
+      end="353.349"
+      unit="s"
+    />
+    <a type="english translation">[...] eh Ester, when everybody is ready to leave we're gonna stand up and go okay?</a>
+  </u>
+  <u xml:lang="eng" who="CRS" uID="u236">
+    <w>stand</w>
+    <w>up</w>
+    <w>and</w>
+    <g><w>go</w><ga type="paralinguistics">laugh</ga></g>
+    <t type="p"></t>
+    <media
+      start="354.120"
+      end="355.142"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u237">
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="354.331"
+      end="354.935"
+      unit="s"
+    />
+    <a type="english translation">okay</a>
+  </u>
+  <u xml:lang="eng" who="MBL" uID="u238">
+    <w>stand</w>
+    <w>up</w>
+    <w>and</w>
+    <g><w>go</w><ga type="paralinguistics">laugh</ga></g>
+    <t type="p"></t>
+    <media
+      start="355.339"
+      end="356.570"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u239">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="357.278"
+      end="357.905"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u240">
+    <w>ia</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="358.311"
+      end="359.553"
+      unit="s"
+    />
+    <a type="english translation">yeah, everybody is leaving</a>
+  </u>
+  <u who="MBL" uID="u241">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>neis</w>
+    <w>i</w>
+    <w>cwrdd</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="360.296"
+      end="363.559"
+      unit="s"
+    />
+    <a type="english translation">it's nice to meet welsh (people)</a>
+  </u>
+  <u who="MBL" uID="u242">
+    <w>neis</w>
+    <w>i</w>
+    <w>gwneud</w>
+    <e><happening>dental_click</happening></e>
+    <w>unwaith</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>mis</w>
+    <w>neu</w>
+    <w>unwaith</w>
+    <w><langs><single>spa</single></langs>o</w>
+    <w>tri</w>
+    <w>waith</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>blwyddyn</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <w>neis</w>
+    <w>i</w>
+    <w>dod</w>
+    <w>fyny</w>
+    <w>i</w>
+    <w>ymarfer</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="361.486"
+      end="369.486"
+      unit="s"
+    />
+    <a type="english translation">it's nice to do it once a month, or one or three times a year, it's nice to come up to practice Welsh</a>
+  </u>
+  <u who="MBL" uID="u243">
+    <w>pethau</w>
+    <w>gwahanol</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <w>uh</w>
+    <g><w>un</w><k type="best guess"/></g>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="369.748"
+      end="373.359"
+      unit="s"
+    />
+    <a type="comments">final word is obscured by loud bang. Possible spanish</a>
+  </u>
+  <u who="DIA" uID="u244">
+    <linker type="lazy overlap mark"/>
+    <w>xx</w>
+    <w>neis</w>
+    <t type="p"></t>
+    <media
+      start="369.754"
+      end="370.625"
+      unit="s"
+    />
+    <a type="english translation">[...] nice</a>
+  </u>
+  <u who="CRS" uID="u245">
+    <linker type="lazy overlap mark"/>
+    <w>a</w>
+    <w>bwyta</w>
+    <w>cacennau</w>
+    <w>a</w>
+    <t type="trail off"></t>
+    <media
+      start="371.391"
+      end="372.424"
+      unit="s"
+    />
+    <a type="english translation">and eat cakes and ...</a>
+  </u>
+  <u who="MBL" uID="u246">
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Buenos_Aires</w>
+    <w>yn</w>
+    <w>lle</w>
+    <w>mawr</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <t type="p"></t>
+    <media
+      start="373.676"
+      end="375.696"
+      unit="s"
+    />
+    <a type="english translation">Buenos_Aires is a big place</a>
+  </u>
+  <u who="MBL" uID="u247">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>neis</w>
+    <w>yn</w>
+    <w>gwneud</w>
+    <w>pethau</w>
+    <w>gwahanol</w>
+    <t type="p"></t>
+    <media
+      start="375.986"
+      end="377.681"
+      unit="s"
+    />
+    <a type="english translation">it's nice to do different stuff</a>
+  </u>
+  <u who="MBL" uID="u248">
+    <w>cael</w>
+    <w>te</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>hen</w>
+    <w>bobl</w>
+    <w>a</w>
+    <e><happening>laugh</happening></e>
+    <t type="trail off"></t>
+    <media
+      start="377.746"
+      end="379.575"
+      unit="s"
+    />
+    <a type="english translation">have tea with the old people and ...</a>
+  </u>
+  <u who="DIA" uID="u249">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="379.685"
+      end="380.248"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u250">
+    <w>yn</w>
+    <w>cwmni</w>
+    <pause symbolic-length="simple"/>
+    <w>gyda</w>
+    <w>mam</w>
+    <w>e</w>
+    <t type="p"></t>
+    <media
+      start="381.267"
+      end="383.432"
+      unit="s"
+    />
+    <a type="english translation">to go with mum</a>
+  </u>
+  <u who="CRS" uID="u251">
+    <linker type="lazy overlap mark"/>
+    <w>xx</w>
+    <t type="p"></t>
+    <media
+      start="383.345"
+      end="383.537"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u252">
+    <w>rhaid</w>
+    <w>i</w>
+    <w>fi</w>
+    <t type="interruption"></t>
+    <media
+      start="384.355"
+      end="384.884"
+      unit="s"
+    />
+    <a type="english translation">I need to ...</a>
+  </u>
+  <u who="CRS" uID="u253">
+    <w>roeddwn</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dweud</w>
+    <w>iddo</w>
+    <w>fe</w>
+    <w>bod</w>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ni</w>
+    <t type="self interruption"></t>
+    <media
+      start="384.884"
+      end="387.624"
+      unit="s"
+    />
+    <a type="english translation">I was telling him that we have to</a>
+  </u>
+  <u who="MBL" uID="u254">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="388.083"
+      end="388.495"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u255">
+    <g><w>be</w><k type="retracing"/></g>
+    <w>be</w>
+    <w>oedd</w>
+    <w>yr</w>
+    <w>enw</w>
+    <t type="q"></t>
+    <media
+      start="389.760"
+      end="390.678"
+      unit="s"
+    />
+    <a type="english translation">what was the name?</a>
+  </u>
+  <u who="MBL" uID="u256">
+    <w><langs><single>cym</single></langs>um</w>
+    <pause symbolic-length="simple"/>
+    <w>Pere<shortening>dur</shortening></w>
+    <e><happening>laugh</happening></e>
+    <t type="trail off"></t>
+    <media
+      start="390.950"
+      end="393.835"
+      unit="s"
+    />
+    <a type="comments">tries to say researcher's name</a>
+  </u>
+  <u who="MBL" uID="u257">
+    <w>xxx</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="393.826"
+      end="398.017"
+      unit="s"
+    />
+    <a type="comments">unilingual</a>
+  </u>
+  <u xml:lang="eng" who="MBL" uID="u258">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <w>my</w>
+    <w>God</w>
+    <t type="p"></t>
+    <media
+      start="398.272"
+      end="399.282"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u259">
+    <w>xx</w>
+    <t type="p"></t>
+    <media
+      start="399.416"
+      end="399.718"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u260">
+    <w>a</w>
+    <g><w>mae</w><k type="retracing with correction"/></g>
+    <w>dydd</w>
+    <w>Sadwrn</w>
+    <w>nesaf</w>
+    <pause symbolic-length="simple"/>
+    <w>fi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Karls</w>
+    <pause symbolic-length="simple"/>
+    <w>i</w>
+    <w>gwrdd</w>
+    <w>uh</w>
+    <w>bobl</w>
+    <w>o</w>
+    <w>eisteddfod</w>
+    <w>yr</w>
+    <g><w type="fragment">wy</w><k type="retracing with correction"/></g>
+    <w>yr</w>
+    <w>Urdd</w>
+    <t type="p"></t>
+    <media
+      start="400.260"
+      end="407.830"
+      unit="s"
+    />
+    <a type="english translation">and next week I'm going with Karl to meet people from the Urdd</a>
+  </u>
+  <u who="CRS" uID="u261">
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="408.132"
+      end="408.573"
+      unit="s"
+    />
+    <a type="english translation">yeah</a>
+  </u>
+  <u who="MBL" uID="u262">
+    <w>bachgen</w>
+    <w>a</w>
+    <w>merched</w>
+    <w>yn</w>
+    <w>dod</w>
+    <w>i</w>
+    <w>gwneud</w>
+    <w>pethau</w>
+    <pause symbolic-length="simple"/>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Esquel</w>
+    <w>ac</w>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <t type="p"></t>
+    <media
+      start="408.590"
+      end="412.735"
+      unit="s"
+    />
+    <a type="english translation">boy and girls are coming to do things in Escuel and Gaiman</a>
+  </u>
+  <u who="MBL" uID="u263">
+    <w>a</w>
+    <w>dydd</w>
+    <w>Sadwrn</w>
+    <w>nesaf</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dod</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Buenos_Aires</w>
+    <w>a</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>bod</w>
+    <w>yma</w>
+    <w>un</w>
+    <w>dydd</w>
+    <pause symbolic-length="simple"/>
+    <w>i</w>
+    <w>aros</w>
+    <w>felly</w>
+    <w>fi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <g><w>fynd</w>
+    <w><langs><single>eng</single></langs>south</w><k type="best guess"/></g>
+    <t type="interruption"></t>
+    <media
+      start="413.031"
+      end="420.741"
+      unit="s"
+    />
+    <a type="english translation">and next Saturday he's coming to Buenos Aires and is staying for one day, so I'm going South</a>
+    <a type="comments">at this point somone interrupts again and speaks in Spanish with Mabel and then Carlos</a>
+  </u>
+  <u who="OSE" uID="u264">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="420.406"
+      end="422.659"
+      unit="s"
+    />
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u265">
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="422.682"
+      end="423.146"
+      unit="s"
+    />
+    <a type="english translation">good</a>
+  </u>
+  <u who="OSE" uID="u266">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="422.949"
+      end="424.760"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u267">
+    <w>da</w>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="423.227"
+      end="423.773"
+      unit="s"
+    />
+    <a type="english translation">good</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u268">
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="424.725"
+      end="425.248"
+      unit="s"
+    />
+    <a type="english translation">good</a>
+  </u>
+  <u who="OSE" uID="u269">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="425.224"
+      end="426.734"
+      unit="s"
+    />
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u270">
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="426.850"
+      end="427.407"
+      unit="s"
+    />
+    <a type="english translation">good</a>
+  </u>
+  <u who="OSE" uID="u271">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="427.732"
+      end="429.706"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u272">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Beatrix</w>
+    <t type="p"></t>
+    <media
+      start="429.752"
+      end="430.542"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u273">
+    <w><langs><single>spa</single></langs>chale</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="430.657"
+      end="431.806"
+      unit="s"
+    />
+    <a type="english translation">no way [...]</a>
+    <a type="comments">unilingual Spanish</a>
+  </u>
+  <u who="OSE" uID="u274">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="431.388"
+      end="434.906"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u275">
+    <w><langs><single>spa</single></langs>te</w>
+    <w><langs><single>spa</single></langs>gusta</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <t type="q"></t>
+    <media
+      start="431.922"
+      end="432.932"
+      unit="s"
+    />
+    <a type="english translation">you like it huh ?</a>
+  </u>
+  <u who="MBL" uID="u276">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Beatrix</w>
+    <t type="p"></t>
+    <media
+      start="434.778"
+      end="435.486"
+      unit="s"
+    />
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u277">
+    <w>un</w>
+    <w>nombre</w>
+    <w>muy</w>
+    <w>particular</w>
+    <t type="p"></t>
+    <media
+      start="435.823"
+      end="437.727"
+      unit="s"
+    />
+    <a type="english translation">a very unique name</a>
+  </u>
+  <u who="OSE" uID="u278">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="437.054"
+      end="439.364"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u279">
+    <w><langs><single>spa</single></langs>yo</w>
+    <w><langs><single>spa</single></langs>soy</w>
+    <w><langs><single>spa</single></langs>hijo</w>
+    <w><langs><single>spa</single></langs>de</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Juan</w>
+    <w><langs><single>spa</single></langs>y</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ángela</w>
+    <t type="p"></t>
+    <media
+      start="439.401"
+      end="441.363"
+      unit="s"
+    />
+    <a type="english translation">I'm the son of Juan and Ángela .</a>
+  </u>
+  <u who="OSE" uID="u280">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="441.270"
+      end="441.828"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u281">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Juan_Vega</w>
+    <w><langs><single>spa</single></langs>y</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ángela_Mendez</w>
+    <t type="p"></t>
+    <media
+      start="441.955"
+      end="444.916"
+      unit="s"
+    />
+    <a type="english translation">Juan Vega and Ángela Mendez .</a>
+  </u>
+  <u who="OSE" uID="u282">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="446.193"
+      end="447.586"
+      unit="s"
+    />
+  </u>
+  <u who="OSE" uID="u283">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="446.227"
+      end="449.339"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u284">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <t type="q"></t>
+    <media
+      start="446.541"
+      end="447.028"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u285">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="447.667"
+      end="448.085"
+      unit="s"
+    />
+  </u>
+  <u xml:lang="spa" who="CRS" uID="u286">
+    <linker type="lazy overlap mark"/>
+    <w>bueno</w>
+    <t type="p"></t>
+    <media
+      start="448.932"
+      end="449.466"
+      unit="s"
+    />
+    <a type="english translation">good</a>
+  </u>
+  <u xml:lang="spa" who="CRS" uID="u287">
+    <w>igualmente</w>
+    <t type="p"></t>
+    <media
+      start="449.733"
+      end="450.720"
+      unit="s"
+    />
+    <a type="english translation">likewise .</a>
+  </u>
+  <u who="MBL" uID="u288">
+    <w>ta_ta</w>
+    <t type="p"></t>
+    <media
+      start="450.848"
+      end="451.463"
+      unit="s"
+    />
+    <a type="english translation">goodbye</a>
+  </u>
+  <u who="OSE" uID="u289">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="451.544"
+      end="451.939"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u290">
+    <w>ta_ra</w>
+    <t type="p"></t>
+    <media
+      start="452.079"
+      end="452.427"
+      unit="s"
+    />
+    <a type="english translation">goodbye</a>
+  </u>
+  <u who="OSE" uID="u291">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="452.079"
+      end="452.427"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u292">
+    <w>da</w>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="453.528"
+      end="454.259"
+      unit="s"
+    />
+    <a type="english translation">very good</a>
+  </u>
+  <u who="CRS" uID="u293">
+    <linker type="lazy overlap mark"/>
+    <w>wel</w>
+    <t type="trail off"></t>
+    <media
+      start="453.885"
+      end="454.245"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u294">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>o_k</w>
+    <t type="p"></t>
+    <media
+      start="455.311"
+      end="456.042"
+      unit="s"
+    />
+    <a type="comments">at this point someone else approaches and engages Carlos in conversation. Mabel and Diana continue to speak to each other.</a>
+  </u>
+  <u who="MBL" uID="u295">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dod</w>
+    <w>o</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Dreiorci</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Carlos</w>
+    <t type="p"></t>
+    <media
+      start="460.054"
+      end="462.248"
+      unit="s"
+    />
+    <a type="english translation">Carlos is from Treiorci</a>
+  </u>
+  <u who="MBL" uID="u296">
+    <w>a</w>
+    <w>mae</w>
+    <w>teulu</w>
+    <w>yn</w>
+    <w>dod</w>
+    <w>o</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Dreiorci</w>
+    <t type="p"></t>
+    <media
+      start="462.445"
+      end="464.013"
+      unit="s"
+    />
+    <a type="english translation">and his family come from Treiorci</a>
+  </u>
+  <u who="MBL" uID="u297">
+    <w>a</w>
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <t type="p"></t>
+    <media
+      start="464.047"
+      end="465.417"
+      unit="s"
+    />
+    <a type="english translation">and everybody speaks welsh</a>
+  </u>
+  <u who="MBL" uID="u298">
+    <w>ond</w>
+    <w>wedi</w>
+    <w>bwyta</w>
+    <w>llawer</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>te</w>
+    <w>xxx</w>
+    <w>bola</w>
+    <w>tost</w>
+    <t type="p"></t>
+    <media
+      start="467.246"
+      end="470.648"
+      unit="s"
+    />
+    <a type="english translation">but I've eaten a lot for tea [...] my stomach hurts</a>
+  </u>
+  <u who="DIA" uID="u299">
+    <linker type="lazy overlap mark"/>
+    <g><w>ie</w><ga type="paralinguistics">laugh</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>fi</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="470.369"
+      end="472.517"
+      unit="s"
+    />
+    <a type="english translation">yeah, me too!</a>
+  </u>
+  <u who="MBL" uID="u300">
+    <linker type="lazy overlap mark"/>
+    <w>na</w>
+    <w>oedd</w>
+    <w>e</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>bwyta</w>
+    <w>heno</w>
+    <t type="p"></t>
+    <media
+      start="471.321"
+      end="473.759"
+      unit="s"
+    />
+    <a type="english translation">no, he wasn't going to eat tonight</a>
+  </u>
+  <u who="DIA" uID="u301">
+    <linker type="lazy overlap mark"/>
+    <w>na</w>
+    <t type="p"></t>
+    <media
+      start="473.852"
+      end="474.340"
+      unit="s"
+    />
+    <a type="english translation">no</a>
+  </u>
+  <u who="DIA" uID="u302">
+    <w>ti</w>
+    <w>moyn</w>
+    <w>cael</w>
+    <w><langs><single>eng</single></langs>day</w>
+    <w><langs><single>eng</single></langs>off</w>
+    <t type="p"></t>
+    <media
+      start="475.442"
+      end="476.870"
+      unit="s"
+    />
+    <a type="english translation">you want a day off</a>
+  </u>
+  <u who="MBL" uID="u303">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="476.986"
+      end="477.810"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u304">
+    <linker type="lazy overlap mark"/>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="477.299"
+      end="478.240"
+      unit="s"
+    />
+  </u>
+  <u who="DIA" uID="u305">
+    <w>a</w>
+    <w>wedyn</w>
+    <t type="trail off"></t>
+    <media
+      start="478.507"
+      end="479.377"
+      unit="s"
+    />
+    <a type="english translation">and then...</a>
+  </u>
+  <u who="MBL" uID="u306">
+    <w>llawer</w>
+    <w>o</w>
+    <w>teisen</w>
+    <t type="p"></t>
+    <media
+      start="479.598"
+      end="481.119"
+      unit="s"
+    />
+    <a type="english translation">a lot of cake</a>
+  </u>
+  <u who="DIA" uID="u307">
+    <w>gormod</w>
+    <t type="p"></t>
+    <media
+      start="481.467"
+      end="482.698"
+      unit="s"
+    />
+    <a type="english translation">too much</a>
+  </u>
+  <u who="MBL" uID="u308">
+    <e><happening>exhale</happening></e>
+    <t type="p"></t>
+    <media
+      start="484.450"
+      end="485.007"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u309">
+    <w>mae</w>
+    <t type="trail off"></t>
+    <media
+      start="492.781"
+      end="493.536"
+      unit="s"
+    />
+    <a type="english translation">it's...</a>
+  </u>
+  <u who="MBL" uID="u310">
+    <w>da</w>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="495.521"
+      end="496.253"
+      unit="s"
+    />
+    <a type="english translation">very good</a>
+  </u>
+  <u who="MBL" uID="u311">
+    <w>mae</w>
+    <w>pawb</w>
+    <w>yn</w>
+    <w>isio</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="498.273"
+      end="499.736"
+      unit="s"
+    />
+    <a type="english translation">everybody wants to leave</a>
+  </u>
+  <u who="MBL" uID="u312">
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <w>agor</w>
+    <w>pa</w>
+    <w>uh</w>
+    <w>amser</w>
+    <w>mm</w>
+    <t type="q"></t>
+    <media
+      start="499.864"
+      end="501.548"
+      unit="s"
+    />
+    <a type="english translation">what time does it open?</a>
+  </u>
+  <u who="DIA" uID="u313">
+    <w>pa</w>
+    <w>amser</w>
+    <t type="trail off"></t>
+    <media
+      start="503.057"
+      end="504.125"
+      unit="s"
+    />
+    <a type="english translation">what time...</a>
+  </u>
+  <u who="MBL" uID="u314">
+    <w>hanner</w>
+    <w>awr</w>
+    <w>wedi</w>
+    <w>chwech</w>
+    <t type="p"></t>
+    <media
+      start="506.644"
+      end="507.794"
+      unit="s"
+    />
+    <a type="english translation">half past six</a>
+  </u>
+  <u who="MBL" uID="u315">
+    <g><w>y</w><k type="best guess"/></g>
+    <w>nos</w>
+    <t type="p"></t>
+    <media
+      start="508.614"
+      end="509.578"
+      unit="s"
+    />
+    <a type="english translation">at night</a>
+  </u>
+  <u who="MBL" uID="u316">
+    <w>achos</w>
+    <w>mae</w>
+    <w>diwrnod</w>
+    <w>yn</w>
+    <w>hir</w>
+    <w>nawr</w>
+    <w>a</w>
+    <w>mae</w>
+    <w>haul</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <pause symbolic-length="simple"/>
+    <w>am</w>
+    <t type="self interruption"></t>
+    <media
+      start="509.728"
+      end="514.082"
+      unit="s"
+    />
+    <a type="english translation">because the day is long now and the sun goes at ...</a>
+  </u>
+  <u who="MBL" uID="u317">
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gwybod</w>
+    <w>be</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dweud</w>
+    <t type="q"></t>
+    <media
+      start="514.384"
+      end="515.568"
+      unit="s"
+    />
+    <a type="english translation">do you understand what I'm saying?</a>
+  </u>
+  <u who="DIA" uID="u318">
+    <w><langs><single>spa</single></langs>si</w>
+    <t type="p"></t>
+    <media
+      start="515.232"
+      end="515.580"
+      unit="s"
+    />
+    <a type="english translation">yeah</a>
+  </u>
+  <u who="MBL" uID="u319">
+    <w>mae</w>
+    <g><w><shortening>y</shortening>r</w><k type="best guess"/></g>
+    <w>haul</w>
+    <w>yn</w>
+    <w>mynd</w>
+    <w>am</w>
+    <w>wyth</w>
+    <w>yn</w>
+    <w>saith</w>
+    <w>ia</w>
+    <t type="q"></t>
+    <media
+      start="515.624"
+      end="518.561"
+      unit="s"
+    />
+    <a type="english translation">the sun goes at eight or seven, right?</a>
+  </u>
+  <u who="DIA" uID="u320">
+    <w>ia</w>
+    <pause symbolic-length="simple"/>
+    <w>mae</w>
+    <w>o</w>
+    <t type="interruption"></t>
+    <media
+      start="518.828"
+      end="519.792"
+      unit="s"
+    />
+    <a type="english translation">yeah, it...</a>
+    <a type="comments">at this point Carlos returns to the main conversation</a>
+  </u>
+  <u who="CRS" uID="u321">
+    <linker type="lazy overlap mark"/>
+    <w>be</w>
+    <t type="q"></t>
+    <media
+      start="519.606"
+      end="519.873"
+      unit="s"
+    />
+    <a type="english translation">what?</a>
+  </u>
+  <u who="MBL" uID="u322">
+    <w>iawn</w>
+    <t type="q"></t>
+    <media
+      start="520.558"
+      end="521.011"
+      unit="s"
+    />
+    <a type="english translation">okay?</a>
+  </u>
+  <u who="CRS" uID="u323">
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="521.150"
+      end="521.440"
+      unit="s"
+    />
+    <a type="english translation">okay</a>
+  </u>
+  <u who="CRS" uID="u324">
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="521.777"
+      end="522.520"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u325">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>o_k</w>
+    <t type="p"></t>
+    <media
+      start="521.870"
+      end="522.172"
+      unit="s"
+    />
+  </u>
+  <u who="MBL" uID="u326">
+    <w>wel</w>
+    <pause symbolic-length="simple"/>
+    <w>rhaid</w>
+    <w>i</w>
+    <w>ni</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="523.321"
+      end="525.364"
+      unit="s"
+    />
+    <a type="english translation">well, we need to leave.</a>
+  </u>
+  <u who="CRS" uID="u327">
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w>dy</w>
+    <w>fflat</w>
+    <w>di</w>
+    <w>neu</w>
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>aros</w>
+    <w>yma</w>
+    <t type="q"></t>
+    <media
+      start="527.305"
+      end="530.417"
+      unit="s"
+    />
+    <a type="english translation">are you going to your flat, or are you staying here?</a>
+  </u>
+  <u who="MBL" uID="u328">
+    <w>na</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>credu</w>
+    <t type="self interruption"></t>
+    <media
+      start="530.533"
+      end="531.555"
+      unit="s"
+    />
+    <a type="english translation">no, I think...</a>
+  </u>
+  <u who="MBL" uID="u329">
+    <w>wel</w>
+    <w>dw</w>
+    <w>i</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>gwybod</w>
+    <t type="p"></t>
+    <media
+      start="531.764"
+      end="532.483"
+      unit="s"
+    />
+    <a type="english translation">well, I don't know</a>
+  </u>
+  <u who="MBL" uID="u330">
+    <w>efallai</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <t type="interruption"></t>
+    <media
+      start="532.759"
+      end="534.025"
+      unit="s"
+    />
+    <a type="english translation">maybe I'm going to go to...</a>
+  </u>
+  <u who="DIA" uID="u331">
+    <linker type="other completion"/>
+    <w>tŷ</w>
+    <w>nain</w>
+    <t type="q"></t>
+    <media
+      start="534.571"
+      end="535.093"
+      unit="s"
+    />
+    <a type="english translation">grandma's house?</a>
+  </u>
+  <u who="MBL" uID="u332">
+    <w>efallai</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>tŷ</w>
+    <w>nain</w>
+    <g><w>efo</w><k type="best guess"/></g>
+    <w>un</w>
+    <g><w>awr</w><k type="best guess"/></g>
+    <w>mwy</w>
+    <pause symbolic-length="simple"/>
+    <w>aros</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Sara</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="535.569"
+      end="542.314"
+      unit="s"
+    />
+    <a type="english translation">maybe I'll go to grandma's house in an hour to speak Welsh with Sara [...]</a>
+    <a type="comments">pronunciation of awr sounds similar to English hour</a>
+  </u>
+  <u who="MBL" uID="u333">
+    <w>a</w>
+    <w>wedyn</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <w>fflat</w>
+    <t type="p"></t>
+    <media
+      start="542.509"
+      end="543.926"
+      unit="s"
+    />
+    <a type="english translation">and then go to [...]</a>
+  </u>
+  <u who="MBL" uID="u334">
+    <w>ddim</w>
+    <w>yn</w>
+    <w>gwybod</w>
+    <t type="p"></t>
+    <media
+      start="544.262"
+      end="544.820"
+      unit="s"
+    />
+    <a type="english translation">I don't know</a>
+  </u>
+  <u who="MBL" uID="u335">
+    <w>mynd</w>
+    <w>i</w>
+    <w>gwaith</w>
+    <t type="p"></t>
+    <media
+      start="545.029"
+      end="545.563"
+      unit="s"
+    />
+    <a type="english translation">go to work</a>
+  </u>
+  <u who="CRS" uID="u336">
+    <w>yn</w>
+    <w>lle</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gallu</w>
+    <g><w><langs><single>cym</single></langs>um</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <w><langs><single>cym</single></langs>um</w>
+    <w>dal</w>
+    <w>y</w>
+    <w>bw<shortening>s</shortening></w>
+    <t type="q"></t>
+    <media
+      start="545.563"
+      end="548.686"
+      unit="s"
+    />
+    <a type="english translation">where can I, um, get the bus?</a>
+  </u>
+  <u who="MBL" uID="u337">
+    <linker type="lazy overlap mark"/>
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>allan</w>
+    <w>croes</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <w>cerdded</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>San_Juan</w>
+    <t type="q"></t>
+    <media
+      start="547.923"
+      end="553.310"
+      unit="s"
+    />
+    <a type="english translation">are you walking crosscountry to San Juan?</a>
+  </u>
+  <u who="MBL" uID="u338">
+    <w>a</w>
+    <g><w>wedyn</w><k type="best guess"/></g>
+    <w>cerdded</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>San_Juan</w>
+    <t type="q"></t>
+    <media
+      start="554.038"
+      end="555.872"
+      unit="s"
+    />
+    <a type="english translation">and then walking to San Juan?</a>
+  </u>
+  <u who="MBL" uID="u339">
+    <w>un</w>
+    <w>dau</w>
+    <w>tri</w>
+    <w>pedwar</w>
+    <w><langs><single>eng</single></langs>squares</w>
+    <t type="q"></t>
+    <media
+      start="556.023"
+      end="558.601"
+      unit="s"
+    />
+    <a type="english translation">one, two, three, four squares?</a>
+  </u>
+  <u who="MBL" uID="u340">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>eh</w>
+    <w><langs><single>spa</single></langs>pasa</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Boedo</w>
+    <w><langs><single>spa</single></langs>avenida</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Boedo</w>
+    <t type="p"></t>
+    <media
+      start="559.153"
+      end="561.835"
+      unit="s"
+    />
+    <a type="english translation">uh go down Boedo Boedo Street .</a>
+  </u>
+  <u who="MBL" uID="u341">
+    <w><langs><single>spa</single></langs>te</w>
+    <w><langs><single>spa</single></langs>caminas</w>
+    <w><langs><single>spa</single></langs>así</w>
+    <w><langs><single>spa</single></langs>por</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>San_Juan</w>
+    <t type="p"></t>
+    <media
+      start="561.940"
+      end="564.250"
+      unit="s"
+    />
+    <a type="english translation">this is how you walk to San Juan .</a>
+  </u>
+  <u xml:lang="spa" who="CRS" uID="u342">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>pasa</w>
+    <w>por</w>
+    <t type="trail off"></t>
+    <media
+      start="563.760"
+      end="564.828"
+      unit="s"
+    />
+    <a type="english translation">yes go down ...</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u343">
+    <w>llegas</w>
+    <t type="trail off"></t>
+    <media
+      start="564.239"
+      end="564.697"
+      unit="s"
+    />
+    <a type="english translation">you arrive ...</a>
+  </u>
+  <u who="MBL" uID="u344">
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>croesi</w>
+    <w><langs><single>cym</single></langs>um</w>
+    <w>stryd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Boedo</w>
+    <t type="p"></t>
+    <media
+      start="565.055"
+      end="569.304"
+      unit="s"
+    />
+    <a type="english translation">you cross um Boedo Street .</a>
+  </u>
+  <u who="MBL" uID="u345">
+    <w>a</w>
+    <w>wedyn</w>
+    <w>mae</w>
+    <w>bws</w>
+    <w><langs><single>spa</single></langs>ciento</w>
+    <w><langs><single>spa</single></langs>sesenta</w>
+    <w><langs><single>spa</single></langs>para</w>
+    <w><langs><single>spa</single></langs>allá</w>
+    <pause symbolic-length="simple"/>
+    <w><langs><single>spa</single></langs>sí</w>
+    <w><langs><single>spa</single></langs>aquí</w>
+    <t type="p"></t>
+    <media
+      start="569.771"
+      end="573.637"
+      unit="s"
+    />
+    <a type="english translation">and then bus one hundred and sixty stops there, yes there .</a>
+  </u>
+  <u who="MBL" uID="u346">
+    <w><langs><single>spa</single></langs>caminas</w>
+    <w><langs><single>spa</single></langs>así</w>
+    <w><langs><single>spa</single></langs>pasas</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Boedo</w>
+    <w><langs><single>spa</single></langs>y</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Latina</w>
+    <t type="p"></t>
+    <media
+      start="573.769"
+      end="576.596"
+      unit="s"
+    />
+    <a type="english translation">you walk like this down Boedo and Latina.</a>
+  </u>
+  <u xml:lang="spa" who="CRS" uID="u347">
+    <linker type="lazy overlap mark"/>
+    <w>sí</w>
+    <w>en</w>
+    <w>la</w>
+    <w>esquina</w>
+    <w>xxx</w>
+    <t type="p"></t>
+    <media
+      start="575.829"
+      end="577.280"
+      unit="s"
+    />
+    <a type="english translation">yeah [...]</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u348">
+    <w>acaba<shortening>s</shortening></w>
+    <t type="trail off"></t>
+    <media
+      start="576.482"
+      end="577.457"
+      unit="s"
+    />
+    <a type="english translation">you end up...</a>
+  </u>
+  <u who="MBL" uID="u349">
+    <w>mynd</w>
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <w>bws</w>
+    <w>un</w>
+    <w>cant</w>
+    <w>chwech_deg</w>
+    <w>a</w>
+    <t type="trail off"></t>
+    <media
+      start="577.771"
+      end="581.864"
+      unit="s"
+    />
+    <a type="english translation">go to bus one hundred and sixty...</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u350">
+    <w>ciento</w>
+    <w>sesent<shortening>a</shortening></w>
+    <t type="p"></t>
+    <media
+      start="582.075"
+      end="582.749"
+      unit="s"
+    />
+    <a type="english translation">one hundred and sixty .</a>
+  </u>
+  <u who="CRS" uID="u351">
+    <w>cant</w>
+    <w>a</w>
+    <w>chwe_deg</w>
+    <t type="p"></t>
+    <media
+      start="582.783"
+      end="584.200"
+      unit="s"
+    />
+    <a type="english translation">one hundred and sixty .</a>
+  </u>
+  <u who="MBL" uID="u352">
+    <w>a</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Palermo</w>
+    <t type="p"></t>
+    <media
+      start="582.946"
+      end="584.037"
+      unit="s"
+    />
+    <a type="english translation">and it goes to Palermo</a>
+  </u>
+  <u who="MBL" uID="u353">
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cofio</w>
+    <w>yr</w>
+    <g><w>uh</w><k type="retracing"/></g>
+    <w>uh</w>
+    <w type="fragment">ll</w>
+    <t type="trail off"></t>
+    <media
+      start="584.759"
+      end="587.325"
+      unit="s"
+    />
+    <a type="english translation">do you remember the, uh ...</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u354">
+    <w>cómo</w>
+    <w>se</w>
+    <w>dice</w>
+    <g><w>la</w>
+    <w>vez</w><k type="retracing"/></g>
+    <w>la</w>
+    <w>vez</w>
+    <w>anterior</w>
+    <w>que</w>
+    <w>venimos</w>
+    <t type="q"></t>
+    <media
+      start="589.674"
+      end="592.554"
+      unit="s"
+    />
+    <a type="english translation">how do you say, the time, the last time that we came?</a>
+  </u>
+  <u who="MBL" uID="u355">
+    <g><w>diwetha</w>
+    <w><langs><single>cym</single></langs>um</w><k type="retracing with correction"/></g>
+    <w>y</w>
+    <w>tro</w>
+    <w>diwetha</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w>wedi</w>
+    <w>bod</w>
+    <w>yno</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cerdded</w>
+    <w>a</w>
+    <w>mae</w>
+    <w>yna</w>
+    <w>bws</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>cornel</w>
+    <t type="p"></t>
+    <media
+      start="593.123"
+      end="599.508"
+      unit="s"
+    />
+    <a type="english translation">last, um, the last time that we went there, I was walking and there was a bus in the corner</a>
+  </u>
+  <u who="CRS" uID="u356">
+    <linker type="lazy overlap mark"/>
+    <w>y</w>
+    <w>tro</w>
+    <w>diwetha</w>
+    <t type="p"></t>
+    <media
+      start="593.308"
+      end="594.034"
+      unit="s"
+    />
+    <a type="english translation">the last time</a>
+  </u>
+  <u who="CRS" uID="u357">
+    <linker type="lazy overlap mark"/>
+    <w>ia</w>
+    <t type="p"></t>
+    <media
+      start="597.511"
+      end="597.929"
+      unit="s"
+    />
+  </u>
+  <u who="CRS" uID="u358">
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cofio</w>
+    <w>rŵan</w>
+    <t type="p"></t>
+    <media
+      start="598.080"
+      end="599.078"
+      unit="s"
+    />
+    <a type="english translation">I remember now</a>
+  </u>
+  <u who="MBL" uID="u359">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="599.578"
+      end="600.599"
+      unit="s"
+    />
+    <a type="english translation">he is going</a>
+  </u>
+  <u xml:lang="spa" who="MBL" uID="u360">
+    <w>ciento</w>
+    <w>sesenta</w>
+    <t type="p"></t>
+    <media
+      start="600.878"
+      end="602.283"
+      unit="s"
+    />
+    <a type="english translation">one hundred sixty .</a>
+  </u>
+</CHAT>

@@ -1,0 +1,4942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="Patagonia36" Mediatypes="audio"
+      Font="Win95:Arial Unicode MS:-21:0"
+      Version="1.9.8"
+      Lang="cym spa eng"
+      Corpus="Patagonia"
+      Id="patagonia36"
+      Date="2009-11-09">
+  <Participants>
+    <participant
+      id="SAN"
+    name="Sandia"
+      role="Adult"
+      language="cym spa"
+      age="P84Y"
+
+      sex="female"
+
+    />
+    <participant
+      id="PAZ"
+    name="Paz"
+      role="Adult"
+      language="cym spa"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Situation">Conversation at a school in western Chubut, Argentina</comment>
+  <comment type="Date">09-NOV-2009</comment>
+  <comment type="Transcriber">Jonathan Stammers and Fraibet Aveledo, Bangor University</comment>
+  <comment type="Generic">Researcher: Peredur Davies, Bangor University</comment>
+  <comment type="Time Duration">00:11:29</comment>
+  <comment type="Generic">Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&amp;spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.</comment>
+  <comment type="Warning">N.B. PAZ's data has not been transcribed due to consent issues</comment>
+  <u who="SAN" uID="u0">
+    <w>oes</w>
+    <w>ŵyn</w>
+    <w>bach</w>
+    <w>efo</w>
+    <w>ti</w>
+    <w>eleni</w>
+    <w>oes</w>
+    <t type="q"></t>
+    <media
+      start="0.058"
+      end="1.556"
+      unit="s"
+    />
+    <a type="english translation">do you have any little lambs this year, yes?</a>
+  </u>
+  <u who="PAZ" uID="u1">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="1.503"
+      end="2.183"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u2">
+    <w>dyn</w>
+    <w>nhw</w>
+    <w>tyfu</w>
+    <t type="q"></t>
+    <media
+      start="2.230"
+      end="3.176"
+      unit="s"
+    />
+    <a type="english translation">are they growing?</a>
+  </u>
+  <u who="PAZ" uID="u3">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="3.594"
+      end="4.372"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u4">
+    <w>pryd</w>
+    <w>fydden</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>barod</w>
+    <w>i</w>
+    <w>werthu</w>
+    <t type="q"></t>
+    <media
+      start="4.279"
+      end="5.811"
+      unit="s"
+    />
+    <a type="english translation">when will they be ready to sell?</a>
+  </u>
+  <u who="PAZ" uID="u5">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="4.443"
+      end="4.965"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u6">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="6.268"
+      end="8.091"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u7">
+    <linker type="lazy overlap mark"/>
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>barod</w>
+    <w>rŵan</w>
+    <pause symbolic-length="simple"/>
+    <g><w>y</w>
+    <w>rei</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>rei</w>
+    <w>mwya</w>
+    <t type="q"></t>
+    <media
+      start="6.860"
+      end="8.832"
+      unit="s"
+    />
+    <a type="english translation">they're ready now, the biggest ones?</a>
+  </u>
+  <u who="PAZ" uID="u8">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="8.648"
+      end="9.020"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u9">
+    <w>erbyn</w>
+    <w>Nadolig</w>
+    <w>wedyn</w>
+    <t type="p"></t>
+    <media
+      start="8.973"
+      end="10.065"
+      unit="s"
+    />
+    <a type="english translation">by Christmas then.</a>
+  </u>
+  <u who="PAZ" uID="u10">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="10.200"
+      end="11.761"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u11">
+    <w>y</w>
+    <w>gweddill</w>
+    <t type="p"></t>
+    <media
+      start="11.314"
+      end="11.906"
+      unit="s"
+    />
+    <a type="english translation">the rest.</a>
+  </u>
+  <u who="SAN" uID="u12">
+    <w>pwy</w>
+    <w>bris</w>
+    <w>fydd</w>
+    <w>arnyn</w>
+    <w>nhw</w>
+    <w>eleni</w>
+    <w>tybed</w>
+    <t type="q"></t>
+    <media
+      start="12.440"
+      end="14.187"
+      unit="s"
+    />
+    <a type="english translation">what price will they be this year, I wonder?</a>
+  </u>
+  <u who="PAZ" uID="u13">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="14.698"
+      end="18.488"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u14">
+    <linker type="lazy overlap mark"/>
+    <w>pethau</w>
+    <w>eraill</w>
+    <w>wedi</w>
+    <w>codi</w>
+    <w>pris</w>
+    <w>ond</w>
+    <w>uh</w>
+    <w>yr</w>
+    <w>ŵyn</w>
+    <w>ddim</w>
+    <t type="p"></t>
+    <media
+      start="17.844"
+      end="20.067"
+      unit="s"
+    />
+    <a type="english translation">other things have gone up in price but not the lambs.</a>
+  </u>
+  <u who="PAZ" uID="u15">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="20.069"
+      end="20.498"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u16">
+    <w>faint</w>
+    <w>oedd</w>
+    <w>oen</w>
+    <w>llynedd</w>
+    <t type="q"></t>
+    <media
+      start="20.829"
+      end="22.390"
+      unit="s"
+    />
+    <a type="english translation">how much was a lamb last year?</a>
+  </u>
+  <u who="PAZ" uID="u17">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="21.019"
+      end="21.664"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u18">
+    <w>dau</w>
+    <w>gant</w>
+    <t type="q"></t>
+    <media
+      start="23.179"
+      end="24.032"
+      unit="s"
+    />
+    <a type="english translation">200?</a>
+  </u>
+  <u who="PAZ" uID="u19">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="23.690"
+      end="27.907"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u20">
+    <w>dau</w>
+    <w>gant</w>
+    <w>a</w>
+    <w>hanner</w>
+    <w>o</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>besos</w>
+    <w>yr</w>
+    <w>oen</w>
+    <t type="p"></t>
+    <media
+      start="27.998"
+      end="29.705"
+      unit="s"
+    />
+    <a type="english translation">250 pesos per lamb.</a>
+  </u>
+  <u who="PAZ" uID="u21">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="29.294"
+      end="29.724"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u22">
+    <w>dim</w>
+    <w>llawer</w>
+    <t type="p"></t>
+    <media
+      start="30.180"
+      end="30.905"
+      unit="s"
+    />
+    <a type="english translation">not much.</a>
+  </u>
+  <u who="PAZ" uID="u23">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="30.499"
+      end="32.089"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u24">
+    <w>ie</w>
+    <w>ie</w>
+    <w>dyna</w>
+    <w><shortening>y</shortening>r</w>
+    <w type="fragment">g</w>
+    <w>gwir</w>
+    <w>amdani</w>
+    <t type="p"></t>
+    <media
+      start="32.130"
+      end="34.132"
+      unit="s"
+    />
+    <a type="english translation">yes, that's the truth of it.</a>
+  </u>
+  <u who="PAZ" uID="u25">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="33.229"
+      end="33.903"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u26">
+    <w>problem</w>
+    <t type="p"></t>
+    <media
+      start="34.156"
+      end="34.788"
+      unit="s"
+    />
+    <a type="english translation">a problem</a>
+  </u>
+  <u who="SAN" uID="u27">
+    <w>ti</w>
+    <w>weld</w>
+    <w>y</w>
+    <w>cymdogion</w>
+    <w>yn_doeddech</w>
+    <t type="q"></t>
+    <media
+      start="38.286"
+      end="39.915"
+      unit="s"
+    />
+    <a type="english translation">you've seen the neighbours, haven't you?</a>
+  </u>
+  <u who="SAN" uID="u28">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Malcolm</w>
+    <w>uh</w>
+    <t type="trail off"></t>
+    <media
+      start="39.938"
+      end="41.332"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u29">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="41.425"
+      end="44.223"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u30">
+    <w>a</w>
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dal</w>
+    <w>i</w>
+    <w>helpu</w>
+    <w>ti</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>uh</w>
+    <pause symbolic-length="simple"/>
+    <w>heneiddio</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="44.823"
+      end="47.052"
+      unit="s"
+    />
+    <a type="english translation">and they're still helping you with growing old as well.</a>
+  </u>
+  <u who="PAZ" uID="u31">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="45.960"
+      end="47.458"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u32">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Malcolm</w>
+    <w>yn</w>
+    <w>cael</w>
+    <w>trafferth</w>
+    <w>i</w>
+    <w>gerdded</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>coes</w>
+    <t type="p"></t>
+    <media
+      start="47.520"
+      end="50.126"
+      unit="s"
+    />
+    <a type="english translation">Malcolm's having trouble walking with his leg.</a>
+  </u>
+  <u who="PAZ" uID="u33">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="49.210"
+      end="49.993"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u34">
+    <w>a</w>
+    <w><shortening>y</shortening>r</w>
+    <w>mab</w>
+    <w>yn</w>
+    <w>tyfu</w>
+    <w>rŵan</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="50.533"
+      end="52.368"
+      unit="s"
+    />
+    <a type="english translation">and the son growing up now as well.</a>
+  </u>
+  <u who="PAZ" uID="u35">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="51.529"
+      end="51.953"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u36">
+    <w><shortening>y</shortening>dy</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Torres</w>
+    <w><shortening>y</shortening>r</w>
+    <w>gwas</w>
+    <w>o_gwmpas</w>
+    <g><w>yr</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>dyn</w>
+    <w>sy</w>
+    <w><shortening>y</shortening>n</w>
+    <w>helpu</w>
+    <w>ti</w>
+    <w>weithiau</w>
+    <t type="q"></t>
+    <media
+      start="55.311"
+      end="58.405"
+      unit="s"
+    />
+    <a type="english translation">is Torres, the lad around, the man who helps you sometimes?</a>
+  </u>
+  <u who="PAZ" uID="u37">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="58.565"
+      end="59.464"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u38">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>a</w>
+    <w>dod</w>
+    <w>ia</w>
+    <t type="q"></t>
+    <media
+      start="59.600"
+      end="60.906"
+      unit="s"
+    />
+    <a type="english translation">he comes and goes, does he?</a>
+  </u>
+  <u who="PAZ" uID="u39">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="59.757"
+      end="61.429"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u40">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="63.029"
+      end="67.249"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u41">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="67.731"
+      end="69.327"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u42">
+    <linker type="lazy overlap mark"/>
+    <w>dim</w>
+    <w>mynd</w>
+    <w>ar</w>
+    <w>y</w>
+    <w>coed</w>
+    <w>chwaith</w>
+    <t type="q"></t>
+    <media
+      start="68.112"
+      end="69.377"
+      unit="s"
+    />
+    <a type="english translation">the wood isn't selling either?</a>
+  </u>
+  <u who="PAZ" uID="u43">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="69.382"
+      end="69.858"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u44">
+    <w>wel</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>r</w>
+    <w>nwy</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>dref</w>
+    <w><shortening>y</shortening>ma</w>
+    <w>rŵan</w>
+    <w>yn</w>
+    <w>cynhesu</w>
+    <t type="p"></t>
+    <media
+      start="69.661"
+      end="71.687"
+      unit="s"
+    />
+    <a type="english translation">well the gas in this town now is warming up.</a>
+  </u>
+  <u who="PAZ" uID="u45">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="71.162"
+      end="71.801"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u46">
+    <w>a</w>
+    <w>wedyn</w>
+    <w><shortening>dy</shortening>dy</w>
+    <w>bobl</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>prynu</w>
+    <w>coed</w>
+    <w>tân</w>
+    <t type="p"></t>
+    <media
+      start="71.682"
+      end="73.209"
+      unit="s"
+    />
+    <a type="english translation">then people don't buy firewood.</a>
+  </u>
+  <u who="SAN" uID="u47">
+    <w>dyna</w>
+    <w><shortening>y</shortening>r</w>
+    <w>gwir</w>
+    <w>amdani</w>
+    <t type="p"></t>
+    <media
+      start="73.252"
+      end="74.344"
+      unit="s"
+    />
+    <a type="english translation">that's the truth of it.</a>
+  </u>
+  <u who="PAZ" uID="u48">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="74.453"
+      end="74.903"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u49">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="74.931"
+      end="76.951"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u50">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>gwerthu</w>
+    <w>nhw</w>
+    <w>draw</w>
+    <w>yn</w>
+    <w>Rhyd_yr_Indiaid</w>
+    <t type="q"></t>
+    <media
+      start="76.986"
+      end="79.053"
+      unit="s"
+    />
+    <a type="english translation">ah, selling them over in Paso de Indios?</a>
+  </u>
+  <u who="PAZ" uID="u51">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="78.498"
+      end="78.800"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u52">
+    <w>a</w>
+    <w><shortening>dy</shortening>dy</w>
+    <w>bobl</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>prynu</w>
+    <w>nhw</w>
+    <w>chwaith</w>
+    <t type="q"></t>
+    <media
+      start="79.090"
+      end="80.780"
+      unit="s"
+    />
+    <a type="english translation">and people aren't buying them either?</a>
+  </u>
+  <u who="PAZ" uID="u53">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="81.470"
+      end="82.607"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u54">
+    <linker type="lazy overlap mark"/>
+    <w>dim</w>
+    <w>pris</w>
+    <t type="q"></t>
+    <media
+      start="81.902"
+      end="82.656"
+      unit="s"
+    />
+    <a type="english translation">no price?</a>
+  </u>
+  <u who="PAZ" uID="u55">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="82.451"
+      end="86.590"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u56">
+    <linker type="lazy overlap mark"/>
+    <w>a</w>
+    <w>dod</w>
+    <w>yn_ôl</w>
+    <g><w>yn</w>
+    <w>y</w><k type="retracing"/></g>
+    <g><w>yn</w>
+    <w>y</w><k type="retracing"/></g>
+    <w>yn</w>
+    <w>y</w>
+    <w>tryc</w>
+    <t type="p"></t>
+    <media
+      start="85.542"
+      end="87.585"
+      unit="s"
+    />
+    <a type="english translation">and come back in the truck.</a>
+  </u>
+  <u who="PAZ" uID="u57">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="87.162"
+      end="89.873"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u58">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="90.697"
+      end="92.717"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u59">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <t type="p"></t>
+    <media
+      start="90.854"
+      end="91.359"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u60">
+    <w>problem</w>
+    <t type="p"></t>
+    <media
+      start="93.771"
+      end="94.340"
+      unit="s"
+    />
+    <a type="english translation">a problem.</a>
+  </u>
+  <u who="SAN" uID="u61">
+    <w>wnest</w>
+    <w>ti</w>
+    <w>sgwrsio</w>
+    <w>efo</w>
+    <pause symbolic-length="simple"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Victor</w>
+    <w>pan</w>
+    <w>o<shortening>edde</shortening>t</w>
+    <w>ti</w>
+    <w>lawr</w>
+    <g><w>yn</w><k type="retracing"/></g>
+    <w>yn</w>
+    <w>y</w>
+    <w>dyffryn</w>
+    <t type="q"></t>
+    <media
+      start="97.699"
+      end="101.890"
+      unit="s"
+    />
+    <a type="english translation">did you talk to Victor while you were down in the valley?</a>
+  </u>
+  <u who="PAZ" uID="u62">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="102.110"
+      end="102.540"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u63">
+    <w>be</w>
+    <w>oedd</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>deud</w>
+    <t type="q"></t>
+    <media
+      start="102.592"
+      end="103.544"
+      unit="s"
+    />
+    <a type="english translation">what was he saying?</a>
+  </u>
+  <u who="SAN" uID="u64">
+    <w>sut</w>
+    <w>mae</w>
+    <w>pethau</w>
+    <w><shortening>y</shortening>n</w>
+    <w>y</w>
+    <w>ffarm</w>
+    <w>efo</w>
+    <w>fo</w>
+    <t type="q"></t>
+    <media
+      start="103.898"
+      end="105.511"
+      unit="s"
+    />
+    <a type="english translation">how are things on the farm with him?</a>
+  </u>
+  <u who="PAZ" uID="u65">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="106.815"
+      end="108.161"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u66">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="108.208"
+      end="110.234"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u67">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="110.298"
+      end="114.997"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u68">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w><shortening>we</shortening>di</w>
+    <w>llwyddo</w>
+    <g><w>eu</w><k type="best guess"/></g>
+    <w>gwerthu</w>
+    <t type="q"></t>
+    <media
+      start="114.620"
+      end="115.973"
+      unit="s"
+    />
+    <a type="english translation">he's managed to sell them?</a>
+  </u>
+  <u who="SAN" uID="u69">
+    <w>bobl</w>
+    <w>lleol</w>
+    <w>ie</w>
+    <w><shortening>y</shortening>n</w>
+    <w>prynu</w>
+    <w>rai</w>
+    <w>sy</w>
+    <w>â</w>
+    <w>ceffyl</w>
+    <w>neu</w>
+    <pause symbolic-length="simple"/>
+    <w>dafad</w>
+    <w>uh</w>
+    <t type="self interruption"></t>
+    <media
+      start="115.896"
+      end="119.347"
+      unit="s"
+    />
+    <a type="english translation">local people buying, ones with a horse or sheep, er...</a>
+  </u>
+  <u who="PAZ" uID="u70">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="119.167"
+      end="119.649"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u71">
+    <linker type="lazy overlap mark"/>
+    <w type="fragment">ni</w>
+    <w>nid</w>
+    <w>bobl</w>
+    <w>yr</w>
+    <w><langs><single>spa</single></langs>estancias</w>
+    <w>mawr</w>
+    <w>o_gwbl</w>
+    <t type="p"></t>
+    <media
+      start="119.517"
+      end="121.485"
+      unit="s"
+    />
+    <a type="english translation">not people from the big ranches at all.</a>
+  </u>
+  <u who="PAZ" uID="u72">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="120.835"
+      end="130.599"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u73">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="130.616"
+      end="133.850"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u74">
+    <w>mae</w>
+    <w><shortening>y</shortening>r</w>
+    <w>holl</w>
+    <w>sefyllfa</w>
+    <w><shortening>y</shortening>r</w>
+    <w>ffermydd</w>
+    <w>yn</w>
+    <w>newid</w>
+    <t type="p"></t>
+    <media
+      start="133.995"
+      end="135.719"
+      unit="s"
+    />
+    <a type="english translation">the whole situation of farms is changing.</a>
+  </u>
+  <u who="SAN" uID="u75">
+    <w>bobl</w>
+    <w>dre</w>
+    <w>yn</w>
+    <w>prynu</w>
+    <w>darnau</w>
+    <w>i</w>
+    <pause symbolic-length="simple"/>
+    <w>gael</w>
+    <w>tŷ</w>
+    <t type="p"></t>
+    <media
+      start="135.711"
+      end="138.207"
+      unit="s"
+    />
+    <a type="english translation">town people buying plots to have a house.</a>
+  </u>
+  <u who="PAZ" uID="u76">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="137.248"
+      end="138.995"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u77">
+    <w>tŷ</w>
+    <w>penwythnos</w>
+    <w>neu</w>
+    <w>tŷ</w>
+    <w>hólides</w>
+    <w>neu</w>
+    <w>tŷ</w>
+    <t type="trail off"></t>
+    <media
+      start="138.472"
+      end="141.009"
+      unit="s"
+    />
+    <a type="english translation">a weekend home or a holiday home or a home...</a>
+  </u>
+  <u who="PAZ" uID="u78">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="138.501"
+      end="140.812"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u79">
+    <w>a</w>
+    <w>rheina</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cadw</w>
+    <w>ryw</w>
+    <w>anifail</w>
+    <w>neu</w>
+    <w>ddau</w>
+    <w>a</w>
+    <w>rheina</w>
+    <w>sy</w>
+    <w><shortening>y</shortening>n</w>
+    <w>prynu</w>
+    <w><langs><single>spa</single></langs>borrego</w>
+    <t type="p"></t>
+    <media
+      start="141.383"
+      end="144.344"
+      unit="s"
+    />
+    <a type="english translation">and those keep an animal or two and those buy lambs.</a>
+  </u>
+  <u who="PAZ" uID="u80">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="144.373"
+      end="145.099"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u81">
+    <w>ie</w>
+    <w>gwair</w>
+    <t type="p"></t>
+    <media
+      start="144.941"
+      end="145.591"
+      unit="s"
+    />
+    <a type="english translation">yes, hay.</a>
+  </u>
+  <u who="SAN" uID="u82">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <w><shortening>dy</shortening>na</w>
+    <w>fo</w>
+    <t type="p"></t>
+    <media
+      start="145.608"
+      end="146.369"
+      unit="s"
+    />
+    <a type="english translation">oh, that's it.</a>
+  </u>
+  <u who="SAN" uID="u83">
+    <w>a</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Robina</w>
+    <w>wnest</w>
+    <w>ti</w>
+    <w>sgwrsio</w>
+    <w>efo</w>
+    <w>hi</w>
+    <w>o_gwbl</w>
+    <t type="q"></t>
+    <media
+      start="147.902"
+      end="149.632"
+      unit="s"
+    />
+    <a type="english translation">and Robina, did you talk to her at all?</a>
+  </u>
+  <u who="PAZ" uID="u84">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="149.613"
+      end="152.254"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u85">
+    <linker type="lazy overlap mark"/>
+    <w>gweld</w>
+    <w>hi</w>
+    <w>ond</w>
+    <w>ddim</w>
+    <w>sgwrsio</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="152.237"
+      end="153.456"
+      unit="s"
+    />
+    <a type="english translation">saw her but didn't talk, yes.</a>
+  </u>
+  <u who="SAN" uID="u86">
+    <w><shortening>y</shortening>dy</w>
+    <w><shortening>y</shortening>r</w>
+    <w>gwas</w>
+    <g><w>uh</w><k type="retracing reformulation"/></g>
+    <w><shortening>y</shortening>dy</w>
+    <w><shortening>y</shortening>r</w>
+    <w>uh</w>
+    <w>dyn</w>
+    <w>drws</w>
+    <w>nesa</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dal</w>
+    <w>i</w>
+    <w>weithio</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Victor</w>
+    <t type="q"></t>
+    <media
+      start="156.095"
+      end="159.694"
+      unit="s"
+    />
+    <a type="english translation">does the lad... does the man next door still work with Victor?</a>
+  </u>
+  <u who="SAN" uID="u87">
+    <w>oedd</w>
+    <w>xx</w>
+    <t type="interruption"></t>
+    <media
+      start="160.401"
+      end="161.313"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u88">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="160.642"
+      end="162.790"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u89">
+    <linker type="lazy overlap mark"/>
+    <w><shortening>dy</shortening>dy</w>
+    <w>o</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>byw</w>
+    <w>drws</w>
+    <w>nesa</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="161.691"
+      end="163.305"
+      unit="s"
+    />
+    <a type="english translation">he's not living next door, ah yes.</a>
+  </u>
+  <u who="PAZ" uID="u90">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="163.316"
+      end="164.872"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u91">
+    <w>ond</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dod</w>
+    <g><w>i</w>
+    <w type="fragment">w</w><k type="retracing with correction"/></g>
+    <g><w>i</w><k type="retracing"/></g>
+    <w>i</w>
+    <w>weithio</w>
+    <w>efo</w>
+    <t type="trail off"></t>
+    <media
+      start="164.873"
+      end="167.433"
+      unit="s"
+    />
+    <a type="english translation">but he still comes to work with...</a>
+  </u>
+  <u who="PAZ" uID="u92">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="167.285"
+      end="172.308"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u93">
+    <w>hanner</w>
+    <w>hanner</w>
+    <t type="p"></t>
+    <media
+      start="173.029"
+      end="173.893"
+      unit="s"
+    />
+    <a type="english translation">half and half</a>
+  </u>
+  <u who="PAZ" uID="u94">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="173.714"
+      end="174.131"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u95">
+    <linker type="lazy overlap mark"/>
+    <w>gweithio</w>
+    <w>am</w>
+    <w>hanner</w>
+    <w>y</w>
+    <w>cynhaea<shortening>f</shortening></w>
+    <t type="p"></t>
+    <media
+      start="174.039"
+      end="175.327"
+      unit="s"
+    />
+    <a type="english translation">working for half of the harvest.</a>
+  </u>
+  <u who="SAN" uID="u96">
+    <w>fues</w>
+    <w>i</w>
+    <w>gweld</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Angharad</w>
+    <t type="p"></t>
+    <media
+      start="179.201"
+      end="180.740"
+      unit="s"
+    />
+    <a type="english translation">I saw Angharad.</a>
+  </u>
+  <u who="SAN" uID="u97">
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <w>a</w>
+    <g><w>mae</w>
+    <w>hi</w>
+    <w>a</w>
+    <w><shortening>y</shortening>r</w>
+    <w>plant</w>
+    <w>bach</w><k type="retracing with correction"/></g>
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <t type="trail off"></t>
+    <media
+      start="181.196"
+      end="183.593"
+      unit="s"
+    />
+    <a type="english translation">in Gaiman, and she and the little children are...</a>
+  </u>
+  <u who="PAZ" uID="u98">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="q"></t>
+    <media
+      start="181.357"
+      end="181.810"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u99">
+    <linker type="other completion"/>
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="183.620"
+      end="184.300"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u100">
+    <w>ydyn</w>
+    <w>a</w>
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Martin</w>
+    <w>wrthi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>bildio</w>
+    <w>dw</w>
+    <w>i</w>
+    <w>meddwl</w>
+    <t type="p"></t>
+    <media
+      start="184.308"
+      end="186.451"
+      unit="s"
+    />
+    <a type="english translation">yes, and Martin's busy building I think.</a>
+  </u>
+  <u who="SAN" uID="u101">
+    <w>wrthi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>wneud</w>
+    <w>tŷ</w>
+    <w>ie</w>
+    <t type="q"></t>
+    <media
+      start="186.451"
+      end="187.543"
+      unit="s"
+    />
+    <a type="english translation">busy making a house, right?</a>
+  </u>
+  <u who="PAZ" uID="u102">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="186.498"
+      end="190.949"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u103">
+    <linker type="lazy overlap mark"/>
+    <w>wrthi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>adeiladu</w>
+    <w>tŷ</w>
+    <t type="p"></t>
+    <media
+      start="187.543"
+      end="188.721"
+      unit="s"
+    />
+    <a type="english translation">busy building a house.</a>
+  </u>
+  <u who="SAN" uID="u104">
+    <w>rhoid</w>
+    <w>y</w>
+    <w>to</w>
+    <w>ei</w>
+    <w>hunan</w>
+    <t type="p"></t>
+    <media
+      start="190.986"
+      end="192.124"
+      unit="s"
+    />
+    <a type="english translation">putting on the roof himself.</a>
+  </u>
+  <u who="SAN" uID="u105">
+    <w>dipyn</w>
+    <w>o</w>
+    <w>waith</w>
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <pause symbolic-length="simple"/>
+    <w>deintydd</w>
+    <w>mynd</w>
+    <w>ar</w>
+    <w>ben</w>
+    <w>to</w>
+    <w>i</w>
+    <w>roid</w>
+    <w>y</w>
+    <w>to</w>
+    <w>ond</w>
+    <w><shortening>dy</shortening>na</w>
+    <w>fo</w>
+    <t type="p"></t>
+    <media
+      start="192.321"
+      end="195.948"
+      unit="s"
+    />
+    <a type="english translation">quite a bit of work for a dentist, going up on a roof to put on the roof, but there you go.</a>
+  </u>
+  <u who="PAZ" uID="u106">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="195.442"
+      end="196.023"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u107">
+    <w>dyna</w>
+    <w><shortening>y</shortening>r</w>
+    <w>ffordd</w>
+    <w>o</w>
+    <t type="trail off"></t>
+    <media
+      start="196.251"
+      end="197.320"
+      unit="s"
+    />
+    <a type="english translation">that's the way to...</a>
+  </u>
+  <u who="PAZ" uID="u108">
+    <linker type="other completion"/>
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="197.507"
+      end="199.359"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u109">
+    <linker type="lazy overlap mark"/><linker type="self completion"/>
+    <w>i</w>
+    <w>gallu</w>
+    <w>dal</w>
+    <w>ymlaen</w>
+    <w>i</w>
+    <w>wneud</w>
+    <w>y</w>
+    <w>tŷ</w>
+    <t type="p"></t>
+    <media
+      start="199.063"
+      end="200.658"
+      unit="s"
+    />
+    <a type="english translation">... to be able to keep on making the house.</a>
+  </u>
+  <u who="PAZ" uID="u110">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="200.642"
+      end="200.973"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u111">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="201.266"
+      end="201.823"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="SAN" uID="u112">
+    <w>a</w>
+    <w>popeth</w>
+    <w>wedi</w>
+    <w>mynd</w>
+    <w>yn</w>
+    <w>ddrud</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>fel</w>
+    <w><shortening>yn</shortening>a</w>
+    <w>mae</w>
+    <t type="p"></t>
+    <media
+      start="202.074"
+      end="205.017"
+      unit="s"
+    />
+    <a type="english translation">and everything's become expensive and that's how it is.</a>
+  </u>
+  <u who="PAZ" uID="u113">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="205.396"
+      end="207.718"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u114">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>neis</w>
+    <g><w>cwrdd</w>
+    <g><w>â</w>
+    <w>nhw</w><k type="retracing with correction"/></g>
+    <w>gyda</w>
+    <w>nhw</w>
+    <pause symbolic-length="long"/><k type="retracing reformulation"/></g>
+    <w>gweld</w>
+    <w>nhw</w>
+    <w>fel</w>
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>ddeud</w>
+    <t type="p"></t>
+    <media
+      start="207.722"
+      end="211.629"
+      unit="s"
+    />
+    <a type="english translation">ah, nice to meet them, see them, as they say</a>
+  </u>
+  <comment type="Generic">pause</comment>
+  <u who="SAN" uID="u115">
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cael</w>
+    <w>sgwrs</w>
+    <w>Cymraeg</w>
+    <w>efo</w>
+    <w>rywun</w>
+    <w>arall</w>
+    <g><w>yn</w><k type="retracing with correction"/></g>
+    <g><w>yli</w>
+    <w>lle</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <pause symbolic-length="simple"/>
+    <w>hawdd</w>
+    <w>rŵan</w>
+    <w>mynd</w><k type="best guess"/></g>
+    <t type="self interruption"></t>
+    <media
+      start="218.145"
+      end="222.742"
+      unit="s"
+    />
+    <a type="english translation">are you having a chat in Welsh with anyone else in, you know, where it's easy now to go...</a>
+  </u>
+  <u who="PAZ" uID="u116">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="221.883"
+      end="224.257"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u117">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Jamie</w>
+    <t type="p"></t>
+    <media
+      start="223.500"
+      end="224.255"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u118">
+    <w>dim</w>
+    <w>ond</w>
+    <w>ni</w>
+    <t type="p"></t>
+    <media
+      start="224.539"
+      end="225.218"
+      unit="s"
+    />
+    <a type="english translation">only us.</a>
+  </u>
+  <u who="PAZ" uID="u119">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="225.252"
+      end="225.676"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u120">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Robert</w>
+    <t type="q"></t>
+    <media
+      start="225.704"
+      end="226.191"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u121">
+    <w>na</w>
+    <w>ti</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>sgw<shortening>r</shortening>sio</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Robert</w>
+    <w>byth</w>
+    <t type="p"></t>
+    <media
+      start="226.209"
+      end="227.538"
+      unit="s"
+    />
+    <a type="english translation">no, you never talk to Robert.</a>
+  </u>
+  <u who="SAN" uID="u122">
+    <w>a</w>
+    <w>pwy</w>
+    <w>Gymro</w>
+    <w>arall</w>
+    <w>sydd</w>
+    <w>xx</w>
+    <t type="q"></t>
+    <media
+      start="227.523"
+      end="229.590"
+      unit="s"
+    />
+    <a type="english translation">and what other Welshmen are [...] ?</a>
+  </u>
+  <u who="PAZ" uID="u123">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="228.446"
+      end="231.209"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u124">
+    <linker type="lazy overlap mark"/><linker type="other completion"/>
+    <w>eiriau</w>
+    <w><shortening>dy</shortening>na</w>
+    <w>i_gyd</w>
+    <t type="p"></t>
+    <media
+      start="229.787"
+      end="230.623"
+      unit="s"
+    />
+    <a type="english translation">...words, that's all.</a>
+  </u>
+  <u who="SAN" uID="u125">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="231.349"
+      end="232.196"
+      unit="s"
+    />
+    <a type="english translation">ah yes.</a>
+  </u>
+  <u who="SAN" uID="u126">
+    <w>a</w>
+    <w>hen</w>
+    <w>bobl</w>
+    <w>wedi</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="232.341"
+      end="233.461"
+      unit="s"
+    />
+    <a type="english translation">and old people have gone.</a>
+  </u>
+  <u who="SAN" uID="u127">
+    <w>a</w>
+    <w>wedyn</w>
+    <w>dwyt</w>
+    <w>ti</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>gallu</w>
+    <w>cael</w>
+    <w>llawer</w>
+    <t type="interruption"></t>
+    <media
+      start="233.455"
+      end="234.976"
+      unit="s"
+    />
+    <a type="english translation">and so you can't get much...</a>
+  </u>
+  <u who="PAZ" uID="u128">
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="233.952"
+      end="236.155"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u129">
+    <linker type="lazy overlap mark"/><linker type="other completion"/>
+    <w>oedd</w>
+    <w>yn</w>
+    <w>arfer</w>
+    <w>sgwrsio</w>
+    <w>Cymraeg</w>
+    <w>yn</w>
+    <w>naturiol</w>
+    <t type="p"></t>
+    <media
+      start="235.539"
+      end="237.298"
+      unit="s"
+    />
+    <a type="english translation">who were used to speaking Welsh naturally.</a>
+  </u>
+  <u who="SAN" uID="u130">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Geraint</w>
+    <pause symbolic-length="simple"/>
+    <w>mae</w>
+    <w>o</w>
+    <w>wedi</w>
+    <w>marw</w>
+    <w>wythnos</w>
+    <w>diwetha</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Geraint_Pritchard</w>
+    <t type="p"></t>
+    <media
+      start="237.310"
+      end="240.442"
+      unit="s"
+    />
+    <a type="english translation">Geraint, he died last week, Geraint Pritchard.</a>
+  </u>
+  <u who="PAZ" uID="u131">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="240.614"
+      end="242.391"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u132">
+    <w>teulu</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Richards</w>
+    <w>i_gyd</w>
+    <w>wedi</w>
+    <w>mynd</w>
+    <t type="p"></t>
+    <media
+      start="242.425"
+      end="243.946"
+      unit="s"
+    />
+    <a type="english translation">the whole Richards family has gone.</a>
+  </u>
+  <u who="PAZ" uID="u133">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="244.333"
+      end="245.854"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u134">
+    <g><w>oedden</w>
+    <w>nhw</w><k type="retracing"/></g>
+    <w>oedden</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>Cymreigaidd</w>
+    <pause symbolic-length="simple"/>
+    <w>iawn</w>
+    <t type="p"></t>
+    <media
+      start="245.883"
+      end="248.421"
+      unit="s"
+    />
+    <a type="english translation">they were very Welsh.</a>
+  </u>
+  <u who="SAN" uID="u135">
+    <w>ond</w>
+    <w><shortening>dy</shortening>na</w>
+    <w>fo</w>
+    <t type="p"></t>
+    <media
+      start="249.133"
+      end="249.557"
+      unit="s"
+    />
+    <a type="english translation">but that's it.</a>
+  </u>
+  <u who="SAN" uID="u136">
+    <w>llai</w>
+    <w>bob</w>
+    <w>tro</w>
+    <t type="p"></t>
+    <media
+      start="249.551"
+      end="250.201"
+      unit="s"
+    />
+    <a type="english translation">less each time.</a>
+  </u>
+  <u who="SAN" uID="u137">
+    <w>dysgwyr</w>
+    <w>sy</w>
+    <w>o_gwmpas</w>
+    <w>rŵan</w>
+    <t type="p"></t>
+    <media
+      start="250.201"
+      end="251.554"
+      unit="s"
+    />
+    <a type="english translation">it's learners who are around now.</a>
+  </u>
+  <u who="PAZ" uID="u138">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="250.768"
+      end="251.262"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u139">
+    <w>a</w>
+    <w>mwy</w>
+    <w>anodd</w>
+    <w>cael</w>
+    <w>sgwrs</w>
+    <w>Cymraeg</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>dysgwyr</w>
+    <t type="p"></t>
+    <media
+      start="252.077"
+      end="254.103"
+      unit="s"
+    />
+    <a type="english translation">and [it's] harder to have a Welsh conversation with the learners.</a>
+  </u>
+  <u who="PAZ" uID="u140">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="254.185"
+      end="254.835"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u141">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="258.137"
+      end="259.925"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u142">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="260.350"
+      end="264.213"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u143">
+    <linker type="lazy overlap mark"/><linker type="other completion"/>
+    <w>yn</w>
+    <w>Cymro</w>
+    <t type="p"></t>
+    <media
+      start="263.262"
+      end="263.871"
+      unit="s"
+    />
+    <a type="english translation">... is a Welshman.</a>
+  </u>
+  <u who="PAZ" uID="u144">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="264.190"
+      end="267.670"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u145">
+    <linker type="lazy overlap mark"/><linker type="other completion"/>
+    <w>i</w>
+    <t type="p"></t>
+    <media
+      start="265.278"
+      end="265.516"
+      unit="s"
+    />
+    <a type="english translation">to...</a>
+  </u>
+  <u who="SAN" uID="u146">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="266.709"
+      end="267.295"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="SAN" uID="u147">
+    <w>arferiad</w>
+    <t type="p"></t>
+    <media
+      start="267.744"
+      end="268.661"
+      unit="s"
+    />
+    <a type="english translation">a habit.</a>
+  </u>
+  <u who="PAZ" uID="u148">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="268.725"
+      end="269.799"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u149">
+    <w>fel</w>
+    <w><shortening>yn</shortening>a</w>
+    <w>ydw</w>
+    <w>i</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Fiona</w>
+    <w>hefyd</w>
+    <w>yn</w>
+    <w>cael</w>
+    <w>gwaith</w>
+    <pause symbolic-length="simple"/>
+    <w>cadw</w>
+    <w><shortening>y</shortening>r</w>
+    <w>sgwrs</w>
+    <w>ymlaen</w>
+    <t type="p"></t>
+    <media
+      start="269.879"
+      end="272.933"
+      unit="s"
+    />
+    <a type="english translation">I'm like that with Fiona as well, struggling to keep the conversation going.</a>
+  </u>
+  <u who="SAN" uID="u150">
+    <w>achos</w>
+    <w>bod</w>
+    <w>fi</w>
+    <w><shortening>we</shortening>di</w>
+    <w>arfer</w>
+    <w>siarad</w>
+    <w>Sbaeneg</w>
+    <w>efo</w>
+    <w>hi</w>
+    <t type="p"></t>
+    <media
+      start="273.079"
+      end="274.948"
+      unit="s"
+    />
+    <a type="english translation">because I'm used to speaking Spanish with her.</a>
+  </u>
+  <u who="PAZ" uID="u151">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="275.266"
+      end="275.661"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u152">
+    <w>arferiad</w>
+    <w>efo</w>
+    <w>hi</w>
+    <w>hefyd</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="275.649"
+      end="277.286"
+      unit="s"
+    />
+    <a type="english translation">habit with her too, yes.</a>
+  </u>
+  <u who="SAN" uID="u153">
+    <w>ond</w>
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Martin</w>
+    <w>yn</w>
+    <w>siarad</w>
+    <w>yn</w>
+    <w>dda</w>
+    <w>yn_dydy</w>
+    <t type="q"></t>
+    <media
+      start="279.536"
+      end="281.371"
+      unit="s"
+    />
+    <a type="english translation">but Martin speaks well, doesn't he?</a>
+  </u>
+  <u who="PAZ" uID="u154">
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="281.723"
+      end="283.099"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u155">
+    <linker type="other completion"/>
+    <w>ond</w>
+    <w>dim</w>
+    <w>yn</w>
+    <w>naturiol</w>
+    <e><happening>laugh</happening></e>
+    <t type="p"></t>
+    <media
+      start="283.145"
+      end="284.254"
+      unit="s"
+    />
+    <a type="english translation">... but not naturally.</a>
+  </u>
+  <u who="PAZ" uID="u156">
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="284.216"
+      end="285.841"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u157">
+    <linker type="lazy overlap mark"/>
+    <w>ie</w>
+    <w>mae</w>
+    <w>costio</w>
+    <w>xx</w>
+    <w>iddo</w>
+    <t type="p"></t>
+    <media
+      start="285.835"
+      end="287.049"
+      unit="s"
+    />
+    <a type="english translation">yes, it costs him [...].</a>
+  </u>
+  <u who="PAZ" uID="u158">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="287.143"
+      end="288.090"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u159">
+    <linker type="lazy overlap mark"/>
+    <w>ie</w>
+    <w>ie</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>r</w>
+    <w>acen</w>
+    <w>gogledd</w>
+    <w>efo</w>
+    <w>fo</w>
+    <w>rŵan</w>
+    <w><shortening>y</shortening>r</w>
+    <w>u<shortening>n</shortening></w>
+    <w>fath</w>
+    <w>â</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Angharad</w>
+    <t type="p"></t>
+    <media
+      start="287.544"
+      end="290.455"
+      unit="s"
+    />
+    <a type="english translation">yes, he's got a northern accent now, the same as Angharad.</a>
+  </u>
+  <u who="PAZ" uID="u160">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="290.066"
+      end="290.368"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u161">
+    <w>ond</w>
+    <w>uh</w>
+    <pause symbolic-length="simple"/>
+    <w><shortening>dy</shortening>dy</w>
+    <w><shortening>y</shortening>r</w>
+    <w>geirfa</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <t type="trail off"></t>
+    <media
+      start="291.160"
+      end="293.912"
+      unit="s"
+    />
+    <a type="english translation">but the vocabulary isn't...</a>
+  </u>
+  <u who="PAZ" uID="u162">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="294.531"
+      end="295.379"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u163">
+    <w>siarad</w>
+    <w>yn</w>
+    <w>ara<shortening>f</shortening></w>
+    <w>deg</w>
+    <w>ia</w>
+    <w>a</w>
+    <w>chwilio</w>
+    <w>am</w>
+    <w>y</w>
+    <w>geiriau</w>
+    <w>fath</w>
+    <w>o</w>
+    <w>beth</w>
+    <pause symbolic-length="simple"/>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="295.542"
+      end="298.607"
+      unit="s"
+    />
+    <a type="english translation">speaking slowly, and searching for the words, kind of thing, yes.</a>
+  </u>
+  <u who="PAZ" uID="u164">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="297.872"
+      end="298.517"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u165">
+    <w>ond</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dda</w>
+    <w>iawn</w>
+    <w>fel</w>
+    <w>mae</w>
+    <w>o</w>
+    <w>wedi</w>
+    <w>dysgu</w>
+    <t type="p"></t>
+    <media
+      start="299.527"
+      end="301.356"
+      unit="s"
+    />
+    <a type="english translation">but he's very good the way he's learned.</a>
+  </u>
+  <u who="PAZ" uID="u166">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="301.282"
+      end="301.781"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u167">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="306.247"
+      end="311.312"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u168">
+    <w>ie</w>
+    <pause symbolic-length="simple"/>
+    <w>termau</w>
+    <w>gwahanol</w>
+    <w>geiriau</w>
+    <w>gwahanol</w>
+    <t type="p"></t>
+    <media
+      start="311.520"
+      end="314.027"
+      unit="s"
+    />
+    <a type="english translation">yes, different terms, different words.</a>
+  </u>
+  <u who="PAZ" uID="u169">
+    <w>www</w>
+    <t type="trail off"></t>
+    <media
+      start="314.747"
+      end="317.929"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u170">
+    <w>www</w>
+    <t type="trail off"></t>
+    <media
+      start="318.891"
+      end="324.070"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u171">
+    <linker type="other completion"/>
+    <w>defnyddiau</w>
+    <w>i_gyd</w>
+    <t type="p"></t>
+    <media
+      start="324.411"
+      end="325.444"
+      unit="s"
+    />
+    <a type="english translation">... all the materials.</a>
+  </u>
+  <u who="PAZ" uID="u172">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="325.350"
+      end="327.858"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u173">
+    <w>mae</w>
+    <g><w>geiriau</w><k type="retracing"/></g>
+    <w>geiriau</w>
+    <w>mwy</w>
+    <w><langs><single>eng</single></langs>specific</w>
+    <t type="p"></t>
+    <media
+      start="329.453"
+      end="332.099"
+      unit="s"
+    />
+    <a type="english translation">there are more specific words.</a>
+  </u>
+  <u who="PAZ" uID="u174">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="331.959"
+      end="332.244"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u175">
+    <linker type="lazy overlap mark"/>
+    <w>felly</w>
+    <w>mae</w>
+    <w>anodd</w>
+    <w>i</w>
+    <t type="interruption"></t>
+    <media
+      start="332.104"
+      end="333.119"
+      unit="s"
+    />
+    <a type="english translation">so it's hard to...</a>
+  </u>
+  <u who="PAZ" uID="u176">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="332.328"
+      end="335.288"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u177">
+    <linker type="lazy overlap mark"/><linker type="other completion"/>
+    <w>am</w>
+    <w>am</w>
+    <w>am</w>
+    <w>xx</w>
+    <w>neu</w>
+    <w>am</w>
+    <t type="trail off"></t>
+    <media
+      start="334.554"
+      end="336.690"
+      unit="s"
+    />
+    <a type="english translation">to [...] or to...</a>
+  </u>
+  <u who="SAN" uID="u178">
+    <w>ie</w>
+    <w>fel</w>
+    <w><shortening>yn</shortening>a</w>
+    <w>mae</w>
+    <t type="p"></t>
+    <media
+      start="337.626"
+      end="339.130"
+      unit="s"
+    />
+    <a type="english translation">yes, that's how it is.</a>
+  </u>
+  <u who="SAN" uID="u179">
+    <w>wel</w>
+    <w>pan</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>r</w>
+    <w>Cymry</w>
+    <w>yn</w>
+    <w>dod</w>
+    <g><w>wel</w><k type="best guess"/></g>
+    <w>maen</w>
+    <w>nhw</w>
+    <w>chwilio</w>
+    <w>am</w>
+    <w>eiriau</w>
+    <w>weithiau</w>
+    <t type="p"></t>
+    <media
+      start="339.674"
+      end="342.501"
+      unit="s"
+    />
+    <a type="english translation">well, when the Welsh come, they're sometimes searching for words</a>
+  </u>
+  <u who="SAN" uID="u180">
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>troi</w>
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <w>Saesneg</w>
+    <w>i</w>
+    <w>ddeud</w>
+    <w>nhw</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="342.496"
+      end="344.139"
+      unit="s"
+    />
+    <a type="english translation">they switch to English to say them too.</a>
+  </u>
+  <u who="PAZ" uID="u181">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="343.881"
+      end="344.532"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u182">
+    <w>a</w>
+    <w>dan</w>
+    <w>ni</w>
+    <w><shortening>y</shortening>n</w>
+    <w>troi</w>
+    <w>yma</w>
+    <w>i</w>
+    <w><shortening>y</shortening>r</w>
+    <w>Sbaeneg</w>
+    <g><w>i</w><k type="retracing"/></g>
+    <w>i</w>
+    <w>ddeud</w>
+    <w>yr</w>
+    <w>un</w>
+    <w type="fragment">k</w>
+    <pause symbolic-length="simple"/>
+    <w>geiriau</w>
+    <t type="p"></t>
+    <media
+      start="344.549"
+      end="348.142"
+      unit="s"
+    />
+    <a type="english translation">and we switch here to Spanish to say the same words.</a>
+  </u>
+  <u who="PAZ" uID="u183">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="346.090"
+      end="346.427"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u184">
+    <w>wnest</w>
+    <w>ti</w>
+    <w>gyfarfod</w>
+    <w>criw</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Elwy</w>
+    <w>eleni</w>
+    <t type="q"></t>
+    <media
+      start="352.069"
+      end="354.379"
+      unit="s"
+    />
+    <a type="english translation">did you meet the Elwy group this year?</a>
+  </u>
+  <u who="SAN" uID="u185">
+    <w>na</w>
+    <g><w>achos</w><k type="best guess"/></g>
+    <w>yn</w>
+    <w>yr</w>
+    <t type="interruption"></t>
+    <media
+      start="354.376"
+      end="355.224"
+      unit="s"
+    />
+    <a type="english translation">no, because, in the...</a>
+  </u>
+  <u who="PAZ" uID="u186">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="355.154"
+      end="355.607"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u187">
+    <w>yn</w>
+    <w>y</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <w>wnest</w>
+    <w>ti</w>
+    <w>gweld</w>
+    <w>nhw</w>
+    <w>wedyn</w>
+    <t type="q"></t>
+    <media
+      start="355.601"
+      end="357.116"
+      unit="s"
+    />
+    <a type="english translation">was it in Gaiman you saw them after?</a>
+  </u>
+  <u who="PAZ" uID="u188">
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="357.087"
+      end="360.147"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u189">
+    <linker type="lazy overlap mark"/>
+    <w>dim</w>
+    <w>sgwrsio</w>
+    <w>efo</w>
+    <w>nhw</w>
+    <t type="p"></t>
+    <media
+      start="358.312"
+      end="359.253"
+      unit="s"
+    />
+    <a type="english translation">...didn't talk to them.</a>
+  </u>
+  <u who="SAN" uID="u190">
+    <linker type="other completion"/>
+    <w>pwy</w>
+    <w>oedd</w>
+    <w>pwy</w>
+    <w>yna</w>
+    <t type="p"></t>
+    <media
+      start="360.153"
+      end="361.067"
+      unit="s"
+    />
+    <a type="english translation">...who was who there.</a>
+  </u>
+  <u who="PAZ" uID="u191">
+    <linker type="self completion"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="360.774"
+      end="361.395"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u192">
+    <w>pawb</w>
+    <w>efo</w>
+    <w>ei_gilydd</w>
+    <g><w>yn</w>
+    <w>yr</w><k type="retracing"/></g>
+    <w>yn</w>
+    <w>y</w>
+    <w>neuadd</w>
+    <t type="p"></t>
+    <media
+      start="361.238"
+      end="362.945"
+      unit="s"
+    />
+    <a type="english translation">everyone together in the hall.</a>
+  </u>
+  <u who="PAZ" uID="u193">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="363.564"
+      end="367.430"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u194">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w>ie</w>
+    <w>wnes</w>
+    <w>i</w>
+    <w>weld</w>
+    <w>o</w>
+    <w>fan</w>
+    <w><shortening>y</shortening>na</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="367.548"
+      end="369.364"
+      unit="s"
+    />
+    <a type="english translation">oh yes, I saw him there too.</a>
+  </u>
+  <u who="SAN" uID="u195">
+    <w>a</w>
+    <w>ddaethon</w>
+    <w>ni</w>
+    <w>syth</w>
+    <w>ar</w>
+    <w>i_fyny</w>
+    <w>wedyn</w>
+    <w>i</w>
+    <pause symbolic-length="very long"/>
+    <w>cychwyn</w>
+    <g><w>am</w><k type="retracing"/></g>
+    <w>am</w>
+    <w>adre</w>
+    <w>yn</w>
+    <w>syth</w>
+    <w>ar_ôl</w>
+    <w>y</w>
+    <w>gymanfa</w>
+    <t type="p"></t>
+    <media
+      start="369.832"
+      end="376.188"
+      unit="s"
+    />
+    <a type="english translation">and we got straight up afterwards to start for home, straight after the "cymanfa" [assembly].</a>
+  </u>
+  <u who="PAZ" uID="u196">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="374.026"
+      end="374.769"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">pause</comment>
+  <u who="SAN" uID="u197">
+    <w>ti</w>
+    <w><shortening>we</shortening>di</w>
+    <w>gweld</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Elin_Mai</w>
+    <w>yn</w>
+    <w>diweddar</w>
+    <t type="q"></t>
+    <media
+      start="385.902"
+      end="387.173"
+      unit="s"
+    />
+    <a type="english translation">have you seen Elin Mai lately?</a>
+  </u>
+  <u who="SAN" uID="u198">
+    <w>mae</w>
+    <w>hi</w>
+    <g><w>yn</w><k type="retracing reformulation"/></g>
+    <pause symbolic-length="simple"/>
+    <w>cael</w>
+    <w>dod</w>
+    <w>adre</w>
+    <w>mae</w>
+    <t type="p"></t>
+    <media
+      start="387.178"
+      end="389.105"
+      unit="s"
+    />
+    <a type="english translation">she's... she's allowed to come home.</a>
+  </u>
+  <u who="PAZ" uID="u199">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="387.899"
+      end="388.712"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u200">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="389.059"
+      end="389.680"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u201">
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>Cymraeg</w>
+    <w>efo</w>
+    <w>hi</w>
+    <w>pan</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>gweld</w>
+    <w>hi</w>
+    <t type="q"></t>
+    <media
+      start="389.631"
+      end="391.315"
+      unit="s"
+    />
+    <a type="english translation">do you talk Welsh with her when you see her?</a>
+  </u>
+  <u who="PAZ" uID="u202">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="390.821"
+      end="391.338"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u203">
+    <w>ydy</w>
+    <w>un</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <g><w>rei</w><k type="retracing with correction"/></g>
+    <w>ychydig</w>
+    <w>rei</w>
+    <w>eraill</w>
+    <w>wyt</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <pause symbolic-length="simple"/>
+    <w>gallu</w>
+    <w>sgwrsio</w>
+    <t type="p"></t>
+    <media
+      start="391.410"
+      end="394.429"
+      unit="s"
+    />
+    <a type="english translation">yes, one of the few others you can talk to.</a>
+  </u>
+  <u who="PAZ" uID="u204">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="392.947"
+      end="395.356"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u205">
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gwen</w>
+    <w>wedyn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Ellis</w>
+    <t type="p"></t>
+    <media
+      start="395.704"
+      end="397.013"
+      unit="s"
+    />
+    <a type="english translation">then there's Gwen Ellis.</a>
+  </u>
+  <u who="SAN" uID="u206">
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Heulwen</w>
+    <w>yn</w>
+    <w>cael</w>
+    <w>sgwrs</w>
+    <w>Cymraeg</w>
+    <w>efo</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gwen</w>
+    <w>pan</w>
+    <w>mae</w>
+    <w>hi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cwrdd</w>
+    <w>â</w>
+    <w>hi</w>
+    <t type="p"></t>
+    <media
+      start="397.036"
+      end="399.532"
+      unit="s"
+    />
+    <a type="english translation">Heulwen has a Welsh conversation with Gwen when she meets her.</a>
+  </u>
+  <u who="SAN" uID="u207">
+    <w>ond</w>
+    <w><shortening>y</shortening>chydig</w>
+    <w>o</w>
+    <w>bobl</w>
+    <w>sy</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>yn</w>
+    <w>naturiol</w>
+    <w>erbyn</w>
+    <w>hyn</w>
+    <t type="p"></t>
+    <media
+      start="399.722"
+      end="402.537"
+      unit="s"
+    />
+    <a type="english translation">but few people speak it naturally by now.</a>
+  </u>
+  <u who="SAN" uID="u208">
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Llinos</w>
+    <w>yn</w>
+    <w>fan</w>
+    <w><shortening>y</shortening>na</w>
+    <w>ochr</w>
+    <w>arall</w>
+    <w>yn</w>
+    <pause symbolic-length="simple"/>
+    <w>isio</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>weld</w>
+    <pause symbolic-length="long"/>
+    <w>uh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Emyr</w>
+    <t type="p"></t>
+    <media
+      start="404.293"
+      end="410.104"
+      unit="s"
+    />
+    <a type="english translation">Llinos there on the other side wants to go and see Emyr.</a>
+  </u>
+  <u who="SAN" uID="u209">
+    <w>achos</w>
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mynd</w>
+    <w>fyny</w>
+    <w>i</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Neuquén</w>
+    <w>at</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Osian</w>
+    <pause symbolic-length="long"/>
+    <w>dydd</w>
+    <w>Mercher</w>
+    <t type="p"></t>
+    <media
+      start="410.113"
+      end="414.175"
+      unit="s"
+    />
+    <a type="english translation">because he's going up to Neuquén to see Osian on Wednesday.</a>
+  </u>
+  <u who="PAZ" uID="u210">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="414.396"
+      end="415.859"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u211">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <w>mae</w>
+    <t type="interruption"></t>
+    <media
+      start="415.582"
+      end="416.267"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u212">
+    <w>uh</w>
+    <w>siŵr</w>
+    <w>o</w>
+    <w>fod</w>
+    <w>hi</w>
+    <t type="p"></t>
+    <media
+      start="416.316"
+      end="417.541"
+      unit="s"
+    />
+    <a type="english translation">er, I'm sure she does.</a>
+  </u>
+  <u who="SAN" uID="u213">
+    <w>gawn</w>
+    <w>ni</w>
+    <w>weld</w>
+    <w>gawn</w>
+    <t type="self interruption"></t>
+    <media
+      start="417.535"
+      end="418.441"
+      unit="s"
+    />
+    <a type="english translation">we'll see, we'll...</a>
+  </u>
+  <u who="SAN" uID="u214">
+    <w>a</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siŵr</w>
+    <w>bod</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Selena_Ferrari</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="418.404"
+      end="420.116"
+      unit="s"
+    />
+    <a type="english translation">and I'm sure Selena Ferrari does too.</a>
+  </u>
+  <u who="SAN" uID="u215">
+    <w>a</w>
+    <w>wedyn</w>
+    <w>mae</w>
+    <w>mynd</w>
+    <w><shortening>y</shortening>n_ôl</w>
+    <w>wedyn</w>
+    <w>i</w>
+    <w>weld</w>
+    <w>xxx</w>
+    <w>yn</w>
+    <w>lle</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Armando</w>
+    <w>i</w>
+    <w>fynd</w>
+    <w>i</w>
+    <w>aros</w>
+    <w>at</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Maria_Carmen</w>
+    <t type="p"></t>
+    <media
+      start="420.424"
+      end="424.308"
+      unit="s"
+    />
+    <a type="english translation">and then she's going back after [...] in Armando's place, to stay with Maria-Carmen.</a>
+  </u>
+  <u who="PAZ" uID="u216">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="424.711"
+      end="425.536"
+      unit="s"
+    />
+  </u>
+  <u xml:lang="spa" who="SAN" uID="u217">
+    <w>así</w>
+    <w>que</w>
+    <t type="trail off"></t>
+    <media
+      start="425.973"
+      end="427.355"
+      unit="s"
+    />
+    <a type="english translation">so...</a>
+  </u>
+  <u who="SAN" uID="u218">
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>siarad</w>
+    <w>dipyn</w>
+    <w>o</w>
+    <w>Gymraeg</w>
+    <w>wrth_gwrs</w>
+    <t type="p"></t>
+    <media
+      start="428.945"
+      end="430.791"
+      unit="s"
+    />
+    <a type="english translation">they speak a bit of Welsh, of course.</a>
+  </u>
+  <u who="SAN" uID="u219">
+    <w>a</w>
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Osian</w>
+    <w>wedi</w>
+    <w>dysgu</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dda</w>
+    <t type="p"></t>
+    <media
+      start="430.801"
+      end="432.084"
+      unit="s"
+    />
+    <a type="english translation">and Osian has learnt well.</a>
+  </u>
+  <u who="SAN" uID="u220">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>mwynhau</w>
+    <t type="p"></t>
+    <media
+      start="432.072"
+      end="433.007"
+      unit="s"
+    />
+    <a type="english translation">he's enjoying it.</a>
+  </u>
+  <u who="PAZ" uID="u221">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="432.484"
+      end="433.512"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u222">
+    <linker type="lazy overlap mark"/>
+    <w>mae</w>
+    <w>o</w>
+    <w>o</w>
+    <w>ddifri</w>
+    <w>yn</w>
+    <w>trio</w>
+    <pause symbolic-length="simple"/>
+    <w>cadw</w>
+    <w><shortening>y</shortening>r</w>
+    <w>peth</w>
+    <w>i</w>
+    <w>fynd</w>
+    <w>er</w>
+    <w>bod</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>byw</w>
+    <w>yn</w>
+    <t type="interruption"></t>
+    <media
+      start="433.404"
+      end="437.520"
+      unit="s"
+    />
+    <a type="english translation">he really is trying to keep it up even though he lives in...</a>
+  </u>
+  <u who="PAZ" uID="u223">
+    <linker type="other completion"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="437.482"
+      end="437.992"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u224">
+    <linker type="self completion"/>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Neuquén</w>
+    <w>yn</w>
+    <w>bell</w>
+    <w>oddi</w>
+    <g><w>fa<shortening>n</shortening></w>
+    <w><shortening>y</shortening>ma</w>
+    <w>ydy</w><k type="best guess"/></g>
+    <t type="p"></t>
+    <media
+      start="437.958"
+      end="439.786"
+      unit="s"
+    />
+    <a type="english translation">in Neuquén, a long way from here, yes.</a>
+  </u>
+  <u who="PAZ" uID="u225">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="440.053"
+      end="441.162"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u226">
+    <linker type="other completion"/>
+    <w>o_gwmpas</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="441.144"
+      end="441.940"
+      unit="s"
+    />
+    <a type="english translation">...around, yes.</a>
+  </u>
+  <u who="SAN" uID="u227">
+    <w>dyna</w>
+    <w>sy</w>
+    <w><shortening>y</shortening>n</w>
+    <w>anodd</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="441.940"
+      end="443.002"
+      unit="s"
+    />
+    <a type="english translation">that's what's hard, yes.</a>
+  </u>
+  <u who="PAZ" uID="u228">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="445.057"
+      end="446.160"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u229">
+    <w>uh</w>
+    <w>wel</w>
+    <w>rywbeth</w>
+    <w>i</w>
+    <w>wneud</w>
+    <w>â</w>
+    <w>twristiaeth</w>
+    <t type="p"></t>
+    <media
+      start="446.121"
+      end="448.356"
+      unit="s"
+    />
+    <a type="english translation">er, well, something to do with tourism.</a>
+  </u>
+  <u who="SAN" uID="u230">
+    <w>uh</w>
+    <w>o</w>
+    <w><shortening>we</shortening>di</w>
+    <w>stydio</w>
+    <w>fel</w>
+    <w><langs><single>spa</single></langs>licenciatura</w>
+    <w><langs><single>spa</single></langs>en</w>
+    <w><langs><single>spa</single></langs>turismo</w>
+    <w>dw</w>
+    <w>i</w>
+    <w>meddwl</w>
+    <t type="p"></t>
+    <media
+      start="448.356"
+      end="451.450"
+      unit="s"
+    />
+    <a type="english translation">uh, has studied to graduate in tourism I think.</a>
+  </u>
+  <u who="SAN" uID="u231">
+    <w>uh</w>
+    <pause symbolic-length="simple"/>
+    <w>dw</w>
+    <w>i</w>
+    <w>credu</w>
+    <g><w>mae</w><k type="retracing"/></g>
+    <w>mae</w>
+    <w>o</w>
+    <t type="self interruption"></t>
+    <media
+      start="451.923"
+      end="453.665"
+      unit="s"
+    />
+    <a type="english translation">I believe he...</a>
+  </u>
+  <u who="SAN" uID="u232">
+    <w>uh</w>
+    <w>wel</w>
+    <w>rywbeth</w>
+    <w>i</w>
+    <w>wneud</w>
+    <w>efo</w>
+    <w>ymwelwyr</w>
+    <pause symbolic-length="simple"/>
+    <w>hotels</w>
+    <w>neu</w>
+    <w>be<shortening>th</shortening></w>
+    <w>bynnag</w>
+    <t type="p"></t>
+    <media
+      start="454.325"
+      end="458.334"
+      unit="s"
+    />
+    <a type="english translation">uh, well, something to do with visitors, hotels or whatever.</a>
+  </u>
+  <u who="SAN" uID="u233">
+    <w>gwestai</w>
+    <t type="p"></t>
+    <media
+      start="459.305"
+      end="460.228"
+      unit="s"
+    />
+    <a type="english translation">hotels.</a>
+  </u>
+  <u who="SAN" uID="u234">
+    <w>neu</w>
+    <w>mynd</w>
+    <w>â</w>
+    <w>bobl</w>
+    <w>o_gwmpas</w>
+    <w><shortening>e</shortening>fallai</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w><langs><single>spa</single></langs>guía</w>
+    <t type="p"></t>
+    <media
+      start="461.005"
+      end="463.384"
+      unit="s"
+    />
+    <a type="english translation">or taking people around maybe, with the guide.</a>
+  </u>
+  <u who="SAN" uID="u235">
+    <w><langs><single>spa</single></langs>guía</w>
+    <w><langs><single>spa</single></langs>de</w>
+    <w><langs><single>spa</single></langs>turismo</w>
+    <w>rywbeth</w>
+    <w>fel</w>
+    <w><shortening>yn</shortening>a</w>
+    <w>mae</w>
+    <w>o</w>
+    <t type="p"></t>
+    <media
+      start="463.332"
+      end="465.062"
+      unit="s"
+    />
+    <a type="english translation">tourist guide, he's something like that.</a>
+  </u>
+  <u who="PAZ" uID="u236">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="465.003"
+      end="465.920"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u237">
+    <w><shortening>d</shortening>w</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w><shortening>gwy</shortening>bod</w>
+    <w>faint</w>
+    <w>o</w>
+    <w>hynna</w>
+    <w>sy</w>
+    <w>mynd</w>
+    <w><shortening>y</shortening>mlaen</w>
+    <w>yn</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Neuquén</w>
+    <w>ond</w>
+    <pause symbolic-length="simple"/>
+    <w>fan</w>
+    <w><shortening>y</shortening>na</w>
+    <w>mae</w>
+    <w>o</w>
+    <t type="p"></t>
+    <media
+      start="466.723"
+      end="469.580"
+      unit="s"
+    />
+    <a type="english translation">I don't know how much of that goes on in Neuquén, but that's where he is.</a>
+  </u>
+  <u who="PAZ" uID="u238">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="469.471"
+      end="470.347"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u239">
+    <w>oes</w>
+    <w>mae</w>
+    <w>dau</w>
+    <w>o</w>
+    <w>blant</w>
+    <w>efo</w>
+    <w>fo</w>
+    <t type="p"></t>
+    <media
+      start="470.664"
+      end="471.860"
+      unit="s"
+    />
+    <a type="english translation">yes, he has two children.</a>
+  </u>
+  <u who="PAZ" uID="u240">
+    <w>ww</w>
+    <t type="q"></t>
+    <media
+      start="471.901"
+      end="472.365"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u241">
+    <w>oes</w>
+    <w>dau</w>
+    <w>o</w>
+    <w>blant</w>
+    <t type="p"></t>
+    <media
+      start="472.261"
+      end="473.480"
+      unit="s"
+    />
+    <a type="english translation">yes, two children.</a>
+  </u>
+  <comment type="Generic">pause</comment>
+  <u who="SAN" uID="u242">
+    <w>wnest</w>
+    <w>ti</w>
+    <w>fwynhau</w>
+    <w><shortening>y</shortening>r</w>
+    <w><shortening>ei</shortening>steddfod</w>
+    <t type="q"></t>
+    <media
+      start="485.192"
+      end="486.586"
+      unit="s"
+    />
+    <a type="english translation">did you enjoy the eisteddfod?</a>
+  </u>
+  <u who="PAZ" uID="u243">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="486.780"
+      end="487.785"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u244">
+    <w>corau</w>
+    <w>braidd</w>
+    <w>yn</w>
+    <pause symbolic-length="simple"/>
+    <w>blino</w>
+    <w>ar</w>
+    <w>y</w>
+    <w>diwedd</w>
+    <t type="p"></t>
+    <media
+      start="488.180"
+      end="490.682"
+      unit="s"
+    />
+    <a type="english translation">choirs [were] pretty tired by the end.</a>
+  </u>
+  <u who="PAZ" uID="u245">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="490.320"
+      end="490.935"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u246">
+    <w>nos</w>
+    <w>fyny</w>
+    <t type="p"></t>
+    <media
+      start="490.970"
+      end="491.686"
+      unit="s"
+    />
+    <a type="english translation">the night [is] up...</a>
+  </u>
+  <u who="PAZ" uID="u247">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="491.079"
+      end="492.055"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u248">
+    <linker type="self completion"/>
+    <w>i_gyd</w>
+    <w>wedi</w>
+    <w>blino</w>
+    <w>erbyn</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>r</w>
+    <w>corau</w>
+    <w>yn</w>
+    <w>dod</w>
+    <w>i</w>
+    <w>golwg</w>
+    <t type="p"></t>
+    <media
+      start="491.645"
+      end="493.881"
+      unit="s"
+    />
+    <a type="english translation">... all tired before the choirs came into view.</a>
+  </u>
+  <u who="PAZ" uID="u249">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="494.716"
+      end="498.708"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u250">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="498.771"
+      end="499.491"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="SAN" uID="u251">
+    <w>oedd</w>
+    <w>adrodd</w>
+    <w>ymlaen</w>
+    <t type="q"></t>
+    <media
+      start="500.914"
+      end="501.866"
+      unit="s"
+    />
+    <a type="english translation">was there some recitation?</a>
+  </u>
+  <u who="SAN" uID="u252">
+    <w>ambell</w>
+    <w>i</w>
+    <w>adroddiad</w>
+    <t type="q"></t>
+    <media
+      start="501.866"
+      end="502.795"
+      unit="s"
+    />
+    <a type="english translation">the odd recitation?</a>
+  </u>
+  <u who="SAN" uID="u253">
+    <w>oedd</w>
+    <t type="p"></t>
+    <media
+      start="502.795"
+      end="503.155"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="SAN" uID="u254">
+    <w>oeddet</w>
+    <w>ti</w>
+    <w><shortening>y</shortening>na</w>
+    <w>pan</w>
+    <w>oedd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Nia</w>
+    <w>adrodd</w>
+    <t type="q"></t>
+    <media
+      start="503.152"
+      end="504.481"
+      unit="s"
+    />
+    <a type="english translation">were you there when Nia was reciting?</a>
+  </u>
+  <u who="PAZ" uID="u255">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="503.433"
+      end="503.933"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u256">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="504.385"
+      end="504.832"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u257">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="506.391"
+      end="509.136"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u258">
+    <w>oedd</w>
+    <w>uh</w>
+    <t type="self interruption"></t>
+    <media
+      start="511.319"
+      end="512.062"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u259">
+    <w>be</w>
+    <w><shortening>y</shortening>dy</w>
+    <w>enw</w>
+    <w>hi</w>
+    <w>um</w>
+    <t type="trail off question"></t>
+    <media
+      start="512.062"
+      end="513.566"
+      unit="s"
+    />
+    <a type="english translation">what's her name, um..?</a>
+  </u>
+  <u who="SAN" uID="u260">
+    <w>gwraig</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Tom_Owen</w>
+    <w>be</w>
+    <w><shortening>y</shortening>dy</w>
+    <w>enw</w>
+    <t type="q"></t>
+    <media
+      start="515.196"
+      end="516.822"
+      unit="s"
+    />
+    <a type="english translation">Tom Owen's wife, what's [her] name?</a>
+  </u>
+  <u who="PAZ" uID="u261">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="516.802"
+      end="517.243"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u262">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Catrin</w>
+    <w>wedi</w>
+    <w>methu</w>
+    <w>cael</w>
+    <w>amser</w>
+    <w>i</w>
+    <w>ddysgu</w>
+    <w>adroddiadau</w>
+    <w>Cymraeg</w>
+    <w><shortening>e</shortening>leni</w>
+    <t type="p"></t>
+    <media
+      start="517.278"
+      end="520.594"
+      unit="s"
+    />
+    <a type="english translation">Catrin's not had time to learn any Welsh recitations this year.</a>
+  </u>
+  <u who="SAN" uID="u263">
+    <w>oedd</w>
+    <w>hi</w>
+    <w>mor</w>
+    <w>brysur</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>côr</w>
+    <w>achos</w>
+    <w>bod</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Lowri</w>
+    <w>i_ffwrdd</w>
+    <t type="p"></t>
+    <media
+      start="520.906"
+      end="523.373"
+      unit="s"
+    />
+    <a type="english translation">she was so busy with the choir because Lowri was away.</a>
+  </u>
+  <u who="SAN" uID="u264">
+    <w>neu</w>
+    <w>oedd</w>
+    <w>hi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>arfer</w>
+    <w>cystadlu</w>
+    <w>efo</w>
+    <w><shortening>y</shortening>r</w>
+    <w>adrodd</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="523.884"
+      end="526.293"
+      unit="s"
+    />
+    <a type="english translation">or else she usually competes with the recitation too.</a>
+  </u>
+  <u who="PAZ" uID="u265">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="525.389"
+      end="526.312"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u266">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="526.640"
+      end="528.021"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u267">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="527.992"
+      end="528.538"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="SAN" uID="u268">
+    <w>Côr_Madryn</w>
+    <w><shortening>g</shortening>aeth</w>
+    <w>un</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <pause symbolic-length="simple"/>
+    <w>gwobrau</w>
+    <t type="p"></t>
+    <media
+      start="530.476"
+      end="532.949"
+      unit="s"
+    />
+    <a type="english translation">Côr Madryn got one of the prizes.</a>
+  </u>
+  <u who="SAN" uID="u269">
+    <w>uh</w>
+    <w>canu</w>
+    <w>Sbaeneg</w>
+    <w>wrth_gwrs</w>
+    <w>maen</w>
+    <w>nhw</w>
+    <w><shortening>y</shortening>n</w>
+    <w>cael</w>
+    <w>wobr</w>
+    <t type="p"></t>
+    <media
+      start="533.071"
+      end="535.214"
+      unit="s"
+    />
+    <a type="english translation">for Spanish singing, of course, they get a prize.</a>
+  </u>
+  <u who="PAZ" uID="u270">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="535.178"
+      end="536.606"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u271">
+    <linker type="lazy overlap mark"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>oh</w>
+    <w>siŵr</w>
+    <w>mai</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <t type="p"></t>
+    <media
+      start="536.235"
+      end="537.712"
+      unit="s"
+    />
+    <a type="english translation">oh, Gaiman, I'm sure.</a>
+  </u>
+  <u who="PAZ" uID="u272">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="537.416"
+      end="537.863"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u273">
+    <w>ie</w>
+    <w>ie</w>
+    <w>neu</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Trelew</w>
+    <w>dw</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>cofio</w>
+    <t type="p"></t>
+    <media
+      start="537.816"
+      end="539.931"
+      unit="s"
+    />
+    <a type="english translation">yes, or Trelew, I can't remember.</a>
+  </u>
+  <u who="SAN" uID="u274">
+    <w>na</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Gaiman</w>
+    <w>siŵr</w>
+    <t type="p"></t>
+    <media
+      start="539.926"
+      end="541.185"
+      unit="s"
+    />
+    <a type="english translation">no, Gaiman, I'm sure.</a>
+  </u>
+  <u who="PAZ" uID="u275">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="544.527"
+      end="548.062"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u276">
+    <w>uh</w>
+    <w>Cymraeg</w>
+    <w>ie</w>
+    <w>ie</w>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="547.810"
+      end="549.536"
+      unit="s"
+    />
+    <a type="english translation">Welsh, yes.</a>
+  </u>
+  <u who="SAN" uID="u277">
+    <w>achos</w>
+    <w>oes</w>
+    <t type="self interruption"></t>
+    <media
+      start="549.574"
+      end="550.189"
+      unit="s"
+    />
+    <a type="english translation">because...</a>
+  </u>
+  <u who="SAN" uID="u278">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>ah</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Seion</w>
+    <w><shortening>e</shortening>fallai</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Esquel</w>
+    <t type="p"></t>
+    <media
+      start="550.183"
+      end="551.445"
+      unit="s"
+    />
+    <a type="english translation">ah, maybe Seion, from Esquel.</a>
+  </u>
+  <u who="SAN" uID="u279">
+    <w>dw</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>gwybod</w>
+    <w>os</w>
+    <w>oedden</w>
+    <w>nhw</w>
+    <t type="self interruption"></t>
+    <media
+      start="551.445"
+      end="552.151"
+      unit="s"
+    />
+    <a type="english translation">I don't know whether they...</a>
+  </u>
+  <u who="SAN" uID="u280">
+    <w>na</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>y</w>
+    <w>brif</w>
+    <w>un</w>
+    <w>chwaith</w>
+    <t type="p"></t>
+    <media
+      start="552.151"
+      end="553.230"
+      unit="s"
+    />
+    <a type="english translation">no, not in the main one either.</a>
+  </u>
+  <u who="PAZ" uID="u281">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="553.111"
+      end="554.504"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u282">
+    <linker type="lazy overlap mark"/>
+    <w>na</w>
+    <w>na</w>
+    <t type="p"></t>
+    <media
+      start="553.590"
+      end="554.304"
+      unit="s"
+    />
+    <a type="english translation">no, no.</a>
+  </u>
+  <u who="SAN" uID="u283">
+    <w>ti</w>
+    <w><shortening>y</shortening>n</w>
+    <w>darllen</w>
+    <w>rei</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <w>llyfrau</w>
+    <w><shortening>y</shortening>ma</w>
+    <w>sydd</w>
+    <w>fan</w>
+    <w>hyn</w>
+    <g><w>yn</w>
+    <w>yr</w><k type="retracing"/></g>
+    <w>yn</w>
+    <w>yr</w>
+    <pause symbolic-length="simple"/>
+    <w>llyfrgell</w>
+    <t type="q"></t>
+    <media
+      start="556.886"
+      end="560.735"
+      unit="s"
+    />
+    <a type="english translation">are you reading some of these books that are here in the library?</a>
+  </u>
+  <u who="PAZ" uID="u284">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="558.913"
+      end="562.068"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u285">
+    <w>oes</w>
+    <w>lot</w>
+    <w>o</w>
+    <w>lyfrau</w>
+    <w>plant</w>
+    <w>yn</w>
+    <w>fan</w>
+    <w>hyn</w>
+    <t type="p"></t>
+    <media
+      start="562.097"
+      end="563.769"
+      unit="s"
+    />
+    <a type="english translation">yes, a lot of childrens' books here.</a>
+  </u>
+  <u who="PAZ" uID="u286">
+    <w>www</w>
+    <t type="interruption"></t>
+    <media
+      start="563.872"
+      end="564.848"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u287">
+    <w>mae</w>
+    <w>plant</w>
+    <w>yn</w>
+    <w>dwlu</w>
+    <w>ar</w>
+    <w>gweld</w>
+    <w>lluniau</w>
+    <g><w type="fragment">m</w><k type="retracing with correction"/></g>
+    <pause symbolic-length="long"/>
+    <w>llyfrau</w>
+    <w>llawn</w>
+    <w>lluniau</w>
+    <w>lliwgar</w>
+    <t type="p"></t>
+    <media
+      start="564.488"
+      end="569.206"
+      unit="s"
+    />
+    <a type="english translation">children love to see books full of colourful pictures.</a>
+  </u>
+  <u who="PAZ" uID="u288">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="569.269"
+      end="570.296"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u289">
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Grace</w>
+    <w>newydd</w>
+    <w>ddod</w>
+    <w>â</w>
+    <w>llyfr</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Kyffin_Williams</w>
+    <w>yn_ôl</w>
+    <w>i</w>
+    <w>fi</w>
+    <t type="p"></t>
+    <media
+      start="572.294"
+      end="574.993"
+      unit="s"
+    />
+    <a type="english translation">Grace has just brought Kyffin Williams's book back to me.</a>
+  </u>
+  <u who="SAN" uID="u290">
+    <w>oedd</w>
+    <w>hi</w>
+    <w><shortening>we</shortening>di</w>
+    <w>xx</w>
+    <w>mwynhau</w>
+    <w><shortening>y</shortening>r</w>
+    <w>bennod</w>
+    <g><w>am</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <w>am</w>
+    <w>y</w>
+    <w>Wladfa</w>
+    <t type="p"></t>
+    <media
+      start="574.962"
+      end="577.813"
+      unit="s"
+    />
+    <a type="english translation">she'd enjoyed the chapter on the [Patagonian] Settlement.</a>
+  </u>
+  <u who="SAN" uID="u291">
+    <w>ond</w>
+    <w>wrth_gwrs</w>
+    <w>Saesneg</w>
+    <w>mae</w>
+    <w>o</w>
+    <t type="p"></t>
+    <media
+      start="577.813"
+      end="579.184"
+      unit="s"
+    />
+    <a type="english translation">but of course, it's in English.</a>
+  </u>
+  <u who="SAN" uID="u292">
+    <w>ond</w>
+    <t type="interruption"></t>
+    <media
+      start="579.303"
+      end="580.064"
+      unit="s"
+    />
+    <a type="english translation">but...</a>
+  </u>
+  <u who="PAZ" uID="u293">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="580.070"
+      end="581.289"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u294">
+    <w>llyfr</w>
+    <w>oedd</w>
+    <g><w>efo</w>
+    <w>ni</w><k type="retracing with correction"/></g>
+    <w>efo</w>
+    <w>dad</w>
+    <w>adre</w>
+    <w>oedd</w>
+    <w>o</w>
+    <t type="p"></t>
+    <media
+      start="581.288"
+      end="583.290"
+      unit="s"
+    />
+    <a type="english translation">it was a book that we had... that Dad had at home.</a>
+  </u>
+  <u who="SAN" uID="u295">
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>we</shortening>di</w>
+    <t type="interruption"></t>
+    <media
+      start="583.397"
+      end="583.815"
+      unit="s"
+    />
+    <a type="english translation">I've...</a>
+  </u>
+  <u who="PAZ" uID="u296">
+    <linker type="lazy overlap mark"/>
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="583.552"
+      end="584.552"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u297">
+    <w>oedd</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>ar_hyd</w>
+    <w>yr</w>
+    <w>amser</w>
+    <g><w>yn</w>
+    <w>yr</w><k type="retracing"/></g>
+    <w>yn</w>
+    <w>y</w>
+    <w>llyfrgell</w>
+    <t type="p"></t>
+    <media
+      start="584.527"
+      end="586.754"
+      unit="s"
+    />
+    <a type="english translation">it was in the library the whole time.</a>
+  </u>
+  <u who="SAN" uID="u298">
+    <w>oedd</w>
+    <w>o</w>
+    <w><shortening>we</shortening>di</w>
+    <w>gyrru</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n_ôl</w>
+    <g><w>adeg</w><k type="retracing with correction"/></g>
+    <pause symbolic-length="simple"/>
+    <w>ar_ôl</w>
+    <w>iddo</w>
+    <w>ysgrifennu</w>
+    <t type="p"></t>
+    <media
+      start="586.718"
+      end="589.704"
+      unit="s"
+    />
+    <a type="english translation">he'd sent it back after he wrote it.</a>
+  </u>
+  <u who="SAN" uID="u299">
+    <w>rei</w>
+    <w>blynyddoedd</w>
+    <w>ar_ôl</w>
+    <w>iddo</w>
+    <w>ddod</w>
+    <w>yma</w>
+    <w>wnaeth</w>
+    <w>o</w>
+    <w><shortening>y</shortening>sgrifennu</w>
+    <w>o</w>
+    <t type="p"></t>
+    <media
+      start="589.703"
+      end="591.739"
+      unit="s"
+    />
+    <a type="english translation">he wrote it some years after he came here.</a>
+  </u>
+  <u who="SAN" uID="u300">
+    <w>a</w>
+    <w>wnaeth</w>
+    <w>o</w>
+    <w>yrru</w>
+    <w>copi</w>
+    <t type="p"></t>
+    <media
+      start="591.733"
+      end="592.591"
+      unit="s"
+    />
+    <a type="english translation">and he sent a copy.</a>
+  </u>
+  <u who="PAZ" uID="u301">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="592.631"
+      end="593.311"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u302">
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="593.299"
+      end="593.682"
+      unit="s"
+    />
+    <a type="english translation">yes.</a>
+  </u>
+  <u who="SAN" uID="u303">
+    <w>chwe_deg</w>
+    <w>wyth</w>
+    <w>oedd</w>
+    <w>yma</w>
+    <w>felly</w>
+    <w>tua</w>
+    <w><shortening>y</shortening>r</w>
+    <w>saithdegau</w>
+    <w>rywbryd</w>
+    <g><w>oedd</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w><k type="retracing with correction"/></g>
+    <w>oedd</w>
+    <w>y</w>
+    <w>llyfr</w>
+    <w>yma</w>
+    <w><shortening>y</shortening>n</w>
+    <w>dod</w>
+    <w>allan</w>
+    <t type="p"></t>
+    <media
+      start="594.315"
+      end="598.130"
+      unit="s"
+    />
+    <a type="english translation">it was 1968 when he was here, so around the seventies this book came out.</a>
+  </u>
+  <u who="SAN" uID="u304">
+    <w>a</w>
+    <w>mae</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Grace</w>
+    <w>wedi</w>
+    <w>gofyn</w>
+    <w>i</w>
+    <w>fi</w>
+    <w>am</w>
+    <w>llyfr</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Valmai</w>
+    <t type="p"></t>
+    <media
+      start="600.130"
+      end="602.916"
+      unit="s"
+    />
+    <a type="english translation">and Grace has asked me for Valmai's book.</a>
+  </u>
+  <u who="SAN" uID="u305">
+    <w>uh</w>
+    <w>mae</w>
+    <w>o</w>
+    <w>gen</w>
+    <w>i</w>
+    <w>yn</w>
+    <w>rhywle</w>
+    <t type="p"></t>
+    <media
+      start="603.694"
+      end="605.517"
+      unit="s"
+    />
+    <a type="english translation">er, I have it somewhere.</a>
+  </u>
+  <u who="SAN" uID="u306">
+    <w>ond</w>
+    <w>dw</w>
+    <w>i</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>cofio</w>
+    <w>weld</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>diweddar</w>
+    <t type="p"></t>
+    <media
+      start="605.708"
+      end="607.008"
+      unit="s"
+    />
+    <a type="english translation">but I don't remember seeing it lately.</a>
+  </u>
+  <u who="SAN" uID="u307">
+    <w>ond</w>
+    <w>mae</w>
+    <g><w>efo</w>
+    <w>llyfrau</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <w>efo</w>
+    <g><w>ll<shortening>yfrau</shortening></w><k type="retracing with correction"/></g>
+    <w>hen</w>
+    <w>lyfrau</w>
+    <w>anti</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Mair</w>
+    <w>dw</w>
+    <w>i</w>
+    <w>meddwl</w>
+    <t type="p"></t>
+    <media
+      start="607.002"
+      end="610.174"
+      unit="s"
+    />
+    <a type="english translation">but it's with Auntie Mair's old books I think.</a>
+  </u>
+  <u who="SAN" uID="u308">
+    <w>mae</w>
+    <w>raid</w>
+    <w>fi</w>
+    <w>chwilio</w>
+    <w>amdano</w>
+    <t type="p"></t>
+    <media
+      start="610.179"
+      end="611.212"
+      unit="s"
+    />
+    <a type="english translation">I have to look for it.</a>
+  </u>
+  <u who="PAZ" uID="u309">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="611.564"
+      end="612.824"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u310">
+    <w>yn</w>
+    <t type="self interruption"></t>
+    <media
+      start="612.868"
+      end="613.268"
+      unit="s"
+    />
+    <a type="english translation">in...</a>
+  </u>
+  <u who="SAN" uID="u311">
+    <w>ie</w>
+    <w>hi</w>
+    <w>oedd</w>
+    <w><shortening>y</shortening>n</w>
+    <w>byw</w>
+    <w><shortening>y</shortening>n</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Caergwrle</w>
+    <w>fan</w>
+    <w><shortening>y</shortening>na</w>
+    <t type="p"></t>
+    <media
+      start="613.274"
+      end="614.923"
+      unit="s"
+    />
+    <a type="english translation">yes, she lived there in Caergwrle.</a>
+  </u>
+  <u who="SAN" uID="u312">
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>lle</w>
+    <w>oedd</w>
+    <w>y</w>
+    <w>diddordeb</w>
+    <w>achos</w>
+    <w>oedd</w>
+    <w>hi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>byw</w>
+    <g><w>yn</w>
+    <w>yr</w>
+    <w>un</w>
+    <w>dre</w><k type="retracing with correction"/></g>
+    <w>yn</w>
+    <w>yr</w>
+    <w>un</w>
+    <w>pentre</w>
+    <t type="p"></t>
+    <media
+      start="614.918"
+      end="618.231"
+      unit="s"
+    />
+    <a type="english translation">and where the interest was, because she used to live in the same town, in the same village.</a>
+  </u>
+  <u who="PAZ" uID="u313">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="617.808"
+      end="618.800"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u314">
+    <linker type="lazy overlap mark"/>
+    <w>ond</w>
+    <w>doedd</w>
+    <w>ddim</w>
+    <w>yn</w>
+    <w>nabod</w>
+    <w>hi</w>
+    <t type="p"></t>
+    <media
+      start="618.253"
+      end="619.304"
+      unit="s"
+    />
+    <a type="english translation">but she didn't know her.</a>
+  </u>
+  <u who="SAN" uID="u315">
+    <w>yr</w>
+    <w>adeg</w>
+    <w>hynny</w>
+    <w>wrth_gwrs</w>
+    <w>oedd</w>
+    <w>hi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>fach</w>
+    <t type="p"></t>
+    <media
+      start="619.501"
+      end="620.935"
+      unit="s"
+    />
+    <a type="english translation">she was little then, of course.</a>
+  </u>
+  <u who="PAZ" uID="u316">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="620.340"
+      end="620.898"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u317">
+    <w>a</w>
+    <w>mae</w>
+    <w><shortening>we</shortening>di</w>
+    <w>marw</w>
+    <w>ers</w>
+    <w>blynyddoedd</w>
+    <w>rŵan</w>
+    <t type="p"></t>
+    <media
+      start="621.080"
+      end="622.369"
+      unit="s"
+    />
+    <a type="english translation">she's been dead for years now.</a>
+  </u>
+  <u who="SAN" uID="u318">
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Caergwrle</w>
+    <w>wrth</w>
+    <w>ochr</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Wrecsam</w>
+    <t type="p"></t>
+    <media
+      start="623.471"
+      end="625.294"
+      unit="s"
+    />
+    <a type="english translation">Caergwrle next to Wrexham.</a>
+  </u>
+  <u who="PAZ" uID="u319">
+    <w>www</w>
+    <t type="q"></t>
+    <media
+      start="625.293"
+      end="626.936"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u320">
+    <w>uh</w>
+    <w>hanes</w>
+    <w>bywyd</w>
+    <w>y</w>
+    <w type="fragment">d</w>
+    <w>uh</w>
+    <t type="trail off"></t>
+    <media
+      start="627.010"
+      end="629.350"
+      unit="s"
+    />
+    <a type="english translation">er, the life story of...</a>
+  </u>
+  <u who="PAZ" uID="u321">
+    <linker type="lazy overlap mark"/><linker type="other completion"/>
+    <w>ww</w>
+    <t type="q"></t>
+    <media
+      start="628.967"
+      end="629.448"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u322">
+    <linker type="self completion"/>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Valmai</w>
+    <w type="fragment">g</w>
+    <t type="self interruption"></t>
+    <media
+      start="630.513"
+      end="631.389"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u323">
+    <w>atgofion</w>
+    <t type="p"></t>
+    <media
+      start="631.366"
+      end="632.069"
+      unit="s"
+    />
+    <a type="english translation">recollections.</a>
+  </u>
+  <u who="SAN" uID="u324">
+    <quotation><g><w>atgofion</w></g></quotation>
+    <w>neu</w>
+    <w><shortening>ry</shortening>wbeth</w>
+    <w>fel</w>
+    <w><shortening>yn</shortening>a</w>
+    <w><shortening>y</shortening>dy</w>
+    <g><w>enw</w>
+    <w><shortening>y</shortening>r</w>
+    <w>lle</w><k type="retracing with correction"/></g>
+    <w>enw</w>
+    <w><shortening>y</shortening>r</w>
+    <w>llyfr</w>
+    <t type="p"></t>
+    <media
+      start="632.065"
+      end="634.666"
+      unit="s"
+    />
+    <a type="english translation">"atgofion" or something like that is the name of the place... the name of the book</a>
+  </u>
+  <u who="PAZ" uID="u325">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="632.109"
+      end="632.544"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u326">
+    <w>a</w>
+    <w>wedyn</w>
+    <w>mae</w>
+    <w>llyfr</w>
+    <w>newydd</w>
+    <w>wedi</w>
+    <w>dod</w>
+    <w>allan</w>
+    <w>llyfr</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Mari_Emlyn</w>
+    <t type="p"></t>
+    <media
+      start="635.850"
+      end="638.793"
+      unit="s"
+    />
+    <a type="english translation">and then a new book has come out, Mari Emlyn's book.</a>
+  </u>
+  <u who="SAN" uID="u327">
+    <w>uh</w>
+    <quotation><g><w>llythyrau</w>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <w>Wladfa</w></g></quotation>
+    <w>neu</w>
+    <w><shortening>ry</shortening>wbeth</w>
+    <t type="p"></t>
+    <media
+      start="639.329"
+      end="640.838"
+      unit="s"
+    />
+    <a type="english translation">um, "letters from the [Patagonian] Settlement" or something.</a>
+  </u>
+  <u who="SAN" uID="u328">
+    <w>a</w>
+    <w>mae</w>
+    <w>hi</w>
+    <w>mynd</w>
+    <w>i</w>
+    <w>basio</w>
+    <w>fo</w>
+    <w>i</w>
+    <w>fi</w>
+    <w>pan</w>
+    <w>geith</w>
+    <w>hi</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n_ôl</w>
+    <w>rŵan</w>
+    <w>dydd</w>
+    <w>Mercher</w>
+    <t type="p"></t>
+    <media
+      start="640.837"
+      end="643.569"
+      unit="s"
+    />
+    <a type="english translation">and she's going to pass it on to me when she gets it back now on Wednesday.</a>
+  </u>
+  <u who="SAN" uID="u329">
+    <w>mae</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>diddorol</w>
+    <w>iawn</w>
+    <w>meddai</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Grace</w>
+    <t type="p"></t>
+    <media
+      start="643.820"
+      end="645.318"
+      unit="s"
+    />
+    <a type="english translation">it's very interesting, Grace says.</a>
+  </u>
+  <u who="SAN" uID="u330">
+    <w>hen</w>
+    <w>hen</w>
+    <w>lyfrau</w>
+    <w>a</w>
+    <w>llythyrau</w>
+    <w><shortening>y</shortening>dy</w>
+    <w>rhan</w>
+    <w>fwya</w>
+    <w>o<shortening>ho</shortening>nyn</w>
+    <w>nhw</w>
+    <w>dw</w>
+    <w>i</w>
+    <w>meddwl</w>
+    <t type="p"></t>
+    <media
+      start="645.515"
+      end="648.319"
+      unit="s"
+    />
+    <a type="english translation">most of them are very old books and letters I think.</a>
+  </u>
+  <u who="PAZ" uID="u331">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="645.553"
+      end="645.913"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u332">
+    <w>doth</w>
+    <g><w>hi</w><k type="retracing reformulation"/></g>
+    <w>ddoth</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Mari_Emlyn</w>
+    <w>merch</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Sian_Emlyn</w>
+    <w>yma</w>
+    <pause symbolic-length="simple"/>
+    <w>i</w>
+    <w>gasglu</w>
+    <pause symbolic-length="simple"/>
+    <w>uh</w>
+    <w>llythyrau</w>
+    <t type="p"></t>
+    <media
+      start="648.609"
+      end="654.198"
+      unit="s"
+    />
+    <a type="english translation">Mari Emlyn, Sian Emlyn's daughter, came here to collect letters.</a>
+  </u>
+  <u who="PAZ" uID="u333">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="652.571"
+      end="653.802"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u334">
+    <w>bobl</w>
+    <w>yn</w>
+    <w>benthyg</w>
+    <w>nhw</w>
+    <w>iddi</w>
+    <t type="p"></t>
+    <media
+      start="654.199"
+      end="655.604"
+      unit="s"
+    />
+    <a type="english translation">people lent them to her.</a>
+  </u>
+  <u who="SAN" uID="u335">
+    <w>a</w>
+    <w>hi</w>
+    <w><shortening>y</shortening>n</w>
+    <w>wneud</w>
+    <pause symbolic-length="simple"/>
+    <w>llyfr</w>
+    <w>allan</w>
+    <g><w>o</w>
+    <w><shortening>y</shortening>r</w><k type="retracing"/></g>
+    <w>o</w>
+    <w><shortening>y</shortening>r</w>
+    <w>llythyrau</w>
+    <w><shortening>y</shortening>ma</w>
+    <t type="p"></t>
+    <media
+      start="655.917"
+      end="659.614"
+      unit="s"
+    />
+    <a type="english translation">and she made a book out of these letters.</a>
+  </u>
+  <u who="PAZ" uID="u336">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="trail off"></t>
+    <media
+      start="658.482"
+      end="658.883"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u337">
+    <linker type="self completion"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="659.422"
+      end="659.811"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u338">
+    <w>a</w>
+    <w>bod</w>
+    <w>o</w>
+    <w><shortening>y</shortening>n</w>
+    <w>ddiddorol</w>
+    <w>medden</w>
+    <w>nhw</w>
+    <t type="p"></t>
+    <media
+      start="659.820"
+      end="661.004"
+      unit="s"
+    />
+    <a type="english translation">and it's interesting, they say.</a>
+  </u>
+  <u who="SAN" uID="u339">
+    <w>mae</w>
+    <w>raid</w>
+    <w>gwybod</w>
+    <w>sut</w>
+    <w>i</w>
+    <w>wneud</w>
+    <w>rywbeth</w>
+    <w>fel</w>
+    <w><shortening>yn</shortening>a</w>
+    <w>hefyd</w>
+    <w>yn_dydy</w>
+    <t type="p"></t>
+    <media
+      start="661.507"
+      end="663.341"
+      unit="s"
+    />
+    <a type="english translation">you have to know how to do something like that too, don't you?</a>
+  </u>
+  <u who="SAN" uID="u340">
+    <w>mae</w>
+    <g><w><shortening>y</shortening>n</w><k type="retracing reformulation"/></g>
+    <w><shortening>dy</shortening>dy</w>
+    <w>o</w>
+    <w><shortening>ddi</shortening>m</w>
+    <w>yn</w>
+    <w>hawdd</w>
+    <w>jyst</w>
+    <pause symbolic-length="simple"/>
+    <w>casglu</w>
+    <w>llythyrau</w>
+    <g><w>heb</w><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <w>heb</w>
+    <w>fath</w>
+    <w>o</w>
+    <w>rhyw</w>
+    <w>syniad</w>
+    <w>arbennig</w>
+    <t type="p"></t>
+    <media
+      start="663.335"
+      end="668.747"
+      unit="s"
+    />
+    <a type="english translation">it's not easy to just collect letters without any kind of particular idea.</a>
+  </u>
+  <u who="PAZ" uID="u341">
+    <linker type="lazy overlap mark"/>
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="664.570"
+      end="664.994"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u342">
+    <w>ond</w>
+    <w>oedd</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Grace</w>
+    <w>wedi</w>
+    <g><w>cael</w>
+    <w>o</w><k type="best guess"/></g>
+    <w><shortening>y</shortening>n</w>
+    <w>diddorol</w>
+    <w>iawn</w>
+    <w>meddai</w>
+    <w>hi</w>
+    <t type="p"></t>
+    <media
+      start="669.047"
+      end="671.317"
+      unit="s"
+    />
+    <a type="english translation">but Grace found it very interesting, she said.</a>
+  </u>
+  <u who="SAN" uID="u343">
+    <w>a</w>
+    <w>mae</w>
+    <w><shortening>y</shortening>na</w>
+    <w>ddau</w>
+    <w>lyfr</w>
+    <w>arall</w>
+    <w>i</w>
+    <w>w</w>
+    <w>darllen</w>
+    <w>hefyd</w>
+    <t type="p"></t>
+    <media
+      start="672.249"
+      end="673.816"
+      unit="s"
+    />
+    <a type="english translation">and there are two other books to read as well.</a>
+  </u>
+  <u who="SAN" uID="u344">
+    <w>uh</w>
+    <w>un</w>
+    <w>ydy</w>
+    <w>uh</w>
+    <w>hunangofiant</w>
+    <w>um</w>
+    <t type="trail off"></t>
+    <media
+      start="673.806"
+      end="676.488"
+      unit="s"
+    />
+    <a type="english translation">one is the autobiography of...</a>
+  </u>
+  <u who="SAN" uID="u345">
+    <w>be</w>
+    <w><shortening>y</shortening>dy</w>
+    <w>enw</w>
+    <w>fo</w>
+    <t type="q"></t>
+    <media
+      start="677.189"
+      end="678.060"
+      unit="s"
+    />
+    <a type="english translation">what's his name?</a>
+  </u>
+  <u who="SAN" uID="u346">
+    <w>uh</w>
+    <w><langs><ambiguous>cym spa</ambiguous></langs>Elvey_Macdonald</w>
+    <t type="p"></t>
+    <media
+      start="678.100"
+      end="679.772"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u347">
+    <quotation><g><w>llwch</w></g></quotation>
+    <w>ydy</w>
+    <w>enw</w>
+    <w>hwnna</w>
+    <t type="p"></t>
+    <media
+      start="679.805"
+      end="681.013"
+      unit="s"
+    />
+    <a type="english translation">that one is called "llwch" [dust].</a>
+  </u>
+  <u who="PAZ" uID="u348">
+    <w>ww</w>
+    <t type="p"></t>
+    <media
+      start="680.534"
+      end="680.917"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u349">
+    <w><shortening>ba</shortening>swn</w>
+    <w>i</w>
+    <w>licio</w>
+    <w>gael</w>
+    <w>gafael</w>
+    <w>ar</w>
+    <w>y</w>
+    <w>llyfr</w>
+    <w>yna</w>
+    <w>hefyd</w>
+    <w>i</w>
+    <w>ddarllen</w>
+    <w>o</w>
+    <t type="p"></t>
+    <media
+      start="681.066"
+      end="683.371"
+      unit="s"
+    />
+    <a type="english translation">I'd like to get hold of that book too, to read it.</a>
+  </u>
+  <u who="PAZ" uID="u350">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="683.402"
+      end="685.027"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u351">
+    <quotation><g><w>hirdaith</w></g></quotation>
+    <w>ie</w>
+    <t type="p"></t>
+    <media
+      start="685.010"
+      end="685.875"
+      unit="s"
+    />
+    <a type="english translation">"hirdaith" [trek], yes.</a>
+  </u>
+  <u who="PAZ" uID="u352">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="685.855"
+      end="686.784"
+      unit="s"
+    />
+  </u>
+  <u who="PAZ" uID="u353">
+    <w>www</w>
+    <t type="p"></t>
+    <media
+      start="686.802"
+      end="688.201"
+      unit="s"
+    />
+  </u>
+  <u who="SAN" uID="u354">
+    <linker type="lazy overlap mark"/>
+    <w>reit</w>
+    <t type="p"></t>
+    <media
+      start="686.952"
+      end="687.220"
+      unit="s"
+    />
+    <a type="english translation">right.</a>
+  </u>
+  <u who="SAN" uID="u355">
+    <w><shortening>dy</shortening>na</w>
+    <w>fo</w>
+    <t type="p"></t>
+    <media
+      start="688.201"
+      end="688.688"
+      unit="s"
+    />
+    <a type="english translation">that's it.</a>
+  </u>
+</CHAT>

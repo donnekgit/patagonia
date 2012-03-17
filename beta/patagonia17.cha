@@ -3,8 +3,8 @@
 @Begin
 @Languages:	spa, cym
 @Participants:	BER Berta Adult, HON  Adult
-@ID:	cym, spa|Patagonia|BER|21;|female|||Adult||
-@ID:	cym, spa|Patagonia|HON|18;|female|||Adult||
+@ID:	cym, spa|Patagonia|BER|21;|female|||Adult|||
+@ID:	cym, spa|Patagonia|HON|18;|female|||Adult|||
 @Situation:	Conversation in a primary school in eastern Chubut, Argentina
 @Date:	06-NOV-2009
 @Transcriber:	Fraibet Aveledo and M.Carmen Parafita Couto, Bangor University
@@ -341,7 +341,7 @@
 %eng:	xxx many.
 *BER:	+< sí . 337500_337873
 %eng:	yes .
-*BER:	hay que cumplir con el ... 337292_338642
+*BER:	hay que cumplir con el +... 337292_338642
 %eng:	we must fulfil the xxx.
 *BER:	porque el ritmo viste que es agotador ? 339238_341263
 %eng:	because the pace is exhausting .
@@ -919,7 +919,7 @@
 %eng:	and Bea's husband was going to give him the names of the wood we have here.
 *BER:	<si esa> [///] le iban a hacer contacto si esa madera sirve para hacer clocs@s:cym . 842390_846491
 %eng:	yes, they were going to contact him to check if this wood is good for making clogs.
-*BER:	así que iban a (.) [/] a fijarse en ese +... 846955_849232
+*BER:	así que iban a [/] (.) a fijarse en ese +... 846955_849232
 %eng:	so, they were going to check in this ...
 *BER:	igual no me la imagino a Bea@s:cym&spa haciendo clocs@s:cym yo eh . 849238_851227
 %eng:	anyway, I can't imagine Bea making clogs.
@@ -1313,7 +1313,7 @@
 %eng:	I ...
 *HON:	+< me parece que no . 1134364_1135303
 %eng:	I don't think so.
-*BER:	yo voy a dar mi (.) [/] mi [/] mi voto por ahí al [/] al señor presidente de la comisión . 1135322_1140943
+*BER:	yo voy a dar mi [/] (.) mi [/] mi voto por ahí al [/] al señor presidente de la comisión . 1135322_1140943
 %eng:	I am going to give my opinion to the president of the commission .
 *HON:	+< dale . 1136874_1137364
 %eng:	do it.

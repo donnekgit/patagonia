@@ -3,10 +3,10 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	DOM Domingo Adult, MAD Madeira Adult, MRC Marco Adult, LIA Liani Adult
-@ID:	cym, spa|Patagonia|DOM|71;|male|||Adult||
-@ID:	cym, spa|Patagonia|MAD|55;|female|||Adult||
-@ID:	cym, spa|Patagonia|MRC|?;|male|||Adult||
-@ID:	cym, spa|Patagonia|LIA|76;|female|||Adult||
+@ID:	cym, spa|Patagonia|DOM|71;|male|||Adult|||
+@ID:	cym, spa|Patagonia|MAD|55;|female|||Adult|||
+@ID:	cym, spa|Patagonia|MRC||male|||Adult|||
+@ID:	cym, spa|Patagonia|LIA|76;|female|||Adult|||
 @Situation:	Conversation at Marco's office in Trevelin, Argentina
 @Date:	17-NOV-2009
 @Transcriber:	Marika Fusser and Fraibet Avaledo, Bangor University
@@ -227,7 +227,7 @@
 %eng:	we will have to work out who will carry the flag and who will speak and who...
 *MAD:	+< ah@s:cym&spa ti (y)n iawn . 270633_272020
 %eng:	ah, you're right.
-*MAD:	<yn yr> [/] yn yr uh (.) <yn y (..)> [/] yn y cyfarfod arbennig (.) [/] arbennig yma yn yr +/. 272020_278944
+*MAD:	<yn yr> [/] yn yr uh (.) <yn y (..)> [/] yn y cyfarfod arbennig [/] (.) arbennig yma yn yr +/. 272020_278944
 %eng:	in the special meeting here in the...
 *DOM:	+< xxx (...) yn y cyfarfod uh y [/] y ddiwrnod hynny ynde . 272317_278963
 %eng:	xxx, in the meeting on that day.
@@ -257,7 +257,7 @@
 %eng:	ah.
 *MAD:	a +/. 303233_303852
 %eng:	and...
-*DOM:	+< el@s:spa que@s:spa preparó@s:spa hoy@s:spa el@s:spa (.) [//] preparó@s:spa hoy@s:spa el@s:spa té@s:cym&spa . 303240_305889
+*DOM:	+< el@s:spa que@s:spa preparó@s:spa hoy@s:spa el@s:spa [//] (.) preparó@s:spa hoy@s:spa el@s:spa té@s:cym&spa . 303240_305889
 %eng:	the one who made tea today.
 *MAD:	ie . 305830_306422
 %eng:	yes.
@@ -572,7 +572,7 @@
 %eng:	we couldn't wake up Danny on the morning of the first eisteddfod, could we?
 *DOM:	+< ie . 619448_619858
 %eng:	yes.
-*MAD:	a <roedden ni (y)n &t uh tynnu> [//] o(edde)t ti neu [/] neu Camilo@s:cym&spa <yn &t> [/] yn tynnu (..) graig (.) [//] greigiau i (y)r +/. 620189_629816
+*MAD:	a <roedden ni (y)n &t uh tynnu> [//] o(edde)t ti neu [/] neu Camilo@s:cym&spa <yn &t> [/] yn tynnu (..) graig [//] (.) greigiau i (y)r +/. 620189_629816
 %eng:	and you and Camilo took stones to the...
 *DOM:	+< ie lluchio cerrig ar ben to ie . 629148_631218
 %eng:	yes, threw stones on the roof.
@@ -770,7 +770,7 @@
 %eng:	first of March next year.
 *MAD:	neis iawn . 833455_834527
 %eng:	very nice.
-*MAD:	a mm (.) mae bobl yn meddwl am (.) [/] am cael te (.) uh allan ie ? 834608_843657
+*MAD:	a mm (.) mae bobl yn meddwl am [/] (.) am cael te (.) uh allan ie ? 834608_843657
 %eng:	people are thinking of having tea outside, are they?
 *DOM:	te patsh . 843659_844411
 %eng:	picnic.
@@ -830,7 +830,7 @@
 %eng:	from that time, yes?
 *DOM:	+< ie (.) ie . 870703_872255
 %eng:	yes.
-*MAD:	<a (.) [/] a uh be(th)> [?] +/. 873368_875469
+*MAD:	<a [/] (.) a uh be(th)> [?] +/. 873368_875469
 %eng:	and what...
 *DOM:	+< <a be(th) (y)dy oed dyn> [?] dw i (y)n cofio hynny . 874551_876466
 %eng:	and what is a man's age, I remember that.

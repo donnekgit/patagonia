@@ -3,8 +3,8 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	BEL Bella Adult, TER Teresa Adult
-@ID:	cym, spa|Patagonia|BEL|65;|female|||Adult||
-@ID:	cym, spa|Patagonia|TER|69;|female|||Adult||
+@ID:	cym, spa|Patagonia|BEL|65;|female|||Adult|||
+@ID:	cym, spa|Patagonia|TER|69;|female|||Adult|||
 @Situation:	Conversation at a hotel in eastern Chubut, Argentina
 @Date:	03-NOV-2009
 @Transcriber:	Myfyr Prys, Diana Carter and Fraibet Aveledo, Bangor University
@@ -362,7 +362,7 @@
 %eng:	to have a dream, a project
 *TER:	+< [- spa] xxx sí sí . 335518_336331
 %eng:	[...] yes , yes
-*TER:	[- spa] sí porque al saber ella castellano (.) le [/] le era (.) [?] posible . 336735_344675
+*TER:	[- spa] sí porque al saber ella castellano (.) le [/] le era [?] (.) posible . 336735_344675
 %eng:	yes, because as she knows Spanish, it was possible for her
 *BEL:	[- spa] sí sí . 344123_345446
 %eng:	yes yes
@@ -1658,7 +1658,7 @@
 %eng:	yes of course, of course
 *BEL:	[- spa] y ahora viste que (.) casi que (.) empieza a mejorar que no hace tanto frío y a no hacer tanto frío y a lo mejor ya no tomo café en la mañana o té . 1600840_1607674
 %eng:	and now, you see, that the weather is starting to get better, that it is not so cold, maybe I'll stop drinking coffee in the mornings, or tea
-*BEL:	[- spa] pero miel [?] me encanta con manteca también es [/] en el (.) [///] sobre el pan . 1607694_1612995
+*BEL:	[- spa] pero miel [?] me encanta con manteca también es [/] en el [///] (.) sobre el pan . 1607694_1612995
 %eng:	but honey, I love it with butter too, on bread
 *TER:	+< ah@s:cym&spa bueno@s:spa . 1611794_1613152
 %eng:	ah well

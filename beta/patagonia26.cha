@@ -1,11 +1,11 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cym, spa
+@Languages:	cym, spa, eng
 @Participants:	EST Estaban Adult, VAL Valencia Adult, OSE Unidentified Adult
-@ID:	cym,spa|Patagonia|EST|27;|male|||Adult|||
-@ID:	cym,spa|Patagonia|VAL|55;|female|||Adult|||
-@ID:	cym,spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|EST|27;|male|||Adult|||
+@ID:	cym, spa|Patagonia|VAL|55;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE|||||Adult|||
 @Situation:	Conversation on Valencia's farm in western Chubut, Argentina, with Estaban, an acquaitance who works on a nearby farm
 @Date:	10-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University
@@ -912,7 +912,7 @@
 %eng:	and I'm on the tractor on my own.
 *VAL:	ie . 959206_960564
 %eng:	yes.
-*EST:	a (.) [/] a wedyn (.) gweithio efo dad a <dw i ddim yn siarad> [?] Cymraeg . 960088_964720
+*EST:	a [/] (.) a wedyn (.) gweithio efo dad a <dw i ddim yn siarad> [?] Cymraeg . 960088_964720
 %eng:	and then I work with Dad and don't speak Welsh.
 *VAL:	oes (y)na beiriant i chwarae C_D efo ti ? 963420_966172
 %eng:	do you have a CD player with you?

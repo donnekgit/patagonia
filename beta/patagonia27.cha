@@ -3,8 +3,8 @@
 @Begin
 @Languages:	spa, cym
 @Participants:	PED Pedro Adult, ALI Alicia Adult
-@ID:	cym, spa|Patagonia|PED|68;|male|||Adult||
-@ID:	cym, spa|Patagonia|ALI|69;|female|||Adult||
+@ID:	cym, spa|Patagonia|PED|68;|male|||Adult|||
+@ID:	cym, spa|Patagonia|ALI|69;|female|||Adult|||
 @Situation:	Conversation between Pedro and his wife Alicia in their home in eastern Chubut, Argentina
 @Date:	10-NOV-2009
 @Transcriber:	Fraibet Aveledo and Lowri Jones, Bangor University
@@ -59,7 +59,7 @@
 %eng:	yes.
 *ALI:	sí . 65132_65868
 %eng:	yes.
-*ALI:	eh@s:cym&spa los vecinos tienen la olla +// . 70382_72313
+*ALI:	eh@s:cym&spa los vecinos tienen la olla +//. 70382_72313
 %eng:	the neighbours have the pot.
 *ALI:	anoche no taparon la  [/] la verdura . 72194_74230
 %eng:	they didn't cover the vegetables last night.
@@ -109,7 +109,7 @@
 %eng:	tourism.
 *PED:	+< sí . 131778_132194
 %eng:	yes.
- *PED:	este año ha habido mucho turista . 133060_135016
+*PED:	este año ha habido mucho turista . 133060_135016
 %eng:	there have been a lot of tourists this year.
 *PED:	sí . 136001_137089
 %eng:	yes.
@@ -201,8 +201,7 @@
 %eng:	yes.
 *PED:	son de crecimiento más (.) más lerdo . 281689_285988
 %eng:	they grow more slowly.
-%com:	PED clears his throat .
-%com:	long pause.
+%com:	PED clears his throat.  Long pause.
 *PED:	este . 305550_306937
 %eng:	eh.
 *PED:	el (.) María estaba ayer <en el> [/] en el corral este temprano . 312021_319831
@@ -235,7 +234,7 @@
 %eng:	or what do they do?
 *PED:	no no la vienen a buscar del tambo . 345452_348151
 %eng:	no, they come to pick it up from the dairy farm.
-*PED:	del [/] del tambo digo del (.) [//] de la quesería . 348130_351928
+*PED:	del [/] del tambo digo del [//] (.) de la quesería . 348130_351928
 %eng:	from the cheese factory
 *ALI:	+< de la quesería ? 349954_351096
 %eng:	from the cheese factory?
@@ -256,7 +255,7 @@
 %eng:	eh...
 *PED:	por lo menos eh@s:cym&spa +... 369927_372674
 %eng:	at least ...
-*PED:	en los negocios (.) eh@s:cym&spa hay (.) este queso rallado +/ . 372791_381336
+*PED:	en los negocios (.) eh@s:cym&spa hay (.) este queso rallado +/. 372791_381336
 %eng:	in the shops there is grated cheese.
 *ALI:	+< ah@s:cym&spa queso rallado ah@s:cym&spa sí . 380871_383079
 %eng:	ah grated cheese, yes.
@@ -272,7 +271,7 @@
 %eng:	yes.
 *PED:	sí . 388403_389625
 %eng:	yes.
-*PED:	y +... . 391238_391724
+*PED:	y +... 391238_391724
 %eng:	and...
 *ALI:	estan llevando a Comodoro@s:cym&spa ahora o no . 392505_394757
 %eng:	are they supplying Comodoro now or not.
@@ -598,7 +597,7 @@
 %eng:	they are kind of big already.
 *PED:	eh@s:cym&spa sí la [///] acá de los campos cerca pero . 910194_913122
 %eng:	yes, the, here, from the nearer fields but.
-*PED:	xxx campos más lejos recién +// . 913268_914939
+*PED:	xxx campos más lejos recién +//. 913268_914939
 %eng:	xxx field further away.
 *PED:	recién este hay corderitos chicos (.) todavía . 915486_919743
 %eng:	there are still some young sheep.
@@ -914,7 +913,7 @@
 %eng:	but what happens is that the Bolivians are paying a good rent but...
 *PED:	ni se saca +//. 1458552_1460107
 %eng:	he doesn't get even.
-*PED:		vendiendo la chacra y haciendo cinco departamentos le da mucho más a la chacra y menos a la cabeza . 1460189_1465204
+*PED:	vendiendo la chacra y haciendo cinco departamentos le da mucho más a la chacra y menos a la cabeza . 1460189_1465204
 %eng:	selling the farm  and building 5 flats he gets more from the farm and have less to think.
 *ALI:	sí . 1465494_1466763
 %eng:	yes.
@@ -922,8 +921,8 @@
 %eng:	they spoil the farm.
 *ALI:	los departamentos cuando los puede alquilar . 1469716_1472074
 %eng:	the flats when he can rent them.
-*PED:	+'' y yo sin vender la chacra dice +''/. 1470228_1472748
-*PED:	+'' no puedo hacer nada como para (.) hacer tres cuatro departamentos para empezar para alquilar o que no no +... 1472608_1479516
+*PED:	+" y yo sin vender la chacra dice +"/. 1470228_1472748
+*PED:	+" no puedo hacer nada como para (.) hacer tres cuatro departamentos para empezar para alquilar o que no no +... 1472608_1479516
 %eng:	and I, without selling the farm, I cannot do anything like to build three or four flats to start, to rent, no.
 *ALI:	no tiene que trabajar la chacra . 1480345_1482633
 %eng:	no, he has to work the farm.

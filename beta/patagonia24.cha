@@ -3,9 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ADL Adalia Adult, MOR Mora Adult, OSE non_participant Adult
-@ID:	cym, spa|Patagonia|ADL|53;|female|||Adult||
-@ID:	cym, spa|Patagonia|MOR|88;|female|||Adult||
-@ID:	cym, spa|Patagonia|OSE||female|||Adult||
+@ID:	cym, spa|Patagonia|ADL|53;|female|||Adult|||
+@ID:	cym, spa|Patagonia|MOR|88;|female|||Adult|||
+@ID:	cym, spa|Patagonia|OSE||female|||Adult|||
 @Situation:	Conversation between friends at Mora's house in western Chubut, Argentina
 @Date:	10-NOV-2009
 @Transcriber:	Marika Fusser, Bangor University
@@ -653,7 +653,7 @@
 %eng:	... he called him "Dick" .
 *ADL:	Dick@s:cym&spa ["] (.) wel (y)r un enw wrth_gwrs . 533716_536989
 %eng:	"Dick", well, the same name of course.
-*MOR:	wel oedd o (we)di ymfalchïo cael (.) [//] bod fi wedi dod i (y)r un un â fo ynde . 536815_543078
+*MOR:	wel oedd o (we)di ymfalchïo cael [//] (.) bod fi wedi dod i (y)r un un â fo ynde . 536815_543078
 %eng:	well, he was pleased that I'd come to the same one as him.
 *ADL:	+< ie . 543000_543571
 %eng:	yes.
@@ -1152,7 +1152,7 @@
 %eng:	well...
 *ADL:	na na . 944792_945401
 %eng:	no no.
-*ADL:	a be(th) am (.) um (.) [=! rubbing sound] +... 945401_948437
+*ADL:	a be(th) am (.) um [=! rubbing sound] (.) +... 945401_948437
 %eng:	and what about...
 *ADL:	faint o blant sy gyda chi dim ond un merch ynde Edita@s:cym&spa ? 949915_952725
 %eng:	how many children do you have, only one daughter, is it, Edita?
@@ -1625,7 +1625,7 @@
 *ADL:	xxx mynd i (y)r llyfrgell (by)sai fo (y)n cael y gweddill yn_basai . 1360188_1363125
 %eng:	xxx went to the library he'd get the rest, wouldn't he.
 @Comment:	pause
-*ADL:	mae (y)r (.) [/] yr ardd yn hyfryd efo (y)r cornchwiglod yna (y)n (.) bwyta (y)r pryfed bach i_gyd . 1366184_1371351
+*ADL:	mae (y)r [/] (.) yr ardd yn hyfryd efo (y)r cornchwiglod yna (y)n (.) bwyta (y)r pryfed bach i_gyd . 1366184_1371351
 %eng:	the garden is lovely with those lapwings eating all the little insects.
 *MOR:	+< oh@s:cym&spa (.) maen nhw (y)n uh difyrru lot arna i . 1369476_1373041
 %eng:	oh, they entertain me a lot.
@@ -1788,7 +1788,7 @@
 %eng:	Carlos Dante Ferrari.
 *MOR:	+< Carlos_Dante_Ferrari@s:cym&spa . 1492642_1494285
 %eng:	Carlos Dante Ferrari.
-*ADL:	fo sydd yn wneud y (.) [//] yr um seremoni (y)r uh coroni yn y (ei)steddfod . 1494190_1499459
+*ADL:	fo sydd yn wneud y [//] (.) yr um seremoni (y)r uh coroni yn y (ei)steddfod . 1494190_1499459
 %eng:	it's him who does the crowning ceremony at the eisteddfod.
 *MOR:	ah@s:cym&spa wel dw i (we)di darllen ei hanes yn y +... 1499680_1502802
 %eng:	ah, well, I've read his story in the...
@@ -2119,7 +2119,7 @@
 %eng:	Jacqui that is.
 *ADL:	ah@s:cym&spa mae (y)n naw_deg felly ? 1772526_1773879
 %eng:	ah, so she is ninety?
-*MOR:	a uh wneud teisen (y)ma <sy (y)n dibynnu ar> [?] y (.) [/] y pedidos@s:spa . 1773978_1778906
+*MOR:	a uh wneud teisen (y)ma <sy (y)n dibynnu ar> [?] y [/] (.) y pedidos@s:spa . 1773978_1778906
 %eng:	and made this cake you have to place an order for.
 *ADL:	ah@s:cym&spa bobl eisiau prynu (.) teisen efo hi . 1778883_1780677
 %eng:	ah people wanted to buy a cake from her.

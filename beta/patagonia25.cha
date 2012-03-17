@@ -3,10 +3,10 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	ROD Rodolfo Adult, LEI Leila Adult, MAR Marta Child, LUI Luis Child
-@ID:	cym, spa|Patagonia|ROD|48;|male|||Adult||
-@ID:	cym, spa|Patagonia|LEI|44;|female|||Adult||
-@ID:	cym, spa|Patagonia|MAR|13?;|female|||Child||
-@ID:	cym, spa|Patagonia|LUI|08?;|male|||Child||
+@ID:	cym, spa|Patagonia|ROD|48;|male|||Adult|||
+@ID:	cym, spa|Patagonia|LEI|44;|female|||Adult|||
+@ID:	cym, spa|Patagonia|MAR|13;|female|||Child|||
+@ID:	cym, spa|Patagonia|LUI|08;|male|||Child|||
 @Situation:	Conversation between husband and wife (and their children) at their home in eastern Chubut, Argentina
 @Date:	09-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -535,7 +535,7 @@
 %eng:	what do I know .
 *LEI:	oh@s:cym&spa (.) dw i (ddi)m yn dallt . 495221_496955
 %eng:	oh, I don't understand.
-*ROD:	a o(edd) Gladys@s:cym&spa yn deud bod y dyn Trelew (y)ma (y)n (.) [//] yn rhy blaen heddiw . 499563_504124
+*ROD:	a o(edd) Gladys@s:cym&spa yn deud bod y dyn Trelew (y)ma (y)n [//] (.) yn rhy blaen heddiw . 499563_504124
 %eng:	and Gladys was saying that this Trelew man was too blunt today.
 *LEI:	ie <oedd hi (y)n> [?] deud <bod o> [//] bod bod o (y)n siarad yn +... 504757_506869
 %eng:	yes, she was saying that he speaks...
@@ -1039,9 +1039,9 @@
 *MAR:	o (y)r car ? 972391_973847
 %eng:	in the car?
 *ROD:	+< &=grunts . 972924_973687
-*LEI:	na(g)_(y)dy . 973788_974481
+*LEI:	na(g) (y)dy . 973788_974481
 %eng:	no.
-*LEI:	na(g)_(y)dy . 974967_975484
+*LEI:	na(g) (y)dy . 974967_975484
 %eng:	no.
 *MAR:	oh@s:cym&spa . 976322_976690
 %eng:	oh.
@@ -1635,7 +1635,7 @@
 %eng:	I...
 *ROD:	na &m wnaeson nhw ddim (..) siarad rhagor am y peth . 1659062_1663490
 %eng:	no they didn't... say any more about it.
-*LEI:	a wedyn bod nhw (y)n dal i (.) talu am (..) [/] am y gwaith felly . 1663673_1668277
+*LEI:	a wedyn bod nhw (y)n dal i (.) talu am [/] (..) am y gwaith felly . 1663673_1668277
 %eng:	and that they're still paying for the work.
 *LEI:	neu (e)fallai bo(d) nhw wedi penderfynu wneud hynna . 1670915_1672968
 %eng:	or maybe they've decided to do that.
@@ -1730,7 +1730,7 @@
 *LEI:	i ni [///] gawn weld os ydy (h)i (y)n dod allan yn (.) go_lew o neis i ddangos i pawb arall . 1777772_1781228
 %eng:	we'll see if it turns out nice to show other people.
 *ROD:	&=groan . 1781196_1781900
-*LEI:	wedyn mae (y)r plant yn ymarfer yr (.) [//] y pericón@s:spa . 1782268_1786310
+*LEI:	wedyn mae (y)r plant yn ymarfer yr [//] (.) y pericón@s:spa . 1782268_1786310
 %eng:	then the children are practising the Pericón.
 *LUI:	+< dawns ? 1784705_1785505
 %eng:	dance?
