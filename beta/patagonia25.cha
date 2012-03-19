@@ -13,8 +13,8 @@
 @Comment:	Researcher: Margaret Deuchar, Bangor University
 @Time Duration:	00:29:46
 @Media:	Patagonia25, audio
-@Comment:	Filename: Patagonia25.cha; Soundfile: Patagonia25.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Ages given for MAR and LUI are only estimates
 *ROD:	[- spa] en(tre) entre todos (.) cuarenta más . 245_3157
 %eng:	between everybody another forty.
 *ROD:	[- spa] no creo . 3136_3648
@@ -944,8 +944,8 @@
 *MAR:	xxx [=! whispers] . 888557_889892
 *LEI:	ay@s:cym&spa oh@s:cym&spa . 893705_894233
 %eng:	ay, oh.
-*LEI:	does na neb [/] &n does na neb yn fan (a)cw cofia . 894464_896709
-%eng:	there's nobody over there, you know.
+*LEI:	<does (y)na neb> [/] &n does na neb yn fan (a)cw cofia . 894464_896709
+%eng:	there's nobody over there, remember.
 *MAR:	xxx ? 897051_898037
 *LEI:	na mae hi allan . 898475_899211
 %eng:	no, she's outside.
@@ -981,7 +981,7 @@
 %eng:	and the...
 *LEI:	a rhywbeth fel (y)na . 933191_934089
 %eng:	and something like that.
-*ROD:	+< a mae (y)r &p &m +//. 933140_934089
+*ROD:	+< a mae (y)r &p &m +//. 933353_934089
 %eng:	and the...
 *ROD:	ie . 934051_934478
 %eng:	yes.
@@ -1508,7 +1508,7 @@
 %eng:	and leave that there.
 *LEI:	a (.) achos peth arall . 1451977_1453097
 %eng:	and because, another thing.
-*LEI:	welaist di bod gynni hi (y)r (.) <yr uh> [//] yr um (.) peiriant arall (y)ma rŵan ? 1453123_1457854
+*LEI:	welaist ti bod gynni hi (y)r (.) <yr uh> [//] yr um (.) peiriant arall (y)ma rŵan ? 1453123_1457854
 %eng:	did you see that she has the other machine now?
 *LEI:	a &m mae [/] mae (h)i (y)n chwarae rhywsut <efo (y)r> [/] efo (y)r uh tafod . 1458887_1463042
 %eng:	she plays somehow with the tongue.

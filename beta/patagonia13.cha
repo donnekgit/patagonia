@@ -1,7 +1,7 @@
 @UTF8
 @Begin
 @Languages:	spa, cym, eng
-@Participants:	ALE Alejandra Adult,  LCT Lucita  Adult
+@Participants:	ALE Alejandra Adult, LCT Lucita Adult
 @ID:	cym, spa|Patagonia|ALE|42;|female|||Adult|||
 @ID:	cym, spa|Patagonia|LCT|61;|female|||Adult|||
 @Situation:	Conversation between colleagues at a primary school in eastern Chubut, Argentina
@@ -303,12 +303,12 @@
 %eng:	yes, it was on Thursday.
 *LCT:	sí . 322773_323333
 %eng:	yes.
-*ALE:	eh@s:cym&spa no tuve oportunidad de verlo . 322738_324624
+*ALE:	eh@s:cym&spa no tuve oportunidad de verlo . 322844_324624
 %eng:	I didn't get the chance to watch it.
 *LCT:	canal siete lo dio . 324576_326042
 %eng:	it was on Channel 7.
-*LCT:	muy muy lindo la que recitó pero una belleza  fue Marta_Humphreys@s:cym&spa . 326419_331789
-%eng:	very very nice, she who recited - really beautiful! - was Martha Humphreys.
+*LCT:	muy muy lindo la que recitó pero una belleza fue Marta_Humphreys@s:cym&spa . 326419_331789
+%eng:	very very nice, the one who recited it (really beautifully) was Martha Humphreys.
 %com:	the Spanish verb "recitar" normally covers similar meanings to English "recite", but here it may refer to the act of singing as in "recital".
 *ALE:	ay que bueno . 331759_333253
 %eng:	oh, how good.
@@ -869,7 +869,7 @@
 *ALE:	+< sí sí sí . 1000251_1002370
 %eng:	yes, yes.
 *LCT:	no ? 1002532_1002944
-*ALE:	+< sí . 1002446_1002996
+*ALE:	+< sí . 1002676_1002996
 %eng:	yes.
 *ALE:	es cierto eso . 1003191_1004028
 %eng:	that's for sure.
@@ -1111,7 +1111,7 @@
 %eng:	like Victor, you see?
 *ALE:	sí . 1338333_1338754
 %eng:	yes.
-*LCT:	+< qué hermoso . 1338010_1339125
+*LCT:	+< qué hermoso . 1338407_1339245
 %eng:	so lovely.
 *LCT:	es un chico +... 1339084_1340384
 %eng:	he's a boy...
@@ -1206,9 +1206,9 @@
 %eng:	well of course, because people aren't aware of...
 *ALE:	++ del cuidado . 1452889_1453721
 %eng:	of the protection.
-*LCT:	+< del [/] del cuidado del agua . 1452774_1456837
+*LCT:	+< del [/] del cuidado del agua . 1453178_1454768
 %eng:	of the water's protection.
-*LCT:	derrochan muchísima agua . 1454910_1456953
+*LCT:	derrochan muchísima agua . 1454720_1456953
 %eng:	they waste such a lot of water.
 *LCT:	y si no llueve (.) en la cordillera (.) +... 1456857_1460985
 %eng:	and if it doesn't rain... in the mountains...
@@ -1245,7 +1245,7 @@
 %eng:	and it looks like it will rain but it doesn't...
 *ALE:	no está [/] está anunciado . 1496993_1498865
 %eng:	well, it is announced.
-*LCT:	+, no llueve . 1496966_1497686
+*LCT:	+, no llueve . 1497248_1497686
 %eng:	it doesn't rain.
 *ALE:	el pronóstico dice que lluvia . 1498621_1501048
 %eng:	the forecast says it'll rain.
@@ -1299,9 +1299,9 @@
 %eng:	if I'm done a little sooner, I'm here a little sooner to start cleaning and organising the school before the children arrive, who usually arrive at 8.
 *ALE:	están llegando todos los [/] los niños de (.) primero segundo y tercero . 1559994_1565178
 %eng:	all the children from first, second and third [grades] arrive at about that time.
-*ALE:	y la +/. 1565525_1566773
+*ALE:	y la +/. 1565525_1566117
 %eng:	and the...
-*LCT:	y preescolar ? 1565178_1567013
+*LCT:	y preescolar ? 1565840_1566730
 %eng:	and pre-school?
 *ALE:	preescolar entra a ocho y media . 1566997_1568949
 %eng:	pre-school arrives at 8:30.
