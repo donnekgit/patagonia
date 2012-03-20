@@ -18,9 +18,9 @@
 %eng:	but you live next to the college right?
 *MBL:	y brif [//] brifysgol ? 3443_4476
 %eng:	the university?
-*DIA:	ia (.) tua (.) bedwar bloc .  3704_6641
+*DIA:	ia (.) tua (.) pedwar bloc .   3704_6641
 %eng:	yeah, [...] four blocks
-*MBL:	be bedwar bloc ? 6972_8116
+*MBL:	be pedwar bloc ? 6972_8116
 %eng:	what, four blocks?
 *DIA:	sí@s:spa . 7980_9024
 %eng:	yes.
@@ -60,7 +60,7 @@
 *MBL:	siarad yn Gymraeg . 44428_45728
 %eng:	speaking in Welsh
 *MBL:	ond rhaid i ni ymarfer . 47005_48271
-%eng:	but we need to practice
+%eng:	but we need to practise
 *CRS:	ia . 48578_49165
 %eng:	yes
 *MBL:	&=laugh . 49835_50270
@@ -71,7 +71,7 @@
 %eng:	I can hear it ...
 *CRS:	+< mae cyfle (.) da i +/. 54990_56830
 %eng:	the opportunity...
-*MBL:	+< mae o (y)n anodd i siarad (.) achos dw i (y)n gwneud &=imit_stammer &sh .  56037_59252
+*MBL:	+< mae o (y)n anodd i siarad (.) achos dw i (y)n gwneud &=imit:stammer &ʃ . 56037_59703
 %eng:	it's difficult to speak (Welsh) because (I stammer)
 *DIA:	+< ia &=laugh . 59282_60095
 *CRS:	&=laugh . 59282_60095
@@ -79,8 +79,8 @@
 %eng:	I get stuck
 *MBL:	ond wyt ti (y)n gallu siarad yn (.) iawn ? 62138_64925
 %eng:	but can you speak it fluently?
-*DIA:	+< rhaid i ni &y ymarfer xxx . 62469_65081
-%eng:	we need to practice [...]
+*DIA:	+< rhaid i ni &ə ymarfer xxx . 62469_65081
+%eng:	we need to practise [...]
 *CRS:	na dim [/] dim llawer . 63897_65436
 %eng:	no, not much
 *MBL:	wyt ti (y)n siarad Cymraeg mm efo dy chwaer di na ? 66244_68670
@@ -90,17 +90,17 @@
 *MBL:	oh@s:cym&spa . 70218_70781
 *MBL:	a mae o i xx +... 72209_74229
 %eng:	and it's for...
-*CRS:	weithiau pan mae um@s:cym (.) fy mrawd yng nghyfraith  yn dod yma . 73592_77563
+*CRS:	weithiau pan mae um@s:cym (.) fy mrawd yng nghyfraith yn dod yma . 73592_77563
 %eng:	sometimes when my brother in law comes here
 *MBL:	ia . 77818_78434
-*CRS:	+< wedyn rhaid i mi siarad yn Gymraeg achos mae [/] mae e (y)n dod o [/] o Gymru felly .  78357_82432
+*CRS:	+< wedyn rhaid i mi siarad yn Gymraeg achos mae [/] mae e (y)n dod o [/] o Gymru felly . 78357_82432
 %eng:	then I have to speak Welsh, because he's from Wales
 *MBL:	ia . 82594_82966
 *CRS:	dydy o ddim yn siarad llawer o Sbaeneg . 83012_84707
 %eng:	he doesn't speak much Spanish
 *MBL:	+< dim yn siarad Sbaeneg ? 84185_85218
 %eng:	he doesn't speak Spanish?
-*CRS:	na <mae yn>  [/] (.) mae yn siarad (.) Sbaeneg [/] Sbaeneg . 85252_88578
+*CRS:	na <mae yn> [/] (.) mae yn siarad (.) Sbaeneg [/] Sbaeneg . 85252_88578
 %eng:	no, he does speak Spanish
 *CRS:	ond (.) mae yn hoffi siarad mwy yn [/] yn Cymraeg . 88424_92720
 %eng:	but he prefers to speak mostly in Welsh
@@ -117,11 +117,11 @@
 %eng:	yeah, both of them
 *MBL:	i'w los@s:spa hijos@s:spa ? 100087_103198
 %eng:	to the children?
-*CRS:	+< y dwy iaith .  100383_100922
+*CRS:	+< y dwy iaith . 100383_100922
 %eng:	both languages
 *MBL:	[- spa] los hi(jos) +//. 104013_104692
 %eng:	the children...
-*MBL:	[- spa] la [/] la nena y nene ?  104733_106323
+*MBL:	[- spa] la [/] la nena y nene ? 104733_106323
 %eng:	the little ones
 *CRS:	+< mae Cledwyn@s:cym&spa yn siarad yn (.) Cymraeg a Sbaeneg a Saesneg . 105534_109093
 %eng:	Cledwyn speaks in Welsh, Spanish and English
@@ -173,12 +173,12 @@
 *CRS:	+< &=laugh . 148174_148859
 *DIA:	+< ia [=! laugh] . 148602_149310
 *CRS:	xxx . 149528_150799
-*MBL:	+< mae gen i llawer i bethau i (..) ddarllen i (y)fory &=laugh .  150050_156308
-%eng:	I've got a lot of things to read for tommorow
+*MBL:	+< mae gen i llawer i bethau i (..) ddarllen i (y)fory &=laugh . 150050_156308
+%eng:	I've got a lot of things to read for tomorrow
 *DIA:	+< i astudio &=laugh . 152955_154674
 %eng:	to study
 *MBL:	yfory dw i (y)n mynd i (y)r coleg yn gynnar . 157767_160298
-%eng:	tommorow I'm going to college early
+%eng:	tomorrow I'm going to college early
 *CRS:	yn gynnar ? 160472_161419
 %eng:	early?
 *MBL:	ie . 161726_162249
@@ -217,7 +217,7 @@
 %eng:	November
 *MBL:	ie . 183302_183470
 %eng:	yes
-*CRS:	um@s:cym dw i meddwl dydd Mawrth  . 183998_185914
+*CRS:	um@s:cym dw i meddwl dydd Mawrth . 183998_185914
 %eng:	um, I think it's on Tuesday
 *MBL:	[- spa] treinta y uno uno do(s) +//. 185094_187079
 %eng:	thirty one, one, two ...
@@ -280,9 +280,8 @@
 %eng:	a double party
 *MBL:	dan ni (y)n [///] lle [///] rhaid i ni go@s:eng [?] [//] mynd allan i dawnsio neu gwneud rhywbeth . 225576_229970
 %eng:	we're in, where, we need to go out dancing or do something
-*MBL:	neu mynd i karaoke@s:cym&spa i ganu ? 230372_231968
+*MBL:	neu mynd i karaoke@s:cym&spa i canu ? 230372_231968
 %eng:	or go to karaoke to sing
-%com:	Karaoke has Spanish pronunciation
 *CRS:	+< ie . 230563_230941
 %eng:	yes
 *CRS:	&=laugh . 232015_232496
@@ -315,7 +314,7 @@
 %eng:	I'm okay
 *OSE:	www . 258802_259894
 *MBL:	na &=laugh dan ni (y)n ymarfer yn siarad Cymraeg . 260150_262646
-%eng:	no, we're practicing speaking Welsh
+%eng:	no, we're practising speaking Welsh
 *OSE:	www . 263145_263946
 *MBL:	+< xx . 263534_263847
 *OSE:	www . 264770_265838
@@ -335,7 +334,7 @@
 %eng:	he's doing, he wants to know how we speak Welsh and stuff like that
 %com:	background speaker
 *MBL:	felly (.) dan ni (y)n trio ymarfer &=laugh . 278755_280734
-%eng:	so we're trying to practice
+%eng:	so we're trying to practise
 %com:	background speaker
 *OSE:	www . 280670_282046
 *MBL:	na &=laugh . 281794_282694
@@ -355,13 +354,14 @@
 %eng:	yeah, we'll keep in touch and...
 *OSE:	www . 294904_295137
 *MBL:	ia . 295270_295618
+%eng:	yes
 *OSE:	www . 296286_296733
 *MBL:	+< xxx . 296391_296687
 *MBL:	ia &=laugh . 296856_297790
 *OSE:	www . 299979_301094
-*CRS:	+< <mae pawb> [/] mae pawb yn mynd . 300269_301471
+*CRS:	+< <mae pawb> [/] mae pawb yn mynd . 300269_301533
 %eng:	everybody, everybody is leaving
-*CRS:	beth [/] beth dan ni (y)n wneud ? 301366_302475
+*CRS:	beth [/] beth dan ni (y)n wneud ? 301506_302475
 %eng:	what are we doing?
 *MBL:	pawb yn mynd . 301935_302522
 %eng:	everybody is leaving
@@ -375,7 +375,7 @@
 *MBL:	xxx . 305861_306343
 *OSE:	www . 306378_307382
 *MBL:	bye@s:eng chao@s:spa . 307289_308125
-%com:	background speaker
+%com:	sound of more speakers in background
 *OSE:	www . 308733_310051
 *CRS:	hwyl i chi . 309906_310370
 %eng:	farewell
@@ -391,7 +391,7 @@
 %eng:	er, six
 *CRS:	hanner awr wedi chwech . 318458_319166
 %eng:	half past six
-*MBL:	chael y bws . 318473_319239
+*MBL:	+< chael y bws . 318473_319239
 %eng:	get the bus
 *MBL:	rhaid i ti mynd i gweithio . 319286_320377
 %eng:	you need to go to work
@@ -399,11 +399,11 @@
 %eng:	I do
 *MBL:	fynd i gweithio yn y nos yn y hospital@s:eng . 321024_323230
 %eng:	go to work in the hospital at night
-*CRS:	na mae pawb yn mynd +//. 322092_324692
-%eng:	no everybody goes...
-*MBL:	good@s:eng boy@s:eng hah@s:cym&spa . 323171_324541
-*CRS:	&=laugh . 323706_324541
-*CRS:	posibl . 326891_327564
+*CRS:	+< na mae pawb yn mynd +"/. 322092_324692
+%eng:	no everybody goes:
+*MBL:	+" good@s:eng boy@s:eng &=laugh ! 323171_324541
+*CRS:	+< &=laugh . 323706_324541
+*CRS:	posibl [?] . 326891_327564
 %eng:	possibly
 *CRS:	beth wyt ti isio wneud efo (y)r allwedd achos mae rhaid i mi mynd . 327874_331061
 %eng:	what do you want to do with the key, because I have to leave
@@ -421,7 +421,7 @@
 %eng:	what is that?
 *CRS:	na dan [/] dan ni (y)n mynd i wneud . 337579_339227
 %eng:	no, we're going to do it
-*MBL:	+< uh gloi hwnna ? 337863_339047
+*MBL:	+< uh cloi hwnna ? 337863_339047
 %eng:	uh, lock that?
 *OSE:	www . 339234_340523
 *MBL:	ie pawb yn mynd nawr ? 340765_342286
@@ -444,11 +444,11 @@
 *MBL:	ia pawb yn mynd . 358311_359553
 %eng:	yeah, everybody is leaving
 *MBL:	mae o (y)n neis i cwrdd Cymraeg . 360296_363559
-%eng:	it's nice to meet welsh (people)
+%eng:	it's nice to meet Welsh (people)
 *MBL:	neis i gwneud &=dental_click unwaith yn y mis neu unwaith o@s:spa tri waith yn y blwyddyn mae (y)n neis i dod fyny i ymarfer Cymraeg . 361486_369486
-%eng:	it's nice to do it once a month, or one or three times a year, it's nice to come up to practice Welsh
+%eng:	it's nice to do it once a month, or one or three times a year, it's nice to come up to practise Welsh
 *MBL:	pethau gwahanol o (y)r uh un [?] xxx . 369748_373359
-%com:	final word is obscured by loud bang. Possible spanish
+%com:	final word (possibly Spanish) is obscured by loud bang.
 *DIA:	+< xx neis . 369754_370625
 %eng:	[...] nice
 *CRS:	+< a bwyta cacennau a +... 371391_372424
@@ -460,20 +460,19 @@
 *MBL:	cael te efo (y)r hen bobl a &=laugh +... 377746_379575
 %eng:	have tea with the old people and ...
 *DIA:	ie . 379685_380248
-*DIA:	yn cwmni (.) gyda mam e . 381267_383432
-%eng:	to go with mum
+*DIA:	yn cwmni (.) gyda mam ie . 381267_383432
+%eng:	in company with mum, yes
 *CRS:	+< xx . 383345_383537
 *MBL:	rhaid i fi +/. 384355_384884
 %eng:	I need to ...
 *CRS:	roeddwn i (y)n dweud iddo fe bod rhaid i ni +//. 384884_387624
 %eng:	I was telling him that we have to
-*MBL:	ia . 388083_388495
+*MBL:	ie . 388083_388495
 *CRS:	be [/] be oedd yr enw ? 389760_390678
 %eng:	what was the name?
 *MBL:	um@s:cym (.) Pere(dur) &=laugh +... 390950_393835
 %com:	tries to say researcher's name
 *MBL:	xxx &=laugh . 393826_398017
-%com:	unilingual
 *MBL:	[- eng] oh@s:cym&spa my God . 398272_399282
 *DIA:	xx . 399416_399718
 *MBL:	a <mae> [//] dydd Sadwrn nesaf (.) fi (y)n mynd efo Karls@s:cym&spa (.) i gwrdd uh bobl o eisteddfod yr &wy [//] yr Urdd . 400260_407830
@@ -481,7 +480,7 @@
 *CRS:	ia . 408132_408573
 %eng:	yeah
 *MBL:	bachgen a merched yn dod i gwneud pethau (.) yn Esquel@s:cym&spa ac yn Gaiman@s:cym&spa . 408590_412735
-%eng:	boy and girls are coming to do things in Escuel and Gaiman
+%eng:	boys and girls are coming to do things in Escuel and Gaiman
 *MBL:	a dydd Sadwrn nesaf mae (y)n dod i Buenos_Aires@s:cym&spa a mae o (y)n mynd i bod yma un dydd (.) i aros felly fi (y)n mynd i <fynd south@s:eng> [?] +/. 413031_420741
 %eng:	and next Saturday he's coming to Buenos Aires and is staying for one day, so I'm going South
 %com:	at this point somone interrupts again and speaks in Spanish with Mabel and then Carlos
@@ -500,7 +499,6 @@
 *MBL:	Beatrix@s:cym&spa . 429752_430542
 *MBL:	chale@s:spa xxx . 430657_431806
 %eng:	no way [...]
-%com:	unilingual Spanish
 *OSE:	www . 431388_434906
 *MBL:	te@s:spa gusta@s:spa eh@s:cym&spa ? 431922_432932
 %eng:	you like it huh ?
@@ -531,13 +529,13 @@
 %eng:	very good
 *CRS:	+< wel +... 453885_454245
 *MBL:	o_k@s:cym&spa . 455311_456042
-%com:	at this point someone else approaches and engages Carlos in conversation. Mabel and Diana continue to speak to each other.
+@Comment:	at this point someone else approaches and engages Carlos in conversation. Mabel and Diana continue to speak to each other.
 *MBL:	mae o (y)n dod o Dreiorci@s:cym&spa Carlos@s:cym&spa . 460054_462248
 %eng:	Carlos is from Treiorci
 *MBL:	a mae teulu yn dod o Dreiorci@s:cym&spa . 462445_464013
 %eng:	and his family come from Treiorci
 *MBL:	a mae pawb yn siarad Cymraeg . 464047_465417
-%eng:	and everybody speaks welsh
+%eng:	and everybody speaks Welsh
 *MBL:	ond wedi bwyta llawer yn y te xxx bola tost . 467246_470648
 %eng:	but I've eaten a lot for tea [...] my stomach hurts
 *DIA:	+< ie [=! laugh] (.) fi hefyd . 470369_472517
@@ -562,14 +560,14 @@
 *MBL:	da iawn . 495521_496253
 %eng:	very good
 *MBL:	mae pawb yn isio mynd . 498273_499736
-%eng:	everybody wants to leave
+%eng:	everybody wants to go
 *MBL:	mae (y)n agor pa uh amser mm ? 499864_501548
 %eng:	what time does it open?
 *DIA:	pa amser +... 503057_504125
 %eng:	what time...
 *MBL:	hanner awr wedi chwech . 506644_507794
 %eng:	half past six
-*MBL:	y [?] nos . 508614_509578
+*MBL:	gyda [?] nos . 508614_509578
 %eng:	at night
 *MBL:	achos mae diwrnod yn hir nawr a mae haul yn mynd (.) am +//. 509728_514082
 %eng:	because the day is long now and the sun goes at ...
