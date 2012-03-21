@@ -14,25 +14,25 @@
 @Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- cym], in which untagged words are Welsh.
 *ISA:	una semana antes o algo así y a las mellizas [?] +//. 5_2003
 %eng:	a week earlier or something like that and the twins [?]...
-*LIN:	+< sí &e así sea dos horas antes le dijeron <a &cri> [/] a Ana@s:eng&spa que hubiese servido . 1803_7669
-%eng:	if it were at least two hours earlier, they told Ana, that  it would have worked.
+*LIN:	+< sí &e así sea dos horas antes le dijeron <a &cri> [//] a Ana@s:eng&spa que hubiese servido . 1801_7681
+%eng:	if it were at least two hours earlier, they told Ana that it would have worked.
 *ISA:	+< fijáte [=! moan] . 7107_8667
 %eng:	oh, I see.
-*LIN:	y que Pérez@s:eng&spa no haga eso es grave . 7984_10542
-%eng:	and it's serious that Pérez doesn't do this.
-*LIN:	porque Pérez se tiene en cuenta como +/. 10843_13067
-%eng:	because Pérez takes into account how...
-*ISA:	+< bueno (.) hay que estar muy atento con eso eh@s:cym&spa porque (.) para recomendar a otra mamá . 11141_17010
-%eng:	ok, one has to pay attention to this because... to advise another mother.
-*LIN:	y sí sí sí . 17042_18279
-%eng:	and yes, yes.
-*ISA:	+< si está en la misma situación . 17772_20604
+*LIN:	y que Pérez@s:eng&spa no haga eso es grave . 7983_10415
+%eng:	and it's a cause for concern that Pérez doesn't do this.
+*LIN:	porque Pérez se tiene en cuenta como +/. 10873_12998
+%eng:	because Pérez is counted as...
+*ISA:	+< bueno (.) hay que estar muy atento con eso eh@s:cym&spa porque [//] para recomendar a otra mamá . 11141_17010
+%eng:	ok, you have to pay attention to this because, to advise another mother.
+*LIN:	y sí sí sí . 16826_18366
+%eng:	and yes, yes, yes.
+*ISA:	+< si está en la misma situación +/. 17408_19781
 %eng:	if she's in the same situation.
-*LIN:	+< ahora [/] hasta ahora todo [/] todos habían nacido con Pérez@s:cym&spa . 18953_22842
-%eng:	until now, they've all been born with Pérez.
-*LIN:	pero si vemos que se a +//. 23741_26803
-%eng:	but if we'll see that...
-*ISA:	y qué pediatra tiene ? 26060_27484
+*LIN:	+< ahora [//] hasta ahora todo [//] todos habían nacido con Pérez@s:cym&spa . 18953_22842
+%eng:	now, up until now, they've all been born with Pérez.
+*LIN:	pero si vemos que se ha +//. 23674_26172
+%eng:	but if we see that it has...
+*ISA:	y qué pediatra tiene ? 26039_27079
 %eng:	and which pediatrician does she have?
 *LIN:	ahora López@s:cym&spa . 27470_28627
 %eng:	López now.
@@ -40,22 +40,22 @@
 %eng:	Tomy's son-in-law.
 *ISA:	ah@s:cym&spa no lo conozco . 31603_32469
 %eng:	ah, I don't know him.
-*LIN:	&em es &em prácticamente nuevo ahí en el hospital está sí . 32765_36418
-%eng:	he's practically new there in the hospital, yes.
 *ISA:	ah@s:cym&spa mirá . 32766_33658
-%eng:	ah, look.
+%eng:	ah, I see.
+*LIN:	+< &em es &em prácticamente nuevo ahí en el hospital está sí . 32765_36418
+%eng:	he's practically new there in the hospital, yes.
 *ISA:	+< ah@s:cym&spa sí ? 34072_34841
 %eng:	ah yes?
 *ISA:	+< ah@s:cym&spa mirá . 36156_36852
 %eng:	ah, look.
-*LIN:	y dicen que [/] que es muy bueno . 36981_38339
+*LIN:	si dicen que [/] que es muy bueno . 36877_38171
 %eng:	and they say he's very good.
 *LIN:	y sí hasta ahora ellos están con +//. 38684_40877
 %eng:	and yes, until now they've been with...
-*LIN:	lo [//] le han &con [//] cambiado . 40909_42478
-%eng:	they changed.
-*ISA:	+< López@s:cym&spa ? 40925_41693
+*ISA:	+< López@s:cym&spa ? 40652_41130
 %eng:	López?
+*LIN:	lo [//] la han &con [//] cambiado . 40909_42478
+%eng:	they changed.
 *LIN:	el esposo de Carla@s:cym&spa . 42457_43915
 %eng:	Carla's husband.
 *ISA:	por eso . 43928_44268
@@ -64,49 +64,51 @@
 %eng:	they other day we spoke about this boy having a sister.
 *ISA:	y el médico +/. 47361_49049
 %eng:	and the doctor...
-*LIN:	+< sí sí sí . 48827_49574
+*LIN:	+< sí sí sí . 48744_49306
 %eng:	yes, yes.
-*ISA:	+, que no sabíamos . 49532_50209
+*ISA:	+, y que no sabíamos . 49243_49868
 %eng:	... who we didn't know.
-*ISA:	bueno no se acordaba Carla@s:cym&spa y Alba@s:cym&spa cómo se llama . 49574_52285
-%eng:	well, Carla and Alba don't remember what he's called.
+*ISA:	xxx no se acordaba Carla@s:cym&spa y Alba@s:cym&spa cómo se llama . 50081_52142
+%eng:	[...] Carla and Alba didn't remember what he's called.
 *LIN:	sí López@s:cym&spa . 52278_52902
 %eng:	yes, López.
-*ISA:	sí sí sí . 52783_53732
-%eng:	yes, yes.
+*ISA:	+< sí sí sí . 52704_53224
+%eng:	yes, yes, yes.
 *LIN:	es [/] es un hombre canoso de bigotes . 52831_55413
 %eng:	he's a man with a white moustache.
-*ISA:	+< pero joven no . 55416_56609
+*ISA:	+< pero joven no ? 55416_56609
 %eng:	but not young?
-*LIN:	+< no más mayor . 55460_57375
+*LIN:	+< no mayor . 55816_56940
 %eng:	no, older.
+*ISA:	ah@s:cym&spa . 56836_57336
+&eng:	ah.
 *LIN:	mayor cuaren(ta) cincuenta . 57363_60145
 %eng:	older: forty, fifty.
 *LIN:	cincuenta y algo . 60169_61253
 %eng:	fifty something.
-*ISA:	pero es mayor que ella entonces . 60617_61730
+*ISA:	+< pero es mayor que ella entonces . 60617_61730
 %eng:	but so he's older than her.
 *ISA:	xxx . 62328_62807
-*LIN:	ella no es tanto menor . 62358_63651
+*LIN:	+< ella no es tanto menor . 62342_63487
 %eng:	she's not much younger.
 *ISA:	ah@s:cym&spa sí ? 63440_64023
 %eng:	oh yes?
 *ISA:	no es tanto menor decís . 64696_65749
 %eng:	she's not much younger, you'd say.
-*ISA:	no la conozco eh@s:cym&spa . 66258_67192
+*ISA:	no la conozco eh@s:cym&spa . 66237_66632
 %eng:	I don't know her.
 *LIN:	y qué edad puede tener Alberto@s:cym&spa ? 66782_68520
 %eng:	and how old could Alberto be?
 *LIN:	Alberto@s:cym&spa debe estar +/. 69118_70336
 %eng:	Alberto must be...
-*ISA:	cuarenta y cinco (.) cuarenta y +... 69560_70624
-%eng:	forty five, forty...
+*ISA:	+< veinticinco (.) veinti xx +... 69560_70624
+%eng:	twenty five, twenty [...] ...
 *LIN:	eh@s:cym&spa ? 70299_70637
 %eng:	eh?
 *ISA:	no no muy grande no es . 71228_72361
 %eng:	no, no he isn't very old.
 *ISA:	como Andreína@s:cym&spa debe ser +//. 72383_73797
-%eng:	because Andreína must be...
+%eng:	like, Andreína must be...
 *LIN:	+< Alberto@s:cym&spa no mayor . 72752_74645
 %eng:	Alberto, no, older.
 *LIN:	sí . 76037_76947
@@ -117,63 +119,67 @@
 %eng:	[...] no.
 *LIN:	sí sí . 76999_77796
 %eng:	yes, yes.
-*LIN:	yo no sé cuál es el mayor . 78242_79752
-%eng:	I don't know which is the eldest.
-*ISA:	yo lo he visto +//. 78308_79356
+*ISA:	yo lo he visto +//. 78178_78802
 %eng:	I saw him...
-*LIN:	+, si él o ella . 79781_80422
+*LIN:	+< yo no sé cuál es el mayor . 78193_79463
+%eng:	I don't know which is the eldest.
+*LIN:	si él o ella . 79713_80067
 %eng:	if [it's] him or her.
 *LIN:	pero no son chicos grandes ya . 80442_82431
-%eng:	but they're still not very old.
+%eng:	but they're not small, they're already grown-ups.
 *ISA:	ah@s:cym&spa . 82495_82705
 %eng:	ah.
 *LIN:	sí sí . 83167_83723
 %eng:	yes, yes.
 *ISA:	eh@s:cym&spa él trataba a xxx . 83636_86426
 %eng:	eh, he tried to [...] .
-*LIN:	+< qué edad tiene ochenta y tres ? 85550_87983
-%eng:	how old is she, eighty three?
+*LIN:	+< xxx tiene ochenta y tres ? 85550_87983
+%eng:	[...] is eighty three?
 *ISA:	+< sí +//. 87045_87785
 %eng:	yes.
-*ISA:	supiste la reunión que hizo Alba@s:cym&spa xxx el otro día . 87772_90902
-%eng:	did you know [about] the meeting that Alba had [...] the other day, yes?
-*LIN:	+< xxx setenta y ocho +/. 87910_89250
-%eng:	[...] seventy eight...
-*LIN:	sí sí sí . 89268_90673
-%eng:	yes, yes.
++*ISA:	supiste la reunión que hizo &an [//] Emilia [//] Alba@s:cym&spa xxx el otro día . 87772_90902
+%eng:	did you know [about] the meeting that Emilia, Alba had [...] the other day, yes?
+*LIN:	+< ella setenta y ocho xxx +/. 87289_88960
+%eng:	she is seventy eight [...] .
+*LIN:	sí sí sí . 89273_90335
+%eng:	yes, yes, yes.
 *ISA:	sí fue muy +... 91841_94231
 %eng:	yes, it was very...
 *ISA:	muy (.) este qué sé yo +... 94498_96145
 %eng:	very... what I know...
 *ISA:	eran (.) catorce creo (.) no . 96203_99802
-%eng:	there were... forty I think... no.
-*ISA:	entre primos (.) y esposas siempre era [/] éramos catorce . 99850_104169
-%eng:	including cousins and partners, we were forty.
+%eng:	there were... fourteen I think... no.
+*ISA:	entre primos (.) y esposas siempre era [//] éramos catorce . 99850_104169
+%eng:	including cousins and partners, we were fourteen.
 *LIN:	+< claro . 102537_102921
 %eng:	I see.
 *ISA:	pero del grupo familiar tan grande . 104989_108001
 %eng:	but from such a large family group.
-*LIN:	+< cuántos quedan ? 108304_109339
-%eng:	how many stayed?
+*LIN:	+< pocos quedan 108304_109339
+%eng:	few are left.
 *ISA:	tan grande . 108327_109551
 %eng:	so large.
 *ISA:	y sí . 109747_111097
 %eng:	and yes.
-*LIN:	y de dos años a esta parte no (.) porque en esta reunión de acá . 111364_116302
-%eng:	and two years in this area... because in the meeting here...
+*ISA:	mirá 110761_111677 .
+%eng:	indeed.
+*LIN:	+< y de dos años a esta parte no ? 111180_113324
+%eng:	and two years until now, yes?
+*LIN:	porque en esta reunión de acá +... 113116_115406
+%eng:	because in the meeting here...
 *ISA:	+< sí se murieron tres hermanos juntos . 113914_116133
 %eng:	three siblings died together.
 *ISA:	eh@s:cym&spa . 117075_117617
 %eng:	eh...
-*LIN:	claro yo de esa reunión que hicimos acá estaba Carlos@s:cym&spa . 117618_121264
+*LIN:	claro yo de esa reunión que hicimos acá estaba Carlos@s:cym&spa . 117603_121058
 %eng:	I see, from that meeting we had there, it was Carlos.
 *ISA:	+< sí . 119459_119770
 %eng:	yes.
-*LIN:	estaba Vilma@s:cym&spa . 121360_122892
-%eng:	it was Vilma.
+*LIN:	estaba Susan@s:cym&spa . 121360_122892
+%eng:	it was Susan.
 *ISA:	+< ah@s:cym&spa cuatro primos . 121892_123180
 %eng:	ah, four cousins.
-*LIN:	estaba Anto(nio)@s:cym&spa no Antonio@s:cym&spa ya no estaba +/. 123307_126805
+*LIN:	estaba Anto(nio)@s:cym&spa no Antonio@s:cym&spa ya no estaba +/. 123227_125787
 %eng:	it was Antonio, no, not Antonio, he wasn't already.
 *ISA:	+< Tom@s:cym&spa . 125469_125975
 %eng:	Tom.
@@ -187,7 +193,7 @@
 %eng:	they were... the oldest, which is Carmen.
 *LIN:	de todas . 137055_137959
 %eng:	out of all of them.
-*ISA:	+, de todas (.) vivientes sí [?] . 138516_140031
+*ISA:	de todas (.) vivientes sí . 138516_140031
 %eng:	out of all the ones still alive, yes.
 *ISA:	no de (.) sí vivientes . 140076_141715
 %eng:	no out of... yes, still alive.
@@ -197,49 +203,48 @@
 %eng:	[...] surely?
 *LIN:	ella es menor que papá . 144183_145236
 %eng:	she's younger than Dad.
-*ISA:	y tío [/] &m tío Johnny@s:cym&spa [?] . 145223_148600
+*ISA:	y tío [/] &m tío Johnny@s:cym&spa . 145223_148600
 %eng:	and Uncle Johnny.
 *LIN:	+< xxx . 147704_148834
 *ISA:	el menor de la familia de George@s:cym&spa . 149333_152254
 %eng:	the youngest of George's family.
-*LIN:	ya ya . 152694_153194
-%eng:	ok.
+*LIN:	xxx . 152694_153194
 *ISA:	entonces la diferencia que había entre George@s:cym&spa y nuestro abuelo y John@s:cym&spa . 153224_157174
 %eng:	so the difference there was between George and our grandfather and John.
 *LIN:	y sí claro porque &e cuántos hermanos eran entre [/] entre medio ? 157377_162436
 %eng:	and yes, I see, because how many siblings were there all together?
-*LIN:	como cuatro o cinco ? 163119_164452
-%eng:	around four or five?
 *ISA:	xxx y sí [=! laugh] . 163153_164649
 %eng:	[...] and yes.
+*LIN:	+< como cuatro o cinco ? 163119_164452
+%eng:	around four or five?
 *ISA:	sí sí sí sí sí . 164738_165713
 %eng:	yes, yes.
-*LIN:	estaban le &e Elma@s:cym&spa y todos esos +... 165376_167130
+*LIN:	estaban le &e Elma@s:cym&spa y todos esos +... 165342_168111
 %eng:	they were Elma and all those...
-*ISA:	&si &e sí . 166765_168167
+*ISA:	+< &ss &e sí . 166765_168167
 %eng:	yes.
-*ISA:	estaba la hermana mayor . 168248_169540
-%eng:	she was the eldest sister.
+*ISA:	estaba la hermana mayor . 167840_169172
+%eng:	there was the eldest sister.
 *ISA:	después viene taid@s:cym . 169546_170357
 %eng:	than came Grandpa
 *ISA:	después (.) creo que &e Isa@s:cym&spa &e +... 170545_173959
 %eng:	then I think Isa...
-*LIN:	Lowri@s:cym&spa que murió en Gales@s:cym&spa no ? 171279_172912
+*LIN:	+< Lowri@s:cym&spa que murió en Gales@s:cym&spa no ? 171279_172912
 %eng:	Lowri that died in Wales, yes?
-*LIN:	Bertha@s:cym&spa también . 173877_175187
+*LIN:	Bertha@s:cym&spa también . 173878_174669
 %eng:	Bertha too.
 *ISA:	+< Bertha@s:cym&spa también murió . 174513_175856
 %eng:	Bertha died too.
 *LIN:	sí . 175935_176321
 %eng:	yes.
 *ISA:	a los diecinueve años . 176043_177235
-%eng:	at 29 years old.
+%eng:	at nineteen years old.
 *ISA:	pobrecita . 177237_178143
 %eng:	poor thing.
 *ISA:	entonces ahí claro había mucha diferencia . 178480_180644
 %eng:	so of course, there was a lot of difference there.
 *ISA:	y por eso queda +//. 180943_182009
-%eng:	and for that reason [...] stays...
+%eng:	and for that reason it remains
 *LIN:	y después dicen ellas quién pudo haber sido antes de +//. 182037_184773
 %eng:	and then they said who might have been before...
 *LIN:	no Albert@s:cym&spa después . 184770_186253
@@ -259,8 +264,8 @@
 %eng:	yes, yes.
 *LIN:	viste que yo contaba que había estado buscando xxx en Mar_del_Plata@s:cym&spa . 197140_201369
 %eng:	you see, I said I'd been searching for [...] in Mar de Plata.
-*ISA:	ah@s:cym&spa es cierto . 201495_202909
-%eng:	ah, of course.
+*ISA:	ah@s:cym&spa cierto . 201454_202329
+%eng:	ah, it's true.
 *LIN:	+< y buscaba <en los> [//] en [/] en la guía telefónica . 201569_205022
 %eng:	and I searched in the phone book.
 *LIN:	no la encontré . 205033_205902
@@ -269,7 +274,7 @@
 %eng:	and ok, but  look it up just in case.
 *ISA:	sí . 208717_209288
 %eng:	yes.
-*LIN:	resulta <que el otro> [?] que el año pasado anterior cuando la vi acá . 209497_214057
+*LIN:	resulta <que el otro> [//] el año pasado anterior cuando la vi acá . 209497_214057
 %eng:	it turned out that last year  when I saw her here...
 *LIN:	&e vivía a una cuadra de [/] de <donde &vi> [//] donde vivía Olga . 214590_219225
 %eng:	she lived where Olga lived.
@@ -295,7 +300,7 @@
 *ISA:	qué cosa . 229185_230039
 %eng:	what a thing.
 *LIN:	y claro lo que yo no sabía o no entendía y ahora me doy cuenta por qué estaba siempre con Antonia@s:cym&spa . 229996_238122
-%eng:	and, ok, what I didn't know or didn't understand and realise now because she was always with Antonia.
+%eng:	and, ok, what I didn't know or didn't understand and realise now why she was always with Antonia.
 *ISA:	&cla son primas hermanas por parte de mamá . 238192_240592
 %eng:	they're first cousins on Mum's side.
 *LIN:	+< son primas claro . 239322_240368
@@ -309,39 +314,41 @@
 *LIN:	&=mumble . 242679_244668
 *LIN:	eh@s:cym&spa la mamá de [/] de [/] de Diana@s:cym&spa era Terri@s:cym&spa de Davies@s:cym&spa . 249337_254078
 %eng:	eh, Diana's mother was Terri de Davies.
-*ISA:	+< con cuál familia xxx . 249513_251273
+*ISA:	+< con cuál familia xxx ? 249513_251273
 %eng:	with which family [...]?
 *ISA:	+< sí . 253785_254179
 %eng:	yes.
-*LIN:	la eh@s:cym&spa Bertha@s:cym&spa que es una sobrina una hija de Ann@s:cym&spa eh@s:cym&spa de [/] de Ann@s:cym&spa . 255088_261509
+*LIN:	+<la eh@s:cym&spa Bertha@s:cym&spa que es una sobrina una hija de Ann@s:cym&spa eh@s:cym&spa de [/] de Ann@s:cym&spa . 255088_261509
 %eng:	the, eh, Bertha who's a cousin... one of auntie Ann's daughters.
-*ISA:	ah@s:cym&spa . 257386_259482
+*ISA:	+< ah@s:cym&spa . 258173_259297
 %eng:	ah.
 *LIN:	no de Annie@s:cym&spa . 261597_263277
 %eng:	no, Annie's.
-*LIN:	hermana de Don@s:cym&spa , Bartha@s:cym&spa casada con Jonathan@s:cym&spa Terri@s:cym&spa . 264413_268077
+*LIN:	hermana de Don@s:cym&spa , Bertha@s:cym&spa casada con Jonathan@s:cym&spa Terri@s:cym&spa . 264413_268077
 %eng:	Don's sister Bertha, married to Jonathan Terri.
-*ISA:	sí sí sí sí sí . 264988_266269
+*ISA:	+< sí sí sí sí sí . 264988_266269
 %eng:	yes, yes.
 *ISA:	a la xxx . 268820_269919
 %eng:	in the [...].
-*LIN:	+< y Oscar@s:cym&spa . 269073_270555
+*LIN:	y Oscar@s:cym&spa . 269073_270555
 %eng:	and Oscar.
-*ISA:	ah@s:cym&spa cruzados ? 269690_270863
-%eng:	ah, [?]?
+*ISA:	+< ah@s:cym&spa cruzados ? 269690_270863
+%eng:	ah, intertwined?
 *LIN:	sí . 270833_271163
 %eng:	yes.
-*ISA:	+< ah@s:cym&spa con (.) con Tammy@s:cym&spa . 271167_273887
-%eng:	ah, with Tammy.
 *LIN:	y Oscar@s:cym&spa con Tammy@s:cym&spa . 271169_273382
 %eng:	and Oscar with Tammy.
-*LIN:	con [///] eran tres hermanas . 273790_275576
+*ISA:	+< con +... 271462_272025
+%eng:	with...
+*ISA:	+< con Tammy@s:cym&spa . 272885_273718
+%eng:	con Tammy.
+*LIN:	con [//] eran tres hermanas . 273790_275576
 %eng:	they were three sisters.
 *ISA:	+< sí sí sí tienes razón . 273976_276126
 %eng:	yes, yes you're right.
 *LIN:	+< y Amelia@s:cym&spa (.) casada con Myfyr@s:cym&spa . 275590_279510
 %eng:	and Amelia... married to Myfyr.
-*ISA:	con con Myfyr@s:cym&spa pariente . 278614_280811
+*ISA:	+< con [/] con Myfyr@s:cym&spa pariente . 278614_280811
 %eng:	to Myfyr, a relative.
 *LIN:	que era pariente también &e hija <de Gwyneth@s:cym&spa> [//] de Gwawr@s:cym&spa . 280901_283594
 %eng:	... who was also a relative, the daughter of Gwyneth... of Gwawr.
@@ -353,16 +360,16 @@
 %eng:	of aunt Gwawr.
 *LIN:	+< sí no pero (.) pero eran de la familia . 284945_287921
 %eng:	yes, no,  but, but they were family.
-*ISA:	sí pero bueno sí sí claro claro . 285324_287793
+*ISA:	+< sí pero bueno sí sí claro claro . 285324_287793
 %eng:	yes but ok, yes, yes, I see.
-*ISA:	eh@s:cym&spa como seguramente ahí [?] se reunirían este en las (.) tal vez en la capilla donde estuvieran . 288106_294646
+*ISA:	eh@s:cym&spa como seguramente ahí se reunirían este en las (.) tal vez en la capilla donde estuvieran . 288106_294646
 %eng:	eh, like, certainly they met there in the, perhaps in the chapel where they were.
 *ISA:	y se mezclaban porque +//. 294648_296212
 %eng:	and they got together because...
-*LIN:	sí pero deben haber vivido muy cerca . 295395_298062
+*LIN:	+< sí pero deben haber vivido muy cerca . 295395_298062
 %eng:	yes but they must've lived very close.
-*LIN:	cerca de los Terri@s:cym&spa . 298010_298837
-%eng:	close to the Terri family.
+*LIN:	aca de los Terri@s:cym&spa . 298010_298837
+%eng:	here from the Terri family.
 *ISA:	+< xxx [?] . 298176_299776
 *LIN:	dónde vivían los Terri@s:cym&spa ? 298773_300288
 %eng:	where did the Terri family live?
@@ -370,28 +377,28 @@
 %eng:	I have no idea.
 *ISA:	no no tengo idea . 301226_303039
 %eng:	no, I have no idea.
-*ISA:	no para tantas +//. 303098_304047
+*ISA:	no para tantas +/. 303098_304047
 %eng:	not for so many...
 *LIN:	pero fíjate cuatro entre primos y tíos . 303861_305962
 %eng:	but look, four among cousins and uncles.
-*ISA:	+< si que +//. 304090_305130
-%eng:	if...
-*ISA:	+< sí . 305071_305509
+*ISA:	+< sí +//. 304090_305130
+%eng:	yes.
+*ISA:	+< sí . 305382_305506
 %eng:	yes.
 *LIN:	uno [//] una <con &e> [/] con una tía . 305922_308466
 %eng:	one with an aunt.
 *ISA:	sí . 308469_309104
 %eng:	yes.
-*LIN:	+, con un tío . 309131_310501
+*LIN:	&e con un tío . 309131_310501
 %eng:	with an uncle.
-*LIN:	y los otros con primos todos . 310555_314267
+*LIN:	y los otros con primos todos . 310564_312313
 %eng:	and all the others with cousins.
 *ISA:	+< sé que eran muy amigos de mam@s:cym . 311739_313253
 %eng:	I know that they were good friends with Mum.
 *ISA:	pero no sé . 313253_314267
 %eng:	but I don't know.
-*ISA:	xxx [?] hablar en galés . 314810_316560
-%eng:	[...] speak in Welsh.
+*ISA:	si nos animamos a hablar algo en galés . 314810_316560
+%eng:	let's try to say something in Welsh.
 *LIN:	[- cym] xxx be wyt ti isio siarad &=laugh ? 316642_320141
 %eng:	what do you want to talk (about)?
 *ISA:	[- cym] wel dewch i ni siarad rywbeth &=laugh um +... 318413_322530
@@ -623,9 +630,9 @@
 %eng:	yes.
 *ISA:	ayer estuve hablando con (.) con Productores_Cenceros@s:cym&spa [?] . 526563_530318
 %eng:	yesterday I talked to Productores_Cenceros.
-*LIN:	con el frío que hace . 526579_527976
-%eng:	about how cold it is.
-*ISA:	y realmente ya hay alguno que ya [/] (.) ya viene empezando [?] con pérdida . 530779_536147
+*LIN:	+< el frío que hace . 526579_527976
+%eng:	it is so cold.
+*ISA:	y realmente ya hay alguno que ya [/] (.) ya viene empezando con pérdida . 530779_536147
 %eng:	and in fact there is already someone who is already starting (to make) a loss.
 *ISA:	ha habido ocho heladas . 536142_537955
 %eng:	it has frozen eight times.
@@ -641,21 +648,21 @@
 %eng:	they don't count on it.
 *ISA:	a pesar de haber prendido motores para [/] (.) para el agua y todo eh@s:cym&spa . 545093_550944
 %eng:	in spite of turning on the motors for the water and everything.
-*ISA:	hay gente que ya ha perdido . 551163_552619
+*ISA:	hay gente que ya ha perdido . 551102_552372
 %eng:	there are people who have already made a loss.
-*ISA:	así que fíjate vos que [/] que eh@s:cym&spa pronóstico no . 552555_555595
-%eng:	so imagine what a forecast.
-*LIN:	sí . 555281_556022
+*ISA:	así que fíjate vos que [/] que eh@s:cym&spa pronóstico no ? 552555_555595
+%eng:	so just imagine what a prospect, you know?
+*LIN:	+< sí . 555281_556022
 %eng:	yes.
-*ISA:	ahora es la temporada de cerezas . 555578_557397
-%eng:	now is the cherry season.
-*LIN:	ese ese eh@s:cym&spa ese aparato para combatir la helada  . 557282_562556
+*ISA:	para la temporada de cerezas . 555578_557397
+%eng:	for the cherry season.
+*LIN:	ese [/] ese eh@s:cym&spa ese aparato para combatir la helada  . 557282_562556
 %eng:	that  machine for fighting the frost.
 *LIN:	siguen usando el invento de [/] de Roberto@s:cym&spa ? 563268_567636
 %eng:	are they still using Roberto's invention?
-*ISA:	qué Roberto@s:cym&spa ?
+*ISA:	qué Roberto@s:cym&spa ? 567430_568596
 %eng:	which Roberto?
-*LIN:	Roberto@s:cym&spa tu sobrino fue no fue el que hizo algo +... 568504_571698
+*LIN:	Roberto@s:cym&spa tu sobrino fue [//] no fue el que hizo algo +... 568504_571698
 %eng:	wasn't it Roberto, your nephew, who made something...
 *ISA:	um no sé eh@s:cym&spa . 571426_572557
 %eng:	I don't know.
@@ -663,16 +670,20 @@
 %eng:	wasn't it him, not, not [...] an invention for the cherries?
 *ISA:	+< no no  . 573885_575464
 %eng:	no, no.
-*ISA:	él creo que ha [//] si ha trabajado ha trabajado con algunos sensores . 575479_578999
-%eng:	I think if he has worked on something it was with some sensors.
+*ISA:	él creo que ha [//] si ha trabajado ha trabajado sobre algunos sensores . 575479_578999
+%eng:	I think if he has worked on something it was on some sensors.
 *ISA:	pero no . 579004_580076
 %eng:	but no.
 *LIN:	+< ah@s:cym&spa .  579324_579820
 %eng:	ah.
-*ISA:	no el sistema es un motor que [/] que levanta agua y [/] y aspersores que riegan como si fueran los aspersores de acá chiquiticos ? 579801_588334
+*ISA:	el sistema es un motor que [/] que levanta agua y [/] y aspersores que riegan como si fueran los aspersores de acá chiquititos ? 579989_587192
 %eng:	no, the system is a motor that raises water and sprinklers that sprinkle like a very small version of the sprinklers here.
-*ISA:	pues nada más que de la altura del árbol . 588334_590404
-%eng:	so nothing goes above the height of the tree.
+*LIN:	+< no yo pensé que ya +... 580551_583070
+%eng:	no, I thought that already...
+*LIN:	+< ah@s:cym&spa . 587629_588378
+%eng:	ah.
+*ISA:	pero nada más que de la altura del árbol . 588334_590404
+%eng:	but nothing goes above the height of the tree.
 *LIN:	+< xxx . 589230_590062
 *ISA:	y riega . 590683_591990
 %eng:	and it sprinkles.
@@ -682,10 +693,10 @@
 %eng:	with...
 *LIN:	la helada . 595172_595844
 %eng:	the frost.
-*ISA:	es un fenómeno que yo no lo entiendo demasiado . 595892_599210
+*ISA:	es un fenómeno que yo no lo entiendo demasiado . 595882_598463
 %eng:	it's a phenomenon that I don't understand too well.
-*ISA:	el agua se congela (.) y al congelarse (.) el hielo (.) libera calor  . 600004_606630
-%eng:	the water freezes, and as it reezes it releases heat.
+*ISA:	pero (.) el agua se congela (.) y al congelarse (.) el hielo (.) libera calor  . 598577_606508
+%eng:	but the water freezes, and as it freezes it releases heat.
 *ISA:	y al liberar calor protege la planta . 606773_609312
 %eng:	and by releasing heat it protects the plant.
 *ISA:	por eso tiene que estar húmedo .  609413_610907
@@ -696,13 +707,13 @@
 %eng:	it was awfully hard.
 *LIN:	sí . 618073_618463
 %eng:	yes.
-*ISA:	+< a pesar de haber tirado el agua (.) quemó igual la planta . 618485_622187
+*ISA:	+< a pesar de haber tirado el agua (.) quemó igual la planta . 618047_621877
 %eng:	in spite of drawing the water, which burnt the plant equally.
 *LIN:	y de estas ocho heladas se salvó alguna ? 622477_625261
 %eng:	and has any one of these eight frosts been overcome?
 *ISA:	+< <y de &es> [///] sí sí . 624365_625618
 %eng:	yes, yes.
-*ISA:	pero igualmente algunos han tenido problemas serios porque (.) +... 625598_628403
+*ISA:	pero igualmente algunos han tenido problemas serios porque (.) +... 625595_627906
 %eng:	but some also have had serious problems because...
 *LIN:	+< uhuh@s:cym . 626270_626798
 %eng:	uhuh.
@@ -718,71 +729,72 @@
 %eng:	of course, now then.
 *ISA:	un instante que te +/. 635488_637216
 %eng:	one moment...
-*LIN:	sacan del canal ? 635851_636992
+*LIN:	+< sacan del canal ? 635851_636992
 %eng:	do they take it from the canal?
-*ISA:	sí sí pero <tiene que> [//] (.) tiene que recorer (.) tres filtros por lo menos antes de llegar al [/] (.) al motor . 637043_642994
+*ISA:	sí sí pero <tiene que> [//] (.) tiene que recorrer (.) tres filtros por lo menos antes de llegar al (.) [/] al motor . 637043_642994
 %eng:	yes, yes, but it has to pass through at least three filters before it gets to the motor.
 *LIN:	+< ajá (.) claro . 638084_642291
 %eng:	ah, I see.
 *LIN:	y [/] y con todo eso se tapan los [/] los (.) los +... 642429_644978
 %eng:	but the [...] get blocked.
-*ISA:	y con todo y eso se tapan porque las partículas son muy chiquiticas . 644333_647458
+*ISA:	y con todo y eso se tapan porque las partículas son muy chiquititas . 644333_647458
 %eng:	but they get blocked because the particles are very small.
-*ISA:	los canales vienen muy [/] (.) muy sucios . 649880_651112
-%eng:	the canal get very dirty.
-*LIN:	y xxx que ese sistema como dijo el señor acá . 650436_653167
-%eng:	and [...] that this system as the gentleman here said.
+*ISA:	los canales vienen muy (.) [/] muy sucios . 647180_650906
+%eng:	the canals get very dirty.
+*LIN:	y tienen que ser cisternas como dijo el señor acá . 650436_653167
+%eng:	and there have to be cisterns as the gentleman here said.
 *LIN:	xxx cisterna para que +/. 653071_654708
 %eng:	[...] cistern so that...
 *ISA:	+< sí . 653663_654367
 %eng:	yes.
-*ISA:	+< hay gente que tiene cisterna pero &cuan +//. 654131_656025
-%eng:	there are people how have a cistern but ...
+*ISA:	+< hay gente que tiene cisterna pero con +//. 654131_656025
+%eng:	there are people how have a cistern but with ...
 *ISA:	Lloyd@s:cym&spa tiene cisterna pero con todo (.) eh@s:cym&spa no es algo suficiente . 655801_661230
 %eng:	Lloyd has a cistern but with everything, it is not enough.
-*ISA:	tiene que estar a veces toda la noche tirando . 661216_663888
-%eng:	sometimes he has to pump all night.
+*ISA:	se tiene que estar a veces toda la noche tirando . 661216_663888
+%eng:	sometimes it has to pump all night.
 *ISA:	y en la chacra de Lewis@s:cym&spa también se +... 664939_667346
 %eng:	and Lewis' farm also is...
 *ISA:	lo poquito de verdura que había (.) frutita de caroso así para la casa manzana no quedó nada . 667379_675326
-%eng:	the little bit of greenery that had Caroso fruit (to keep) at home, apple,  nothing was left.
+%eng:	the little bit of greenery that had stone fruit (to keep) at home, apple,  nothing was left.
 *LIN:	+< sí las ciruelas caídas en el piso un montón . 672678_675505
 %eng:	yes, a lot of the plums fallen to the ground in a heap.
 *ISA:	es una pena . 675334_677292
-%eng:	it's a shame.
-*LIN:	+< sí sí . 676838_677532
-%eng:	yes.
-*LIN:	tuve dos años con [///] seguidos . 678429_679853
-%eng:	he has had two years in a row.
+%eng:	it's a pity.
+*LIN:	+< xxx sí sí . 676119_677430
+%eng:	[...] yes.
+*LIN:	pero y dos años con [///] seguidos . 678429_679853
+%eng:	but two years in a row.
 *LIN:	no va a haber dulces en las casas este año . 679917_681565
 %eng:	there aren't going to be any sweets at homes this year.
 *ISA:	+<  eso es lo que hablábamos . 681148_682834
 %eng:	that what we have been saying.
-*ISA:	porque (.) hay familias que no es que viven de la chacrita . 682967_687799
-%eng:	because there are families who don't live on their field.
-*ISA:	pero por ejemplo vos si vos tenés unas plantitas haces tu dulce . 688115_691469
+*ISA:	porque (.) hay familias que no es que vivan de la chacrita . 682967_687799
+%eng:	because there are families that, it's not that they live on their farm.
+*ISA:	pero por ejemplo vos si vos tenés unas plantitas hacés tu dulce . 688115_691469
 %eng:	but for example you, if you have some little plants you make your sweets.
 *LIN:	yo hago mi dulce . 691308_692172
 %eng:	I make my sweets.
 *LIN:	no no compro nunca un dulce . 692167_695212
 %eng:	no, no, I don't buy any sweets.
-*ISA:	xxx . 693218_694050
+*ISA:	+< bueno . 693218_694050
+%eng:	well.
 *LIN:	además hacía para tener (.) siempre hice que tenía para las casas de té cuando tenía casa de té . 695240_700344
 %eng:	also I had to have, I always made sure I had stuff for the tea rooms when I had a tea room.
 *ISA:	+< claro claro . 698098_699624
 %eng:	of course.
 *LIN:	siempre eran mis dulces . 700226_702135
 %eng:	they were always my sweets.
-*ISA:	+< seguramente . 701218_702018
+*ISA:	seguramente . 701218_702018
 %eng:	sure.
 *LIN:	y [/] y se extraña porque no se comen en casa otro dulce que no es el casero .  703292_707980
 %eng:	and it's missed because they don't eat any sweet in the house that isn't homemade.
 *ISA:	+< no y uno ya lo +... 705973_708064
 %eng:	no, and one [...] it already...
-*ISA:	primero (.) los buenos (.) caseros o tipo caseros son carísimos . 708006_713083
+*ISA:	primero (.) los buenos (.) caseros o tipo caseros son carísimos . 708006_713647
 %eng:	first, the good homemade sweets are very expensive.
-*LIN:	sí xxx sí . 713826_715059
-%eng:	yes, [...], yes.
+*LIN:	sí sí sí . 713826_715059
+%eng:	yes, yes, yes.
 *ISA:	y los otros son +/. 715005_717299
 %eng:	and the others are...
 *LIN:	+< no yo no [/] no compro no no no . 715405_717731
@@ -799,19 +811,21 @@
 %eng:	and the others are expensive.
 *LIN:	sí . 730943_731498
 %eng:	yes.
+*ISA:	son caros . 731209_732062
+%eng:	they are expensive.
 *LIN:	ahora vamos a poner citrus (.) nosotros . 732006_734422
 %eng:	now we're going to plant citrus.
-*ISA:	+< ah@s:cym&spa sí ? 734379_735093
+*ISA:	ah@s:cym&spa sí ? 734379_735093
 %eng:	oh, really?
-*LIN:	+< vamos a citrus . 734528_735387
+*LIN:	+< vamos a sembrar . 734528_735387
 %eng:	we're going to sow.
-*LIN:	xxx el chico de la chacra que alquiló va a poner zapallos  . 735821_739774
-%eng:	[...] the boy of the field that he rented as going to plant gourds.
+*LIN:	estamos [///] el chico de la chacra que alquiló va a poner zapallos . 735821_739774
+%eng:	we are, the boy from the farm that he rented was going to plant gourds.
 *LIN:	y nosotros vamos a poner unos eh@s:cym&spa calabaza . 739774_743006
 %eng:	and we are going to plant some, uh, pumpkins.
 *LIN:	xxx vamos a poner citrus y él unos tomates y algo aunque sea xxx dulces . 743864_748957
 %eng:	[...] we are going to plant citrus and he some tomatoes and something although it would be [...] sweets.
-*ISA:	[- cym] wel (.) jam tomato . 746818_748290
+*ISA:	+< [- cym] wel (.) jam tomato . 746818_748290
 %eng:	well, tomato jam.
 *ISA:	[- cym] digon o jam tomato . 748344_749699
 %eng:	enough tomato jam.
@@ -1025,8 +1039,8 @@
 %eng:	and she's quite, uh...
 *ISA:	<be@s:cym sy@s:cym (y)n@s:cym> [///] como se dice (.) caprichosa ? 929771_933259
 %eng:	how do you say "fussy"?
-*LIN:	pero qué [/] qué chicos más caprichosos . 933376_935659
-%eng:	what fussy children.
+*LIN:	pero qué [/] qué chicos no hay caprichosos . 933376_935659
+%eng:	but which children aren't fussy.
 *ISA:	+< &um sí (.) naturalmente . 933439_937055
 %eng:	yes, of course.
 *LIN:	más que antes eh@s:cym&spa . 938262_939985
@@ -1034,25 +1048,23 @@
 *ISA:	sí . 939953_940385
 %eng:	yes.
 *ISA:	tú crees que son más caprichosos los niños sí ? 940407_943526
-%eng:	don't you think children are more fussy, aren't they?
+%eng:	don't you think children are more fussy, yes?
 *LIN:	+< sí más que los nuestros sí sí sí . 941041_944300
 %eng:	yes, more than ours, yes, yes.
 *ISA:	eh@s:cym&spa afortunadamente se les da más atención . 946684_949324
-%eng:	unfortunately, they're given more attention.
+%eng:	fortunately, they're given more attention.
 *LIN:	sí . 949676_950236
 %eng:	yes.
 *ISA:	yo creo que nuestros padres (.) no tenían tiempo . 950098_954138
 %eng:	I don't think our parents had time.
 *ISA:	y era la época . 954074_955546
 %eng:	and it was the time.
-*LIN:	+< era la forma . 955364_956191
-%eng:	it was the way.
-*LIN:	me parece . 955364_956191
-%eng:	it seems to me.
+*LIN:	+< era la forma me parece . 955319_956880
+%eng:	it was the way, it seems to me.
 *ISA:	+< claro . 956586_957124
 %eng:	yes.
-*ISA:	pero la distancia entre hijo . 957072_959120
-%eng:	but the distance between child.
+*ISA:	la distancia entre hijo . 956708_958977
+%eng:	the distance between the child.
 *LIN:	+< si no hubiesen tomado el tiempo . 957259_959280
 %eng:	if they hadn't taken the time...
 *LIN:	pero no +... 959258_960896
@@ -1061,36 +1073,36 @@
 %eng:	they left other things and no.
 *ISA:	sí sí sí sí . 962533_963765
 %eng:	yes, yes.
-*ISA:	no [/] no era la costumbre [?] . 963529_965785
+*ISA:	no [/] no era la costumbre . 963529_965785
 %eng:	it wasn't the custom.
 *ISA:	entonces ellos medio que fueron usan [///] haciendo lo que +//. 965778_969394
 %eng:	so them, I think they're doing what...
 *LIN:	nosotros ya cambiamos . 969707_970917
 %eng:	we've already changed.
-*LIN:	y nos &=mumble nos &aten nos avocamos más a los chicos . 970768_973909
-%eng:	and we spent more time with the children .
+*LIN:	y nos &=mumble nos &aten nos abocamos más a los chicos . 970768_973909
+%eng:	and we spend more time with the children .
 *ISA:	+< &u nada que ver . 971291_973248
 %eng:	nothing to see.
-*ISA:	sí sí sí sí sí sí sí . 973296_974896
+*LIN:	cierto ? 973952_974480
+%eng:	yes?
+*ISA:	+< sí sí sí sí sí sí sí . 973296_974896
 %eng:	yes, yes.
-*LIN:	cierto . 973952_974480
-%eng:	of course.
 *LIN:	yo siempre me acuerdo que cuando eran chicos y yo ya estaba sola . 975273_979583
 %eng:	I always remember when they were children and I was already alone.
 *LIN:	+, y yo decía +"/. 980070_980582
 %eng:	and I said:
 *LIN:	+" yo soy cuatro . 980525_981357
-%eng:	I'm number four.
-*LIN:	así me van a querer . 982307_983421
+%eng:	I'm four.
+*LIN:	+" así me van a querer . 982307_983421
 %eng:	this is how they'll want me.
 *ISA:	[- cym] mmhm . 982344_983395
 %eng:	yes.
 *LIN:	yo soy cuatro . 983363_984317
-%eng:	I'm number four.
+%eng:	I'm four.
 *ISA:	claro . 984360_984723
 %eng:	I see.
 *LIN:	no soy una . 984771_986088
-%eng:	I'm not number one.
+%eng:	I'm not one.
 *LIN:	yo soy (.) yo soy con mis tres hijos . 986200_989229
 %eng:	I'm with my three children.
 *ISA:	claro . 989410_990040
@@ -1111,7 +1123,7 @@
 %eng:	but I never stopped being family.
 *ISA:	+< no no . 1003650_1004626
 %eng:	no, no.
-*ISA:	yo lo que les trato de explicar mis hijos ahora a medida que ellos van teniendo sus niñitos . 1004785_1009852
+*ISA:	yo lo que les trato de explicar mis hijos ahora a medida que ellos van teniendo sus niñitos +... 1004785_1009852
 %eng:	what I try to explain to my children now as they have their little ones.
 *LIN:	+< xxx . 1005025_1006268
 *ISA:	+, que (.) es probable que sea el cambio más importante en la vida cuando tenés un hijo (.) porque ya está . 1010944_1018189
@@ -1122,7 +1134,7 @@
 %eng:	and it's not temporary like something else you do.
 *ISA:	y que no solamente son &e satisfacciones . 1025790_1031224
 %eng:	and that there is more than just pleasure.
-*ISA:	hay problemas también . 1031201_1032594
+*ISA:	hay problemas también . 1031160_1032347
 %eng:	there are also problems.
 *ISA:	y (.) cuando vos tenés claro que va a haber alegrías y preocupaciones y tristezas y trabajo es cuando tomás la cosa un poquito más +... 1032237_1040965
 %eng:	and... when you have, of course there's going to be joy and worry and sadness and work, it's when you take the thing a bit more...
@@ -1130,9 +1142,9 @@
 %eng:	um...
 *ISA:	+, que no te sorprenda . 1041588_1043505
 %eng:	that it doesn't surprise you.
-*ISA:	+< que la paternidad +//. 1043870_1045454
+*ISA:	que la paternidad +//. 1043870_1045454
 %eng:	that parenthood...
-*LIN:	sí sí no que no es todo color de rosa . 1043886_1046894
+*LIN:	+< sí sí no que no es todo color de rosa . 1043886_1046894
 %eng:	yes, yes, no, that it's not all rosy.
 *ISA:	+< exactamente exactamente . 1046617_1048809
 %eng:	exactly, exactly.
@@ -1144,8 +1156,8 @@
 %eng:	or eat well?
 *ISA:	sí sí . 1057795_1058840
 %eng:	yes, yes.
-*ISA:	+< demás . 1058658_1059938
-%eng:	and the rest.
+*ISA:	+< de más . 1058658_1059938
+%eng:	too much.
 *LIN:	pero comen bien . 1058823_1059890
 %eng:	but they eat well.
 *LIN:	se sientan a la mesa . 1059885_1061591
@@ -1154,7 +1166,7 @@
 %eng:	they eat quietly.
 *ISA:	+< no tanto no porque [/] porque está la tele . 1062558_1065635
 %eng:	not so much,  no,  because it's the TV.
-*LIN:	no desparraman todo eso . 1062920_1064611
+*LIN:	no desparraman todo eso . 1062907_1065571
 %eng:	they don't spill everything.
 *ISA:	está la televisión . 1066151_1067799
 %eng:	the TV is there.
@@ -1164,22 +1176,22 @@
 %eng:	no, I was very strict with eating.
 *LIN:	+< y los papás no saben hacerlas comer . 1078231_1082205
 %eng:	and the parents don't know how to make them eat.
-*LIN:	en mi mesa más o menos funcionan porque Sean@s:cym&spa se pone firme . 1084588_1088044
+*LIN:	en mi mesa más o menos funcionan porque Sean@s:cym&spa se pone firme . 1083134_1087651
 %eng:	at my table it more or less works because Sean is firm.
-*ISA:	[- cym] mmhm (.) mmhm . 1085964_1087895
+*ISA:	+< [- cym] mmhm (.) mmhm . 1085964_1087895
 %eng:	mmhm, mmhm.
 *LIN:	pero paradas en las sillas . 1088247_1090193
 %eng:	but stood on the chairs.
-*LIN:	y copiando [?] con la mano . 1090167_1092380
-%eng:	and reaching with their hands.
+*LIN:	picotenado con la mano . 1090167_1092380
+%eng:	and picking food with their hands.
 *ISA:	+< sí sí sí sí . 1090860_1092145
 %eng:	yes, yes.
 *LIN:	tirando medio plato al suelo . 1092476_1094806
 %eng:	throwing half the plate on the floor.
 *ISA:	sí es cierto . 1094815_1096220
 %eng:	yes, of course.
-*LIN:	y desde la silla la otra reboleando todo . 1095510_1099505
-%eng:	and the other turning everything from the chair.
+*LIN:	y desde la sillita la otra reboleando todo . 1095510_1099505
+%eng:	and the other turning over everything from the chair.
 *ISA:	+< sabes cuál es el error que yo veo ? 1097364_1099444
 %eng:	do you know what mistake I see?
 *ISA:	yo los tenía en la silla . 1099623_1102098
@@ -1190,7 +1202,7 @@
 %eng:	easier until the age of three.
 *LIN:	claro . 1106819_1107886
 %eng:	I see.
-*ISA:	+< entonces la sillita alta les da una perspectiva de la mesa . 1107065_1110533
+*ISA:	entonces la sillita alta les da una perspectiva de la mesa . 1107065_1110533
 %eng:	so the high chair gives them a view of the table.
 *LIN:	+< claro . 1110688_1111200
 %eng:	I see.
@@ -1203,20 +1215,20 @@
 *LIN:	+< sí . 1118585_1119567
 %eng:	yes.
 *LIN:	y que se caen . 1119561_1120143
-%eng:	and they fall.
+%eng:	and they might fall.
 *LIN:	que se van a caer . 1120153_1121033
-%eng:	they're going to fall.
+%eng:	they might end up falling.
 *LIN:	que cuidado . 1121053_1122040
-%eng:	such care.
+%eng:	so, careful.
 *ISA:	y con eso es más fácil bajarse . 1121363_1123149
 %eng:	and with this it's easier to come off.
 *LIN:	sí . 1123426_1123842
 %eng:	yes.
 *LIN:	andan por todos lados . 1123826_1125117
 %eng:	they go to the edges.
-*LIN:	comen . 1125074_1125682
+*LIN:	comen . 1125039_1125393
 %eng:	they eat.
-*LIN:	viene . 1125608_1125970
+*LIN:	vienen . 1125560_1125997
 %eng:	they come.
 *ISA:	+< sí . 1125624_1126221
 %eng:	yes.
@@ -1234,14 +1246,14 @@
 %eng:	the eldest is a lady.
 *ISA:	ella se sient(a) +/. 1131480_1132787
 %eng:	she sits...
-*LIN:	entonces ya van aprendiendo . 1131598_1133187
+*LIN:	+< entonces ya van aprendiendo . 1131598_1133187
 %eng:	so they're already learning.
 *ISA:	sí sí sí sí sí sí . 1133251_1134627
 %eng:	yes, yes.
-*LIN:	tal vez . 1133294_1133896
-%eng:	...perhaps.
+*LIN:	+< tal vez . 1133294_1133896
+%eng:	perhaps.
 *LIN:	eh@s:cym&spa al final +//. 1134623_1135812
-%eng:	eh, finally...
+%eng:	eh, finally.
 *ISA:	+< pero las chiquiticos no las chiquitas están bravas ahora . 1134975_1137705
 %eng:	but the little children are ok now.
 *ISA:	las dos . 1138198_1139142
@@ -1258,7 +1270,7 @@
 %eng:	yes, but and towards the parents.
 *ISA:	+< andando . 1143217_1143777
 %eng:	walking.
-*LIN:	&e bueno le meten un iogwrt@s:cym <de un> [/] por un lado un pedazo de pan por otro un caramelo quizá antes de comer . 1144994_1152478
+*LIN:	&e bueno le meten un iogwrt@s:cym <de un> [//] por un lado un pedazo de pan por otro un caramelo quizá antes de comer . 1144994_1152478
 %eng:	ok, but they give a yoghurt on one side, a piece of bread on the other, or maybe a sweet before eating.
 *ISA:	+< y las mezclas de comida que hacen . 1150434_1152483
 %eng:	and the mixtures of food they make.
@@ -1268,18 +1280,16 @@
 %eng:	and they say:
 *LIN:	+" no no comen nada sólido . 1154796_1156220
 %eng:	they don't eat anything solid.
-*LIN:	no les gusta sólido . 1156211_1157469
+*LIN:	+" no les gusta sólido . 1156211_1157469
 %eng:	they don't like solids.
-*LIN:	entonces comen xxx . 1157405_1158952
-%eng:	so they eat [...]
-*ISA:	no no no . 1158676_1160468
+*LIN:	entonces con el minipimer hacerle &=imit:food_processor . 1157214_1160581
+%eng:	so they do it with the mixer, whirr.
+*ISA:	+< no no no . 1158676_1160468
 %eng:	no, no.
-*LIN:	y sale &=imit:food_processor . 1158788_1160505
-%eng:	and it goes "whirr".
 *LIN:	hígado &em zapallo fideos todo . 1160582_1164443
 %eng:	liver, pumpkin, noodles, everything.
-*ISA:	+< el chico no aprende a masticar . 1164073_1165595
-%eng:	the child doesn't learn to chew.
+*ISA:	+<no el chico no aprende a masticar . 1164073_1165595
+%eng:	no, the child doesn't learn to chew.
 *ISA:	no desarrolla estos músculos . 1165575_1167180
 %eng:	it doesn't develop these muscles.
 *LIN:	+< por eso por eso . 1165695_1167951
@@ -1292,7 +1302,7 @@
 %eng:	this is Luisa.
 *LIN:	y [/] y Mariana@s:cym&spa +... 1173126_1174353
 %eng:	and Mariana.
-*ISA:	Mariana@s:cym&spa . 1173126_1174353
+*ISA:	+< Mariana@s:cym&spa . 1173126_1174353
 %eng:	Mariana.
 *LIN:	ella le gustan las cosas distintas raras . 1174342_1177894
 %eng:	she likes unusual, strange things.
@@ -1312,25 +1322,25 @@
 %eng:	eh, I don't know.
 *LIN:	ella come cosas distintas . 1188938_1190600
 %eng:	she eats unusual things.
-*LIN:	pero los padres <no le> [/] no le dejan hacen dejar de comer &e &en &e durante el día cualquier hora . 1190504_1198020
+*LIN:	pero los padres <no le> [/] no le dejan [//] hacen dejar de comer &e &en &e durante el día cualquier hora . 1190504_1198020
 %eng:	but the parents don't let her stop eating at any time during the day.
 *ISA:	+< ah@s:cym&spa . 1190615_1191623
 %eng:	ah.
 *LIN:	ellas van y comen y comen y comen . 1197988_1201022
 %eng:	they come and they eat and eat and eat.
-*ISA:	+< no yo fui bastante más estrictas en eso . 1199255_1201694
+*ISA:	+< no yo fui bastante más estricta en eso . 1199255_1201694
 %eng:	no, I was very strict with this.
 *ISA:	sí . 1201535_1201924
 %eng:	yes.
-*LIN:	yo también . 1201674_1202847
+*LIN:	+< yo también . 1201674_1202847
 %eng:	me too.
-*ISA:	+< cuatro comidas sí . 1202209_1203420
-%eng:	four meals, yes.
+*ISA:	+< y cuatro comidas sí . 1201820_1203360
+%eng:	and four meals, yes.
 *ISA:	pero muy poco entre comidas . 1203681_1206188
 %eng:	but very little between meals.
 *ISA:	y claro como comíamos +//. 1207085_1208610
 %eng:	and ok, because we'd eat...
-*ISA:	ellos venían de la escuela . 1208578_1209890
+*ISA:	ellos venían de la escuela . 1208560_1209684
 %eng:	they'd come from school.
 *ISA:	suponé . 1209813_1210298
 %eng:	assume so.
@@ -1356,7 +1366,7 @@
 %eng:	I see.
 *ISA:	claro . 1231052_1231495
 %eng:	I see.
-*LIN:	+< porque Roberto@s:cym&spa estaba con nosotros para &se [/] para almorzar . 1231314_1234540
+*LIN:	+< porque Roberto@s:cym&spa estaba con nosotros para &se [//] para almorzar . 1231314_1234540
 %eng:	because Roberto was with us having dinner.
 *ISA:	[- cym] meddyliwch dada a mam yn y bwrdd (.) a ni (y)n fach . 1233488_1237829
 %eng:	just think, dad and mum at the table, and us young.
@@ -1409,15 +1419,15 @@
 *LIN:	tal vez para hacerte la loca . 1267001_1268889
 %eng:	perhaps to act dumb.
 *ISA:	+< había competencia o algo que yo quería . 1267804_1270481
-%eng:	[?] had a skill or something that I wanted.
-*LIN:	algo así sí . 1269470_1270809
+%eng:	there was rivalry or something that I wanted.
+*LIN:	+< algo así sí . 1269470_1270809
 %eng:	something like this, yes.
-*ISA:	sí sí no nunca . 1270812_1272190
+*ISA:	sí sí no nunca . 1270317_1272065
 %eng:	yes, yes, no, never.
-*LIN:	me parece . 1271129_1272206
+*LIN:	+< me parece . 1271129_1272206
 %eng:	it seems to me.
-*ISA:	y qué edad teníamos ? 1272121_1274147
-%eng:	and how old were we?
+*ISA:	y qué edad tendríamos ? 1272047_1272900
+%eng:	and how old would we have been?
 *LIN:	+< no lo hubieses hecho +/. 1272259_1274030
 %eng:	you wouldn't have done it...
 *ISA:	+< seis años ? 1273353_1274131
@@ -1426,7 +1436,7 @@
 %eng:	yes, I don't know, I don't remember the age.
 *LIN:	&is &e no . 1276576_1277477
 %eng:	no.
-*LIN:	eh@s:cym&spa yo estábamos [/] era antes de ir a Trelew@s:cym&spa a [///] de la chacra de Trelew@s:cym&spa a vivir . 1277443_1283269
+*LIN:	eh@s:cym&spa yo estábamos [//] era antes de ir a Trelew@s:cym&spa a [///] de la chacra de Trelew@s:cym&spa a vivir . 1277443_1283269
 %eng:	eh, it was before going to live in the farmhouse in Trelew.
 *ISA:	tuya ? 1283060_1283732
 %eng:	yours?
@@ -1440,7 +1450,7 @@
 %eng:	yes, yes.
 *ISA:	sí pero me acuerdo bien . 1288288_1290839
 %eng:	yes, but I remember well.
-*LIN:	pero lo debes haber hecho eso porque estaba +... 1289077_1292044
+*LIN:	+< pero lo debes haber hecho eso porque estaba +... 1289077_1292044
 %eng:	but you must have done this because it was...
 *ISA:	sí seguro sí . 1291507_1292809
 %eng:	yes, I'm sure, yes.
@@ -1449,14 +1459,16 @@
 *LIN:	dijiste +"/. 1293966_1294782
 %eng:	you said.
 *LIN:	a vos te agarró xxx . 1294611_1296414
-%eng:	you were caught by  [?].
-*ISA:	+< pero no me acuerdo si me cascaron . 1295006_1297246
+%eng:	you were caught by  [...].
+*ISA:	+< pero no me acuerdo si me um@s:cym chascaron . 1295006_1297246
 %eng:	but I don't remember if they beat me.
 *LIN:	sí sí sí Tim@s:cym&spa . 1296490_1297524
 %eng:	yes, yes Tim.
-*LIN:	me recuer(do) +//. 1297492_1297935
+*ISA:	sí me cascó papá . 1297438_1298604
+%eng:	yes, dad beat me.
+*LIN:	+< me recuer(do) +//. 1297492_1297935
 %eng:	I remember.
-*LIN:	tu papá . 1297892_1298559
+*LIN:	+< tu papá . 1297892_1298559
 %eng:	your father.
 *LIN:	tú papá . 1298883_1299785
 %eng:	your father.
@@ -1464,9 +1476,7 @@
 %eng:	no, yes I imagine.
 *LIN:	+< yo me acuerdo . 1299497_1300495
 %eng:	I remember.
-*LIN:	yo me acuerdo . 1299561_1300366
-%eng:	I remember.
-*ISA:	qué debe haber sido la única vez . 1301424_1304374
+*ISA:	que debe haber sido la única vez . 1301424_1304374
 %eng:	it must've been the only time.
 *LIN:	+< no sé cuán cascada te dio . 1301506_1303803
 %eng:	I don't know how they beat you.
@@ -1478,11 +1488,11 @@
 %eng:	and I was sitting next to him to top it all off.
 *LIN:	+< claro . 1307340_1308113
 %eng:	I see.
-*LIN:	nos tiramos al piso . 1308076_1309638
-%eng:	we threw ourselves to the floor.
+*LIN:	ibas tirándolo al piso . 1308076_1309638
+%eng:	you were throwing it on the floor.
 *ISA:	&=laugh . 1309258_1310101
 *LIN:	y yo espantada . 1309587_1311050
-%eng:	and I was horrified
+%eng:	and I was horrified.
 *ISA:	+< y no tenía [=! laugh ] (.) y no teníamos perro &=laugh . 1310105_1312688
 %eng:	and we didn't have a dog.
 *LIN:	qué lo comiera [=! laugh ] . 1312944_1315296
@@ -1494,7 +1504,7 @@
 *ISA:	no seguro que no . 1316165_1317904
 %eng:	no, surely not.
 *ISA:	&=gasp . 1317890_1319384
-*LIN:	yo eh@s:cym&spa mi papá no [/] no me pegó . 1318317_1322456
+*LIN:	yo eh@s:cym&spa mi papá no [/] no me pegó . 1318274_1321626
 %eng:	I, eh, my father didn't beat me.
 *ISA:	xxx [?] . 1319336_1321096
 *LIN:	nunca salvo +... 1321200_1322838
@@ -1517,16 +1527,16 @@
 %eng:	and this hurt me more than if he'd...
 *ISA:	+< seguro . 1341071_1342207
 %eng:	sure.
-*ISA:	aparte porque cuando el padre xxx pega es doblemente . 1341983_1347348
-%eng:	but when the father [...] it's double.
+*ISA:	aparte porque cuando el padre grita o pega es doblemente . 1341983_1347348
+%eng:	also because when the father shouts or hits it's double.
 *LIN:	+< sí sí . 1346446_1347480
 %eng:	yes, yes.
 *ISA:	sí . 1347534_1348280
 %eng:	yes.
 *LIN:	y después . 1348234_1349456
 %eng:	and then...
-*LIN:	&e y siempre por norma fue la cosa . 1349424_1352298
-%eng:	and the thing was always the norm.
+*LIN:	&e y siempre por Laura@s:cym&spa fue la cosa . 1349424_1352298
+%eng:	and the thing was always because of Laura.
 *LIN:	&e &cua tendría siete años . 1353087_1354646
 %eng:	I was seven years old.
 *LIN:	vivíamos en ya en la ciudad . 1354665_1356278
@@ -1540,7 +1550,7 @@
 *LIN:	y me tiró el pelo . 1360285_1361613
 %eng:	and pulled my hair.
 *LIN:	entonces viste que era camorrerita ? 1361555_1364052
-%eng:	so can you see she was mischevious?
+%eng:	can you see she was mischevious then?
 *ISA:	+< [- cym] dim ond chwarae +//. 1362669_1363437
 %eng:	only playing...
 *ISA:	si chwarae@s:cym oedden@s:cym nhw@s:cym te@s:cym siŵr@s:cym . 1363506_1365058
@@ -1551,7 +1561,7 @@
 %eng:	we went as far as...
 *LIN:	viste donde vivía Anastasia@s:cym&spa por allá por el canal ? 1367471_1370745
 %eng:	where Anastasia lived, there by the canal, you see?
-*ISA:	sí (.) sí sí sí . 1370080_1372007
+*ISA:	+< sí (.) sí sí sí . 1370080_1372007
 %eng:	yes, yes.
 *LIN:	yo corriéndola a ella . 1370884_1372724
 %eng:	me running after her.
@@ -1796,12 +1806,12 @@
 *ISA:	qué tiempos aquellos no ? 1589195_1590683
 %eng:	what times those were, don't you think?
 *LIN:	+< xxx . 1589707_1590390
-*ISA:	me [/]  me gustaba mucho . 1590741_1592821
-%eng:	I liked very much [...].
+*ISA:	&m nos gustaba mucho . 1590741_1592821
+%eng:	we liked (them) a lot.
 *ISA:	hacía [///]  las casas no eran calurosas porque eran casas eh@s:cym&spa (.) frescas . 1594065_1599967
 %eng:	it was, the houses weren't warm, because they were cool houses.
 *ISA:	pero yo el recuerdo que tengo que el verano . 1600039_1603825
-%eng:	but in my memories it's always summer.
+%eng:	but the memory I have, that the summer.
 *ISA:	la mesa grande del cegin@s:cym fawr@s:cym no del cegin@s:cym bob@s:cym dydd@s:cym . 1604461_1608613
 %eng:	the big table in the big kitchen, you know, the everyday kitchen.
 *ISA:	se sacaba abajo de los tamariscos . 1609083_1611559
@@ -1810,6 +1820,8 @@
 %eng:	how beautiful.
 *ISA:	pero y ahí comíamos todo el verano . 1612698_1616175
 %eng:	but that was also where we would eat all spring.
+*LIN:	siempre . 1614470_1615719
+%eng:	always.
 *ISA:	o sea (.) no llovía . 1616286_1618915
 %eng:	if it wasn't raining.
 *LIN:	se ve que no +/. 1619576_1620094
@@ -1818,15 +1830,15 @@
 %eng:	it wasn't cold.
 *ISA:	yo no recuerdo si a la noche comeríamos . 1622590_1625801
 %eng:	I don't remember if we'd eat in the evening.
-*ISA:	pero (.) xxx muy divertido . 1625525_1629472
-%eng:	but [...] great fun.
+*ISA:	pero (.) &duran y era muy divertido . 1625525_1629472
+%eng:	but [...] and it was great fun.
 *ISA:	muy lindo era comer afuera . 1629446_1631318
 %eng:	it was very nice to eat outside.
 *ISA:	también había mosquitos digo yo pero +... 1631522_1634205
 %eng:	mind you, there were mosquitos as well, but...
 *LIN:	no había tantos mosquitos como ahora tampoco . 1634151_1636732
 %eng:	there weren't as many mosquitos as nowadays either.
-*ISA:	+< era muy divertido . 1635015_1636716
+*ISA:	+< era &m era divertido . 1635015_1636716
 %eng:	it was great fun.
 *ISA:	puede ser . 1636985_1637924
 %eng:	it could be.
@@ -1846,7 +1858,7 @@
 %eng:	there weren't as many mosquitos.
 *ISA:	+< no no . 1643081_1644019
 %eng:	no.no.
-*LIN:	ahora no podés comer afuera casi porque +/. 1644094_1646339
+*LIN:	ahora no podés comer afuera casi porque +/... 1644094_1646339
 %eng:	now you almost can't eat outside because...
 *ISA:	+< mhm no . 1644094_1646339
 %eng:	mhm, no.
@@ -1866,7 +1878,7 @@
 %eng:	and many more flies.
 *LIN:	sí . 1659246_1659507
 %eng:	yes.
-*ISA:	+< sí había . 1659310_1660035
+*ISA:	+< sí había . 1659288_1659621
 %eng:	yes, there were.
 *ISA:	sí . 1659859_1660371
 %eng:	yes.
@@ -1882,14 +1894,14 @@
 %eng:	to control them.
 *LIN:	+< estaban las [/] las botellitas esas para (.) que se ponían con un plato con azúcar . 1666594_1671196
 %eng:	there were those little bottles that they put on a plate with sugar.
-*LIN:	sí eh@s:cym&spa nunca más vi ese +/. 1670466_1672567
+*LIN:	sí eh@s:cym&spa nunca más vi ese +... 1670466_1672567
 %eng:	yes, I haven'y seen that since.
 *ISA:	+< yo tengo  +/. 1671186_1672220
 %eng:	I've got...
-*ISA:	yo tengo uno (.) en casa  . 1672167_1673676
-%eng:	I've got one at home.
 *LIN:	+< sí . 1672887_1673202
 %eng:	yes.
+*ISA:	yo tengo uno (.) en casa  . 1672167_1673676
+%eng:	I've got one at home.
 *ISA:	era de mami . 1673687_1674796
 %eng:	it was Mum's.
 *LIN:	+< no sé cómo se llamaba . 1673698_1674743
@@ -1902,19 +1914,21 @@
 %eng:	no idea.
 *ISA:	pero tengo la de mami en casa . 1677245_1679651
 %eng:	but I have Mum's at home.
-*LIN:	xxx un sistema (.) ecológico . 1678552_1680157
+*LIN:	era una [/] un sistema (.) ecológico . 1678452_1682137
 %eng:	[...] an ecological system.
-*ISA:	yo pensé que era muy xxx . 1680722_1682552
-%eng:	I thought it was very [...].
+*ISA:	+< yo pensé que era muy en fashion@s:eng . 1680722_1682552
+%eng:	I thought it was very modern.
 *ISA:	pero no parece que es de los años cuarenta por ahí treinta y pico  . 1682490_1687191
 %eng:	but no, it seems to date back to the forties, something like that, thirty-something.
+*LIN:	+< no ? 1682989_1684029
+%eng:	no?
 *LIN:	+< ah (.) xxx . 1683095_1687287
 %eng:	ah, [...].
 *LIN:	qué bien . 1688102_1688598
 %eng:	very good.
 *LIN:	este . 1689715_1690686
 %eng:	yes.
-*ISA:	viste que esas botellas (.) eh@s:cym&spa en una película el cartero la de Neruda@s:cym&spa . 1690649_1697811
+*ISA:	viste que esas botellas (.) eh@s:cym&spa en una película el cartero (.) la de Neruda@s:cym&spa . 1690649_1697811
 %eng:	did you see that those bottle were in a film, the one about the postman by Neruda.
 *LIN:	el cartero . 1698263_1699074
 %eng:	the postman.
@@ -1930,18 +1944,17 @@
 %eng:	seriously?
 *LIN:	sí . 1704290_1704669
 %eng:	yes.
-*ISA:	sí . 1704376_1704664
-%eng:	yes.
 *LIN:	sobre la mesa una de esas sí . 1704605_1706960
 %eng:	on the table, one of those, yes.
-*ISA:	ah . 1705835_1707131
+*ISA:	+< sí . 1704376_1704664
+%eng:	yes.
+*ISA:	ah@s:cym&spa . 1705835_1707131
 %eng:	ah.
 *ISA:	qué linda película esa . 1707067_1708094
 %eng:	what a nice film that was.
-*LIN:	ay . 1707972_1708745
-%eng:	yes.
-*ISA:	a mí me gustó . 1708324_1708996
-%eng:	I liked it.
+*LIN:	xxx . 1707972_1708745
+*ISA:	cómo me gustó . 1708324_1708996
+%eng:	how I liked it.
 *LIN:	sí sí . 1708868_1709929
 %eng:	yes, yes.
 *ISA:	linda linda . 1710116_1711257
@@ -1954,9 +1967,11 @@
 %eng:	he went to Viña.
 *ISA:	y me mandó unas fotos . 1718659_1720259
 %eng:	and he sent me some photos.
-*ISA:	y la costa es muy parecida a la costa donde [/] (.) donde está la [/] la casa de Neruda@s:cym&spa la [/] la Negra@s:cym&spa . 1720415_1727605
+*ISA:	y la costa es muy parecida a la costa donde (.) [/] donde está la [/] la casa de Neruda@s:cym&spa la [/] la Negra@s:cym&spa . 1720415_1727605
 %eng:	and the coast is very similar to the coast where Neruda's house is, Isla Negra.
-*ISA:	es [/] es una costa muy [/] (.) muy cor(ta) [//] <muy abrup(ta)> [/] no abrupta sino no es estas costas que nosotros estamos acostumbrados allá medio rocosas . 1727669_1737526
+*LIN:	hmm@s:cym&spa . 1726150_1727233
+%eng:	hmm.
+*ISA:	es [/] es una costa muy (.) [/] muy cor(ta) [//] <muy abrup(ta)> [/] no abrupta sino no es estas costas que nosotros estamos acostumbrados allá medio rocosas . 1727669_1737526
 %eng:	it's a very rugged coast, no, not rugged, but it's not like the coasts that we are used to over there, half rocky.
 *LIN:	&=caugh . 1735526_1736454
 *ISA:	son negras las no sé por qué las +//. 1738458_1740810
@@ -1981,7 +1996,7 @@
 %eng:	I don't know if now, going with four of us, will be the same.
 *LIN:	pero por lo menos vamos a ir a [/] a conocer . 1761873_1764652
 %eng:	but at least we are going to get to know the place.
-*LIN:	cómo no vamos a ir a [/] a conocer Viña@s:cym&spa yendo a Santiago@s:cym&spa no . 1765101_1769117
+*LIN:	cómo no vamos a ir a [/] a conocer Viña@s:cym&spa yendo a Santiago@s:cym&spa no ? 1765101_1769117
 %eng:	why shouldn't we go and look at Viña on the way to Santiago?
 *ISA:	+< claro es todo muy cerquita . 1767411_1769424
 %eng:	of course, it's very close.
@@ -1991,36 +2006,36 @@
 %eng:	and Beto said that either you fall into the sea.
 *LIN:	o la +/. 1775009_1775926
 %eng:	or the...
-*ISA:	+< o te chocas con la montaña porque +/. 1775361_1778038
+*ISA:	+< o te chocas con la montaña porque [=! laughs] +/. 1775361_1778038
 %eng:	or you'll bump into the mountains because...
-*LIN:	+< pero vos sabés que eh@s:cym&spa es algo raro porque hasta el centro de Chile@s:cym&spa por lo menos hasta Temuco@s:cym&spa +... 1777002_1782362
+*LIN:	+< pero vos sabés que eh@s:cym&spa es algo raro porque hasta el centro de Chile@s:cym&spa por lo menos hasta Temuco@s:cym&spa +... 1776931_1782677
 %eng:	but you know that it is a strange thing because until the centre of Chile, at least until Temuco...
 *ISA:	uhuh@s:cym&spa . 1783223_1783783
 *LIN:	+, la montaña no se ve . 1783725_1785117
 %eng:	...you can't see the mountains.
-*LIN:	no se ve como se ve de en Bolsón@s:cym&spa y eso . 1786078_1789624
+*LIN:	no se ve como se ve de [//] en Bolsón@s:cym&spa y eso . 1786078_1789624
 %eng:	you can't see them as you can from Bolsón and so on.
 *ISA:	ah no se ve ? 1789619_1790552
 %eng:	so you can't see them?
-*LIN:	desde la ruta se ven piquitos así que son eh@s:cym&spa [/] son eh@s:cym&spa cómo se les llama volcanes chiquiticos así ladeando humitos .  1790393_1801451
-%eng:	from the road you can see little peaks like little, what do you call, them, vulcanos scattered around at the side.
-*ISA:	chiquitos sí . 1799184_1800395
+*LIN:	desde la ruta se ven piquitos así que son eh@s:cym&spa [/] son eh@s:cym&spa cómo se les llama volcanes chiquititos así xxx humitos .  1790393_1801451
+%eng:	from the road you can see little peaks like little, what do you call them, little volcanos xxx fumes.
+*ISA:	+< chiquitos sí . 1799184_1800395
 %eng:	little, yes.
 *LIN:	pero +//. 1801627_1802160
 %eng:	but...
 *ISA:	+< lanzado humitos ? 1801638_1802870
-%eng:	lodged around?
+%eng:	giving off fumes?
 *LIN:	+< sí sí ves por  [/] así al costado a lo lejos en el horizonte (.) humitos que salen de volcancitos . 1802479_1809777
-%eng:	yes, yes, you see, as if at the side, on the left on the horizon, scattered little volcanos pop up.
+%eng:	yes, yes, you see, as if, at the side, on the left ,on the horizon, fumes coming out of little volcanos.
 *ISA:	ah no sabía eso . 1808752_1810043
 %eng:	ah, I didn't know that.
 *LIN:	se me ocurre que está muy alto eso . 1810281_1812958
 %eng:	it seems to me that that is very high.
 *ISA:	a la sensación . 1812945_1814668
-%eng:	it feels liek it.
+%eng:	it feels like it.
 *LIN:	+< pero no se ve <la mon(taña)> [/]  la montaña como la vemos nosotros de acá . 1813183_1818149
 %eng:	but you can't see the mountains as we see them from here.
-*ISA:	um uno tiene un error entonces equivocación . 1818614_1821382
+*ISA:	um@s:cym&spa uno tiene un error entonces equivocación . 1818614_1821382
 %eng:	one makes an error, a mistake.
 *LIN:	+< no no no . 1818844_1820684
 %eng:	no, no.
@@ -2028,7 +2043,7 @@
 %eng:	I imagine when you look at it, there's the sea on one side and on the other...
 *LIN:	+< sí . 1821607_1822353
 %eng:	yes.
-*LIN:	vos eh@s:cym&spa bajás eh@s:cym&spa sabés donde lo [/] lo bellísimo es cuando eh@s:cym&spa eh@s:cym&spa pasás entre la frontera entre &tre Argentina@s:cym&spa y [/] (.) y Chile@s:cym&spa   . 1823143_1836185
+*LIN:	vos eh@s:cym&spa bajás eh@s:cym&spa sabés donde lo [/] lo bellísimo es cuando eh@s:cym&spa eh@s:cym&spa pasás entre la frontera entre &tre Argentina@s:cym&spa y [/] (.) y Chile@s:cym&spa . 1823143_1836185
 %eng:	you descend and you know where the most beautiful part is, when you pass between the border between Argentina and Chile.
 *ISA:	+< sí . 1835790_1836105
 %eng:	yes.
@@ -2038,7 +2053,7 @@
 %eng:	where Mum said that it was most similar to the Welsh landscape.
 *LIN:	es preciosísimo . 1840903_1842685
 %eng:	it's very beautiful.
-*ISA:	+< ah . 1841527_1842530
+*ISA:	+< ah@s:cym&spa . 1841527_1842530
 %eng:	ah.
 *LIN:	pero una vez avanzando hacia Chile@s:cym&spa . 1842545_1845292
 %eng:	but once you approach Chile.
@@ -2052,14 +2067,14 @@
 %eng:	the mountains aren't like ours.
 *ISA:	+< no no claro . 1854048_1855328
 %eng:	no, no, of course not.
-*ISA:	ah no ? 1855176_1856824
-%eng:	aren't they?
+*ISA:	ah@s:cym&spa mirá vos 1855176_1856824
+%eng:	ah, look.
 *LIN:	no no . 1855875_1856915
 %eng:	no. no.
 *LIN:	no tiene ese paisaje . 1856760_1858600
 %eng:	it doesn't have that landscape.
-*LIN:	a no ser también ir por xxx ir a El_Chaltén@s:cym&spa por ahí sí .  1858679_1863922
-%eng:	unless you go to [...] to go to El_Chaltén@s:cym&spa around there, yes.
+*LIN:	a no ser también ir por Futaleufu@s:cym&spa ir a El_Chaltén@s:cym&spa por ahí sí .  1858679_1863922
+%eng:	unless you go to Futaleufu, to El_Chaltén around there, yes.
 *ISA:	+< sí sí . 1863111_1864034
 %eng:	yes, yes.
 *ISA:	+< claro . 1863910_1864267
@@ -2076,20 +2091,20 @@
 %eng:	and you don't see mountains like our Southern ones.
 *ISA:	no claro . 1873450_1874148
 %eng:	no, of course not.
-*LIN:	xxx ves la montaña pelada . 1874026_1875941
-%eng:	[...] see bare mountains.
+*LIN:	<ves la> [/] ves la montaña pelada . 1874026_1875941
+%eng:	you see bare mountains.
 *LIN:	sí ? 1876253_1876621
 %eng:	really?
 *ISA:	sí sí sí no tiene vegetación . 1876712_1878253
 %eng:	yes, yes, there is no vegetation.
-*LIN:	+< que si siempre de desilusiona cuando la ves por primera vez . 1876984_1880067
+*LIN:	+< siempre de desilusiona cuando la ves por primera vez . 1876984_1880067
 %eng:	it's always a disappointment when you see them for the first time.
 *ISA:	+< y porque son montañas que se cubren de hielo . 1878729_1882494
 %eng:	and because they are mountains that are covered in ice.
 *ISA:	entonces el hielo va ah@s:cym&spa +/. 1882489_1884793
-%eng:	then teh ice goes...
-*LIN:	+< sí además que son xxx no sé por qué son puras rocas  . 1883508_1886804
-%eng:	yes, and also the are [...], i don't know why they are pure rocks.
+%eng:	then the ice goes...
+*LIN:	+< sí además que son peladas no sé por qué son puras rocas  . 1883508_1886804
+%eng:	yes, and also they're bare, I don't know why they are pure rocks.
 *ISA:	+< sí . 1885214_1885598
 %eng:	yes.
 *ISA:	sí . 1886683_1887472
@@ -2124,8 +2139,8 @@
 %eng:	yes, yes, definitely.
 *LIN:	pero no están <a la>  [/] a la vista tan así . 1914212_1917647
 %eng:	but they aren't as visible.
-*ISA:	sí xxx como cuando uno toma la ruta que va de Esquel@s:cym&spa (.) por arriba . 1916186_1921992
-%eng:	yes, [...] like when one takes the road that goes up from Esquel.
+*ISA:	sería como cuando uno toma la ruta que va de Esquel@s:cym&spa (.) por arriba . 1916186_1921992
+%eng:	it's like when you take the road that goes up from Esquel.
 *ISA:	viste que cuando vos vas por Esquel@s:cym&spa arriba para Bariloche@s:cym&spa . 1922182_1925520
 %eng:	you see, when you go through Esquel upwards to Bariloche.
 *LIN:	+< sí . 1924662_1925280
@@ -2134,8 +2149,8 @@
 %eng:	suddenly there is like a plateau.
 *LIN:	sí sí . 1927548_1928321
 %eng:	yes, yes.
-*ISA:	se te van las montañas xxx . 1927806_1929459
-%eng:	the mountains go [...].
+*ISA:	se te van las montañas al diablo . 1927806_1929459
+%eng:	the mountains disappear.
 *LIN:	sí sí si . 1929326_1930286
 %eng:	yes, yes.
 *LIN:	es probable que sea eso también pero bue(no) . 1930199_1932743
@@ -2161,30 +2176,30 @@
 %eng:	yes, yes.
 *ISA:	sí . 1948074_1948447
 %eng:	yes.
-*ISA:	yo voy a ver ahora qué experiencia tengo en (.) +/. 1949564_1952999
+*ISA:	este yo voy a ver ahora qué experiencia tengo en (.) +/. 1949564_1952999
 %eng:	I'll see now what sort of experince I have in...
 *LIN:	+< en Tucumán@s:cym&spa . 1953303_1953853
 %eng:	...in Tucumán.
 *ISA:	+< en Tucumán@s:cym&spa . 1953501_1954877
 %eng:	in Tucumán.
-*LIN:	dicen que es muy bonito . 1953831_1954983
+*LIN:	+< dicen que es muy bonito . 1953831_1954983
 %eng:	they say it's very pretty.
 *LIN:	a Fredy@s:cym&spa le encanta Tucumán@s:cym&spa . 1954956_1957094
 %eng:	Fredy loves Tucumán.
 *ISA:	+< sí . 1956577_1957329
 %eng:	yes.
-*ISA:	el tema es que (.) tengo póco tiempo . 1957547_1961264
-%eng:	the problem is that I have ittle time.
+*ISA:	el tema es que (.) tengo poco tiempo . 1957547_1961264
+%eng:	the problem is that I have little time.
 *LIN:	+< vas al a ciudad ? 1959963_1961195
 %eng:	are you going to the city?
 *ISA:	sí sí . 1961256_1961944
 %eng:	yes, yes.
 *ISA:	poco tiempo . 1962015_1964218
 %eng:	little time.
-*ISA:	y si hace mucho calor . 1963994_1965285
+*ISA:	y si hace mucho calor +... 1963994_1965285
 %eng:	and it is very hot.
-*LIN:	ellos viven en departamento o en casa ? 1965294_1967614
-%eng:	do they live in a flat or a house?
+*LIN:	ellos viven en departamento en casa ? 1965294_1967614
+%eng:	do they live in a flat, in a house?
 *ISA:	+< sí sí sí sí . 1966638_1967705
 %eng:	yes, yes.
 *ISA:	departamento . 1967742_1968350
@@ -2194,25 +2209,25 @@
 *LIN:	ellos tienen tiempo sin xxx de salir . 1969196_1971510
 %eng:	they have time without [...] going out.
 *ISA:	+< la madre tiene una casa muy cerca con pileta y todo así . 1970574_1975091
-%eng:	the mother has a house very far away with a pool and everything.
-*ISA:	y si hiciera mucho calor +... 1975202_1977228
+%eng:	the mother has a house very close with a pool and everything.
+*ISA:	y si hiciera mucho calor +... 1975190_1977043
 %eng:	and if it was very hot...
-*ISA:	yo no soy de [//] (.) me [/] me gusta mucho la pileta pero +... 1977171_1981032
-%eng:	I'm not, I like the pool but...
-*LIN:	no pero si hay pileta quizá hay sombras y algo de eso . 1980445_1983950
-%eng:	no, but if there is a pool, maybe there are parasols and things like that.
-*ISA:	es probable sí sí sí sí sí sí sí sí  . 1982798_1984995
+*ISA:	yo no soy de [//] (.) no me [/] me gusta mucho la pileta pero +... 1977171_1981032
+%eng:	I'm not, I don't like the pool but...
+*LIN:	ah@s:cym&spa pero si hay pileta quizá hay sombras y árboles . 1980445_1983950
+%eng:	ah, but if there is a pool, maybe there are shade and trees.
+*ISA:	+< es probable sí sí sí sí sí sí sí sí  . 1982798_1984995
 %eng:	probably, yes, yes.
 *ISA:	y este y quiero estar con el bebé más que nada . 1985782_1989051
 %eng:	and really I want to be with the baby more than anything.
-*LIN:	&=mumble . 1988581_1990677
+*LIN:	&=mumble . 1988556_1989306
 *ISA:	si me lo dejan &=laugh . 1989028_1991908
 %eng:	if they let me.
 *ISA:	chiquitito sí . 1990900_1994159
 %eng:	very little, yes.
 *ISA:	toda una cosa anoche verlo moverse . 1994561_1997329
 %eng:	it was so exciting seing him moving.
-*LIN:	es el primer varón ? 1996043_1997302
+*LIN:	+< es el primer varón ? 1996043_1997302
 %eng:	is it the first boy?
 *ISA:	claro claro . 1997382_1998422
 %eng:	sure, sure.
@@ -2228,7 +2243,7 @@
 %eng:	no.
 *LIN:	+< dicen que ninguno quiere pero . 2004173_2005903
 %eng:	they say nobody wants to but...
-*ISA:	+< estás  [/] estás pensando en que tus hijos tengan un cuarto ? 2004778_2009188
+*ISA:	+< estás  [/] estás pensando en que tus hijos tengan un cuarto ? 2004736_2008795
 %eng:	are you thinking that your children will have a fourth child?
 *LIN:	no no no no creo . 2008362_2009556
 %eng:	no, no, no, I don't think so.
