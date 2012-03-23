@@ -521,7 +521,7 @@
 %eng:	and we got to eat a barbecue.
 *ISA:	[- cym] wel da iawn . 424836_426137
 %eng:	well, very good.
-*LIN:	oedden@s:cym ni@s:cym (y)n@s:cym [/] yn@s:cym (.) wneud@s:cym um@s:cym (..) rhyw@s:cym fath@s:cym o@s:cym feast . 426292_432372
+*LIN:	oedden@s:cym ni@s:cym (y)n@s:cym [/] yn@s:cym (.) wneud@s:cym um@s:cym (..) rhyw@s:cym fath@s:cym o@s:cym feast@s:eng . 426292_432372
 %eng:	we were doing a sort of feast.
 *ISA:	+< pwy@s:cym wnaeth@s:cym yr@s:cym asado ? 431337_432414
 %eng:	who did the barbecue?
@@ -715,7 +715,7 @@
 %eng:	yes, yes.
 *ISA:	pero igualmente algunos han tenido problemas serios porque (.) +... 625595_627906
 %eng:	but some also have had serious problems because...
-*LIN:	+< uhuh@s:cym . 626270_626798
+*LIN:	+< [- cym] uhuh . 626270_626798
 %eng:	uhuh.
 *ISA:	el agua trae mucha basura . 628477_630903
 %eng:	the water contains a lot of dirt.
@@ -813,14 +813,14 @@
 %eng:	yes.
 *ISA:	son caros . 731209_732062
 %eng:	they are expensive.
-*LIN:	ahora vamos a poner citrus (.) nosotros . 732006_734422
+*LIN:	ahora vamos a poner citrus@s:eng (.) nosotros . 732006_734422
 %eng:	now we're going to plant citrus.
 *ISA:	ah@s:cym&spa sí ? 734379_735093
 %eng:	oh, really?
 *LIN:	+< vamos a sembrar . 734528_735387
 %eng:	we're going to sow.
 *LIN:	estamos [///] el chico de la chacra que alquiló va a poner zapallos . 735821_739774
-%eng:	we are, the boy from the farm that he rented was going to plant gourds.
+%eng:	we are, the boy from the farm that he rented was going to plant pumpkins.
 *LIN:	y nosotros vamos a poner unos eh@s:cym&spa calabaza . 739774_743006
 %eng:	and we are going to plant some, uh, pumpkins.
 *LIN:	xxx vamos a poner citrus y él unos tomates y algo aunque sea xxx dulces . 743864_748957
@@ -922,7 +922,7 @@
 %eng:	ah, I can try.
 *LIN:	si mae@s:cym o@s:cym (y)n@s:cym hawdd@s:cym . 818231_819148
 %eng:	yes, it's easy.
-*LIN:	mae@s:cym o@s:cym dim@s:cym mor@s:cym &h annodd@s:cym eh@s:cym&spa . 819351_820482
+*LIN:	mae@s:cym o@s:cym dim@s:cym mor@s:cym &h anodd@s:cym eh@s:cym&spa . 819351_820482
 %eng:	it's not so hard, eh.
 *ISA:	+< [- cym] (dy)na fo . 820492_821058
 %eng:	that's it.
@@ -1242,7 +1242,7 @@
 %eng:	not the eldest, eh...
 *ISA:	la mayor no . 1129330_1130184
 %eng:	not the eldest.
-*ISA:	la mayor es una lady . 1130163_1131624
+*ISA:	la mayor es una lady@s:eng . 1130163_1131624
 %eng:	the eldest is a lady.
 *ISA:	ella se sient(a) +/. 1131480_1132787
 %eng:	she sits...
@@ -1860,13 +1860,13 @@
 %eng:	no.no.
 *LIN:	ahora no podés comer afuera casi porque +/... 1644094_1646339
 %eng:	now you almost can't eat outside because...
-*ISA:	+< mhm no . 1644094_1646339
+*ISA:	+< mmhm no . 1644094_1646339
 %eng:	mhm, no.
 *LIN:	+, te mandan adentro los +... 1646255_1647887
 %eng:	they send you inside ...
 *LIN:	todo el bicharro [//]  los bicharracos . 1648223_1651055
 %eng:	all the creatures.
-*ISA:	+< em . 1648223_1651055
+*ISA:	+< [- cym] um . 1648223_1651055
 %eng:	um.
 *ISA:	sí que habían moscas no ? 1651835_1653835
 %eng:	there were flies, weren't there?
@@ -1990,7 +1990,7 @@
 %eng:	who has a flat in Viña.
 *LIN:	que nos ha ofrecido . 1757100_1758711
 %eng:	that he has offered us.
-*ISA:	uhuh@s:cym&spa . 1758204_1758823
+*ISA:	[- cym] uhuh . 1758204_1758823
 %eng:	uhuh.
 *LIN:	no sé si ahora yendo los cuatro va a ser lo mismo . 1758669_1761843
 %eng:	I don't know if now, going with four of us, will be the same.
@@ -2010,7 +2010,7 @@
 %eng:	or you'll bump into the mountains because...
 *LIN:	+< pero vos sabés que eh@s:cym&spa es algo raro porque hasta el centro de Chile@s:cym&spa por lo menos hasta Temuco@s:cym&spa +... 1776931_1782677
 %eng:	but you know that it is a strange thing because until the centre of Chile, at least until Temuco...
-*ISA:	uhuh@s:cym&spa . 1783223_1783783
+*ISA:	[- cym] uhuh . 1783223_1783783
 *LIN:	+, la montaña no se ve . 1783725_1785117
 %eng:	...you can't see the mountains.
 *LIN:	no se ve como se ve de [//] en Bolsón@s:cym&spa y eso . 1786078_1789624
@@ -2026,7 +2026,7 @@
 *ISA:	+< lanzado humitos ? 1801638_1802870
 %eng:	giving off fumes?
 *LIN:	+< sí sí ves por  [/] así al costado a lo lejos en el horizonte (.) humitos que salen de volcancitos . 1802479_1809777
-%eng:	yes, yes, you see, as if, at the side, on the left ,on the horizon, fumes coming out of little volcanos.
+%eng:	yes, yes, you see, as if, at the side, on the left, on the horizon, fumes coming out of little volcanos.
 *ISA:	ah no sabía eso . 1808752_1810043
 %eng:	ah, I didn't know that.
 *LIN:	se me ocurre que está muy alto eso . 1810281_1812958

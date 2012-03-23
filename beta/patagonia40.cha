@@ -47,7 +47,7 @@
 *MAP:	&=laugh . 24902_25548
 *MAP:	qué feo esto no ? 26255_28117
 %eng:	that's ugly, isn't it?
-*MAP:	uh@s:cym&spa . 29018_30021
+*MAP:	uh . 29018_30021
 %eng:	uh
 *TIA:	a lo mejor si no tuviéramos que hablar íbamos a hablar bastante &=laugh . 30931_35594
 %eng:	even if we didn't have to talk, we'd be talking a lot
@@ -122,7 +122,7 @@
 %eng:	the other gentleman who came here with Elisa
 *TIA:	sí . 89300_89823
 %eng:	yes
-*MAP:	y [/] y eh@s:cym&spa uh@s:cym&spa la prima de [/] de Rosa_Lloyds@s:cym&spa . 89778_94056
+*MAP:	y [/] y eh@s:cym&spa uh@s:cym la prima de [/] de Rosa_Lloyds@s:cym&spa . 89778_94056
 %eng:	and Rosa Lloyd's cousin
 *MAP:	y una amiga . 94303_95759
 %eng:	and a friend
@@ -575,7 +575,7 @@
 %eng:	well, and she said that the garden was beautiful
 *TIA:	sí . 580522_581167
 %eng:	yes
-*MAP:	+" pero uh@s:cym&esp que flores no tengo muchas . 581194_583284
+*MAP:	+" pero uh@s:cym que flores no tengo muchas . 581194_583284
 %eng:	because I don't have many flowers
 *MAP:	dijo +". 583279_583689
 %eng:	she said
@@ -704,7 +704,7 @@
 %eng:	flying by, before you realize it it's already Christmas
 *TIA:	+< volando . 703364_704143
 %eng:	flying by
-*TIA:	[- cym] hm &=sighs hm . 706447_708478
+*TIA:	[- cym] hym &=sighs hym . 706447_708478
 %eng:	mm mm
 *MAP:	hay que ir preparando . 709010_710589
 %eng:	we have to start preparing
@@ -785,7 +785,7 @@
 %eng:	to Bella Vista
 *TIA:	cuántos años habremos &vi vivido +..? 791238_794129
 %eng:	how many years have we lived...?
-*MAP:	+< uh@s:cym&spa sesenta y tantos . 792939_794417
+*MAP:	+< uh@s:cym sesenta y tantos . 792939_794417
 %eng:	ooh, sixty-odd
 *MAP:	yo tenía sesenta y cinco cuando vinimos a vivir al pueblo . 794417_797810
 %eng:	I was sixty-five when we came to live in the village
