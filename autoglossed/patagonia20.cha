@@ -1090,8 +1090,8 @@
 *CEC:	dim_ond wythnos ? 937564_939381
 %aut:	only.ADV week.N.F.SG 
 %eng:	only a week?
-*CEC:	aw@s:cym&spa (.) qué@s:spa poquito@s:spa . 939554_941638
-%aut:	unk what.INT little.ADJ.M.SG.DIM 
+*CEC:	oh@s:cym&spa (.) qué@s:spa poquito@s:spa . 939554_941638
+%aut:	oh.IM what.INT little.ADJ.M.SG.DIM 
 %eng:	what a short time .
 *ALM:	[- spa] sí . 941850_942164
 %aut:	yes.ADV 
@@ -1105,20 +1105,20 @@
 *ALM:	sí@s:spa Llinos@s:cym&spa parece@s:spa que@s:spa sí@s:spa . 947042_949347
 %aut:	yes.ADV name seem.V.2S.IMPER.[or].seem.V.23S.PRES that.CONJ yes.ADV 
 %eng:	yes, Llinos, it seems yes .
-*CEC:	aw@s:cym&spa . 948923_949370
-%aut:	unk 
+*CEC:	oh@s:cym&spa . 948923_949370
+%aut:	oh.IM 
 *CEC:	(e)fallai ie . 950420_951523
 %aut:	perhaps.CONJ yes.ADV 
 %eng:	maybe, yes
 *CEC:	achos maen nhw wedi (..) dod (.) wel cyn yr eisteddfod . 952394_957271
-%aut:	cause.N.M.SG be.V.3P.PRES they.PRON.3P after.PREP come.V.INFIN well.IM before.PREP the.DET.DEF cultural festival.N.F.SG 
-%eng:	because they've come... well, before the eisteddfod
+%aut:	cause.N.M.SG be.V.3P.PRES they.PRON.3P after.PREP come.V.INFIN well.IM before.PREP the.DET.DEF eisteddfod.N.F.SG 
+%eng:	because they've come... well, before the Eisteddfod
 *ALM:	cyn yr eisteddfod ie . 957292_958790
-%aut:	before.PREP the.DET.DEF cultural festival.N.F.SG yes.ADV 
-%eng:	before the eisteddfod, yes
+%aut:	before.PREP the.DET.DEF eisteddfod.N.F.SG yes.ADV 
+%eng:	before the Eisteddfod, yes
 *CEC:	yr eisteddfod xx . 958870_959967
-%aut:	the.DET.DEF cultural festival.N.F.SG 
-%eng:	the eisteddfod [...]
+%aut:	the.DET.DEF eisteddfod.N.F.SG 
+%eng:	the Eisteddfod [...]
 *CEC:	ac oedd (.) rhywun yn dweud bod Bethan_Pritchard@s:cym&spa hefyd yn dod (.) xx . 960235_964734
 %aut:	and.CONJ be.V.3S.IMPERF someone.N.M.SG PRT say.V.INFIN be.V.INFIN name also.ADV PRT come.V.INFIN 
 %eng:	and someone was saying that Bethan Pritchard is also coming [..]
@@ -1218,8 +1218,8 @@
 %aut:	everyone.PRON after.PREP draw.V.INFIN+SM pictures.N.M.PL to_her.PREP+PRON.F.3S 
 %eng:	everyone's taken photos for her
 *CEC:	o(edde)t [?] ti (y)n gwybod bod nhw wedi curo (.) côr Seion@s:cym&spa yn yr eisteddfod ? 1052974_1057563
-%aut:	be.V.2S.IMPERF you.PRON.2S PRT know.V.INFIN be.V.INFIN they.PRON.3P after.PREP beat.V.INFIN choir.N.M.SG name in.PREP the.DET.DEF cultural festival.N.F.SG 
-%eng:	did you know they'd beaten Seion choir in the eisteddfod?
+%aut:	be.V.2S.IMPERF you.PRON.2S PRT know.V.INFIN be.V.INFIN they.PRON.3P after.PREP beat.V.INFIN choir.N.M.SG name in.PREP the.DET.DEF eisteddfod.N.F.SG 
+%eng:	did you know they'd beaten Seion Choir in the Eisteddfod?
 *ALM:	ah@s:cym&spa naddo . 1058568_1059351
 %aut:	ah.IM no.ADV.PAST 
 %eng:	oh no
@@ -1249,8 +1249,8 @@
 %aut:	yes.ADV 
 %eng:	yes
 *ALM:	ie oedd Olivia@s:cym&spa a Lowri@s:cym&spa wedi &m mwynhau yr [/] yr eisteddfod hefyd . 1083113_1087560
-%aut:	yes.ADV be.V.3S.IMPERF name and.CONJ name after.PREP enjoy.V.INFIN the.DET.DEF the.DET.DEF cultural festival.N.F.SG also.ADV 
-%eng:	yes, Olivia and Lowri had enjoyed the eisteddfod too
+%aut:	yes.ADV be.V.3S.IMPERF name and.CONJ name after.PREP enjoy.V.INFIN the.DET.DEF the.DET.DEF eisteddfod.N.F.SG also.ADV 
+%eng:	yes, Olivia and Lowri had enjoyed the Eisteddfod too
 *CEC:	+< ah@s:cym&spa ie . 1085839_1086512
 %aut:	ah.IM yes.ADV 
 %eng:	ah yes
@@ -2083,7 +2083,7 @@
 %aut:	but.CONJ the.DET.DEF.M.PL lad.N.M.PL have.V.3P.IMPERF cut.V.PASTPART the.DET.DEF.M.SG lawn.N.M.SG 
 %eng:	but the boys had mowed the lawn
 *ALM:	[- spa] estaba muy mojado . 1774183_1775646
-%aut:	be.V.13S.IMPERF very.ADV wet.ADJ.M.SG.[or].wet.V.M.SG.PASTPART 
+%aut:	be.V.13S.IMPERF very.ADV wet.V.PASTPART.[or].wet.ADJ.M.SG 
 %eng:	it was very wet
 *CEC:	[- spa] claro no habían cortado el césped el sábado . 1775692_1778583
 %aut:	of_course.E not.ADV have.V.3P.IMPERF cut.V.PASTPART the.DET.DEF.M.SG lawn.N.M.SG the.DET.DEF.M.SG Saturday.N.M.SG 
@@ -2297,7 +2297,7 @@
 %aut:	meet.V.2S.IMPER tomorrow.ADV not.ADV Thursday.N.M 
 %eng:	she celebrates tomorrow, no, [...] Thursday
 *CEC:	[- spa] pasado mañana . 1921932_1922768
-%aut:	pass.V.M.SG.PASTPART.[or].past.ADJ.M.SG.[or].past.N.M.SG tomorrow.ADV 
+%aut:	pass.V.PASTPART.[or].past.ADJ.M.SG.[or].past.N.M.SG tomorrow.ADV 
 %eng:	day after tomorrow
 *CEC:	[- spa] el miércoles (.) un año y cinco meses . 1923200_1926236
 %aut:	the.DET.DEF.M.SG Wednesday.N.M one.DET.INDEF.M.SG year.N.M.SG and.CONJ five.NUM month.N.M.PL 
@@ -2315,7 +2315,7 @@
 %aut:	not.ADV self.PRON.REFL.MF.23SP strike.V.23S.PRES 
 %eng:	she doesn't bump herself
 *CEC:	[- spa] tiene mucho cuidado . 1936938_1938546
-%aut:	have.V.23S.PRES much.ADV care.N.M.SG.[or].care_for.V.M.SG.PASTPART 
+%aut:	have.V.23S.PRES much.ADV care_for.V.PASTPART.[or].care.N.M.SG 
 %eng:	she's very careful
 *CEC:	[- spa] se fija . 1938540_1939730
 %aut:	self.PRON.REFL.MF.23SP fix.V.23S.PRES 

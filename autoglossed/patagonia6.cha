@@ -21,7 +21,7 @@
 %aut:	yes.ADV 
 %eng:	yes
 *SAR:	huh ? 1680_2021
-%aut:	huh.IM 
+%aut:	huh.IM.[or].huh.IM 
 *CRL:	yn Bryncrwn@s:cym&spa oedd yr ffarm (y)ma ? 2053_3808
 %aut:	in.PREP name be.V.3S.IMPERF the.DET.DEF farm.N.F.SG here.ADV 
 %eng:	was it in Bryncrwn, this farm?
@@ -1023,7 +1023,7 @@
 %aut:	yes.ADV 
 %eng:	yes
 *SAR:	a mi aeth hi a mi orwedd yn ei ochr hi . 725113_727353
-%aut:	and.CONJ PRT.AFF go.V.3S.PAST she.PRON.F.3S and.CONJ PRT.AFF lie_down.V.INFIN+SM.[or].lie_down.V.3S.PRES+SM PRT.[or].in.PREP her.ADJ.POSS.F.3S side.N.F.SG she.PRON.F.3S 
+%aut:	and.CONJ PRT.AFF go.V.3S.PAST she.PRON.F.3S and.CONJ PRT.AFF lie_down.V.INFIN+SM.[or].lie_down.V.3S.PRES+SM in.PREP.[or].PRT her.ADJ.POSS.F.3S side.N.F.SG she.PRON.F.3S 
 %eng:	and she went and lay by her side
 *SAR:	plentyn bach oedd hithau . 727385_729028
 %aut:	child.N.M.SG small.ADJ be.V.3S.IMPERF she.PRON.EMPH.F.3S 
@@ -1280,7 +1280,7 @@
 %eng:	and he did work to pick and shovel
 *SAR:	achos dw i (we)di wneud o (.) (we)di bod ar y ffarm (.) efo (y)r arad a (y)r orsel (.) oedden ni (y)n gallu pan oedden ni (y)n blant ifanc . 939989_946026
 %aut:	cause.N.M.SG be.V.1S.PRES I.PRON.1S after.PREP make.V.INFIN+SM he.PRON.M.3S after.PREP be.V.INFIN on.PREP the.DET.DEF farm.N.F.SG with.PREP the.DET.DEF plough.N.M.SG and.CONJ the.DET.DEF unk be.V.3P.IMPERF we.PRON.1P PRT be_able.V.INFIN when.CONJ be.V.3P.IMPERF we.PRON.1P PRT child.N.M.PL+SM young.ADJ 
-%eng:	because I do it, having been on the farm with the plough and the harrow[?] we were able when we were little children
+%eng:	because I do it, having been on the farm with the plough and the harrow [?] we were able when we were little children
 *CRL:	+< mm +... 941194_941642
 %aut:	mm.IM 
 *SAR:	mynd i (y)r camp i nôl coed tân bob amser . 946950_949489

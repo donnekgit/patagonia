@@ -450,13 +450,13 @@
 %aut:	be.V.1S.PRES I.PRON.1S not.ADV+SM PRT think.V.INFIN carry.V.INFIN forward.ADV with.PREP the.DET.DEF exercise.N.F.SG 
 %eng:	I'm not thinking of carrying on with the practice.
 *ROD:	[- spa] terminado ? 261250_261885
-%aut:	finish.V.M.SG.PASTPART 
+%aut:	finish.V.PASTPART 
 %eng:	finished?
 *ROD:	mm ? 264840_265202
 %aut:	mm.IM 
 %eng:	mm?
 *ROD:	[- spa] terminado ? 266727_267340
-%aut:	finish.V.M.SG.PASTPART 
+%aut:	finish.V.PASTPART 
 %eng:	finished?
 *LEI:	+< [- spa] claro . 266727_267340
 %aut:	of_course.E 
@@ -483,7 +483,7 @@
 %aut:	yes.ADV 
 %eng:	yes [...]
 *ROD:	era@s:spa para@s:spa salir@s:spa del@s:spa paso@s:spa durante@s:spa el@s:spa eisteddfod . 278102_281068
-%aut:	be.V.13S.IMPERF for.PREP exit.V.INFIN of_the.PREP+DET.DEF.M.SG pass.V.1S.PRES.[or].step.N.M.SG last.V.23P.PRES+TE[PRON.MF.2S].[or].throughout.PREP the.DET.DEF.M.SG cultural festival.N.F.SG 
+%aut:	be.V.13S.IMPERF for.PREP exit.V.INFIN of_the.PREP+DET.DEF.M.SG pass.V.1S.PRES.[or].step.N.M.SG last.V.23P.PRES+TE[PRON.MF.2S].[or].throughout.PREP the.DET.DEF.M.SG eisteddfod.N.F.SG 
 %eng:	It was for getting out of the situation during the Eisteddfod.
 %com:	Eira?
 *LEI:	[- spa] sí . 281116_281484
@@ -1934,7 +1934,7 @@
 %aut:	arrive.V.2S.IMPER 
 %eng:	[...] arrive.
 *ROD:	felly dim ond un noson fy(dd) raid campio wedyn . 1184483_1187208
-%aut:	so.ADV nothing.N.M.SG.[or].not.ADV but.CONJ one.NUM night.N.F.SG.[or].become_night.V.3P.PAST.[or].become_night.V.1P.PAST.[or].come.V.1P.PAST+NM.[or].come.V.3P.PAST+NM be.V.3S.FUT+SM necessity.N.M.SG+SM camp.V.INFIN afterwards.ADV 
+%aut:	so.ADV nothing.N.M.SG.[or].not.ADV but.CONJ one.NUM become_night.V.3P.PAST.[or].become_night.V.1P.PAST.[or].night.N.F.SG.[or].come.V.1P.PAST+NM.[or].come.V.3P.PAST+NM be.V.3S.FUT+SM necessity.N.M.SG+SM camp.V.INFIN afterwards.ADV 
 %eng:	so they'll only have to camp for one night then.
 *LEI:	+< ah@s:cym&spa . 1186877_1187224
 %aut:	ah.IM 
@@ -1986,7 +1986,7 @@
 %aut:	middle.N.M.SG+SM day.N.M.SG 
 %eng:	midday?
 *LEI:	wedyn chwarae yn_ystod y pnawn ? 1205482_1207066
-%aut:	afterwards.ADV play.V.INFIN.[or].game.N.M.SG.[or].play.V.2S.IMPER during.PREP the.DET.DEF afternoon.N.M.SG 
+%aut:	afterwards.ADV game.N.M.SG.[or].play.V.2S.IMPER.[or].play.V.INFIN during.PREP the.DET.DEF afternoon.N.M.SG 
 %eng:	and then play during the afternoon?
 *ROD:	ia . 1207844_1208207
 %aut:	yes.ADV 
@@ -2032,8 +2032,8 @@
 *LEI:	nac oedd [/] nac oedd . 1225175_1226018
 %aut:	PRT.NEG be.V.3S.IMPERF PRT.NEG be.V.3S.IMPERF 
 %eng:	no no.
-*ROD:	+< cadwa (y)r drws ar_agor &rag rhag ofn (ba)sai hi isio dod fewn (.) hm@s:cym&spa . 1226018_1229050
-%aut:	keep.V.2S.IMPER the.DET.DEF door.N.M.SG open.ADV from.PREP fear.N.M.SG be.V.3S.PLUPERF she.PRON.F.3S want.N.M.SG come.V.INFIN in.PREP+SM unk 
+*ROD:	+< cadwa (y)r drws ar_agor &rag rhag ofn (ba)sai hi isio dod fewn (.) hym . 1226018_1229050
+%aut:	keep.V.2S.IMPER the.DET.DEF door.N.M.SG open.ADV from.PREP fear.N.M.SG be.V.3S.PLUPERF she.PRON.F.3S want.N.M.SG come.V.INFIN in.PREP+SM hmm.IM 
 %eng:	leave the door open in case she wants to come in, eh.
 *LEI:	um +... 1234813_1235843
 %aut:	um.IM 
@@ -2056,7 +2056,7 @@
 %aut:	name 
 %eng:	Luís.
 *ROD:	cer i nôl fi gitâr os gwelwch yn dda . 1252116_1254004
-%aut:	go.V.2S.IMPER to.PREP.[or].I.PRON.1S fetch.V.INFIN I.PRON.1S+SM guitar.N.M.SG if.CONJ see.V.2P.IMPER PRT good.ADJ+SM 
+%aut:	go.V.2S.IMPER I.PRON.1S.[or].to.PREP fetch.V.INFIN I.PRON.1S+SM guitar.N.M.SG if.CONJ see.V.2P.IMPER PRT good.ADJ+SM 
 %eng:	go and get my guitar please.
 *LUI:	+< &=singing . 1252116_1255707
 %aut:	
@@ -2105,7 +2105,7 @@
 %aut:	PRT say.V.INFIN 
 %eng:	saying:
 *LEI:	+" oh@s:cym&spa ti ddim wedi dod â lluniau pen_blwydd efo (y)r gwên (y)na [=! laughs] . 1317799_1321127
-%aut:	oh.IM you.PRON.2S not.ADV+SM.[or].nothing.N.M.SG+SM after.PREP come.V.INFIN with.PREP pictures.N.M.PL birthday.N.M.SG with.PREP the.DET.DEF smile.N.F.SG there.ADV 
+%aut:	oh.IM you.PRON.2S nothing.N.M.SG+SM.[or].not.ADV+SM after.PREP come.V.INFIN with.PREP pictures.N.M.PL birthday.N.M.SG with.PREP the.DET.DEF smile.N.F.SG there.ADV 
 %eng:	"oh, you haven't brought any birthday pictures with that smile."
 *LEI:	i weld sut oedd siâp y [/] (..) y ddannedd . 1321952_1325504
 %aut:	to.PREP see.V.INFIN+SM how.INT be.V.3S.IMPERF shape.N.M.SG the.DET.DEF the.DET.DEF tooth.N.M.PL+SM 
@@ -2118,7 +2118,7 @@
 %aut:	shape.N.M.SG the.DET.DEF.F.SG the.DET.DEF.F.SG shape.N.F.SG of.PREP the.DET.DEF.F.SG 
 %eng:	shape, shape.
 *LEI:	[- spa] de los diente como le ha quedado la sonrisa . 1333181_1335773
-%aut:	of.PREP the.DET.DEF.M.PL tooth.N.M.SG eat.V.1S.PRES.[or].like.CONJ him.PRON.OBL.MF.23S have.V.23S.PRES stay.V.PASTPART the.DET.DEF.F.SG smile.N.F.SG 
+%aut:	of.PREP the.DET.DEF.M.PL tooth.N.M.SG like.CONJ.[or].eat.V.1S.PRES him.PRON.OBL.MF.23S have.V.23S.PRES stay.V.PASTPART the.DET.DEF.F.SG smile.N.F.SG 
 %eng:	of the teeth, how  the smile looks.
 *LEI:	dy(dd) Mercher (.) yr ail o Rhagfyr dan ni fod i fynd yn_ôl . 1342328_1346179
 %aut:	day.N.M.SG Wednesday.N.F.SG the.DET.DEF second.ORD of.PREP December.N.M.SG be.V.1P.PRES we.PRON.1P be.V.INFIN+SM to.PREP go.V.INFIN+SM back.ADV 
