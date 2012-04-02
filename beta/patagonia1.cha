@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	MBL Mabel Adult, DIA Diana Adult, CRS Carlos Adult, OSE non_participant Adult
+@Participants:	MBL Mabel Adult, DIA Diana Adult, CRS Carlos Adult, OSE Unkown Adult
 @ID:	cym, spa|Patagonia|MBL|21;|female|||Adult|||
 @ID:	cym, spa|Patagonia|DIA|22;|female|||Adult|||
 @ID:	cym, spa|Patagonia|CRS|28;|male|||Adult|||
@@ -114,7 +114,7 @@
 %eng:	mix everything
 *CRS:	ia y dwy . 99252_100041
 %eng:	yeah, both of them
-*MBL:	i'w los@s:spa hijos@s:spa ? 100087_103198
+*MBL:	i w los@s:spa hijos@s:spa ? 100087_103198
 %eng:	to the children?
 *CRS:	+< y dwy iaith . 100383_100922
 %eng:	both languages
@@ -245,8 +245,8 @@
 %eng:	and you?
 *MBL:	pryd wyt ti (y)n cael o ? 206768_207645
 %eng:	when are you having yours?
-*CRS:	&erm diwrnod nesaf . 207750_208911
-%eng:	erm, tomorrow
+*CRS:	um diwrnod nesaf . 207750_208911
+%eng:	um, next day
 *MBL:	+< yn yr haf ? 207750_208911
 %eng:	in the Summer?
 *MBL:	eh@s:cym&spa ? 209630_209851
@@ -475,7 +475,7 @@
 *MBL:	xxx &=laugh . 393826_398017
 *MBL:	[- eng] oh@s:cym&spa my God . 398272_399282
 *DIA:	xx . 399416_399718
-*MBL:	a <mae> [//] dydd Sadwrn nesaf (.) fi (y)n mynd efo Karls@s:cym&spa (.) i gwrdd uh bobl o eisteddfod yr &wy [//] yr Urdd . 400260_407830
+*MBL:	a <mae> [//] dydd Sadwrn nesaf (.) fi (y)n mynd efo Karls@s:cym&spa (.) i gwrdd uh bobl o eisteddfod yr &wi [/] yr Urdd . 400260_407830
 %eng:	and next week I'm going with Karl to meet people from the Urdd
 *CRS:	ia . 408132_408573
 %eng:	yeah
@@ -544,7 +544,7 @@
 %eng:	no, he wasn't going to eat tonight
 *DIA:	+< na . 473852_474340
 %eng:	no
-*DIA:	ti moyn cael day@s:eng off@s:eng . 475442_476870
+*DIA:	ti moyn cael day@s:eng off@s:eng . 475442_476988
 %eng:	you want a day off
 *MBL:	oh@s:cym&spa ia . 476986_477810
 *DIA:	+< xxx . 477299_478240
@@ -643,7 +643,7 @@
 %eng:	one hundred and sixty .
 *MBL:	a mae o (y)n mynd i Palermo@s:cym&spa . 582946_584037
 %eng:	and it goes to Palermo
-*MBL:	wyt ti (y)n cofio yr uh [/] uh &ll +... 584759_587325
+*MBL:	wyt ti (y)n cofio yr uh [/] uh &ɬ +... 584759_587325
 %eng:	do you remember the, uh ...
 *MBL:	[- spa] cómo se dice <la vez> [/] la vez anterior que venimos ? 589674_592554
 %eng:	how do you say, the time, the last time that we came?

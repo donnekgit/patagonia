@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	EST Estaban Adult, VAL Valencia Adult, OSE Unidentified Adult
+@Participants:	EST Estaban Adult, VAL Valencia Adult, OSE Unknown Adult
 @ID:	cym, spa|Patagonia|EST|27;|male|||Adult|||
 @ID:	cym, spa|Patagonia|VAL|55;|female|||Adult|||
 @ID:	cym, spa|Patagonia|OSE|||||Adult|||
@@ -423,7 +423,7 @@
 %eng:	it's hard to believe that we, who are of Welsh descent, can't get work over there.
 *EST:	ie xxx .456718_457902
 %eng:	yes, [...].
-*VAL:	+< achos mae Bob@s:cym&spa wedi cael profiad o [/] (.) o &ff chwilio am gwaith draw . 457271_462119
+*VAL:	+< achos mae Bob@s:cym&spa wedi cael profiad o [/] (.) o &f chwilio am gwaith draw . 457271_462119
 %eng:	because Bob has had an experience of looking for work over there.
 *EST:	oedd . 462175_462511
 %eng:	yes.
@@ -486,7 +486,7 @@
 *VAL:	achos oedden nhw yn (..) wedi gweld ti yn gwisgo ryw dillad neu beth ? 510905_515776
 %eng:	because they had seen you wearing some clothes or what?
 *EST:	+< w ie . 514232_515735
-%eng:	w, yes.
+%eng:	ooh, yes.
 *EST:	wel oedd fi yn gwisgo (.) fel uh ti (y)n gwybod +... 516108_518911
 %eng:	well, I was dressed like, you know...
 *VAL:	fel dach chi (y)n gwisgo fan (h)yn ? 518099_519417
@@ -528,7 +528,7 @@
 %eng:	yes.
 *VAL:	+< a pan aeson ni (y)na +//. 558436_559952
 %eng:	and when we went there...
-*VAL:	achos &o oedden i (y)n mynd i (y)r prifysgol yn Llanbed@s:cym&spa . 559952_562732
+*VAL:	achos &ɒ oedden i (y)n mynd i (y)r prifysgol yn Llanbed@s:cym&spa . 559952_562732
 %eng:	because we were going to the university in Lampeter.
 *VAL:	ac oedd y papurau i_gyd yn iawn achos oedd yr Cymdeithas_Cymru_Ariannin a pob (.) dim wedi cael ei wneud yn [/] yn drefnus iawn . 563146_569833
 %eng:	and the papers were all fine because Cymdeithas Cymru-Ariannin [Wales-Argentina Society] had organised everything very well.
@@ -720,7 +720,7 @@
 %eng:	near Cardiff.
 *EST:	+< yn agos i Gaerdydd . 766318_767769
 %eng:	near Cardiff.
-*VAL:	ond dw i ddim yn cofio &ll enw yr lle xxx . 766596_769174
+*VAL:	ond dw i ddim yn cofio &ɬ enw yr lle xxx . 766596_769174
 %eng:	but i don't remember the name of the place [...].
 *VAL:	dw i (we)di dechrau +/. 769766_770811
 %eng:	I have begun...
@@ -786,7 +786,7 @@
 %eng:	mm.
 *EST:	ia . 842046_842371
 %eng:	yes.
-*EST:	ond <&o o(eddw)n i (y)n> [?] methu . 842650_844368
+*EST:	ond <&ɒ o(eddw)n i (y)n> [?] methu . 842650_844368
 %eng:	but I couldn't.
 *VAL:	<a chi> [?] +/. 843881_844693
 %eng:	and you...
@@ -1165,9 +1165,9 @@
 %eng:	normally you hear a poem like this and there are a lot of difficult words and...
 *VAL:	+< wyt ti ddim yn deall . 1213068_1214380
 %eng:	you don't understand.
-*EST:	&o oedd [/] oedd fi yn dallt bob ddim bob gair . 1214682_1217921
+*EST:	&ɒ oedd [/] oedd fi yn dallt bob ddim bob gair . 1214682_1217921
 %eng:	I understood everything, every word.
-*EST:	am &o oedd [/] oedd hi yn [/] yn (.) basio trwyodd y [/] y teimlad (.) uh +/. 1218211_1224248
+*EST:	am &ɒ oedd [/] oedd hi yn [/] yn (.) basio trwyodd y [/] y teimlad (.) uh +/. 1218211_1224248
 %eng:	because she passed the feeling on...
 *VAL:	++ ie <i (y)r> [?] bobl . 1223667_1224619
 %eng:	...yes, to people.
@@ -2061,7 +2061,7 @@
 %eng:	he went to some little chapel and sang hymns in Welsh.
 *EST:	mm +... 2234765_2235160
 %eng:	mm...
-*VAL:	ac yn sydyn oedd (y)na nyrs (.) yn sefyll <wrth &o> [//] wrth ochr o (.) yn dweud +"/. 2234974_2241139
+*VAL:	ac yn sydyn oedd (y)na nyrs (.) yn sefyll wrth [/] &ɒ wrth ochr o (.) yn dweud +"/. 2234974_2241139
 %eng:	and suddenly a nurse who was standing next to him said:
 *VAL:	+" dw i (y)n dod o Gymru +"/. 2241406_2242602
 %eng:	"I come from Wales."

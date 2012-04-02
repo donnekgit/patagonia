@@ -2,10 +2,10 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	SAV Savannah Adult, NIN Nina Adult, OSE Researcher Adult
+@Participants:	SAV Savannah Adult, NIN Nina Adult, RES Researcher Adult
 @ID:	cym, spa|Patagonia|SAV|81;|female|||Adult|||
 @ID:	cym, spa|Patagonia|NIN|42;|female|||Adult|||
-@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|RES|||||Adult|||
 @Situation:	Conversation at Savannah's house in eastern Chubut, Argentina
 @Date:	04-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -451,7 +451,7 @@
 %eng:	in the messages he said.
 *NIN:	uh que@s:spa el@s:spa +/. 393975_395420
 %eng:	er, that he...
-*NIN:	[- spa] eh se lo [///] le podían reparar . 395699_397656
+*NIN:	eh@s:cym&spa se@s:spa lo@s:spa [///] le@s:spa podían@s:spa reparar@s:spa . 395699_397656
 %eng:	they could repair this.
 *NIN:	[- spa] esta valvuloplastía (.) <es una> [///] reparar la válvula . 397635_402491
 %eng:	this valvuloplasty is a... to repair the valve.
@@ -459,7 +459,7 @@
 %eng:	mm.
 *SAV:	[- spa] y cómo hacen eso sin abrir ? 402646_404716
 %eng:	and how did they do this without opening?
-*NIN:	[- spa] eh@s:cym&spa no sé . 405397_406133
+*NIN:	eh@s:cym&spa no@s:spa sé@s:spa . 405397_406133
 %eng:	I don't know.
 *NIN:	[- spa] xxx deben hacer como una microcirugía o una cosa así . 406080_409844
 %eng:	[...] they have to do like microsurgery or something like that.
@@ -793,7 +793,7 @@
 %eng:	um...
 *SAV:	lle mae dy perthynas di (y)n byw . 710675_712213
 %eng:	where your relative lives.
-*NIN:	&fe &m uh (.) Siân_Thomas@s:cym&spa . 712456_714190
+*NIN:	&eve &m uh (.) Siân_Thomas@s:cym&spa . 712456_714190
 %eng:	er, Siân Thomas.
 *NIN:	uh +... 714247_715026
 %eng:	er...
@@ -889,14 +889,14 @@
 %eng:	damn!
 *NIN:	Margaret@s:cym&spa ? 816955_817701
 %eng:	Margaret?
-*OSE:	www . 820657_826284
+*RES:	www . 820657_826284
 *SAV:	+< neu all +//. 821042_821501
 %eng:	or can...
 *SAV:	+< fe alla i wneud . 821501_822407
 %eng:	I can do...
 *SAV:	[- spa] hola ? 826540_827052
 %eng:	hello?
-*OSE:	www . 827004_827404
+*RES:	www . 827004_827404
 *NIN:	&=laugh i siarad &=laugh . 827702_829885
 %eng:	to talk...
 *SAV:	+< [- spa] hola Valmai@s:cym&spa . 828189_829160
@@ -1161,7 +1161,7 @@
 %eng:	oh he had his birthday and didn't remember.
 *NIN:	[- spa] no lo llamaste ? 1183910_1184785
 %eng:	didn't you call him.
-*NIN:	pryd mae (ei)steddfod@s:cym&spa . 1185012_1185881
+*NIN:	pryd mae (ei)steddfod . 1185012_1185881
 %eng:	when is the Eisteddfod?
 *SAV:	&=moan . 1187309_1188002
 *SAV:	xxx <fydd hi> [?] . 1187965_1188706
@@ -1322,17 +1322,17 @@
 *SAV:	&=stammer . 1302575_1303444
 *NIN:	[- spa] querés que vaya yo ? 1303402_1304388
 %eng:	do you want me to go?
-*OSE:	www . 1309638_1313347
+*RES:	www . 1309638_1313347
 %com:	NIN can be heard speaking to somebody by the door in the background.
 *NIN:	[- spa] hola . 1316764_1317409
 %eng:	hi.
-*OSE:	www . 1317468_1318727
+*RES:	www . 1317468_1318727
 *NIN:	[- spa] sí creo que xxx . 1318759_1320295
 %eng:	yes, I think [...]
-*OSE:	www . 1320289_1321335
+*RES:	www . 1320289_1321335
 *NIN:	ah@s:cym&spa o_k@s:cym&spa . 1321371_1322395
 %eng:	ah, ok.
-*OSE:	www . 1322278_1322667
+*RES:	www . 1322278_1322667
 *NIN:	[- spa] bueno . 1322672_1323478
 %eng:	ok.
 *SAV:	[- spa] quién Nina@s:cym&spa ? 1325964_1326807
@@ -1347,7 +1347,7 @@
 %eng:	look.
 *SAV:	[- spa] eh@s:cym&spa eh@s:cym&spa en ese +//. 1334699_1335627
 %eng:	in this...
-*SAV:	[- spa] en [/] en una &bol [/] &bol +//. 1335632_1337459
+*SAV:	[- spa] en [/] en una &bɒ &bɒl +//. 1335632_1337459
 %eng:	in a...
 *SAV:	[- spa] o en ese +//. 1337532_1338514
 %eng:	or in this one?
@@ -1426,7 +1426,7 @@
 %eng:	ok.
 *NIN:	[- spa] muchas gracias eh@s:cym&spa . 1408158_1409272
 %eng:	thanks very much.
-*OSE:	www . 1409182_1409598
+*RES:	www . 1409182_1409598
 *NIN:	[- spa] chao . 1409544_1410174
 %eng:	bye.
 *NIN:	[- spa] pero xxx . 1419177_1420334
@@ -1515,7 +1515,7 @@
 %eng:	nothing in Spanish?
 *NIN:	dim . 1518378_1518624
 %eng:	nothing.
-*NIN:	&ach [//] achos mae mm uh jurado@s:spa de@s:spa música@s:spa yn castellano@s:spa . 1518618_1525470
+*NIN:	&ax achos mae mm uh jurado@s:spa de@s:spa música@s:spa yn castellano@s:spa . 1518618_1525470
 %eng:	because the music judge is Spanish.
 *SAV:	oedd o +//? 1526353_1526796
 %eng:	was he?
@@ -1542,7 +1542,7 @@
 %eng:	I was remembering Rafael Gimenez.
 *NIN:	ti cofio Rafael_Gimenez@s:cym&spa ? 1546662_1548235
 %eng:	do you remember Rafael Gimenez?
-*NIN:	&up um +... 1549346_1551239
+*NIN:	&əp um +... 1549346_1551239
 %eng:	um...
 *NIN:	[- spa] fue [/] fue jurado una vez . 1552466_1554226
 %eng:	he was a judge once.
@@ -1787,7 +1787,7 @@
 %eng:	oh, what...
 *NIN:	mae [/] maen nhw (y)n dweud (.) bob amser +"/. 1772738_1774471
 %eng:	they say every time.
-*NIN:	+" oh@s:cym&spa achos mae uh bobl yn gweithio trwy (y)r &f uh +... 1774575_1780641
+*NIN:	+" oh@s:cym&spa achos mae uh bobl yn gweithio trwy (y)r &v uh +... 1774575_1780641
 %eng:	oh because people work throughout the, er...
 *SAV:	+< &=cough . 1774879_1775749
 *SAV:	++ flwyddyn . 1780558_1781139

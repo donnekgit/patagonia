@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, cym
@@ -86,7 +86,7 @@
 *PED:	ocho grados esta mañana cuando  el [//] se fijó el +... 96152_99443
 %eng:	it was 8 degrees this morning when he ... he noticed .
 *PED:	&=laugh . 99612_101563
-*PED:	sí 102968_104280 .
+*PED:	sí . 102968_104280
 %eng:	yes.
 *ALI:	lo que está viniendo lindo es el pasto . 106538_109285
 %eng:	what's becoming pretty is the pasture.
@@ -155,7 +155,7 @@
 %eng:	but the farm worker didn't come back to finish the wood there.
 *PED:	+< xxx . 208308_208879
 *PED:	+< xxx . 210271_211055
-*PED:	+<no 210638_212084 .
+*PED:	+< no . 210638_212084
 %eng:	no.
 *ALI:	recién fui allá hasta xxx . 212623_214938
 %eng:	recently I went there [...] .
@@ -189,7 +189,7 @@
 %eng:	and in this case, they are late .
 *PED:	sí . 271686_272619
 %eng:	yes.
-*PED:	lo que pasa es que son tardías pero (.) &po xxx +/. 273332_277540
+*PED:	lo que pasa es que son tardías pero (.) &p xxx +/. 273332_277540
 %eng:	what happens is that they are late.
 *ALI:	+< florecen junto con las otras . 276036_277615
 %eng:	but they bloom together with the other one
@@ -974,7 +974,7 @@
 %eng:	I think that if he hasn't rent it already [...]
 *ALI:	donde dices que está ? 1540731_1541830
 %eng:	where do you say it is ?
-*ALI:	&don donde está la madre ? 1541851_1543419
+*ALI:	&dɒn donde está la madre ? 1541851_1543419
 %eng:	where the mother is ?
 *PED:	eh@s:cym&spa ? 1543537_1544203
 %eng:	eh?
@@ -982,7 +982,7 @@
 %eng:	there, where the mother is?
 *PED:	eh@s:cym&spa no [/] no eh@s:cym&spa ah@s:cym&spa fueron a vivir ahí . 1547626_1551364
 %eng:	eh no, they went to live there.
-*ALI:	+< <porque ahí> [/] porque ahí hay un abandono oh leña la calle los perros la basura . 1549840_1557166
+*ALI:	+< <porque ahí> [/] porque ahí hay un abandono oh@s:cym&spa leña la calle los perros la basura . 1549840_1557166
 %eng:	Everything is abandoned there, wood, the street, the dogs, the trash.
 *PED:	+< sí ese [/] ese es la casita que <recién empecé a entrar> [//] recién entraron a vivir en la que estaban haciendo . 1556293_1561673
 %eng:	that's the house where they recently started to live in, the one they built.

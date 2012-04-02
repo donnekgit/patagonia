@@ -1,12 +1,12 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	HER Herminia Adult, GAB Gabriela Adult, ELO Eloisa Adult, OSE Unidentified
+@Participants:	HER Herminia Adult, GAB Gabriela Adult, ELO Eloisa Adult, RES Researcher Adult
 @ID:	cym, spa|Patagonia|HER|86;|female|||Adult|||
 @ID:	cym, spa|Patagonia|GAB|74;|female|||Adult|||
 @ID:	cym, spa|Patagonia|ELO|81;|female|||Adult|||
-@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|RES|||||Adult|||
 @Situation:	Conversation between friends at Gabriela's house
 @Date:	03-NOV-2009
 @Transcriber:	Lowri Jones Bangor University
@@ -32,7 +32,7 @@
 %eng:	but you've managed to be schooled.
 *HER:	do do . 12511_13594
 %eng:	we have, we have.
-*GAB:	+< do &ch bob un ohonoch chi (.) ti (he)fyd ? 13221_15131
+*GAB:	+< do &x bob un ohonoch chi (.) ti (he)fyd ? 13221_15131
 %eng:	you have, each one of you... you too?
 *HER:	+< wel oedd (f)y (.) (f)y nhad a mam +/. 13713_15478
 %eng:	well my father and mother...
@@ -126,7 +126,7 @@
 %eng:	the second war, with five children.
 *GAB:	+< oh@s:cym&spa . 72384_73440
 %eng:	oh.
-*HER:	ie ie oedden nhw (we)di medru diengyd o &o (.) afael Franco@s:cym&spa . 72980_76185
+*HER:	ie ie oedden nhw (we)di medru diengyd o &rɒ (.) afael Franco@s:cym&spa . 72980_76185
 %eng:	yes, yes they managed to escape Franco's grasp.
 *GAB:	+< oh@s:cym&spa gafael Franco@s:cym&spa . 74978_76519
 %eng:	oh Franco's grasp.
@@ -439,12 +439,12 @@
 %eng:	what shall I do now?
 *GAB:	ma(e) [//] mae (y)r teliffon yn mynd . 339693_341117
 %eng:	the phone's ringing
-*OSE:	www . 341105_343833
+*RES:	www . 341105_343833
 *GAB:	ie . 343807_344041
 %eng:	yes.
 *GAB:	<dim_ond gwel(d)> [//] dim_ond gweld <be sy> [//] pwy sy (y)na +... 344009_346460
 %eng:	(I'll) just see what's happening... who's there.
-*OSE:	www . 345404_347372
+*RES:	www . 345404_347372
 *GAB:	ie ia <wna i uh> [//] wna i weld pwy sy (y)n galw (.) &=laugh . 346340_351005
 %eng:	yes, yes, I'll see who's calling
 *GAB:	[- spa] hola ? 351758_352520
@@ -482,7 +482,7 @@
 %eng:	are you coming to put this back for me please?
 *HER:	+, [- spa] siete varones ? 379746_380797
 %eng:	seven guys?
-*OSE:	www . 380017_380461
+*RES:	www . 380017_380461
 *ELO:	[- spa] eso sí que era un sacrificio sí ? 380503_382194
 %eng:	yes this was a sacrifice wasn't it?
 *HER:	[- spa] sí sí sí sí sí . 381985_383953
@@ -890,7 +890,7 @@
 *GAB:	ond uh (.) o(eddw)n i (y)n [//] wel o(eddw)n i (y)n gorfod &s (.) chwarae efo mrodyr . 678889_682980
 %eng:	but I had to play with my brothers
 *ELO:	mm +... 682863_683740
-*GAB:	w(rth_gw)rs [?] <chwarae fútbol@s:spa> [/] &o chwarae fútbol@s:spa . 683813_685687
+*GAB:	w(rth_gw)rs [?] <chwarae fútbol@s:spa> [/] &ɒ chwarae fútbol@s:spa . 683813_685687
 %eng:	playing football of course
 *GAB:	&n o(edd) gyda fi ddim chwaer i ga(el) &=laughs +... 685593_687971
 %eng:	I didn't have a sister to have...
@@ -1129,7 +1129,7 @@
 %eng:	with the fields.
 *GAB:	oes oes oes lot o waith . 840571_843019
 %eng:	yes, yes a lot of work.
-*HER:	ar y [/] (.) ia (.) ar y &c ca(eau) . 841409_844993
+*HER:	ar y [/] (.) ia (.) ar y &kə ca(eau) . 841409_844993
 %eng:	on the, yes, on the fields.
 *GAB:	+< &=gasp ! 843011_844115
 *ELO:	ti (y)n cofio hanes uh Dylan@s:cym&spa a Nerys@s:cym&spa ? 844066_846364
@@ -1181,7 +1181,7 @@
 %eng:	yes.
 *ELO:	ni (y)n deud cruzar@s:spa &e . 872440_873923
 %eng:	we say "cruzar".
-*GAB:	+< cruz_io@s:spa+cym (y)r &c xxx . 872440_873923
+*GAB:	+< cruz_io@s:spa+cym (y)r xxx . 872440_873923
 %eng:	"cruzio" the [...]
 *HER:	+< ie . 872488_872733
 %eng:	yes.
@@ -1324,8 +1324,8 @@
 %eng:	Welsh person.
 *ELO:	ie ie ie ie . 964581_965701
 %eng:	yes, yes.
-*GAB:	+< &kmrok . 964629_965477
-%eng:	[Welsh person??]
+*GAB:	+< Cymro [?] &k . 964629_965477
+%eng:	Welsh person?
 *GAB:	[- spa] galenso pan y manteca . 965632_967035
 %eng:	Taffy bread and butter.
 *ELO:	ac o(eddw)n i (y)n teimlo (y)n +/. 967045_968448
@@ -1422,7 +1422,7 @@
 %eng:	she passed away years (ago).
 *GAB:	mi basiodd . 1024870_1025814
 %eng:	she passed...
-*GAB:	mae &o (.) chwe_deg o flynyddoedd (we)di pasio . 1025936_1028046
+*GAB:	mae &ə (.) chwe_deg o flynyddoedd (we)di pasio . 1025936_1028046
 %eng:	sixty years have passed.
 *GAB:	a mi ddôth yma i brentisien [?] . 1028072_1030152
 %eng:	and she came here to be an apprentice.
@@ -1545,7 +1545,7 @@
 %eng:	erm, come...
 *GAB:	alla i dynnu hwn ? 1110098_1111068
 %eng:	can I take this off?
-*OSE:	www . 1111119_1116552
+*RES:	www . 1111119_1116552
 *GAB:	+< <deudwch wrth y ddynes> [/] deudwch wrth y ddynes fach (y)ma bo(d) &a &d &d &a . 1111183_1115534
 %eng:	tell this little woman that...
 *GAB:	+< ie . 1115575_1115821
@@ -1556,10 +1556,10 @@
 %eng:	I'll tell her, I'll tell her.
 *GAB:	(dy)na fe Peredur@s:cym&spa . 1119817_1121171
 %eng:	there you go Peredur.
-*OSE:	www . 1121145_1123589
+*RES:	www . 1121145_1123589
 *ELO:	siaradwn ni ? 1123665_1124652
 %eng:	shall we speak?
-*OSE:	www . 1124604_1125879
+*RES:	www . 1124604_1125879
 *ELO:	ah@s:cym&spa (dy)na fo . 1125719_1126764
 %eng:	ah, ok.
 *ELO:	a wnawn ni siarad ymlaen . 1127271_1128735
@@ -1820,7 +1820,7 @@
 %eng:	I remember a teacher that retired in San Juan.
 *GAB:	ia . 1299952_1300421
 %eng:	yes.
-*HER:	a wedi dod yma am dro efo criw &ovo o bobl . 1300470_1303345
+*HER:	a wedi dod yma am dro efo criw &ɒvɒ o bobl . 1300470_1303345
 %eng:	and she came here for a visit with a group of people .
 *HER:	ac oedden nhw (y)n cadw +//. 1303601_1304486
 %eng:	and they kept...
@@ -1921,7 +1921,7 @@
 %eng:	not a clue.
 *HER:	ddim gès . 1384395_1385115
 %eng:	not a clue.
-*HER:	wel (e)fallai bo(d) ni (dd)im wedi taenu di(gon) &b &g &dibon [* digon] o (y)r &n difundir@s:spa +... 1385230_1389854
+*HER:	wel (e)fallai bo(d) ni (dd)im wedi taenu di(gon) &b &g &dibɒn [* digon] o (y)r &n difundir@s:spa +... 1385230_1389854
 %eng:	well maybe we haven't spread enough, broadcast...
 *GAB:	ia . 1389865_1390238
 %eng:	yes.
@@ -2032,7 +2032,7 @@
 %eng:	mm.
 *HER:	ia . 1483714_1484098
 %eng:	yes.
-*HER:	ond uh &ch dach chi (.) ar y blaen mewn pethau fel hyn . 1484156_1487232
+*HER:	ond uh &jəx dach chi (.) ar y blaen mewn pethau fel hyn . 1484156_1487232
 %eng:	but you're at the forefront of things like this.
 *HER:	a chi (y)dy (y)r (.) y gymdeithas hyna (.) hyna yn uh Chubut@s:cym&spa (y)ma . 1487253_1491651
 %eng:	and you're the oldest community in Chubut.
@@ -2517,7 +2517,7 @@
 %eng:	and there he was on the calf's back, and the other opening the gate for the calf to come through.
 *GAB:	a ar gefn y llo (y)ma a tynnu fo a (.) ddim yn gwybod be i_gyd wneud gymaint efo fo . 1815706_1821305
 %eng:	and on this calf's back, pulling him, not really knowing what to do with it.
-*GAB:	a (y)r [//] y &c [/] y llo (y)n dechrau &=imit:calf a (y)r gwartheg yn dechrau dod o (y)r [/] o (y)r gwaelod . 1821380_1827927
+*GAB:	a (y)r [//] y &kɬ [/] y llo (y)n dechrau &=imit:calf a (y)r gwartheg yn dechrau dod o (y)r [/] o (y)r gwaelod . 1821380_1827927
 %eng:	and the calf beginning to bleat and the cows would start to come over.
 *GAB:	ar garlam rŵan . 1827792_1829067
 %eng:	galloping now.
@@ -2710,7 +2710,7 @@
 %eng:	they'd come up with something to...
 *HER:	ddim yn curo nhw . 1951273_1952617
 %eng:	not beat them.
-*GAB:	+< i gael &c &o . 1951360_1952448
+*GAB:	+< i gael &kɒ  . 1951360_1952448
 %eng:	to get...
 *GAB:	+< na . 1952448_1952661
 %eng:	no.
@@ -2738,12 +2738,12 @@
 %eng:	Mum had the cane.
 *GAB:	(y)mlaen dach chi isio mynd i (y)r bathrwm ! 1964668_1966439
 %eng:	you need to go straight ahead to the bathroom!
-*OSE:	www . 1966890_1967797
+*RES:	www . 1966890_1967797
 *ELO:	paid â +... 1967690_1968256
 %eng:	don't...
 *GAB:	ymlaen os dach chi isio mynd i bathrwm ! 1968224_1969792
 %eng:	straight ahead if you want to go to the bathroom!
-*OSE:	www . 1969824_1970794
+*RES:	www . 1969824_1970794
 *GAB:	be ? 1970821_1971018
 %eng:	what?
 *GAB:	(dy)na fo dim bwys [/] dim bwys . 1971013_1972362
@@ -2959,10 +2959,10 @@
 *GAB:	+< o@s:cym&eng ia dyna +//. 2100777_2101887
 %eng:	oh yes that's...
 *ELO:	+< &=laugh . 2101001_2101951
-*GAB:	o@s:cym&eng oedd hynny (y)n gosb . 2101982_2103811
+*GAB:	oh@s:cym&eng oedd hynny (y)n gosb . 2101982_2103811
 %eng:	oh that's quite a punishment.
-*GAB:	o@s:cym&eng . 2103753_2105059
-%eng:	oh.
+*GAB:	oh@s:cym&eng ! 2103753_2105059
+%eng:	oh!
 *HER:	+< &=laugh . 2104933_2105637
 *ELO:	+< &=laugh . 2105584_2106533
 *HER:	xxx . 2106459_2106955
@@ -2988,7 +2988,7 @@
 %eng:	oh.
 *ELO:	uh &d dipyn o saim yn y dŵr ynde . 2117688_2120530
 %eng:	some grease in the water.
-*GAB:	+< oh ! 2119613_2120541
+*GAB:	+< oh@s:cym&spa ! 2119613_2120541
 %eng:	oh!
 *ELO:	a wedyn [=! laughs] oedd hwnnw wedi baeddu (y)r wal ynde . 2120530_2123179
 %eng:	and that had made the wall dirty.
@@ -3293,8 +3293,8 @@
 %eng:	and another thing I remember.
 *ELO:	cofio hen amser &=laugh . 2308740_2310622
 %eng:	remembering old times.
-*GAB:	uh no@s:spa &o +/. 2310612_2311849
-%eng:	er no.
+*GAB:	uh no@s:spa &ɒ +/. 2310612_2311849
+%eng:	er no...
 *HER:	fues i â +//. 2311337_2312105
 %eng:	I took...
 *HER:	nain es i â teisen bach . 2312041_2313377
@@ -3479,7 +3479,7 @@
 %eng:	Wmffre.
 *GAB:	wnaeth o +/. 2432405_2432885
 %eng:	he...
-*HER:	+< ond &fan mi farwodd pan oedd mam yn bedair oed . 2432437_2435037
+*HER:	+< ond &va mi farwodd pan oedd mam yn bedair oed . 2432437_2435037
 %eng:	but he died when Mum was four.
 *GAB:	ah@s:cym&spa . 2435088_2436101
 %eng:	ah.
@@ -3515,7 +3515,7 @@
 %eng:	she was very determined.
 *GAB:	+< oedd hi yn . 2451386_2452079
 %eng:	she was.
-*HER:	a dw i (y)n meddwl bod uh &y doniau y [/] y teulu wedi (.) influir@s:spa [/] influir@s:spa en@s:spa ella@s:spa . 2452700_2459664
+*HER:	a dw i (y)n meddwl bod uh &ə doniau y [/] y teulu wedi (.) influir@s:spa [/] influir@s:spa en@s:spa ella@s:spa . 2452700_2459664
 %eng:	and I think her family's talents influenced her.
 %com:	verb inserted (switch) in this and following line
 *GAB:	+< yndy mae o wedi influir@s:spa . 2458545_2460054
@@ -3604,7 +3604,7 @@
 *ELO:	+< &=laugh . 2523213_2527943
 *GAB:	+< &=laugh . 2523213_2527943
 *HER:	+< &=laugh . 2526333_2528253
-*GAB:	oh@s:cym&spa &dow +//. 2528327_2529986
+*GAB:	oh@s:cym&spa &dəu +//. 2528327_2529986
 %eng:	oh.
 *HER:	+< fel (y)na . 2529394_2529900
 %eng:	like that.
@@ -3740,7 +3740,7 @@
 %eng:	yes.
 *GAB:	+" pwy lwybr dan ni (y)n mynd &e ? 2615749_2617077
 %eng:	which path are we going on?
-*GAB:	+" [- spa] qué &c [//] qué camino vamos ahora ? 2617120_2618688
+*GAB:	+" [- spa] qué &k [//] qué camino vamos ahora ? 2617120_2618688
 %eng:	which path are we going on?
 *GAB:	[- spa] si el bueno o el malo ? 2618666_2620240
 %eng:	the good one or bad one?

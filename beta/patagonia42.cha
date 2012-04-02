@@ -12,7 +12,7 @@
 @Time Duration:	00:33:35
 @Media:	Patagonia42, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-*ANO:	tybed bod Dada@s:cym&spa (we)di gael o ? 139_1753
+*ANO:	tybed bod dada (we)di gael o ? 139_1753
 %eng:	I wonder if Dada's had it?
 *MSA:	wel (dy)na be dw i (y)n feddwl . 2113_3518
 %eng:	well, that's what I'm thinking
@@ -48,7 +48,7 @@
 %eng:	years back, about 10 years ago I got it from Mam
 *MSA:	wel &e cofia +/. 27301_27858
 %eng:	well remember...
-*ANO:	ond oedd Dada@s:cym&spa ddim wedi marw amser hynny . 27626_29228
+*ANO:	ond oedd dada ddim wedi marw amser hynny . 27626_29228
 %eng:	but Dada hadn't died then
 *ANO:	peth ryfedd bod hi (y)n roid o i fi . 29251_30842
 %eng:	strange that she was giving it to me
@@ -60,7 +60,7 @@
 %eng:	and your father died before that
 *ANO:	+< yndy yndy dw i (y)n gwybod hynny . 38700_39851
 %eng:	yes, yes I know that
-*ANO:	+< yndy xx ond fysai fo efo Dada@s:cym&spa . 39916_42070
+*ANO:	+< yndy xx ond fysai fo efo dada . 39916_42070
 %eng:	yes, [...] but he would be with Dada
 *MSA:	ia . 42175_42691
 %eng:	yes
@@ -386,7 +386,7 @@
 %eng:	no
 *ANO:	(dy)na beth ryfedd yn_de ? 257615_258538
 %eng:	that's strange, isn't it?
-*MSA:	na (ddi)m Dada@s:cym&spa na Mam@s:cym&spa na neb . 258455_260377
+*MSA:	na (ddi)m dada na mam@s:cym&spa na neb . 258455_260377
 %eng:	there's no Dada or Mam or anyone
 *ANO:	+< ajá@s:spa . 260128_260354
 %eng:	aha
@@ -442,7 +442,7 @@
 %eng:	"Ioan_Glyn_Owen, Isobel his wife and six sons arrived in Chubut in 1875"
 *MSA:	[- spa] &set ochocientos setenta y cinco ? 301479_303830
 %eng:	eight hundred seventy five.
-*ANO:	+< [- spa] setenta y &ci sí sí . 303273_304492
+*ANO:	+< [- spa] setenta y &si sí sí . 303273_304492
 %eng:	seventy yes yes .
 *ANO:	Ioan_Glyn_Owen@s:cym&spa bisabuelo@s:spa . 304629_306446
 %eng:	Ioan_Glyn_Owen great-grandfather.
@@ -1849,7 +1849,7 @@
 %eng:	[...] the mail box is full
 *ANO:	+< ie uh bocs [///] ie memo bocs yn llawn . 1496910_1499537
 %eng:	yes, er, box, yes, [...] memo box full
-*MSA:	&cas &callilla casillas@s:spa está@s:spa llena@s:spa ["] <oedden nhw> [/] <oedden nhw (y)n> [/] uh (.) oedden nhw (y)n deud . 1499583_1505898
+*MSA:	&kas &s &kaʝija casillas@s:spa está@s:spa llena@s:spa ["] <oedden nhw> [/] <oedden nhw (y)n> [/] uh (.) oedden nhw (y)n deud . 1499583_1505898
 %eng:	"mail box is full" is what they were saying
 *ANO:	+< ie ie . 1502677_1503113
 %eng:	yes, yes
@@ -2287,7 +2287,7 @@
 %eng:	it's not the same every day at all
 *ANO:	does dim +... 1902856_1903790
 %eng:	there's no...
-*MSA:	oh@s:cym&spa oh dw i (ddi)m (we)di gallu siarad . 1903814_1905636
+*MSA:	oh@s:cym&spa oh@s:cym&spa dw i (ddi)m (we)di gallu siarad . 1903814_1905636
 %eng:	oh, I've not been able to speak
 *ANO:	&=grunt ? 1905613_1905921
 *MSA:	na . 1906031_1906432

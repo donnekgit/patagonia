@@ -2,10 +2,10 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	VIC Victoria Adult, ELE Elena Adult, OSE Other Speaker
+@Participants:	VIC Victoria Adult, ELE Elena Adult, RES Researcher Adult
 @ID:	cym, spa|Patagonia|VIC|84;|female|||Adult|||
 @ID:	cym, spa|Patagonia|ELE|83;|female|||Adult|||
-@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|RES||female|||Adult|||
 @Situation:	Conversation at Victoria's home in eastern Chubut, Argentina
 @Date:	02-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -105,7 +105,7 @@
 %eng:	and they came a long way
 *VIC:	mi ae(tho)n nhw (y)n_ôl yn gynnar . 84952_86622
 %eng:	they went back early
-*VIC:	<yn y> [/] <yn y> [//] mewn tacsi . 86654_88630
+*VIC:	<yn y> [/] <yn y> [//] mewn taxi@s:cym&spa . 86654_88630
 %eng:	in a taxi
 *ELE:	ie . 88646_88998
 %eng:	yes.
@@ -137,7 +137,7 @@
 %eng:	yes.
 *VIC:	ac fydd raid +... 117106_118381
 %eng:	and you'd have to...
-*ELE:	(dy)na fo (ba)sai chi gallu cymryd tacsi . 118543_121509
+*ELE:	(dy)na fo (ba)sai chi gallu cymryd taxi@s:cym&spa . 118543_121509
 %eng:	that's it, you'd have to take a taxi
 *VIC:	wel ia (ba)sai +... 121658_123506
 %eng:	well yes, you'd...
@@ -435,20 +435,20 @@
 *ELE:	xxx . 507361_509105
 @Comment:	voices in background at around 09:25 .
 *VIC:	oh@s:cym&spa . 578713_579054
-*OSE:	xxx . 579074_580743
+*RES:	www . 579074_580743
 *VIC:	fedrwch chi gau (y)r drws plîs ? 580748_582194
 %eng:	can you close the door please?
 *VIC:	wnewch chi gau (y)r drws os gwelwch yn dda ? 582661_584277
 %eng:	will you close the door please?
-*OSE:	xxx . 584272_586128
+*RES:	www . 584272_586128
 *VIC:	mosgitos yn dod fewn . 586133_587221
 %eng:	mosquitoes come in.
-*OSE:	xxx . 587219_591912
-*OSE:	xxx . 591917_593481
+*RES:	www . 587219_591912
+*RES:	www . 591917_593481
 *VIC:	+< xxx . 592223_593503
 *VIC:	mae (y)na ddrws fan (y)na . 593647_594703
 %eng:	there's a door there
-*OSE:	xxx . 595197_604905
+*RES:	www . 595197_604905
 *VIC:	beth am ei brodyr hi ? 604396_605750
 %eng:	what about her brothers?
 *VIC:	(y)dyn nhw +..? 605729_606220
@@ -467,22 +467,22 @@
 %eng:	he was married to Manuela, wasn't he?
 *ELE:	nac oedd o . 613229_613909
 %eng:	no, he wasn't
-*OSE:	xxx . 613909_619960
+*RES:	www . 613909_619960
 *VIC:	+< ie ? 615842_616621
 %eng:	yes?
-*OSE:	xxx . 620023_622908
+*RES:	www . 620023_622908
 *VIC:	+< ia wel +//. 620023_620396
 %eng:	yes, well...
 *VIC:	+< a <be &ne> [/] be [/] be [/] be wnawn os yw (y)r teliffon yn galw eto ? 620402_624532
 %eng:	and what should we do if the phone rings again?
-*OSE:	xxx . 624532_628487
+*RES:	www . 624532_628487
 *VIC:	heb dynnu rhain ? 628493_629447
 %eng:	without taking these off?
 *VIC:	na . 629650_630130
 %eng:	no.
 *ELE:	na na mae o rhy bell . 630150_632673
 %eng:	no, it's too far
-*OSE:	+< xxx . 630150_636237
+*RES:	+< www . 630150_636237
 *VIC:	na(c) (y)dy na(c) (y)dy . 636242_637032
 %eng:	no it isn't
 *VIC:	mae o (y)n +//. 637037_637768
@@ -491,10 +491,10 @@
 %eng:	no
 *VIC:	<mae rhaid mynd a (.)> [//] mae rhaid mynd draw i ateb o . 637960_641644
 %eng:	you have to go over there to answer it
-*OSE:	+< xxx . 637960_641266
+*RES:	+< www . 637960_641266
 *ELE:	+< ie . 640919_641271
 %eng:	yes.
-*OSE:	xxx . 641282_646962
+*RES:	www . 641282_646962
 *VIC:	+< ie . 641333_642000
 %eng:	yes
 *VIC:	&=noise . 643712_644229
@@ -1057,7 +1057,7 @@
 %eng:	in the Andes.
 *ELE:	o(eddwn) fi (ddi)m yn gwybod . 1200049_1200897
 %eng:	I didn't know
-*VIC:	+< be (y)dy enw (y)r um &=dental_click &cy uh cyrraedd y cystadleuaeth mm &do uh Esquel@s:cym&spa a Trevelin@s:cym&spa (e)fallai no@s:spa . 1200331_1207679
+*VIC:	+< be (y)dy enw (y)r um &=dental_click &k uh cyrraedd y cystadleuaeth mm &do uh Esquel@s:cym&spa a Trevelin@s:cym&spa (e)fallai no@s:spa . 1200331_1207679
 %eng:	what's the name of the um... er... reaching the competition mm... Esquel and Trevelin maybe no?
 *ELE:	+< Trevelin@s:cym&spa . 1205093_1205909
 %eng:	Trevelin
@@ -1255,7 +1255,7 @@
 %eng:	oh they were so religious in...
 *VIC:	a ddim fodlon i (.) bobl wneud dim_byd . 1426450_1429633
 %eng:	and not willing to let anybody do anything
-*VIC:	&ach hwnna ddoe o(eddw)n i (y)n gweld <yn y &sw> [//] yn y cinio (y)ma . 1429640_1432994
+*VIC:	&ax hwnna ddoe o(eddw)n i (y)n gweld <yn y &sw> [//] yn y cinio (y)ma . 1429640_1432994
 %eng:	agh, that man yesterday I saw at this lunch
 *VIC:	uh (.) dydd Sul oedd hi ynde . 1432994_1434886
 %eng:	er, it was Sunday wasn't it
@@ -1294,7 +1294,7 @@
 %eng:	Jesus, talk about dancing!!
 *ELE:	ie . 1470797_1471107
 %eng:	yes
-*VIC:	achos oedden ni (y)n wedi bod yn &c cynnal ryw benblwydd xxx . 1471107_1475392
+*VIC:	achos oedden ni (y)n wedi bod yn &k cynnal ryw benblwydd xxx . 1471107_1475392
 %eng:	because we'd been holding a birthday [...]
 *VIC:	nid yn lle nhw yn lle anti Catrin@s:cym&spa . 1475504_1477467
 %eng:	not at theirs but at aunty Catrin's.
@@ -1475,7 +1475,7 @@
 %eng:	there are so many chapels in Gaiman.
 *ELE:	be ? 1713756_1714353
 %eng:	what?
-*VIC:	mae (y)na gymaint o gapeli yn Gaiman@s:cym&spa (.) &cw . 1714375_1717098
+*VIC:	mae (y)na gymaint o gapeli yn Gaiman@s:cym&spa (.) &=gasp . 1714375_1717098
 %eng:	there are so many chapels in Gaiman.
 *ELE:	+< xxx . 1715594_1716671
 *VIC:	xx (.) rhai mynd i (y)r un a llall mynd i (y)r llall . 1720069_1723380
@@ -1549,7 +1549,7 @@
 *VIC:	mi es i bore ddoe . 1803952_1805030
 %eng:	I went yesterday morning.
 *ELE:	ajá@s:spa . 1805035_1805536
-*VIC:	cyn mynd i (y)r cymanfa mi (..) gymerais [?] tacsi a mi es draw i (.) i w weld hi . 1805426_1811621
+*VIC:	cyn mynd i (y)r cymanfa mi (..) gymerais [?] taxi@s:cym&spa a mi es draw i (.) i w weld hi . 1805426_1811621
 %eng:	before going to the singing assembly I... took a taxi and I went over to see her
 *ELE:	+< ie . 1810032_1810373
 %eng:	yes

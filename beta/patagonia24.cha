@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	ADL Adalia Adult, MOR Mora Adult, OSE non_participant Adult
+@Participants:	ADL Adalia Adult, MOR Mora Adult, OSE Unkown Adult
 @ID:	cym, spa|Patagonia|ADL|53;|female|||Adult|||
 @ID:	cym, spa|Patagonia|MOR|88;|female|||Adult|||
 @ID:	cym, spa|Patagonia|OSE||female|||Adult|||
@@ -27,8 +27,7 @@
 %eng:	milking first of course?
 *MOR:	+< godro (.) lot o wartheg i_gyd . 7481_9965
 %eng:	milking a lot of cows.
-*OSE:	+< ie (.) a wedyn +... 9460_10819
-%eng:	yes, and then...
+*OSE:	+< www +... 9460_10819
 *MOR:	prynais i ryw fuddai +... 10424_12317
 %eng:	I bought some churn...
 *ADL:	ie . 12526_12810
@@ -85,8 +84,7 @@
 %eng:	yes?
 *MOR:	a <gadw fo i suro> [//] gymysgu o a gadw fo i suro a droi xxx ar ei ôl o . 43276_48535
 %eng:	and you mix it and leave it to turn sour and turn [...] after it.
-*OSE:	+< ie . 47618_47902
-%eng:	yes.
+*OSE:	+< ww . 47618_47902
 *MOR:	a wedyn (.) &g &k y corddi . 48546_50159
 %eng:	and then the churning.
 *ADL:	+< <a wneud> [//] a corddi a corddi nes bod y llaeth enwyn yn dod allan o (y)r +... 49335_52917
@@ -726,8 +724,7 @@
 %eng:	and Bethan Pugh accompanied them.
 *ADL:	Bethan@s:cym&spa +... 605641_606332
 %eng:	Bethan...
-*OSE:	+< aw . 605723_606274
-%eng:	ouch.
+*OSE:	+< ww . 605723_606274
 *ADL:	o(eddw)n i ddim yma . 606263_608080
 %eng:	I wasn't here.
 *ADL:	o(eddw)n i yng Nghymru (y)r adeg yna . 606907_608314
@@ -744,25 +741,21 @@
 %eng:	um...
 *ADL:	oh@s:cym&spa (ty)swn i (y)n cael meddwl dau funud (by)swn i +//. 619788_621605
 %eng:	oh, if I could think for two minutes, I'd...
-*OSE:	+< Price@s:cym&spa . 620734_621599
-%eng:	Price.
+*OSE:	+< ww . 620734_621599
 *ADL:	sí@s:spa Price@s:cym&spa el@s:spa nombre@s:spa ? 621401_623004
 %eng:	yes, Price the name?
 *MOR:	Carys@s:cym&spa [/] Carys_Evans@s:cym&spa . 622951_625650
 %eng:	Carys Evans.
 *ADL:	+< Branwen_Price@s:cym&spa ? 624466_626921
 %eng:	Branwen Price?
-*OSE:	+< Branwen_Price@s:cym&spa . 625962_626832
-%eng:	Branwen Price.
+*OSE:	+< www . 625962_626832
 *ADL:	Branwen_Price@s:cym&spa . 626892_628077
 %eng:	Branwen Price.
-*OSE:	del@s:spa coro@s:spa Godre_r_Aran@s:cym&spa . 627973_629929
-%eng:	from Godre'r Aran choir.
+*OSE:	www . 627973_629929
 *ADL:	+< hi oedd yn cyfeilio a mae [//] hi sy (y)n arwain rŵan . 628868_631968
 %eng:	it was her who accompanied them, and she leads the choir now.
 *MOR:	+< xxx . 629140_629923
-*OSE:	Carys@s:cym&spa [//] Cerys@s:cym&spa era@s:spa la@s:spa directora@s:spa del@s:spa coro@s:spa de@s:spa +... 632111_636060
-%eng:	Carys, Cerys was the director of [...] choir.
+*OSE:	www +... 632111_636060
 *MOR:	uh côr Chris_Davies@s:cym&spa &o oedd uh Carys_Evans@s:cym&spa . 635812_639353
 %eng:	that Carys Evans was with Chris Davies' choir.
 *MOR:	a dw i meddwl bod hi wedi ei chladdu . 639525_641359
@@ -823,8 +816,7 @@
 *MOR:	xxx +... 684271_685061
 *ADL:	+< ond mae (we)di marw wedyn mam Catrin_Elen@s:cym&spa . 684272_686344
 %eng:	but she died later, Catrin Elen's mother.
-*OSE:	+< Imogen@s:cym&spa . 685938_686477
-%eng:	Imogen.
+*OSE:	+< www . 685938_686477
 *MOR:	<anti Imogen@s:cym&spa> ["] oedden ni (y)n galw xx . 686540_688008
 %eng:	we called her "Auntie Imogen".
 *ADL:	+< Imogen@s:cym&spa . 687863_688682
@@ -833,8 +825,7 @@
 %eng:	she was a very nice woman.
 *ADL:	+< ah@s:cym&spa . 689087_689737
 %eng:	ah.
-*OSE:	ah@s:cym&spa ia hyfryd (.) neis iawn . 689661_692169
-%eng:	ah yes, lovely, very nice.
+*OSE:	www . 689661_692169
 *MOR:	oedd hi (y)n perthyn i nain Tomos@s:cym&spa (.) i Misus Diaz@s:cym&spa Judith@s:cym&spa . 691838_695420
 %eng:	she was related to Tomos' grandma, to Mrs. Diaz, Judith.
 *ADL:	ah@s:cym&spa eich mam yng nghyfraith wel ! 695385_698136
@@ -930,8 +921,7 @@
 %eng:	yes.
 *MOR:	wel oedd (.) xxx allan i gael bwrdd a gosod llefydd i eistedd . 766739_771961
 %eng:	well, [...] went out to get a table and set out seats.
-*OSE:	+< glanhau ? 767736_768450
-%eng:	cleaning?
+*OSE:	+< ww ? 767736_768450
 *ADL:	+< agor drws (..) ah@s:cym&spa ! 767736_770261
 %eng:	open the door ... ah!
 *ADL:	ie . 771949_772396
@@ -1001,7 +991,7 @@
 *MOR:	a uh ryw berthynas ddoth o(eddw)n i (y)n dangos y llun mi grefodd nes rois i (y)r llun iddi hi . 822546_828837
 %eng:	and some relative came, I showed the picture, and she begged until I gave her the picture.
 *ADL:	roid y llun w +... 828802_830485
-%eng:	gave the picture, w...
+%eng:	gave the picture, ooh...
 *MOR:	+< roid y llun uh . 829254_830495
 %eng:	gave the picture.
 *ADL:	<dylech chi (we)di> [?] gael copi o (y)r llun . 830259_831884
@@ -1431,7 +1421,7 @@
 %eng:	in how long, a month?
 *ADL:	+< mis . 1178850_1179512
 %eng:	a month.
-*ADL:	dan ni (y)n yr acto@s:spa yn gorffen y &fl y flwyddyn +/. 1179425_1181867
+*ADL:	dan ni (y)n yr acto@s:spa yn gorffen y &v y flwyddyn +/. 1179425_1181867
 %eng:	we finish the act the year...
 *MOR:	diwedd y +..? 1181857_1182884
 %eng:	the end of...?
@@ -1499,8 +1489,7 @@
 %eng:	she is at Lucie's place at the moment.
 *MOR:	ar hyn &e yn fan (hyn)ny mae (y)n aros ? 1245597_1247309
 %eng:	now, is it there she's staying?
-*OSE:	xx aros yna . 1247162_1248114
-%eng:	[...] staying there.
+*OSE:	www . 1247162_1248114
 *ADL:	+< mae (y)n aros efo saith o bobl . 1247731_1249681
 %eng:	she's staying with seven people.
 *MOR:	eh@s:cym&spa ? 1249623_1250314

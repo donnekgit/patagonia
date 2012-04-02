@@ -2,10 +2,10 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	PIL Pilar Adult, CAR Carmen Adult, OSE Unidentified Adult
+@Participants:	PIL Pilar Adult, CAR Carmen Adult, RES Researcher Adult
 @ID:	cym, spa|Patagonia|PIL|78;|female|||Adult|||
 @ID:	cym, spa|Patagonia|CAR|82;|female|||Adult|||
-@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|RES|||||Adult|||
 @Situation:	Conversation between two friends, recorded at the home of one of them, in eastern Chubut, Argentina
 @Date:	27-OCT-2009
 @Transcriber:	Myfyr Prys and Lowri Jones, Bangor University
@@ -308,7 +308,7 @@
 %eng:	yes he was.
 *CAR:	+< a wedyn uh lle uh oedd gymaint o Gymru hefyd ynde a wedyn . 209758_214520
 %eng:	and then... where there were many Welsh people, yeah?
-*PIL:	+<ia . 214225_214625
+*PIL:	+< ia . 214225_214625
 %eng:	yes.
 *CAR:	mae o (y)n barchus iawn . 214715_215755
 %eng:	and he's also very polite .
@@ -677,7 +677,7 @@
 %eng:	oh yes, yes.
 *CAR:	+< mae Helena@s:cym&spa o Rhiwlas@s:cym&spa mae hi (y)r greadures wedi mynd (.) bellach . 527453_531896
 %eng:	Helena from Rhiwlas, the poor girl's passed away by now.
-*CAR:	ond mae teulu Alaw@s:cym&spa (.) yno (.) a Rhian@s:cym&spa Nia@s:cym&spa(.) oh@s:cym&spa . 532513_540918
+*CAR:	ond mae teulu Alaw@s:cym&spa (.) yno (.) a Rhian@s:cym&spa Nia@s:cym&spa (.) oh@s:cym&spa . 532513_540918
 %eng:	but Alaw's family is there, and Rhian, Nia, oh
 *CAR:	dw i falch bod nhw yn dal efo pethau Cymraeg hefyd . 541493_545002
 %eng:	I'm glad they still have Welsh things too.
@@ -788,7 +788,7 @@
 %eng:	oh and Helen, when she was alive, making that strawberry tart... oh special.
 *PIL:	+< oh@s:cym&spa ie ydy ydy . 681833_685524
 %eng:	oh yeah, it is, it is.
-*PIL:	ac uh (.) (bua)swn i (he)fyd (y)n lic(io) [/] licio gweld uh Tomos_Huws_Parry@s:cym&spa (.) o [//] (.) sy (y)n byw (y)n ymyl &c &c Corwen@s:cym&spa . 685175_694462
+*PIL:	ac uh (.) (bua)swn i (he)fyd (y)n lic(io) [/] licio gweld uh Tomos_Huws_Parry@s:cym&spa (.) o [//] (.) sy (y)n byw (y)n ymyl &ka uh Corwen@s:cym&spa . 685175_694462
 %eng:	and I'd also like to see Tomos Huws Parry, who lives next to Corwen.
 *CAR:	+< ie . 685491_686643
 *PIL:	ac uh mae perthnasau arall efo fi (he)fyd (.) Eleanor@s:cym&spa a [/] (.) a wel (dy)na fo . 694438_700020
@@ -888,15 +888,15 @@
 %eng:	and then, there we go, we belong here.
 *PIL:	achos <oedd hi> [/] oedd hi (y)n ddigalon iawn arnyn nhw (y)n cyrraedd yma +/. 882001_886066
 %eng:	because they were very upset indeed arriving here.
-*OSE:	www . 885334_886598
+*RES:	www . 885334_886598
 *CAR:	pryd dan ni (y)n gorffen [=! whispers] ? 886145_887147
 %eng:	when are we finishing?
-*OSE:	www . 887460_893102
+*RES:	www . 887460_893102
 *CAR:	iawn . 893043_893305
 %eng:	ok.
 *PIL:	+< iawn . 893145_893534
 %eng:	ok.
-*OSE:	www . 893484_896488
+*RES:	www . 893484_896488
 *PIL:	oedd hi (y)n [//] oedden nhw (y)n (.) ti (y)n gwybod lle oedden nhw (y)n byw ? 896501_899632
 %eng:	yes they... do you know where they lived?
 *PIL:	nes i_la(wr) [//] lawr na (y)r hosbital (.) mewn cave@s:eng . 899610_903325
@@ -1065,7 +1065,7 @@
 *PIL:	+< xxx . 1117963_1122390
 *CAR:	mor gartrefol a dw i mor falch i (y)r bobl (y)r hen wlad sy gyd yn (.) croesawu ni gymaint pan dan ni (y)n mynd drosodd . 1122482_1130035
 %eng:	so homely, and I'm so grateful to the people in the old land who give us such a welcome when we go over.
-*PIL:	+< oh@s:cym&spa &dym maen nhw (y)n groesawus <dros ben> [/] (.) dros ben . 1128767_1132079
+*PIL:	+< oh@s:cym&spa &dəm maen nhw (y)n groesawus <dros ben> [/] (.) dros ben . 1128767_1132079
 %eng:	oh they're very welcoming, very.
 *CAR:	dw i (y)n licio cerdded (.) fy hunan fel (y)na trwy (y)r (.) ffyrdd yn yr hen wlad . 1132055_1137644
 %eng:	I like walking on my own along the roads in the old land.
@@ -1078,22 +1078,22 @@
 *CAR:	+< &=laugh . 1139425_1140529
 *CAR:	um +... 1141542_1142353
 *CAR:	xx [=! whispers] . 1142366_1146217
-*OSE:	www . 1147680_1149723
+*RES:	www . 1147680_1149723
 *CAR:	gyda ni ddim rhagor i ddeud &=laugh . 1156234_1158506
 %eng:	we don't have anything else to say.
-*OSE:	www . 1158481_1159718
+*RES:	www . 1158481_1159718
 *CAR:	(gy)da ni ddim rhagor i ddeud . 1159174_1161430
 %eng:	we don't have anything else to say.
-*OSE:	www . 1160572_1166409
+*RES:	www . 1160572_1166409
 *CAR:	(y)dy o (y)n iawn ? 1166412_1167378
 %eng:	is it ok?
-*OSE:	www . 1167696_1176625
+*RES:	www . 1167696_1176625
 *CAR:	ar y fferm o(eddw)n i . 1176609_1177809
 %eng:	I was on the farm.
-*OSE:	www . 1177408_1178240
+*RES:	www . 1177408_1178240
 *CAR:	ie . 1178171_1178694
 %eng:	yes.
-*OSE:	www . 1178314_1181733
+*RES:	www . 1178314_1181733
 *CAR:	bueno@s:spa (dy)na fo (dy)na fo . 1180575_1181983
 %eng:	good, there we go, there we go.
 *PIL:	y(n) [/] y(n) [/] yn [/] yn Gymraeg hefyd ? 1181704_1184206
@@ -1102,7 +1102,7 @@
 %eng:	in Welsh?
 *CAR:	ia (.) ia . 1185214_1187270
 %eng:	yes... yes.
-*OSE:	www . 1185979_1187675
+*RES:	www . 1185979_1187675
 *CAR:	wel uh um (.) pa fferm ge(fai)s di +//? 1189689_1192270
 %eng:	well, on which farm were you..?
 *CAR:	achos yn fferm dw i (we)di cael yng ngeni hefyd . 1192254_1194926
@@ -1133,9 +1133,9 @@
 %eng:	and my father was a farmer.
 *PIL:	wel oedd y bobl i_gyd yn ffermio ynde . 1211925_1214191
 %eng:	well, everybody was a farmer though.
-*PIL:	a gwartheg efo ni a defaid efo ni a [/] a (dy)na fo . 1214431_1221813
+*PIL:	a gwartheg efo ni a defaid efo ni a [/] a (dy)na fo . 1214431_1218842
 %eng:	and we had cows, and we had sheep and... that's it
-*PIL:	ond oedd rhaid i ni weithio (he)fyd pan oedden ni (y)n blant . 0_0
+*PIL:	ond oedd rhaid i ni weithio (he)fyd pan oedden ni (y)n blant . 1219124_1222063
 %eng:	but we had to work when we were children too.
 *PIL:	<dod uh> [//] (.) edrych ar_ôl y lloau a roid bwyd i (y)r gwartheg a wel fel oedd hi ynde . 1221988_1229196
 %eng:	looking after the calves and feeding the cows and, well, how it was.
@@ -1147,7 +1147,7 @@
 %eng:	because there weren't cars in that time because of the war eh?
 *PIL:	ac oedd uh uh wel uh oedd ddim uh (.) petrol achos uh oedden nhw (y)n gyrru o allan i_gyd ynde . 1236102_1246426
 %eng:	and there wasn't any petrol because they used to send it all overseas.
-*PIL:	ac (.) wel &o &o o(edde)n ni (we)di cael amser da ar y fferm . 1246866_1250989
+*PIL:	ac uh (.) wel &o &o o(edde)n ni (we)di cael amser da ar y fferm . 1246866_1250989
 %eng:	and... well I had a good time on the farm.
 *CAR:	oh@s:cym&spa o(eddw)n i wrth (f)y modd . 1251090_1252663
 %eng:	I was in my element.
@@ -1288,7 +1288,7 @@
 %eng:	and so...
 *PIL:	+< bendigedig . 1427202_1428092
 %eng:	fantastic.
-*CAR:	fan (y)na ddysgais i &y &ys ychydig Saesneg sy gen i (.) ond [/] +... 1427543_1432845
+*CAR:	fan (y)na ddysgais i &ə &əs ychydig Saesneg sy gen i (.) ond [/] +... 1427543_1432845
 %eng:	that's where I learnt the little English that I have.
 *PIL:	+< ia na mae digon efo ti &=laugh . 1431378_1434085
 %eng:	yes, no you have enough.
@@ -1383,11 +1383,11 @@
 %eng:	very much so.
 *PIL:	achos (d)oedden nhw (ddi)m yn gallu hela . 1523397_1525099
 %eng:	because they couldn't hunt.
-*PIL:	(d)oedden nhw (ddi)m yn gwybod i (.) sut i hela wedyn oedden nhw (y)n dod a cig a pethau felly iddyn nhw de . 1525072_1529951
+*PIL:	(d)oedden nhw (ddi)m yn gwybod i (.) sut i hela wedyn oedden nhw (y)n dod â cig a pethau felly iddyn nhw de . 1525072_1529951
 %eng:	they didn't know how to hunt so they brought them meat and the like.
 *PIL:	achos oedden nhw (y)n hela (.) ac yn helpu nhw (.) dipyn (h)efyd . 1530045_1534184
 %eng:	because they hunted... and helped them a bit too.
-*PIL:	a nhw (y)n helpu <(y)r &y yr> [/] yr Indiaid hefyd de . 1534178_1537921
+*PIL:	a nhw (y)n helpu <(y)r &ə yr> [/] yr Indiaid hefyd de . 1534178_1537921
 %eng:	and they helped the Indians too.
 *PIL:	achos oedden nhw yn uh +... 1538096_1540544
 %eng:	because they er...
@@ -1409,7 +1409,7 @@
 %eng:	yes, sustained us.
 *CAR:	oedd dim_byd arall efo ni . 1555715_1557129
 %eng:	we didn't have anything else.
-*CAR:	dim telefision dim com(putación)@s:spa &c (com)putación@s:spa &=laugh dim radio yr adeg hynny . 1557155_1563697
+*CAR:	dim telefision dim com(putación)@s:spa [/] &k (com)putación@s:spa &=laugh dim radio yr adeg hynny . 1557155_1563697
 %eng:	no television, no computer, no radio in those days.
 *PIL:	na . 1557241_1557577
 %eng:	no.
@@ -1527,7 +1527,7 @@
 %eng:	or... what would it be like without the chapels and...?
 *PIL:	+< na na (bua)sai ddim_byd yma &s [//] fysa ddim_byd . 1694633_1697396
 %eng:	no there wouldn't be anything here, nothing.
-*PIL:	onibai &c y capel (bua)sai ddim_byd yma . 1697407_1700129
+*PIL:	onibai &k y capel (bua)sai ddim_byd yma . 1697407_1700129
 %eng:	if it weren't for the chapel, there wouldn't be anything here.
 *PIL:	dyna lle oedden ni (y)n hel at ein_gilydd . 1700979_1703454
 %eng:	that's where we all got together.

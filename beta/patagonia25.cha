@@ -21,7 +21,7 @@
 %eng:	I don't think.
 *LEI:	[- spa] sí . 3611_3819
 %eng:	yes.
-*LEI:	ia &dy [//] dyna roeson i (y)n meddwl . 5092_6740
+*LEI:	ia &d dyna roeson i (y)n meddwl . 5092_6740
 %eng:	that's what I was thinking.
 *ROD:	+< [- spa] ochenta . 5214_5977
 %eng:	eighty.
@@ -133,7 +133,7 @@
 %com:	spelling?
 *ROD:	[- spa] este señor se levante . 117547_118854
 %eng:	for the guy to wake up.
-*LEI:	ond &dw +//. 121056_121445
+*LEI:	ond &du +//. 121056_121445
 %eng:	but...
 *LEI:	wyt ti wedi +//. 121662_122163
 %eng:	have you...
@@ -475,7 +475,7 @@
 %eng:	about three hundred and something.
 *ROD:	ia . 426369_426705
 %eng:	yes.
-*ROD:	tri &dach (.) tri chant (.) tri_deg (.) pump . 428008_430430
+*ROD:	tri &dəx (.) tri chant (.) tri_deg (.) pump . 428008_430430
 %eng:	three hundred thirty five.
 *ROD:	(dy)na oedd hi . 430478_430958
 %eng:	that's what it was.
@@ -497,11 +497,11 @@
 %eng:	well, or go to the...
 *LEI:	na ni (y)n gallu mynd i (y)r uh +... 447734_449552
 %eng:	no, we can go to the, er...
-*LEI:	+, i (y)r &sh [//] i (y)r uh (.) swyddfa bost (y)fory . 449824_452432
+*LEI:	+, <i (y)r> &ʃ [/] i (y)r uh (.) swyddfa bost (y)fory . 449824_452432
 %eng:	to the post office tomorrow.
 *LEI:	union yr un beth dydy ? 454759_456034
 %eng:	exactly the same, isn't it?
-*ROD:	gallwn ni fynd (r)wan . 456205_457159
+*ROD:	gallwn ni fynd wan . 456205_457159
 %eng:	we can go now.
 *ROD:	ac anghofio am y peth . 457325_458530
 %eng:	and forget about it.
@@ -557,7 +557,7 @@
 %eng:	"well, there we go."
 *LEI:	+" (doe)s &d dim_byd i wneud . 526588_527879
 %eng:	there's nothing to do.
-*ROD:	<sut ma(e)> [/] sut mae (.) sut mae o (y)n gwybod hynna &dd os +... 531587_534088
+*ROD:	<sut ma(e)> [/] sut mae (.) sut mae o (y)n gwybod hynna &ð os +... 531587_534088
 %eng:	how does he know that if...
 *LEI:	+< pero@s:spa mae (y)r llall yn +... 531645_533448
 %eng:	but the other one is...
@@ -629,7 +629,7 @@
 %eng:	whatever he wants to do, he can do, because...
 *LEI:	&=stammer ynglŷn â [///] yr enghraifft ynglŷn â (y)r +... 602774_604950
 %eng:	the example relating to...
-*ROD:	+< ia &co . 602779_603414
+*ROD:	+< ia &kul . 602779_603414
 %eng:	yes.
 *ROD:	&m cael bwyd . 605945_606830
 %eng:	eating.
@@ -817,7 +817,7 @@
 %eng:	[...] good excuse to stop eating, this.
 *ROD:	[- spa] ya ya ya . 778711_779367
 %eng:	that's it.
-*ROD:	[- spa] en serio eh . 782571_783302
+*ROD:	en@s:spa serio@s:spa eh@s:cym&spa . 782571_783302
 %eng:	seriously.
 *ROD:	[- spa] cada vez que abro la boca me duele . 783286_785712
 %eng:	every time I open my mouth it hurts
@@ -975,7 +975,7 @@
 %eng:	and how children answer in perfect Spanish to, er...
 *ROD:	+< ie . 930334_930654
 %eng:	yes.
-*LEI:	pan mae rhywun yn &cw wneud cwestiwn yn Gymraeg . 931086_933193
+*LEI:	pan mae rhywun yn &k wneud cwestiwn yn Gymraeg . 931086_933193
 %eng:	when somebody asks a question in Welsh.
 *ROD:	+< a mae (y)r +/. 931172_931966
 %eng:	and the...
@@ -1022,7 +1022,7 @@
 %eng:	yes.
 *LEI:	colli tafod . 959861_960501
 %eng:	lost his tongue.
-*ROD:	+< &co . 959973_960191
+*ROD:	+< &kɒ . 959973_960191
 *ROD:	colli iaith . 961218_962023
 %eng:	lost the language.
 *LEI:	+" be ? 962055_962333
@@ -1110,7 +1110,7 @@
 %eng:	why are they recording?
 *LEI:	achos mae (y)r um +... 1024559_1025775
 %eng:	because the um...
-*LEI:	maen nhw (y)n (..) gweld sut (y)da ni (y)n siarad . 1027535_1030838
+*LEI:	maen nhw (y)n (..) gweld sut dan ni (y)n siarad . 1027535_1030838
 %eng:	they're looking at how we speak.
 *LUI:	+< Dolores@s:cym&spa xxx . 1028343_1029921
 *LEI:	um +... 1032709_1033701
@@ -1167,7 +1167,7 @@
 *LEI:	mae (y)na rywbeth bob dydd . 1076436_1077497
 %eng:	there's something every day.
 *LUI:	xxx . 1077865_1080159
-*LEI:	ie ti (y)r u(n) fath â dada@s:cym&spa . 1080297_1081822
+*LEI:	ie ti (y)r u(n) fath â dada . 1080297_1081822
 %eng:	yes, you're the same as Dad
 *ROD:	+< María@s:cym&spa ti isio matecito@s:spa ? 1080297_1081822
 %eng:	Maria, do you want a matecito?
@@ -1360,7 +1360,7 @@
 %eng:	no.
 *LEI:	nac oedd [/] nac oedd . 1225175_1226018
 %eng:	no no.
-*ROD:	+< cadwa (y)r drws ar_agor &rag rhag ofn (ba)sai hi isio dod fewn (.) hym . 1226018_1229050
+*ROD:	+< cadwa (y)r drws ar_agor &r rhag ofn (ba)sai hi isio dod fewn (.) hym . 1226018_1229050
 %eng:	leave the door open in case she wants to come in, eh.
 *LEI:	um +... 1234813_1235843
 %eng:	um...

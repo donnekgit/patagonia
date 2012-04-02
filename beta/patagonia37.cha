@@ -5,7 +5,7 @@
 @Participants:	RAM Ramona Adult, ELI Elisa Adult, OSE Unknown Adult
 @ID:	cym, spa|Patagonia|RAM|44;|female|||Adult|||
 @ID:	cym, spa|Patagonia|ELI|46;|female|||Adult|||
-@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|OSE||female|||Adult|||
 @Situation:	Conversation between friends at a hotel in western Chubut, Argentina
 @Date:	16-NOV-2009
 @Transcriber:	Lowri Jones, Bangor University
@@ -66,7 +66,7 @@
 *RAM:	uh +... 26524_26791
 %eng:	er...
 *RAM:	+" w enw uh (.) gwahanol . 26797_28867
-%eng:	"w, a different name."
+%eng:	"ooh, a different name."
 *ELI:	+< unig . 28722_29314
 %eng:	lonely.
 %com:	probably means unique.
@@ -83,7 +83,7 @@
 *RAM:	ac ar y diwedd wnaethon nhw ddeud +"/. 35264_36878
 %eng:	and at the end, they said:
 *RAM:	+" w dan ni (y)n dwli ar eich acen chi . 37180_39975
-%eng:	"w we love your accent."
+%eng:	"ooh we love your accent."
 *RAM:	&=laugh . 39981_41264
 *ELI:	+< ah@s:cym&spa &=laugh . 40201_41751
 %eng:	ah.
@@ -155,7 +155,7 @@
 %eng:	it's difficult for them.
 *RAM:	achos maen nhw (y)n arfer siarad am pethau bob dydd . 98645_100793
 %eng:	because they're used to talking about everyday things.
-*RAM:	mynd i (y)r ysgol bwyd (.) &ffa uh teulu a pethau ond +... 100804_103885
+*RAM:	mynd i (y)r ysgol bwyd (.) &fa uh teulu a pethau ond +... 100804_103885
 %eng:	going to school, food, the family and things but...
 *ELI:	+< mm +... 101000_101441
 %eng:	mm.
@@ -278,7 +278,7 @@
 *RAM:	+< &=laugh . 176878_179641
 *RAM:	oedden nhw fath â +"/. 179647_180292
 %eng:	they were like:
-*RAM:	+" oh@s:cym&spa &c lyfli gweld ti . 180290_182537
+*RAM:	+" oh@s:cym&spa &k lyfli gweld ti . 180290_182537
 %eng:	"oh, lovely to see you."
 *RAM:	+" a pryd dan ni mynd i cwrdd ? 182575_184120
 %eng:	"and when are we going to meet?"
@@ -296,7 +296,7 @@
 *RAM:	(e)fallai &m (.) ah@s:cym&spa dyna ni . 190486_192677
 %eng:	maybe, ah, there we go.
 *RAM:	&=dental_click . 192799_193199
-*RAM:	anyway@s:eng so@s:eng <oedd (.)> [//] oedd hynny (y)n neis . 193275_195506
+*RAM:	anyway@s:eng so oedd [/] (.) oedd hynny (y)n neis . 193275_195506
 %eng:	anyway, so that was nice.
 *RAM:	ond +/. 195527_196078
 %eng:	but...
@@ -531,7 +531,7 @@
 %eng:	and then behind there are plants.
 *RAM:	ac o(eddw)n i (y)n meddwl +"/. 344933_345658
 %eng:	and I was thinking:
-*RAM:	+" na &ve . 345693_346084
+*RAM:	+" na &vɪ . 345693_346084
 %eng:	no.
 *RAM:	ond (.) mae anifail [?] yn gallu dod drwyddo . 346107_347826
 %eng:	but an animal can come through it.
@@ -1270,9 +1270,9 @@
 %eng:	mm...
 *ELI:	um +... 949431_950563
 %eng:	um...
-*ELI:	+" helpu fi gyda &r rywbeth arall a &sy syniadau arall . 950554_954514
+*ELI:	+" helpu fi gyda &r rywbeth arall a &s syniadau arall . 950554_954514
 %eng:	"help me with something else, and some other ideas."
-*ELI:	a (..) uh (.) ro(eddw)n i (y)n meddwl am um (.) &adeila [//] adeiladu hen . 954666_963616
+*ELI:	a (..) uh (.) ro(eddw)n i (y)n meddwl am um (.) &adeila adeiladu [* adeiladau] hen . 954666_963616
 %eng:	and, er, I was thinking about old buildings.
 *RAM:	oh@s:cym&spa ia . 963784_964736
 %eng:	oh yes.
@@ -1364,7 +1364,7 @@
 %eng:	yes.
 *ELI:	wedyn oh@s:cym&spa wel +... 1036063_1037301
 %eng:	then, oh well...
-*ELI:	<oedd uh> [//] oedd &ffi uh Roberto@s:cym&spa yn cyffrous iawn gyda (y)r syniad . 1037318_1040937
+*ELI:	<oedd uh> [//] oedd &fi uh Roberto@s:cym&spa yn cyffrous iawn gyda (y)r syniad . 1037318_1040937
 %eng:	Roberto was very excited with the idea.
 *ELI:	+" oh@s:cym&spa dw i (y)n hoffi hwn . 1040954_1041994
 %eng:	oh, I like this.
@@ -1426,7 +1426,7 @@
 *ELI:	ia . 1090118_1090583
 %eng:	yes.
 *ELI:	w no@s:spa wel +... 1090617_1091430
-%eng:	w, no, well...
+%eng:	ooh, no, well...
 *ELI:	mae o (y)n yn rhentio uh fel [/] fel tŷ i (y)r gwyliau . 1091447_1095982
 %eng:	he rents them out as holiday homes.
 *RAM:	+< dyna fo . 1092929_1093416
@@ -1696,7 +1696,7 @@
 %eng:	and I try to do this in Welsh.
 *ELI:	achos fydd e mwy +... 1319236_1320397
 %eng:	because it'll be more...
-*RAM:	&ff ie . 1320565_1321372
+*RAM:	&f ie . 1320565_1321372
 %eng:	yes.
 *ELI:	&=laugh . 1321412_1322324
 *RAM:	galw mwy o sylw (.) rywsut . 1322411_1324339
@@ -1820,7 +1820,7 @@
 %eng:	she's kept at it, hasn't she?
 *ELI:	ia &=laugh . 1441916_1442990
 %eng:	yes.
-*RAM:	&ts &ts . 1441916_1442990
+*RAM:	&ʧ &ʧ . 1441916_1442990
 *RAM:	ydy hi (y)n gallu wneud yn y xx glas [?] ? 1442993_1445432
 %eng:	can she do it in the blue [...]?
 *ELI:	ydy . 1445485_1445723
@@ -1844,7 +1844,7 @@
 %eng:	with the blue one.
 *RAM:	ie . 1457955_1458458
 %eng:	yes.
-*ELI:	achos &rhai +//. 1458481_1459251
+*ELI:	achos &fei +//. 1458481_1459251
 %eng:	because...
 *ELI:	dw i (y)n credu (.) rhaid i hi llawer o [/] o &=dental_click nerth . 1459269_1463680
 %eng:	I think she needs a lot of strength.
@@ -1874,8 +1874,8 @@
 %eng:	I had a bad day.
 *RAM:	reit . 1477431_1478086
 %eng:	right.
-*ELI:	&o achos +... 1478266_1479531
-%eng:	because...
+*ELI:	uh achos +... 1477586_1478945
+%eng:	er, because...
 *ELI:	dim achos uh +//. 1479578_1480843
 %eng:	not because er...
 *ELI:	dw i (y)n credu achos &b &b be dw i (y)n teimlo yn &s dim yn da . 1480866_1484875
@@ -2024,7 +2024,7 @@
 %eng:	no.
 *ELI:	+< na . 1562156_1562504
 %eng:	no.
-*ELI:	wneith hi (y)n trio eh@s:cym&spa wneud y cwrs <yn &ff> [//] yn xx . 1562585_1566306
+*ELI:	wneith hi (y)n trio eh@s:cym&spa wneud y cwrs yn [/] &f yn xx . 1562585_1566306
 %eng:	she'll try to do the course in [...].
 *RAM:	ah@s:cym&spa . 1566305_1566972
 %eng:	ah.
@@ -2061,7 +2061,7 @@
 %eng:	I have to go and have the [...] too.
 *RAM:	+< ia . 1598426_1598995
 %eng:	yes.
-*RAM:	ond dw i &ddi +//. 1599418_1600808
+*RAM:	ond dw i &ði +//. 1599418_1600808
 %eng:	but I...
 *RAM:	mae (.) cymaint o bethau . 1600831_1602321
 %eng:	there are so many things.
@@ -2109,7 +2109,7 @@
 %eng:	and then you couldn't.
 *RAM:	a wedyn +//. 1633864_1634584
 %eng:	and then...
-*RAM:	ac aeth o jyst &ts &ts &ts . 1634642_1636158
+*RAM:	ac aeth o jyst &ʧ &ʧ &ʧ . 1634642_1636158
 %eng:	and it just went...
 *ELI:	+< mm +... 1635711_1636256
 %eng:	mm...
@@ -2255,7 +2255,7 @@
 %eng:	but she was saying that I might have been chewing badly on this side.
 *ELI:	+< ah@s:cym&spa . 1760974_1761758
 %eng:	ah.
-*RAM:	&ohe [//] oherwydd bod hwn . 1761833_1763090
+*RAM:	&əhe [//] oherwydd bod hwn . 1761833_1763090
 %eng:	because of this.
 *RAM:	a wedyn &=imit:chewing cymaint o weithiau bod o wedi torri (y)r dant . 1763095_1766065
 %eng:	and then chewed like that so many times that it broke the tooth.

@@ -2,18 +2,17 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	SLA Selina Adult, EZK Ezekiel Adult, VTR Victor Child, OSE Other Speaker
+@Participants:	SLA Selina Adult, EZK Ezekiel Adult, VTR Victor Child, RES Researcher Adult
 @ID:	cym, spa|Patagonia|SLA|48;|female|||Adult|||
 @ID:	cym, spa|Patagonia|EZK|47;|male|||Adult|||
 @ID:	cym, spa|Patagonia|VTR||male|||Child|||
-@ID:	cym, spa|Patagonia|OSE|||||Adult|||
+@ID:	cym, spa|Patagonia|RES|||||Adult|||
 @Situation:	Conversation in Selina and Ezekiel's home in eastern Chubut, Argentina
 @Date:	28-OCT-2009
 @Transcriber:	Lowri Jones, Bangor University
 @Comment:	Researchers: Margaret Deuchar and Peredur Davies, Bangor University
 @Time Duration:	00:23:33
 @Media:	Patagonia4, audio
-@Comment:	Filename: Patagonia4.cha; Soundfile: Patagonia4.wav
 @Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *SLA:	wel +... 107_619
 %eng:	well...
@@ -75,37 +74,37 @@
 %eng:	mm.
 *SLA:	yr noson cynta(f) . 65717_66672
 %eng:	the first night.
-*OSE:	xxx . 67453_68525
-*OSE:	xxx . 68514_74338
-*OSE:	xxx . 74484_74841
+*RES:	www . 67453_68525
+*RES:	www . 68514_74338
+*RES:	www . 74484_74841
 *EZK:	mm +... 74516_74644
 %eng:	mm.
 *EZK:	pethau pob dydd . 75038_75742
 %eng:	everyday things.
-*OSE:	xxx . 75459_79420
-*OSE:	xxx . 79420_81958
-*OSE:	xxx . 81972_89938
+*RES:	www . 75459_79420
+*RES:	www . 79420_81958
+*RES:	www . 81972_89938
 *EZK:	+< mm +... 87629_87912
 %eng:	mm.
 *SLA:	dw i (y)n gwybod pwy sy (y)n cwcio bob amser . 89958_92177
 %eng:	I don't know who cooks every time.
 *EZK:	+< xxx . 90284_91670
-*OSE:	xxx . 92207_92959
+*RES:	www . 92207_92959
 *EZK:	+< &=laugh . 92207_92959
-*OSE:	xxx . 93001_95172
+*RES:	www . 93001_95172
 *EZK:	+< pethau fel te . 93076_93689
 %eng:	things like tea.
 *EZK:	[- spa] sí . 94642_95005
 %eng:	yes.
-*OSE:	xxx . 95158_95910
-*SLA:	(y)da chi (we)di bod fewn yna (y)n xxx ? 96146_97445
+*RES:	www . 95158_95910
+*SLA:	dach chi (we)di bod fewn yna (y)n xxx ? 96146_97445
 %eng:	have you been in [...] ?
-*OSE:	+< xxx . 96247_97383
-*OSE:	xxx . 97386_104414
-*OSE:	xxx . 104600_106947
+*RES:	+< www . 96247_97383
+*RES:	www . 97386_104414
+*RES:	www . 104600_106947
 *EZK:	+< um (.) Trelew@s:cym&spa &=laugh . 105049_106953
 %eng:	um, Trelew.
-*OSE:	xxx . 106959_108884
+*RES:	www . 106959_108884
 *SLA:	+< Dolavon@s:cym&spa . 107572_108575
 %eng:	Dolavon.
 *EZK:	+< &=laugh Dolavon@s:cym&spa xxx . 107679_109620
@@ -113,10 +112,10 @@
 *SLA:	neu [=! laughs] xxx . 109710_111460
 %eng:	or [...]
 *EZK:	+< &=laugh . 109726_111305
-*OSE:	xxx . 111243_114262
+*RES:	www . 111243_114262
 *SLA:	+< iawn (.) iawn . 113035_114203
 %eng:	ok ok.
-*OSE:	xxx . 114321_114785
+*RES:	www . 114321_114785
 *SLA:	wyt ti (y)n dal ymlaen gyda (y)r syniad mynd i Playas_Doradas@s:spa ? 115159_119068
 %eng:	do you still like the idea of going to Playas Doradas?
 *EZK:	fasai (y)n braf mynd yno fasai ? 120259_121432
@@ -155,7 +154,7 @@
 %eng:	but I imagine that a windy day can be...
 *SLA:	yn ddifrifol . 148268_149567
 %eng:	awful.
-*EZK:	+< &o [/] &o mewn +//. 148287_149290
+*EZK:	+< &o &o mewn +//. 148287_149290
 %eng:	in...
 *EZK:	&t ar hyd yr arfordir (y)ma i_gyd mae (y)r (.) &p gwynt yn codi . 149647_152351
 %eng:	the wind picks up all along this coastline.
@@ -407,9 +406,9 @@
 %eng:	he was saying all the time.
 *SLA:	o flaen y ffenest . 319371_320427
 %eng:	in front of the window.
-*SLA:	tra oedde chdi (y)n xxx y +... 320955_322574
+*SLA:	tra oedda chdi (y)n xxx y +... 320955_322574
 %eng:	while you were in [...] the...
-*VTR:	fel sai fo (we)di nabod . 322483_323422
+*VTR:	fel (ba)sai fo (we)di nabod . 322483_323422
 %eng:	as if he'd known.
 *SLA:	mm +... 323448_324184
 %eng:	mm.
@@ -493,7 +492,7 @@
 %eng:	going to the places his father had been.
 *EZK:	a pethau felly . 388019_388931
 %eng:	and things like that.
-*EZK:	a &ng maen nhw isio mynd i (.) capel Moriah@s:cym&spa . 388936_390776
+*EZK:	a &ŋ maen nhw isio mynd i (.) capel Moriah@s:cym&spa . 388936_390776
 %eng:	and they want to go to Moriah chapel.
 *EZK:	na ? 390802_391037
 %eng:	no?
@@ -505,7 +504,7 @@
 %eng:	where was the father serving exactly?
 *EZK:	uh trwy (y)r dyffryn i_gyd . 395497_396563
 %eng:	er, throughout the entire valley.
-*EZK:	<fel &gwenid> [//] fel gweinidog uh . 396561_398625
+*EZK:	<fel gwenid> [//] fel gweinidog uh . 396561_398625
 %eng:	as a minister, er...
 *EZK:	(we)di dod yma am ei Gymraeg o . 398644_401439
 %eng:	come here because of his Welsh.
@@ -641,7 +640,7 @@
 %eng:	wait, darling
 *SLA:	&n diwrnod o Gymru heddiw a ti ddim yn credu . 498923_501680
 %eng:	Wales day today and you don't think [?]
-*EZK:	[- spa] claro &c . 501956_502943
+*EZK:	[- spa] claro &x . 501956_502943
 %eng:	of course.
 *SLA:	&=laugh a ddim diwrnod Patagonia@s:cym&spa ? 503630_506185
 %eng:	and not a Patagonia day?
@@ -945,7 +944,7 @@
 %eng:	do you remember?
 *SLA:	xxx oedden ni (y)n gweld be ? 737710_739342
 %eng:	[...] what did we see?
-*SLA:	pwy &o +//? 740373_741231
+*SLA:	pwy &ə +//? 740373_741231
 %eng:	who...?
 *SLA:	pwy &s ? 741247_741621
 %eng:	who?
@@ -963,7 +962,7 @@
 %eng:	er, horse.
 *SLA:	ceffylau . 762259_763544
 %eng:	horses.
-*SLA:	pa un oedde chdi (y)n hoffi mwya? 764105_765870
+*SLA:	pa un oedda chdi (y)n hoffi mwya? 764105_765870
 %eng:	which one did you like the most?
 *EZK:	+< ia &n +/. 764292_764836
 %eng:	yes.
@@ -1070,7 +1069,7 @@
 *VTR:	uh . 846452_847705
 *SLA:	pa math o bwyd ? 849641_850884
 %eng:	what kind of food?
-*VTR:	&c &co . 850922_852122
+*VTR:	&k &ko . 850922_852122
 *SLA:	beth mae (y)r cŵn yn hoffi bwyta ? 853098_854805
 %eng:	what do dogs like to eat?
 *VTR:	dw i (ddi)m yn (.) gwybod . 855288_856754
@@ -1083,7 +1082,7 @@
 %eng:	with a big bone.
 *SLA:	a be arall ? 862296_863374
 %eng:	and what else?
-*VTR:	ac &ff (..) ffyniau [*] . 864380_867260
+*VTR:	ac &f (.) ffyniau [*] . 864380_867260
 %eng:	and sticks
 %com:	"ffyn" is the plural of "ffon" (stick; an irregular plural), so double plural marking here, with "-iau" suffix
 *SLA:	efo be ? 867281_868092
@@ -1094,7 +1093,7 @@
 %eng:	sticks
 *SLA:	dw i (ddi)m yn deall . 875305_876879
 %eng:	I don't understand
-*VTR:	+< &ff ffyniau [*] . 875305_876879
+*VTR:	+< &f ffyniau [*] . 875305_876879
 %eng:	sticks
 *SLA:	oh@s:cym&spa efo ffyniau [*] ! 877102_878542
 %eng:	oh, with sticks!
@@ -1241,7 +1240,7 @@
 %eng:	are there lights?
 *VTR:	+< mae (y)n +/. 1025813_1026080
 %eng:	it's...
-*VTR:	mae o ddim yn &c car . 1026906_1028415
+*VTR:	mae o ddim yn &k car . 1026906_1028415
 %eng:	it's not a car.
 *VTR:	edrycha . 1028463_1028906
 %eng:	look.
@@ -1346,7 +1345,7 @@
 %eng:	who's going in that car?
 *VTR:	mam wnes i (ddi)m roid enw . 1122289_1124321
 %eng:	Mum, I didn't give a name
-*SLA:	wnest ti (ddi)m &o rhoid enw xxx ? 1124325_1125573
+*SLA:	wnest ti (ddi)m &ə rhoid enw xxx ? 1124325_1125573
 %eng:	you didn't give a name [...]?
 *SLA:	wel rwyt ti (y)n mynd i meddwl am rywbeth neis i roid . 1125583_1128175
 %eng:	well, you're going to think of something nice to give
@@ -1520,7 +1519,7 @@
 *SLA:	neu jam llaeth ? 1275562_1276661
 %eng:	or dulce de leche?
 *VTR:	+< xxx . 1275562_1276661
-*VTR:	&hu hufen a jam llaeth . 1276704_1278282
+*VTR:	&hi hufen a jam llaeth . 1276704_1278282
 %eng:	cream and dulce de leche
 *SLA:	yr dau beth ? 1278392_1279491
 %eng:	both of them?
@@ -1558,7 +1557,7 @@
 *SLA:	mynd ar y beic &n neu chwarae rugby@s:cym&spa ? 1311425_1313686
 %eng:	going on the bike or playing rugby?
 *VTR:	+< xxx . 1311489_1312609
-*VTR:	rugby@s:cym&spa &o &c . 1313659_1314825
+*VTR:	rugby@s:cym&spa &o &k . 1313659_1314825
 %eng:	rugby
 *VTR:	a <maen nhw> [/] (.) maen nhw (y)n [///] ac uh maen nhw efo [///] (.) mae (y)r pêl +//. 1315174_1321616
 %eng:	and they... er, they have... the ball is...
@@ -1582,7 +1581,7 @@
 %eng:	seven
 *SLA:	pam ? 1340356_1341150
 %eng:	why?
-*VTR:	achos dw i (y)n cael &plym (.) pen_blwydd saith blwydd oed . 1342535_1346855
+*VTR:	achos dw i (y)n cael &pləm (.) pen_blwydd saith blwydd oed . 1342535_1346855
 %eng:	becaise I'm having my seven year old birthday
 *SLA:	fydda chdi (y)n (.) saith blwydd oed felly . 1346870_1349376
 %eng:	so you'll be seven years old

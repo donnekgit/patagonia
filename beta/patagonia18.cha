@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	CAR Carlos Adult, FRO Francisco Adult, RAQ Raquel Adult, OSE unknown Adult
+@Participants:	CAR Carlos Adult, FRO Francisco Adult, RAQ Raquel Adult, OSE Unknown Adult
 @ID:	cym, spa|Patagonia|CAR|73;|male|||Adult|||
 @ID:	cym, spa|Patagonia|FRO|46;|male|||Adult|||
 @ID:	cym, spa|Patagonia|RAQ||female|||Adult|||
@@ -107,7 +107,7 @@
 %eng:	it's good
 *FRO:	[- spa] y está bien conservado . 72740_74372
 %eng:	and it's well preserved
-*CAR:	[- spa] &uy sí más o menos &e . 74628_75950
+*CAR:	[- spa] &ui sí más o menos &e . 74628_75950
 %eng:	yes more or less
 *FRO:	[- spa] pero para él (..) tanto Tudur (.) como Dyfan . 76123_80688
 %eng:	but for him as much Tudur as Dyfan
@@ -298,7 +298,7 @@
 %eng:	it's the same thing
 *FRO:	ond oedda hi +... 254032_255334
 %eng:	but it was...
-*FRO:	<ble mae &ff> [//] ble mae fferm (.) <lle oedd> [///] ble mae (y)r fferm Nerys@s:cym&spa a Edward@s:cym&spa ? 255878_260560
+*FRO:	<ble mae &f> [/] <ble mae fferm (.) lle oedd> [//] ble mae (y)r fferm Nerys@s:cym&spa a Edward@s:cym&spa ? 255878_260560
 %eng:	where is Nerys and Edward's farm?
 *FRO:	lle oedd y wagen (.) ddoe ? 260884_263199
 %eng:	where was the wagon yesterday?
@@ -485,7 +485,7 @@
 %eng:	I don't remember now
 *CAR:	&=laugh . 464223_466975
 *OSE:	www . 464528_467120
-*CAR:	[- spa] &clin &clinsys no . 470409_471967
+*CAR:	[- spa] &klin &klinsis no . 470409_471967
 %eng:	"clinsys", no
 %com:	tries to remember Welsh word for hail
 *RAQ:	eh@s:cym&spa ? 472319_472911
@@ -502,7 +502,7 @@
 %eng:	what is it?
 *RAQ:	cenllysg xxx +... 485252_487390
 %eng:	hail [...]
-*RAQ:	na be (y)di o rŵan ? 487444_489017
+*RAQ:	na be (y)dy o rŵan ? 487444_489017
 %eng:	no, what is it now...
 *CAR:	[- spa] granizo ? 489254_489915
 %eng:	hail ?
@@ -568,7 +568,7 @@
 %eng:	yes
 *CAR:	ah@s:cym&spa lo@s:spa llevaron@s:spa allá@s:spa sí@s:spa sí@s:spa . 547686_551356
 %eng:	ah they took it there yes yes
-*FRO:	sí@s:spa por@s:spa eso@s:spa la@s:spa (.) &o <oedd raid (.)> [/] oedd raid empujar@s:spa i_fyny (.) como@s:spa dijo@s:spa usted@s:spa . 551548_557756
+*FRO:	sí@s:spa por@s:spa eso@s:spa la@s:spa (.) &ɒ <oedd raid (.)> [/] oedd raid empujar@s:spa i_fyny (.) como@s:spa dijo@s:spa usted@s:spa . 551548_557756
 %eng:	yes, that's why [they] had to push [it] up like you said
 *CAR:	+< [- spa] claro yo pensé lo van a meter ahí . 552849_554598
 %eng:	of course I  thought they are going to put it there
@@ -792,7 +792,7 @@
 *FRO:	xxx . 841196_841889
 *CAR:	+< a cribin . 841580_842444
 %eng:	...and a rake
-*CAR:	a (..) &hosial fach dan ni (y)n galw hi . 842721_846369
+*CAR:	a (..) &hosjal fach dan ni (y)n galw hi . 842721_846369
 %eng:	and, a little "hosial", we call it
 *FRO:	+< ond pan dach chi +/. 844033_844929
 %eng:	but when you...
@@ -1187,7 +1187,7 @@
 %eng:	they're going to fix the front of the tunnel
 *RAQ:	+< xxx . 1235560_1237288
 *RAQ:	+< xxx ? 1237748_1238607
-*OSE:	+< xxx . 1238783_1239439
+*OSE:	+< www . 1238783_1239439
 *CAR:	ah@s:cym&spa mae [//] ah@s:cym&spa o(eddw)n i (y)n gweld bod nhw wrthi (y)n wneud rywbeth . 1240466_1243554
 %eng:	ah... I saw that they were busy doing something
 *FRO:	+< maen nhw wedi dechrau (.) wneud (.) los@s:spa +... 1242798_1247278
@@ -1253,12 +1253,12 @@
 *RAQ:	xxx ? 1309035_1311062
 *CAR:	+< mae (y)r twnnel y tu mewn rŵan (y)dy o (y)n iawn ? 1309344_1311296
 %eng:	there's the inside tunnel, now is it all right?
-*OSE:	xxx . 1311147_1311894
+*OSE:	www . 1311147_1311894
 *RAQ:	[- spa] sí ? 1312000_1312544
 %eng:	yes?
 *FRO:	ydy dw i (y)n deall mae o (y)n iawn . 1312894_1314750
 %eng:	yes, I believe it's fine
-*OSE:	xxx . 1313118_1316510
+*OSE:	www . 1313118_1316510
 *CAR:	+< ah@s:cym&spa . 1314762_1314986
 *FRO:	oedd (y)na dŵr . 1317513_1318441
 %eng:	there was water
@@ -1266,10 +1266,10 @@
 %eng:	water [...]
 *FRO:	+< ond nid ochr arall yr ochr yma . 1319411_1321438
 %eng:	but not on the other side, this side
-*OSE:	xxx . 1319657_1321406
+*OSE:	www . 1319657_1321406
 *FRO:	oedd (y)na ddŵr yn dod fewn (..) o (y)r +... 1322513_1327288
 %eng:	there was water coming in from the...
-*OSE:	xxx . 1322513_1327288
+*OSE:	www . 1322513_1327288
 *FRO:	wel o (y)r uh (..) go brin uh +... 1327765_1331658
 %eng:	well, from the... hardly, er...
 *CAR:	+< [- spa] claro . 1327882_1331978

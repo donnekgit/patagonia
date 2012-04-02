@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	JAV Javier Adult, AMA Amalia Adult, OSE non_participant Adult
+@Participants:	JAV Javier Adult, AMA Amalia Adult, OSE Unknown Adult
 @ID:	cym, spa|Patagonia|JAV|75;|male|||Adult|||
 @ID:	cym, spa|Patagonia|AMA|71;|female|||Adult|||
 @ID:	cym, spa|Patagonia|OSE||male|||Adult|||
@@ -156,13 +156,13 @@
 *AMA:	+< ond um yn un peth mae o (y)n rywbeth sy (y)n dychryn rhywun braidd no@s:spa . 278047_281546
 %eng:	but it is something that frightens you, isn't it?
 @Comment:	pause
-*JAV:	ti sy wedi byw ar y (.) &ff ffarm ar hyd y blynyddoedd . 284698_289597
+*JAV:	ti sy wedi byw ar y (.) ffarm ar hyd y blynyddoedd . 284698_289597
 %eng:	you are the one who's lived on a farm all those years.
 *AMA:	mm +... 289586_289997
 %eng:	mm.
 *JAV:	ti (y)n cofio rywbeth am y +... 290495_292953
 %eng:	do you remember something about the...
-*AMA:	dw i (y)n cofio Dada@s:cym&spa (y)n mynd allan ac yn deud <oh mae (y)r Aber_Gyrants yn rhuo heno> ["] . 293159_297712
+*AMA:	dw i (y)n cofio dada (y)n mynd allan ac yn deud <oh@s:cym&spa mae (y)r Aber_Gyrants yn rhuo heno> ["] . 293159_297712
 %eng:	I remember Dada going outside and saying "oh, the Río Corrintos is roaring tonight"
 *JAV:	ie [?] . 297871_298357
 %eng:	yes.
@@ -588,7 +588,7 @@
 %eng:	they would go into town with that and everything like that that they needed.
 *JAV:	oedden ni yma yn cael (y)r un adeg +... 937438_940757
 %eng:	we here had the same time...
-*JAV:	<yr &yst> [//] yr ysgol (.) hon (.) oedd y [//] (.) ym Ebrill (.) cyn gorffen y +... 941464_952943
+*JAV:	yr [/] &əs yr ysgol (.) hon (.) oedd y [//] (.) ym Ebrill (.) cyn gorffen y +... 941464_952943
 %eng:	this school was in April before finishing the...
 *JAV:	xx achos oedd yr clasys yn gorffen ym Mai . 953734_956890
 %eng:	because the classes finished in May.
@@ -698,7 +698,7 @@
 %eng:	for those who haven't washed their feet in the river water because...
 *JAV:	dw i wedi yng ngeni yn y fan yma . 1091011_1094686
 %eng:	I was born in this spot.
-*JAV:	a [/] ac oedd yr afon yn cyrraedd at yr uh &h (.) hen cartre Dada@s:cym&spa yn fa(n) (y)na . 1096292_1103216
+*JAV:	a [/] ac oedd yr afon yn cyrraedd at yr uh &h (.) hen cartre dada yn fa(n) (y)na . 1096292_1103216
 %eng:	and the river reached Dad's old home over there.
 *AMA:	+< mm +... 1102181_1102474
 %eng:	mm.
@@ -781,7 +781,7 @@
 %eng:	actually, we could write Welsh before we went to school.
 *JAV:	wel +... 1248147_1248659
 %eng:	well...
-*AMA:	a darllen storis bach i_gyd Dada@s:cym&spa a popeth fel (yn)a hefyd . 1248769_1252956
+*AMA:	a darllen storis bach i_gyd dada a popeth fel (yn)a hefyd . 1248769_1252956
 %eng:	and read all of Dada's little stories and things like that as well.
 *JAV:	prun fuodd yr iaith cynta be wnest ti ddysgu ? 1251354_1255392
 %eng:	which was the first language you learnt?
@@ -1185,8 +1185,7 @@
 %com:	sound of handling microphone
 *JAV:	dw i wedi bod +... 1936442_1937359
 %eng:	I've been...
-*OSE:	+< xxx siarad . 1936944_1937813
-%eng:	[...] speaking.
+*OSE:	+< www . 1936944_1937813
 *JAV:	+, o_gwmpas y [/] y tŷ capel (.) amser oedd y athrawesi (y)n aros yn y tŷ capel . 1937829_1945951
 %eng:	...around the chapel house when the teachers were staying there.
 *JAV:	ac (.) dw i (y)n dal i fynd yna eto . 1946780_1949761
