@@ -288,11 +288,11 @@
 *SLA:	be wnest ti chwarae ? 240810_241711
 %eng:	what did you play?
 *VTR:	&kək . 242890_243402
-*SLA:	rugby@s:cym&spa ? 243928_244877
+*SLA:	rygbi ? 243928_244877
 %eng:	rugby?
 *SLA:	a be arall ? 245021_245843
 %eng:	and what else?
-*EZK:	do aeth o â (e)i bêl rugby@s:cym&spa . 245943_247158
+*EZK:	do aeth o â (e)i bêl rygbi . 245943_247158
 %eng:	yes, he took his rugby ball.
 *VTR:	uh . 248027_248523
 %eng:	er...
@@ -644,7 +644,7 @@
 %eng:	is it anything important?
 *SLA:	na . 527023_527450
 %eng:	no.
-*SLA:	maen nhw (y)n sôn (.) am y (.) dosbarth rugby@s:cym&spa . 527429_532242
+*SLA:	maen nhw (y)n sôn (.) am y (.) dosbarth rygbi . 527429_532242
 %eng:	they're talking about the rugby class.
 *SLA:	clwb Trelew . 532316_533330
 %eng:	Trelew club.
@@ -688,7 +688,7 @@
 %eng:	last minute.
 *EZK:	+< &m &m &m +... 567076_568222
 *VTR:	+< xxx . 567076_568222
-*EZK:	+, mae (y)r hogiau a Víctor@s:cym&spa yn mynd i clwb rugby@s:cym&spa Trelew@s:cym&spa wrth_gwrs . 568233_571138
+*EZK:	+, mae (y)r hogiau a Víctor@s:cym&spa yn mynd i clwb rygbi Trelew@s:cym&spa wrth_gwrs . 568233_571138
 %eng:	Victor and the boys are going to Trelew rugby club of course
 *EZK:	&n yn dwyt Víctor@s:cym&spa ? 571173_571909
 %eng:	aren't you Victor?
@@ -710,7 +710,7 @@
 %eng:	do you know what?
 *SLA:	a mae hi (y)n bwrw glaw . 578221_579528
 %eng:	and it's raining.
-*EZK:	a fain(t) [//] faint o clybiau rugby@s:cym&spa sydd yna i blant (.) yn y dyffryn Víctor@s:cym&spa ? 579803_583494
+*EZK:	a fain(t) [//] faint o clybiau rygbi sydd yna i blant (.) yn y dyffryn Víctor@s:cym&spa ? 579803_583494
 %eng:	and how many rugby clubs for children are there in the valley Victor?
 *EZK:	(oe)s gen ti rhyw syniad ? 583911_585122
 %eng:	do you have any idea?
@@ -734,11 +734,11 @@
 %eng:	there are more.
 *VTR:	Trelew@s:cym&spa . 591821_592557
 %eng:	Trelew.
-*EZK:	mae (y)na clwb rugby@s:cym&spa Trelew@s:cym&spa . 592539_594347
+*EZK:	mae (y)na clwb rygbi Trelew@s:cym&spa . 592539_594347
 %eng:	there's Trelew rugby club.
 *VTR:	+< pump . 593339_594075
 %eng:	five.
-*EZK:	mae (y)na (.) clwb rugby@s:cym&spa Draig_Goch@s:cym&spa . 594467_596424
+*EZK:	mae (y)na (.) clwb rygbi Draig_Goch@s:cym&spa . 594467_596424
 %eng:	there's Draig Goch (red dragon) rugby club.
 *SLA:	a pa [/] pa +... 596471_597576
 %eng:	and which...
@@ -782,7 +782,7 @@
 %eng:	[...] next to your club in Trelew.
 *EZK:	+< xxx . 621484_621863
 *VTR:	&=noise . 623130_623722
-*EZK:	pump tîm rugby@s:cym&spa . 623717_624623
+*EZK:	pump tîm rygbi . 623717_624623
 %eng:	five rugby teams.
 *SLA:	a mae (y)na fwy . 624637_625186
 %eng:	and there are more.
@@ -1063,24 +1063,23 @@
 %eng:	with a big bone.
 *SLA:	a be arall ? 862296_863374
 %eng:	and what else?
-*VTR:	ac &fə (..) ffyniau [*] . 864380_867260
+*VTR:	ac &fə (..) ffyniau [* ffyn] . 864380_867260
 %eng:	and sticks
-%com:	"ffyn" is the plural of "ffon" (stick; an irregular plural), so double plural marking here, with "-iau" suffix
 *SLA:	efo be ? 867281_868092
 %eng:	with what?
-*VTR:	ffyniau [*] . 868108_868758
+*VTR:	ffyniau [* ffyn] . 868108_868758
 %eng:	sticks
-*VTR:	ffyn [//] (.) ffyniau [*] . 871777_873724
+*VTR:	ffyn [//] (.) ffyniau [* ffyn] . 871777_873724
 %eng:	sticks
 *SLA:	dw i (ddi)m yn deall . 875305_876879
 %eng:	I don't understand
-*VTR:	+< ffyniau [*] . 875305_876879
+*VTR:	+< ffyniau [* ffyn] . 875305_876879
 %eng:	sticks
-*SLA:	oh@s:cym&spa efo ffyniau [*] ! 877102_878542
+*SLA:	oh@s:cym&spa efo ffyniau [* ffyn] ! 877102_878542
 %eng:	oh, with sticks!
 *SLA:	efo +//. 878547_878910
 %eng:	with...
-*SLA:	mae o (y)n licio chwarae efo ffyniau [*] . 878915_880915
+*SLA:	mae o (y)n licio chwarae efo ffyniau [* ffyn] . 878915_880915
 %eng:	he likes to play with sticks
 *SLA:	iawn . 880951_881948
 %eng:	ok
@@ -1385,7 +1384,7 @@
 %eng:	six years old, almost seven.
 *SLA:	wyt ti (y)n gwybod be ? 1175077_1175920
 %eng:	you know what?
-*SLA:	mae (y)na (y)chydig bach o diwrnodiau (..) i cael (.) dy parti pen_blwydd . 1175920_1182283
+*SLA:	mae (y)na (y)chydig bach o diwrnodiau (..) i cael (.) dy parti penblwydd . 1175920_1182283
 %eng:	there are very few days until you have your birthday party [?]
 *VTR:	faint o diwrnod ? 1182288_1183493
 %eng:	how many days?
@@ -1427,7 +1426,7 @@
 %eng:	some from Gaiman.
 *VTR:	rhai o Trelew@s:cym&spa . 1220385_1222012
 %eng:	some from Trelew.
-*SLA:	a (y)r hogiau rugby@s:cym&spa ? 1223661_1225458
+*SLA:	a (y)r hogiau rygbi ? 1223661_1225458
 %eng:	and the rugby boys?
 *VTR:	ia o Trelew@s:cym&spa . 1225714_1226706
 %eng:	yes from Trelew.
@@ -1512,7 +1511,7 @@
 %eng:	but are you...
 *VTR:	+< [- spa] rojo . 1287916_1288705
 %eng:	red
-*SLA:	(h)wyrach dw i (y)n medru paratoi rhyw (.) cae rugby@s:cym&spa ar ben (.) efo (y)r chwaraewr i_gyd . 1288705_1294419
+*SLA:	(h)wyrach dw i (y)n medru paratoi rhyw (.) cae rygbi ar ben (.) efo (y)r chwaraewr i_gyd . 1288705_1294419
 %eng:	maybe I can make a rugby field on top with all the players
 *SLA:	uh a uh +... 1294945_1296566
 %eng:	er, and, er...
@@ -1526,15 +1525,15 @@
 %eng:	or do you prefer a little child on a bike?
 *VTR:	na . 1306413_1307597
 %eng:	no
-*VTR:	rugby@s:cym&spa . 1307799_1308487
+*VTR:	rygbi . 1307799_1308487
 %eng:	rugby
 *SLA:	beth wyt ti (y)n hoffi mwy ? 1308827_1310389
 %eng:	what do you like more?
 *VTR:	&=gulp . 1310603_1311286
-*SLA:	mynd ar y beic &n̩ neu chwarae rugby@s:cym&spa ? 1311425_1313686
+*SLA:	mynd ar y beic &n̩ neu chwarae rygbi ? 1311425_1313686
 %eng:	going on the bike or playing rugby?
 *VTR:	+< xxx . 1311489_1312609
-*VTR:	rugby@s:cym&spa &ok . 1313659_1314825
+*VTR:	rygbi &ok . 1313659_1314825
 %eng:	rugby
 *VTR:	a <maen nhw> [/] (.) maen nhw (y)n [///] ac uh maen nhw efo [///] (.) mae (y)r pêl +//. 1315174_1321616
 %eng:	and they... er, they have... the ball is...
@@ -1558,7 +1557,7 @@
 %eng:	seven
 *SLA:	pam ? 1340356_1341150
 %eng:	why?
-*VTR:	achos dw i (y)n cael &pləm (.) pen_blwydd saith blwydd oed . 1342535_1346855
+*VTR:	achos dw i (y)n cael &pləm (.) penblwydd saith blwydd oed . 1342535_1346855
 %eng:	becaise I'm having my seven year old birthday
 *SLA:	fydda chdi (y)n (.) saith blwydd oed felly . 1346870_1349376
 %eng:	so you'll be seven years old
