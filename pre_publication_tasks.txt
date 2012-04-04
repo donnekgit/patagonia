@@ -5,15 +5,4 @@ Change uh@s:cym&spa to y@s:cym&spa
 Change um@s:cym&spa to ym@s:cym&spa
 (Update: these could be added to a final stage of the autoglossing process, so that they do not need to be handled as a separate task.  KD to take forward.)
 
-Review Welsh/Spanish cognates.
-JS to take forward. 
-(Update: in progress - MD reviewing.)
-
-Review changing 'ajá' marked as Spanish to 'aha@s:eng&spa'.
-
-Review list of POS-tags - one list for both corpora?  remove language-specific examples?
-
-Change xxx -> [...].
-Change "gonna" to "going to".
-
 Run final CHECK on all files.
