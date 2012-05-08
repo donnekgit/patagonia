@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -13,20 +13,20 @@
 @Time Duration:	00:27:17
 @Media:	Patagonia6, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish. @s:cym&spa = Undetermined
-*CRL:	ar ffarm Bryncrwn@s:cym&spa . 11_1360
-%eng:	on Bryncrwn farm
+*CRL:	ar ffarm Pantglas@s:cym&spa . 11_1360
+%eng:	on Pantglas farm
 *SAR:	+< ie . 443_901
 %eng:	yes
 *SAR:	huh@s:cym&spa ? 1680_2021
-*CRL:	yn Bryncrwn@s:cym&spa oedd yr ffarm (y)ma ? 2053_3808
-%eng:	was it in Bryncrwn, this farm?
-*SAR:	+< yn Bryncrwn@s:cym&spa . 3152_4283
-%eng:	in Bryncrwn
+*CRL:	yn Pantglas@s:cym&spa oedd yr ffarm (y)ma ? 2053_3808
+%eng:	was it in Pantglas, this farm?
+*SAR:	+< yn Pantglas@s:cym&spa . 3152_4283
+%eng:	in Pantglas
 *SAR:	ia . 4664_5240
 %eng:	yes
 *CRL:	+< mmhm . 4664_5240
-*SAR:	ffarm Bryncrwn@s:cym&spa lle mae capel Bryncrwn@s:cym&spa . 5251_7075
-%eng:	Bryncrwn farm where Bryncrwn chapel is
+*SAR:	ffarm Pantglas@s:cym&spa lle mae capel Pantglas@s:cym&spa . 5251_7075
+%eng:	Pantglas farm where Pantglas chapel is
 *CRL:	+< dyna lle mae o . 6733_7272
 %eng:	that's where it is
 *SAR:	ti (y)n mynd lawr jyst <yn ddim> [?] . 7149_9218
@@ -471,12 +471,12 @@
 %eng:	and so it continues down the ages
 *CRL:	+< fel (y)na mae o . 494160_495002
 %eng:	that's how it is
-*SAR:	ac uh ti (y)n cofio Robert_Ap_Iwan@s:cym&spa . 495606_498620
-%eng:	and er, you remember Robert Ap Iwan
+*SAR:	ac uh ti (y)n cofio Morris_ap_Gwilym@s:cym&spa . 495606_498620
+%eng:	and er, you remember Morris ap Gwilym
 *SAR:	mab i bregethwr oedd o . 498710_500796
 %eng:	he was a preacher's son
-*SAR:	mister Jones@s:cym&spa Niwbwrch@s:cym&spa . 501146_502580
-%eng:	Mr Jones of Newborough
+*SAR:	mister Williams@s:cym&spa Niwbwrch@s:cym&spa . 501146_502580
+%eng:	Mr Williams of Newborough
 *SAR:	oedden nhw yn byw yn xxx ymyl Dolafon@s:cym&spa . 502730_505204
 %eng:	they lived in [...] next to Dolavon
 *SAR:	yn cofio am y pennill yn emyn xxx . 505689_508132
@@ -646,8 +646,8 @@
 %eng:	and she had a little pony
 *SAR:	ac oedd hi xxx mae yn debyg yn_ôl yr hanes . 708015_711482
 %eng:	and she was [...] probably, according to the story
-*SAR:	a misus Jones@s:cym&spa Rhymni@s:cym&spa (.) Bryncrwn@s:cym&spa oedd [/] oedd y <bydwraig &m ynde> [//] partera@s:spa ynde . 711503_717743
-%eng:	and Mrs Jones Rhymni Bryncrwn was the midwife, right
+*SAR:	a misus Hughes@s:cym&spa Dowlais@s:cym&spa (.) Pantglas@s:cym&spa oedd [/] oedd y <bydwraig &m ynde> [//] partera@s:spa ynde . 711503_717743
+%eng:	and Mrs Hughes Dowlais Pantglas was the midwife, right
 *CRL:	+< mm +... 717030_717420
 *CRL:	mm +... 717814_718401
 *SAR:	a bod hi wedi methu (y)r ffordd achos oedd hi yn nos a mi ddoth yn_ôl . 718656_722294
@@ -901,8 +901,8 @@
 %eng:	um, from Spanish books, and after the children started going to school and so on
 *SAR:	o(eddw)n i (y)n darllen nhw (y)chydig bach xxx . 1033083_1035360
 %eng:	I used to read them a little bit [...]
-*SAR:	oedd plant Bryncrwn@s:cym&spa yn chwarae yn Gymraeg i_gyd . 1035769_1038393
-%eng:	the Bryncrwn children all used to play in Welsh
+*SAR:	oedd plant Pantglas@s:cym&spa yn chwarae yn Gymraeg i_gyd . 1035769_1038393
+%eng:	the Pantglas children all used to play in Welsh
 *CRL:	+< mm +... 1037940_1038750
 *SAR:	ach(os) o(edde)n ni (y)n gallu mynd rywfaint i (y)r ysgol . 1038811_1040907
 %eng:	because I was able to go to school a little bit
@@ -956,8 +956,8 @@
 *SAR:	wnaeson nhw erioed ddysgu dw i (ddi)m yn credu . 1094029_1095842
 %eng:	they never taught it I don't think
 *CRL:	mm +... 1096023_1096386
-*SAR:	ond oedd rai pobl (we)di dysgu yn Bryncrwn@s:cym&spa . 1096226_1098306
-%eng:	but some people had learned it at Bryncrwn
+*SAR:	ond oedd rai pobl (we)di dysgu yn Pantglas@s:cym&spa . 1096226_1098306
+%eng:	but some people had learned it at Pantglas
 *SAR:	oedd (y)na wragedd ac ati a dynion yn gallu siarad efo ryw ddyn yn dod i (y)r lle . 1098349_1102349
 %eng:	there were wives and such, and and men able to speak it with some man who came to their place
 *SAR:	fel y gallinero@s:spa oedden ni (y)n galw yn prynu ieir ac yn gwerthu xxx hen bethau dillad a [/] (.) a rai bwydydd ac ati mewn [?] ryw gerbyd bach fel (y)na . 1102684_1111111
@@ -1009,10 +1009,10 @@
 %eng:	I noticed he was [...] sharp to try and learn something
 *SAR:	oedd o (y)n isio cael dysgu (y)r cwbl . 1163534_1165241
 %eng:	he wanted to be able to learn it all
-*SAR:	Edryd@s:cym&spa oedd ei enw fo . 1165325_1166370
-%eng:	Edryd was his name
-*SAR:	Leonardo@s:cym&spa en@s:spa galés@s:spa eh@s:cym&spa ? 1166765_1168535
-%eng:	Leonardo in Welsh, eh?
+*SAR:	Iago@s:cym&spa oedd ei enw fo . 1165325_1166370
+%eng:	Iago was his name
+*SAR:	Jaime@s:cym&spa en@s:spa galés@s:spa eh@s:cym&spa ? 1166765_1168535
+%eng:	Jaime in Welsh, eh?
 *SAR:	a wedyn mi aeth ei frawd a mi aeth Tomos@s:cym&spa wedyn . 1169186_1171661
 %eng:	and then his brother went, and Tomos went afterwards
 *SAR:	a dw i (ddi)m (we)di gweld Tomos@s:cym&spa ers_talwm . 1171682_1173623
@@ -1215,8 +1215,8 @@
 *SAR:	a mi roth Emilio@s:cym&spa hanner yr arian i fi . 1423652_1426682
 %eng:	and Emilio gave me half the money
 *CRL:	mm +... 1426840_1427416
-*SAR:	a xxx (y)r hanner arall brynodd bâr o foch a ryw iâr cywion bach a ryw xxx a (dip)yn bach o fwyd iddyn nhw . 1427202_1433282
-%eng:	and [...] the other half he bought a couple of pigs and some little chicks and some [...] and a little bit of food for them
+*SAR:	a xxx (y)r hanner arall brynodd bâr o foch a ryw iâr cywion bach a ryw gywennod a (dip)yn bach o fwyd iddyn nhw . 1427202_1433282
+%eng:	and [...] the other half he bought a couple of pigs and some little chicks and some pullets and a little bit of food for them
 *SAR:	a fan (y)na oedd o (y)n grwt bach pymtheg oed ar y ffarm yn byw fan (y)na . 1433483_1437238
 %eng:	and there he was, a little lad of 15 on the farm living there
 *SAR:	oedd hynny yn y xxx mae (y)n wir . 1437355_1438625
