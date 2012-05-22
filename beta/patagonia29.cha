@@ -3,8 +3,9 @@
 @Begin
 @Languages:	cym, spa, eng
 @Participants:	MER Mercedes Adult, FER Fernando Adult
-@ID:	cym, spa|Patagonia|MER|19;|female|||Adult|||
-@ID:	cym, spa|Patagonia|FER|19;|male|||Adult|||
+@ID:	cym, spa|Patagonia|MER|18;|female|||Adult|||
+@ID:	cym, spa|Patagonia|FER|18;|male|||Adult|||
+@Comment:	Age given for MER is an estimate as no questionnaire was completed
 @Situation:	Conversation between friends in a hotel room in eastern Chubut, Argentina
 @Date:	10-NOV-2009
 @Transcriber:	Myfyr Prys and Diana Carter, Bangor University

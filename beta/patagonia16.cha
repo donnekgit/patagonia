@@ -1651,7 +1651,7 @@
 %eng:	yes.
 *ELS:	ah@s:cym&spa ie . 1360323_1361448
 %eng:	ah, yes.
-*MOL:	lot o motocar@s:spa . 1361464_1362595
+*MOL:	lot o motor_car@s:eng . 1361464_1362595
 %eng:	a lot of cars.
 *ELS:	ie . 1362173_1362568
 %eng:	yes.
@@ -1669,7 +1669,7 @@
 %eng:	hmm.
 *MOL:	<pan o(edde)n> [?] ni wedi prynu (y)r tŷ yr um &=dental_click cartel@s:spa oedd o +... 1367398_1373205
 %eng:	when we had bought the house, it was a cartel...
-*MOL:	xxx <dach chi (y)n> [/] dach chi (y)n mynd yn y motocar@s:spa cartel@s:spa <fan hyn> [?] xxx . 1374550_1378812
+*MOL:	xxx <dach chi (y)n> [/] dach chi (y)n mynd yn y motor_car@s:eng cartel@s:spa <fan hyn> [?] xxx . 1374550_1378812
 %eng:	you go in the car, cartel here [...].
 *MOL:	ddim gweld o . 1378789_1379882
 %eng:	don't see it.
@@ -1982,7 +1982,7 @@
 %eng:	yes.
 *ELS:	mm +... 1587247_1588330
 %eng:	mm...
-*MOL:	uh <mae (y)r> [//] mae motocar@s:spa fi wedi torri . 1588308_1592901
+*MOL:	uh <mae (y)r> [//] mae motor_car@s:eng fi wedi torri . 1588308_1592901
 %eng:	my car is broken.
 *MOL:	a <wedi (y)r> [//] rŵan mae o gyda &rins [?] newydd (.) rin@s:spa [?] &=laugh . 1592907_1598175
 %eng:	and now it has new wheels... wheel.
