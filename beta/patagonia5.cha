@@ -135,7 +135,7 @@
 %eng:	[...]
 *GLO:	dw i ddim yn deall . 135675_136486
 %eng:	I don't understand
-@Comment: a knock is heard at the door.
+@Comment:	a knock is heard at the door.
 *ANA:	[- spa] para que vengan . 141170_142119
 %eng:	for them to come.
 *GLO:	eh@s:cym&spa ? 142796_143154
@@ -387,9 +387,9 @@
 %eng:	and then...
 *ANA:	dw i (y)n cofio geiriau Cymraeg  . 418456_419891
 %eng:	I remember Welsh words,
-*ANA:	ond fedra i ddim cofio geiriau Sbaeneg 419875_421736
+*ANA:	ond fedra i ddim cofio geiriau Sbaeneg . 419875_421736
 %eng:	but I can't remember Spanish words.
-*GLO:	+<oedden ni wedi meddwl canu dydd Sul rŵan ond &uθ . 421369_424863
+*GLO:	+< oedden ni wedi meddwl canu dydd Sul rŵan ond &uθ . 421369_424863
 %eng:	we were thinking of singing this Sunday but
 *GLO:	doedden ni ddim	yn cofio am [/] um (.) am y gymanfa . 424921_428639
 %eng:	we hadn't remembered about the Cymanfa (hymn festival).
@@ -427,7 +427,7 @@
 %eng:	"those who have travelled the valley of Baca"
 *GLO:	mae raid gwneud eto (y)r un fath â mae (y)r emyn yn deud ond . 485984_489163
 %eng:	we will have to do again as the hymn says but...
-*ANA:	+" &ti gyda mi tua Salem lân . 485928_487752
+*ANA:	+" &ti gyda mi tua Salem lân . 485998_487752
 %eng:	"with me to holy Salem"
 *GLO:	mae gyfeillion newydd yn dod . 489152_490779
 %eng:	new friends come.
@@ -535,7 +535,7 @@
 %eng:	...teach their children likewise.
 *ANA:	ond (.) mi ddaw . 610805_613125
 %eng:	but, it will come
-*GLO:	+<ie . 610827_611398
+*GLO:	+< ie . 610827_611398
 %eng:	yes.
 *GLO:	mae gwaith ni (y)dy dal (.) ymlaen â beth dan ni wedi dysgu de ? 613582_617684
 %eng:	our job is to hold on to what we have learnt, isn't it?
@@ -742,7 +742,7 @@
 %eng:	oh, well, well!
 *GLO:	hwyrach (ba)sai rywun yn +... 844752_846330
 %eng:	maybe if somebody...
-*ANA:	na mae (y)n beryg bod yr amser drosodd i fi beth bynnag . 847094_850720
+*ANA:	na mae (y)n beryg bod yr amser drosodd i fi beth_bynnag . 847094_850720
 %eng:	no, I'm afraid the time is up, for me anyway
 *ANA:	mae o ry +... 851799_852765
 %eng:	it's too...
@@ -897,12 +897,12 @@
 %eng:	hmm
 *GLO:	ac yn hwylus i fynd a dod a chwbl . 1010498_1013404
 %eng:	and convenient to come and go and everything
-@Comment: pause.
+@Comment:	pause.
 *GLO:	wel +... 1019050_1019472
 %eng:	well...
 *GLO:	dan ni wedi cyrraedd yn_ôl eh@s:cym&spa este@s:spa Margaret@s:cym&spa ? 1020448_1023456
 %eng:	we've come back to it, haven't we, Margaret ?
-*ANA:	+<os +...
+*ANA:	+< os +... 1022456_1022476
 %eng:	if...
 *IGN:	&=laugh . 1022496_1023525
 *ANA:	&=laugh . 1023995_1025195
@@ -972,7 +972,7 @@
 *IGN:	yndan . 1088895_1089274
 %eng:	yes.
 *RES:	www . 1090109_1096519
-*ANA:	+<ie . 1107479_1107906
+*ANA:	+< ie . 1107479_1107906
 %eng:	yes.
 *RES:	www  ? 1108269_1116247
 *ANA:	gwahaniaeth yr uh +... 1116483_1118414
@@ -1074,9 +1074,9 @@
 %eng:	there is some preservation here, and especially in Gaiman
 *ANA:	mae (y)na lawer <yn gweithio> [?] (y)n y Gaiman@s:cym&spa (.) ym mhob ffordd . 1230732_1233996
 %eng:	many work in Gaiman, in every way
-*GLO:	mm ia 1235403_1236219
+*GLO:	mm ia . 1235403_1236219
 %eng:	mm
-*ANA:	+<ia . 1235651_1236291
+*ANA:	+< ia . 1235651_1236291
 %eng:	yes
 *GLO:	oh@s:cym&spa oes no@s:spa maen nhw wedi gweithio ac yn gweithio i gadw (y)r uh +... 1236419_1240563
 %eng:	oh yes, no, they have worked, and are working to keep the, um...
