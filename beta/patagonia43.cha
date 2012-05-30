@@ -1,168 +1,169 @@
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
-@Participants:	SAN Sandia Adult, PAZ Paz Adult
+@Participants:	SAN Sandia Adult, IGO Igor Adult
 @ID:	cym, spa|Patagonia|SAN|56;|female|||Adult|||
-@ID:	cym, spa|Patagonia|PAZ||male|||Adult|||
+@ID:	cym, spa|Patagonia|IGO||male|||Adult|||
 @Situation:	Conversation at a school in western Chubut, Argentina
 @Date:	09-NOV-2009
 @Transcriber:	Jonathan Stammers, Fraibet Aveledo and Marika Fusser, Bangor University
 @Comment:	Researcher: Peredur Davies, Bangor University
 @Time Duration:	00:11:29
-@Media:	Patagonia36, audio
+@Media:	Patagonia43, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *SAN:	oes ŵyn bach efo ti eleni oes ? 58_1556
 %eng:	do you have any little lambs this year, yes?
-*PAZ:	oes . 1503_2183
+*IGO:	oes . 1503_2183
 %eng:	yes.
 *SAN:	dyn nhw tyfu ? 2230_3176
 %eng:	are they growing?
-*PAZ:	yndyn . 3594_4372
+*IGO:	yndyn . 3594_4372
 %eng:	yes.
 *SAN:	pryd fydden nhw (y)n barod i werthu ? 4279_5811
 %eng:	when will they be ready to sell?
-*PAZ:	+< xxx . 4443_4965
-*PAZ:	maen nhw (y)n barod (.) ar hyn o bryd . 6268_8091
+*IGO:	+< xxx . 4443_4965
+*IGO:	maen nhw (y)n barod (.) ar hyn o bryd . 6268_8091
 %eng:	they are ready now.
 *SAN:	+< maen nhw (y)n barod rŵan (.) <y rei> [/] y rei mwya ? 6860_8832
 %eng:	they're ready now, the biggest ones?
-*PAZ:	yndyn . 8648_9020
+*IGO:	yndyn . 8648_9020
 %eng:	yes.
 *SAN:	erbyn Nadolig wedyn . 8973_10065
 %eng:	by Christmas then.
-*PAZ:	y [/] y gweddill wedyn [?] . 10200_11761
+*IGO:	y [/] y gweddill wedyn [?] . 10200_11761
 %eng:	the rest then.
 *SAN:	y gweddill . 11314_11906
 %eng:	the rest.
 *SAN:	pwy bris fydd arnyn nhw eleni tybed ? 12440_14187
 %eng:	what price will they be this year, I wonder?
-*PAZ:	dim llawer mwy na blwyddyn diwetha &=sigh er bod pethau eraill wedi mynd fyny (y)n ofnadwy . 14698_18488
+*IGO:	dim llawer mwy na blwyddyn diwetha &=sigh er bod pethau eraill wedi mynd fyny (y)n ofnadwy . 14698_18488
 %eng:	not much more than last year, although other things have gone up terribly.
 *SAN:	+< pethau eraill wedi codi pris ond uh yr ŵyn ddim . 17844_20067
 %eng:	other things have gone up in price but not the lambs.
-*PAZ:	ddim . 20069_20498
+*IGO:	ddim . 20069_20498
 %eng:	not at all.
 *SAN:	faint oedd oen llynedd ? 20829_22390
 %eng:	how much was a lamb last year?
-*PAZ:	+< xxx . 21019_21664
+*IGO:	+< xxx . 21019_21664
 *SAN:	dau gant ? 23179_24032
 %eng:	200?
-*PAZ:	+< dau gant a &h uh mwy neu lai dau gant ac ugain dau gant (e)leni dau gant a hanner . 23690_27907
+*IGO:	+< dau gant a &h uh mwy neu lai dau gant ac ugain dau gant (e)leni dau gant a hanner . 23690_27907
 %eng:	about 200 to 220, this year 250.
 *SAN:	dau gant a hanner o besos@s:cym&spa yr oen . 27998_29705
 %eng:	250 pesos per lamb.
-*PAZ:	+< xxx . 29294_29724
+*IGO:	+< xxx . 29294_29724
 *SAN:	dim llawer . 30180_30905
 %eng:	not much.
-*PAZ:	ond mae pethau (we)di mynd (?) fyny (y)r dwbl . 30499_32089
+*IGO:	ond mae pethau (we)di mynd [?] fyny (y)r dwbl . 30499_32089
 %eng:	but things have gone up twice as much.
 *SAN:	ie ie dyna (y)r &g gwir amdani . 32130_34132
 %eng:	yes, that's the truth of it.
-*PAZ:	+< pethau eraill . 33229_33903
+*IGO:	+< pethau eraill . 33229_33903
 %eng:	other things.
 *SAN:	problem . 34156_34788
 %eng:	a problem.
 *SAN:	ti weld y cymdogion yn_doeddech ? 38286_39915
 %eng:	you've seen the neighbours, haven't you?
 *SAN:	Malcolm@s:cym&spa uh +... 39938_41332
-*PAZ:	do wnaethon nhw helpu fi nodi (y)r ŵyn dydd_Sadwrn . 41425_44223
+*IGO:	do wnaethon nhw helpu fi nodi (y)r ŵyn dydd_Sadwrn . 41425_44223
 %eng:	yes, they helped me mark the lambs on Saturday.
 *SAN:	a maen nhw (y)n dal i helpu ti efo (y)r uh (.) heneiddio hefyd . 44823_47052
 %eng:	and they're still helping you with growing old as well.
-*PAZ:	+< yndyn (..) yndyn . 45960_47458
+*IGO:	+< yndyn (..) yndyn . 45960_47458
 %eng:	yes, yes.
 *SAN:	Malcolm@s:cym&spa yn cael trafferth i gerdded efo (y)r coes . 47520_50126
 %eng:	Malcolm's having trouble walking with his leg.
-*PAZ:	+< xxx . 49210_49993
+*IGO:	+< xxx . 49210_49993
 *SAN:	a (y)r mab yn tyfu rŵan hefyd . 50533_52368
 %eng:	and the son growing up now as well.
-*PAZ:	+< mmhm . 51529_51953
+*IGO:	+< mmhm . 51529_51953
 %eng:	mmhm.
 *SAN:	(y)dy Torres@s:cym&spa (y)r gwas o_gwmpas yr [/] y dyn sy (y)n helpu ti weithiau ? 55311_58405
 %eng:	is Torres, the lad around, the man who helps you sometimes?
-*PAZ:	ambell i waith . 58565_59464
+*IGO:	ambell i waith . 58565_59464
 %eng:	sometimes.
 *SAN:	mae o (y)n mynd a dod ia ? 59600_60906
 %eng:	he comes and goes, does he?
-*PAZ:	+< mae o [/] mae o adre ar hyn o bryd . 59757_61429
+*IGO:	+< mae o [/] mae o adre ar hyn o bryd . 59757_61429
 %eng:	he is at home at the moment.
-*PAZ:	mae o wedi torri &ɬ lot o goed tân a dw i methu gwerthu nhw . 63029_67249
+*IGO:	mae o wedi torri &ɬ lot o goed tân a dw i methu gwerthu nhw . 63029_67249
 %eng:	he has cut a lot of fire wood and I can't sell it.
-*PAZ:	xxx ddim march(nad) [/] marchnad xxx . 67731_69327
+*IGO:	xxx ddim march(nad) [/] marchnad xxx . 67731_69327
 %eng:	[...] no market [...].
 *SAN:	+< dim mynd ar y coed chwaith ? 68112_69377
 %eng:	the wood isn't selling either?
-*PAZ:	nag oes . 69382_69858
+*IGO:	nag oes . 69382_69858
 %eng:	no.
 *SAN:	wel mae (y)r nwy yn y dref (y)ma rŵan yn cynhesu . 69661_71687
 %eng:	well the gas in this town now is warming up.
-*PAZ:	+< mmhm . 71162_71801
+*IGO:	+< mmhm . 71162_71801
 %eng:	mmhm.
 *SAN:	a wedyn (dy)dy bobl ddim yn prynu coed tân . 71682_73209
 %eng:	then people don't buy firewood.
 *SAN:	dyna (y)r gwir amdani . 73252_74344
 %eng:	that's the truth of it.
-*PAZ:	ie . 74453_74903
+*IGO:	ie . 74453_74903
 %eng:	yes.
-*PAZ:	ond i Rhyd_yr_Indiaid oedd uh o (y)n torri . 74931_76951
+*IGO:	ond i Rhyd_yr_Indiaid oedd uh o (y)n torri . 74931_76951
 %eng:	but it was for Paso de Indios that he was cutting it.
 *SAN:	ah@s:cym&spa gwerthu nhw draw yn Rhyd_yr_Indiaid ? 76986_79053
 %eng:	ah, selling them over in Paso de Indios?
-*PAZ:	ie . 78498_78800
+*IGO:	ie . 78498_78800
 *SAN:	a (dy)dy bobl ddim yn prynu nhw chwaith ? 79090_80780
 %eng:	and people aren't buying them either?
-*PAZ:	xxx +/. 81470_82607
+*IGO:	xxx +/. 81470_82607
 *SAN:	+< dim pris ? 81902_82656
 %eng:	no price?
-*PAZ:	ie &dir yr [//] ond mae (y)r Williams@s:cym&spa dim wedi dod o Rhyd i nôl y coed tân (y)na . 82451_86590
+*IGO:	ie &dir yr [//] ond mae (y)r Williams@s:cym&spa dim wedi dod o Rhyd i nôl y coed tân (y)na . 82451_86590
 %eng:	yes, but Williams hasn't come from Paso to collect that firewood.
 *SAN:	+< a dod yn_ôl <yn y> [/] <yn y> [/] yn y tryc . 85542_87585
 %eng:	and come back in the truck.
-*PAZ:	+< mae bod yn disgwyl am fis rŵan a (doe)s (y)na (ddi)m sôn amdano fo . 87162_89873
+*IGO:	+< mae bod yn disgwyl am fis rŵan a (doe)s (y)na (ddi)m sôn amdano fo . 87162_89873
 %eng:	we have waited for a month now, and there is no sign of him.
-*PAZ:	methu cael gafael ynddo fo ar y ffôn chwaith . 90697_92717
+*IGO:	methu cael gafael ynddo fo ar y ffôn chwaith . 90697_92717
 %eng:	can't get hold of him on the phone either.
 *SAN:	+< ah@s:cym&spa . 90854_91359
 *SAN:	problem . 93771_94340
 %eng:	a problem.
 *SAN:	wnest ti sgwrsio efo (.) Victor@s:cym&spa pan o(edde)t ti lawr yn [/] yn y dyffryn ? 97699_101890
 %eng:	did you talk to Victor while you were down in the valley?
-*PAZ:	do . 102110_102540
+*IGO:	do . 102110_102540
 %eng:	yes.
 *SAN:	be oedd o (y)n deud ? 102592_103544
 %eng:	what was he saying?
 *SAN:	sut mae pethau (y)n y ffarm efo fo ? 103898_105511
 %eng:	how are things on the farm with him?
-*PAZ:	uh go lew (y)ma . 106815_108161
+*IGO:	uh go lew (y)ma . 106815_108161
 %eng:	quite well.
-*PAZ:	mae o (y)n cael trafferth i werthu (y)r gwair . 108208_110234
+*IGO:	mae o (y)n cael trafferth i werthu (y)r gwair . 108208_110234
 %eng:	he has trouble selling the hay.
-*PAZ:	(dy)dy o (ddi)m yn hawdd ond mae o wedi [/] wedi gwerthu uh uh cynhaea blwyddyn diwetha i_gyd . 110298_114997
+*IGO:	(dy)dy o (ddi)m yn hawdd ond mae o wedi [/] wedi gwerthu uh uh cynhaea blwyddyn diwetha i_gyd . 110298_114997
 %eng:	it's not easy, but he has sold all of last year's harvest.
 *SAN:	+< mae (we)di llwyddo eu [?] gwerthu ? 114620_115973
 %eng:	he's managed to sell them?
 *SAN:	bobl lleol ie (y)n prynu rai sy â ceffyl neu (.) dafad uh +//. 115896_119347
 %eng:	local people buying, ones with a horse or sheep, er...
-*PAZ:	+< ie . 119167_119649
+*IGO:	+< ie . 119167_119649
 %eng:	yes.
 *SAN:	+< &ni nid bobl yr estancias@s:spa mawr o_gwbl . 119517_121485
 %eng:	not people from the big ranches at all.
-*PAZ:	na oedd [//] rheina oedd yn prynu o (y)r blaen iddo fo a rŵan bobl sy (we)di prynu darnau bach (.) o ffermydd <i wneud uh> [//] i byw ar y ffarm (dy)na i_gyd . 120835_130599
+*IGO:	na oedd [//] rheina oedd yn prynu o (y)r blaen iddo fo a rŵan bobl sy (we)di prynu darnau bach (.) o ffermydd <i wneud uh> [//] i byw ar y ffarm (dy)na i_gyd . 120835_130599
 %eng:	no, those we buying from him before, but now people who have bought small pieces of farms to live on the farm, that's all.
-*PAZ:	a mae ceffyl neu ddau efo nhw a (we)dyn rheina sydd yn prynu gwair iddo rŵan . 130616_133850
+*IGO:	a mae ceffyl neu ddau efo nhw a (we)dyn rheina sydd yn prynu gwair iddo rŵan . 130616_133850
 %eng:	and they have one or two horses and then these of the ones who buy hay from him now.
 *SAN:	mae (y)r holl sefyllfa (y)r ffermydd yn newid . 133995_135719
 %eng:	the whole situation of farms is changing.
 *SAN:	bobl dre yn prynu darnau i (.) gael tŷ . 135711_138207
 %eng:	town people buying plots to have a house.
-*PAZ:	+< darnau (.) i fyw . 137248_138995
+*IGO:	+< darnau (.) i fyw . 137248_138995
 %eng:	plots to live.
 *SAN:	tŷ penwythnos neu tŷ hólides neu tŷ +... 138472_141009
 %eng:	a weekend home or a holiday home or a home...
-*PAZ:	+< www . 138501_140812
+*IGO:	+< penwythnos ie . 138501_140812
+%eng:	weekend, yes
 *SAN:	a rheina (y)n cadw ryw anifail neu ddau a rheina sy (y)n prynu borrego@s:spa . 141383_144344
 %eng:	and those keep an animal or two and those buy lambs.
-*PAZ:	ie (y)r gwair hyn (?) . 144373_145099
+*IGO:	ie (y)r gwair hyn [?] . 144373_145099
 %eng:	yes, this hay.
 *SAN:	ie gwair . 144941_145591
 %eng:	yes, hay.
@@ -170,26 +171,26 @@
 %eng:	oh, that's it.
 *SAN:	a Robina@s:cym&spa wnest ti sgwrsio efo hi o_gwbl ? 147902_149632
 %eng:	and Robina, did you talk to her at all?
-*PAZ:	naddo wnes i (ddi)m gweld hi bah@s:spa gweld hi xxx . 149613_153054
+*IGO:	naddo wnes i (ddi)m gweld hi bah@s:spa gweld hi xxx . 149613_153054
 %eng:	no, I didn't see her, well, see her [...].
 *SAN:	+< gweld hi ond ddim sgwrsio ie . 152237_153456
 %eng:	saw her but didn't talk, yes.
 *SAN:	(y)dy (y)r gwas uh [///] (y)dy (y)r uh dyn drws nesa (y)n dal i weithio efo Victor@s:cym&spa ? 156095_159694
 %eng:	does the lad... does the man next door still work with Victor?
 *SAN:	oedd xx +/. 160401_161313
-*PAZ:	+< yndy ond (dy)dy o (ddi)m yn byw rhagor ar y <ffarm efo fo> [?] . 160642_162799
+*IGO:	+< yndy ond (dy)dy o (ddi)m yn byw rhagor ar y <ffarm efo fo> [?] . 160642_162799
 %eng:	yes, but he doesn't live on the farm any more.
 *SAN:	+< (dy)dy o (ddi)m yn byw drws nesa ah@s:cym&spa ie . 161691_163305
 %eng:	he's not living next door, ah yes.
-*PAZ:	mae (we)di [?] cael ei tŷ ei hunan rŵan uh +... 163316_164872
+*IGO:	mae (we)di [?] cael ei tŷ ei hunan rŵan uh +... 163316_164872
 %eng:	he's got his own house now.
 *SAN:	ond mae (y)n dod <i &w> [//] i [/] i weithio efo +... 164873_167433
 %eng:	but he still comes to work with...
-*PAZ:	mm yndy mae o (y)n cael (.) hanner y cynhaea dw i (y)n meddwl . 167285_172308
+*IGO:	mm yndy mae o (y)n cael (.) hanner y cynhaea dw i (y)n meddwl . 167285_172308
 %eng:	mm, yes, he gets half the harvest I think.
 *SAN:	hanner hanner . 173029_173893
 %eng:	half and half
-*PAZ:	ie . 173714_174131
+*IGO:	ie . 173714_174131
 %eng:	yes.
 *SAN:	+< gweithio am hanner y cynhaea . 174039_175327
 %eng:	working for half of the harvest.
@@ -197,13 +198,13 @@
 %eng:	I saw Angharad.
 *SAN:	yn Gaiman@s:cym&spa a <mae hi a (y)r plant bach> [//] mae (y)n +... 181196_183593
 %eng:	in Gaiman, and she and the little children are...
-*PAZ:	+< do ? 181320_181810
-*PAZ:	++ yn hapus ? 183620_184300
+*IGO:	+< do ? 181320_181810
+*IGO:	++ yn hapus ? 183620_184300
 *SAN:	ydyn a mae Martin@s:cym&spa wrthi (y)n bildio dw i meddwl . 184308_186451
 %eng:	yes, and Martin's busy building I think.
 *SAN:	wrthi (y)n wneud tŷ ie ? 186451_187543
 %eng:	busy making a house, right?
-*PAZ:	+< wneud [//] (.) ie a wedyn &d <rhoid y> [//] wneud y to ei hunan . 186498_190949
+*IGO:	+< wneud [//] (.) ie a wedyn &d <rhoid y> [//] wneud y to ei hunan . 186498_190949
 %eng:	yes, and then doing the roof himself.
 *SAN:	+< wrthi (y)n adeiladu tŷ . 187543_188721
 %eng:	busy building a house.
@@ -211,40 +212,40 @@
 %eng:	putting on the roof himself.
 *SAN:	dipyn o waith i (y)r (.) deintydd mynd ar ben to i roid y to ond (dy)na fo . 192321_195948
 %eng:	quite a bit of work for a dentist, going up on a roof to put on the roof, but there you go.
-*PAZ:	+< ie . 195442_196023
+*IGO:	+< ie . 195442_196023
 %eng:	yes.
 *SAN:	dyna (y)r ffordd o +... 196251_197320
 %eng:	that's the way to...
-*PAZ:	++ <o gall> [//] yr unig ffordd yn gallu wneud o xxx +/. 197507_199359
+*IGO:	++ <o gall> [//] yr unig ffordd yn gallu wneud o xxx +/. 197507_199359
 %eng:	the only way he can do it.
 *SAN:	+< +, i gallu dal ymlaen i wneud y tŷ . 199063_200658
 %eng:	... to be able to keep on making the house.
-*PAZ:	mmhm . 200642_200973
+*IGO:	mmhm . 200642_200973
 %eng:	yes.
 *SAN:	ie . 201266_201823
 %eng:	yes.
 *SAN:	a popeth wedi mynd yn ddrud a (.) fel (yn)a mae . 202074_205017
 %eng:	and everything's become expensive and that's how it is.
-*PAZ:	a maen nhw (y)n gobeithio dod yma haf nesa (y)ma rŵan . 205396_207718
+*IGO:	a maen nhw (y)n gobeithio dod yma haf nesa (y)ma rŵan . 205396_207718
 %eng:	and they are hoping to come here next summer.
 *SAN:	ah@s:cym&spa neis <cwrdd <â nhw> [//] gyda nhw (..)> [///] gweld nhw fel maen nhw (y)n ddeud . 207722_211629
 %eng:	ah, nice to meet them, see them, as they say
 @Comment:	pause
 *SAN:	ti (y)n cael sgwrs Cymraeg efo rywun arall yn [//] <yli lle mae (y)n (.) hawdd rŵan mynd> [?] +//. 218145_222742
 %eng:	are you having a chat in Welsh with anyone else in, you know, where it's easy now to go...
-*PAZ:	+< efo [?] Jamie@s:cym&spa ac Anna@s:cym&spa i_gyd . 221883_224257
+*IGO:	+< efo [?] Jamie@s:cym&spa ac Anna@s:cym&spa i_gyd . 221883_224257
 %eng:	with Jamie and Anna, all of them.
 *SAN:	+< Jamie@s:cym&spa . 223500_224255
 *SAN:	dim ond ni . 224539_225218
 %eng:	only us.
-*PAZ:	mmhm . 225252_225676
+*IGO:	mmhm . 225252_225676
 %eng:	yes.
 *SAN:	Robert@s:cym&spa ? 225704_226191
 *SAN:	na ti (ddi)m yn sgw(r)sio efo Robert@s:cym&spa byth . 226209_227538
 %eng:	no, you never talk to Robert.
 *SAN:	a pwy Gymro arall sydd xx ? 227523_229590
 %eng:	and what other Welshmen are [...] ?
-*PAZ:	+< ambell i (y)chydig o (.) eiriau yn Gymraeg . 228446_231209
+*IGO:	+< ambell i (y)chydig o (.) eiriau yn Gymraeg . 228446_231209
 %eng:	a few words in Welsh from time to time.
 *SAN:	+< ++ eiriau (dy)na i_gyd . 229787_230623
 %eng:	...words, that's all.
@@ -254,17 +255,17 @@
 %eng:	and old people have gone.
 *SAN:	a wedyn dwyt ti (ddi)m yn gallu cael llawer +/. 233455_234976
 %eng:	and so you can't get much...
-*PAZ:	yndy xxx +/. 233952_236155
+*IGO:	yndy xxx +/. 233952_236155
 %eng:	yes, [...].
 *SAN:	+< ++ oedd yn arfer sgwrsio Cymraeg yn naturiol . 235539_237298
 %eng:	who were used to speaking Welsh naturally.
 *SAN:	Geraint@s:cym&spa (.) mae o wedi marw wythnos diwetha Geraint_Pritchard@s:cym&spa . 237310_240442
 %eng:	Geraint, he died last week, Geraint Pritchard.
-*PAZ:	yr uh Richards@s:cym&spa teulu Richards@s:cym&spa . 240614_242391
+*IGO:	yr uh Richards@s:cym&spa teulu Richards@s:cym&spa . 240614_242391
 %eng:	the Richards, the Richards family.
 *SAN:	teulu Richards@s:cym&spa i_gyd wedi mynd . 242425_243946
 %eng:	the whole Richards family has gone.
-*PAZ:	xxx siarad Cymraeg efo xxx . 244333_245854
+*IGO:	xxx siarad Cymraeg efo xxx . 244333_245854
 %eng:	[...] speaking Welsh with [...].
 *SAN:	<oedden nhw> [/] oedden nhw (y)n Cymreigaidd (.) iawn . 245883_248421
 %eng:	they were very Welsh.
@@ -274,19 +275,19 @@
 %eng:	less each time.
 *SAN:	dysgwyr sy o_gwmpas rŵan . 250201_251554
 %eng:	it's learners who are around now.
-*PAZ:	+< mmhm . 250768_251262
+*IGO:	+< mmhm . 250768_251262
 %eng:	yes.
 *SAN:	a mwy anodd cael sgwrs Cymraeg efo (y)r dysgwyr . 252077_254103
 %eng:	and [it's] harder to have a Welsh conversation with the learners.
-*PAZ:	yndy . 254185_254835
+*IGO:	yndy . 254185_254835
 %eng:	yes.
-*PAZ:	xxx efo Martin@s:cym&spa . 258137_259925
+*IGO:	xxx efo Martin@s:cym&spa . 258137_259925
 %eng:	[...] with Martin.
-*PAZ:	oedd o wedi aros xx Sbaeneg xxx rŵan mae o (y)n Gymro . 260350_264233
+*IGO:	oedd o wedi aros xx Sbaeneg xxx rŵan mae o (y)n Gymro . 260350_264233
 %eng:	he used to stick to Spanish, but now he is a Welshman.
 *SAN:	+< ++ yn Cymro . 263262_263871
 %eng:	... is a Welshman.
-*PAZ:	xxx cadw sgwrs yn Gymraeg efo fo . 264190_267670
+*IGO:	xxx cadw sgwrs yn Gymraeg efo fo . 264190_267670
 %eng:	[...] maintaining a conversation in Welsh with him.
 *SAN:	+< ++ i +... 265278_265516
 %eng:	to...
@@ -294,63 +295,63 @@
 %eng:	yes.
 *SAN:	arferiad . 267744_268661
 %eng:	a habit.
-*PAZ:	arferiad xxx . 268725_269799
+*IGO:	arferiad xxx . 268725_269799
 %eng:	a habit, [...].
 *SAN:	fel (yn)a ydw i efo Fiona@s:cym&spa hefyd yn cael gwaith (.) cadw (y)r sgwrs ymlaen . 269879_272933
 %eng:	I'm like that with Fiona as well, struggling to keep the conversation going.
 *SAN:	achos bod fi (we)di arfer siarad Sbaeneg efo hi . 273079_274948
 %eng:	because I'm used to speaking Spanish with her.
-*PAZ:	ie . 275266_275661
+*IGO:	ie . 275266_275661
 %eng:	yes.
 *SAN:	arferiad efo hi hefyd ie . 275649_277286
 %eng:	habit with her too, yes.
 *SAN:	ond mae Martin@s:cym&spa yn siarad yn dda yn_dydy ? 279536_281371
 %eng:	but Martin speaks well, doesn't he?
-*PAZ:	yndy ond uh +/. 281723_283099
+*IGO:	yndy ond uh +/. 281723_283099
 %eng:	yes, but...
 *SAN:	++ ond dim yn naturiol &=laugh . 283145_284254
 %eng:	... but not naturally.
-*PAZ:	dim yn naturio(l) ti sylwi bod o ddim +/. 284216_285841
+*IGO:	dim yn naturio(l) ti sylwi bod o ddim +/. 284216_285841
 %eng:	not naturally, you notice that he isn't...
 *SAN:	+< ie mae costio xx iddo . 285835_287049
 %eng:	yes, it costs him [...].
-*PAZ:	ie . 287143_288090
+*IGO:	ie . 287143_288090
 %eng:	yes.
 *SAN:	+< ie ie mae (y)r acen gogledd efo fo rŵan (y)r u(n) fath â Angharad@s:cym&spa . 287544_290455
 %eng:	yes, he's got a northern accent now, the same as Angharad.
-*PAZ:	+< mmhm . 290066_290368
+*IGO:	+< mmhm . 290066_290368
 %eng:	yes.
 *SAN:	ond uh (.) (dy)dy (y)r geirfa ddim yn +... 291160_293912
 %eng:	but the vocabulary isn't...
-*PAZ:	xxx siarad yn araf . 294531_295379
+*IGO:	xxx siarad yn araf . 294531_295379
 %eng:	[...] speaks slowly.
 *SAN:	siarad yn ara deg ia a chwilio am y geiriau fath o beth (.) ie . 295542_298607
 %eng:	speaking slowly, and searching for the words, kind of thing, yes.
-*PAZ:	+< uh xxx +/. 297872_298517
+*IGO:	+< uh xxx +/. 297872_298517
 %eng:	uh,...
 *SAN:	ond mae o (y)n dda iawn fel mae o wedi dysgu . 299527_301356
 %eng:	but he's very good the way he's learned.
-*PAZ:	yndy . 301282_301781
+*IGO:	yndy . 301282_301781
 %eng:	yes.
-*PAZ:	ond pan wyt ti (y)n siarad busnes mae (y)n hanner siarad yn Gymraeg a [?] dan ni (we)di arfer deud o (y)n Sbaeneg . 306247_311312
+*IGO:	ond pan wyt ti (y)n siarad busnes mae (y)n hanner siarad yn Gymraeg a [?] dan ni (we)di arfer deud o (y)n Sbaeneg . 306247_311312
 %eng:	but when you talk business he spekas half Welsh and we're used to saying it in Spanish.
 *SAN:	ie (.) termau gwahanol geiriau gwahanol . 311520_314027
 %eng:	yes, different terms, different words.
-*PAZ:	<a (y)r> [/] a (y)r gwaith hefyd uh be oedd o (y)n +... 314747_317929
+*IGO:	<a (y)r> [/] a (y)r gwaith hefyd uh be oedd o (y)n +... 314747_317929
 %eng:	and the work as well, what he had...
-*PAZ:	<yr uh> [//] beth oedd o (we)di iwsio i wneud y tŷ a (y)r to a (y)r wahanol uh +... 318891_324070
+*IGO:	<yr uh> [//] beth oedd o (we)di iwsio i wneud y tŷ a (y)r to a (y)r wahanol uh +... 318891_324070
 %eng:	what he had used to build the house and the roof and the different...
 *SAN:	++ defnyddiau i_gyd . 324411_325444
 %eng:	... all the materials.
-*PAZ:	&tm ie materiales@s:spa ["] dan ni (y)n deud Sbanish . 325350_327858
+*IGO:	&tm ie materiales@s:spa ["] dan ni (y)n deud Sbanish . 325350_327858
 %eng:	yes, "materiales" we say in Spanish.
 *SAN:	mae geiriau [/] geiriau mwy specific@s:eng . 329453_332099
 %eng:	there are more specific words.
-*PAZ:	ie . 331959_332244
+*IGO:	ie . 331959_332244
 %eng:	yes.
 *SAN:	+< felly mae anodd i +/. 332104_333119
 %eng:	so it's hard to...
-*PAZ:	+< mae raid [/] mae raid ti siarad Sbaeneg pan wyt ti (y)n siarad am bethau fel (y)na . 332328_335288
+*IGO:	+< mae raid [/] mae raid ti siarad Sbaeneg pan wyt ti (y)n siarad am bethau fel (y)na . 332328_335288
 %eng:	you have to speak Spanish when you talk about things like that.
 *SAN:	+< ++ am am am xx neu am +... 334554_336690
 %eng:	to [...] or to...
@@ -360,44 +361,59 @@
 %eng:	well, when the Welsh come, they're sometimes searching for words.
 *SAN:	maen nhw (y)n troi i (y)r Saesneg i ddeud nhw hefyd . 342496_344139
 %eng:	they switch to English to say them too.
-*PAZ:	+< ww . 343881_344532
+*IGO:	+< yndy . 343881_344532
+%eng:	yes.
 *SAN:	a dan ni (y)n troi yma i (y)r Sbaeneg i [/] i ddeud yr un &k (.) geiriau . 344549_348142
 %eng:	and we switch here to Spanish to say the same words.
-*PAZ:	+< ww . 346090_346427
+*IGO:	+< ie . 346090_346427
+%eng:	yes.
 *SAN:	wnest ti gyfarfod criw Elwy@s:cym&spa eleni ? 352069_354379
 %eng:	did you meet the Elwy group this year?
 *SAN:	na achos [?] yn yr +/. 354376_355224
 %eng:	no, because, in the...
-*PAZ:	ww . 355154_355607
+*IGO:	naddo . 355154_355607
+%eng:	no.
 *SAN:	yn y Gaiman@s:cym&spa wnest ti gweld nhw wedyn ? 355601_357116
 %eng:	was it in Gaiman you saw them after?
-*PAZ:	www +/. 357087_360147
+*IGO:	do do dw i (ddi)m yn +//. 357087_358206
+%eng:	yes, yes, I don't...
+*IGO:	oedd (yn)a gymaint o bobl (y)na ddim yn gwybod p(a) (y)r un oedd +/. 358206_360761
+%eng:	there were so many people there I don't know which one was...
 *SAN:	+< dim sgwrsio efo nhw . 358312_359253
 %eng:	...didn't talk to them.
 *SAN:	++ pwy oedd pwy yna . 360153_361067
 %eng:	...who was who there.
-*PAZ:	+, www . 360774_361395
+*IGO:	+, pwy oedd pwy yna . 360774_361395
+%eng:	...who was who there.
 *SAN:	pawb efo ei_gilydd <yn yr> [/] yn y neuadd . 361238_362945
 %eng:	everyone together in the hall.
-*PAZ:	www . 363564_367430
+*IGO:	wnes i uh gwrdd â Alfred@s:cym&spa xx yn yr uh gymanfa . 363564_367430
+%eng:	I met Alfred [...] at the "cymanfa" [assembly]
 *SAN:	ah@s:cym&spa ie wnes i weld o fan (y)na hefyd . 367548_369364
 %eng:	oh yes, I saw him there too.
 *SAN:	a ddaethon ni syth ar i_fyny wedyn i (...) cychwyn am [/] am adre yn syth ar_ôl y gymanfa . 369832_376188
 %eng:	and we got straight up afterwards to start for home, straight after the "cymanfa" [assembly].
-*PAZ:	+< ww . 374026_374769
+*IGO:	+< mm . 374026_374769
+%eng:	mm.
 @Comment:	pause
 *SAN:	ti (we)di gweld Elin_Mai@s:cym&spa yn diweddar ? 385902_387173
 %eng:	have you seen Elin Mai lately?
 *SAN:	mae hi yn [///] (.) cael dod adre mae . 387178_389105
 %eng:	she's... she's allowed to come home.
-*PAZ:	+< ww . 387899_388712
-*PAZ:	ww . 389059_389680
+*IGO:	+< na . 387899_388712
+%eng:	no.
+*IGO:	naddo . 389059_389680
+%eng:	no.
 *SAN:	ti (y)n siarad Cymraeg efo hi pan ti (y)n gweld hi ? 389631_391315
 %eng:	do you talk Welsh with her when you see her?
-*PAZ:	+< ww . 390821_391338
+*IGO:	+< yndw . 390821_391338
+%eng:	yes I do.
 *SAN:	ydy un o (y)r rei [//] ychydig rei eraill wyt ti (y)n (.) gallu sgwrsio . 391410_394429
 %eng:	yes, one of the few others you can talk to.
-*PAZ:	+< www . 392947_395356
+*IGO:	+< ie ond dw i (ddi)m wedi gweld hi (y)n ddiweddar . 392947_395021
+%eng:	yes, but I haven't seen her lately.
+*IGO:	<(dy)na fo &t> [?] . 395011_395539
+%eng:	there you are.
 *SAN:	mae Gwen@s:cym&spa wedyn Ellis@s:cym&spa . 395704_397013
 %eng:	then there's Gwen Ellis.
 *SAN:	mae Heulwen@s:cym&spa yn cael sgwrs Cymraeg efo Gwen@s:cym&spa pan mae hi (y)n cwrdd â hi . 397036_399532
@@ -408,17 +424,21 @@
 %eng:	Llinos there on the other side wants to go and see Emyr.
 *SAN:	achos mae o (y)n mynd fyny i Neuquén@s:cym&spa at Osian@s:cym&spa (..) dydd Mercher . 410113_414175
 %eng:	because he's going up to Neuquén to see Osian on Wednesday.
-*PAZ:	www ? 414396_415859
+*IGO:	a (y)dy o siarad Cymraeg ? 414396_415242
+%eng:	and does he speak Welsh?
+*IGO:	(y)dy Emyr@s:cym&spa yn siarad Cymraeg ? 415288_416263
+%eng:	does Emyr speak Welsh?
 *SAN:	+< oh@s:cym&spa mae +/. 415582_416267
-*SAN:	uh siŵr o fod hi . 416316_417541
-%eng:	er, I'm sure she does.
-*SAN:	gawn ni weld gawn +//. 417535_418441
+*SAN:	uh siŵr o fod . 416316_417541
+%eng:	er, I'm sure he does.
+*SAN:	gawn ni weld gawn [?] +//. 417535_418441
 %eng:	we'll see, we'll...
 *SAN:	a mae (y)n siŵr bod Selena_Ferrari@s:cym&spa hefyd . 418404_420116
 %eng:	and I'm sure Selena Ferrari does too.
 *SAN:	a wedyn mae mynd (y)n_ôl wedyn i weld xxx yn lle Armando@s:cym&spa i fynd i aros at Maria_Carmen@s:cym&spa . 420424_424308
 %eng:	and then she's going back after [...] in Armando's place, to stay with Maria-Carmen.
-*PAZ:	www . 424711_425536
+*IGO:	ah@s:cym&spa ie . 424711_425536
+%eng:	ah yes
 *SAN:	[- spa] así que +... 425973_427355
 %eng:	so...
 *SAN:	maen nhw (y)n siarad dipyn o Gymraeg wrth_gwrs . 428945_430791
@@ -427,18 +447,21 @@
 %eng:	and Osian has learnt well.
 *SAN:	mae o (y)n mwynhau . 432072_433007
 %eng:	he's enjoying it.
-*PAZ:	+< www +/. 432484_433512
+*IGO:	+< ydy mae o (y)n dod +/. 432484_433871
+%eng:	yes, he's coming...
 *SAN:	+< mae o o ddifri yn trio (.) cadw (y)r peth i fynd er bod o (y)n byw yn +/. 433404_437520
 %eng:	he really is trying to keep it up even though he lives in...
-*PAZ:	++ ww . 437482_437992
+*IGO:	++ Neuquén@s:cym&spa . 437482_437992
 *SAN:	+, yn Neuquén@s:cym&spa yn bell oddi <fa(n) (y)ma ydy> [?] . 437958_439786
 %eng:	in Neuquén, a long way from here, yes.
-*PAZ:	www . 440053_441162
+*IGO:	heb Cymry o_gwmpas . 440053_441162
+%eng:	with no Welsh people around
 *SAN:	++ o_gwmpas ie . 441144_441940
 %eng:	...around, yes.
 *SAN:	dyna sy (y)n anodd ie . 441940_443002
 %eng:	that's what's hard, yes.
-*PAZ:	www ? 445057_446160
+*IGO:	a be (y)dy waith o draw ? 445057_446160
+%eng:	and what's his work over there?
 *SAN:	uh wel rywbeth i wneud â twristiaeth . 446121_448356
 %eng:	er, well, something to do with tourism.
 *SAN:	uh o (we)di stydio fel licenciatura@s:spa en@s:spa turismo@s:spa dw i meddwl . 448356_451450
@@ -453,28 +476,32 @@
 %eng:	or taking people around maybe, with the guide.
 *SAN:	guía@s:spa de@s:spa turismo@s:spa rywbeth fel (yn)a mae o . 463332_465062
 %eng:	tourist guide, he's something like that.
-*PAZ:	ww . 465003_465920
+*IGO:	&=grunt . 465003_465920
 *SAN:	(d)w (ddi)m (gwy)bod faint o hynna sy mynd (y)mlaen yn Neuquén@s:cym&spa ond (.) fan (y)na mae o . 466723_469580
 %eng:	I don't know how much of that goes on in Neuquén, but that's where he is.
-*PAZ:	www ? 469471_470347
+*IGO:	oes (y)na teulu efo fo ? 469471_470347
+%eng:	does he have a family?
 *SAN:	oes mae dau o blant efo fo . 470664_471860
 %eng:	yes, he has two children.
-*PAZ:	ww ? 471901_472365
+*IGO:	dau ! 471901_472365
+%eng:	two!
 *SAN:	oes dau o blant . 472261_473480
 %eng:	yes, two children.
 @Comment:	pause
-*SAN:	wnest ti fwynhau (y)r steddfod ? 485192_486586
+*SAN:	wnest ti fwynhau (y)r (ei)steddfod ? 485192_486586
 %eng:	did you enjoy the Eisteddfod?
-*PAZ:	www . 486780_487785
-*SAN:	corau braidd yn (.) blino ar y diwedd . 488180_490682
-%eng:	choirs [were] pretty tired by the end.
-*PAZ:	+< ww . 490320_490935
-*SAN:	nos fyny . 490970_491686
-%eng:	the night [is] up...
-*PAZ:	+< www . 491079_492055
-*SAN:	+, i_gyd wedi blino erbyn mae (y)r corau yn dod i golwg . 491645_493881
-%eng:	... all tired before the choirs came into view.
-*PAZ:	www . 494716_498708
+*IGO:	neis iawn . 486780_487785
+%eng:	very nice
+*SAN:	corau braidd yn (.) blino ar y diwedd y (.) nos . 488180_491381
+%eng:	choirs [were] pretty tired by the end of the night.
+*IGO:	+< blino . 490320_490935
+%eng:	tired.
+*IGO:	oedd hi (y)n hir ofnadwy . 490963_492055
+%eng:	it was terribly long.
+*SAN:	oedden ni i_gyd wedi blino erbyn mae (y)r corau yn dod i golwg . 491358_493881
+%eng:	we were all tired before the choirs came into view.
+*IGO:	wedi cael digon o (y)r (.) gymaint o oriau eistedd lawr . 494716_498708
+%eng:	had enough of so many hours' sitting down
 *SAN:	ie . 498771_499491
 %eng:	yes.
 *SAN:	oedd adrodd ymlaen ? 500914_501866
@@ -485,38 +512,48 @@
 %eng:	yes.
 *SAN:	oeddet ti (y)na pan oedd Nia@s:cym&spa adrodd ? 503152_504481
 %eng:	were you there when Nia was reciting?
-*PAZ:	+< ww . 503433_503933
-*PAZ:	ww . 504385_504832
-*PAZ:	www . 506391_509136
+*IGO:	+< oedd . 503433_503933
+%eng:	yes.
+*IGO:	do . 504385_504832
+%eng:	yes.
+*IGO:	ardderchog ! 506391_507690
+%eng:	excellent!
+*IGO:	y gorau i fi . 507835_508886
+%eng:	the best, for me.
 *SAN:	oedd uh +//. 511319_512062
 *SAN:	be (y)dy enw hi um +..? 512062_513566
 %eng:	what's her name, um..?
 *SAN:	gwraig Tom_Owen@s:cym&spa be (y)dy enw ? 515196_516822
 %eng:	Tom Owen's wife, what's [her] name?
-*PAZ:	ww . 516802_517243
+*IGO:	Catrin@s:cym&spa . 516802_517243
 *SAN:	Catrin@s:cym&spa wedi methu cael amser i ddysgu adroddiadau Cymraeg (e)leni . 517278_520594
 %eng:	Catrin's not had time to learn any Welsh recitations this year.
 *SAN:	oedd hi mor brysur efo (y)r côr achos bod Lowri@s:cym&spa i_ffwrdd . 520906_523373
 %eng:	she was so busy with the choir because Lowri was away.
 *SAN:	neu oedd hi (y)n arfer cystadlu efo (y)r adrodd hefyd . 523884_526293
 %eng:	or else she usually competes with the recitation too.
-*PAZ:	+< ww . 525389_526312
-*PAZ:	www . 526640_528021
+*IGO:	+< ie . 525389_526312
+%eng:	yes
+*IGO:	mae hi yn arwain y côr (e)leni . 526640_528021
+%eng:	she's leading the choir this year.
 *SAN:	ie . 527992_528538
 %eng:	yes.
 *SAN:	Côr_Madryn (g)aeth un o (y)r (.) gwobrau . 530476_532949
 %eng:	Côr Madryn got one of the prizes.
 *SAN:	uh canu Sbaeneg wrth_gwrs maen nhw (y)n cael wobr . 533071_535214
 %eng:	for Spanish singing, of course, they get a prize.
-*PAZ:	www ? 535178_536606
+*IGO:	a &km [/] a Cymraeg pwy +/? 535178_536606
+%eng:	and Welsh, who...
 *SAN:	+< oh@s:cym&spa siŵr mai Gaiman@s:cym&spa . 536235_537712
 %eng:	oh, Gaiman, I'm sure.
-*PAZ:	ww . 537416_537863
+*IGO:	aha@s:cym&spa . 537416_537863
+%eng:	aha.
 *SAN:	ie ie neu Trelew@s:cym&spa dw (ddi)m yn cofio . 537816_539931
 %eng:	yes, or Trelew, I can't remember.
 *SAN:	na Gaiman@s:cym&spa siŵr . 539926_541185
 %eng:	no, Gaiman, I'm sure.
-*PAZ:	www . 544527_548062
+*IGO:	ie nhw oedd yr unig côr dw i (y)n meddwl yn yr brif cystadleuaeth . 544527_548062
+%eng:	yes, they were the only choir, I think, in the main competition.
 *SAN:	uh Cymraeg ie ie ie . 547810_549536
 %eng:	Welsh, yes.
 *SAN:	achos oes +//. 549574_550189
@@ -527,18 +564,24 @@
 %eng:	I don't know whether they...
 *SAN:	na ddim yn y brif un chwaith . 552151_553230
 %eng:	no, not in the main one either.
-*PAZ:	www . 553111_554504
+*IGO:	nag oedd xx . 553111_554504
+%eng:	no [...].
 *SAN:	+< na na . 553590_554304
 %eng:	no, no.
 *SAN:	ti (y)n darllen rei o (y)r llyfrau (y)ma sydd fan hyn <yn yr> [/] yn yr (.) llyfrgell ? 556886_560735
 %eng:	are you reading some of these books that are here in the library?
-*PAZ:	+< www . 558913_562068
+*IGO:	+< na(g) (y)dw . 558922_559735
+%eng:	no.
+*IGO:	dw i (y)n gweld <bod (y)na> [/] bod (y)na lot o lyfrau fan hyn . 559747_562090
+%eng:	I see that there are a lot of books here.
 *SAN:	oes lot o lyfrau plant yn fan hyn . 562097_563769
 %eng:	yes, a lot of childrens' books here.
-*PAZ:	www +/. 563872_564848
+*IGO:	rhai plant +/. 563872_564848
+%eng:	children's ones...
 *SAN:	mae plant yn dwlu ar gweld lluniau &m [//] (..) llyfrau llawn lluniau lliwgar . 564488_569206
 %eng:	children love to see books full of colourful pictures.
-*PAZ:	ww . 569269_570296
+*IGO:	yndyn . 569269_570296
+%eng:	they do.
 *SAN:	mae Grace@s:cym&spa newydd ddod â llyfr Kyffin_Williams@s:cym&spa yn_ôl i fi . 572294_574993
 %eng:	Grace has just brought Kyffin Williams's book back to me.
 *SAN:	oedd hi (we)di xx mwynhau (y)r bennod am [/] (.) am y Wladfa . 574962_577813
@@ -547,12 +590,14 @@
 %eng:	but of course, it's in English.
 *SAN:	ond +/. 579303_580064
 %eng:	but...
-*PAZ:	www ? 580070_581289
+*IGO:	hen lyfr ydy o ie ? 580070_581289
+%eng:	it's an old book, is it?
 *SAN:	llyfr oedd <efo ni> [//] efo dad adre oedd o . 581288_583290
 %eng:	it was a book that we had... that Dad had at home.
 *SAN:	dw i (we)di +/. 583397_583815
 %eng:	I've...
-*PAZ:	+< www . 583552_584552
+*IGO:	+< wel fi erioed (we)di gweld o . 583552_584552
+%eng:	well, I've never seen it.
 *SAN:	oedd o (y)n ar_hyd yr amser <yn yr> [/] yn y llyfrgell . 584527_586754
 %eng:	it was in the library the whole time.
 *SAN:	oedd o (we)di gyrru o (y)n_ôl adeg [//] (.) ar_ôl iddo ysgrifennu . 586718_589704
@@ -561,7 +606,8 @@
 %eng:	he wrote it some years after he came here.
 *SAN:	a wnaeth o yrru copi . 591733_592591
 %eng:	and he sent a copy.
-*PAZ:	www ? 592631_593311
+*IGO:	yn y chwe_degau ? 592631_593311
+%eng:	in the sixties?
 *SAN:	ie . 593299_593682
 %eng:	yes.
 *SAN:	chwe_deg wyth oedd yma felly tua (y)r saithdegau rywbryd <oedd o (y)n> [//] oedd y llyfr yma (y)n dod allan . 594315_598130
@@ -576,33 +622,37 @@
 %eng:	but it's with Auntie Mair's old books I think.
 *SAN:	mae raid fi chwilio amdano . 610179_611212
 %eng:	I have to look for it.
-*PAZ:	www ? 611564_612824
+*IGO:	Valmai@s:cym&spa oedd byw yn Gymru ? 611564_612824
+%eng:	Valmai who lived in Wales?
 *SAN:	yn +//. 612868_613268
 %eng:	in...
 *SAN:	ie hi oedd (y)n byw (y)n Caergwrle@s:cym&spa fan (y)na . 613274_614923
 %eng:	yes, she lived there in Caergwrle.
 *SAN:	a (.) lle oedd y diddordeb achos oedd hi (y)n byw <yn yr un dre> [//] yn yr un pentre . 614918_618231
 %eng:	and where the interest was, because she used to live in the same town, in the same village.
-*PAZ:	www . 617808_618800
+*IGO:	ah@s:cym&spa Wrecsam@s:cym&spa . 617808_618800
+%eng:	ah, Wrexham!
 *SAN:	+< ond doedd ddim yn nabod hi . 618253_619304
 %eng:	but she didn't know her.
 *SAN:	yr adeg hynny wrth_gwrs oedd hi (y)n fach . 619501_620935
 %eng:	she was little then, of course.
-*PAZ:	+< ww . 620340_620898
+*IGO:	+< &=grunt . 620340_620898
 *SAN:	a mae (we)di marw ers blynyddoedd rŵan . 621080_622369
 %eng:	she's been dead for years now.
 *SAN:	Caergwrle@s:cym&spa wrth ochr Wrecsam@s:cym&spa . 623471_625294
 %eng:	Caergwrle next to Wrexham.
-*PAZ:	www ? 625293_626936
+*IGO:	ac am be mae (y)r llyfr (y)na (y)n trafod ? 625293_626936
+%eng:	and what does that book talk about?
 *SAN:	uh hanes bywyd y &d uh +... 627010_629350
 %eng:	er, the life story of...
-*PAZ:	+< ++ ww ? 628967_629448
+*IGO:	+< ++ dyffryn ? 628791_629448
+%eng:	...valley?
 *SAN:	+, Valmai@s:cym&spa &g +//. 630513_631389
 *SAN:	atgofion . 631366_632069
 %eng:	recollections.
 *SAN:	atgofion ["] neu (ry)wbeth fel (yn)a (y)dy <enw (y)r lle> [//] enw (y)r llyfr . 632065_634666
 %eng:	"atgofion" or something like that is the name of the place... the name of the book
-*PAZ:	+< ww . 632109_632544
+*IGO:	+< &=grunt . 632109_632544
 *SAN:	a wedyn mae llyfr newydd wedi dod allan llyfr Mari_Emlyn@s:cym&spa . 635850_638793
 %eng:	and then a new book has come out, Mari Emlyn's book.
 *SAN:	uh <llythyrau o (y)r Wladfa> ["] neu (ry)wbeth . 639329_640838
@@ -613,23 +663,25 @@
 %eng:	it's very interesting, Grace says.
 *SAN:	hen hen lyfrau a llythyrau (y)dy rhan fwya o(ho)nyn nhw dw i meddwl . 645515_648319
 %eng:	most of them are very old books and letters I think.
-*PAZ:	+< ww . 645553_645913
+*IGO:	+< aha@s:cym&spa . 645553_645913
+%eng:	aha.
 *SAN:	doth hi [///] ddoth Mari_Emlyn@s:cym&spa merch Sian_Emlyn@s:cym&spa yma (.) i gasglu (.) uh llythyrau . 648609_654198
 %eng:	Mari Emlyn, Sian Emlyn's daughter, came here to collect letters.
-*PAZ:	+< ww . 652571_653802
+*IGO:	+< ah@s:cym&spa . 652571_653802
 *SAN:	bobl yn benthyg nhw iddi . 654199_655604
 %eng:	people lent them to her.
 *SAN:	a hi (y)n wneud (.) llyfr allan <o (y)r> [/] o (y)r llythyrau (y)ma . 655917_659614
 %eng:	and she made a book out of these letters.
-*PAZ:	+< ww +... 658482_658883
-*PAZ:	+, ww . 659422_659811
+*IGO:	+< o (y)r cwbl . 658486_659811
+%eng:	from them all.
 *SAN:	a bod o (y)n ddiddorol medden nhw . 659820_661004
 %eng:	and it's interesting, they say.
 *SAN:	mae raid gwybod sut i wneud rywbeth fel (yn)a hefyd yn_dydy . 661507_663341
 %eng:	you have to know how to do something like that too, don't you?
 *SAN:	mae (y)n [///] (dy)dy o (ddi)m yn hawdd jyst (.) casglu llythyrau heb [/] (.) heb fath o rhyw syniad arbennig . 663335_668747
 %eng:	it's not easy to just collect letters without any kind of particular idea.
-*PAZ:	+< ww . 664570_664994
+*IGO:	+< ++ hel . 664570_664994
+%eng:	...collecting.
 *SAN:	ond oedd Grace@s:cym&spa wedi <cael o> [?] (y)n diddorol iawn meddai hi . 669047_671317
 %eng:	but Grace found it very interesting, she said.
 *SAN:	a mae (y)na ddau lyfr arall i_w darllen hefyd . 672249_673816
@@ -641,14 +693,18 @@
 *SAN:	uh Elvey_Macdonald@s:cym&spa . 678100_679772
 *SAN:	llwch ["] ydy enw hwnna . 679805_681013
 %eng:	that one is called "llwch" [dust].
-*PAZ:	ww . 680534_680917
+*IGO:	mm . 680534_680917
+%eng:	mm.
 *SAN:	(ba)swn i licio gael gafael ar y llyfr yna hefyd i ddarllen o . 681066_683371
 %eng:	I'd like to get hold of that book too, to read it.
-*PAZ:	www . 683402_685027
+*IGO:	dw i (we)di gorffen y llall ar hirdaith . 683402_685027
+%eng:	I've finished the other one about "hirdaith" [trekking].
 *SAN:	hirdaith ["] ie . 685010_685875
 %eng:	"hirdaith" [trek], yes.
-*PAZ:	www . 685855_686784
-*PAZ:	www . 686802_688201
+*IGO:	xxx roi (y)n_ôl i ti . 685855_686784
+%eng:	[...] give it back to you
+*IGO:	dw i meddwl bod yn yr modur <gen i fan (y)na> [?] . 686802_688201
+%eng:	I think I have it in the car there.
 *SAN:	+< reit . 686952_687220
 %eng:	right.
 *SAN:	(dy)na fo . 688201_688688
