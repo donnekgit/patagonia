@@ -223,7 +223,7 @@
 *DOR:	wnes i ofyn diwrnod o_blaen . 456452_458356
 %eng:	I asked the other day
 *RAN:	ww ? 458362_458809
-*DOR:	ond rŵan xxx os (y)dy hi (we)di bod heddiw . 459155_461489
+*DOR:	ond rŵan <dim gwybod> [?] os (y)dy hi (we)di bod heddiw . 459155_461489
 %eng:	but now [...] whether she's come today
 *DOR:	wnes i (ddi)m cofio gofyn iddi heddiw . 462200_464679
 %eng:	I didn't remember to ask her today
@@ -304,7 +304,7 @@
 *DOR:	dau_ddeg pump . 704750_706050
 %eng:	25th
 *NEL:	www . 708653_711933
-*DOR:	eh@s:cym&spa [?] acá@s:spa [?] . 711883_713557
+*DOR:	<eh@s:cym&spa acá@s:spa> [?] . 711883_713557
 %eng:	eh here.
 *NEL:	www ? 713574_715281
 *NEL:	www ? 716756_718997
@@ -352,7 +352,7 @@
 %eng:	yes
 *RAN:	ww . 831522_832056
 @Comment:	pause
-*DOR:	ac o(eddw)n i (y)n gweithio hefo Saesnes arall ar y ffarm . 841263_844508
+*DOR:	ac o(eddw)n i (y)n weithio hefo Saesnes arall ar y ffarm . 841263_844508
 %eng:	and I used to work with another Englishwoman on the farm
 *RAN:	www ? 845086_845760
 *DOR:	efo Saesnes (.) arall ar y ffarm . 845835_848639
@@ -386,7 +386,7 @@
 *RAN:	&=grunt . 940068_940475
 *DOR:	wel dw i (we)di wneud un heddiw . 942526_944656
 %eng:	well, I've made one today
-*DOR:	xxx dod i nôl rŵan . 945334_946733
+*DOR:	xxx dod i nôl rŵan . 945334_946956
 %eng:	[...] coming to get it now
 *NEL:	www . 946304_947889
 *RAN:	www . 948701_954709
@@ -401,7 +401,7 @@
 *DOR:	mmhm . 974561_974991
 %eng:	mmhm
 *RAN:	www . 978466_983346
-*DOR:	xxx mynd â mwy o bres a dod a llai o bethau bob tro . 984309_988175
+*DOR:	xxx mynd â mwy o bres a dod â llai o bethau bob tro . 984309_988175
 %eng:	[...] take more money and bring fewer things every time
 *RAN:	www . 990377_993190
 *DOR:	+< ond dw i (y)n prynu yn yr un stôr bob dydd . 992814_995502
@@ -482,8 +482,8 @@
 @Comment:	pause
 *RAN:	www . 1179730_1186309
 *NEL:	ww . 1187164_1187581
-*DOR:	oh@s:cym&spa neithiwr oedd hi ? 1187959_1188980
-%eng:	oh, it was last night ?
+*DOR:	neithiwr <oedd hi> [?] ? 1187959_1188980
+%eng:	was it last night ?
 *RAN:	+< www . 1188069_1188963
 *RAN:	ww ? 1189277_1189567
 *DOR:	neithiwr ? 1189592_1190335
@@ -635,7 +635,7 @@
 *NEL:	&=sniff www . 1545663_1548229
 *NEL:	www ? 1548357_1549994
 *DOR:	xxx buwch ["] . 1551881_1553947
-%eng:	[...], "buwch"
+%eng:	[...], "buwch" [cow]
 *NEL:	ww +/. 1554528_1554917
 *DOR:	xxx . 1554789_1557864
 *NEL:	ww . 1557679_1558306
@@ -788,7 +788,7 @@
 %eng:	the first farm he worked at in the valley was [...]
 *RAN:	www ? 1897192_1898208
 *DOR:	y ffarm xxx wnaeth o weithio gynta pan ddoth o xxx . 1898233_1902180
-%eng:	the farm [...] where he first worked when he came [...]
+%eng:	the farm [...] was where he first worked when he came [...]
 *RAN:	+< www ? 1901251_1904388
 *DOR:	+< wel dw i (ddi)m yn +/. 1903180_1904521
 %eng:	well, I don't...
