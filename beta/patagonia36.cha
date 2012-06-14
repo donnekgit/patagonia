@@ -14,7 +14,7 @@
 @Time Duration:	00:33:04
 @Media:	Patagonia36, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Warning:	Unable to tell two child speakers NEL and JOA apart
+@Warning:	Unable to tell two child speakers NEL and JOA apart; DOR's speech is mostly low volume.
 *RAN:	www . 0_3866
 *RAN:	www ? 4469_7522
 *DOR:	do . 7534_8091
@@ -55,16 +55,16 @@
 *NEL:	+< www ! 67770_69175
 *DOR:	[- spa] bueno . 70746_71251
 %eng:	right
-*NEL:	www . 71048_73512
+*NEL:	+< www . 71048_73512
 *NEL:	www . 74343_76874
-*DOR:	[- spa] bueno vamos a darle . 76959_77916
-%eng:	ok let's do it.
+*DOR:	[- spa] bueno dale . 76959_77916
+%eng:	ok do it.
 *RAN:	www ? 77821_78901
 *RAN:	www ? 79098_83614
 *NEL:	www . 84922_88417
 *JOA:	ww . 88538_89246
-*DOR:	[- spa] xxx no te quieren escuchar en galés . 89223_92941
-%eng:	[...] they don't want to listen to you in Welsh.
+*DOR:	[- spa] xxx te quieren escuchar en galés . 89223_92941
+%eng:	[...] they want to listen to you in Welsh.
 *NEL:	&=laugh &=laugh ! 93017_95107
 *RAN:	ww ! 95241_95984
 *RAN:	www ? 97375_100422
@@ -77,10 +77,10 @@
 *RAN:	ww ? 112256_112935
 *RAN:	www ? 112983_114771
 *NEL:	+< www . 113110_114671
-*DOR:	[- spa] no tenía ganas de hablar en Galés dice . 114983_117641
+*DOR:	[- spa] no tenía ganas de hablar en galés dice . 114983_117641
 %eng:	he says that he didn't want to talk in Welsh.
 *DOR:	[- spa] hablále que esto va a grabar ahí . 117603_119589
-%eng:	talk, so that this is going to record there.
+%eng:	talk, because this is going to record there.
 *NEL:	www . 122265_125592
 *DOR:	+< xxx . 123867_125615
 *NEL:	www ? 125644_127308
@@ -101,11 +101,15 @@
 *RAN:	www . 156548_159195
 *NEL:	www +//. 159572_160699
 *NEL:	www ? 160704_163175
-*DOR:	[- spa] y los xxx que están grabarando Nel@s:cym&spa . 163332_166317
+*DOR:	[- spa] y los xxx que están grabando Nel@s:cym&spa . 163332_166317
 %eng:	[...] they are recording Nel.
 *NEL:	+< ww ? 164514_165013
-*DOR:	[- spa] venga sentate acá ven . 167103_169969
-%eng:	come on, sit down here, come on.
+*DOR:	[- spa] ven . 167108_167688
+%eng:	come.
+*DOR:	[-spa] sentate acá . 167682_168425
+%eng:	sit here.
+*DOR:	[-spa] ven . 168948_169627
+%eng:	come.
 *NEL:	www . 170103_171555
 *RAN:	www ? 171469_174906
 *RAN:	www ? 175429_176822
@@ -170,13 +174,13 @@
 %eng:	be quiet, they are recording [...] .
 *NEL:	www [=! whispers] . 296793_302396
 @Comment:	pause
-*DOR:	[- spa] xxx [=! whispers] . 316120_318802
-*DOR:	xxx [=! whispers] . 319817_322674
+*DOR:	[- spa] xxx . 316120_318802
+*DOR:	xxx . 319817_322674
 *JOA:	www [=! whispers] . 322302_323866
 *DOR:	xxx . 323802_324655
 *NEL:	ww . 325812_326329
 *JOA:	www [=! whispers] . 327176_329045
-*DOR:	mae wedi dechrau glawio &=grunt . 329201_331796
+*DOR:	mae wedi dechrau glawio (.) &=grunt . 329201_331796
 %eng:	it's started to rain
 *RAN:	www . 333495_336188
 *RAN:	www . 336153_339415
@@ -243,7 +247,7 @@
 *DOR:	uh dw i (ddi)m yn siŵr . 520667_521607
 %eng:	er, I'm not sure
 *RAN:	www ? 523329_529029
-*DOR:	ar &t veinticinco@s:spa oedd hi (y)n meddwl dod . 529069_531205
+*DOR:	ar twenty@s:eng cinco@s:spa oedd hi (y)n meddwl dod . 529069_531205
 %eng:	on the 25th, she was thinking of coming
 *DOR:	at y dau_ddeg pump . 531758_532745
 %eng:	for the 25th
@@ -300,7 +304,7 @@
 *RAN:	www ? 693778_694736
 *RAN:	www . 697248_701178
 *DOR:	maen nhw meddwl awydd dod at veinticinco@s:spa dw i (y)n credu . 701457_704772
-%eng:	they're thinking of, wanting to come for the 25th I think
+%eng:	they're thinking of wanting to come for the 25th I think
 *DOR:	dau_ddeg pump . 704750_706050
 %eng:	25th
 *NEL:	www . 708653_711933
@@ -315,8 +319,10 @@
 *DOR:	mae o lot gwell rŵan . 743572_744954
 %eng:	he's much better now
 *RAN:	www . 745940_748703
-*DOR:	yndy ond mae o (y)n mynd o_hyd i weld y doctor@s:cym&spa yndy . 748639_751443
-%eng:	yes, but he still goes to see the doctor, yes
+*DOR:	yndy  . 748576_748872
+%eng:	yes.
+*DOR:	ond mae o (y)n mynd o_hyd i weld y doctor@s:cym&spa yndy . 748861_751520
+%eng:	but he's still going to see the doctor isn't he.
 *RAN:	www ? 752227_752651
 *RAN:	www ? 752645_753487
 *DOR:	ie . 753499_753853
@@ -393,7 +399,7 @@
 *RAN:	www +... 957533_960110
 *NEL:	www . 960878_962613
 *DOR:	[- spa] vamos a esperar que se vaya . 963484_964819
-%eng:	let's wait until they leave.
+%eng:	let's wait until he/she leaves.
 *NEL:	www . 964749_967112
 *JOA:	www . 967555_968861
 *DOR:	+< xxx [=! whispers] . 968025_968826
@@ -454,7 +460,7 @@
 *NEL:	www . 1103358_1106051
 *NEL:	www . 1106519_1109538
 *RAN:	+< &=hiss . 1108522_1109398
-*DOR:	[- spa] y vos qué tenés esta tarde . 1109489_1111242
+*DOR:	[- spa] y vos qué tenés esta tarde? 1109489_1111242
 %eng:	what are you doing this afternoon.
 *RAN:	www +//. 1118292_1122462
 *RAN:	www ? 1122777_1125783
@@ -476,8 +482,10 @@
 @Comment:	pause
 *RAN:	www . 1162937_1164469
 *RAN:	www [=! whispers] ! 1164539_1166210
-*DOR:	[- spa] xxx dejá no vas a tocar ahí . 1166366_1169192
-%eng:	[...] leave that, do not touch there.
+*DOR:	[- spa] xxx dejá 1166615_1167521 . 1166366_1169192
+%eng:	[...] leave that.
+*DOR:	no vas a tocar ahí . 1167619_1168862
+%eng:	do not touch that.
 *JOA:	&=sigh . 1169716_1170558
 @Comment:	pause
 *RAN:	www . 1179730_1186309
@@ -540,12 +548,12 @@
 *OSE:	+< www . 1356606_1359142
 *RAN:	www ? 1360577_1363686
 *OSE:	ww . 1363680_1364449
-*DOR:	[- spa] en esa xxx mira que está lloviendo xxx . 1370151_1373001
-%eng:	in that [...] see that it is raining.
+*DOR:	[- spa] en esa xxx  está lloviendo xxx . 1370151_1373001
+%eng:	in that [...] it is raining.
 *OSE:	www . 1373986_1376470
 *RAN:	www . 1383815_1384732
 *JOA:	ww . 1385154_1386205
-*DOR:	[- spa] chao pues suerte . 1386193_1388236
+*DOR:	[- spa] chao pues (.) suerte . 1386193_1388236
 %eng:	bye, then, good luck.
 *JOA:	www . 1388638_1389782
 *OSE:	ww . 1389840_1390287
@@ -564,10 +572,9 @@
 *NEL:	www ? 1424751_1429093
 *DOR:	be [?] ? 1428429_1428934
 %eng:	what?
-*NEL:	[- spa] gato ["] . 1429486_1430125
-%eng:	"cat"
-*DOR:	cath ["] . 1430560_1431077
-%eng:	"cat"
+*NEL:	[- spa] www . 1429486_1430125
+*DOR:	cath . 1430560_1431077
+%eng:	cat
 *NEL:	ww . 1432075_1433486
 *DOR:	xx . 1433971_1435138
 *NEL:	ww . 1436148_1437326
@@ -575,29 +582,29 @@
 *NEL:	www +... 1442401_1445718
 *NEL:	ww . 1447935_1449338
 *NEL:	ww ? 1450346_1451636
-*DOR:	eliffant ["] . 1450973_1451949
-%eng:	"elephant"
+*DOR:	eliffant . 1450973_1451949
+%eng:	elephant
 *NEL:	www . 1452553_1453499
-*DOR:	llyffant [?] ["] . 1454003_1455379
-%eng:	"frog"
+*DOR:	llyffant [?]  . 1454003_1455379
+%eng:	frog
 *NEL:	www . 1456462_1459527
 *DOR:	xx . 1459837_1460847
 *NEL:	www . 1460923_1463076
-*DOR:	<mae hi (y)n glawio> ["] . 1462868_1464389
-%eng:	"it's raining"
+*DOR:	mae hi (y)n glawio . 1462868_1464389
+%eng:	it's raining
 *NEL:	www . 1465311_1466873
-*DOR:	<mae hi (y)n braf> ["] . 1467078_1468343
-%eng:	"it's fine"
+*DOR:	mae hi (y)n braf . 1467078_1468343
+%eng:	it's fine
 *NEL:	www . 1470892_1473432
-*DOR:	eh@s:cym&spa (.) <mae (y)r bwa ar_ôl y glaw> ["] . 1474501_1479771
-%eng:	er, "the rainbow is after the rain"
+*DOR:	eh@s:cym&spa (.) mae (y)r bwa ar_ôl y glaw . 1474501_1479771
+%eng:	er, the rainbow is after the rain"
 *NEL:	www . 1482226_1483944
 *DOR:	xxx ? 1484858_1486116
 *NEL:	ww ? 1486232_1486755
 *DOR:	xxx . 1486900_1489660
 *NEL:	www . 1490731_1494024
-*DOR:	bwrdd ["] . 1493921_1494992
-%eng:	"table"
+*DOR:	bwrdd . 1493921_1494992
+%eng:	table
 *NEL:	www . 1495216_1498954
 *DOR:	[- spa] este es [?] ? 1498637_1499711
 *NEL:	ww . 1499774_1501361
@@ -618,8 +625,8 @@
 *NEL:	ww . 1524378_1525440
 *DOR:	xxx . 1526414_1527377
 *NEL:	+< ww . 1526420_1527389
-*DOR:	<cadair mawr> ["] . 1527482_1528696
-%eng:	"big chair"
+*DOR:	cadair mawr . 1527482_1528696
+%eng:	big chair
 *NEL:	www . 1529627_1532511
 *DOR:	xx . 1532516_1533138
 *NEL:	ww ? 1533804_1534408
@@ -634,8 +641,8 @@
 %eng:	butterfly.
 *NEL:	&=sniff www . 1545663_1548229
 *NEL:	www ? 1548357_1549994
-*DOR:	xxx buwch ["] . 1551881_1553947
-%eng:	[...], "buwch" [cow]
+*DOR:	xxx buwch . 1551881_1553947
+%eng:	[...], buwch [cow]
 *NEL:	ww +/. 1554528_1554917
 *DOR:	xxx . 1554789_1557864
 *NEL:	ww . 1557679_1558306
@@ -643,7 +650,7 @@
 %eng:	[...] because you don't behave well.
 *NEL:	www +... 1562694_1565718
 *NEL:	ww . 1565843_1566783
-*DOR:	taid [?] ["] . 1566895_1567940
+*DOR:	taid [?]  . 1566895_1567940
 %eng:	grandpa
 *NEL:	www . 1568432_1571300
 *DOR:	xx . 1572248_1573008
@@ -657,10 +664,10 @@
 *DOR:	[- spa] bajá los xxx . 1592584_1594291
 %eng:	put down the [...].
 *NEL:	+< ww . 1593664_1594482
-*DOR:	teliffon ["] . 1595946_1596910
+*DOR:	teliffon . 1595946_1596910
 %eng:	"telephone"
 *NEL:	www ? 1597938_1599662
-*DOR:	teliffon ["] . 1600350_1601685
+*DOR:	teliffon . 1600350_1601685
 %eng:	telephone
 *NEL:	ww . 1602791_1604068
 *DOR:	xx . 1604704_1606033
@@ -676,12 +683,12 @@
 *DOR:	[- spa] qué xxx ? 1613314_1614980
 %eng:	what [...].
 *NEL:	www . 1615359_1616793
-*DOR:	calon ["] . 1616787_1617664
-%eng:	"heart"
+*DOR:	calon . 1616787_1617664
+%eng:	heart
 *NEL:	www . 1617911_1620517
-*DOR:	cloc ["] . 1620401_1621876
-%eng:	"clock"
-*NEL:	&=noise ! 1621928_1623188
+*DOR:	cloc . 1620401_1621876
+%eng:	clock
+*NEL:	www . 1621928_1623188
 *DOR:	[- spa] pero mira mira a ver . 1623130_1625191
 %eng:	but look , look and see.
 @Comment:	pause
@@ -706,8 +713,8 @@
 *NEL:	ww . 1679322_1680674
 *DOR:	xxx . 1681075_1682346
 *NEL:	www ? 1682603_1684786
-*DOR:	buwch ["] . 1684751_1685471
-%eng:	"cow"
+*DOR:	buwch . 1684751_1685471
+%eng:	cow
 *NEL:	www . 1686824_1688641
 *DOR:	mae (y)n well i &h aros adra heddiw . 1689165_1691319
 %eng:	it's better to stay home today
