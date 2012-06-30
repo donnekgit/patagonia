@@ -1,5 +1,0 @@
-The alpha folder contains the original files as handed off after the initial transcription.
-
-The beta folder contains the files after conversion to the new precode marking, correction of typos, global fixes to standardise spelling, etc.  All work should be done on the beta files.
-
-The autoglossed folder contains autoglossed versions of the files, with typeset versions in the pdf folder.
