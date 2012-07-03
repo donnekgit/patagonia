@@ -35,7 +35,7 @@
 %eng:	well, there it is
 *CAR:	&=click wel yr oes yn newid ynde . 16387_18755
 %eng:	well, times are changing
-*PIL:	+< xx . 16387_18755
+*PIL:	+< xxx . 16387_18755
 *PIL:	mae popeth yn newid . 18782_19721
 %eng:	everything is changing
 *CAR:	+< fel (y)na mae (h)i . 18883_19427
@@ -62,7 +62,7 @@
 *PIL:	ah@s:cym&spa wel &=laugh +... 31402_32346
 *CAR:	ar_gyfer y [//] (.) yr eisteddfod os (y)dy rywun yn dod i_fewn â rywbeth . 32439_37068
 %eng:	for the Eisteddfod if somebody comes in with something
-*PIL:	+< ia (.) yr [/] yr eisteddfod os xx +... 33591_36343
+*PIL:	+< ia (.) yr [/] yr eisteddfod os xxx +... 33591_36343
 %eng:	yeah, the Eisteddfod if [...] ...
 *PIL:	+< <i_fewn i de> [/] i_fewn i de [?] . 36364_37895
 %eng:	in for tea, in for tea.
@@ -218,7 +218,7 @@
 *PIL:	+< mae (y)r cylch +... 152112_152784
 %eng:	the group is...
 *PIL:	mm +... 153098_153386
-*CAR:	bydd y Cymry yn dod rywbryd a fydden nhw yn deud +"/. 153146_157455
+*CAR:	bydd y Cymry yn dod rywbryd a fydden nhw yn deud +"/. 153146_156054
 %eng:	the Welsh will come at some point and they'll say
 *CAR:	+" mi fu Cymry yn fan (h)yn (.) rywdro . 156112_158656
 %eng:	Wales was here once.
@@ -276,7 +276,7 @@
 %eng:	and the churches.
 *CAR:	oh@s:cym&spa yndyn . 193737_194793
 %eng:	oh they are.
-*CAR:	wel dan +//. 195592_198712
+*CAR:	wel dan +//. 195592_196441
 %eng:	well we...
 *CAR:	ond mae wedi bod yng Nghymru yn_dydy ? 196482_198200
 %eng:	but he's been to Wales, hasn't he?
@@ -455,7 +455,7 @@
 %eng:	yeah that's it.
 *CAR:	ia . 313626_313866
 %eng:	yes.
-*PIL:	xx &n mae merch ti yn uh yn Camwy@s:cym&spa heddiw siŵr yndy ? 315066_319204
+*PIL:	xxx &n mae merch ti yn uh yn Camwy@s:cym&spa heddiw siŵr yndy ? 315066_319204
 %eng:	your daughter's in Camwy today surely, isn't she?
 *CAR:	yndy mae [/] mae (y)r ferch yn um roi uh +/. 319207_322631
 %eng:	yes the daughter's giving a, er...
@@ -492,7 +492,7 @@
 %eng:	yes.
 *CAR:	<mae hi> [///] dim_ond deg oed ydy hi . 344711_346631
 %eng:	she's only ten years old.
-*CAR:	ia xx . 346801_347633
+*CAR:	ia xxx . 346801_347633
 %eng:	yes.
 *CAR:	a wedyn mae (y)r bachgen sy (y)n byw yn Comodoro@s:cym&spa . 348212_351060
 %eng:	and then the boy that lives in Comodoro.
@@ -717,7 +717,7 @@
 %eng:	I think people should stop and...
 *PIL:	+< ia (..) ia ia . 579512_581571
 %eng:	yeah... yeah, yeah.
-*PIL:	o(eddw)n i (we)di meddwl mynd eleni (h)efyd achos <oedd um (..) <rhag ofn> [=! whispers]> [//] oedd Dylan_Davies@s:cym&spa xx yn &m (.) isio fi uh +... 582323_592593
+*PIL:	o(eddw)n i (we)di meddwl mynd eleni (h)efyd achos <oedd um (..) <rhag ofn> [=! whispers]> [//] oedd Dylan_Davies@s:cym&spa xxx yn &m (.) isio fi uh +... 582323_592593
 %eng:	I thought of going this year as well because... Dylan Davies wanted me to, er...
 *CAR:	+< fynd drosodd . 592582_593537
 %eng:	go over.
@@ -817,14 +817,14 @@
 %eng:	she met him during the war, (19)14 wasn't it?
 *PIL:	ac uh (.) oedd ei mam a (e)i thad hi ddim isio iddi ddod (.) <i (y)r> [/] i (y)r Wladfa achos doedden nhw ddim yn gwybod dim_byd am y Wladfa ynde . 745693_753922
 %eng:	and her mother and father didn't want her to come to the settlement because they didn't know anything about the settlement, did they?
-*PIL:	ond uh (dy)na fo (.) mi ddoth hi &=laugh . 754183_758959
+*PIL:	ond uh (dy)na fo (.) mi ddoth hi &=laugh . 754183_757920
 %eng:	but, there we go, she came.
 *CAR:	wel o(edd) nhad o Bethesda@s:cym&spa . 757913_760687
 %eng:	well my father was from Bethesda.
 *PIL:	+< a lwcus (r)ydyn ni yma nawr ! 757913_760687
 %eng:	and we're lucky to be here now!
 *CAR:	mm +... 760697_761140
-*CAR:	o(edd) nhad o Bethesda@s:cym&spa (.) a taid a nain o &m um Sir_Aberteifi@s:cym&spa Tregaron@s:cym&spa Talsarn@s:cym&spa xx a Talsarn@s:cym&spa arhoson nhw ar y fferm yma . 761142_772651
+*CAR:	o(edd) nhad o Bethesda@s:cym&spa (.) a taid a nain o &m um Sir_Aberteifi@s:cym&spa Tregaron@s:cym&spa Talsarn@s:cym&spa xxx a Talsarn@s:cym&spa arhoson nhw ar y fferm yma . 761142_772651
 %eng:	my father was from Bethesda and my granparents from Ceredigion, Tregaron, Talsarn... and it was in Talsarn that they stayed on that farm.
 *PIL:	+< ar y fferm . 771829_772565
 %eng:	on the farm.
@@ -869,14 +869,14 @@
 %eng:	my grandparents, they were the first to come to the Gaiman.
 *CAR:	ah@s:cym&spa ia ? 831799_832716
 %eng:	ah yes?
-*PIL:	ia xx wel yn mil uh wyth [//] mil wyth cant uh saith_deg pedwar . 831947_838813
+*PIL:	ia xxx wel yn mil uh wyth [//] mil wyth cant uh saith_deg pedwar . 831947_838813
 %eng:	yes, well in 1874.
 *CAR:	mm +... 838861_839224
 *PIL:	ac uh wel o uh oedd <nhad uh> [/] nhad uh (.) wedi cael ei geni yma . 839429_848035
 %eng:	and er, my father was born here.
-*PIL:	aethon nhw (y)n_ôl i uh (y)r hen wlad pan oedd o (y)n [//] yn dair xx tair oed . 848037_853733
+*PIL:	aethon nhw (y)n_ôl i uh (y)r hen wlad pan oedd o (y)n [//] yn dair xxx tair oed . 848037_853733
 %eng:	they went back to the old land when he was three years old.
-*PIL:	ond farwodd ei dad xx draw . 854438_856545
+*PIL:	ond farwodd ei dad xxx draw . 854438_856545
 %eng:	but his father died over there.
 *PIL:	a wedyn oedd fe [//] mi sefodd o (.) wel o(e)dd o (y)n mynd i (y)r ysgol a bopeth draw . 857310_861966
 %eng:	and then he stood... well, he went to school over there and everything.
@@ -909,7 +909,7 @@
 %eng:	yes.
 *PIL:	a wedyn mi ddoth yn_ôl yn mil wyth &s uh saith pedwar (.) ac o(edde)n nhw (y)r rhai cyntaf ac uh uh Parch uh Heulfryn_Lewis@s:cym&spa (.) ac um um misus um mister a misus um (.) Lewis@s:cym&spa um <Maes_yr@s:cym&spa> [/] Maes_yr_Haf@s:cym&spa . 914006_931302
 %eng:	and then they came back in 1874 and they were the first ones... and Reverend Heulfryn Lewis and... mister and missus Lewis, um, from Maes yr Haf.
-*PIL:	ia oedd (y)na lot o rhai xx oedd (y)na lot o +//. 931607_933826
+*PIL:	ia oedd (y)na lot o rhai xxx oedd (y)na lot o +//. 931607_933826
 %eng:	yeah there were many
 *PIL:	ond dyna nhw oedd y rhai cyntaf yma (.) ia . 933847_936482
 %eng:	but, there we go, they were the first here... yes.
@@ -956,7 +956,7 @@
 %eng:	yes, yes well.
 *CAR:	ond uh teulu taid o Beth(esda)@s:cym&spa +//. 977939_980771
 %eng:	but er... my grandfather's family were from Bethesda.
-*CAR:	xx dada wedi dod ei hunan o Bethesda@s:cym&spa (.) ac um pan es i i (y)r fynwent a gweld (.) nain a taid a (..) anti Mali@s:cym&spa a anti Sara_Mary o Fangor@s:cym&spa (.) a yncl Sion@s:cym&spa rheini i_gyd o <o(eddw)n i (y)n> [/] o(eddw)n i (y)n teimlo (y)n ofnadwy yn y fynwent . 980572_1002023
+*CAR:	xxx dada wedi dod ei hunan o Bethesda@s:cym&spa (.) ac um pan es i i (y)r fynwent a gweld (.) nain a taid a (..) anti Mali@s:cym&spa a anti Sara_Mary o Fangor@s:cym&spa (.) a yncl Sion@s:cym&spa rheini i_gyd o <o(eddw)n i (y)n> [/] o(eddw)n i (y)n teimlo (y)n ofnadwy yn y fynwent . 980572_1002023
 %eng:	Dada came himself from Bethesda and when I went to the cemetry to see my grandparents and Aunti Mali and Auntie Sara-Mary from Bangor and Uncle Sion, all of them, oh I felt awful in the cemetery.
 *PIL:	wel ie siŵr . 1001687_1003074
 %eng:	well, yes of course.
@@ -996,7 +996,7 @@
 *CAR:	wnaeson nhw weithio (y)n galed . 1043580_1045314
 %eng:	they worked hard.
 *PIL:	oh@s:cym&spa . 1045228_1046439
-*CAR:	+< tysa dim_ond gwneud efo xx a rhaw yr (.) camlesi (y)ma sy drwy (y)r dyffryn i_gyd ! 1045265_1052166
+*CAR:	+< tysa dim_ond gwneud efo xxx a rhaw yr (.) camlesi (y)ma sy drwy (y)r dyffryn i_gyd ! 1045265_1052166
 %eng:	building the canals throughout this entire valley with only a spade and...
 %com:	she names a tool of some sort other than spade - "orsiol" - I don't recognize the word as either Welsh, Spanish or English.
 *PIL:	+< ie (.) ie (.) ie (.) ie . 1047520_1051910
@@ -1041,7 +1041,7 @@
 *PIL:	mae [/] (.) mae [/] mae popeth (h)efo ni . 1101068_1103761
 %eng:	we have everything.
 *CAR:	mm +... 1103585_1104065
-*PIL:	popeth (.) xx . 1103967_1106250
+*PIL:	popeth (.) xxx . 1103967_1106250
 %eng:	everything.
 *CAR:	+< ond (bua)swn i (y)n licio (ty)swn i (y)n gallu hedfan (.) bob chwe mis i (y)r hen wlad . 1105455_1109607
 %eng:	but I'd like it if I could fly to the old land every six months.
@@ -1062,7 +1062,7 @@
 %eng:	yes, it's part of our home.
 *CAR:	+< yndy (d)w i (y)n teimlo (y)n gyfforddus iawn pan dw i (y)n mynd drosodd . 1117961_1122507
 %eng:	yes, I feel very comfortable when I go over.
-*PIL:	+< xxx . 1117963_1122390
+*PIL:	+< xxx . 1120657_1122012
 *CAR:	mor gartrefol a dw i mor falch i (y)r bobl (y)r hen wlad sy gyd yn (.) croesawu ni gymaint pan dan ni (y)n mynd drosodd . 1122482_1130035
 %eng:	so homely, and I'm so grateful to the people in the old land who give us such a welcome when we go over.
 *PIL:	+< oh@s:cym&spa &dəm maen nhw (y)n groesawus <dros ben> [/] (.) dros ben . 1128767_1132079
@@ -1077,7 +1077,7 @@
 %eng:	yes, quietly, yes.
 *CAR:	+< &=laugh . 1139425_1140529
 *CAR:	um +... 1141542_1142353
-*CAR:	xx [=! whispers] . 1142366_1146217
+*CAR:	xxx [=! whispers] . 1142366_1146217
 *RES:	www . 1147680_1149723
 *CAR:	gyda ni ddim rhagor i ddeud &=laugh . 1156234_1158506
 %eng:	we don't have anything else to say.
@@ -1123,7 +1123,7 @@
 %eng:	that's it, in Bryn Gwyn, yes.
 *CAR:	+< ia ia . 1203152_1204267
 %eng:	yes, yes.
-*PIL:	ia xx achos xx capel Bryn_Gwyn@s:cym&spa a ysgol Bryn_Gwyn@s:cym&spa oedden ni (y)n mynd pan oedden ni (y)n blant . 1203467_1207875
+*PIL:	ia xxx achos xxx capel Bryn_Gwyn@s:cym&spa a ysgol Bryn_Gwyn@s:cym&spa oedden ni (y)n mynd pan oedden ni (y)n blant . 1203467_1207875
 %eng:	because we went to Bryn Gwyn Chapel and Bryn Gwyn School when we were children.
 *CAR:	+< ia ia . 1206414_1207886
 %eng:	yes, yes.
@@ -1163,7 +1163,7 @@
 %eng:	yes.
 *CAR:	eisteddfod côr plant yn yr eisteddfod . 1270999_1274039
 %eng:	Eisteddfod, a children's choir in the Eisteddfod.
-*PIL:	xx ia . 1273036_1274018
+*PIL:	xxx ia . 1273036_1274018
 %eng:	yes.
 *CAR:	a wedyn efo Branwen@s:cym&spa efo merch Haf_Owen@s:cym&spa . 1273998_1277300
 %eng:	and then with Branwen, with Haf Owen's daughter.
@@ -1197,7 +1197,7 @@
 %eng:	oh yes, they did.
 *CAR:	ond cwrdd cystadleuol oedde(n) [/] oedden nhw . 1303732_1306644
 %eng:	but they were "competitive meetings".
-*PIL:	+< xx ie cwrdd cystadleuol . 1305609_1307689
+*PIL:	+< xxx ie cwrdd cystadleuol . 1305609_1307689
 %eng:	yes competitive meetings.
 *PIL:	ac uh (.) yr un oedd yn ennill yr [//] y sach fach wedyn hwnnw oedd yr gorau . 1307663_1312968
 %eng:	and the winner of the "sach fach" (little sack), he was the best.
@@ -1245,7 +1245,7 @@
 %eng:	yes, they deserved respect.
 *PIL:	oedden nhw (y)n bobl dros ben [/] dros ben (.) ia . 1349003_1352112
 %eng:	they were fantastic people, fanstastic yes.
-*PIL:	oedden nhw yn [/] yn y capel oedden nhw (y)n dysgu popeth (.) um xx &s <sut uh (.) i> [/] (.) sut i fyw a sut i (.) i bod yn barchus efo bobl eraill a (.) wel a lot o bethau bach heblaw dysgu uh pethau yr ysgol ynde (.) ia . 1352279_1369441
+*PIL:	oedden nhw yn [/] yn y capel oedden nhw (y)n dysgu popeth (.) um xxx &s <sut uh (.) i> [/] (.) sut i fyw a sut i (.) i bod yn barchus efo bobl eraill a (.) wel a lot o bethau bach heblaw dysgu uh pethau yr ysgol ynde (.) ia . 1352279_1369441
 %eng:	they were in chapel, they taught everything, how to live and how to be respectful towards others... well, and a lot of little other things apart from teaching school things, yes.
 *CAR:	oedden nhw (y)n darllen pennod a gweddi (y)r arglwydd cyn dechrau (y)r (.) yr uh dosbarthiadau yn [/] yn +... 1368542_1377016
 %eng:	they used to read chapter from the Bible and pray the Lord's prayer before starting classes in...
@@ -1278,7 +1278,7 @@
 *CAR:	+< ie achos dim_ond mister a misus Griffiths@s:cym&spa oedd yn gweithio fel uh (.) uh proffeswrs yn [/] yn yr ysgol ganolraddol . 1414919_1423529
 %eng:	yes because it was only Mr and Mrs griffiths who worked as professors in the intermediate school.
 %com:	"professwrs" - english/welsh?
-*PIL:	+< ie yn xx (.) ie . 1421565_1423405
+*PIL:	+< ie yn xxx (.) ie . 1421565_1423405
 %eng:	yes in... yes.
 *CAR:	ia . 1423667_1424157
 %eng:	yes.
@@ -1324,7 +1324,7 @@
 %eng:	oh I was on the farm for 32 years and I was in my element on the farm.
 *PIL:	+< ie (.) ie . 1467517_1468791
 %eng:	yes, yes.
-*PIL:	+< oh@s:cym&spa xx . 1472167_1473565
+*PIL:	+< oh@s:cym&spa xxx . 1472167_1473565
 *CAR:	a mae Bryn_Gwyn@s:cym&spa yn [/] yn ardal tlws iawn neis iawn yndy . 1473005_1477149
 %eng:	and Bryn Gwyn is a very beautiful area, very nice area, isn't it?
 *PIL:	+< yn [/] yn ardal tlws yndy . 1474962_1477031
@@ -1363,7 +1363,7 @@
 %eng:	it's like night and day for the Welsh when they come over.
 *PIL:	+< a wedyn +/. 1500519_1501612
 %eng:	and so...
-*PIL:	+< xx . 1504808_1505272
+*PIL:	+< xxx . 1504808_1505272
 *CAR:	dw i methu deall (..) wel +... 1505304_1507999
 %eng:	I can't understand... well.
 *PIL:	wel &d &d dw i (y)n credu na lwcus am y bobl oedd yn byw yma fel (..) be (fy)sa ti (y)n dweud ? 1508092_1516064
@@ -1393,13 +1393,13 @@
 %eng:	because they er...
 *CAR:	+< ia . 1539333_1539947
 %eng:	yes.
-*PIL:	oedd rhai o (y)r plant yn dod i (y)r capel (..) a wedi dysgu Cymraeg xx . 1541136_1545950
+*PIL:	oedd rhai o (y)r plant yn dod i (y)r capel (..) a wedi dysgu Cymraeg xxx . 1541136_1545950
 %eng:	some of the children came to the chapel... and had learnt Welsh.
 *CAR:	ie (.) ie . 1546065_1547574
 %eng:	yes, yes.
 *PIL:	<mae o> [///] oedd y [/] oedd y +/. 1548753_1550017
 %eng:	it was, it was...
-*CAR:	oedd hi (y)n adeg brysur xx . 1549510_1552257
+*CAR:	oedd hi (y)n adeg brysur xxx . 1549510_1552257
 %eng:	it was a busy time.
 *PIL:	oedd [/] oedd [/] oedd . 1551286_1552267
 %eng:	yes it was, it was.
@@ -1425,7 +1425,7 @@
 %eng:	there were many...
 *CAR:	ysgol gân o_hyd a +... 1570043_1572517
 %eng:	always the singing school...
-*PIL:	bo(b) [//] bob amser xx . 1571880_1573421
+*PIL:	bo(b) [//] bob amser xxx . 1571880_1573421
 %eng:	always.
 *CAR:	Nadolig oedd o (y)n hyfryd adeg hynny . 1572968_1575194
 %eng:	Christmas was wonderful at that time.
@@ -1523,7 +1523,7 @@
 %eng:	yes they were a shoulder for the old settlers, weren't they?
 *PIL:	+< oh@s:cym&spa <fuon nhw> [/] fuon nhw (.) oedd . 1689758_1692526
 %eng:	oh they were, they were yes.
-*CAR:	neu (.) be fuasai heb y capeli a xx ? 1692020_1695499
+*CAR:	neu (.) be fuasai heb y capeli a xxx ? 1692020_1695499
 %eng:	or... what would it be like without the chapels and...?
 *PIL:	+< na na (bua)sai ddim_byd yma &s [//] fysa ddim_byd . 1694633_1697396
 %eng:	no there wouldn't be anything here, nothing.

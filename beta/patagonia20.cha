@@ -13,7 +13,7 @@
 @Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *CEC:	oedd uh wel oedd uh Alfonso@s:cym&spa yn gwybod &d llawer o +... 0_5712
 %eng:	Alfonso used to know a lot of...
-*CEC:	ond (.) ges i ddim (.) llawer o xx +/. 6532_9446
+*CEC:	ond (.) ges i ddim (.) llawer o +/. 6532_9446
 %eng:	but I didn't get much...
 *ALM:	+< ia achos oedd uh modryb &be Alys@s:cym&spa yn siarad digon am y teulu +/. 8712_14587
 %eng:	yes, because Auntie Alys used to talk enough about the family
@@ -77,7 +77,7 @@
 %eng:	no
 *CEC:	na (.) na na . 100720_102693
 %eng:	no, no
-*CEC:	y peth <dw i> [/] dw i ddim yn [/] (.) yn rhy gyfarwydd xx pryd fuon nhw (y)n byw yma ? 103524_109713
+*CEC:	y peth <dw i> [/] dw i ddim yn [/] (.) yn rhy gyfarwydd xxx pryd fuon nhw (y)n byw yma ? 103524_109713
 %eng:	the thing I'm not too confident about [...] when did they live here?
 *CEC:	uh (.) a uh +/. 111146_114222
 %eng:	er, and er...
@@ -205,7 +205,7 @@
 %eng:	and that's where, afterwards, Mum went to college
 *CEC:	achos dechreuodd hi +//. 245645_247177
 %eng:	because she started to...
-*ALM:	xx +/. 247851_248745
+*ALM:	xxx +/. 247851_248745
 *CEC:	+< naci . 248095_249151
 %eng:	no
 *CEC:	&ki pryd ? 249494_251073
@@ -219,7 +219,7 @@
 %eng:	because she said that the grandfather had said that, well, she had to help in the house and she couldn't go to the school any longer
 *ALM:	+< ah@s:cym&spa (e)fallai (e)fallai . 260678_262907
 *ALM:	hym +... 270302_271579
-*CEC:	ac oedd hi (y)n difaru (.) trwy (y)r amser . 272148_275770
+*CEC:	ac oedd hi (y)n difaru (.) trwy (y)r amser . 272148_275307
 %eng:	and she regretted it all the time
 *ALM:	+< ia siŵr hym +... 273627_275055
 %eng:	yes I'm sure
@@ -227,7 +227,7 @@
 %eng:	because she liked going to school
 *CEC:	ond uh (..) wel fel (yn)a mae hi ia ? 279323_283560
 %eng:	but, er, that's how it is, right?
-*ALM:	ia xx . 283711_285464
+*ALM:	ia xxx . 283711_285464
 %eng:	yes [...]
 *CEC:	<mae (y)r> [/] mae (y)r teulu yn penderfynu neu (y)r tad a (y)r mam yn penderfynu . 284844_288303
 %eng:	the family decides, or the father and mother decide
@@ -235,11 +235,11 @@
 %eng:	decide, yes
 *CEC:	ia . 289882_290358
 %eng:	yes
-*ALM:	a &=tongue_click meddwl bod (..) uh siŵr bod y [?] (.) amser ddim yn [/] yn dda i (y)r xxx . 290782_302299
+*ALM:	a &=tongue_click meddwl bod (..) uh siŵr bod y [?] (.) amser ddim yn [/] yn dda i (y)r xxx . 290782_301526
 %eng:	and thinking that... I'm sure the time wasn't good for the [...]
 *CEC:	+< amser [/] amser caled iawn (.) ia (.) i fyw . 300279_303730
 %eng:	a very hard time to live in
-*ALM:	+< xx ia . 301537_302646
+*ALM:	+< xxx ia . 301537_302646
 %eng:	[...] yes
 *CEC:	ia . 304001_304297
 %eng:	yes
@@ -252,7 +252,7 @@
 %com:	h+agos
 *CEC:	ia . 324122_324621
 %eng:	yes
-*ALM:	ers_talwm oedd xx +/. 325515_327106
+*ALM:	ers_talwm oedd xxx +/. 325515_327106
 %eng:	back then it was...
 *CEC:	a mae (y)r ysgol yn (.) gorfodol . 326398_329172
 %eng:	and school is compulsory
@@ -370,7 +370,7 @@
 *CEC:	ac oedd hi ddim yn gallu dod (y)n_ôl (.) chwaith (.) ar ben ei hun . 468757_472913
 %eng:	and she couldn't come back either, on her own
 *ALM:	+< ah@s:cym&spa . 471613_472316
-*ALM:	a felly (.) daeth hi gyda Marcus@s:cym&spa (..) Jones@s:cym&spa xx . 473447_479200
+*ALM:	a felly (.) daeth hi gyda Marcus@s:cym&spa (..) Jones@s:cym&spa xxx . 473447_479200
 %eng:	and so she came with Marcus Jones
 *CEC:	ah@s:cym&spa Marcus_Jones@s:cym&spa ia . 479244_480579
 %eng:	ah, Marcus Jones yes
@@ -380,7 +380,7 @@
 %eng:	mm, poor thing
 *ALM:	ia . 483518_484180
 %eng:	yes
-*CEC:	ac oedd uh +... 485262_491380
+*CEC:	ac oedd uh +... 485479_487035
 %eng:	and...
 *CEC:	uh wnes i neges iddi hi neithiwr ond oedd hi ddim yn ateb . 487414_491669
 %eng:	I made a message for her last night but she wasn't answering
@@ -403,8 +403,8 @@
 %eng:	grandchildren.
 *ALM:	wyrion uh mae gen i (.) dau_ddeg pump wyrion &=laugh . 518014_523390
 %eng:	grandchildren, I have 25 grandchildren
-*CEC:	oh@s:cym&spa xx ! 523971_525562
-*ALM:	+< xx . 524668_525034
+*CEC:	oh@s:cym&spa xxx ! 523971_525562
+*ALM:	+< xxx . 524668_525034
 *CEC:	oh@s:cym&spa digon o waith . 525873_528421
 %eng:	oh, plenty of work!
 *ALM:	+< xxx . 527074_528363
@@ -474,7 +474,7 @@
 %eng:	ah yes they're so nice
 *CEC:	<mae (y)n neis> [=! whisper] . 609557_610561
 %eng:	she's nice
-*CEC:	mae (y)n xx +/. 610706_611385
+*CEC:	mae (y)n xxx +/. 610706_611385
 %eng:	she's [...]
 *ALM:	dw i (y)n mwynhau nhw . 611101_612192
 %eng:	I enjoy them
@@ -652,7 +652,7 @@
 %eng:	there have been a lot!
 *CEC:	mae llawer wedi bod ia . 834062_835853
 %eng:	there have been a lot, yes
-*ALM:	llawer wedi bod xx . 835975_837612
+*ALM:	llawer wedi bod xxx . 835975_837612
 %eng:	been a lot [..]
 *ALM:	ond uh dw (ddi)m yn siŵr os fydden nhw (y)n dod . 837643_840058
 %eng:	but I'm not sure whether they'll come
@@ -669,12 +669,12 @@
 %eng:	Sylvia's been to Lampeter too
 *CEC:	ond wedyn oedd hi (y)n nabod y ffrind sydd yn dod gyda hi . 859626_862801
 %eng:	but then, she knew the friend who's coming with her
-*ALM:	+< xx . 860270_860497
+*ALM:	+< xxx . 860270_860497
 *ALM:	ah@s:cym&spa oedd hi (y)n nabod ? 863343_864794
 %eng:	ah, she knew [them]?
 *CEC:	[- spa] sí . 864910_865641
 %eng:	yes
-*ALM:	um (.) xx . 866279_868340
+*ALM:	um (.) xxx . 866279_868340
 *ALM:	Antonio@s:cym&spa . 870215_871260
 %eng:	Antonio
 *CEC:	Antonio@s:cym&spa ? 872745_873639
@@ -697,7 +697,7 @@
 %eng:	no, I'm not sure either
 *ALM:	a Sandy@s:cym&spa na [?] +... 903457_905030
 %eng:	and Sandy, no...
-*ALM:	yn Trevelin@s:cym&spa mae (y)na xx . 908830_910246
+*ALM:	yn Trevelin@s:cym&spa mae (y)na xxx . 908830_910246
 %eng:	in Trevelin there are [..]
 *CEC:	ie . 910236_910758
 %eng:	yes
@@ -713,7 +713,7 @@
 *ALM:	ah@s:cym&spa . 925369_926057
 *CEC:	dw i (y)n meddwl bod nhw (y)n dod heddiw . 928584_930592
 %eng:	I think they're coming today
-*CEC:	xx . 930606_931448
+*CEC:	xxx . 930606_931448
 *ALM:	ie a dw i (y)n meddwl bod &n (.) nhw (y)n mynd uh yn_ôl uh dydd Gwener . 931454_936643
 %eng:	yes, and I think they're going back on Friday
 *CEC:	dim_ond wythnos ? 937564_939381
@@ -735,9 +735,9 @@
 %eng:	because they've come... well, before the Eisteddfod
 *ALM:	cyn yr eisteddfod ie . 957292_958790
 %eng:	before the Eisteddfod, yes
-*CEC:	yr eisteddfod xx . 958870_959967
+*CEC:	yr eisteddfod xxx . 958870_959967
 %eng:	the Eisteddfod [...]
-*CEC:	ac oedd (.) rhywun yn dweud bod Bethan_Pritchard@s:cym&spa hefyd yn dod (.) xx . 960235_964734
+*CEC:	ac oedd (.) rhywun yn dweud bod Bethan_Pritchard@s:cym&spa hefyd yn dod (.) xxx . 960235_964734
 %eng:	and someone was saying that Bethan Pritchard is also coming [..]
 *ALM:	ah@s:cym&spa ie ? 964375_964961
 %eng:	ah really?
@@ -1036,7 +1036,7 @@
 *ALM:	+< &=laugh . 1376218_1377247
 *CEC:	dw i (y)n trio beth_bynnag . 1381415_1382733
 %eng:	I try anyway
-*ALM:	xx . 1383709_1384499
+*ALM:	xxx . 1383709_1384499
 *ALM:	trio . 1384952_1385596
 %eng:	try
 *CEC:	ie (.) dw i (y)n trio beth_bynnag mae +... 1385628_1388739
@@ -1052,7 +1052,7 @@
 %eng:	so terrible
 *CEC:	ych_a_fi ! 1406124_1407192
 %eng:	yuck!
-*ALM:	xx +/. 1408068_1408550
+*ALM:	xxx +/. 1408068_1408550
 *CEC:	+< dw i (we)di blino ! 1408254_1409118
 %eng:	I'm tired!
 *ALM:	[- spa] toda la tarde a veces viste . 1409159_1412262
@@ -1180,7 +1180,7 @@
 %eng:	it's passed
 *CEC:	mae hwnna (.) well . 1551530_1553818
 %eng:	that's better
-*CEC:	mae (y)na bethau xx +//. 1555480_1557100
+*CEC:	mae (y)na bethau xxx +//. 1555480_1557100
 %eng:	there are things [...]
 *CEC:	a mae (y)r tywydd yn (.) ych_a_fi . 1557123_1559859
 %eng:	and the weather is yuck
@@ -1196,12 +1196,12 @@
 %eng:	no, nothing, shame
 *ALM:	na . 1568429_1568934
 %eng:	no
-*CEC:	xx . 1569863_1570322
+*CEC:	xxx . 1569863_1570322
 *ALM:	gobeithio bydd yn (.) wella . 1570519_1573197
 %eng:	hopefully it will improve
 *CEC:	ie . 1573409_1573966
 %eng:	yes
-*CEC:	o(eddw)n i (y)n dweud uh dydd Sadwrn wrth y [/] y plant yn xx +"/. 1574570_1579682
+*CEC:	o(eddw)n i (y)n dweud uh dydd Sadwrn wrth y [/] y plant yn xxx +"/. 1574570_1579682
 %eng:	I was saying on Saturday to the children in [..]
 *CEC:	+" ddylwn ni bod (.) uh (.) heb uh bŵts . 1580325_1585735
 %eng:	"we should be without boots"
@@ -1225,7 +1225,7 @@
 *CEC:	a &m bydd hi (y)n oer medden nhw . 1606974_1608651
 %eng:	and it will be cold, they say
 %com:	hoer
-*ALM:	ie felly maen nhw (y)n deud xx ? 1608702_1610286
+*ALM:	ie felly maen nhw (y)n deud xxx ? 1608702_1610286
 %eng:	yes, is that what they're saying [..] ?
 *CEC:	ie bydd hi (y)n oer . 1610060_1611394
 %eng:	yes, it will be cold
@@ -1259,7 +1259,7 @@
 %eng:	cherries
 *ALM:	[- spa] cerezas . 1644822_1645560
 %eng:	cherries
-*CEC:	achos oedd Frances@s:cym&spa yn dweud bod y cerezas@s:spa xx +... 1645269_1648043
+*CEC:	achos oedd Frances@s:cym&spa yn dweud bod y cerezas@s:spa xxx +... 1645269_1648043
 %eng:	because Frances was saying that the cherries [...]
 *ALM:	na +/. 1648387_1648578
 %eng:	no...
@@ -1315,7 +1315,7 @@
 %eng:	something to have
 *CEC:	neu prynwn ni . 1709117_1710231
 %eng:	or we'll buy [some]
-*CEC:	achos yn xx ro(eddw)n i (y)n gallu weld (.) mae (y)r cerezas@s:spa fel (y)na . 1710236_1713881
+*CEC:	achos yn xxx ro(eddw)n i (y)n gallu weld (.) mae (y)r cerezas@s:spa fel (y)na . 1710236_1713881
 %eng:	because I could see in [...], the cherries are like that
 *ALM:	ah@s:cym&spa ie . 1713875_1714973
 %eng:	ah yes
@@ -1329,7 +1329,7 @@
 %eng:	er, in the...
 *CEC:	+< do do (.) do do . 1724320_1727455
 %eng:	yes, yes they did
-*CEC:	oedd y [/] y mynydd [//] y xx (..) yn +... 1727694_1732832
+*CEC:	oedd y [/] y mynydd [//] y xxx (..) yn +... 1727694_1732832
 %eng:	the mountain, the [...] was...
 *ALM:	++ wyn +/. 1733368_1733861
 %eng:	...white...
@@ -1510,7 +1510,7 @@
 %eng:	a year and ...
 *ALM:	[- spa] más o menos cinco o seis meses . 1914320_1916729
 %eng:	more or less five or six months
-*CEC:	+< [- spa] julio agosto septiembre octubre noviembre cinco meses . 1916119_1922710
+*CEC:	+< [- spa] julio agosto septiembre octubre noviembre cinco meses . 1916119_1919842
 %eng:	July August September October November five months
 *CEC:	[- spa] cumple mañana no xxx jueves . 1919796_1921909
 %eng:	she celebrates tomorrow, no, [...] Thursday

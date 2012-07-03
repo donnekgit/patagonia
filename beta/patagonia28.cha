@@ -1,4 +1,3 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -69,7 +68,7 @@
 *ZER:	dim beth dw i isio fel babi &=laugh ! 52450_55260
 %eng:	not what I want as a baby!
 *TOY:	+< &=laugh . 53806_55165
-*ZER:	xx . 55358_56502
+*ZER:	xxx . 55358_56502
 *TOY:	hoffwn i roi enw Gymraeg . 57620_59135
 %eng:	I'd like to give a Welsh name
 *TOY:	ond dw i (ddi)m yn gwybod . 59130_60221
@@ -135,7 +134,7 @@
 *TOY:	i gwybod beth yw e ! 129490_131139
 %eng:	to know what it is!
 *TOY:	w ! 131243_132660
-*ZER:	+< xxx mae [/] mae [/] mae (..) xx bachgen dw i meddwl . 131352_135352
+*ZER:	+< xxx mae [/] mae [/] mae (..) xxx bachgen dw i meddwl . 131352_135352
 %eng:	[...] a boy, I think
 *ZER:	&=cough . 136073_136421
 *TOY:	+< bachgen ? 136276_137187
@@ -148,7 +147,7 @@
 %eng:	do you want anything
 *TOY:	dw i isio merch &=laugh ! 140556_142187
 %eng:	I want a girl!
-*ZER:	dw i isio xx . 142073_143199
+*ZER:	dw i isio xxx . 142073_143199
 %eng:	I want a [..]
 *TOY:	&=laugh ! 143225_145239
 *TOY:	na ond +... 145349_146539
@@ -201,7 +200,7 @@
 %eng:	you don't remember it?
 *TOY:	&=laugh uh mm ! 196783_199552
 *ZER:	Lora_Ann@s:cym&spa . 199607_200908
-*ZER:	Lora@s:cym&spa dw i (ddi)m yn hoffi xx sy (y)n swnio . 201221_203566
+*ZER:	Lora@s:cym&spa dw i (ddi)m yn hoffi xxx sy (y)n swnio . 201221_203566
 %eng:	Lora, I don't like the way it sounds
 *TOY:	+< Ann@s:cym&spa ? 202529_202912
 *ZER:	Lora_Ann@s:cym&spa . 203787_204611
@@ -310,7 +309,7 @@
 %eng:	very good, I was thinking...
 *TOY:	ah@s:cym&spa dyna pam mae fe (.) wedi +... 335585_338325
 %eng:	oh, that's why he's...
-*TOY:	+< &=cough &=laugh ie . 336967_337931
+*ZER:	+< &=cough &=laugh ie . 336967_337931
 %eng:	yes
 *TOY:	+, penderfynu newid . 338386_339680
 %eng:	...decided to change
@@ -359,12 +358,12 @@
 *TOY:	mmhm . 396515_396982
 *ZER:	&=sigh ych_a_fi ! 397028_398319
 %eng:	yuck
-*ZER:	[- eng] xx systems . 403703_405044
+*ZER:	[- eng] xxx systems . 403703_405044
 %eng:	[...] systems
-*ZER:	mae fy brawd fi xx ! 404998_406601
+*ZER:	mae fy brawd fi xxx ! 404998_406601
 %eng:	my brother is [...]
 *TOY:	xxx [=! laughs] . 406745_408457
-*TOY:	[- eng] xx systems . 408359_409961
+*TOY:	[- eng] xxx systems . 408359_409961
 %eng:	[...] systems
 *ZER:	&=cough drwg drwg ! 410120_413109
 %eng:	bad, bad!
@@ -402,7 +401,7 @@
 %eng:	I always said "cosi" (to itch)
 *TOY:	neu gosi ["] . 449646_450465
 %eng:	or "gosi"
-*TOY:	wel (dy)dy o ddim xx . 450477_451858
+*TOY:	wel (dy)dy o ddim xxx . 450477_451858
 %eng:	well, it's not [...]
 *ZER:	&=laugh . 451919_453580
 *ZER:	&=cough . 455227_455842
@@ -437,7 +436,7 @@
 %eng:	ah, no
 *TOY:	na ffoniodd Heulwen@s:cym&spa (.) o Esquel@s:cym&spa siŵr o fod . 480649_483290
 %eng:	no, Heulwen phoned, from Esquel, must have been
-*ZER:	xx . 483346_484350
+*ZER:	xxx . 483346_484350
 *TOY:	bore (y)ma ? 484338_484989
 %eng:	this morning
 *ZER:	pan [?] +//. 484983_485368
@@ -447,7 +446,7 @@
 *ZER:	nawr . 485846_486525
 %eng:	now
 *TOY:	oh@s:cym&spa . 487131_487863
-*ZER:	+< xx . 487252_487769
+*ZER:	+< xxx . 487252_487769
 *TOY:	&=cough <(we)di gael o> [?] . 489422_491964
 %eng:	got it
 *TOY:	[- spa] mis imágenes . 493153_494720
@@ -483,7 +482,7 @@
 %eng:	how long has she lived here?
 *TOY:	ers &s (.) y Twin_Towers@s:cym&spa thing@s:eng [?] . 543547_547036
 %eng:	since the Twin Towers thing
-*TOY:	[- spa] desde la caída de las torres gemelas . 547326_549787
+*TOY:	[- spa] desde la caída de las torres gemelas . 547326_548922
 %eng:	since the fall of the Twin Towers
 *TOY:	sa i (y)n cofio . 549001_549762
 %eng:	I don't remember
@@ -658,7 +657,7 @@
 *ZER:	+< mae (y)n licio draig goch . 759762_761231
 %eng:	he/she likes the red dragon
 *TOY:	&=laugh . 761364_762554
-*ZER:	achos dywedodd y ferch sy (y)n gweithio (y)n y [/] yn xx dywedodd hi +"/. 763417_766944
+*ZER:	achos dywedodd y ferch sy (y)n gweithio (y)n y [/] yn xxx dywedodd hi +"/. 763417_766944
 %eng:	because the girls who works in the [...], she said
 *ZER:	+" oh@s:cym&spa weles i rywbeth mor ciwt <yn y (y)r> [//] uh yn y siop . 767205_770654
 %eng:	"oh, I saw saw something so cute in the shop!
@@ -843,7 +842,7 @@
 %eng:	yes, I know
 *ZER:	a <dw i (y)n> [/] dw i (y)n cyrraedd am chwech . 1024067_1026058
 %eng:	and I arrive at six
-*ZER:	a mae (y)n cyrraedd ambell waith am hanner awr xx +/. 1026060_1028393
+*ZER:	a mae (y)n cyrraedd ambell waith am hanner awr xxx +/. 1026060_1028393
 %eng:	and several times he arrives at half [past]...
 *TOY:	oh@s:cym&spa na ! 1028336_1029172
 %eng:	oh, no
@@ -982,12 +981,12 @@
 %eng:	they'll be trying to open this next year
 *ZER:	ond (dy)dyn nhw ddim yn siŵr . 1175714_1177485
 %eng:	but they're not sure
-*ZER:	xx . 1180185_1181009
+*ZER:	xxx . 1180185_1181009
 *ZER:	a beth yw e raid i ti deithio bob dydd . 1184909_1187487
 %eng:	and what it is, you have to travel every day
 *ZER:	mae (y)n ofnadwy . 1188404_1189646
 %eng:	it's awful
-*ZER:	dw i wedi blino xx +/. 1190540_1191417
+*ZER:	dw i wedi blino xxx +/. 1190540_1191417
 %eng:	I'm tired [..]
 *TOY:	+< am faint o (y)r gloch wyt ti (y)n dod yn_ôl ? 1190923_1192421
 %eng:	what time do you get back?
@@ -995,12 +994,12 @@
 %eng:	at eleven
 *ZER:	wel dw i (y)n dal y bws yn Esquel@s:cym&spa am un_ar_ddeg . 1194552_1196777
 %eng:	well, I catch the bus in Esquel at eleven
-*TOY:	+< xx +/. 1194902_1195222
+*TOY:	+< xxx +/. 1194902_1195222
 *ZER:	dw i (y)n cyrraedd tua hanner awr neu +... 1197358_1199419
 %eng:	I arrive about half an hour or...
 *TOY:	ie (..) mae (y)n dibynnu . 1200245_1202370
 %eng:	yes, it depends
-*ZER:	+< neu xx . 1201215_1202440
+*ZER:	+< neu xxx . 1201215_1202440
 %eng:	or [..]
 *ZER:	&=groan ie ond wel +... 1204435_1207111
 %eng:	yes, but well...
@@ -1014,7 +1013,7 @@
 %eng:	because I know someone who lives in...
 *ZER:	ble mae fe ? 1215375_1216222
 %eng:	where is it?
-*ZER:	San_Martin@s:cym&spa neu ryw le fel (y)na xx +//. 1216429_1218664
+*ZER:	San_Martin@s:cym&spa neu ryw le fel (y)na xxx +//. 1216429_1218664
 %eng:	San Martin or somewhere like that [..]
 *ZER:	sa i (y)n cofio (y)r enw nawr . 1218717_1219954
 %eng:	I don't remember the name now
@@ -1039,7 +1038,7 @@
 *TOY:	mmhm ? 1243978_1244900
 *ZER:	i [///] (.) achos mae (y)n +... 1245915_1247976
 %eng:	yes because it's...
-*ZER:	os ti ddim yn dod pob dydd +//. 1249713_1257181
+*ZER:	os ti ddim yn dod pob dydd +//. 1249690_1251832
 %eng:	if you don't come every day...
 *ZER:	wel (.) raid ti ddod (.) fel (.) ochenta@s:spa por@s:spa cierto@s:spa de@s:spa asistencia@s:spa . 1252193_1257181
 %eng:	well, you have to come, like [...] eighty per cent of attendance.
@@ -1099,7 +1098,7 @@
 %eng:	because when there aren't any people it's, oh, the time passes terribly slowly
 *TOY:	+< ie . 1328002_1328525
 %eng:	yes
-*ZER:	ti [/] ti <(we)di gweld> [?] xx yn y siop neu yn y +..? 1331468_1334522
+*ZER:	ti [/] ti <(we)di gweld> [?] xxx yn y siop neu yn y +..? 1331468_1334522
 %eng:	have you seen [...] in the shop or in the..?
 *TOY:	+< xxx . 1331762_1332981
 *TOY:	yn y siop . 1334533_1335329
@@ -1119,7 +1118,7 @@
 *ZER:	huh ? 1343883_1344272
 *TOY:	os dw i mynd i weithio (y)na (.) dw i ddim yn gallu nawr . 1345439_1348359
 %eng:	if I'm going to work there, I can't now
-*ZER:	+< ah@s:cym&spa ti (dd)im yn gallu xx &=laugh ! 1346745_1349688
+*ZER:	+< ah@s:cym&spa ti (dd)im yn gallu xxx &=laugh ! 1346745_1349688
 %eng:	ah, you can't [..]!
 *TOY:	achos (.) ry tew (.) ydw i . 1349603_1351902
 %eng:	because I'm too fat
@@ -1144,7 +1143,7 @@
 %eng:	"excuse me!
 *ZER:	ie . 1364438_1365059
 %eng:	yes
-*ZER:	mae xx +/. 1365533_1366251
+*ZER:	mae xxx +/. 1365533_1366251
 %eng:	[is]...
 *TOY:	+< a weithiau mae (y)r pobl yn (.) pico rywbeth a ddweud +"/. 1366007_1369374
 %eng:	and sometimes people pick something and say:
@@ -1156,7 +1155,7 @@
 %eng:	because it's too small
 *ZER:	ie a maen nhw (y)n pico pethau sy [//] ti ddim yn gallu +//. 1376135_1378855
 %eng:	yes, and they pick things that you can't...
-*ZER:	faint yw e (..) timod fel xx +/. 1378924_1381031
+*ZER:	faint yw e (..) timod fel xxx +/. 1378924_1381031
 %eng:	how much it is, you know like [...]
 *TOY:	+< wyt ti ddim yn gwybod . 1380436_1381847
 %eng:	you don't know
@@ -1230,9 +1229,9 @@
 %com:	"bant" is the SW variant, "i ffwrdd" NW, both meaning off or away. In the following minute of conversation they discuss Southern Welsh variants of words
 *TOY:	i_ffwrdd ["] . 1463415_1464094
 %eng:	"i ffwrdd" [off]
-*ZER:	dw i trwy (y)r amser xx (.) bant ["] ? 1465093_1467630
+*ZER:	dw i trwy (y)r amser xxx (.) bant ["] ? 1465093_1467630
 %eng:	I always [...] "bant"
-*TOY:	wel ti (.) xx . 1467806_1469228
+*TOY:	wel ti (.) xxx . 1467806_1469228
 %eng:	well, you [...]
 *ZER:	+< &=cough . 1468601_1469123
 *ZER:	dim_ond fi . 1470187_1471348
@@ -1248,7 +1247,7 @@
 *ZER:	moyn ["] . 1481309_1482052
 %eng:	"moyn" [want]
 %com:	"moyn" is the SW variant of isio/eisiau (want)
-*ZER:	+" wyt ti moyn xx ? 1482070_1484026
+*ZER:	+" wyt ti moyn xxx ? 1482070_1484026
 %eng:	"do you want [...]?
 *TOY:	na be wyt ti moyn ? 1484005_1485137
 %eng:	no, what do you want?
@@ -1289,7 +1288,7 @@
 %eng:	aw, I'm missing people terribly
 *TOY:	ffoniest ti (.) i Langrannog@s:cym&spa ? 1516580_1518733
 %eng:	did you phone Llangrannog?
-*ZER:	+< na xx anghofio . 1518103_1519902
+*ZER:	+< na xxx anghofio . 1518103_1519902
 %eng:	no [...] forgot
 *TOY:	oh@s:cym&spa ti (y)n ddrwg &=laugh . 1520139_1521509
 %eng:	oh, you're bad
@@ -1335,14 +1334,14 @@
 *TOY:	mis ["] dw i (y)n deud mis ["] . 1566976_1568660
 %eng:	I say [month]
 %com:	standard /s/ pronunciation now
-*ZER:	mae pawb yn xx mis ["] . 1569333_1571539
+*ZER:	mae pawb yn xxx mis ["] . 1569333_1571539
 %eng:	everyone [...] [month]
 %com:	/s/
 *TOY:	&=laugh . 1572886_1573698
 *ZER:	mis ["] . 1574173_1574724
 %eng:	[month]
 %com:	/sh/
-*ZER:	xx ["] . 1574747_1575694
+*ZER:	xxx ["] . 1574747_1575694
 *TOY:	llall . 1576051_1576603
 %eng:	the other
 *ZER:	mae popeth yn wahanol . 1578017_1579555
@@ -1410,7 +1409,7 @@
 %eng:	another week before arriving in Trevelin
 *ZER:	mae iawn . 1654924_1655627
 %eng:	it's alright
-*ZER:	o(eddw)n i mor mor xx ar_ôl dod xx +... 1655795_1658699
+*ZER:	o(eddw)n i mor mor xxx ar_ôl dod xxx +... 1655795_1658699
 %eng:	I was so so [..] after coming...
 *ZER:	teithio am dim . 1659825_1660619
 %eng:	travelling for nothing
@@ -1420,7 +1419,7 @@
 %eng:	he'll be starting work next year, no doubt
 *ZER:	ie . 1664472_1665140
 %eng:	yes
-*TOY:	nawr xx (..) does dim pwynt . 1665416_1668005
+*TOY:	nawr xxx (..) does dim pwynt . 1665416_1668005
 %eng:	now [...], there's no point
 *ZER:	nac oes . 1668112_1669017
 %eng:	no
@@ -1499,7 +1498,7 @@
 %eng:	nothing
 *ZER:	na does dim pwynt . 1745854_1747404
 %eng:	no, there's no point
-*ZER:	ac ar_ôl (..) xx +/. 1747974_1750668
+*ZER:	ac ar_ôl (..) xxx +/. 1747974_1750668
 %eng:	and after ...
 *TOY:	ond (e)fallai mae hi wedi blino . 1750522_1752101
 %eng:	but maybe she's tired
@@ -1517,7 +1516,7 @@
 %eng:	that's hard for you and hard for her as well
 *ZER:	ie mwy anodd <iddi hi> [?] dw i meddwl . 1762391_1764777
 %eng:	yes, harder for her I think
-*TOY:	ond (e)fallai xx blwyddyn nesa (.) bydd hi (y)n gallu (.) dod gyda (..) grŵp arall . 1766971_1773869
+*TOY:	ond (e)fallai xxx blwyddyn nesa (.) bydd hi (y)n gallu (.) dod gyda (..) grŵp arall . 1766971_1773869
 %eng:	but maybe [..] next year she'll be able to come with another group
 *ZER:	+< ie gyda rhai +/. 1772076_1773097
 %eng:	yes, with some...
@@ -1533,7 +1532,7 @@
 %eng:	scholarship
 *ZER:	(y)sgoloriaeth . 1792994_1793941
 %eng:	scholarship
-*ZER:	dw i (y)n meddwl yn y Saesneg xx +//. 1795177_1797342
+*ZER:	dw i (y)n meddwl yn y Saesneg xxx +//. 1795177_1796884
 %eng:	I'm thinking in English
 *TOY:	+< dw i xxx gwybod . 1795421_1796118
 %eng:	I [...] know
@@ -1542,7 +1541,7 @@
 *TOY:	ah@s:cym&spa . 1803090_1803874
 *ZER:	wel dw i (y)n dweud hwn . 1804931_1806419
 %eng:	well, I say that
-*ZER:	achos [//] wel achos (.) o(eddw)n i (y)n arfer (.) wneud hwn yn [/] (..) yng Nghymry xx . 1806460_1811545
+*ZER:	achos [//] wel achos (.) o(eddw)n i (y)n arfer (.) wneud hwn yn [/] (..) yng Nghymry xxx . 1806460_1811545
 %eng:	because I used to doing that in Wales [..]
 *TOY:	yng Nghymry . 1811319_1811754
 %eng:	in Wales
@@ -1577,19 +1576,19 @@
 %eng:	Franco is [...]
 *TOY:	Franco@s:cym&spa +... 1844153_1845215
 *ZER:	ah@s:cym&spa . 1845179_1846078
-*TOY:	ie dw i (ddi)m yn gwybod xx +/. 1846046_1846847
+*TOY:	ie dw i (ddi)m yn gwybod xxx +/. 1846046_1846847
 %eng:	yes I don't know
 *ZER:	ti (ddi)m yn cofio <(y)r enw> [//] y cyfenw na . 1846708_1848513
 %eng:	you don't remember the name... surname, no.
 *TOY:	buest ti yn Rincón@s:spa del@s:spa Arte@s:spa (..) uh rhywbryd ? 1849889_1853685
 %eng:	have you been to Art Corner er, any time?
-*TOY:	est ti (i)r xx +..? 1854370_1855633
+*TOY:	est ti (i)r xxx +..? 1854370_1855633
 %eng:	did you go to [..] ?
 *ZER:	es i unwaith . 1855617_1856848
 %eng:	I went once
 *ZER:	a <roedd hwn> [?] ar gau &=laugh ! 1857277_1859291
 %eng:	and it was closed!
-*TOY:	ah@s:cym&spa xx . 1859326_1860243
+*TOY:	ah@s:cym&spa xxx . 1859326_1860243
 *ZER:	+< &=laugh . 1859703_1860657
 *TOY:	ond mae (y)n lle neis . 1860610_1861916
 %eng:	but it's a nice place
@@ -1597,7 +1596,7 @@
 %eng:	yes
 *ZER:	ydy hi (y)n fawr ? 1863200_1864239
 %eng:	is it big?
-*ZER:	achos oedd yn edrych yn xx +/. 1864273_1865829
+*ZER:	achos oedd yn edrych yn xxx +/. 1864273_1865829
 %eng:	because it looked...
 *TOY:	na mae hi (y)n bach . 1865770_1866873
 %eng:	no, it's small
@@ -1612,7 +1611,7 @@
 *TOY:	xxx . 1875644_1877054
 *ZER:	wir ? 1877397_1877849
 %eng:	really?
-*TOY:	xx . 1879601_1880182
+*TOY:	xxx . 1879601_1880182
 %eng:	[...]
 *TOY:	ond <maen nhw (y)n> [/] (..) maen nhw (y)n da <fydda i (y)n> [?] meddwl . 1881548_1884856
 %eng:	but they're good, I should think
@@ -1633,7 +1632,7 @@
 %eng:	I'd like to learn to paint
 *ZER:	o(eddw)n i (y)n clywed roedd y (..) italiano@s:spa (.) Italian@s:eng whatever@s:eng +//. 1906716_1912903
 %eng:	I heard that Italian...
-*ZER:	dw (ddi)m yn gwybod y xx +/. 1913143_1914107
+*ZER:	dw (ddi)m yn gwybod y xxx +/. 1913143_1914107
 %eng:	I don't know the
 *TOY:	yr Eidal ? 1913898_1914786
 %eng:	Italy?
@@ -1690,7 +1689,7 @@
 %eng:	nice, oh!
 *TOY:	maen nhw (y)n +//. 1975645_1976627
 %eng:	they...
-*ZER:	xx +/. 1976638_1977073
+*ZER:	xxx +/. 1976638_1977073
 *TOY:	o(eddw)n i (y)n hoffi (y)r cracers . 1977039_1979047
 %eng:	I liked the crackers
 *TOY:	welest ti (y)r cracers ? 1979808_1980807
@@ -1711,7 +1710,7 @@
 %eng:	and I was thinking:
 *ZER:	+" oedd (y)na bisged tu mewn ? 1990495_1991935
 %eng:	"was there a biscuit inside?
-*ZER:	&=laugh achos roedd yn rownd xx +... 1991924_1993996
+*ZER:	&=laugh achos roedd yn rownd xxx +... 1991924_1993996
 %eng:	because it was round [..]...
 *TOY:	ie . 1994840_1995176
 %eng:	yes
@@ -1743,7 +1742,7 @@
 %eng:	well, we have dinner, and...
 *ZER:	++ cinio a swper eto &=laugh ! 2029871_2032514
 %eng:	...lunch, and dinner again!
-*TOY:	a dydd Nadolig dan ni (y)n cael asado@s:spa xx . 2033632_2035890
+*TOY:	a dydd Nadolig dan ni (y)n cael asado@s:spa xxx . 2033632_2035890
 %eng:	and Christmas day we have a barbecue [..]
 *ZER:	ie . 2036911_2037212
 %eng:	yes
@@ -1773,7 +1772,7 @@
 %eng:	well, and...
 *ZER:	ie &d diwrnod ar_ôl dan ni mynd mas a cael asado@s:spa ambell waith . 2075878_2079826
 %eng:	yes, the day afterwards we go out and have a barbecue now and again
-*ZER:	<does dim lot o xx> [=! laughs] ! 2079798_2082242
+*ZER:	<does dim lot o xxx> [=! laughs] ! 2079798_2082242
 %eng:	there's not much [..] !
 *TOY:	+< ie mae (y)n dibynnu . 2081428_2082479
 %eng:	yes, it depends

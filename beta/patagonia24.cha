@@ -1,4 +1,3 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -62,7 +61,7 @@
 *ADL:	+< ah@s:cym&spa . 30630_31100
 %eng:	ah.
 *MOR:	+< xxx . 30659_31262
-*MOR:	<fe fyddai (y)r llaeth> [?] xx . 31303_33062
+*MOR:	<fe fyddai (y)r llaeth> [?] xxx . 31303_33062
 %eng:	[...] the milk would [...] .
 *ADL:	+< ah@s:cym&spa buddai . 32066_32972
 %eng:	ah, a churn.
@@ -208,7 +207,7 @@
 %eng:	yes.
 *ADL:	dw i (y)n gweld . 152991_153722
 %eng:	I see.
-*MOR:	oh@s:cym&spa oedd raid gofalu (y)n xx (.) mm &n lot ar_ôl yr hufen iddo beidio basio +... 153490_158463
+*MOR:	oh@s:cym&spa oedd raid gofalu (y)n xxx (.) mm &n lot ar_ôl yr hufen iddo beidio basio +... 153490_158463
 %eng:	oh, you had to look after the cream so it didn't pass...
 *ADL:	ie . 158520_158949
 %eng:	yes.
@@ -220,7 +219,7 @@
 %eng:	fresh butter.
 *MOR:	ie . 162632_163096
 %eng:	yes.
-*MOR:	a ei weithio fo nes <oedd y> [/] oedd yr uh (.) dŵr yn dod yn loyw (..) o (y)r menyn xx . 163066_169086
+*MOR:	a ei weithio fo nes <oedd y> [/] oedd yr uh (.) dŵr yn dod yn loyw (..) o (y)r menyn xxx . 163066_169086
 %eng:	and work it until the liquid flowing from the butter was clear.
 *ADL:	+< ah@s:cym&spa ie . 168366_169744
 %eng:	yes.
@@ -238,7 +237,7 @@
 %eng:	and it had belonged to Grandma Humphreys.
 *ADL:	ah@s:cym&spa ! 179511_180376
 %eng:	ah!
-*MOR:	+< glampen o uh (.) uh uh badell fel (y)na xx . 180186_183349
+*MOR:	+< glampen o uh (.) uh uh badell fel (y)na xxx . 180186_183349
 %eng:	a huge pan, like that...
 *ADL:	+< badell <&vren uh> [//] pren . 182876_184327
 %eng:	wooden pan.
@@ -402,7 +401,7 @@
 %eng:	she's gone by now.
 *ADL:	mae draw ers ryw fis bellach . 310974_313009
 %eng:	she's been over there for about a month now.
-*MOR:	oh@s:cym&spa mae wedi cael xx . 313009_314647
+*MOR:	oh@s:cym&spa mae wedi cael xxx . 313009_314647
 %eng:	oh, so she has got [...]?
 *ADL:	+< oh@s:cym&spa a mae (y)r ferch arall o &m [//] Borth_Madryn (dy)dy hi (ddi)m eisiau mynd (y)n_ôl meddai hi . 313974_318171
 %eng:	oh, and the other girl is from Puerto Madryn, and she says she doesn't want to go back.
@@ -442,7 +441,7 @@
 %eng:	[...], no, in the paper.
 *ADL:	+< no@s:spa . 342627_343132
 %eng:	no.
-*MOR:	ond dw i (we)di roid nhw i Edita@s:cym&spa roid nhw (y)n_ôl yn saff xx . 343424_345928
+*MOR:	ond dw i (we)di roid nhw i Edita@s:cym&spa roid nhw (y)n_ôl yn saff xxx . 343424_345928
 %eng:	but I have given them to Edita to give them back safely [...].
 *ADL:	ah@s:cym&spa iawn iawn mi ga i nhw wedyn efo hi felly . 345917_348616
 %eng:	ah, okay, I'll get them from her then.
@@ -508,7 +507,7 @@
 %eng:	oh well!
 *ADL:	Barbara@s:cym&spa uh <Misus uh> [//] Lady Richards@s:cym&spa a Barbara_Morris@s:cym&spa . 390247_394781
 %eng:	Lady Richards and Barbara Morris.
-*ADL:	chi (y)n cofio nhw (y)n dod ers blynyddoedd xx +/? 395031_396755
+*ADL:	chi (y)n cofio nhw (y)n dod ers blynyddoedd xxx +/? 395031_396755
 %eng:	do you remember them coming years ago?
 *MOR:	wel ! 396610_397550
 %eng:	well!
@@ -545,7 +544,7 @@
 %eng:	that's it.
 *ADL:	a <mae llun> [//] mae ei hanes o rŵan wrth_gwrs mae o (.) mewn oed yn Golwg@s:cym&spa . 418968_422887
 %eng:	his story, of course he is old now, is in Golwg.
-*MOR:	+< oh@s:cym&spa xx bachgen i +..? 420843_422829
+*MOR:	+< oh@s:cym&spa xxx bachgen i +..? 420843_422829
 %eng:	oh, [...] son of...?
 *ADL:	++ i Lady Richards@s:cym&spa . 422834_424175
 %eng:	...Lady Richards.
@@ -655,7 +654,7 @@
 %eng:	well, he was pleased that I'd come to the same one as him.
 *ADL:	+< ie . 543000_543571
 %eng:	yes.
-*MOR:	ond <Misus Richards@s:cym&spa> [//] Misus Richard_Williams@s:cym&spa xx Mabel@s:cym&spa mae (y)n sgrifennu i fi byth . 543008_547842
+*MOR:	ond <Misus Richards@s:cym&spa> [//] Misus Richard_Williams@s:cym&spa xxx Mabel@s:cym&spa mae (y)n sgrifennu i fi byth . 543008_547842
 %eng:	but Mrs Richard Williams, Mabel, still writes to me.
 *ADL:	oh@s:cym&spa ! 547865_548956
 %eng:	oh!
@@ -725,7 +724,7 @@
 *ADL:	Bethan@s:cym&spa +... 605641_606332
 %eng:	Bethan...
 *OSE:	+< ww . 605723_606274
-*ADL:	o(eddw)n i ddim yma . 606263_608080
+*ADL:	o(eddw)n i ddim yma . 606263_606892
 %eng:	I wasn't here.
 *ADL:	o(eddw)n i yng Nghymru (y)r adeg yna . 606907_608314
 %eng:	I was in Wales at that time.
@@ -817,7 +816,7 @@
 *ADL:	+< ond mae (we)di marw wedyn mam Catrin_Elen@s:cym&spa . 684272_686344
 %eng:	but she died later, Catrin Elen's mother.
 *OSE:	+< www . 685938_686477
-*MOR:	<anti Imogen@s:cym&spa> ["] oedden ni (y)n galw xx . 686540_688008
+*MOR:	<anti Imogen@s:cym&spa> ["] oedden ni (y)n galw xxx . 686540_688008
 %eng:	we called her "Auntie Imogen".
 *ADL:	+< Imogen@s:cym&spa . 687863_688682
 %eng:	Imogen.
@@ -830,7 +829,7 @@
 %eng:	she was related to Tomos' grandma, to Mrs. Diaz, Judith.
 *ADL:	ah@s:cym&spa eich mam yng nghyfraith wel ! 695385_698136
 %eng:	ah, your mother-in-law, well!
-*MOR:	+< xx (.) ie . 696001_697644
+*MOR:	+< xxx (.) ie . 696001_697644
 %eng:	[...], yes.
 *MOR:	na ddim mam yng nghyfraith yn perthyn ynde . 697658_699748
 %eng:	no, not mother-in-law, but related.
@@ -1124,11 +1123,11 @@
 %eng:	ah.
 *MOR:	ac yn eistedd (..) mae dada a (y)r un arall ar ei +//. 928883_932984
 %eng:	and sitting there is Dad and the other on on his...
-*MOR:	wel llun bach mae hwnnw efo fi fan (y)na xx . 932928_935233
+*MOR:	wel llun bach mae hwnnw efo fi fan (y)na xxx . 932928_935233
 %eng:	well, a little photo, I have that there, [...].
 *MOR:	xxx fwy o amser +... 935323_936751
 %eng:	[...] more time...
-*ADL:	+< xx (.) iawn ! 935323_937639
+*ADL:	+< xxx (.) iawn ! 935323_937639
 %eng:	[...], okay!
 *ADL:	fedrwn ni ddim mynd i nôl o heddiw . 937865_939409
 %eng:	we can't go and fetch them today.
@@ -1348,7 +1347,7 @@
 %eng:	so she could take them over there.
 *ADL:	a &ve &be meddwl bod chi (we)di cael y mate@s:cym&spa a bod chi (y)n barod i fynd allan am dro . 1096036_1099272
 %eng:	and she thought that you had had the maté and were ready to go out for a walk.
-*MOR:	oedd (y)na ddim amser i gael mate@s:cym&spa xx . 1099203_1101124
+*MOR:	oedd (y)na ddim amser i gael mate@s:cym&spa xxx . 1099203_1101124
 %eng:	there was no time to have maté.
 *ADL:	+< dim amser . 1100564_1101609
 %eng:	no time.
@@ -1358,7 +1357,7 @@
 %eng:	yes.
 *MOR:	wel xxx . 1103384_1104506
 %eng:	well, [...].
-*MOR:	mae gyda nhw lyfrau wel gwerth arian xx llyfrau da . 1104492_1108399
+*MOR:	mae gyda nhw lyfrau wel gwerth arian xxx llyfrau da . 1104492_1108399
 %eng:	they have books that are worth money, [...] good books.
 *ADL:	da neis lliw(gar) [/] lliwgar . 1108408_1110658
 %eng:	good nice colourful.
@@ -1372,7 +1371,7 @@
 %eng:	if they get much education, books help.
 *ADL:	ie . 1119065_1119687
 %eng:	yes.
-*MOR:	xx mae gynnon nhw lyfrau bach hefyd hawdd i [/] i ddarllen ynde . 1119460_1123597
+*MOR:	xxx mae gynnon nhw lyfrau bach hefyd hawdd i [/] i ddarllen ynde . 1119460_1123597
 %eng:	they have small books as well that are easy to read.
 *ADL:	ie . 1123595_1124059
 %eng:	yes.
@@ -1449,7 +1448,7 @@
 %eng:	Elen.
 *ADL:	+< chi (y)n dal i sgrifennu ag Elen@s:cym&spa ? 1205690_1207396
 %eng:	are you still writing to Elen?
-*MOR:	&a uh (.) wel ges i xx +//. 1207019_1209395
+*MOR:	&a uh (.) wel ges i xxx +//. 1207019_1209395
 %eng:	uh, well, I had [...].
 *MOR:	wnes i ddangos y lluniau oddi_wrth Elen@s:cym&spa yndo ? 1209383_1211519
 %eng:	I showed the photos from Elen, didn't I?
@@ -1684,7 +1683,7 @@
 %eng:	a dog probably, was it?
 *ADL:	ie . 1418167_1418637
 %eng:	yes.
-*MOR:	oedd golwg xx arno fo . 1418625_1420291
+*MOR:	oedd golwg xxx arno fo . 1418625_1420291
 %eng:	it looked [...].
 *ADL:	wel ! 1420280_1421185
 %eng:	well!
@@ -1781,7 +1780,7 @@
 %eng:	it's him who does the crowning ceremony at the Eisteddfod.
 *MOR:	ah@s:cym&spa wel dw i (we)di darllen ei hanes yn y +... 1499680_1502802
 %eng:	ah, well, I've read his story in the...
-*MOR:	oh@s:cym&spa mae +... 1502198_1504160
+*MOR:	oh@s:cym&spa mae +... 1502854_1504160
 %eng:	oh...
 *ADL:	torri gwair . 1504165_1504931
 %eng:	cutting grass.
@@ -1934,7 +1933,7 @@
 %eng:	[...] February.
 *ADL:	mis Chwefror chi (y)n barod am yr wyth_deg naw &=laugh ? 1640133_1643285
 %eng:	in February you are ready for the eighty-nine?
-*MOR:	+< ond mae (y)n nes i (y)r wyth_deg naw xx . 1642022_1644704
+*MOR:	+< ond mae (y)n nes i (y)r wyth_deg naw xxx . 1642022_1644704
 %eng:	[...] it's closer to the eighty-nine [...].
 *ADL:	oh@s:cym&spa ! 1644739_1646237
 %eng:	oh!
@@ -2077,7 +2076,7 @@
 %eng:	no no, I was just asking.
 *ADL:	meddwl faint sydd . 1746444_1747060
 %eng:	wondering how many are there.
-*MOR:	na xx uh Danny@s:cym&spa +... 1747031_1749132
+*MOR:	na xxx uh Danny@s:cym&spa +... 1747031_1749132
 %eng:	no, Danny...
 *ADL:	Danny@s:cym&spa . 1749022_1750032
 %eng:	Danny.

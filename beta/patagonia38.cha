@@ -1,4 +1,3 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, spa, eng
@@ -113,7 +112,7 @@
 %eng:	hard
 *ESF:	[- spa] sí sí duro y como trabado . 102326_104614
 %eng:	yes yes, hard and like stuttering
-*INE:	+< [- spa] cerrado . 103789_105810
+*INE:	+< [- spa] cerrado . 103789_104611
 %eng:	closed
 *INE:	[- spa] trabado viste . 104626_105639
 %eng:	stuttering, see ?
@@ -194,7 +193,7 @@
 %eng:	but Selina is teaching at the children's school... June
 *INE:	meithrin [/] ysgol meithrin . 230499_232163
 %eng:	nursery, nursery school
-*ESF:	ah@s:cym&spa . 233336_236088
+*ESF:	ah@s:cym&spa . 232328_232706
 *ESF:	oes plant yn yr ysgol meithrin neu ysgol Cymraeg . 233507_236067
 %eng:	are there children at nursery school or Welsh school?
 *INE:	pump . 237059_238104
@@ -213,7 +212,7 @@
 %eng:	Ester isn't coming
 *ESF:	oh@s:cym&spa mae Ester@s:cym&spa oh@s:cym&spa +... 246401_247980
 %eng:	oh, Ester is... oh...
-*ESF:	+< ie eh@s:cym&spa na flwyddyn +... 246561_247916
+*INE:	+< ie eh@s:cym&spa na flwyddyn +... 246561_247916
 %eng:	yes, no, the year...
 *ESF:	no@s:spa achos mae (.) llawer o bethau i wneud . 248090_251504
 %eng:	no because there are lots of things to do
@@ -297,7 +296,7 @@
 %eng:	no but...
 *INE:	[- spa] nombre loco parece . 314341_315781
 %eng:	it seems an odd name
-*ESF:	[- spa] che y ? 315774_319337
+*ESF:	[- spa] che y ? 315774_317212
 %eng:	and ?
 *ESF:	xxx . 317596_319740
 %eng:	[...]
@@ -307,7 +306,7 @@
 %eng:	no, Karina
 *INE:	[- spa] no . 321705_322270
 %eng:	no
-*INE:	blwyddyn +/. 323181_325399
+*INE:	blwyddyn +/. 323181_324103
 %eng:	year...
 *ESF:	++ blwyddyn nesa . 324311_325271
 %eng:	...next year
@@ -323,9 +322,7 @@
 %eng:	they're going to the... did you go to the barbecue?
 *ESF:	[- spa] no lo terminaste no ? 334221_335629
 %eng:	you didn't finish it, did you?
-*INE:	+< [- spa] no . 335087_335727
-%eng:	no
-*INE:	na blwyddyn diweth(af) [//] blwyddyn nesa mae hi dal i fod un_deg wyth . 335181_338711
+*INE:	no@s:spa blwyddyn diweth(af) [//] blwyddyn nesa mae hi dal i fod un_deg wyth . 335181_338711
 %eng:	no, next year, she's still 18
 *ESF:	yr un blwyddyn ? 338839_339725
 %eng:	the same year?
@@ -702,11 +699,10 @@
 %eng:	and the next minute?
 *INE:	dim yn cofio &=laugh . 731162_735535
 %eng:	can't remember
-*INE:	&=laugh . 733300_735198
 *ESF:	+< xxx . 733306_734714
 *ESF:	na na na mae o (y)n well i [/] i ddarllen a i ysgrifennu (.) dw i (y)n credu . 735665_739964
 %eng:	no, it's better to read and write, I think
-*INE:	+< a xx (.) beth +//. 737346_739324
+*INE:	+< a xxx (.) beth +//. 737346_739324
 %eng:	and [...] what...
 *INE:	beth ydy um (.) divertirse@s:spa ["] ? 739697_742567
 %eng:	what is "to have fun"?
@@ -999,7 +995,7 @@
 %eng:	one hundred and twenty
 *ESF:	<y fis> [/] y fis . 1062443_1064321
 %eng:	per month
-*ESF:	+< ah@s:cym&spa oh@s:cym&spa . 1062529_1064491
+*INE:	+< ah@s:cym&spa oh@s:cym&spa ! 1062529_1064491
 *ESF:	ond &d dw i ddim yn gwybod rŵan . 1064406_1066155
 %eng:	but I don't know now
 *INE:	mae +/. 1066475_1067179
@@ -1029,11 +1025,11 @@
 *INE:	mae +/. 1084403_1084942
 *ESF:	[- spa] lindo xxx . 1084915_1086590
 %eng:	lovely
-*ESF:	+< mae +/. 1085982_1086691
+*INE:	+< mae +/. 1085982_1086691
 *ESF:	[- spa] pero en esas camas con cosas con +/. 1086843_1088833
 %eng:	but in these beds with things, with...
-*INE:	+< [- spa] sí sí sí las camas de Pilates con las [/] con las sí bueno +//. 1087694_1091463
-%eng:	yes yes yes the Pilates beds with the ... yes, well...
+*INE:	+< [- spa] sí sí sí las camas de Pilates con las [/] con las +//. 1087694_1090609
+%eng:	yes yes yes the Pilates beds with the...
 *ESF:	+< [- spa] ay son fantásticas . 1089761_1090918
 %eng:	ah they are fantastic
 *INE:	[- spa] sí bueno . 1090635_1091718
@@ -1064,7 +1060,7 @@
 %eng:	so I don't know how much there...
 *ESF:	++ [- spa] cuánto será . 1115238_1115942
 %eng:	...how much it will be
-*INE:	&d +/. 1116125_1117692
+*INE:	&d +/. 1116070_1116444
 *ESF:	[- spa] pero dicen que es buenísimo . 1116125_1117692
 %eng:	but they say that it's excellent
 *INE:	+< [- spa] de todos modos las dos primeras clases son a prueba . 1116828_1119036
@@ -1180,10 +1176,10 @@
 %eng:	you don't know
 *ESF:	+< [- spa] &=gasp todo todo cayó . 1199201_1200390
 %eng:	everything, everything fell
-*ESF:	[- spa] y esto cayó . 1199201_1200390
-%eng:	and this fell
-*INE:	+< bueno@s:spa a@s:spa mí@s:spa a@s:spa mí@s:spa con@s:spa spinning@s:eng yo@s:spa lo@s:spa que@s:spa noto@s:spa es@s:spa eso@s:spa ves@s:spa . 1200126_1203145
+*INE:	bueno@s:spa a@s:spa mí@s:spa a@s:spa mí@s:spa con@s:spa spinning@s:eng yo@s:spa lo@s:spa que@s:spa noto@s:spa es@s:spa eso@s:spa ves@s:spa . 1200126_1203145
 %eng:	well, to me, to me, with spinning I, what I notice is this, see
+*ESF:	[- spa] y esto cayó . 1200394_1201194
+%eng:	and this fell
 *INE:	[- spa] que está medianamente (.) tomando todo en lo muscular todo . 1203512_1210092
 %eng:	that everything is kind of taking, in relation to the muscles
 *ESF:	[- spa] sí está buenísimo . 1210466_1211113
@@ -1201,7 +1197,7 @@
 %eng:	who do you go with?
 *INE:	+< ah@s:cym&spa yo@s:spa voy@s:spa con@s:spa Carla@s:cym&spa . 1216033_1217046
 %eng:	I go with Carla
-*ESF:	[- spa] una chica hace ? 1217743_1219785
+*ESF:	[- spa] una chica hace ? 1217743_1218915
 %eng:	does a girl do it?
 *INE:	+< mm +... 1218203_1218912
 *ESF:	ah@s:cym&spa . 1218907_1219712
@@ -1355,11 +1351,10 @@
 *INE:	+< &=laugh . 1341822_1342547
 *INE:	+< na newydd dda . 1342824_1343944
 %eng:	no, happy new
-*INE:	blwyddyn newydd dda &=laugh . 1344147_1346238
-%eng:	happy new year
+*INE:	blwyddyn newydd dda &=laugh ! 1344147_1346238
+%eng:	happy new year!
 *ESF:	[- spa] claro ese es el deseo . 1345286_1346651
 %eng:	of course, this is the greeting
-*INE:	&=laugh . 1345286_1346651
 *ESF:	[- spa] este +... 1346902_1348619
 %eng:	this…
 *ESF:	mae pobl dim yn [/] yn meddwl yn bethau arall . 1348810_1351759
@@ -1586,7 +1581,7 @@
 %eng:	well yes, she put on make-up and got ready
 *ESF:	+< [- spa] sí . 1563395_1563853
 %eng:	yes
-*INE:	a rŵan (.) wel dipyn bach dipyn bach a +//. 1564376_1572899
+*INE:	a rŵan (.) wel dipyn bach dipyn bach a +//. 1564376_1567913
 %eng:	and now little by little...
 *ESF:	+< dim dim dim +/. 1565816_1567320
 %eng:	nothing, nothing
@@ -1707,7 +1702,7 @@
 %eng:	substitute teacher of...
 *INE:	+< ie . 1715482_1716261
 %eng:	yes
-*ESF:	+< sí@s:spa Gwilym@s:cym&spa . 1716666_1717861
+*INE:	+< sí@s:spa Gwilym@s:cym&spa . 1716666_1717861
 %eng:	yes Gwilym
 *ESF:	sí@s:spa bueno@s:spa mae [/] &m mae o (y)n chwarae (.) gitâr . 1717882_1721616
 %eng:	yes well he plays guitar
@@ -1842,7 +1837,7 @@
 %eng:	did you see that they are in discussion with the nursery school?
 *INE:	ah@s:cym&spa sí@s:spa . 1857388_1858839
 %eng:	ah yes
-*ESF:	+< bueno@s:spa Tina@s:cym&spa sacó@s:spa licencia@s:spa . 1858209_1867180
+*ESF:	+< bueno@s:spa Tina@s:cym&spa sacó@s:spa licencia@s:spa . 1858202_1859978
 %eng:	well, Tina got the license
 *ESF:	ella@s:spa &=clicks_fingers &=clicks_fingers <los@s:spa &ot> [//] eh@s:cym&spa los@s:spa otros@s:spa los@s:spa de@s:spa música@s:spa y@s:spa los@s:spa de@s:spa gimnasio@s:spa le@s:spa dejaron@s:spa sola@s:spa . 1859919_1867191
 %eng:	she... the other, the music ones and the gym ones, they left her alone.
@@ -1960,7 +1955,7 @@
 %eng:	yes
 *ESF:	a [/] a mae athrawon yr ysgol feithrin mynd i (y)r ysgol dau_ddeg pedwar . 2011213_2016642
 %eng:	and some teachers from the nursery school are going to the Twenty Four school
-*ESF:	+< o (y)r ysgol feithrin . 2013559_2014562
+*INE:	+< o (y)r ysgol feithrin . 2013559_2014562
 %eng:	from nursery school
 *INE:	+< [- spa] eso es relindo . 2015938_2017495
 %eng:	that's really lovely
@@ -1971,7 +1966,7 @@
 %eng:	they're very happy with the experience
 *INE:	[- spa] sí . 2023943_2024412
 %eng:	yes
-*ESF:	ah@s:cym&spa &re fue@s:spa enriquecedora@s:spa . 2025204_2033012
+*ESF:	ah@s:cym&spa &re fue@s:spa enriquecedora@s:spa . 2025230_2028585
 %eng:	ah it was enriching
 *ESF:	sacaron@s:spa muchas@s:spa cosas@s:spa eh@s:cym&spa positivas@s:spa (.) eh@s:cym&spa . 2028804_2034633
 %eng:	they got a lot of positive things out of it
