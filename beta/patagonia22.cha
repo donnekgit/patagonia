@@ -12,7 +12,7 @@
 @Media:	Patagonia22, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *SAN:	ac yna Rhyd_yr_Indiaid <la@s:spa Herrería@s:spa> ["] oedden nhw (y)n galw fo ynde ? 122_2990
-%eng:	and then Rhyd yr Indiaid, they called it "la Herreria" [the blacksmith], right?
+%eng:	and then Rhyd yr Indiaid, they called it la Herreria [the blacksmith], right?
 *CON:	hoy@s:spa en@s:spa día@s:spa el@s:spa eh@s:cym&spa [///] oedd eh@s:cym&spa +//. 2986_5935
 %eng:	nowadays the... it was....
 *SAN:	+< oedd (y)na +/. 3077_4180
@@ -24,7 +24,7 @@
 *SAN:	ie . 7638_8172
 %eng:	yes
 *SAN:	oedd (y)na enw arall <ar Rhyd_yr> [//] heblaw Rhyd_yr_Indiaid yn Gymraeg neu Herrería@s:spa (y)n i_gyd o(edde)n nhw (y)n deud ? 8387_12183
-%eng:	was there another name for Rhyd yr Indiaid in Welsh, or was it "Herreria" that they all said?
+%eng:	was there another name for Rhyd yr Indiaid in Welsh, or was it Herreria that they all said?
 *CON:	Herrería@s:spa o(edde)n nhw (y)n deud . 12257_13499
 %eng:	they used to say Herreria [blacksmith]
 *SAN:	ah@s:cym&spa ia ddim Yr_Efail na (ddi)m_byd fel (y)na na ? 13157_14898
@@ -782,7 +782,7 @@
 *CON:	ah@s:cym&spa ia &=laugh . 580774_583351
 %eng:	ah yes
 *SAN:	+" tŷ (y)ma (y)n lovely@s:eng . 581941_582616
-%eng:	"this house is lovely"
+%eng:	this house is lovely
 *SAN:	meddai fo &=laugh +". 582615_583433
 %eng:	he said
 *CON:	ah@s:cym&spa . 583369_584553
@@ -1284,7 +1284,7 @@
 *SAN:	dim caffis . 966553_967249
 %eng:	no cafes
 *SAN:	caffis ["] maen nhw (y)n galw nhw yng Nghymru . 967412_968828
-%eng:	they call them "cafes" in Wales
+%eng:	they call them cafes in Wales
 *CON:	+< ah@s:cym&spa ia . 968271_968898
 %eng:	ah yes
 *SAN:	[- spa] confitería &=laugh . 968898_970129
@@ -1531,7 +1531,7 @@
 *SAN:	++ Robin_Williams@s:cym&spa . 1186902_1187715
 *CON:	+, Robin_Williams@s:cym&spa +"/. 1187610_1188957
 *CON:	+" wel (.) dw i isio pwdin reis . 1189096_1191267
-%eng:	"well, I'd like rice pudding"
+%eng:	well, I'd like rice pudding
 *SAN:	+< pwdin reis &=laugh . 1190571_1191650
 %eng:	rice pudding
 *CON:	a mi ddos i â (y)r (.) ddysgl . 1191674_1194158
@@ -1549,7 +1549,7 @@
 *CON:	a mi ddeudodd o +"/. 1200111_1201075
 %eng:	and he said:
 *CON:	+" peidiwch chi deud wrth Heledd@s:cym&spa +". 1201063_1202340
-%eng:	"don't tell Heledd"
+%eng:	don't tell Heledd
 *CON:	meddai fo [=! laugh] . 1202421_1203013
 %eng:	he said
 *SAN:	peidio deud i Heledd@s:cym&spa . 1203083_1204116
@@ -1759,7 +1759,7 @@
 *CON:	dw i (ddi)m yn gwybod be (y)dy o (y)n Cymraeg . 1356246_1357558
 %eng:	I don't know what it is in Welsh
 *SAN:	+< ia ia cwrs ["] oedd o . 1356246_1357360
-%eng:	yes, yes it was "course"
+%eng:	yes, yes it was course
 *SAN:	cwrs ia ia . 1357395_1358162
 %eng:	a course, yes
 *CON:	&en eh@s:cym&spa nawr mae (y)na ferch o Drelew@s:cym&spa . 1357627_1360379
