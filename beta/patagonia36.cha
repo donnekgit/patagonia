@@ -16,66 +16,66 @@
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Unable to tell two child speakers NEL and JOA apart; DOR's speech is mostly low volume.
 *RAN:	www . 0_3866
-*RAN:	www ? 4469_7522
+*RAN:	www . 4469_7522
 *DOR:	do . 7534_8091
 %eng:	yes
 *RAN:	www . 9188_14686
-*NEL:	ww ! 10071_10895
+*NEL:	www ! 10071_10895
 *DOR:	oedd oeddwn nhw i_gyd yn falch iawn yn fa(n) (y)ma bod fi (we)di mynd hefyd . 14741_18589
 %eng:	yes, they were all very glad here that I'd gone as well
-*RAN:	ww . 18679_19405
-*RAN:	www +/. 20339_21506
+*RAN:	www . 18679_19405
+*RAN:	www . 20339_21506
 *DOR:	fe gaethon ni hwyl ardderchog . 21309_23352
 %eng:	we had great fun
-*RAN:	www ? 23604_27215
+*RAN:	www . 23604_27215
 *DOR:	oedd dipyn . 27207_28379
 %eng:	yes, quite a few
-*RAN:	ww . 28513_29296
-*RAN:	www ? 30704_32552
-*RAN:	www ? 32581_33578
+*RAN:	www . 28513_29296
+*RAN:	www . 30704_32552
+*RAN:	www . 32581_33578
 *DOR:	+< oedd oedd ofnadwy . 33050_34785
 %eng:	yes, it was awful
-*RAN:	www ? 34935_35940
+*RAN:	www . 34935_35940
 *DOR:	mmhm a (y)r [?] gwynt . 35662_37113
 %eng:	mmhm, and the wind
 *DOR:	<oedden ni (y)n> [?] bwyta (y)n y tŷ . 37353_39112
 %eng:	we were eating in the house
 *RAN:	+< www . 37528_38776
-*RAN:	ww . 39566_40407
-*RAN:	www ? 41451_44122
+*RAN:	www . 39566_40407
+*RAN:	www . 41451_44122
 *DOR:	na oedd hi rhy oer . 44064_45756
 %eng:	no, it was too cold
-*RAN:	www ! 46786_47698
-*RAN:	www +... 49163_51027
+*RAN:	www . 46786_47698
+*RAN:	www . 49163_51027
 *RAN:	www . 56384_62352
 *DOR:	ond mae o (y)n bell iawn o [?] xxx . 62955_64714
 %eng:	but it's a very long way from [...]
-*RAN:	ww ! 64296_64946
+*RAN:	www ! 64296_64946
 *RAN:	www . 67207_69664
-*NEL:	+< www ! 67770_69175
+*NEL:	+< www . 67770_69175
 *DOR:	[- spa] bueno . 70746_71251
 %eng:	right
 *NEL:	+< www . 71048_73512
 *NEL:	www . 74343_76874
 *DOR:	[- spa] bueno dale . 76959_77916
 %eng:	ok do it.
-*RAN:	www ? 77821_78901
-*RAN:	www ? 79098_83614
+*RAN:	www . 77821_78901
+*RAN:	www . 79098_83614
 *NEL:	www . 84922_88417
-*JOA:	ww . 88538_89246
+*JOA:	www . 88538_89246
 *DOR:	[- spa] xxx te quieren escuchar en galés . 89223_92941
 %eng:	[...] they want to listen to you in Welsh.
 *NEL:	&=laugh &=laugh ! 93017_95107
-*RAN:	ww ! 95241_95984
-*RAN:	www ? 97375_100422
+*RAN:	www ! 95241_95984
+*RAN:	www . 97375_100422
 *DOR:	xxx &=blows_nose . 101399_104296
 *NEL:	&=laugh . 104203_105271
-*RAN:	www ? 108418_110299
+*RAN:	www . 108418_110299
 *NEL:	www . 108793_111922
 *DOR:	mm . 112003_112459
 %eng:	mm
-*RAN:	ww ? 112256_112935
-*RAN:	www ? 112983_114771
+*RAN:	www ? 112256_112935
+*RAN:	www . 112983_114771
 *NEL:	+< www . 113110_114671
 *DOR:	[- spa] no tenía ganas de hablar en galés dice . 114983_117641
 %eng:	he says that he didn't want to talk in Welsh.
@@ -83,15 +83,15 @@
 %eng:	talk, because this is going to record there.
 *NEL:	www . 122265_125592
 *DOR:	+< xxx . 123867_125615
-*NEL:	www ? 125644_127308
-*RAN:	www +... 127352_130272
-*RAN:	www ? 130622_132155
+*NEL:	www . 125644_127308
+*RAN:	www . 127352_130272
+*RAN:	www . 130622_132155
 *DOR:	mae (y)n mis Mai dw i (y)n credu . 134243_135851
 %eng:	it's in May, I believe
-*RAN:	www ? 135406_136213
+*RAN:	www . 135406_136213
 *DOR:	mm . 136184_136573
 %eng:	mmm
-*RAN:	ww . 136765_137357
+*RAN:	www . 136765_137357
 *DOR:	oedden [?] ni (y)n cael te ddoe yn Brynamlwg@s:cym&spa (.) lle oedd mam wedi byw ers_talwm . 138251_143508
 %eng:	we were having tea yesterday at Brynamlwg, where mother lived long ago
 *NEL:	www . 143731_145072
@@ -99,11 +99,11 @@
 *DOR:	wel dw i (y)n meddwl xxx un_deg pedwar xxx . 151611_155175
 %eng:	well, I think that [...] fourteen
 *RAN:	www . 156548_159195
-*NEL:	www +//. 159572_160699
-*NEL:	www ? 160704_163175
+*NEL:	www . 159572_160699
+*NEL:	www . 160704_163175
 *DOR:	[- spa] y los xxx que están grabando Nel@s:cym&spa . 163332_166317
 %eng:	[...] they are recording Nel.
-*NEL:	+< ww ? 164514_165013
+*NEL:	+< www ? 164514_165013
 *DOR:	[- spa] ven . 167108_167688
 %eng:	come.
 *DOR:	[- spa] sentate acá . 167682_168425
@@ -111,11 +111,11 @@
 *DOR:	[- spa] ven . 168948_169627
 %eng:	come.
 *NEL:	www . 170103_171555
-*RAN:	www ? 171469_174906
-*RAN:	www ? 175429_176822
+*RAN:	www . 171469_174906
+*RAN:	www . 175429_176822
 *DOR:	na dim llawer nes oedd taid Griffiths@s:cym&spa yn wneud lle ei hun . 176420_179966
 %eng:	no, not many, until Grampa Griffiths made his own place
-*RAN:	ww . 180064_180674
+*RAN:	www . 180064_180674
 *DOR:	oedden nhw (we)di dod yn y cerbyd lawr dyffryn o Trelew@s:cym&spa . 180238_183234
 %eng:	they had come in the coach down the valley from Trelew
 *DOR:	nain a (y)r plant . 184405_185880
@@ -125,15 +125,15 @@
 %eng:	he hadn't put anything in place for them when they arrived
 *DOR:	<yn gorfodi> [?] nhw ofyn am le fan (y)na i sefyll . 194058_196903
 %eng:	forcing them to ask for a place there to stay
-*RAN:	ww . 197699_198407
+*RAN:	www . 197699_198407
 *RAN:	www . 199050_203913
 *DOR:	ie . 203954_204378
 %eng:	yes
-*RAN:	ww . 206583_207489
-*RAN:	www ? 208343_214120
+*RAN:	www . 206583_207489
+*RAN:	www . 208343_214120
 *DOR:	wel dw i (ddi)m yn siŵr iawn os oedd o (y)n mynd xxx wagenni . 214178_218155
 %eng:	well, I'm not quite sure whether he used to go [...] wagons
-*JOA:	+< ww ! 217331_218231
+*JOA:	+< www ! 217331_218231
 *DOR:	xxx licio mynd i hel aur oedd o +... 218068_220517
 %eng:	[...] he used to like collecting gold...
 *RAN:	www . 220985_222781
@@ -150,8 +150,8 @@
 %eng:	no, but that was mother's father
 *DOR:	i roid lle iddyn nhw . 243250_244696
 %eng:	to give them somewhere
-*JOA:	ww . 244799_246674
-*RAN:	ww . 247831_248650
+*JOA:	www . 244799_246674
+*RAN:	www . 247831_248650
 *DOR:	<(dy)na fo> [?] ddim tad ni . 248925_250690
 %eng:	that's it, not our father
 *RAN:	www . 251229_253040
@@ -159,17 +159,17 @@
 %eng:	our father, you said
 *RAN:	www . 254615_259772
 *DOR:	xxx . 259875_260299
-*RAN:	ww . 260310_260763
-*RAN:	www ? 261530_265152
+*RAN:	www . 260310_260763
+*RAN:	www . 261530_265152
 *DOR:	wel dw i ddim yn siŵr iawn . 265439_267303
 %eng:	well, I'm not quite sure
-*RAN:	www ? 271412_272515
+*RAN:	www . 271412_272515
 *DOR:	na . 272592_273161
 %eng:	no
 @Comment:	pause in conversation
 *DOR:	xxx . 281431_283434
 *JOA:	www . 284186_286375
-*NEL:	www +/. 291571_293138
+*NEL:	www . 291571_293138
 *DOR:	[- spa] cállate que están grabando xxx [=! whispers] . 292703_295263
 %eng:	be quiet, they are recording [...] .
 *NEL:	www [=! whispers] . 296793_302396
@@ -178,7 +178,7 @@
 *DOR:	xxx . 319817_322674
 *JOA:	www [=! whispers] . 322302_323866
 *DOR:	xxx . 323802_324655
-*NEL:	ww . 325812_326329
+*NEL:	www . 325812_326329
 *JOA:	www [=! whispers] . 327176_329045
 *DOR:	mae wedi dechrau glawio (.) &=grunt . 329201_331796
 %eng:	it's started to rain
@@ -190,11 +190,11 @@
 %eng:	let me sit there then
 *NEL:	www . 344834_346151
 *DOR:	xxx . 346546_347231
-*NEL:	ww ? 346738_347289
+*NEL:	www ? 346738_347289
 *DOR:	[- spa] vení acá . 347653_348524
 %eng:	come here.
-*NEL:	www +/. 348559_350434
-*RAN:	www ! 350393_351995
+*NEL:	www . 348559_350434
+*RAN:	www . 350393_351995
 *RAN:	www . 355015_361172
 *DOR:	ie . 360774_361314
 %eng:	yes
@@ -216,29 +216,29 @@
 *DOR:	xxx . 417071_418952
 @Comment:	pause
 *JOA:	www . 431354_433717
-*RAN:	www ? 434154_443049
+*RAN:	www . 434154_443049
 *DOR:	wel dw i meddwl . 443197_444404
 %eng:	well, I think so
 *RAN:	www . 445406_446828
-*RAN:	www ! 446822_447942
+*RAN:	www . 446822_447942
 *DOR:	wel mae <rhaid i mi> [?] fynd xxx ? 448703_450683
 %eng:	well, I have to go, [...]?
-*RAN:	www ? 453156_456041
+*RAN:	www . 453156_456041
 *DOR:	wnes i ofyn diwrnod o_blaen . 456452_458356
 %eng:	I asked the other day
-*RAN:	ww ? 458362_458809
+*RAN:	www ? 458362_458809
 *DOR:	ond rŵan <dim gwybod> [?] os (y)dy hi (we)di bod heddiw . 459155_461489
 %eng:	but now [...] whether she's come today
 *DOR:	wnes i (ddi)m cofio gofyn iddi heddiw . 462200_464679
 %eng:	I didn't remember to ask her today
 *RAN:	&=grunt . 469916_470624
-*RAN:	www +... 474915_478555
+*RAN:	www . 474915_478555
 *DOR:	ond mae (y)n dechrau glawio . 478911_480571
 %eng:	but it's starting to rain
 *RAN:	www . 480622_485041
 *RAN:	www . 485035_487920
 *JOA:	www . 492018_496895
-*RAN:	www ? 503454_506426
+*RAN:	www . 503454_506426
 *DOR:	oh@s:cym&spa na(g) oes [?] . 506613_507594
 %eng:	no, I haven't
 *DOR:	dim_byd newydd . 507978_509028
@@ -246,62 +246,62 @@
 @Comment:	pause
 *DOR:	uh dw i (ddi)m yn siŵr . 520667_521607
 %eng:	er, I'm not sure
-*RAN:	www ? 523329_529029
+*RAN:	www . 523329_529029
 *DOR:	ar twenty@s:eng cinco@s:spa oedd hi (y)n meddwl dod . 529069_531205
 %eng:	on the 25th, she was thinking of coming
 *DOR:	at y dau_ddeg pump . 531758_532745
 %eng:	for the 25th
-*RAN:	www ? 534472_538582
+*RAN:	www . 534472_538582
 *DOR:	na . 538641_539134
 %eng:	no
 *RAN:	www . 539488_541524
 *DOR:	mae raid i fi alw arni h(i) [?] . 541536_543045
 %eng:	I need to call her
 @Comment:	long pause
-*JOA:	ww [=! whispers] . 584108_584653
+*JOA:	www [=! whispers] . 584108_584653
 *JOA:	www [=! whispers] . 586238_590539
 @Comment:	pause
-*RAN:	www ? 607708_612053
+*RAN:	www . 607708_612053
 *DOR:	bore (y)ma do . 611791_612650
 %eng:	this morning, yes
-*RAN:	www ? 613455_614784
+*RAN:	www . 613455_614784
 *DOR:	mae hi reit dda . 614843_616265
 %eng:	she's very well
-*RAN:	www ? 618544_621423
+*RAN:	www . 618544_621423
 *DOR:	oedd oedd hi reit dda heddiw . 622214_623897
 %eng:	yes, she was very well today
-*RAN:	ww . 624089_624652
+*RAN:	www . 624089_624652
 *RAN:	www . 626561_628343
 *DOR:	yndy . 628465_629150
 %eng:	she does
-*RAN:	www ? 632314_633597
+*RAN:	www . 632314_633597
 *DOR:	oedd . 633684_634044
 %eng:	yes
-*RAN:	ww . 634885_635390
-*RAN:	www ? 637342_639304
+*RAN:	www . 634885_635390
+*RAN:	www . 637342_639304
 *DOR:	eh@s:cym&spa (..) Gilberto@s:cym&spa . 639725_643905
 %eng:	er, Gilberto
-*RAN:	www ? 646224_647797
+*RAN:	www . 646224_647797
 *DOR:	Marco@s:cym&spa (.) Marco_Gilberto@s:cym&spa [//] Mark_Gilberto@s:cym&spa . 648193_651670
-*RAN:	ww ? 651711_652541
+*RAN:	www ? 651711_652541
 *DOR:	mmhm . 652524_653023
 %eng:	mmhm
-*RAN:	ww . 653006_653557
-*RAN:	www ? 655920_659171
+*RAN:	www . 653006_653557
+*RAN:	www . 655920_659171
 *DOR:	wel mae hi awydd dod . 660132_661502
 %eng:	well, she wants to come
 *DOR:	ond wrth bod hi ddim yn iawn (dy)dy hi (ddi)m awydd teithio . 661502_664196
 %eng:	but since she isn't well she doesn't want to travel
-*RAN:	www ? 669306_676104
+*RAN:	www . 669306_676104
 *DOR:	wel mae (y)r hogan yn brysyr iawn yn yr ysgol . 677612_680276
 %eng:	well, the girl is very busy at school
-*RAN:	www ? 681691_685284
+*RAN:	www . 681691_685284
 *DOR:	Lago_Puelo@s:cym&spa . 685377_686184
-*RAN:	ww . 686194_687088
-*RAN:	www ? 689950_692440
+*RAN:	www . 686194_687088
+*RAN:	www . 689950_692440
 *DOR:	na [?] dim baswn i feddwl . 692443_694498
 %eng:	no, none, I would think
-*RAN:	www ? 693778_694736
+*RAN:	www . 693778_694736
 *RAN:	www . 697248_701178
 *DOR:	maen nhw meddwl awydd dod at veinticinco@s:spa dw i (y)n credu . 701457_704772
 %eng:	they're thinking of wanting to come for the 25th I think
@@ -310,24 +310,24 @@
 *NEL:	www . 708653_711933
 *DOR:	<eh@s:cym&spa acá@s:spa> [?] . 711883_713557
 %eng:	eh here.
-*NEL:	www ? 713574_715281
-*NEL:	www ? 716756_718997
-*DOR:	ww [=! whispers] . 718258_718897
+*NEL:	www . 713574_715281
+*NEL:	www . 716756_718997
+*DOR:	www [=! whispers] . 718258_718897
 *NEL:	www . 719437_724185
 *NEL:	www . 725276_728939
-*RAN:	www ? 736991_743518
+*RAN:	www . 736991_743518
 *DOR:	mae o lot gwell rŵan . 743572_744954
 %eng:	he's much better now
 *RAN:	www . 745940_748703
-*DOR:	yndy  . 748576_748872
+*DOR:	yndy . 748576_748872
 %eng:	yes.
 *DOR:	ond mae o (y)n mynd o_hyd i weld y doctor@s:cym&spa yndy . 748861_751520
 %eng:	but he's still going to see the doctor isn't he.
-*RAN:	www ? 752227_752651
-*RAN:	www ? 752645_753487
+*RAN:	www . 752227_752651
+*RAN:	www . 752645_753487
 *DOR:	ie . 753499_753853
 %eng:	yes
-*RAN:	www ? 755300_756821
+*RAN:	www . 755300_756821
 *NEL:	+< www . 756251_757975
 *DOR:	wel dw i (ddi)m yn gwybod . 757144_757974
 %eng:	well, I don't know
@@ -339,33 +339,33 @@
 @Comment:	pause
 *RAN:	&=clears_throat . 776300_777485
 @Comment:	long pause
-*RAN:	&=clears_throat www +..? 809534_815891
+*RAN:	&=clears_throat www . 809534_815891
 *DOR:	yn y ffarm ? 816021_817025
 %eng:	on the farm?
-*RAN:	ww . 817454_817982
+*RAN:	www . 817454_817982
 *RAN:	www . 818574_820374
 *DOR:	Sharon@s:cym&spa ? 821522_822248
-*RAN:	ww . 822381_823089
+*RAN:	www . 822381_823089
 *DOR:	mmhm . 823113_823710
 %eng:	mmhm
-*RAN:	www ? 824617_825772
+*RAN:	www . 824617_825772
 *DOR:	yndy . 825801_826306
 %eng:	yes
 *DOR:	mae hi (we)di galw arna i heddiw . 827116_829026
 %eng:	she's called on me today
-*RAN:	www ? 830036_831006
+*RAN:	www . 830036_831006
 *DOR:	yndy . 831000_831516
 %eng:	yes
-*RAN:	ww . 831522_832056
+*RAN:	www . 831522_832056
 @Comment:	pause
 *DOR:	ac o(eddw)n i (y)n weithio hefo Saesnes arall ar y ffarm . 841263_844508
 %eng:	and I used to work with another Englishwoman on the farm
-*RAN:	www ? 845086_845760
+*RAN:	www . 845086_845760
 *DOR:	efo Saesnes (.) arall ar y ffarm . 845835_848639
 %eng:	with an Englishwoman, another one on the farm
 *DOR:	bues i ddeg blynedd efo hi . 850121_852008
 %eng:	I was with her for ten years
-*RAN:	www ? 854179_855137
+*RAN:	www . 854179_855137
 *DOR:	ie . 855114_855520
 %eng:	yes
 *RAN:	www . 861205_866359
@@ -376,14 +376,14 @@
 %eng:	mm, well I'd really like to go but... there we are
 *JOA:	&=groan . 879245_880412
 @Comment:	long pause
-*RAN:	www ? 910422_914415
+*RAN:	www . 910422_914415
 *DOR:	na (doe)s gyda fi (ddi)m llawer o amser . 915535_917845
 %eng:	no, I don't have much time
 *NEL:	www . 917960_918970
-*RAN:	www ? 918895_921768
+*RAN:	www . 918895_921768
 *DOR:	mae raid i ni gael sbel weithiau . 923192_925230
 %eng:	we need to have a rest sometimes
-*RAN:	www ! 927093_929409
+*RAN:	www . 927093_929409
 *DOR:	&=laugh ie siŵr ! 929114_930455
 %eng:	yes, of course!
 *RAN:	www . 934015_938839
@@ -396,14 +396,14 @@
 %eng:	[...] coming to get it now
 *NEL:	www . 946304_947889
 *RAN:	www . 948701_954709
-*RAN:	www +... 957533_960110
+*RAN:	www . 957533_960110
 *NEL:	www . 960878_962613
 *DOR:	[- spa] vamos a esperar que se vaya . 963484_964819
 %eng:	let's wait until he/she leaves.
 *NEL:	www . 964749_967112
 *JOA:	www . 967555_968861
 *DOR:	+< xxx [=! whispers] . 968025_968826
-*RAN:	www ? 968440_974569
+*RAN:	www . 968440_974569
 *DOR:	mmhm . 974561_974991
 %eng:	mmhm
 *RAN:	www . 978466_983346
@@ -417,25 +417,25 @@
 %eng:	well, I'll have to look into it
 @Comment:	pause
 *RAN:	&=clears_throat . 1011342_1011737
-*RAN:	www ? 1013903_1020131
+*RAN:	www . 1013903_1020131
 *DOR:	wel (dy)dy hi (dd)im gwybod yn iawn eto . 1020651_1023083
 %eng:	well, she doesn't really know yet
-*RAN:	www ? 1025290_1028070
+*RAN:	www . 1025290_1028070
 *DOR:	wel (ba)sai hi (y)n licio dod ond xxx (dy)dy hi (ddi)m gallu dod . 1029428_1033646
 %eng:	well, she'd like to come, but [...] she can't come
-*RAN:	www ? 1040897_1044317
+*RAN:	www . 1040897_1044317
 *DOR:	hanner awr wedi tri . 1044344_1045615
 %eng:	half past three
-*RAN:	www ? 1045545_1047745
-*RAN:	ww ! 1048810_1049519
-*JOA:	ww . 1050125_1050815
-*JOA:	www ! 1051762_1053115
-*RAN:	www ? 1059318_1061378
+*RAN:	www . 1045545_1047745
+*RAN:	www ! 1048810_1049519
+*JOA:	www . 1050125_1050815
+*JOA:	www . 1051762_1053115
+*RAN:	www . 1059318_1061378
 *JOA:	www . 1062856_1064313
 *DOR:	[- spa] las tres y veinticinco . 1065380_1066808
 %eng:	25 past three.
-*RAN:	ww ? 1067875_1068287
-*JOA:	ww . 1068252_1068792
+*RAN:	www ? 1067875_1068287
+*JOA:	www . 1068252_1068792
 *DOR:	[- spa] las tres y veinticinco . 1068885_1070586
 %eng:	25 past three.
 *DOR:	xxx <Laura@s:cym&spa am bod> [?] hi (y)n dod (y)n_ôl i mi xxx . 1073081_1076175
@@ -446,42 +446,42 @@
 %eng:	yes
 *RAN:	&=clears_throat . 1081132_1082229
 *JOA:	www . 1082669_1084028
-*NEL:	+< ww ? 1083023_1083371
+*NEL:	+< www ? 1083023_1083371
 *NEL:	www . 1085329_1088836
 *JOA:	+< www . 1087323_1088380
 *JOA:	+< www . 1088501_1089807
-*RAN:	ww ? 1089813_1090202
+*RAN:	www ? 1089813_1090202
 *JOA:	www . 1090644_1091932
 *RAN:	www . 1091961_1093929
-*JOA:	ww . 1094459_1095382
-*RAN:	ww . 1095361_1095997
+*JOA:	www . 1094459_1095382
+*RAN:	www . 1095361_1095997
 *NEL:	www . 1097033_1100232
 *NEL:	www . 1101320_1103236
 *NEL:	www . 1103358_1106051
 *NEL:	www . 1106519_1109538
 *RAN:	+< &=hiss . 1108522_1109398
-*DOR:	[- spa] y vos qué tenés esta tarde? 1109489_1111242
+*DOR:	[- spa] y vos qué tenés esta tarde ? 1109489_1111242
 %eng:	what are you doing this afternoon.
-*RAN:	www +//. 1118292_1122462
-*RAN:	www ? 1122777_1125783
+*RAN:	www . 1118292_1122462
+*RAN:	www . 1122777_1125783
 *DOR:	+< xxx . 1125440_1126717
 *NEL:	&=noise ! 1125905_1127634
-*RAN:	www ? 1127254_1128368
+*RAN:	www . 1127254_1128368
 *DOR:	yn Esquel@s:cym&spa . 1128415_1129279
 %eng:	in Esquel
 *DOR:	mae o (y)n gweithio xxx computadoras@s:spa . 1129273_1131995
 %eng:	he works on computers.
-*RAN:	ww . 1132939_1133653
+*RAN:	www . 1132939_1133653
 *DOR:	yn yr ysgolion &=sniff . 1134095_1136040
 %eng:	in the schools
-*RAN:	www ? 1138252_1141125
+*RAN:	www . 1138252_1141125
 *DOR:	mmhm . 1141146_1141709
 %eng:	mmhm
 *NEL:	www . 1146333_1149061
-*NEL:	www ! 1150119_1152719
+*NEL:	www . 1150119_1152719
 @Comment:	pause
 *RAN:	www . 1162937_1164469
-*RAN:	www [=! whispers] ! 1164539_1166210
+*RAN:	www [=! whispers] . 1164539_1166210
 *DOR:	[- spa] xxx dejá . 1166615_1167521
 %eng:	[...] leave that.
 *DOR:	no vas a tocar ahí . 1167619_1168862
@@ -489,11 +489,11 @@
 *JOA:	&=sigh . 1169716_1170558
 @Comment:	pause
 *RAN:	www . 1179730_1186309
-*NEL:	ww . 1187164_1187581
+*NEL:	www . 1187164_1187581
 *DOR:	neithiwr <oedd hi> [?] ? 1187959_1188980
 %eng:	was it last night ?
 *RAN:	+< www . 1188069_1188963
-*RAN:	ww ? 1189277_1189567
+*RAN:	www ? 1189277_1189567
 *DOR:	neithiwr ? 1189592_1190335
 %eng:	last night?
 *RAN:	www . 1190491_1191327
@@ -507,7 +507,7 @@
 %eng:	mm, there must be something there, for sure
 @Comment:	pause
 *NEL:	www . 1210029_1211358
-*RAN:	www ? 1211897_1221970
+*RAN:	www . 1211897_1221970
 *DOR:	[- spa] no . 1222118_1222565
 %eng:	no
 *RAN:	www . 1227421_1230137
@@ -520,7 +520,7 @@
 *RAN:	www . 1245455_1253305
 *DOR:	wel dw i ddim gwybod . 1254369_1255559
 %eng:	well, I don't know
-*NEL:	ww . 1260736_1261439
+*NEL:	www . 1260736_1261439
 *RAN:	www . 1261543_1263377
 *RAN:	www . 1263464_1267311
 *NEL:	www . 1268703_1270874
@@ -535,33 +535,33 @@
 *DOR:	+< xxx [=! mumbles] . 1313923_1317743
 *RAN:	&=clears_throat . 1321484_1322506
 @Comment:	pause
-*OSE:	ww ! 1336792_1337222
+*OSE:	www ! 1336792_1337222
 %com:	OSE enters
-*OSE:	ww ! 1338211_1339018
+*OSE:	www ! 1338211_1339018
 *RAN:	www . 1339007_1341723
 *RAN:	www . 1344182_1348707
 *NEL:	www . 1348733_1350782
 *RAN:	www . 1350760_1353355
-*RAN:	www ? 1353963_1355797
-*OSE:	+< ww . 1355495_1355838
+*RAN:	www . 1353963_1355797
+*OSE:	+< www . 1355495_1355838
 *RAN:	www . 1355897_1357633
 *OSE:	+< www . 1356606_1359142
-*RAN:	www ? 1360577_1363686
-*OSE:	ww . 1363680_1364449
-*DOR:	[- spa] en esa xxx  está lloviendo xxx . 1370151_1373001
+*RAN:	www . 1360577_1363686
+*OSE:	www . 1363680_1364449
+*DOR:	[- spa] en esa xxx está lloviendo xxx . 1370151_1373001
 %eng:	in that [...] it is raining.
 *OSE:	www . 1373986_1376470
 *RAN:	www . 1383815_1384732
-*JOA:	ww . 1385154_1386205
+*JOA:	www . 1385154_1386205
 *DOR:	[- spa] chao pues (.) suerte . 1386193_1388236
 %eng:	bye, then, good luck.
 *JOA:	www . 1388638_1389782
-*OSE:	ww . 1389840_1390287
+*OSE:	www . 1389840_1390287
 *OSE:	www . 1390589_1391779
-*RAN:	ww ! 1391459_1392092
+*RAN:	www ! 1391459_1392092
 *DOR:	[- spa] xxx ? 1391959_1393172
 *OSE:	www . 1393127_1394148
-*DOR:	ww . 1394066_1395732
+*DOR:	www . 1394066_1395732
 *JOA:	www . 1395146_1396528
 *NEL:	www . 1397278_1398927
 *RAN:	www . 1398891_1403921
@@ -569,23 +569,23 @@
 *RAN:	www . 1411264_1415055
 *RAN:	www . 1415542_1417324
 *NEL:	www . 1420721_1424133
-*NEL:	www ? 1424751_1429093
+*NEL:	www . 1424751_1429093
 *DOR:	be [?] ? 1428429_1428934
 %eng:	what?
 *NEL:	[- spa] www . 1429486_1430125
 *DOR:	cath . 1430560_1431077
 %eng:	cat
-*NEL:	ww . 1432075_1433486
+*NEL:	www . 1432075_1433486
 *DOR:	xxx . 1433971_1435138
-*NEL:	ww . 1436148_1437326
+*NEL:	www . 1436148_1437326
 *DOR:	xxx . 1438288_1442265
-*NEL:	www +... 1442401_1445718
-*NEL:	ww . 1447935_1449338
-*NEL:	ww ? 1450346_1451636
+*NEL:	www . 1442401_1445718
+*NEL:	www . 1447935_1449338
+*NEL:	www ? 1450346_1451636
 *DOR:	eliffant . 1450973_1451949
 %eng:	elephant
 *NEL:	www . 1452553_1453499
-*DOR:	llyffant [?]  . 1454003_1455379
+*DOR:	llyffant [?] . 1454003_1455379
 %eng:	frog
 *NEL:	www . 1456462_1459527
 *DOR:	xxx . 1459837_1460847
@@ -600,86 +600,86 @@
 %eng:	er, the rainbow is after the rain"
 *NEL:	www . 1482226_1483944
 *DOR:	xxx ? 1484858_1486116
-*NEL:	ww ? 1486232_1486755
+*NEL:	www ? 1486232_1486755
 *DOR:	xxx . 1486900_1489660
 *NEL:	www . 1490731_1494024
 *DOR:	bwrdd . 1493921_1494992
 %eng:	table
 *NEL:	www . 1495216_1498954
 *DOR:	[- spa] este es [?] ? 1498637_1499711
-*NEL:	ww . 1499774_1501361
+*NEL:	www . 1499774_1501361
 *DOR:	[- spa] xxx ? 1501379_1503272
-*NEL:	ww . 1503225_1503968
+*NEL:	www . 1503225_1503968
 *DOR:	[- spa] xxx ? 1503950_1505895
 *NEL:	www . 1505959_1507892
-*RAN:	www ? 1507764_1510139
+*RAN:	www . 1507764_1510139
 *DOR:	xxx . 1510060_1511441
-*RAN:	www ! 1512085_1513276
+*RAN:	www . 1512085_1513276
 *DOR:	wel bod ti (we)di mynd i (y)r camp diwrnod o_blaen a gorfod troi (y)n_ôl . 1513528_1517243
 %eng:	well, that you went to the camp the other day and had to turn back
-*NEL:	ww . 1517896_1519528
-*NEL:	ww ! 1519590_1520896
-*NEL:	www ? 1521629_1523672
+*NEL:	www . 1517896_1519528
+*NEL:	www ! 1519590_1520896
+*NEL:	www . 1521629_1523672
 *DOR:	[- spa] qué ? 1523820_1524354
 %eng:	what ?
-*NEL:	ww . 1524378_1525440
+*NEL:	www . 1524378_1525440
 *DOR:	xxx . 1526414_1527377
-*NEL:	+< ww . 1526420_1527389
+*NEL:	+< www . 1526420_1527389
 *DOR:	cadair mawr . 1527482_1528696
 %eng:	big chair
 *NEL:	www . 1529627_1532511
 *DOR:	xxx . 1532516_1533138
-*NEL:	ww ? 1533804_1534408
+*NEL:	www ? 1533804_1534408
 *DOR:	xxx . 1534309_1534977
 *NEL:	www . 1539064_1542379
 *DOR:	mmhm . 1542478_1543227
 %eng:	mmhm
-*NEL:	ww . 1542838_1543965
+*NEL:	www . 1542838_1543965
 *DOR:	mmhm . 1543945_1544810
 %eng:	mmhm
 *DOR:	[- spa] mariposa . 1544740_1545629
 %eng:	butterfly.
 *NEL:	&=sniff www . 1545663_1548229
-*NEL:	www ? 1548357_1549994
+*NEL:	www . 1548357_1549994
 *DOR:	xxx buwch . 1551881_1553947
 %eng:	[...], buwch [cow]
-*NEL:	ww +/. 1554528_1554917
+*NEL:	www +/. 1554528_1554917
 *DOR:	xxx . 1554789_1557864
-*NEL:	ww . 1557679_1558306
+*NEL:	www . 1557679_1558306
 *DOR:	[- spa] xxx porque te portas mal . 1558816_1561521
 %eng:	[...] because you don't behave well.
-*NEL:	www +... 1562694_1565718
-*NEL:	ww . 1565843_1566783
-*DOR:	taid [?]  . 1566895_1567940
+*NEL:	www . 1562694_1565718
+*NEL:	www . 1565843_1566783
+*DOR:	taid [?] . 1566895_1567940
 %eng:	grandpa
 *NEL:	www . 1568432_1571300
 *DOR:	xxx . 1572248_1573008
-*NEL:	ww ? 1573020_1574327
+*NEL:	www ? 1573020_1574327
 *DOR:	xxx . 1574257_1575041
 *DOR:	&=laugh . 1576818_1577770
-*NEL:	ww . 1580081_1581219
+*NEL:	www . 1580081_1581219
 *DOR:	xxx . 1582526_1586096
 *NEL:	www . 1586103_1587414
 *NEL:	&=noise . 1588930_1592633
 *DOR:	[- spa] bajá los xxx . 1592584_1594291
 %eng:	put down the [...].
-*NEL:	+< ww . 1593664_1594482
+*NEL:	+< www . 1593664_1594482
 *DOR:	teliffon . 1595946_1596910
 %eng:	"telephone"
-*NEL:	www ? 1597938_1599662
+*NEL:	www . 1597938_1599662
 *DOR:	teliffon . 1600350_1601685
 %eng:	telephone
-*NEL:	ww . 1602791_1604068
+*NEL:	www . 1602791_1604068
 *DOR:	xxx . 1604704_1606033
-*NEL:	ww ? 1606097_1607601
+*NEL:	www ? 1606097_1607601
 *DOR:	mmhm . 1606945_1607810
 %eng:	mmhm
-*NEL:	ww . 1608422_1609513
+*NEL:	www . 1608422_1609513
 *DOR:	mm ? 1609990_1610519
-*NEL:	ww . 1610519_1611372
+*NEL:	www . 1610519_1611372
 *DOR:	calon ["] . 1611365_1611940
 %eng:	"heart"
-*NEL:	ww ? 1612712_1613199
+*NEL:	www ? 1612712_1613199
 *DOR:	[- spa] qué xxx ? 1613314_1614980
 %eng:	what [...].
 *NEL:	www . 1615359_1616793
@@ -692,7 +692,7 @@
 *DOR:	[- spa] pero mira mira a ver . 1623130_1625191
 %eng:	but look , look and see.
 @Comment:	pause
-*NEL:	ww [=! whispers] . 1632479_1633298
+*NEL:	www [=! whispers] . 1632479_1633298
 *DOR:	byddwn ni (we)di meddwl mynd i xxx pnawn (y)ma . 1637492_1639994
 %eng:	we'd have thought of going to [...] now
 *DOR:	ond mae (we)di xxx lawio rŵan . 1639865_1641316
@@ -702,7 +702,7 @@
 *RAN:	www . 1645012_1651878
 *DOR:	+< mmhm . 1647682_1648245
 %eng:	mmhm
-*NEL:	www ? 1654259_1656122
+*NEL:	www . 1654259_1656122
 *DOR:	[- spa] ahora . 1656332_1657187
 %eng:	now.
 *NEL:	www . 1658880_1660287
@@ -710,9 +710,9 @@
 %eng:	eh?
 @Comment:	pause
 *NEL:	www . 1669054_1673834
-*NEL:	ww . 1679322_1680674
+*NEL:	www . 1679322_1680674
 *DOR:	xxx . 1681075_1682346
-*NEL:	www ? 1682603_1684786
+*NEL:	www . 1682603_1684786
 *DOR:	buwch . 1684751_1685471
 %eng:	cow
 *NEL:	www . 1686824_1688641
@@ -720,21 +720,21 @@
 %eng:	it's better to stay home today
 *DOR:	mae hi rhy gas . 1691319_1692491
 %eng:	it's too nasty
-*RAN:	www ? 1693354_1700606
+*RAN:	www . 1693354_1700606
 *NEL:	www . 1700598_1701480
 *DOR:	mewn blwyddyn xxx . 1700836_1702270
 %eng:	in [...] a year
 *NEL:	www . 1702323_1704146
-*RAN:	+< www ? 1702515_1703455
-*RAN:	ww . 1704129_1704703
-*NEL:	ww . 1705531_1706582
+*RAN:	+< www . 1702515_1703455
+*RAN:	www . 1704129_1704703
+*NEL:	www . 1705531_1706582
 *DOR:	pob dwy flynedd mae hi (y)n gallu dod . 1708569_1711106
 %eng:	every two years she's able to come
-*NEL:	+< ww . 1709111_1710643
-*RAN:	www ? 1712433_1713316
+*NEL:	+< www . 1709111_1710643
+*RAN:	www . 1712433_1713316
 *DOR:	pob dwy flynedd mae hi (y)n gallu dod . 1713542_1715864
 %eng:	every two years she's able to come
-*RAN:	ww . 1715881_1716566
+*RAN:	www . 1715881_1716566
 *NEL:	www . 1717449_1718883
 *NEL:	www . 1721024_1724414
 *DOR:	&=yawn . 1724693_1725593
@@ -745,7 +745,7 @@
 %eng:	mm?
 *DOR:	mm ? 1739665_1740837
 %eng:	mm?
-*NEL:	ww . 1741059_1741913
+*NEL:	www . 1741059_1741913
 *DOR:	xxx +... 1742017_1742987
 *NEL:	&=whine . 1743105_1744446
 *DOR:	&=cough &=sniff . 1744667_1745765
@@ -753,10 +753,10 @@
 *DOR:	&=cough . 1749880_1751221
 *NEL:	www . 1751303_1753373
 *DOR:	xxx . 1755075_1757838
-*NEL:	ww . 1758083_1759197
+*NEL:	www . 1758083_1759197
 *DOR:	Nel@s:cym&spa ! 1762460_1763418
 *NEL:	www . 1763447_1764411
-*NEL:	www ! 1767287_1769011
+*NEL:	www . 1767287_1769011
 *NEL:	www . 1774020_1777114
 *NEL:	www . 1777132_1781107
 *NEL:	www . 1781282_1783070
@@ -784,7 +784,7 @@
 %eng:	it's possible I caught a cold yesterday
 *DOR:	&=blows_nose . 1851727_1853062
 @Comment:	long pause
-*RAN:	www ? 1875429_1882428
+*RAN:	www . 1875429_1882428
 *NEL:	+< www . 1881015_1882559
 *DOR:	&=sniff . 1882510_1883660
 *DOR:	wel dw i ddim yn gwybod yn iawn . 1885211_1887173
@@ -793,20 +793,20 @@
 %eng:	but it has been quite some time
 *DOR:	y ffarm gynta wnaeth o weithio yn [/] &k yn y dyffryn oedd xxx . 1889590_1894245
 %eng:	the first farm he worked at in the valley was [...]
-*RAN:	www ? 1897192_1898208
+*RAN:	www . 1897192_1898208
 *DOR:	y ffarm xxx wnaeth o weithio gynta pan ddoth o xxx . 1898233_1902180
 %eng:	the farm [...] was where he first worked when he came [...]
-*RAN:	+< www ? 1901251_1904388
+*RAN:	+< www . 1901251_1904388
 *DOR:	+< wel dw i (ddi)m yn +/. 1903180_1904521
 %eng:	well, I don't...
 *DOR:	xxx ddoth i_fyny [/] i_fyny i (y)r Andes@s:cym&spa i fyw <efo ni> [?] . 1904672_1908713
 %eng:	[...] he came up to the Andes to live with us
 *NEL:	+< www . 1907007_1910020
 *DOR:	+< xxx +... 1908616_1910503
-*RAN:	www +... 1911071_1915263
+*RAN:	www . 1911071_1915263
 *DOR:	yndy siŵr . 1915376_1916288
 %eng:	yes, absolutely
-*RAN:	+, www ? 1917325_1919008
+*RAN:	+, www . 1917325_1919008
 *DOR:	yn Gaiman@s:cym&spa . 1919031_1920001
 %eng:	in Gaiman
 *RAN:	www . 1920210_1921185
@@ -823,7 +823,7 @@
 *NEL:	www . 1963075_1964770
 *DOR:	wel mae (y)n beryg fydd [?] y bachgen (y)na (y)n gwlychu . 1967041_1969804
 %eng:	well, that boy's in danger of getting soaked
-*RAN:	www ? 1978139_1983657
+*RAN:	www . 1978139_1983657
 *NEL:	+< xxx . 1980900_1981811
 *DOR:	oedden . 1983651_1984156
 %eng:	yes

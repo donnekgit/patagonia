@@ -16,7 +16,7 @@
 @Comment:	Researchers: Margaret Deuchar and Peredur Davies, Bangor University
 @Time Duration:	00:22:16
 @Media:	Patagonia5, audio
-@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Unable to distinguish between CRI and FRA.
 @Warning:	OSE is Margaret Deuchar the first time, but Peredur Davies later on
 *ANA:	oh@s:cym&spa dyna fo . 203_1136
@@ -202,7 +202,7 @@
 *ANA:	ond mae raid gofalu roi o mewn pryd i (y)r [//] uh (.) i [/] i Sara@s:cym&spa &i &u roi o ar y (.) radio@s:cym&spa . 200583_209026
 %eng:	but must be careful to give it in time for Sara to put it on the radio
 *GLO:	+< oh@s:cym&spa mae isio (.) deud wrth Pamela@s:cym&spa +... 208199_210311
-%eng:	oh,  Pamela needs to be told...
+%eng:	oh, Pamela needs to be told...
 *GLO:	gofio [/] cofio gofyn i Pamela@s:cym&spa <er_mwyn> [/] uh er_mwyn iddi hi gael edrych fewn i +... 210202_215936
 %eng:	remember to ask Pamela so that she can look into...
 *ANA:	+< ie ie (.) wir . 210986_212250
@@ -385,7 +385,7 @@
 %eng:	I can't read the words
 *ANA:	a wedyn uh +//. 417735_418461
 %eng:	and then...
-*ANA:	dw i (y)n cofio geiriau Cymraeg  . 418456_419891
+*ANA:	dw i (y)n cofio geiriau Cymraeg . 418456_419891
 %eng:	I remember Welsh words,
 *ANA:	ond fedra i ddim cofio geiriau Sbaeneg . 419875_421736
 %eng:	but I can't remember Spanish words.
@@ -655,12 +655,12 @@
 %eng:	hello.
 *ANA:	[- spa] cuánto xxx ? 722931_724387
 %eng:	how much [...]
-*RES:	www ! 724931_726099
-*RES:	www ? 726906_730026
+*RES:	www . 724931_726099
+*RES:	www . 726906_730026
 *ANA:	eh@s:cym&spa ? 730335_730805
 %eng:	eh?
-*RES:	www ? 731364_735769
-*RES:	www ? 735876_738105
+*RES:	www . 731364_735769
+*RES:	www . 735876_738105
 *RES:	www . 738442_739786
 *RES:	www . 740693_742613
 *ANA:	wel a deud y gwir yn onest wrthych chi mae (y)n well gen i beidio cofio amdani hi ! 742813_747554
@@ -674,7 +674,7 @@
 *GLO:	dach chi wedi roi eich bys yn y lle &=laugh +... 751942_754934
 %eng:	you've put your finger on somewhere...
 *RES:	www . 754928_755504
-*RES:	www ? 755917_767737
+*RES:	www . 755917_767737
 *RES:	www . 768804_769834
 *ANA:	yn (.) lle buon ni ? 769979_771942
 %eng:	where we were?
@@ -686,8 +686,8 @@
 *RES:	+< www . 779693_781656
 *ANA:	oh@s:cym&spa . 782402_783192
 %eng:	oh.
-*RES:	www ? 783784_784247
-*RES:	www +... 784210_785047
+*RES:	www . 783784_784247
+*RES:	www . 784210_785047
 @Comment:	Researcher leaves room
 *GLO:	&=laugh . 785063_786951
 *GLO:	wel +/. 789517_790338
@@ -932,15 +932,15 @@
 *RES:	www . 1047605_1049077
 *GLO:	+< um +... 1048309_1048923
 %eng:	um...
-*RES:	www +... 1049334_1051339
-*RES:	www ? 1051788_1056545
-*RES:	www +/. 1056439_1057020
+*RES:	www . 1049334_1051339
+*RES:	www . 1051788_1056545
+*RES:	www . 1056439_1057020
 *ANA:	yn [///] uh uh yma yn Rawson@s:cym&spa ? 1056978_1058807
 %eng:	here in Rawson?
 *RES:	www . 1058621_1059367
 *ANA:	+< oh@s:cym&spa ychydig iawn . 1058866_1060018
 %eng:	oh, very few
-*RES:	www ? 1060041_1061936
+*RES:	www . 1060041_1061936
 *ANA:	+< &mb oh@s:cym&spa ychydig iawn ia . 1060699_1062619
 %eng:	oh, very few, yes
 *ANA:	oedd uh [///] mae misus [/] uh misus Elwyn_Lloyd@s:cym&spa . 1063064_1065960
@@ -967,20 +967,20 @@
 *GLO:	(ta)sen nhw (y)n gallu siarad . 1085712_1086506
 %eng:	if they were able to speak
 *ANA:	+< &=laugh . 1085866_1086405
-*GLO:	(ba)sech chi (y)n uh hoffi siarad ar y ffôn, na? 1086603_1089291
+*GLO:	(ba)sech chi (y)n uh hoffi siarad ar y ffôn, na ? 1086603_1089291
 %eng:	would you like to speak to them on the phone?
 *IGN:	yndan . 1088895_1089274
 %eng:	yes.
 *RES:	www . 1090109_1096519
 *ANA:	+< ie . 1107479_1107906
 %eng:	yes.
-*RES:	www  ? 1108269_1116247
+*RES:	www . 1108269_1116247
 *ANA:	gwahaniaeth yr uh +... 1116483_1118414
 %eng:	a difference of the, um...
-*RES:	++ www +/. 1119118_1120099
+*RES:	++ www . 1119118_1120099
 *ANA:	+, rhwng fan hyn gwaelod y dyffryn a (y)r Andes@s:cym&spa dach chi (y)n deud ? 1119300_1122621
 %eng:	between here the bottom of the valley here and the Andes, you're saying?
-*RES:	+< www +/. 1120184_1121854
+*RES:	+< www . 1120184_1121854
 *RES:	www . 1122127_1123012
 *ANA:	oh@s:cym&spa wel oes . 1122963_1124259
 %eng:	oh, well yes

@@ -12,7 +12,7 @@
 @Comment:	Researchers: Margaret Deuchar and Peredur Davies, Bangor University
 @Time Duration:	00:23:33
 @Media:	Patagonia4, audio
-@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *SLA:	wel +... 107_619
 %eng:	well...
 *SLA:	mae (y)r teulu fi yn dod yn wreiddiol o (..) ochr mam o Dinas_Mawddwy@s:cym&spa . 1056_6743
@@ -556,7 +556,7 @@
 *EZK:	mae +//. 434884_435183
 *EZK:	<oedd um> [//] oedd o (y)n (.) dyn oedd yn ysgrifennu dw i (y)n meddwl . 435208_438365
 %eng:	he was a man who wrote, I think
-*EZK:	ac um &dɪ  [//] tynnu lluniau . 439013_441471
+*EZK:	ac um &dɪ [//] tynnu lluniau . 439013_441471
 %eng:	and um...
 *EZK:	a wedyn mae [/] mae (y)r teulu dal efo (y)r &s (.) <efo (y)r &s> [//] efo (y)r ysgrifen (y)ma . 441560_445293
 %eng:	and then, the family still has this writing.
@@ -942,7 +942,7 @@
 %eng:	er, horse.
 *SLA:	ceffylau . 762259_763544
 %eng:	horses.
-*SLA:	pa un oedda chdi (y)n hoffi mwya? 764105_765870
+*SLA:	pa un oedda chdi (y)n hoffi mwya ? 764105_765870
 %eng:	which one did you like the most?
 *EZK:	+< ia &n +/. 764292_764836
 %eng:	yes.

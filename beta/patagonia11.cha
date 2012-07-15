@@ -13,7 +13,7 @@
 @Comment:	Researchers: Peredur Davies and Margaret Deuchar, Bangor University
 @Time Duration:	00:43:59
 @Media:	Patagonia11, audio
-@Comment:	Language markers:  @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:cym&spa = Undetermined, @s:spa+cym = word with first morpheme(s) Spanish, second morpheme(s) Welsh, @s:cym+spa = word with first morpheme(s) Welsh, second morpheme(s) Spanish. Untagged words are Welsh except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *HER:	alla i ddeud jyst iawn nad dan ni (e)rioed (we)di bod hefo (ei)n_gilydd fel teulu . 0_4411
 %eng:	I can easily say we've never been together as a family.
 *GAB:	naddo dach chi ddim wedi bod efo (ei)ch_gilydd na . 3051_6471
@@ -85,7 +85,7 @@
 *HER:	+< ie . 47454_47667
 %eng:	yes.
 *GAB:	a be wnest ti (.) priodi ? 47699_49203
-%eng:	and what did you do  marry?
+%eng:	and what did you do marry?
 *GAB:	a wedyn (.) hogyn (.) ie . 49304_51805
 %eng:	and... a boy... yes.
 *HER:	+< do . 49373_49645
@@ -199,7 +199,7 @@
 *HER:	mm mm +... 130240_131467
 %eng:	mm.
 *GAB:	o(eddw)n i (y)n deud wrth Isabel@s:cym&spa achos &a (.) yn y pnawn o(eddw)n i (y)n eiste(dd) efo Dewi@s:cym&spa a Isabel@s:cym&spa +/. 131094_135127
-%eng:	I was saying to Isabel  because I sat with Dewi and Isabel in the afternoon...
+%eng:	I was saying to Isabel because I sat with Dewi and Isabel in the afternoon...
 *HER:	ia . 135187_135400
 %eng:	yes.
 *GAB:	achos o(eddw)n i (y)n gallu (.) newid y sêt yn y pnawn welaist ti ? 135309_138054
@@ -231,7 +231,7 @@
 *HER:	+< (e)rioed wedi meddwl bo(d) fi +... 150919_152338
 %eng:	never thought I...
 *GAB:	na <dw i (y)n gwybod> [/] dw i (y)n gwybod bo(d) ti ddim yn disgwyl dim_byd ond +... 151928_154909
-%eng:	no I know  I know you weren't expecting anything but...
+%eng:	no I know I know you weren't expecting anything but...
 *HER:	+< yn haeddu . 153245_154066
 %eng:	deserve .
 *HER:	ond uh +... 154872_155485
@@ -2710,7 +2710,7 @@
 %eng:	they'd come up with something to...
 *HER:	ddim yn curo nhw . 1951273_1952617
 %eng:	not beat them.
-*GAB:	+< i gael &kɒ  . 1951360_1952448
+*GAB:	+< i gael &kɒ . 1951360_1952448
 %eng:	to get...
 *GAB:	+< na . 1952448_1952661
 %eng:	no.

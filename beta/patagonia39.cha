@@ -231,7 +231,7 @@
 %eng:	hello?
 *AMA:	[- spa] buenas tardes . 135997_136606
 %eng:	good evening.
-*AMA:	[- spa] cómo le va  ? 136606_137280
+*AMA:	[- spa] cómo le va ? 136606_137280
 %eng:	how are you doing?
 *AMA:	[- spa] bien &es +//. 138397_139222
 %eng:	good.
@@ -239,7 +239,7 @@
 %eng:	I'm in the village.
 *AMA:	[- spa] sí . 142069_142504
 %eng:	yes.
-*AMA:	[- spa] sí sí xxx   . 143181_143982
+*AMA:	[- spa] sí sí xxx  . 143181_143982
 %eng:	yes yes [...].
 *AMA:	[- spa] vos también ? 143976_144719
 %eng:	you too ?
@@ -686,7 +686,7 @@
 %eng:	yes.
 *LIA:	oedd . 435262_435791
 %eng:	yes.
-*AMA:	oedd o braidd yn ormod no@s:spa oedd? 435702_437616
+*AMA:	oedd o braidd yn ormod no@s:spa oedd ? 435702_437616
 %eng:	it was a bit too much, wasn't it?
 *LIA:	+< oedd . 436896_437222
 %eng:	yes.
@@ -2463,7 +2463,7 @@
 %eng:	that's it.
 *AMA:	yndy . 1564103_1564626
 %eng:	yes.
-*AMA:	xxx <mae (y)na> [/] mae (y)na  xxx um um xxx . 1565503_1569481
+*AMA:	xxx <mae (y)na> [/] mae (y)na xxx um um xxx . 1565503_1569481
 %eng:	[...] there's [...] um [...]
 *LIA:	+< oes . 1567443_1567931
 %eng:	yes.
